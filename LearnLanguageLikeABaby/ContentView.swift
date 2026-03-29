@@ -216,6 +216,7 @@ final class LessonSessionModel: ObservableObject {
 
 struct ContentView: View {
     @StateObject private var session = LessonSessionModel()
+    @State private var micHoldStarted = false
 
     var body: some View {
         NavigationStack {
@@ -466,10 +467,24 @@ struct ContentView: View {
 
     private var micArea: some View {
         VStack(spacing: 10) {
-            if let hint = session.voiceHint {
+            if let auth = session.voice.authorizationMessage, !auth.isEmpty {
+                Text(auth)
+                    .font(.footnote)
+                    .foregroundStyle(.red)
+                    .multilineTextAlignment(.center)
+                    .padding(.horizontal)
+            } else if let hint = session.voiceHint, !hint.isEmpty {
                 Text(hint)
                     .font(.footnote)
                     .foregroundStyle(.orange)
+                    .multilineTextAlignment(.center)
+                    .padding(.horizontal)
+            }
+
+            if !session.voice.debugState.isEmpty {
+                Text(session.voice.debugState)
+                    .font(.caption2)
+                    .foregroundStyle(.secondary)
                     .multilineTextAlignment(.center)
                     .padding(.horizontal)
             }
@@ -494,11 +509,12 @@ struct ContentView: View {
             .gesture(
                 DragGesture(minimumDistance: 0)
                     .onChanged { _ in
-                        if !session.voice.isListening {
-                            session.beginHoldToTalk()
-                        }
+                        guard !micHoldStarted else { return }
+                        micHoldStarted = true
+                        session.beginHoldToTalk()
                     }
                     .onEnded { _ in
+                        micHoldStarted = false
                         if session.voice.isListening {
                             session.endHoldToTalk()
                         }
