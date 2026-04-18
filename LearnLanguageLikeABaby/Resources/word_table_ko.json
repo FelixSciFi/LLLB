@@ -1,0 +1,11 @@
+{
+  "words": [
+    { "rank": 1, "lemma": "엄마",     "translation": { "zh": "妈妈", "en": "Mom" },       "emoji": "👩", "cefr": "A1", "ipa": "ɘmma" },
+    { "rank": 2, "lemma": "아빠",     "translation": { "zh": "爸爸", "en": "Dad" },       "emoji": "👨", "cefr": "A1", "ipa": "appa" },
+    { "rank": 3, "lemma": "아기",     "translation": { "zh": "宝宝", "en": "Baby" },      "emoji": "👶", "cefr": "A1", "ipa": "agi" },
+    { "rank": 4, "lemma": "네",       "translation": { "zh": "是",   "en": "Yes" },       "emoji": "✅", "cefr": "A1", "ipa": "ne" },
+    { "rank": 5, "lemma": "아니요",   "translation": { "zh": "不",   "en": "No" },        "emoji": "❌", "cefr": "A1", "ipa": "aniyo" },
+    { "rank": 6, "lemma": "감사합니다","translation": { "zh": "谢谢", "en": "Thank you" }, "emoji": "🙏", "cefr": "A2", "ipa": "kamsahamnida" },
+    { "rank": 7, "lemma": "안녕하세요","translation": { "zh": "你好", "en": "Hello" },     "emoji": "👋", "cefr": "A2", "ipa": "annyeonghaseyo" }
+  ]
+}

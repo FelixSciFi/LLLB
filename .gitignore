@@ -1,0 +1,36 @@
+# ── macOS ──────────────────────────────────────────────────────────────────────
+.DS_Store
+**/.DS_Store
+
+# ── Xcode build artifacts ──────────────────────────────────────────────────────
+.DerivedData/
+*.xcuserstate
+xcuserdata/
+LearnLanguageLikeABaby.xcodeproj/xcuserdata/
+LearnLanguageLikeABaby.xcodeproj/project.xcworkspace/xcuserdata/
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# ── Python / tooling ───────────────────────────────────────────────────────────
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pydeps/
+.streamlit/
+
+# ── IDE / editor ───────────────────────────────────────────────────────────────
+.claude/
+.cursor/
+.vscode/
+
+# ── Misc ───────────────────────────────────────────────────────────────────────
+# Temporary / scratch PNGs at repo root
+4F2D0146-CBC7-4586-9F3B-CA99D50B1791.png
+
+# Nested git repo (separate experimental project)
+LLLB/

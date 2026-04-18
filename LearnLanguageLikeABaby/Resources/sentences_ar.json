@@ -1,0 +1,130 @@
+{
+  "sentences": [
+    {
+      "id": "ar-0001-0000-0000-000000000001",
+      "text": "أمي",
+      "ipa": "ʔummi",
+      "translation": { "zh": "妈妈", "en": "Mom" },
+      "cefr": "A1",
+      "rank": 1,
+      "tokens": [
+        {
+          "text": "أمي",
+          "lemma": "أم",
+          "emoji": "👩",
+          "ipa": "ʔummi",
+          "translation": { "zh": "妈妈", "en": "Mom" }
+        }
+      ]
+    },
+    {
+      "id": "ar-0001-0000-0000-000000000002",
+      "text": "أبي",
+      "ipa": "ʔabi",
+      "translation": { "zh": "爸爸", "en": "Dad" },
+      "cefr": "A1",
+      "rank": 2,
+      "tokens": [
+        {
+          "text": "أبي",
+          "lemma": "أب",
+          "emoji": "👨",
+          "ipa": "ʔabi",
+          "translation": { "zh": "爸爸", "en": "Dad" }
+        }
+      ]
+    },
+    {
+      "id": "ar-0001-0000-0000-000000000003",
+      "text": "طفل",
+      "ipa": "tˤifl",
+      "translation": { "zh": "宝宝", "en": "Baby" },
+      "cefr": "A1",
+      "rank": 3,
+      "tokens": [
+        {
+          "text": "طفل",
+          "lemma": "طفل",
+          "emoji": "👶",
+          "ipa": "tˤifl",
+          "translation": { "zh": "宝宝", "en": "Baby" }
+        }
+      ]
+    },
+    {
+      "id": "ar-0001-0000-0000-000000000004",
+      "text": "نعم",
+      "ipa": "naʕam",
+      "translation": { "zh": "是", "en": "Yes" },
+      "cefr": "A1",
+      "rank": 4,
+      "tokens": [
+        {
+          "text": "نعم",
+          "lemma": "نعم",
+          "emoji": "✅",
+          "ipa": "naʕam",
+          "translation": { "zh": "是", "en": "Yes" }
+        }
+      ]
+    },
+    {
+      "id": "ar-0001-0000-0000-000000000005",
+      "text": "لا",
+      "ipa": "laː",
+      "translation": { "zh": "不", "en": "No" },
+      "cefr": "A1",
+      "rank": 5,
+      "tokens": [
+        {
+          "text": "لا",
+          "lemma": "لا",
+          "emoji": "❌",
+          "ipa": "laː",
+          "translation": { "zh": "不", "en": "No" }
+        }
+      ]
+    },
+    {
+      "id": "ar-0002-0000-0000-000000000001",
+      "text": "شكراً",
+      "ipa": "ʃukran",
+      "translation": { "zh": "谢谢", "en": "Thank you" },
+      "cefr": "A2",
+      "rank": 6,
+      "tokens": [
+        {
+          "text": "شكراً",
+          "lemma": "شكر",
+          "emoji": "🙏",
+          "ipa": "ʃukran",
+          "translation": { "zh": "谢谢", "en": "Thank you" }
+        }
+      ]
+    },
+    {
+      "id": "ar-0002-0000-0000-000000000002",
+      "text": "صباح الخير",
+      "ipa": "sˤabaːħ al xaɪr",
+      "translation": { "zh": "早上好", "en": "Good morning" },
+      "cefr": "A2",
+      "rank": 7,
+      "tokens": [
+        {
+          "text": "صباح",
+          "lemma": "صباح",
+          "emoji": "🌅",
+          "ipa": "sˤabaːħ",
+          "translation": { "zh": "早上", "en": "morning" }
+        },
+        {
+          "text": "الخير",
+          "lemma": "خير",
+          "emoji": "✨",
+          "ipa": "al xaɪr",
+          "translation": { "zh": "好", "en": "good" }
+        }
+      ]
+    }
+  ]
+}

@@ -41,9 +41,24 @@
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
 	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>audio</string>
+	</array>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>按住说话，练习法语发音；音频仅在设备上处理。</string>
 	<key>NSSpeechRecognitionUsageDescription</key>
 	<string>将您的语音转为文字，用于在离线例句库中查找相关句子。</string>
+	<key>NSSupportsLiveActivities</key>
+	<true/>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>lllb</string>
+			</array>
+		</dict>
+	</array>
 </dict>
 </plist>

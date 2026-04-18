@@ -14,7 +14,6 @@ final class VoiceInputController: NSObject, ObservableObject {
     @Published private(set) var authorizationMessage: String?
     @Published private(set) var speechAuthorized = false
     @Published private(set) var micAuthorized = false
-    @Published private(set) var debugState: String = ""
 
     private let audioEngine = AVAudioEngine()
     private var request: SFSpeechAudioBufferRecognitionRequest?
@@ -32,24 +31,21 @@ final class VoiceInputController: NSObject, ObservableObject {
     }
 
     func requestAuthorization() {
-        setDebugState("请求语音识别权限…")
         SFSpeechRecognizer.requestAuthorization { [weak self] status in
             DispatchQueue.main.async {
                 guard let self else { return }
                 self.speechAuthorized = (status == .authorized)
                 switch status {
                 case .authorized:
-                    self.setDebugState("语音识别权限：已授权")
                     if self.authorizationMessage == "请在设置中允许语音识别。" {
                         self.authorizationMessage = nil
                     }
                 case .denied, .restricted:
                     self.authorizationMessage = "请在设置中允许语音识别。"
-                    self.setDebugState("语音识别权限：被拒绝或受限")
                 case .notDetermined:
-                    self.setDebugState("语音识别权限：未决定")
+                    break
                 @unknown default:
-                    self.setDebugState("语音识别权限：未知状态")
+                    break
                 }
             }
         }
@@ -58,19 +54,13 @@ final class VoiceInputController: NSObject, ObservableObject {
     }
 
     private func requestMicrophoneAuthorization() {
-        setDebugState("请求麦克风权限…")
         if #available(iOS 17.0, *) {
             AVAudioApplication.requestRecordPermission { [weak self] granted in
                 DispatchQueue.main.async {
                     guard let self else { return }
                     self.refreshRecordPermissionFlag()
-                    if granted {
-                        self.setDebugState("麦克风权限：已授权")
-                    } else if AVAudioSession.sharedInstance().recordPermission == .denied {
+                    if !granted, AVAudioSession.sharedInstance().recordPermission == .denied {
                         self.authorizationMessage = "请在设置中允许麦克风，才能录音识别。"
-                        self.setDebugState("麦克风权限：已拒绝")
-                    } else {
-                        self.setDebugState("麦克风权限：未授权")
                     }
                 }
             }
@@ -79,13 +69,8 @@ final class VoiceInputController: NSObject, ObservableObject {
                 DispatchQueue.main.async {
                     guard let self else { return }
                     self.refreshRecordPermissionFlag()
-                    if granted {
-                        self.setDebugState("麦克风权限：已授权")
-                    } else if AVAudioSession.sharedInstance().recordPermission == .denied {
+                    if !granted, AVAudioSession.sharedInstance().recordPermission == .denied {
                         self.authorizationMessage = "请在设置中允许麦克风，才能录音识别。"
-                        self.setDebugState("麦克风权限：已拒绝")
-                    } else {
-                        self.setDebugState("麦克风权限：未授权")
                     }
                 }
             }
@@ -98,7 +83,6 @@ final class VoiceInputController: NSObject, ObservableObject {
 
     func beginListening() {
         DispatchQueue.main.async {
-            self.debugState = "按下：准备聆听…"
             self.beginListeningOnMain()
         }
     }
@@ -106,7 +90,6 @@ final class VoiceInputController: NSObject, ObservableObject {
     private func beginListeningOnMain() {
         guard let recognizer, recognizer.isAvailable else {
             authorizationMessage = "当前设备法语识别不可用。"
-            debugState = "recognizer 不可用"
             return
         }
 
@@ -114,24 +97,24 @@ final class VoiceInputController: NSObject, ObservableObject {
         refreshRecordPermissionFlag()
 
         guard speechAuthorized, micAuthorized else {
+            requestAuthorization()
             if !speechAuthorized {
-                authorizationMessage = "语音识别未授权：请在设置中允许语音识别。"
-                debugState = "speech 未授权"
+                authorizationMessage = "语音识别未授权：请在弹窗中选择允许，或到设置中开启。"
             } else {
                 let recordPermission = AVAudioSession.sharedInstance().recordPermission
                 if recordPermission == .denied {
                     authorizationMessage = "麦克风未授权：请到「设置」中开启麦克风，才能按住说话。"
                 } else {
-                    authorizationMessage = "麦克风权限未确定：请先响应系统弹窗允许麦克风，或到设置中开启。"
+                    authorizationMessage = "麦克风权限未确定：请响应系统弹窗允许麦克风后再试。"
                 }
-                debugState = "麦克风未授权"
             }
             return
         }
 
         cancelSession()
         latestResult = nil
-        debugState = "开始聆听…"
+
+        Thread.sleep(forTimeInterval: 0.15)
 
         let session = AVAudioSession.sharedInstance()
         do {
@@ -140,7 +123,6 @@ final class VoiceInputController: NSObject, ObservableObject {
         } catch {
             performSessionCleanup()
             authorizationMessage = "无法启动音频会话：\(error.localizedDescription)"
-            debugState = "setCategory/setActive 失败"
             return
         }
 
@@ -148,7 +130,6 @@ final class VoiceInputController: NSObject, ObservableObject {
         guard let request else {
             performSessionCleanup()
             authorizationMessage = "无法创建语音识别请求。"
-            debugState = "request nil"
             return
         }
         request.shouldReportPartialResults = true
@@ -171,11 +152,8 @@ final class VoiceInputController: NSObject, ObservableObject {
         } catch {
             performSessionCleanup()
             authorizationMessage = "音频引擎启动失败：\(error.localizedDescription)"
-            debugState = "audioEngine.start 失败"
             return
         }
-
-        debugState = "音频引擎已启动"
 
         task = recognizer.recognitionTask(with: request) { [weak self] result, error in
             guard let self else { return }
@@ -183,7 +161,6 @@ final class VoiceInputController: NSObject, ObservableObject {
                 DispatchQueue.main.async {
                     self.performSessionCleanup()
                     self.authorizationMessage = "语音识别出错：\(error.localizedDescription)"
-                    self.debugState = "recognition error"
                 }
                 return
             }
@@ -192,13 +169,11 @@ final class VoiceInputController: NSObject, ObservableObject {
                 self.resultLock.lock()
                 self.latestResult = result
                 self.resultLock.unlock()
-                self.debugState = result.isFinal ? "收到识别最终结果" : "收到识别中间结果"
             }
         }
 
         isListening = true
         authorizationMessage = nil
-        debugState = "识别任务已开始"
     }
 
     /// Stops capture; after a short delay (so the final hypothesis can arrive), invokes `completion` on the main queue.
@@ -208,7 +183,6 @@ final class VoiceInputController: NSObject, ObservableObject {
                 DispatchQueue.main.async { completion([]) }
                 return
             }
-            self.debugState = "结束录音，等待识别收尾…"
 
             self.audioEngine.inputNode.removeTap(onBus: 0)
             if self.audioEngine.isRunning {
@@ -229,8 +203,6 @@ final class VoiceInputController: NSObject, ObservableObject {
                 self.resultLock.unlock()
 
                 self.performSessionCleanup()
-
-                self.debugState = result == nil ? "已停止（无识别结果）" : "已停止，准备返回候选"
 
                 let cands = Self.buildCandidates(from: result, maxCount: maxCount)
                 DispatchQueue.main.async {
@@ -274,11 +246,5 @@ final class VoiceInputController: NSObject, ObservableObject {
         task = nil
         try? AVAudioSession.sharedInstance().setActive(false, options: .notifyOthersOnDeactivation)
         isListening = false
-    }
-
-    private func setDebugState(_ text: String) {
-        DispatchQueue.main.async {
-            self.debugState = text
-        }
     }
 }

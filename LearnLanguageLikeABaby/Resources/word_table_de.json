@@ -1,0 +1,12 @@
+{
+  "words": [
+    { "rank": 1, "lemma": "mama",   "translation": { "zh": "妈妈", "en": "Mom" },       "emoji": "👩", "cefr": "A1", "ipa": "ˈmaːma" },
+    { "rank": 2, "lemma": "papa",   "translation": { "zh": "爸爸", "en": "Dad" },       "emoji": "👨", "cefr": "A1", "ipa": "ˈpaːpa" },
+    { "rank": 3, "lemma": "baby",   "translation": { "zh": "宝宝", "en": "Baby" },      "emoji": "👶", "cefr": "A1", "ipa": "ˈbeɪbi" },
+    { "rank": 4, "lemma": "ja",     "translation": { "zh": "是",   "en": "Yes" },       "emoji": "✅", "cefr": "A1", "ipa": "jaː" },
+    { "rank": 5, "lemma": "nein",   "translation": { "zh": "不",   "en": "No" },        "emoji": "❌", "cefr": "A1", "ipa": "naɪn" },
+    { "rank": 6, "lemma": "danke",  "translation": { "zh": "谢谢", "en": "Thank you" }, "emoji": "🙏", "cefr": "A2", "ipa": "ˈdaŋkə" },
+    { "rank": 7, "lemma": "gut",    "translation": { "zh": "好",   "en": "good" },      "emoji": "👍", "cefr": "A2", "ipa": "ɡuːt" },
+    { "rank": 8, "lemma": "morgen", "translation": { "zh": "早上", "en": "morning" },   "emoji": "🌅", "cefr": "A2", "ipa": "ˈmɔrɡən" }
+  ]
+}

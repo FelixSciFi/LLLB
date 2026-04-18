@@ -1,0 +1,41 @@
+
+
+192. [tm11]
+N'oublie pas l'heure du couvre-feu.
+别忘了宵禁时间。
+
+193. [tm12]
+C'était hier, pas demain.
+那是昨天，不是明天。
+
+194. [tm13]
+Le dernier train part à minuit.
+末班车午夜开。
+
+195. [tm14]
+On avance l'heure ce week-end.
+这周末调夏令时。
+
+196. [tm15]
+Dans un mois, c'est mon anniversaire.
+再过一个月就是我生日。
+
+197. [tm16]
+Je travaille du lundi au vendredi.
+我周一到周五上班。
+
+198. [tm17]
+L'été commence en juin.
+夏天从六月开始。
+
+199. [tm18]
+Pendant les vacances, le bureau est fermé.
+假期里办公室关门。
+
+200. [tm19]
+Il reste dix minutes avant la fermeture.
+还有十分钟关门。
+
+201. [tm20]
+Synchronise tes montres à midi pile.
+中午整点对表。

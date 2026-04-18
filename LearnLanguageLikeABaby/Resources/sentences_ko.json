@@ -1,0 +1,123 @@
+{
+  "sentences": [
+    {
+      "id": "ko-0001-0000-0000-000000000001",
+      "text": "엄마",
+      "ipa": "ɘmma",
+      "translation": { "zh": "妈妈", "en": "Mom" },
+      "cefr": "A1",
+      "rank": 1,
+      "tokens": [
+        {
+          "text": "엄마",
+          "lemma": "엄마",
+          "emoji": "👩",
+          "ipa": "ɘmma",
+          "translation": { "zh": "妈妈", "en": "Mom" }
+        }
+      ]
+    },
+    {
+      "id": "ko-0001-0000-0000-000000000002",
+      "text": "아빠",
+      "ipa": "appa",
+      "translation": { "zh": "爸爸", "en": "Dad" },
+      "cefr": "A1",
+      "rank": 2,
+      "tokens": [
+        {
+          "text": "아빠",
+          "lemma": "아빠",
+          "emoji": "👨",
+          "ipa": "appa",
+          "translation": { "zh": "爸爸", "en": "Dad" }
+        }
+      ]
+    },
+    {
+      "id": "ko-0001-0000-0000-000000000003",
+      "text": "아기",
+      "ipa": "agi",
+      "translation": { "zh": "宝宝", "en": "Baby" },
+      "cefr": "A1",
+      "rank": 3,
+      "tokens": [
+        {
+          "text": "아기",
+          "lemma": "아기",
+          "emoji": "👶",
+          "ipa": "agi",
+          "translation": { "zh": "宝宝", "en": "Baby" }
+        }
+      ]
+    },
+    {
+      "id": "ko-0001-0000-0000-000000000004",
+      "text": "네",
+      "ipa": "ne",
+      "translation": { "zh": "是", "en": "Yes" },
+      "cefr": "A1",
+      "rank": 4,
+      "tokens": [
+        {
+          "text": "네",
+          "lemma": "네",
+          "emoji": "✅",
+          "ipa": "ne",
+          "translation": { "zh": "是", "en": "Yes" }
+        }
+      ]
+    },
+    {
+      "id": "ko-0001-0000-0000-000000000005",
+      "text": "아니요",
+      "ipa": "aniyo",
+      "translation": { "zh": "不", "en": "No" },
+      "cefr": "A1",
+      "rank": 5,
+      "tokens": [
+        {
+          "text": "아니요",
+          "lemma": "아니요",
+          "emoji": "❌",
+          "ipa": "aniyo",
+          "translation": { "zh": "不", "en": "No" }
+        }
+      ]
+    },
+    {
+      "id": "ko-0002-0000-0000-000000000001",
+      "text": "감사합니다",
+      "ipa": "kamsahamnida",
+      "translation": { "zh": "谢谢", "en": "Thank you" },
+      "cefr": "A2",
+      "rank": 6,
+      "tokens": [
+        {
+          "text": "감사합니다",
+          "lemma": "감사합니다",
+          "emoji": "🙏",
+          "ipa": "kamsahamnida",
+          "translation": { "zh": "谢谢", "en": "Thank you" }
+        }
+      ]
+    },
+    {
+      "id": "ko-0002-0000-0000-000000000002",
+      "text": "안녕하세요",
+      "ipa": "annyeonghaseyo",
+      "translation": { "zh": "你好", "en": "Hello" },
+      "cefr": "A2",
+      "rank": 7,
+      "tokens": [
+        {
+          "text": "안녕하세요",
+          "lemma": "안녕하세요",
+          "emoji": "👋",
+          "ipa": "annyeonghaseyo",
+          "translation": { "zh": "你好", "en": "Hello" }
+        }
+      ]
+    }
+  ]
+}

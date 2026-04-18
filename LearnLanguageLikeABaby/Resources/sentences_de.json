@@ -1,0 +1,130 @@
+{
+  "sentences": [
+    {
+      "id": "de-0001-0000-0000-000000000001",
+      "text": "Mama",
+      "ipa": "ˈmaːma",
+      "translation": { "zh": "妈妈", "en": "Mom" },
+      "cefr": "A1",
+      "rank": 1,
+      "tokens": [
+        {
+          "text": "Mama",
+          "lemma": "mama",
+          "emoji": "👩",
+          "ipa": "ˈmaːma",
+          "translation": { "zh": "妈妈", "en": "Mom" }
+        }
+      ]
+    },
+    {
+      "id": "de-0001-0000-0000-000000000002",
+      "text": "Papa",
+      "ipa": "ˈpaːpa",
+      "translation": { "zh": "爸爸", "en": "Dad" },
+      "cefr": "A1",
+      "rank": 2,
+      "tokens": [
+        {
+          "text": "Papa",
+          "lemma": "papa",
+          "emoji": "👨",
+          "ipa": "ˈpaːpa",
+          "translation": { "zh": "爸爸", "en": "Dad" }
+        }
+      ]
+    },
+    {
+      "id": "de-0001-0000-0000-000000000003",
+      "text": "Baby",
+      "ipa": "ˈbeɪbi",
+      "translation": { "zh": "宝宝", "en": "Baby" },
+      "cefr": "A1",
+      "rank": 3,
+      "tokens": [
+        {
+          "text": "Baby",
+          "lemma": "baby",
+          "emoji": "👶",
+          "ipa": "ˈbeɪbi",
+          "translation": { "zh": "宝宝", "en": "Baby" }
+        }
+      ]
+    },
+    {
+      "id": "de-0001-0000-0000-000000000004",
+      "text": "Ja",
+      "ipa": "jaː",
+      "translation": { "zh": "是", "en": "Yes" },
+      "cefr": "A1",
+      "rank": 4,
+      "tokens": [
+        {
+          "text": "Ja",
+          "lemma": "ja",
+          "emoji": "✅",
+          "ipa": "jaː",
+          "translation": { "zh": "是", "en": "Yes" }
+        }
+      ]
+    },
+    {
+      "id": "de-0001-0000-0000-000000000005",
+      "text": "Nein",
+      "ipa": "naɪn",
+      "translation": { "zh": "不", "en": "No" },
+      "cefr": "A1",
+      "rank": 5,
+      "tokens": [
+        {
+          "text": "Nein",
+          "lemma": "nein",
+          "emoji": "❌",
+          "ipa": "naɪn",
+          "translation": { "zh": "不", "en": "No" }
+        }
+      ]
+    },
+    {
+      "id": "de-0002-0000-0000-000000000001",
+      "text": "Danke",
+      "ipa": "ˈdaŋkə",
+      "translation": { "zh": "谢谢", "en": "Thank you" },
+      "cefr": "A2",
+      "rank": 6,
+      "tokens": [
+        {
+          "text": "Danke",
+          "lemma": "danke",
+          "emoji": "🙏",
+          "ipa": "ˈdaŋkə",
+          "translation": { "zh": "谢谢", "en": "Thank you" }
+        }
+      ]
+    },
+    {
+      "id": "de-0002-0000-0000-000000000002",
+      "text": "Guten Morgen",
+      "ipa": "ˈɡuːtən ˈmɔrɡən",
+      "translation": { "zh": "早上好", "en": "Good morning" },
+      "cefr": "A2",
+      "rank": 7,
+      "tokens": [
+        {
+          "text": "Guten",
+          "lemma": "gut",
+          "emoji": "👍",
+          "ipa": "ˈɡuːtən",
+          "translation": { "zh": "好", "en": "good" }
+        },
+        {
+          "text": "Morgen",
+          "lemma": "morgen",
+          "emoji": "🌅",
+          "ipa": "ˈmɔrɡən",
+          "translation": { "zh": "早上", "en": "morning" }
+        }
+      ]
+    }
+  ]
+}

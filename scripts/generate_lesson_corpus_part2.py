@@ -1,0 +1,872 @@
+# -*- coding: utf-8 -*-
+"""Scenes 3–10: 20 sentences each (160 total). Appended to RAW in generate_lesson_corpus.py."""
+
+RAW_MORE = [
+    # --- 3. Chemin & transport (dr01–dr20) ---
+    ("dr01", "Excusez-moi, où est la gare ?", "ɛkskyze mwa u ɛ la gaʁ", "打扰一下，火车站在哪？", [
+        ("Excusez-moi", None, 0, "", "ɛkskyze mwa", "打扰一下"),
+        (", où est ", "être", 0, "", ", u ɛ ", "在哪"),
+        ("la gare", "gare", 1, "🚉", "la gaʁ", "火车站"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("dr02", "C'est loin à pied ?", "sɛ lwɛ̃ a pje", "走路远吗？", [
+        ("C'est loin ", "loin", 0, "", "sɛ lwɛ̃ ", "远吗"),
+        ("à pied", "pied", 1, "🚶", "a pje", "走路"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("dr03", "Je cherche l'arrêt de bus.", "ʒə ʃɛʁʃ laʁɛ də bys", "我找公交车站。", [
+        ("Je cherche ", "chercher", 0, "", "ʒə ʃɛʁʃ ", "我找"),
+        ("l'arrêt de bus", "bus", 1, "🚌", "laʁɛ də bys", "公交车站"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("dr04", "Un ticket de métro, s'il vous plaît.", "œ̃ tikɛ də metro sil vu plɛ", "请给我一张地铁票。", [
+        ("Un ticket ", "ticket", 1, "🎫", "œ̃ tikɛ ", "一张票"),
+        ("de métro", "métro", 1, "🚇", "də metro", "地铁"),
+        (", s'il vous plaît.", None, 0, "", ", sil vu plɛ.", "请"),
+    ]),
+    ("dr05", "Le prochain train part dans dix minutes.", "lə pʁɔʃɛ̃ tʁɛ̃ paʁ dɑ̃ dis minyt", "下一班火车十分钟后开。", [
+        ("Le prochain train ", "train", 1, "🚆", "lə pʁɔʃɛ̃ tʁɛ̃ ", "下一班火车"),
+        ("part ", "partir", 0, "", "paʁ ", "出发"),
+        ("dans dix minutes", "minute", 1, "⏱️", "dɑ̃ dis minyt", "十分钟后"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("dr06", "Tournez à droite au feu.", "tuʁne a dʁwat o fø", "红绿灯处右转。", [
+        ("Tournez ", "tourner", 0, "", "tuʁne ", "转"),
+        ("à droite ", "droite", 0, "", "a dʁwat ", "右"),
+        ("au feu", "feu", 1, "🚦", "o fø", "红绿灯"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("dr07", "Je voudrais un taxi pour l'aéroport.", "ʒə vudʁɛ œ̃ taksi puʁ laeʁɔpɔʁ", "我想打车去机场。", [
+        ("Je voudrais ", "vouloir", 0, "", "ʒə vudʁɛ ", "我想要"),
+        ("un taxi ", "taxi", 1, "🚕", "œ̃ taksi ", "出租车"),
+        ("pour l'aéroport", "aéroport", 1, "✈️", "puʁ laeʁɔpɔʁ", "去机场"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("dr08", "Où puis-je valider mon pass ?", "y pɥiʒə validɛ mɔ̃ pas", "我在哪刷交通卡？", [
+        ("Où puis-je ", "pouvoir", 0, "", "y pɥiʒə ", "我在哪能"),
+        ("valider ", "valider", 0, "", "validɛ ", "刷卡验证"),
+        ("mon pass", "pass", 1, "💳", "mɔ̃ pas", "我的卡"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("dr09", "La ligne deux est en retard.", "la liɲ dø ɛt ɑ̃ ʁətaʁ", "二号线晚点了。", [
+        ("La ligne ", "ligne", 1, "🚇", "la liɲ ", "线路"),
+        ("deux ", None, 0, "2️⃣", "dø ", "二"),
+        ("est en retard", "retard", 0, "", "ɛt ɑ̃ ʁətaʁ", "晚点"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("dr10", "À quelle station je descends ?", "a kɛl stasjɔ̃ ʒə desɑ̃", "我该哪一站下车？", [
+        ("À quelle station ", "station", 1, "🚉", "a kɛl stasjɔ̃ ", "哪一站"),
+        ("je descends", "descendre", 0, "", "ʒə desɑ̃", "我下车"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("dr11", "Y a-t-il des travaux sur cette route ?", "ja til de tʁavo syʁ sɛt ʁut", "这条路在施工吗？", [
+        ("Y a-t-il ", "avoir", 0, "", "ja til ", "有"),
+        ("des travaux ", "travaux", 1, "🚧", "de tʁavo ", "施工"),
+        ("sur cette route", "route", 1, "🛣️", "syʁ sɛt ʁut", "在这条路"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("dr12", "Le parking est complet.", "lə paʁkiŋ ɛ kɔ̃plɛ", "停车场满了。", [
+        ("Le parking ", "parking", 1, "🅿️", "lə paʁkiŋ ", "停车场"),
+        ("est complet", "complet", 0, "", "ɛ kɔ̃plɛ", "满了"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("dr13", "Je préfère le vélo en ville.", "ʒə pʁefɛʁ lə velo ɑ̃ vil", "在城里我更喜欢骑车。", [
+        ("Je préfère ", "préférer", 0, "", "ʒə pʁefɛʁ ", "我更喜欢"),
+        ("le vélo ", "vélo", 1, "🚲", "lə velo ", "自行车"),
+        ("en ville", "ville", 1, "🏙️", "ɑ̃ vil", "在城里"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("dr14", "Le GPS ne marche pas.", "lə ʒepeɛs nə maʁʃ pa", "导航坏了。", [
+        ("Le GPS ", None, 1, "📍", "lə ʒepeɛs ", "GPS"),
+        ("ne marche pas", "marcher", 0, "", "nə maʁʃ pa", "不工作"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("dr15", "Montez deux étages, s'il vous plaît.", "mɔ̃te dø etaʒ sil vu plɛ", "请上两层。", [
+        ("Montez ", "monter", 0, "", "mɔ̃te ", "请上"),
+        ("deux étages", "étage", 0, "", "dø etaʒ", "两层"),
+        (", s'il vous plaît.", None, 0, "", ", sil vu plɛ.", "请"),
+    ]),
+    ("dr16", "La correspondance est en face.", "la kɔʁɛspɔ̃dɑ̃s ɛt ɑ̃ fas", "换乘在对面的。", [
+        ("La correspondance ", "correspondance", 1, "🔀", "la kɔʁɛspɔ̃dɑ̃s ", "换乘"),
+        ("est en face", "face", 0, "", "ɛt ɑ̃ fas", "在对面"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("dr17", "Attention aux pickpockets dans le métro.", "atɑ̃sjɔ̃ o pikpɔkɛ dɑ̃ lə metro", "地铁里小心扒手。", [
+        ("Attention ", None, 0, "", "atɑ̃sjɔ̃ ", "注意"),
+        ("aux pickpockets ", "pickpocket", 1, "👛", "o pikpɔkɛ ", "扒手"),
+        ("dans le métro", "métro", 1, "🚇", "dɑ̃ lə metro", "在地铁里"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("dr18", "Je suis en retard, je cours.", "ʒə sɥiz ɑ̃ ʁətaʁ ʒə kuʁ", "我迟到了，在跑。", [
+        ("Je suis en retard", "retard", 0, "", "ʒə sɥiz ɑ̃ ʁətaʁ", "我迟到"),
+        (", je cours", "courir", 1, "🏃", ", ʒə kuʁ", "我跑"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("dr19", "Le pont est fermé pour travaux.", "lə pɔ̃ ɛ fɛʁme puʁ tʁavo", "桥因施工封闭。", [
+        ("Le pont ", "pont", 1, "🌉", "lə pɔ̃ ", "桥"),
+        ("est fermé ", "fermer", 0, "", "ɛ fɛʁme ", "封闭"),
+        ("pour travaux", "travaux", 1, "🚧", "puʁ tʁavo", "因为施工"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("dr20", "Pouvez-vous m'indiquer sur la carte ?", "puve vu ɛ̃dike syʁ la kaʁt", "您能在地图上指给我吗？", [
+        ("Pouvez-vous m'indiquer ", "indiquer", 0, "", "puve vu ɛ̃dike ", "您能指给我"),
+        ("sur la carte", "carte", 1, "🗺️", "syʁ la kaʁt", "在地图上"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    # --- 4. Salutations (gr01–gr20) ---
+    ("gr01", "Bonjour, comment allez-vous ?", "bɔ̃ʒuʁ kɔmɑ̃talevu", "您好，您好吗？", [
+        ("Bonjour", None, 0, "👋", "bɔ̃ʒuʁ", "你好"),
+        (", comment allez-vous", "aller", 0, "", ", kɔmɑ̃talevu", "您好吗"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("gr02", "Ça va bien, merci, et toi ?", "sa va bjɛ̃ mɛʁsi e twa", "我很好，谢谢，你呢？", [
+        ("Ça va bien", "bien", 0, "", "sa va bjɛ̃", "很好"),
+        (", merci", None, 0, "", ", mɛʁsi", "谢谢"),
+        (", et toi", None, 0, "", ", e twa", "你呢"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("gr03", "Enchanté, je m'appelle Lucas.", "ɑ̃ʃɑ̃te ʒə mapɛl lyka", "很高兴认识你，我叫卢卡斯。", [
+        ("Enchanté", None, 0, "", "ɑ̃ʃɑ̃te", "很高兴"),
+        (", je m'appelle ", "appeler", 0, "", ", ʒə mapɛl ", "我叫"),
+        ("Lucas", None, 0, "", "lyka", "卢卡斯"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("gr04", "Bonne journée, à bientôt !", "bɔn ʒuʁne a bjɛ̃to", "祝你有美好的一天，回头见！", [
+        ("Bonne journée", "journée", 1, "☀️", "bɔn ʒuʁne", "祝一天愉快"),
+        (", à bientôt", None, 0, "", ", a bjɛ̃to", "回头见"),
+        (" !", None, 0, "", " !", ""),
+    ]),
+    ("gr05", "On se voit demain au bureau ?", "ɔ̃ sə vwa dəmɛ̃ o byʁo", "我们明天办公室见？", [
+        ("On se voit ", "voir", 0, "", "ɔ̃ sə vwa ", "我们见"),
+        ("demain ", "demain", 1, "📅", "dəmɛ̃ ", "明天"),
+        ("au bureau", "bureau", 1, "🏢", "o byʁo", "在办公室"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("gr06", "Félicitations pour ton nouveau poste !", "felisitasjɔ̃ puʁ tɔ̃ nuvo pɔst", "恭喜你新职位！", [
+        ("Félicitations ", "félicitation", 1, "🎉", "felisitasjɔ̃ ", "恭喜"),
+        ("pour ton nouveau poste", "poste", 1, "💼", "puʁ tɔ̃ nuvo pɔst", "新职位"),
+        (" !", None, 0, "", " !", ""),
+    ]),
+    ("gr07", "Bon courage pour ton examen.", "bɔ̃ kuʁaʒ puʁ tɔ̃ ɛɡzamɛ̃", "考试加油。", [
+        ("Bon courage ", "courage", 0, "", "bɔ̃ kuʁaʒ ", "加油"),
+        ("pour ton examen", "examen", 1, "📝", "puʁ tɔ̃ ɛɡzamɛ̃", "考试"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("gr08", "Désolé, je suis pressé.", "dezɔle ʒə sɥi pʁese", "抱歉，我赶时间。", [
+        ("Désolé", None, 0, "", "dezɔle", "抱歉"),
+        (", je suis pressé", "pressé", 0, "", ", ʒə sɥi pʁese", "我赶时间"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("gr09", "Ça fait longtemps qu'on ne s'est pas vus !", "sa fɛ lɔ̃tɑ̃ kɔ̃ nə sɛ pa vy", "好久不见！", [
+        ("Ça fait longtemps ", "longtemps", 0, "", "sa fɛ lɔ̃tɑ̃ ", "好久"),
+        ("qu'on ne s'est pas vus", "voir", 0, "", "kɔ̃ nə sɛ pa vy", "不见"),
+        (" !", None, 0, "", " !", ""),
+    ]),
+    ("gr10", "Passe une bonne soirée.", "pas yn bɔn swaʁe", "祝你晚上愉快。", [
+        ("Passe ", "passer", 0, "", "pas ", "度过"),
+        ("une bonne soirée", "soirée", 1, "🌙", "yn bɔn swaʁe", "愉快的晚上"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("gr11", "Tu me manques beaucoup.", "ty mə mɑ̃k boku", "我很想你。", [
+        ("Tu me manques ", "manquer", 1, "💭", "ty mə mɑ̃k ", "你想我"),
+        ("beaucoup", None, 0, "", "boku", "很"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("gr12", "Bonne chance pour ton déménagement.", "bɔ̃ ʃɑ̃s puʁ tɔ̃ demenaʒmɑ̃", "搬家顺利。", [
+        ("Bonne chance ", "chance", 0, "", "bɔ̃ ʃɑ̃s ", "祝好运"),
+        ("pour ton déménagement", "déménagement", 1, "📦", "puʁ tɔ̃ demenaʒmɑ̃", "搬家"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("gr13", "Repose-toi bien ce week-end.", "ʁəpoz twa bjɛ̃ sə wikɛnd", "周末好好休息。", [
+        ("Repose-toi ", "reposer", 0, "", "ʁəpoz twa ", "休息"),
+        ("bien ", "bien", 0, "", "bjɛ̃ ", "好好"),
+        ("ce week-end", None, 1, "🛋️", "sə wikɛnd", "这个周末"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("gr14", "À tout à l'heure, j'arrive.", "a tut a lœʁ ʒaʁiv", "一会儿见，我到了。", [
+        ("À tout à l'heure", None, 0, "", "a tut a lœʁ", "一会儿见"),
+        (", j'arrive", "arriver", 0, "", ", ʒaʁiv", "我到了"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("gr15", "Salut les amis, ça roule ?", "saly lez ami sa ʁul", "嗨朋友们，还好吗？", [
+        ("Salut ", None, 0, "👋", "saly ", "嗨"),
+        ("les amis", "ami", 1, "🧑‍🤝‍🧑", "lez ami", "朋友们"),
+        (", ça roule", None, 0, "", ", sa ʁul", "还好吗"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("gr16", "Je te présente ma sœur.", "ʒə tə pʁezɑ̃t ma sœʁ", "我给你介绍一下我妹妹。", [
+        ("Je te présente ", "présenter", 0, "", "ʒə tə pʁezɑ̃t ", "我给你介绍"),
+        ("ma sœur", "sœur", 1, "👧", "ma sœʁ", "我妹妹"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("gr17", "Merci pour ton aide, c'est gentil.", "mɛʁsi puʁ tɔ̃ ɛd sɛ ʒɑ̃til", "谢谢你的帮助，你真好。", [
+        ("Merci pour ton aide", "aide", 1, "🤝", "mɛʁsi puʁ tɔ̃ ɛd", "谢谢帮助"),
+        (", c'est gentil", "gentil", 0, "", ", sɛ ʒɑ̃til", "真好"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("gr18", "Pas de quoi, avec plaisir.", "pa də kwa avɛk plɛziʁ", "不客气，乐意帮忙。", [
+        ("Pas de quoi", None, 0, "", "pa də kwa", "不客气"),
+        (", avec plaisir", "plaisir", 0, "", ", avɛk plɛziʁ", "乐意"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("gr19", "Bonne fête de fin d'année !", "bɔn fɛt də fɛ̃ dane", "年终节日快乐！", [
+        ("Bonne fête ", "fête", 1, "🎊", "bɔn fɛt ", "节日快乐"),
+        ("de fin d'année", "année", 1, "📆", "də fɛ̃ dane", "年终"),
+        (" !", None, 0, "", " !", ""),
+    ]),
+    ("gr20", "Prends soin de toi.", "pʁɑ̃ swɛ̃ də twa", "照顾好自己。", [
+        ("Prends soin de toi", "soin", 1, "💚", "pʁɑ̃ swɛ̃ də twa", "照顾好自己"),
+        (".", None, 0, "", "", ""),
+    ]),
+    # --- 5. Maison — quotidien (hm01–hm20) ---
+    ("hm01", "Je me lève à sept heures.", "ʒə mə lɛv a sɛt œʁ", "我七点起床。", [
+        ("Je me lève ", "lever", 1, "⏰", "ʒə mə lɛv ", "我起床"),
+        ("à sept heures", None, 0, "", "a sɛt œʁ", "七点"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hm02", "J'ai mal dormi cette nuit.", "ʒe mal dɔʁmi sɛt nɥi", "我昨晚没睡好。", [
+        ("J'ai mal dormi ", "dormir", 1, "😴", "ʒe mal dɔʁmi ", "没睡好"),
+        ("cette nuit", "nuit", 1, "🌙", "sɛt nɥi", "今晚"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hm03", "Le réveil sonne trop tôt.", "lə ʁevɛj sɔn tʁo to", "闹钟响得太早。", [
+        ("Le réveil ", "réveil", 1, "⏰", "lə ʁevɛj ", "闹钟"),
+        ("sonne ", "sonner", 0, "", "sɔn ", "响"),
+        ("trop tôt", "tôt", 0, "", "tʁo to", "太早"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hm04", "Je me brosse les dents.", "ʒə mə bʁɔs le dɑ̃", "我刷牙。", [
+        ("Je me brosse ", "brosser", 1, "🪥", "ʒə mə bʁɔs ", "我刷"),
+        ("les dents", "dent", 0, "", "le dɑ̃", "牙"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hm05", "On mange ensemble à midi.", "ɔ̃ mɑ̃ʒ ɑ̃sɑ̃bl a midi", "我们中午一起吃饭。", [
+        ("On mange ", "manger", 1, "🍽️", "ɔ̃ mɑ̃ʒ ", "我们吃"),
+        ("ensemble ", None, 0, "", "ɑ̃sɑ̃bl ", "一起"),
+        ("à midi", "midi", 1, "🕛", "a midi", "中午"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hm06", "Peux-tu mettre la table ?", "pø ty mɛtʁ la tabl", "你能摆一下桌子吗？", [
+        ("Peux-tu ", "pouvoir", 0, "", "pø ty ", "你能"),
+        ("mettre la table", "table", 1, "🍽️", "mɛtʁ la tabl", "摆桌子"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("hm07", "Il n'y a plus de lait dans le frigo.", "il ni a ply də lɛ dɑ̃ lə fʁiʒo", "冰箱里没牛奶了。", [
+        ("Il n'y a plus ", "avoir", 0, "", "il ni a ply ", "没有了"),
+        ("de lait ", "lait", 1, "🥛", "də lɛ ", "牛奶"),
+        ("dans le frigo", "frigo", 1, "🧊", "dɑ̃ lə fʁiʒo", "在冰箱"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hm08", "Range ta chambre, s'il te plaît.", "ʁɑ̃ʒ ta ʃɑ̃bʁ sil tə plɛ", "请收拾你的房间。", [
+        ("Range ", "ranger", 0, "", "ʁɑ̃ʒ ", "收拾"),
+        ("ta chambre", "chambre", 1, "🛏️", "ta ʃɑ̃bʁ", "你的房间"),
+        (", s'il te plaît.", None, 0, "", ", sil tə plɛ.", "请"),
+    ]),
+    ("hm09", "Je fais une sieste après le déjeuner.", "ʒə fɛz yn sjɛst apʁɛ lə deʒœne", "午饭后我午睡一会儿。", [
+        ("Je fais ", "faire", 0, "", "ʒə fɛz ", "我做"),
+        ("une sieste ", "sieste", 1, "😴", "yn sjɛst ", "午睡"),
+        ("après le déjeuner", "déjeuner", 1, "🍽️", "apʁɛ lə deʒœne", "午饭后"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hm10", "Il faut sortir les poubelles ce soir.", "il fo sɔʁtiʁ le pubɛl sə swaʁ", "今晚要倒垃圾。", [
+        ("Il faut ", "falloir", 0, "", "il fo ", "要"),
+        ("sortir les poubelles ", "poubelle", 1, "🗑️", "sɔʁtiʁ le pubɛl ", "倒垃圾"),
+        ("ce soir", "soir", 1, "🌆", "sə swaʁ", "今晚"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hm11", "Tu peux baisser le son de la télé ?", "ty pø bese lə sɔ̃ də la tele", "能把电视声音调小吗？", [
+        ("Tu peux ", "pouvoir", 0, "", "ty pø ", "你能"),
+        ("baisser le son ", "son", 0, "", "bese lə sɔ̃ ", "把声音调小"),
+        ("de la télé", "télévision", 1, "📺", "də la tele", "电视"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("hm12", "J'ai oublié d'éteindre la lumière.", "ʒe ublije detɛ̃dʁ la lymjɛʁ", "我忘了关灯。", [
+        ("J'ai oublié ", "oublier", 0, "", "ʒe ublije ", "我忘了"),
+        ("d'éteindre ", "éteindre", 0, "", "detɛ̃dʁ ", "关"),
+        ("la lumière", "lumière", 1, "💡", "la lymjɛʁ", "灯"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hm13", "Le chat a faim, donne-lui à manger.", "lə ʃa afɛ̃ dɔnlyi a mɑ̃ʒe", "猫饿了，喂它点吃的。", [
+        ("Le chat ", "chat", 1, "🐱", "lə ʃa ", "猫"),
+        ("a faim", "faim", 0, "", "afɛ̃", "饿了"),
+        (", donne-lui à manger", "manger", 1, "🍖", ", dɔnlyi a mɑ̃ʒe", "喂它吃"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hm14", "On regarde un film ce soir ?", "ɔ̃ ʁəgaʁd œ̃ film sə swaʁ", "今晚看电影吗？", [
+        ("On regarde ", "regarder", 0, "", "ɔ̃ ʁəgaʁd ", "我们看"),
+        ("un film ", "film", 1, "🎬", "œ̃ film ", "电影"),
+        ("ce soir", "soir", 1, "🌆", "sə swaʁ", "今晚"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("hm15", "Je vais me coucher tôt ce soir.", "ʒə vɛ mə kuʃe to sə swaʁ", "今晚我要早睡。", [
+        ("Je vais ", "aller", 0, "", "ʒə vɛ ", "我要"),
+        ("me coucher ", "coucher", 1, "🛏️", "mə kuʃe ", "睡觉"),
+        ("tôt ce soir", None, 0, "", "to sə swaʁ", "今晚早点"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hm16", "Bonne nuit, fais de beaux rêves.", "bɔn nɥi fɛ də bo ʁɛv", "晚安，做个好梦。", [
+        ("Bonne nuit", "nuit", 1, "🌙", "bɔn nɥi", "晚安"),
+        (", fais de beaux rêves", "rêve", 1, "💤", ", fɛ də bo ʁɛv", "好梦"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hm17", "La machine à laver est en panne.", "la maʃin a lave ɛt ɑ̃ pan", "洗衣机坏了。", [
+        ("La machine à laver ", "machine", 1, "🧺", "la maʃin a lave ", "洗衣机"),
+        ("est en panne", "panne", 0, "", "ɛt ɑ̃ pan", "坏了"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hm18", "Je cherche mes chaussons.", "ʒə ʃɛʁʃ me ʃosɔ̃", "我找我的拖鞋。", [
+        ("Je cherche ", "chercher", 0, "", "ʒə ʃɛʁʃ ", "我找"),
+        ("mes chaussons", "chausson", 1, "🥿", "me ʃosɔ̃", "我的拖鞋"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hm19", "Il pleut, ferme les volets.", "il plø fɛʁm le vɔlɛ", "下雨了，关百叶窗。", [
+        ("Il pleut", "pleuvoir", 1, "🌧️", "il plø", "下雨"),
+        (", ferme les volets", "volet", 1, "🪟", ", fɛʁm le vɔlɛ", "关百叶窗"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hm20", "Demain, j'ai cours tôt.", "dəmɛ̃ ʒe kuʁ to", "明天我一大早就上课。", [
+        ("Demain", "demain", 1, "📅", "dəmɛ̃", "明天"),
+        (", j'ai cours tôt", "cours", 1, "📚", ", ʒe kuʁ to", "早课"),
+        (".", None, 0, "", "", ""),
+    ]),
+    # --- 6. Hôpital & pharmacie (hp01–hp20) ---
+    ("hp01", "J'ai mal à la tête depuis ce matin.", "ʒe mal a la tɛt dəpɥi sə matɛ̃", "我从今早开始头疼。", [
+        ("J'ai mal à la tête ", "tête", 1, "🤕", "ʒe mal a la tɛt ", "头疼"),
+        ("depuis ce matin", "matin", 1, "🌅", "dəpɥi sə matɛ̃", "从今天早上"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hp02", "Je voudrais un rendez-vous chez le médecin.", "ʒə vudʁɛ œ̃ ʁɑ̃devu ʃe lə medsɛ̃", "我想预约看医生。", [
+        ("Je voudrais ", "vouloir", 0, "", "ʒə vudʁɛ ", "我想要"),
+        ("un rendez-vous ", "rendez-vous", 1, "📅", "œ̃ ʁɑ̃devu ", "预约"),
+        ("chez le médecin", "médecin", 1, "🩺", "ʃe lə medsɛ̃", "看医生"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hp03", "Où est la salle d'attente ?", "u ɛ la sal datɑ̃t", "候诊室在哪？", [
+        ("Où est ", "être", 0, "", "u ɛ ", "在哪"),
+        ("la salle d'attente", "attente", 1, "🪑", "la sal datɑ̃t", "候诊室"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("hp04", "Je tousse beaucoup depuis hier.", "ʒə tus boku dəpjɛʁ", "我从昨天起咳得很厉害。", [
+        ("Je tousse ", "tousser", 1, "🤧", "ʒə tus ", "我咳嗽"),
+        ("beaucoup ", None, 0, "", "boku ", "很"),
+        ("depuis hier", "hier", 1, "📆", "dəpjɛʁ", "从昨天"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hp05", "Avez-vous une ordonnance ?", "ave vu yn ɔʁdɔnɑ̃s", "您有处方吗？", [
+        ("Avez-vous ", "avoir", 0, "", "ave vu ", "您有"),
+        ("une ordonnance", "ordonnance", 1, "📄", "yn ɔʁdɔnɑ̃s", "处方"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("hp06", "Je suis allergique à la pénicilline.", "ʒə sɥi zaʁʒik a la penisilin", "我对青霉素过敏。", [
+        ("Je suis allergique à ", "allergie", 0, "", "ʒə sɥi zaʁʒik a ", "我过敏"),
+        ("la pénicilline", "pénicilline", 1, "💊", "la penisilin", "青霉素"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hp07", "Prenez ce médicament trois fois par jour.", "pʁəne sə medikamɑ̃ tʁwa fwaz paʁ ʒuʁ", "这药一天吃三次。", [
+        ("Prenez ", "prendre", 0, "", "pʁəne ", "请服用"),
+        ("ce médicament ", "médicament", 1, "💊", "sə medikamɑ̃ ", "这药"),
+        ("trois fois par jour", "jour", 1, "📅", "tʁwa fwaz paʁ ʒuʁ", "一天三次"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hp08", "Où se trouve la pharmacie de garde ?", "u sə tʁuv la faʁmasi də gaʁd", "夜班药房在哪？", [
+        ("Où se trouve ", "trouver", 0, "", "u sə tʁuv ", "在哪"),
+        ("la pharmacie de garde", "pharmacie", 1, "💊", "la faʁmasi də gaʁd", "夜班药房"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("hp09", "J'ai besoin de pansements.", "ʒe bəzwɛ̃ də pɑ̃smɑ̃", "我需要创可贴/绷带。", [
+        ("J'ai besoin de ", "besoin", 0, "", "ʒe bəzwɛ̃ də ", "我需要"),
+        ("pansements", "pansement", 1, "🩹", "pɑ̃smɑ̃", "绷带"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hp10", "Ça fait une semaine que j'ai de la fièvre.", "sa fɛ yn smɛn kʒe də la fjɛvʁ", "我发烧已经一周了。", [
+        ("Ça fait une semaine ", "semaine", 1, "📆", "sa fɛ yn smɛn ", "一周"),
+        ("que j'ai de la fièvre", "fièvre", 1, "🤒", "kʒe də la fjɛvʁ", "发烧"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hp11", "Le dentiste m'a fait une radio.", "lə dɑ̃tist ma fɛ yn ʁadjo", "牙医给我拍了X光。", [
+        ("Le dentiste ", "dentiste", 1, "🦷", "lə dɑ̃tist ", "牙医"),
+        ("m'a fait une radio", "radio", 1, "🩻", "ma fɛ yn ʁadjo", "拍了片子"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hp12", "Respirez profondément, s'il vous plaît.", "ʁɛspiʁe pʁɔfɔdemɑ̃ sil vu plɛ", "请深呼吸。", [
+        ("Respirez ", "respirer", 0, "", "ʁɛspiʁe ", "请呼吸"),
+        ("profondément", None, 0, "", "pʁɔfɔdemɑ̃", "深"),
+        (", s'il vous plaît.", None, 0, "", ", sil vu plɛ.", "请"),
+    ]),
+    ("hp13", "Je me suis coupé le doigt.", "ʒə mə sɥi kupe lə dwa", "我割到手指了。", [
+        ("Je me suis coupé ", "couper", 1, "🩸", "ʒə mə sɥi kupe ", "我割到"),
+        ("le doigt", "doigt", 1, "🖐️", "lə dwa", "手指"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hp14", "Ce sirop calme la toux.", "sə siʁɔ kalm la tu", "这糖浆止咳。", [
+        ("Ce sirop ", "sirop", 1, "🍯", "sə siʁɔ ", "糖浆"),
+        ("calme la toux", "toux", 1, "🤧", "kalm la tu", "止咳"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hp15", "Appelez le quinze si c'est urgent.", "aple lə kɛ̃z sɛ syʁʒɑ̃", "紧急情况请打15。", [
+        ("Appelez ", "appeler", 0, "", "aple ", "请拨打"),
+        ("le quinze ", None, 0, "📞", "lə kɛ̃z ", "15"),
+        ("si c'est urgent", "urgent", 0, "", "sɛ syʁʒɑ̃", "如果紧急"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hp16", "J'ai le vertige en hauteur.", "ʒe lə vɛʁtiʒ ɑ̃ otoœʁ", "我恐高。", [
+        ("J'ai le vertige ", "vertige", 1, "😵", "ʒe lə vɛʁtiʒ ", "头晕"),
+        ("en hauteur", "hauteur", 0, "", "ɑ̃ otoœʁ", "在高处"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hp17", "La douleur est passée avec le comprimé.", "la dulœʁ ɛ pase avɛk lɔ̃pʁime", "吃了药就不疼了。", [
+        ("La douleur ", "douleur", 1, "😣", "la dulœʁ ", "疼痛"),
+        ("est passée ", "passer", 0, "", "ɛ pase ", "过去了"),
+        ("avec le comprimé", "comprimé", 1, "💊", "avɛk lɔ̃pʁime", "吃了药片"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hp18", "Je dois jeûner avant la prise de sang.", "ʒə dwa ʒœne avɑ̃ la pʁiz də sɑ̃", "抽血前要空腹。", [
+        ("Je dois ", "devoir", 0, "", "ʒə dwa ", "我要"),
+        ("jeûner ", "jeûner", 0, "", "ʒœne ", "空腹"),
+        ("avant la prise de sang", "sang", 1, "🩸", "avɑ̃ la pʁiz də sɑ̃", "抽血前"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("hp19", "Où puis-je récupérer les résultats ?", "y pɥiʒe ʁekypeʁe le ʁezylta", "我在哪取化验结果？", [
+        ("Où puis-je ", "pouvoir", 0, "", "y pɥiʒe ", "我在哪能"),
+        ("récupérer les résultats", "résultat", 1, "📋", "ʁekypeʁe le ʁezylta", "取结果"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("hp20", "Gardez ce gel au frais.", "gaʁde sə ʒɛl o fʁɛ", "这药膏请冷藏。", [
+        ("Gardez ", "garder", 0, "", "gaʁde ", "请保存"),
+        ("ce gel ", "gel", 1, "🧴", "sə ʒɛl ", "这凝胶"),
+        ("au frais", "frais", 0, "", "o fʁɛ", "冷藏"),
+        (".", None, 0, "", "", ""),
+    ]),
+    # --- 7. Restaurant (rs01–rs20) ---
+    ("rs01", "Une table pour deux personnes, s'il vous plaît.", "yn tabl puʁ dø pɛʁsɔn sil vu plɛ", "请给我们两人桌。", [
+        ("Une table ", "table", 1, "🍽️", "yn tabl ", "一张桌子"),
+        ("pour deux personnes", "personne", 1, "🧑‍🤝‍🧑", "puʁ dø pɛʁsɔn", "两人"),
+        (", s'il vous plaît.", None, 0, "", ", sil vu plɛ.", "请"),
+    ]),
+    ("rs02", "Quelle est la spécialité du jour ?", "kɛl ɛ la spesjalite dy ʒuʁ", "今日特色是什么？", [
+        ("Quelle est ", "être", 0, "", "kɛl ɛ ", "什么是"),
+        ("la spécialité du jour", "spécialité", 1, "⭐", "la spesjalite dy ʒuʁ", "今日特色"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("rs03", "Je voudrais la carte des vins.", "ʒə vudʁɛ la kaʁt de vɛ̃", "我要酒单。", [
+        ("Je voudrais ", "vouloir", 0, "", "ʒə vudʁɛ ", "我想要"),
+        ("la carte des vins", "vin", 1, "🍷", "la kaʁt de vɛ̃", "酒单"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("rs04", "L'entrecôte, à point, s'il vous plaît.", "lɑ̃tʁəkot a pwɛ̃ sil vu plɛ", "肋眼牛排要五分熟，谢谢。", [
+        ("L'entrecôte", "entrecôte", 1, "🥩", "lɑ̃tʁəkot", "肋眼牛排"),
+        (", à point", None, 0, "", ", a pwɛ̃", "五分熟"),
+        (", s'il vous plaît.", None, 0, "", ", sil vu plɛ.", "请"),
+    ]),
+    ("rs05", "Je suis végétarien, pas de viande.", "ʒə sɥi veʒetaʁjɛ̃ pa də vjɑ̃d", "我吃素，不要肉。", [
+        ("Je suis végétarien", "végétarien", 1, "🥗", "ʒə sɥi veʒetaʁjɛ̃", "素食者"),
+        (", pas de viande", "viande", 0, "", ", pa də vjɑ̃d", "不要肉"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("rs06", "L'addition, on partage ?", "ladisjɔ̃ ɔ̃ paʁtaʒ", "账单我们AA吗？", [
+        ("L'addition", "addition", 1, "🧾", "ladisjɔ̃", "账单"),
+        (", on partage", "partager", 0, "", ", ɔ̃ paʁtaʒ", "分摊"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("rs07", "Le plat était un peu salé.", "lə pla etɛ œ̃ pø sale", "菜有点咸。", [
+        ("Le plat ", "plat", 1, "🍽️", "lə pla ", "菜"),
+        ("était un peu salé", "salé", 0, "", "etɛ œ̃ pø sale", "有点咸"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("rs08", "Pouvez-vous apporter de l'eau gazeuse ?", "puve vu apɔʁte də lo gazøz", "能来点气泡水吗？", [
+        ("Pouvez-vous apporter ", "apporter", 0, "", "puve vu apɔʁte ", "能拿来"),
+        ("de l'eau gazeuse", "eau", 1, "💧", "də lo gazøz", "气泡水"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("rs09", "Je n'ai plus faim, je suis rassasié.", "ʒə ne ply fɛ̃ ʒə sɥi ʁasazje", "我饱了。", [
+        ("Je n'ai plus faim", "faim", 0, "", "ʒə ne ply fɛ̃", "我不饿"),
+        (", je suis rassasié", "rassasié", 0, "", ", ʒə sɥi ʁasazje", "我饱了"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("rs10", "Le dessert du jour, c'est quoi ?", "lə desɛʁ dy ʒuʁ sɛ kwa", "今日甜点是什么？", [
+        ("Le dessert du jour", "dessert", 1, "🍰", "lə desɛʁ dy ʒuʁ", "今日甜点"),
+        (", c'est quoi", None, 0, "", ", sɛ kwa", "是什么"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("rs11", "On peut payer séparément ?", "ɔ̃ pø peje sepaʁemɑ̃", "可以分开付吗？", [
+        ("On peut ", "pouvoir", 0, "", "ɔ̃ pø ", "可以"),
+        ("payer séparément", "payer", 0, "", "peje sepaʁemɑ̃", "分开付"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("rs12", "Excusez-moi, ce n'est pas ce que j'ai commandé.", "ɛkskyze mwa sɛ nɛ pa sə kʒe kɔmɑ̃de", "不好意思，这不是我点的。", [
+        ("Excusez-moi", None, 0, "", "ɛkskyze mwa", "不好意思"),
+        (", ce n'est pas ce que j'ai commandé", "commander", 0, "", ", sɛ nɛ pa sə kʒe kɔmɑ̃de", "不是我点的"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("rs13", "Le service était impeccable.", "lə sɛʁvis etɛ ɛ̃pɛkabl", "服务无可挑剔。", [
+        ("Le service ", "service", 1, "🧑‍🍳", "lə sɛʁvis ", "服务"),
+        ("était impeccable", "impeccable", 0, "", "etɛ ɛ̃pɛkabl", "完美"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("rs14", "Je prends un café sans alcool.", "ʒə pʁɑ̃ œ̃ kafe sɑ̃n alkɔl", "我要一杯无酒精咖啡。", [
+        ("Je prends ", "prendre", 0, "", "ʒə pʁɑ̃ ", "我要"),
+        ("un café ", "café", 1, "☕", "œ̃ kafe ", "咖啡"),
+        ("sans alcool", "alcool", 1, "🚫", "sɑ̃n alkɔl", "无酒精"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("rs15", "La réserve est complète ce soir.", "la ʁezɛʁv ɛ kɔ̃plɛt sə swaʁ", "今晚订满了。", [
+        ("La réserve ", "réserver", 1, "📅", "la ʁezɛʁv ", "预订"),
+        ("est complète ", "complet", 0, "", "ɛ kɔ̃plɛt ", "满了"),
+        ("ce soir", "soir", 1, "🌆", "sə swaʁ", "今晚"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("rs16", "Pourriez-vous recommencer mon plat ?", "puʁje vu ʁəkɔmɑ̃se mɔ̃ pla", "能重新做我这道菜吗？", [
+        ("Pourriez-vous ", "pouvoir", 0, "", "puʁje vu ", "您能"),
+        ("recommencer mon plat", "recommencer", 1, "🍽️", "ʁəkɔmɑ̃se mɔ̃ pla", "重做我的菜"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("rs17", "Je voudrais une bouteille d'eau minérale.", "ʒə vudʁɛ yn butɛj domineʁal", "我要一瓶矿泉水。", [
+        ("Je voudrais ", "vouloir", 0, "", "ʒə vudʁɛ ", "我想要"),
+        ("une bouteille d'eau minérale", "eau", 1, "💧", "yn butɛj domineʁal", "矿泉水"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("rs18", "Le pourboire est inclus ?", "lə puʁbwaʁ ɛ ɛ̃kly", "小费包含在内吗？", [
+        ("Le pourboire ", "pourboire", 1, "💶", "lə puʁbwaʁ ", "小费"),
+        ("est inclus", "inclus", 0, "", "ɛ ɛ̃kly", "包含"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("rs19", "Merci, c'était délicieux.", "mɛʁsi setɛ delisjø", "谢谢，很好吃。", [
+        ("Merci", None, 0, "", "mɛʁsi", "谢谢"),
+        (", c'était délicieux", "délicieux", 0, "", ", setɛ delisjø", "很好吃"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("rs20", "À la prochaine, bonne continuation.", "a la pʁɔʃɛn bɔ̃ kɔ̃tinɥasjɔ̃", "下次见，祝一切顺利。", [
+        ("À la prochaine", None, 0, "", "a la pʁɔʃɛn", "下次见"),
+        (", bonne continuation", "continuation", 0, "", ", bɔ̃ kɔ̃tinɥasjɔ̃", "祝顺利"),
+        (".", None, 0, "", "", ""),
+    ]),
+    # --- 8. Marché — marchandage (mk01–mk20), pratique au quotidien ---
+    ("mk01", "C'est combien, le panier de mangues ?", "sɛ kɔ̃bjɛ̃ lə panje də mɑ̃ɡ", "这筐芒果多少钱？", [
+        ("C'est combien, ", "combien", 0, "", "sɛ kɔ̃bjɛ̃, ", "多少钱"),
+        ("le panier de mangues", "mangue", 1, "🥭", "lə panje də mɑ̃ɡ", "一筐芒果"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("mk02", "C'est trop cher pour moi, madame.", "sɛ tʁɔ ʃɛʁ puʁ mwa madam", "太贵了，大姐。", [
+        ("C'est trop cher ", "cher", 0, "", "sɛ tʁɔ ʃɛʁ ", "太贵"),
+        ("pour moi", None, 0, "", "puʁ mwa", "对我来说"),
+        (", madame.", None, 0, "", ", madam.", "大姐"),
+    ]),
+    ("mk03", "Faites-moi un meilleur prix, s'il vous plaît.", "fɛtmwa œ̃ mɛjœʁ pʁi sil vu plɛ", "请给我个好价钱。", [
+        ("Faites-moi ", "faire", 0, "", "fɛtmwa ", "给我"),
+        ("un meilleur prix", "prix", 1, "💰", "œ̃ mɛjœʁ pʁi", "好价钱"),
+        (", s'il vous plaît.", None, 0, "", ", sil vu plɛ.", "请"),
+    ]),
+    ("mk04", "Je prends trois mangues pour mille francs.", "ʒə pʁɑ̃ tʁwa mɑ̃ɡ puʁ mil fʁɑ̃", "一千法郎我买三个芒果。", [
+        ("Je prends ", "prendre", 0, "", "ʒə pʁɑ̃ ", "我买"),
+        ("trois mangues ", "mangue", 1, "🥭", "tʁwa mɑ̃ɡ ", "三个芒果"),
+        ("pour mille francs", None, 1, "💵", "puʁ mil fʁɑ̃", "一千法郎"),
+        (".", None, 0, "", ".", "."),
+    ]),
+    ("mk05", "C'est votre dernier mot sur le prix ?", "sɛ vɔtʁ dɛʁnje mo syʁ lə pʁi", "这是您的底价吗？", [
+        ("C'est ", "être", 0, "", "sɛ ", "这是"),
+        ("votre dernier mot ", "mot", 0, "", "vɔtʁ dɛʁnje mo ", "您的底价"),
+        ("sur le prix", "prix", 1, "💰", "syʁ lə pʁi", "在价格上"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("mk06", "Je n'ai que des billets de cinq mille.", "ʒə ne ke de bije də sɛ̃ mil", "我只有五千的钞票。", [
+        ("Je n'ai que ", "avoir", 0, "", "ʒə ne ke ", "我只有"),
+        ("des billets ", "billet", 1, "💴", "de bije ", "钞票"),
+        ("de cinq mille", None, 0, "5️⃣", "də sɛ̃ mil", "五千面额"),
+        (".", None, 0, "", ".", "."),
+    ]),
+    ("mk07", "Vous avez la monnaie sur dix mille ?", "vu zave la mɔnɛ syʁ dis mil", "一万您能找开吗？", [
+        ("Vous avez ", "avoir", 0, "", "vu zave ", "您有"),
+        ("la monnaie ", "monnaie", 1, "🪙", "la mɔnɛ ", "零钱"),
+        ("sur dix mille", None, 0, "", "syʁ dis mil", "破一万"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("mk08", "Ce poisson est pêché ce matin ?", "sə pwasɔ̃ ɛ peʃe sə matɛ̃", "这鱼是今早捕的吗？", [
+        ("Ce poisson ", "poisson", 1, "🐟", "sə pwasɔ̃ ", "这鱼"),
+        ("est pêché ", "pêcher", 0, "", "ɛ peʃe ", "捕捞"),
+        ("ce matin", "matin", 1, "🌅", "sə matɛ̃", "今早"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("mk09", "Donnez-moi un demi-kilo d'oignons.", "dɔnemwa œ̃ dəmikilo dwaɲɔ̃", "给我半公斤洋葱。", [
+        ("Donnez-moi ", "donner", 0, "", "dɔnemwa ", "给我"),
+        ("un demi-kilo ", "kilo", 0, "", "œ̃ dəmikilo ", "半公斤"),
+        ("d'oignons", "oignon", 1, "🧅", "dwaɲɔ̃", "洋葱"),
+        (".", None, 0, "", ".", "."),
+    ]),
+    ("mk10", "Je regarde encore sur l'autre étal.", "ʒə ʁəgaʁd ɑ̃kɔʁ syʁ lotʁ etal", "我再去隔壁摊子看看。", [
+        ("Je regarde ", "regarder", 0, "", "ʒə ʁəgaʁd ", "我看"),
+        ("encore ", None, 0, "", "ɑ̃kɔʁ ", "再"),
+        ("sur l'autre étal", "étal", 1, "🏪", "syʁ lotʁ etal", "隔壁摊位"),
+        (".", None, 0, "", ".", "."),
+    ]),
+    ("mk11", "On peut discuter un peu le prix ?", "ɔ̃ pø diskyte œ̃ pø lə pʁi", "价钱能再商量一点吗？", [
+        ("On peut ", "pouvoir", 0, "", "ɔ̃ pø ", "能"),
+        ("discuter ", "discuter", 0, "", "diskyte ", "商量"),
+        ("un peu le prix", "prix", 1, "💰", "œ̃ pø lə pʁi", "一点价格"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("mk12", "Si j'en prends deux kilos, c'est combien ?", "si ʒɑ̃ pʁɑ̃ dø kilo sɛ kɔ̃bjɛ̃", "两公斤的话多少钱？", [
+        ("Si j'en prends deux kilos", "kilo", 1, "⚖️", "si ʒɑ̃ pʁɑ̃ dø kilo", "买两公斤"),
+        (", c'est combien", "combien", 0, "", ", sɛ kɔ̃bjɛ̃", "多少钱"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("mk13", "À ce tarif-là, je ne prends pas.", "a sə taʁif la ʒə nə pʁɑ̃ pa", "这价我就不买了。", [
+        ("À ce tarif-là", "tarif", 1, "🏷️", "a sə taʁif la", "这个价"),
+        (", je ne prends pas", "prendre", 0, "", ", ʒə nə pʁɑ̃ pa", "我不买"),
+        (".", None, 0, "", ".", "."),
+    ]),
+    ("mk14", "Bon, je prends tout le tas de bananes.", "bɔ̃ ʒə pʁɑ̃ tu lə ta də banan", "好吧，这堆香蕉我全要了。", [
+        ("Bon, ", None, 0, "", "bɔ̃, ", "好吧"),
+        ("je prends ", "prendre", 0, "", "ʒə pʁɑ̃ ", "我要"),
+        ("tout le tas de bananes", "banane", 1, "🍌", "tu lə ta də banan", "整堆香蕉"),
+        (".", None, 0, "", ".", "."),
+    ]),
+    ("mk15", "Ici, c'est toujours le même prix ?", "isi sɛ tuʒuʁ lə mɛm pʁi", "这儿价钱一直一样吗？", [
+        ("Ici, ", None, 0, "", "isi, ", "这儿"),
+        ("c'est toujours le même prix", "prix", 1, "💰", "sɛ tuʒuʁ lə mɛm pʁi", "一直同价"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("mk16", "Mettez tout dans le même sac, merci.", "mɛte tu dɑ̃ lə mɛm sak mɛʁsi", "请都装进同一个袋子，谢谢。", [
+        ("Mettez tout ", "mettre", 0, "", "mɛte tu ", "请把…都"),
+        ("dans le même sac", "sac", 1, "🛍️", "dɑ̃ lə mɛm sak", "同一袋子"),
+        (", merci.", None, 0, "", ", mɛʁsi.", "谢谢"),
+    ]),
+    ("mk17", "C'est du piment fort ou doux ?", "sɛ dy pimɑ̃ fɔʁ u du", "这是辣辣椒还是甜的？", [
+        ("C'est du piment ", "piment", 1, "🌶️", "sɛ dy pimɑ̃ ", "辣椒"),
+        ("fort ou doux", None, 0, "", "fɔʁ u du", "辣还是甜"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("mk18", "Je reviens demain pour deux têtes d'ail.", "ʒə ʁəvjɛ̃ dəmɛ̃ puʁ dø tɛt daj", "我明天再来拿两头蒜。", [
+        ("Je reviens ", "revenir", 0, "", "ʒə ʁəvjɛ̃ ", "我再来"),
+        ("demain ", "demain", 1, "📅", "dəmɛ̃ ", "明天"),
+        ("pour deux têtes d'ail", "ail", 1, "🧄", "puʁ dø tɛt daj", "两头蒜"),
+        (".", None, 0, "", ".", "."),
+    ]),
+    ("mk19", "Gardez-moi un kilo de tomates mûres.", "gaʁdmwa œ̃ kilo də tɔmat myʁ", "给我留一公斤熟西红柿。", [
+        ("Gardez-moi ", "garder", 0, "", "gaʁdmwa ", "给我留"),
+        ("un kilo de tomates ", "tomate", 1, "🍅", "œ̃ kilo də tɔmat ", "一公斤西红柿"),
+        ("mûres", "mûr", 0, "", "myʁ", "熟的"),
+        (".", None, 0, "", ".", "."),
+    ]),
+    ("mk20", "Merci, à demain pour le marché.", "mɛʁsi a dəmɛ̃ puʁ lə maʁʃe", "谢谢，明天市场见。", [
+        ("Merci", None, 0, "", "mɛʁsi", "谢谢"),
+        (", à demain ", "demain", 1, "📅", ", a dəmɛ̃ ", "明天"),
+        ("pour le marché", "marché", 1, "🏪", "puʁ lə maʁʃe", "市场见"),
+        (".", None, 0, "", ".", "."),
+    ]),
+    # --- 9. Météo (wx01–wx20) ---
+    ("wx01", "Il fait beau, on peut sortir.", "il fɛ bo ɔ̃ pø sɔʁtiʁ", "天气好，可以出门。", [
+        ("Il fait beau", "beau", 1, "☀️", "il fɛ bo", "天气好"),
+        (", on peut sortir", "sortir", 0, "", ", ɔ̃ pø sɔʁtiʁ", "可以出门"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("wx02", "Il pleut des cordes aujourd'hui.", "il plø de kɔʁd oʒuʁdɥi", "今天下大雨。", [
+        ("Il pleut des cordes", "pleuvoir", 1, "🌧️", "il plø de kɔʁd", "下大雨"),
+        (" aujourd'hui", None, 0, "", " oʒuʁdɥi", "今天"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("wx03", "Il neige sur les montagnes.", "il nɛʒ syʁ le mɔ̃taɲ", "山上在下雪。", [
+        ("Il neige ", "neiger", 1, "❄️", "il nɛʒ ", "下雪"),
+        ("sur les montagnes", "montagne", 1, "⛰️", "syʁ le mɔ̃taɲ", "在山上"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("wx04", "Il y a du vent, accroche ton manteau.", "il ja dy vɑ̃ akʁɔʃ tɔ̃ mɑ̃to", "有风，扣好外套。", [
+        ("Il y a du vent", "vent", 1, "💨", "il ja dy vɑ̃", "有风"),
+        (", accroche ton manteau", "manteau", 1, "🧥", ", akʁɔʃ tɔ̃ mɑ̃to", "扣好外套"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("wx05", "Le ciel est tout gris.", "lə sjɛl ɛ tu gʁi", "天阴沉沉的。", [
+        ("Le ciel ", "ciel", 1, "☁️", "lə sjɛl ", "天空"),
+        ("est tout gris", "gris", 0, "", "ɛ tu gʁi", "灰蒙蒙"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("wx06", "Il fait trente degrés à l'ombre.", "il fɛ tʁɑ̃t dəgʁe a lɔ̃bʁ", "阴凉处三十度。", [
+        ("Il fait ", "faire", 0, "", "il fɛ ", "气温"),
+        ("trente degrés ", "degré", 1, "🌡️", "tʁɑ̃t dəgʁe ", "三十度"),
+        ("à l'ombre", "ombre", 0, "", "a lɔ̃bʁ", "阴凉处"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("wx07", "Attention au verglas demain matin.", "atɑ̃sjɔ̃ o vɛʁgla dəmɛ̃ matɛ̃", "明早小心路面结冰。", [
+        ("Attention au verglas ", "verglas", 1, "🧊", "atɑ̃sjɔ̃ o vɛʁgla ", "注意黑冰"),
+        ("demain matin", "matin", 1, "🌅", "dəmɛ̃ matɛ̃", "明天早上"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("wx08", "On annule le pique-nique à cause de l'orage.", "ɔ̃ anyl lə piknik a koz də lɔʁaʒ", "因为雷雨取消了野餐。", [
+        ("On annule ", "annuler", 0, "", "ɔ̃ anyl ", "取消"),
+        ("le pique-nique ", "pique-nique", 1, "🧺", "lə piknik ", "野餐"),
+        ("à cause de l'orage", "orage", 1, "⛈️", "a koz də lɔʁaʒ", "因为雷雨"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("wx09", "Les prévisions annoncent de la pluie.", "le pʁevizjɔ̃ ɑ̃nɔ̃s də la plɥi", "预报说有雨。", [
+        ("Les prévisions ", "prévision", 1, "📰", "le pʁevizjɔ̃ ", "预报"),
+        ("annoncent ", "annoncer", 0, "", "ɑ̃nɔ̃s ", "说"),
+        ("de la pluie", "pluie", 1, "🌧️", "də la plɥi", "有雨"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("wx10", "Il fait un froid de canard.", "il fɛ œ̃ fʁwa də kanaʁ", "冷得要命。", [
+        ("Il fait ", "faire", 0, "", "il fɛ ", "天气"),
+        ("un froid de canard", "froid", 1, "🥶", "œ̃ fʁwa də kanaʁ", "特别冷"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("wx11", "Le soleil cogne fort à midi.", "lə sɔlɛj kɔɲ fɔʁ a midi", "中午太阳很毒。", [
+        ("Le soleil ", "soleil", 1, "☀️", "lə sɔlɛj ", "太阳"),
+        ("cogne fort ", None, 0, "", "kɔɲ fɔʁ ", "很猛"),
+        ("à midi", "midi", 1, "🕛", "a midi", "中午"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("wx12", "J'ai pris un coup de soleil.", "ʒə pʁi œ̃ ku də sɔlɛj", "我晒伤了。", [
+        ("J'ai pris ", "prendre", 0, "", "ʒə pʁi ", "我得了"),
+        ("un coup de soleil", "soleil", 1, "🌞", "œ̃ ku də sɔlɛj", "晒伤"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("wx13", "L'air est sec, hydrate-toi.", "lɛʁ ɛ sɛk idʁat twa", "空气干燥，多喝水。", [
+        ("L'air est sec", "sec", 0, "", "lɛʁ ɛ sɛk", "空气干"),
+        (", hydrate-toi", "hydrater", 1, "💧", ", idʁat twa", "补水"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("wx14", "Il y a du brouillard sur l'autoroute.", "il ja dy bʁujaʁ syʁ lotɔʁut", "高速上有雾。", [
+        ("Il y a du brouillard ", "brouillard", 1, "🌫️", "il ja dy bʁujaʁ ", "有雾"),
+        ("sur l'autoroute", "autoroute", 1, "🛣️", "syʁ lotɔʁut", "在高速上"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("wx15", "Les éclairs illuminent le ciel.", "le eklɛʁ ilyminə lə sjɛl", "闪电照亮天空。", [
+        ("Les éclairs ", "éclair", 1, "⚡", "le eklɛʁ ", "闪电"),
+        ("illuminent le ciel", "ciel", 0, "", "ilyminə lə sjɛl", "照亮天空"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("wx16", "On espère du soleil pour le week-end.", "ɔ̃ ɛspɛʁ dy sɔlɛj puʁ lə wikɛnd", "希望周末晴天。", [
+        ("On espère ", "espérer", 0, "", "ɔ̃ ɛspɛʁ ", "希望"),
+        ("du soleil ", "soleil", 1, "☀️", "dy sɔlɛj ", "阳光"),
+        ("pour le week-end", None, 1, "🗓️", "puʁ lə wikɛnd", "周末"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("wx17", "La tempête a cassé des branches.", "la tɑ̃pɛt a kase de bʁɑ̃ʃ", "暴风雨刮断树枝。", [
+        ("La tempête ", "tempête", 1, "🌪️", "la tɑ̃pɛt ", "暴风雨"),
+        ("a cassé ", "casser", 0, "", "a kase ", "弄断"),
+        ("des branches", "branche", 1, "🌳", "de bʁɑ̃ʃ", "树枝"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("wx18", "Il bruine, prends ton parapluie.", "il bʁyin pʁɑ̃ tɔ̃ paʁaplyi", "毛毛雨，带上伞。", [
+        ("Il bruine", "bruiner", 1, "🌦️", "il bʁyin", "毛毛雨"),
+        (", prends ton parapluie", "parapluie", 1, "☂️", ", pʁɑ̃ tɔ̃ paʁaplyi", "带伞"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("wx19", "Le thermomètre est tombé en dessous de zéro.", "lə tɛʁmɔmɛtʁ ɛ tɔ̃be ɑ̃ dəsu də zeʁo", "温度计降到零下了。", [
+        ("Le thermomètre ", "thermomètre", 1, "🌡️", "lə tɛʁmɔmɛtʁ ", "温度计"),
+        ("est tombé ", "tomber", 0, "", "ɛ tɔ̃be ", "降到"),
+        ("en dessous de zéro", None, 0, "", "ɑ̃ dəsu də zeʁo", "零下"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("wx20", "Quelle chaleur, on étouffe !", "kɛl ʃalœʁ ɔ̃ etuf", "好热，闷得慌！", [
+        ("Quelle chaleur", "chaleur", 1, "🥵", "kɛl ʃalœʁ", "好热"),
+        (", on étouffe", "étouffer", 0, "", ", ɔ̃ etuf", "喘不过气"),
+        (" !", None, 0, "", " !", ""),
+    ]),
+    # --- 10. Temps & date (tm01–tm20) ---
+    ("tm01", "Quelle heure est-il ?", "kɛl œʁ ɛtil", "几点了？", [
+        ("Quelle heure est-il", None, 1, "🕐", "kɛl œʁ ɛtil", "几点"),
+        (" ?", None, 0, "", " ?", ""),
+    ]),
+    ("tm02", "Il est huit heures et quart.", "il ɛ ɥit œʁ e kaʁ", "八点一刻。", [
+        ("Il est ", "être", 0, "", "il ɛ ", "现在"),
+        ("huit heures et quart", None, 0, "🕗", "ɥit œʁ e kaʁ", "八点一刻"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("tm03", "On se retrouve dans un quart d'heure.", "ɔ̃ sə ʁətʁuv dɑ̃ œ̃ kaʁ dœʁ", "我们一刻钟后见。", [
+        ("On se retrouve ", "retrouver", 0, "", "ɔ̃ sə ʁətʁuv ", "我们见"),
+        ("dans un quart d'heure", "heure", 1, "⏱️", "dɑ̃ œ̃ kaʁ dœʁ", "一刻钟后"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("tm04", "Aujourd'hui nous sommes le quinze mars.", "oʒuʁdɥi nu sɔm lə kɛ̃z maʁs", "今天是三月十五号。", [
+        ("Aujourd'hui ", None, 0, "", "oʒuʁdɥi ", "今天"),
+        ("nous sommes le quinze mars", "mars", 1, "📅", "nu sɔm lə kɛ̃z maʁs", "三月十五"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("tm05", "La réunion commence à neuf heures pile.", "la ʁeynjɔ̃ kɔmɑ̃s a nœf œʁ pil", "会议九点整开始。", [
+        ("La réunion ", "réunion", 1, "🗓️", "la ʁeynjɔ̃ ", "会议"),
+        ("commence ", "commencer", 0, "", "kɔmɑ̃s ", "开始"),
+        ("à neuf heures pile", "heure", 1, "🕘", "a nœf œʁ pil", "九点整"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("tm06", "J'ai rendez-vous mardi prochain.", "ʒe ʁɑ̃devu maʁdi pʁɔʃɛ̃", "我下周二有约。", [
+        ("J'ai rendez-vous ", "rendez-vous", 1, "📅", "ʒe ʁɑ̃devu ", "我有约"),
+        ("mardi prochain", "mardi", 1, "🗓️", "maʁdi pʁɔʃɛ̃", "下周二"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("tm07", "Le magasin ouvre à dix heures.", "lə magazɛ̃ uvʁ a diz œʁ", "商店十点开门。", [
+        ("Le magasin ", "magasin", 1, "🏪", "lə magazɛ̃ ", "商店"),
+        ("ouvre ", "ouvrir", 0, "", "uvʁ ", "开门"),
+        ("à dix heures", "heure", 1, "🕙", "a diz œʁ", "十点"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("tm08", "Dans deux semaines, c'est les vacances.", "dɑ̃ dø smɛn sɛ le vakɑ̃s", "再过两周就放假了。", [
+        ("Dans deux semaines", "semaine", 1, "📆", "dɑ̃ dø smɛn", "两周后"),
+        (", c'est les vacances", "vacances", 1, "🏖️", ", sɛ le vakɑ̃s", "放假"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("tm09", "Je suis en retard de cinq minutes.", "ʒə sɥiz ɑ̃ ʁətaʁ də sɛ̃ minyt", "我迟到了五分钟。", [
+        ("Je suis en retard ", "retard", 0, "", "ʒə sɥiz ɑ̃ ʁətaʁ ", "我迟到"),
+        ("de cinq minutes", "minute", 1, "⏱️", "də sɛ̃ minyt", "五分钟"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("tm10", "L'horloge de la gare avance.", "lɔʁlɔʒ də la gaʁ avɑ̃s", "火车站的钟快了。", [
+        ("L'horloge ", "horloge", 1, "🕰️", "lɔʁlɔʒ ", "钟"),
+        ("de la gare ", "gare", 1, "🚉", "də la gaʁ ", "火车站"),
+        ("avance", "avancer", 0, "", "avɑ̃s", "快了"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("tm11", "N'oublie pas l'heure du couvre-feu.", "nubli pa lœʁ dy kuvʁəfø", "别忘了宵禁时间。", [
+        ("N'oublie pas ", "oublier", 0, "", "nubli pa ", "别忘了"),
+        ("l'heure du couvre-feu", "heure", 1, "🌙", "lœʁ dy kuvʁəfø", "宵禁时间"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("tm12", "C'était hier, pas demain.", "setɛ jɛʁ pa dəmɛ̃", "那是昨天，不是明天。", [
+        ("C'était hier", "hier", 1, "📆", "setɛ jɛʁ", "昨天"),
+        (", pas demain", "demain", 1, "📅", ", pa dəmɛ̃", "不是明天"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("tm13", "Le dernier train part à minuit.", "lə dɛʁnje tʁɛ̃ paʁ a minɥi", "末班车午夜开。", [
+        ("Le dernier train ", "train", 1, "🚆", "lə dɛʁnje tʁɛ̃ ", "末班火车"),
+        ("part ", "partir", 0, "", "paʁ ", "出发"),
+        ("à minuit", "minuit", 1, "🕛", "a minɥi", "午夜"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("tm14", "On avance l'heure ce week-end.", "ɔ̃ avɑ̃s lœʁ sə wikɛnd", "这周末调夏令时。", [
+        ("On avance ", "avancer", 0, "", "ɔ̃ avɑ̃s ", "我们调快"),
+        ("l'heure ", "heure", 1, "⏰", "lœʁ ", "时间"),
+        ("ce week-end", None, 1, "🗓️", "sə wikɛnd", "这个周末"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("tm15", "Dans un mois, c'est mon anniversaire.", "dɑ̃ œ̃ mwa sɛ mɔ̃ anivɛʁsɛʁ", "再过一个月就是我生日。", [
+        ("Dans un mois", "mois", 1, "📅", "dɑ̃ œ̃ mwa", "一个月后"),
+        (", c'est mon anniversaire", "anniversaire", 1, "🎂", ", sɛ mɔ̃ anivɛʁsɛʁ", "我生日"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("tm16", "Je travaille du lundi au vendredi.", "ʒə tʁavaj dy lœ̃di o vɑ̃dʁədi", "我周一到周五上班。", [
+        ("Je travaille ", "travailler", 1, "💼", "ʒə tʁavaj ", "我工作"),
+        ("du lundi au vendredi", "vendredi", 1, "🗓️", "dy lœ̃di o vɑ̃dʁədi", "周一到周五"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("tm17", "L'été commence en juin.", "lete kɔmɑ̃s ɑ̃ ʒɥɛ̃", "夏天从六月开始。", [
+        ("L'été ", "été", 1, "☀️", "lete ", "夏天"),
+        ("commence ", "commencer", 0, "", "kɔmɑ̃s ", "开始"),
+        ("en juin", "juin", 1, "📅", "ɑ̃ ʒɥɛ̃", "在六月"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("tm18", "Pendant les vacances, le bureau est fermé.", "pɑ̃dɑ̃ le vakɑ̃s lə byʁo ɛ fɛʁme", "假期里办公室关门。", [
+        ("Pendant les vacances", "vacances", 1, "🏖️", "pɑ̃dɑ̃ le vakɑ̃s", "假期里"),
+        (", le bureau est fermé", "fermer", 1, "🏢", ", lə byʁo ɛ fɛʁme", "办公室关门"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("tm19", "Il reste dix minutes avant la fermeture.", "il ʁɛst diz minyt avɑ̃ la fɛʁmetyʁ", "还有十分钟关门。", [
+        ("Il reste ", "rester", 0, "", "il ʁɛst ", "还剩"),
+        ("dix minutes ", "minute", 1, "⏱️", "diz minyt ", "十分钟"),
+        ("avant la fermeture", "fermeture", 1, "🚪", "avɑ̃ la fɛʁmetyʁ", "关门之前"),
+        (".", None, 0, "", "", ""),
+    ]),
+    ("tm20", "Synchronise tes montres à midi pile.", "sɛ̃kʁɔniz te mɔ̃tʁ a midi pil", "中午整点对表。", [
+        ("Synchronise ", "synchroniser", 0, "", "sɛ̃kʁɔniz ", "同步"),
+        ("tes montres ", "montre", 1, "⌚", "te mɔ̃tʁ ", "你的表"),
+        ("à midi pile", "midi", 1, "🕛", "a midi pil", "正午整点"),
+        (".", None, 0, "", "", ""),
+    ]),
+]

@@ -1,0 +1,205 @@
+{
+  "sentences": [
+    {
+      "id": "a1b2c3d4-0001-0000-0000-000000000001",
+      "text": "苹果很好吃。",
+      "ipa": "píng guǒ hěn hǎo chī",
+      "translation": {"zh": "苹果很好吃。", "en": "Apples are delicious."},
+      "cefr": "HSK1",
+      "tokens": [
+        {
+          "text": "苹果",
+          "lemma": "苹果",
+          "ipa": "píng guǒ",
+          "translation": {"zh": "苹果", "en": "apple"},
+          "emoji": "🍎"
+        },
+        {
+          "text": "很好吃",
+          "lemma": "好吃",
+          "ipa": "hěn hǎo chī",
+          "translation": {"zh": "很好吃", "en": "delicious"},
+          "emoji": "😋"
+        }
+      ]
+    },
+    {
+      "id": "a1b2c3d4-0002-0000-0000-000000000002",
+      "text": "我每天骑自行车上班。",
+      "ipa": "wǒ měi tiān qí zì xíng chē shàng bān",
+      "translation": {"zh": "我每天骑自行车上班。", "en": "I ride my bike to work every day."},
+      "cefr": "HSK2",
+      "tokens": [
+        {
+          "text": "我每天",
+          "lemma": "每天",
+          "ipa": "wǒ měi tiān",
+          "translation": {"zh": "我每天", "en": "every day I"},
+          "emoji": "📅"
+        },
+        {
+          "text": "骑",
+          "lemma": "骑",
+          "ipa": "qí",
+          "translation": {"zh": "骑", "en": "ride"},
+          "emoji": "🚴"
+        },
+        {
+          "text": "自行车",
+          "lemma": "自行车",
+          "ipa": "zì xíng chē",
+          "translation": {"zh": "自行车", "en": "bicycle"},
+          "emoji": "🚲"
+        },
+        {
+          "text": "上班",
+          "lemma": "上班",
+          "ipa": "shàng bān",
+          "translation": {"zh": "上班", "en": "go to work"},
+          "emoji": "🏢"
+        }
+      ]
+    },
+    {
+      "id": "a1b2c3d4-0003-0000-0000-000000000003",
+      "text": "他把钱包忘在出租车里了。",
+      "ipa": "tā bǎ qián bāo wàng zài chū zū chē lǐ le",
+      "translation": {"zh": "他把钱包忘在出租车里了。", "en": "He left his wallet in the taxi."},
+      "cefr": "HSK3",
+      "tokens": [
+        {
+          "text": "他把",
+          "lemma": "他",
+          "ipa": "tā bǎ",
+          "translation": {"zh": "他", "en": "he"},
+          "emoji": "🧑"
+        },
+        {
+          "text": "钱包",
+          "lemma": "钱包",
+          "ipa": "qián bāo",
+          "translation": {"zh": "钱包", "en": "wallet"},
+          "emoji": "👛"
+        },
+        {
+          "text": "忘在",
+          "lemma": "忘",
+          "ipa": "wàng zài",
+          "translation": {"zh": "忘在", "en": "left behind in"},
+          "emoji": ""
+        },
+        {
+          "text": "出租车里",
+          "lemma": "出租车",
+          "ipa": "chū zū chē lǐ",
+          "translation": {"zh": "出租车里", "en": "in the taxi"},
+          "emoji": "🚕"
+        }
+      ]
+    },
+    {
+      "id": "a1b2c3d4-0004-0000-0000-000000000004",
+      "text": "这项政策引起了广泛的讨论。",
+      "ipa": "zhè xiàng zhèng cè yǐn qǐ le guǎng fàn de tǎo lùn",
+      "translation": {"zh": "这项政策引起了广泛的讨论。", "en": "This policy has sparked widespread debate."},
+      "cefr": "HSK4",
+      "tokens": [
+        {
+          "text": "这项政策",
+          "lemma": "政策",
+          "ipa": "zhè xiàng zhèng cè",
+          "translation": {"zh": "这项政策", "en": "this policy"},
+          "emoji": "📋"
+        },
+        {
+          "text": "引起了",
+          "lemma": "引起",
+          "ipa": "yǐn qǐ le",
+          "translation": {"zh": "引起了", "en": "sparked"},
+          "emoji": ""
+        },
+        {
+          "text": "广泛的",
+          "lemma": "广泛",
+          "ipa": "guǎng fàn de",
+          "translation": {"zh": "广泛的", "en": "widespread"},
+          "emoji": ""
+        },
+        {
+          "text": "讨论",
+          "lemma": "讨论",
+          "ipa": "tǎo lùn",
+          "translation": {"zh": "讨论", "en": "debate"},
+          "emoji": "💬"
+        }
+      ]
+    },
+    {
+      "id": "a1b2c3d4-0005-0000-0000-000000000005",
+      "text": "随着科技的发展，人们的生活方式发生了巨大变化。",
+      "ipa": "suí zhe kē jì de fā zhǎn rén men de shēng huó fāng shì fā shēng le jù dà biàn huà",
+      "translation": {"zh": "随着科技的发展，人们的生活方式发生了巨大变化。", "en": "With the development of technology, people's lifestyles have changed enormously."},
+      "cefr": "HSK5",
+      "tokens": [
+        {
+          "text": "随着科技的发展",
+          "lemma": "科技",
+          "ipa": "suí zhe kē jì de fā zhǎn",
+          "translation": {"zh": "随着科技发展", "en": "with tech advancement"},
+          "emoji": "💻"
+        },
+        {
+          "text": "人们的生活方式",
+          "lemma": "生活方式",
+          "ipa": "rén men de shēng huó fāng shì",
+          "translation": {"zh": "人们的生活方式", "en": "people's lifestyles"},
+          "emoji": "🏠"
+        },
+        {
+          "text": "发生了巨大变化",
+          "lemma": "变化",
+          "ipa": "fā shēng le jù dà biàn huà",
+          "translation": {"zh": "发生了巨大变化", "en": "changed enormously"},
+          "emoji": ""
+        }
+      ]
+    },
+    {
+      "id": "a1b2c3d4-0006-0000-0000-000000000006",
+      "text": "在瞬息万变的市场中，企业须具备敏锐的洞察力。",
+      "ipa": "zài shùn xī wàn biàn de shì chǎng zhōng qǐ yè xū jù bèi mǐn ruì de dòng chá lì",
+      "translation": {"zh": "在瞬息万变的市场中，企业须具备敏锐的洞察力。", "en": "In a rapidly changing market, companies must have sharp insight."},
+      "cefr": "HSK6",
+      "tokens": [
+        {
+          "text": "瞬息万变的市场",
+          "lemma": "市场",
+          "ipa": "shùn xī wàn biàn de shì chǎng",
+          "translation": {"zh": "瞬息万变的市场", "en": "rapidly changing market"},
+          "emoji": "📈"
+        },
+        {
+          "text": "企业",
+          "lemma": "企业",
+          "ipa": "qǐ yè",
+          "translation": {"zh": "企业", "en": "company"},
+          "emoji": "🏭"
+        },
+        {
+          "text": "须具备",
+          "lemma": "具备",
+          "ipa": "xū jù bèi",
+          "translation": {"zh": "必须具备", "en": "must have"},
+          "emoji": ""
+        },
+        {
+          "text": "敏锐的洞察力",
+          "lemma": "洞察力",
+          "ipa": "mǐn ruì de dòng chá lì",
+          "translation": {"zh": "敏锐的洞察力", "en": "sharp insight"},
+          "emoji": "🔍"
+        }
+      ]
+    }
+  ]
+}

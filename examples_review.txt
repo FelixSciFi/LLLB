@@ -1,0 +1,3529 @@
+[-]
+  1. Peux-tu mettre la table ?
+     你能摆一下桌子吗？
+  2. Je note « - ».
+     我记下「-」。
+  3. Tu entends « - » ?
+     你听到「-」了吗？
+  4. C'est écrit : « - ».
+     写着：「-」。
+  5. Réponse courte : « - ».
+     简短回答：「-」。
+
+[accroche]
+  1. Il y a du vent, accroche ton manteau.
+     有风，扣好外套。
+  2. Je note « accroche ».
+     我记下「accroche」。
+  3. Tu entends « accroche » ?
+     你听到「accroche」了吗？
+  4. C'est écrit : « accroche ».
+     写着：「accroche」。
+  5. Réponse courte : « accroche ».
+     简短回答：「accroche」。
+
+[addition]
+  1. L'addition, s'il vous plaît.
+     请结账。
+  2. L'addition, on partage ?
+     账单我们AA吗？
+  3. Je note « addition ».
+     我记下「addition」。
+  4. Tu entends « addition » ?
+     你听到「addition」了吗？
+  5. C'est écrit : « addition ».
+     写着：「addition」。
+
+[alcool]
+  1. Je prends un café sans alcool.
+     我要一杯无酒精咖啡。
+  2. Je note « alcool ».
+     我记下「alcool」。
+  3. Tu entends « alcool » ?
+     你听到「alcool」了吗？
+  4. C'est écrit : « alcool ».
+     写着：「alcool」。
+  5. Réponse courte : « alcool ».
+     简短回答：「alcool」。
+
+[aller]
+  1. Je vais à la boucherie pour de la viande.
+     我去肉铺买肉。
+  2. Bonjour, comment allez-vous ?
+     您好，您好吗？
+  3. Ça va bien, merci, et toi ?
+     我很好，谢谢，你呢？
+  4. Je vais me coucher tôt ce soir.
+     今晚我要早睡。
+  5. Je note « aller ».
+     我记下「aller」。
+
+[ami]
+  1. Salut les amis, ça roule ?
+     嗨朋友们，还好吗？
+  2. Je note « ami ».
+     我记下「ami」。
+  3. Tu entends « ami » ?
+     你听到「ami」了吗？
+  4. C'est écrit : « ami ».
+     写着：「ami」。
+  5. Réponse courte : « ami ».
+     简短回答：「ami」。
+
+[anniversaire]
+  1. C'est mon anniversaire aujourd'hui.
+     今天是我生日。
+  2. Dans un mois, c'est mon anniversaire.
+     再过一个月就是我生日。
+  3. Je note « anniversaire ».
+     我记下「anniversaire」。
+  4. Tu entends « anniversaire » ?
+     你听到「anniversaire」了吗？
+  5. C'est écrit : « anniversaire ».
+     写着：「anniversaire」。
+
+[annoncer]
+  1. Les prévisions annoncent de la pluie.
+     预报说有雨。
+  2. Je note « annoncer ».
+     我记下「annoncer」。
+  3. Tu entends « annoncer » ?
+     你听到「annoncer」了吗？
+  4. C'est écrit : « annoncer ».
+     写着：「annoncer」。
+  5. Réponse courte : « annoncer ».
+     简短回答：「annoncer」。
+
+[annuler]
+  1. On annule le pique-nique à cause de l'orage.
+     因为雷雨取消了野餐。
+  2. Je note « annuler ».
+     我记下「annuler」。
+  3. Tu entends « annuler » ?
+     你听到「annuler」了吗？
+  4. C'est écrit : « annuler ».
+     写着：「annuler」。
+  5. Réponse courte : « annuler ».
+     简短回答：「annuler」。
+
+[appeler]
+  1. Je m'appelle Marie pour la réservation.
+     预订的名字是玛丽。
+  2. Enchanté, je m'appelle Lucas.
+     很高兴认识你，我叫卢卡斯。
+  3. Appelez le quinze si c'est urgent.
+     紧急情况请打15。
+  4. Je note « appeler ».
+     我记下「appeler」。
+  5. Tu entends « appeler » ?
+     你听到「appeler」了吗？
+
+[arriver]
+  1. À tout à l'heure, j'arrive.
+     一会儿见，我到了。
+  2. Je note « arriver ».
+     我记下「arriver」。
+  3. Tu entends « arriver » ?
+     你听到「arriver」了吗？
+  4. C'est écrit : « arriver ».
+     写着：「arriver」。
+  5. Réponse courte : « arriver ».
+     简短回答：「arriver」。
+
+[arrêt]
+  1. Je cherche l'arrêt de bus.
+     我找公交车站。
+  2. Je note « arrêt ».
+     我记下「arrêt」。
+  3. Tu entends « arrêt » ?
+     你听到「arrêt」了吗？
+  4. C'est écrit : « arrêt ».
+     写着：「arrêt」。
+  5. Réponse courte : « arrêt ».
+     简短回答：「arrêt」。
+
+[attention]
+  1. Attention aux pickpockets dans le métro.
+     地铁里小心扒手。
+  2. Attention au verglas demain matin.
+     明早小心路面结冰。
+  3. Je note « attention ».
+     我记下「attention」。
+  4. Tu entends « attention » ?
+     你听到「attention」了吗？
+  5. C'est écrit : « attention ».
+     写着：「attention」。
+
+[autoroute]
+  1. Il y a du brouillard sur l'autoroute.
+     高速上有雾。
+  2. Je note « autoroute ».
+     我记下「autoroute」。
+  3. Tu entends « autoroute » ?
+     你听到「autoroute」了吗？
+  4. C'est écrit : « autoroute ».
+     写着：「autoroute」。
+  5. Réponse courte : « autoroute ».
+     简短回答：「autoroute」。
+
+[avancer]
+  1. On avance l'heure ce week-end.
+     这周末调夏令时。
+  2. Je note « avancer ».
+     我记下「avancer」。
+  3. Tu entends « avancer » ?
+     你听到「avancer」了吗？
+  4. C'est écrit : « avancer ».
+     写着：「avancer」。
+  5. Réponse courte : « avancer ».
+     简短回答：「avancer」。
+
+[avoir]
+  1. Avez-vous du poisson congelé ?
+     有冷冻鱼吗？
+  2. Vous avez des places en terrasse ?
+     露台还有位子吗？
+  3. J'ai mal dormi cette nuit.
+     我昨晚没睡好。
+  4. Le chat a faim, donne-lui à manger.
+     猫饿了，喂它点吃的。
+  5. J'ai mal à la tête depuis ce matin.
+     我从今早开始头疼。
+
+[beau]
+  1. Il fait beau, on peut sortir.
+     天气好，可以出门。
+  2. Je note « beau ».
+     我记下「beau」。
+  3. Tu entends « beau » ?
+     你听到「beau」了吗？
+  4. C'est écrit : « beau ».
+     写着：「beau」。
+  5. Réponse courte : « beau ».
+     简短回答：「beau」。
+
+[beaucoup]
+  1. Tu me manques beaucoup.
+     我很想你。
+  2. Je note « beaucoup ».
+     我记下「beaucoup」。
+  3. Tu entends « beaucoup » ?
+     你听到「beaucoup」了吗？
+  4. C'est écrit : « beaucoup ».
+     写着：「beaucoup」。
+  5. Réponse courte : « beaucoup ».
+     简短回答：「beaucoup」。
+
+[besoin]
+  1. J'ai besoin de pansements.
+     我需要创可贴/绷带。
+  2. Je note « besoin ».
+     我记下「besoin」。
+  3. Tu entends « besoin » ?
+     你听到「besoin」了吗？
+  4. C'est écrit : « besoin ».
+     写着：「besoin」。
+  5. Réponse courte : « besoin ».
+     简短回答：「besoin」。
+
+[bientôt]
+  1. Bonne journée, à bientôt !
+     祝你有美好的一天，回头见！
+  2. Je note « bientôt ».
+     我记下「bientôt」。
+  3. Tu entends « bientôt » ?
+     你听到「bientôt」了吗？
+  4. C'est écrit : « bientôt ».
+     写着：「bientôt」。
+  5. Réponse courte : « bientôt ».
+     简短回答：「bientôt」。
+
+[billet]
+  1. Je n'ai que des billets de cinq mille.
+     我只有五千的钞票。
+  2. Je note « billet ».
+     我记下「billet」。
+  3. Tu entends « billet » ?
+     你听到「billet」了吗？
+  4. C'est écrit : « billet ».
+     写着：「billet」。
+  5. Réponse courte : « billet ».
+     简短回答：「billet」。
+
+[bon]
+  1. Bonne journée, à bientôt !
+     祝你有美好的一天，回头见！
+  2. Bon courage pour ton examen.
+     考试加油。
+  3. Bonne chance pour ton déménagement.
+     搬家顺利。
+  4. Bonne fête de fin d'année !
+     年终节日快乐！
+  5. Bonne nuit, fais de beaux rêves.
+     晚安，做个好梦。
+
+[bonjour]
+  1. Bonjour, comment allez-vous ?
+     您好，您好吗？
+  2. Je note « bonjour ».
+     我记下「bonjour」。
+  3. Tu entends « bonjour » ?
+     你听到「bonjour」了吗？
+  4. C'est écrit : « bonjour ».
+     写着：「bonjour」。
+  5. Réponse courte : « bonjour ».
+     简短回答：「bonjour」。
+
+[boucherie]
+  1. Je vais à la boucherie pour de la viande.
+     我去肉铺买肉。
+  2. Je note « boucherie ».
+     我记下「boucherie」。
+  3. Tu entends « boucherie » ?
+     你听到「boucherie」了吗？
+  4. C'est écrit : « boucherie ».
+     写着：「boucherie」。
+  5. Réponse courte : « boucherie ».
+     简短回答：「boucherie」。
+
+[bouteille]
+  1. Combien coûte cette bouteille d'eau ?
+     这瓶水多少钱？
+  2. Je voudrais une bouteille d'eau minérale.
+     我要一瓶矿泉水。
+  3. Je note « bouteille ».
+     我记下「bouteille」。
+  4. Tu entends « bouteille » ?
+     你听到「bouteille」了吗？
+  5. C'est écrit : « bouteille ».
+     写着：「bouteille」。
+
+[branche]
+  1. La tempête a cassé des branches.
+     暴风雨刮断树枝。
+  2. Je note « branche ».
+     我记下「branche」。
+  3. Tu entends « branche » ?
+     你听到「branche」了吗？
+  4. C'est écrit : « branche ».
+     写着：「branche」。
+  5. Réponse courte : « branche ».
+     简短回答：「branche」。
+
+[brosse]
+  1. Je me brosse les dents.
+     我刷牙。
+  2. Je note « brosse ».
+     我记下「brosse」。
+  3. Tu entends « brosse » ?
+     你听到「brosse」了吗？
+  4. C'est écrit : « brosse ».
+     写着：「brosse」。
+  5. Réponse courte : « brosse ».
+     简短回答：「brosse」。
+
+[brouillard]
+  1. Il y a du brouillard sur l'autoroute.
+     高速上有雾。
+  2. Je note « brouillard ».
+     我记下「brouillard」。
+  3. Tu entends « brouillard » ?
+     你听到「brouillard」了吗？
+  4. C'est écrit : « brouillard ».
+     写着：「brouillard」。
+  5. Réponse courte : « brouillard ».
+     简短回答：「brouillard」。
+
+[bruine]
+  1. Il bruine, prends ton parapluie.
+     毛毛雨，带上伞。
+  2. Je note « bruine ».
+     我记下「bruine」。
+  3. Tu entends « bruine » ?
+     你听到「bruine」了吗？
+  4. C'est écrit : « bruine ».
+     写着：「bruine」。
+  5. Réponse courte : « bruine ».
+     简短回答：「bruine」。
+
+[bureau]
+  1. On se voit demain au bureau ?
+     我们明天办公室见？
+  2. Pendant les vacances, le bureau est fermé.
+     假期里办公室关门。
+  3. Je note « bureau ».
+     我记下「bureau」。
+  4. Tu entends « bureau » ?
+     你听到「bureau」了吗？
+  5. C'est écrit : « bureau ».
+     写着：「bureau」。
+
+[café]
+  1. Un café au lait, s'il vous plaît.
+     请来一杯拿铁咖啡。
+  2. Je prends un café sans alcool.
+     我要一杯无酒精咖啡。
+  3. Je note « café ».
+     我记下「café」。
+  4. Tu entends « café » ?
+     你听到「café」了吗？
+  5. C'est écrit : « café ».
+     写着：「café」。
+
+[caisse]
+  1. Passez devant la caisse trois, s'il vous plaît.
+     请到三号收银台。
+  2. La queue est longue à la caisse.
+     收银台排队很长。
+  3. Je note « caisse ».
+     我记下「caisse」。
+  4. Tu entends « caisse » ?
+     你听到「caisse」了吗？
+  5. C'est écrit : « caisse ».
+     写着：「caisse」。
+
+[calme]
+  1. Ce sirop calme la toux.
+     这糖浆止咳。
+  2. Je note « calme ».
+     我记下「calme」。
+  3. Tu entends « calme » ?
+     你听到「calme」了吗？
+  4. C'est écrit : « calme ».
+     写着：「calme」。
+  5. Réponse courte : « calme ».
+     简短回答：「calme」。
+
+[cappuccino]
+  1. Un cappuccino avec du lait d'avoine.
+     一杯燕麦奶卡布奇诺。
+  2. Je note « cappuccino ».
+     我记下「cappuccino」。
+  3. Tu entends « cappuccino » ?
+     你听到「cappuccino」了吗？
+  4. C'est écrit : « cappuccino ».
+     写着：「cappuccino」。
+  5. Réponse courte : « cappuccino ».
+     简短回答：「cappuccino」。
+
+[carte]
+  1. Puis-je payer par carte ?
+     可以刷卡吗？
+  2. Pouvez-vous m'indiquer sur la carte ?
+     您能在地图上指给我吗？
+  3. Je voudrais la carte des vins.
+     我要酒单。
+  4. Je note « carte ».
+     我记下「carte」。
+  5. Tu entends « carte » ?
+     你听到「carte」了吗？
+
+[casser]
+  1. La tempête a cassé des branches.
+     暴风雨刮断树枝。
+  2. Je note « casser ».
+     我记下「casser」。
+  3. Tu entends « casser » ?
+     你听到「casser」了吗？
+  4. C'est écrit : « casser ».
+     写着：「casser」。
+  5. Réponse courte : « casser ».
+     简短回答：「casser」。
+
+[cause]
+  1. On annule le pique-nique à cause de l'orage.
+     因为雷雨取消了野餐。
+  2. Je note « cause ».
+     我记下「cause」。
+  3. Tu entends « cause » ?
+     你听到「cause」了吗？
+  4. C'est écrit : « cause ».
+     写着：「cause」。
+  5. Réponse courte : « cause ».
+     简短回答：「cause」。
+
+[chaleur]
+  1. Quelle chaleur, on étouffe !
+     好热，闷得慌！
+  2. Je note « chaleur ».
+     我记下「chaleur」。
+  3. Tu entends « chaleur » ?
+     你听到「chaleur」了吗？
+  4. C'est écrit : « chaleur ».
+     写着：「chaleur」。
+  5. Réponse courte : « chaleur ».
+     简短回答：「chaleur」。
+
+[chance]
+  1. Bonne chance pour ton déménagement.
+     搬家顺利。
+  2. Je note « chance ».
+     我记下「chance」。
+  3. Tu entends « chance » ?
+     你听到「chance」了吗？
+  4. C'est écrit : « chance ».
+     写着：「chance」。
+  5. Réponse courte : « chance ».
+     简短回答：「chance」。
+
+[chariot]
+  1. Le chariot est près de l'entrée.
+     手推车在入口旁。
+  2. Je note « chariot ».
+     我记下「chariot」。
+  3. Tu entends « chariot » ?
+     你听到「chariot」了吗？
+  4. C'est écrit : « chariot ».
+     写着：「chariot」。
+  5. Réponse courte : « chariot ».
+     简短回答：「chariot」。
+
+[chat]
+  1. Le chat a faim, donne-lui à manger.
+     猫饿了，喂它点吃的。
+  2. Je note « chat ».
+     我记下「chat」。
+  3. Tu entends « chat » ?
+     你听到「chat」了吗？
+  4. C'est écrit : « chat ».
+     写着：「chat」。
+  5. Réponse courte : « chat ».
+     简短回答：「chat」。
+
+[chaud]
+  1. Un chocolat chaud avec de la crème.
+     一杯加奶油的热巧克力。
+  2. Je note « chaud ».
+     我记下「chaud」。
+  3. Tu entends « chaud » ?
+     你听到「chaud」了吗？
+  4. C'est écrit : « chaud ».
+     写着：「chaud」。
+  5. Réponse courte : « chaud ».
+     简短回答：「chaud」。
+
+[chausson]
+  1. Je cherche mes chaussons.
+     我找我的拖鞋。
+  2. Je note « chausson ».
+     我记下「chausson」。
+  3. Tu entends « chausson » ?
+     你听到「chausson」了吗？
+  4. C'est écrit : « chausson ».
+     写着：「chausson」。
+  5. Réponse courte : « chausson ».
+     简短回答：「chausson」。
+
+[cherche]
+  1. Je cherche le fromage râpé.
+     我找擦碎的奶酪。
+  2. Je cherche l'arrêt de bus.
+     我找公交车站。
+  3. Je cherche mes chaussons.
+     我找我的拖鞋。
+  4. Je note « cherche ».
+     我记下「cherche」。
+  5. Tu entends « cherche » ?
+     你听到「cherche」了吗？
+
+[ciel]
+  1. Le ciel est tout gris.
+     天阴沉沉的。
+  2. Les éclairs illuminent le ciel.
+     闪电照亮天空。
+  3. Je note « ciel ».
+     我记下「ciel」。
+  4. Tu entends « ciel » ?
+     你听到「ciel」了吗？
+  5. C'est écrit : « ciel ».
+     写着：「ciel」。
+
+[commander]
+  1. Excusez-moi, ce n'est pas ce que j'ai commandé.
+     不好意思，这不是我点的。
+  2. Je note « commander ».
+     我记下「commander」。
+  3. Tu entends « commander » ?
+     你听到「commander」了吗？
+  4. C'est écrit : « commander ».
+     写着：「commander」。
+  5. Réponse courte : « commander ».
+     简短回答：「commander」。
+
+[commencer]
+  1. La réunion commence à neuf heures pile.
+     会议九点整开始。
+  2. L'été commence en juin.
+     夏天从六月开始。
+  3. Je note « commencer ».
+     我记下「commencer」。
+  4. Tu entends « commencer » ?
+     你听到「commencer」了吗？
+  5. C'est écrit : « commencer ».
+     写着：「commencer」。
+
+[comprimé]
+  1. La douleur est passée avec le comprimé.
+     吃了药就不疼了。
+  2. Je note « comprimé ».
+     我记下「comprimé」。
+  3. Tu entends « comprimé » ?
+     你听到「comprimé」了吗？
+  4. C'est écrit : « comprimé ».
+     写着：「comprimé」。
+  5. Réponse courte : « comprimé ».
+     简短回答：「comprimé」。
+
+[congeler]
+  1. Avez-vous du poisson congelé ?
+     有冷冻鱼吗？
+  2. Je note « congeler ».
+     我记下「congeler」。
+  3. Tu entends « congeler » ?
+     你听到「congeler」了吗？
+  4. C'est écrit : « congeler ».
+     写着：「congeler」。
+  5. Réponse courte : « congeler ».
+     简短回答：「congeler」。
+
+[continuation]
+  1. À la prochaine, bonne continuation.
+     下次见，祝一切顺利。
+  2. Je note « continuation ».
+     我记下「continuation」。
+  3. Tu entends « continuation » ?
+     你听到「continuation」了吗？
+  4. C'est écrit : « continuation ».
+     写着：「continuation」。
+  5. Réponse courte : « continuation ».
+     简短回答：「continuation」。
+
+[corde]
+  1. Il pleut des cordes aujourd'hui.
+     今天下大雨。
+  2. Je note « corde ».
+     我记下「corde」。
+  3. Tu entends « corde » ?
+     你听到「corde」了吗？
+  4. C'est écrit : « corde ».
+     写着：「corde」。
+  5. Réponse courte : « corde ».
+     简短回答：「corde」。
+
+[correspondance]
+  1. La correspondance est en face.
+     换乘在对面的。
+  2. Je note « correspondance ».
+     我记下「correspondance」。
+  3. Tu entends « correspondance » ?
+     你听到「correspondance」了吗？
+  4. C'est écrit : « correspondance ».
+     写着：「correspondance」。
+  5. Réponse courte : « correspondance ».
+     简短回答：「correspondance」。
+
+[coup]
+  1. J'ai pris un coup de soleil.
+     我晒伤了。
+  2. Je note « coup ».
+     我记下「coup」。
+  3. Tu entends « coup » ?
+     你听到「coup」了吗？
+  4. C'est écrit : « coup ».
+     写着：「coup」。
+  5. Réponse courte : « coup ».
+     简短回答：「coup」。
+
+[couper]
+  1. Je me suis coupé le doigt.
+     我割到手指了。
+  2. Je note « couper ».
+     我记下「couper」。
+  3. Tu entends « couper » ?
+     你听到「couper」了吗？
+  4. C'est écrit : « couper ».
+     写着：「couper」。
+  5. Réponse courte : « couper ».
+     简短回答：「couper」。
+
+[courage]
+  1. Bon courage pour ton examen.
+     考试加油。
+  2. Je note « courage ».
+     我记下「courage」。
+  3. Tu entends « courage » ?
+     你听到「courage」了吗？
+  4. C'est écrit : « courage ».
+     写着：「courage」。
+  5. Réponse courte : « courage ».
+     简短回答：「courage」。
+
+[courir]
+  1. Je suis en retard, je cours.
+     我迟到了，在跑。
+  2. Je note « courir ».
+     我记下「courir」。
+  3. Tu entends « courir » ?
+     你听到「courir」了吗？
+  4. C'est écrit : « courir ».
+     写着：「courir」。
+  5. Réponse courte : « courir ».
+     简短回答：「courir」。
+
+[cours]
+  1. Demain, j'ai cours tôt.
+     明天我一大早就上课。
+  2. Je note « cours ».
+     我记下「cours」。
+  3. Tu entends « cours » ?
+     你听到「cours」了吗？
+  4. C'est écrit : « cours ».
+     写着：「cours」。
+  5. Réponse courte : « cours ».
+     简短回答：「cours」。
+
+[coûter]
+  1. Combien coûte cette bouteille d'eau ?
+     这瓶水多少钱？
+  2. Je note « coûter ».
+     我记下「coûter」。
+  3. Tu entends « coûter » ?
+     你听到「coûter」了吗？
+  4. C'est écrit : « coûter ».
+     写着：「coûter」。
+  5. Réponse courte : « coûter ».
+     简短回答：「coûter」。
+
+[croissant]
+  1. Je voudrais un croissant et un jus d'orange.
+     我想要一个可颂和一杯橙汁。
+  2. Je note « croissant ».
+     我记下「croissant」。
+  3. Tu entends « croissant » ?
+     你听到「croissant」了吗？
+  4. C'est écrit : « croissant ».
+     写着：「croissant」。
+  5. Réponse courte : « croissant ».
+     简短回答：「croissant」。
+
+[de]
+  1. Il n'y a plus de lait dans le frigo.
+     冰箱里没牛奶了。
+  2. Je note « de ».
+     我记下「de」。
+  3. Tu entends « de » ?
+     你听到「de」了吗？
+  4. C'est écrit : « de ».
+     写着：「de」。
+  5. Réponse courte : « de ».
+     简短回答：「de」。
+
+[demain]
+  1. Attention au verglas demain matin.
+     明早小心路面结冰。
+  2. Je note « demain ».
+     我记下「demain」。
+  3. Tu entends « demain » ?
+     你听到「demain」了吗？
+  4. C'est écrit : « demain ».
+     写着：「demain」。
+  5. Réponse courte : « demain ».
+     简短回答：「demain」。
+
+[demi-kilo]
+  1. Donnez-moi un demi-kilo d'oignons.
+     给我半公斤洋葱。
+  2. Je note « demi-kilo ».
+     我记下「demi-kilo」。
+  3. Tu entends « demi-kilo » ?
+     你听到「demi-kilo」了吗？
+  4. C'est écrit : « demi-kilo ».
+     写着：「demi-kilo」。
+  5. Réponse courte : « demi-kilo ».
+     简短回答：「demi-kilo」。
+
+[dent]
+  1. Je me brosse les dents.
+     我刷牙。
+  2. Je note « dent ».
+     我记下「dent」。
+  3. Tu entends « dent » ?
+     你听到「dent」了吗？
+  4. C'est écrit : « dent ».
+     写着：「dent」。
+  5. Réponse courte : « dent ».
+     简短回答：「dent」。
+
+[dentiste]
+  1. Le dentiste m'a fait une radio.
+     牙医给我拍了X光。
+  2. Je note « dentiste ».
+     我记下「dentiste」。
+  3. Tu entends « dentiste » ?
+     你听到「dentiste」了吗？
+  4. C'est écrit : « dentiste ».
+     写着：「dentiste」。
+  5. Réponse courte : « dentiste ».
+     简短回答：「dentiste」。
+
+[descend]
+  1. À quelle station je descends ?
+     我该哪一站下车？
+  2. Je note « descend ».
+     我记下「descend」。
+  3. Tu entends « descend » ?
+     你听到「descend」了吗？
+  4. C'est écrit : « descend ».
+     写着：「descend」。
+  5. Réponse courte : « descend ».
+     简短回答：「descend」。
+
+[dessert]
+  1. Le dessert du jour, c'est quoi ?
+     今日甜点是什么？
+  2. Je note « dessert ».
+     我记下「dessert」。
+  3. Tu entends « dessert » ?
+     你听到「dessert」了吗？
+  4. C'est écrit : « dessert ».
+     写着：「dessert」。
+  5. Réponse courte : « dessert ».
+     简短回答：「dessert」。
+
+[dessous]
+  1. Le thermomètre est tombé en dessous de zéro.
+     温度计降到零下了。
+  2. Je note « dessous ».
+     我记下「dessous」。
+  3. Tu entends « dessous » ?
+     你听到「dessous」了吗？
+  4. C'est écrit : « dessous ».
+     写着：「dessous」。
+  5. Réponse courte : « dessous ».
+     简短回答：「dessous」。
+
+[devoir]
+  1. Je dois acheter du riz et des pâtes.
+     我要买米和意面。
+  2. Je dois jeûner avant la prise de sang.
+     抽血前要空腹。
+  3. Je note « devoir ».
+     我记下「devoir」。
+  4. Tu entends « devoir » ?
+     你听到「devoir」了吗？
+  5. C'est écrit : « devoir ».
+     写着：「devoir」。
+
+[doigt]
+  1. Je me suis coupé le doigt.
+     我割到手指了。
+  2. Je note « doigt ».
+     我记下「doigt」。
+  3. Tu entends « doigt » ?
+     你听到「doigt」了吗？
+  4. C'est écrit : « doigt ».
+     写着：「doigt」。
+  5. Réponse courte : « doigt ».
+     简短回答：「doigt」。
+
+[donne]
+  1. Le chat a faim, donne-lui à manger.
+     猫饿了，喂它点吃的。
+  2. Je note « donne ».
+     我记下「donne」。
+  3. Tu entends « donne » ?
+     你听到「donne」了吗？
+  4. C'est écrit : « donne ».
+     写着：「donne」。
+  5. Réponse courte : « donne ».
+     简短回答：「donne」。
+
+[donnez]
+  1. Donnez-moi un demi-kilo d'oignons.
+     给我半公斤洋葱。
+  2. Je note « donnez ».
+     我记下「donnez」。
+  3. Tu entends « donnez » ?
+     你听到「donnez」了吗？
+  4. C'est écrit : « donnez ».
+     写着：「donnez」。
+  5. Réponse courte : « donnez ».
+     简短回答：「donnez」。
+
+[douleur]
+  1. La douleur est passée avec le comprimé.
+     吃了药就不疼了。
+  2. Je note « douleur ».
+     我记下「douleur」。
+  3. Tu entends « douleur » ?
+     你听到「douleur」了吗？
+  4. C'est écrit : « douleur ».
+     写着：「douleur」。
+  5. Réponse courte : « douleur ».
+     简短回答：「douleur」。
+
+[doux]
+  1. C'est du piment fort ou doux ?
+     这是辣辣椒还是甜的？
+  2. Je note « doux ».
+     我记下「doux」。
+  3. Tu entends « doux » ?
+     你听到「doux」了吗？
+  4. C'est écrit : « doux ».
+     写着：「doux」。
+  5. Réponse courte : « doux ».
+     简短回答：「doux」。
+
+[déjeuner]
+  1. Je fais une sieste après le déjeuner.
+     午饭后我午睡一会儿。
+  2. Je note « déjeuner ».
+     我记下「déjeuner」。
+  3. Tu entends « déjeuner » ?
+     你听到「déjeuner」了吗？
+  4. C'est écrit : « déjeuner ».
+     写着：「déjeuner」。
+  5. Réponse courte : « déjeuner ».
+     简短回答：「déjeuner」。
+
+[déménagemer]
+  1. Bonne chance pour ton déménagement.
+     搬家顺利。
+  2. Je note « déménagemer ».
+     我记下「déménagemer」。
+  3. Tu entends « déménagemer » ?
+     你听到「déménagemer」了吗？
+  4. C'est écrit : « déménagemer ».
+     写着：「déménagemer」。
+  5. Réponse courte : « déménagemer ».
+     简短回答：「déménagemer」。
+
+[désolé]
+  1. Désolé, je suis pressé.
+     抱歉，我赶时间。
+  2. Je note « désolé ».
+     我记下「désolé」。
+  3. Tu entends « désolé » ?
+     你听到「désolé」了吗？
+  4. C'est écrit : « désolé ».
+     写着：「désolé」。
+  5. Réponse courte : « désolé ».
+     简短回答：「désolé」。
+
+[eau]
+  1. Pouvez-vous apporter de l'eau gazeuse ?
+     能来点气泡水吗？
+  2. Je note « eau ».
+     我记下「eau」。
+  3. Tu entends « eau » ?
+     你听到「eau」了吗？
+  4. C'est écrit : « eau ».
+     写着：「eau」。
+  5. Réponse courte : « eau ».
+     简短回答：「eau」。
+
+[emporter]
+  1. Pour emporter, s'il vous plaît.
+     请打包带走。
+  2. Je note « emporter ».
+     我记下「emporter」。
+  3. Tu entends « emporter » ?
+     你听到「emporter」了吗？
+  4. C'est écrit : « emporter ».
+     写着：「emporter」。
+  5. Réponse courte : « emporter ».
+     简短回答：「emporter」。
+
+[enchanté]
+  1. Enchanté, je m'appelle Lucas.
+     很高兴认识你，我叫卢卡斯。
+  2. Je note « enchanté ».
+     我记下「enchanté」。
+  3. Tu entends « enchanté » ?
+     你听到「enchanté」了吗？
+  4. C'est écrit : « enchanté ».
+     写着：「enchanté」。
+  5. Réponse courte : « enchanté ».
+     简短回答：「enchanté」。
+
+[end]
+  1. Repose-toi bien ce week-end.
+     周末好好休息。
+  2. On avance l'heure ce week-end.
+     这周末调夏令时。
+  3. Je note « end ».
+     我记下「end」。
+  4. Tu entends « end » ?
+     你听到「end」了吗？
+  5. C'est écrit : « end ».
+     写着：「end」。
+
+[entrecôte]
+  1. L'entrecôte, à point, s'il vous plaît.
+     肋眼牛排要五分熟，谢谢。
+  2. Je note « entrecôte ».
+     我记下「entrecôte」。
+  3. Tu entends « entrecôte » ?
+     你听到「entrecôte」了吗？
+  4. C'est écrit : « entrecôte ».
+     写着：「entrecôte」。
+  5. Réponse courte : « entrecôte ».
+     简短回答：「entrecôte」。
+
+[entrée]
+  1. Le chariot est près de l'entrée.
+     手推车在入口旁。
+  2. Je note « entrée ».
+     我记下「entrée」。
+  3. Tu entends « entrée » ?
+     你听到「entrée」了吗？
+  4. C'est écrit : « entrée ».
+     写着：「entrée」。
+  5. Réponse courte : « entrée ».
+     简短回答：「entrée」。
+
+[espresso]
+  1. Un espresso serré, sans sucre.
+     一杯浓缩，不加糖。
+  2. Je note « espresso ».
+     我记下「espresso」。
+  3. Tu entends « espresso » ?
+     你听到「espresso」了吗？
+  4. C'est écrit : « espresso ».
+     写着：「espresso」。
+  5. Réponse courte : « espresso ».
+     简短回答：「espresso」。
+
+[espérer]
+  1. On espère du soleil pour le week-end.
+     希望周末晴天。
+  2. Je note « espérer ».
+     我记下「espérer」。
+  3. Tu entends « espérer » ?
+     你听到「espérer」了吗？
+  4. C'est écrit : « espérer ».
+     写着：「espérer」。
+  5. Réponse courte : « espérer ».
+     简短回答：「espérer」。
+
+[et]
+  1. Je dois acheter du riz et des pâtes.
+     我要买米和意面。
+  2. Je voudrais un croissant et un jus d'orange.
+     我想要一个可颂和一杯橙汁。
+  3. Ça va bien, merci, et toi ?
+     我很好，谢谢，你呢？
+  4. Il est huit heures et quart.
+     八点一刻。
+  5. Je note « et ».
+     我记下「et」。
+
+[excusez]
+  1. Excusez-moi, où est la gare ?
+     打扰一下，火车站在哪？
+  2. Excusez-moi, ce n'est pas ce que j'ai commandé.
+     不好意思，这不是我点的。
+  3. Je note « excusez ».
+     我记下「excusez」。
+  4. Tu entends « excusez » ?
+     你听到「excusez」了吗？
+  5. C'est écrit : « excusez ».
+     写着：「excusez」。
+
+[fai]
+  1. Bonne nuit, fais de beaux rêves.
+     晚安，做个好梦。
+  2. Je note « fai ».
+     我记下「fai」。
+  3. Tu entends « fai » ?
+     你听到「fai」了吗？
+  4. C'est écrit : « fai ».
+     写着：「fai」。
+  5. Réponse courte : « fai ».
+     简短回答：「fai」。
+
+[faim]
+  1. Le chat a faim, donne-lui à manger.
+     猫饿了，喂它点吃的。
+  2. Je n'ai plus faim, je suis rassasié.
+     我饱了。
+  3. Je note « faim ».
+     我记下「faim」。
+  4. Tu entends « faim » ?
+     你听到「faim」了吗？
+  5. C'est écrit : « faim ».
+     写着：「faim」。
+
+[faire]
+  1. Ça fait longtemps qu'on ne s'est pas vus !
+     好久不见！
+  2. Je fais une sieste après le déjeuner.
+     午饭后我午睡一会儿。
+  3. Ça fait une semaine que j'ai de la fièvre.
+     我发烧已经一周了。
+  4. Le dentiste m'a fait une radio.
+     牙医给我拍了X光。
+  5. Il fait beau, on peut sortir.
+     天气好，可以出门。
+
+[faites]
+  1. Faites-moi un meilleur prix, s'il vous plaît.
+     请给我个好价钱。
+  2. Je note « faites ».
+     我记下「faites」。
+  3. Tu entends « faites » ?
+     你听到「faites」了吗？
+  4. C'est écrit : « faites ».
+     写着：「faites」。
+  5. Réponse courte : « faites ».
+     简短回答：「faites」。
+
+[falloir]
+  1. Il faut sortir les poubelles ce soir.
+     今晚要倒垃圾。
+  2. Je note « falloir ».
+     我记下「falloir」。
+  3. Tu entends « falloir » ?
+     你听到「falloir」了吗？
+  4. C'est écrit : « falloir ».
+     写着：「falloir」。
+  5. Réponse courte : « falloir ».
+     简短回答：「falloir」。
+
+[ferme]
+  1. Le supermarché ferme à vingt heures.
+     超市八点关门。
+  2. Je note « ferme ».
+     我记下「ferme」。
+  3. Tu entends « ferme » ?
+     你听到「ferme」了吗？
+  4. C'est écrit : « ferme ».
+     写着：「ferme」。
+  5. Réponse courte : « ferme ».
+     简短回答：「ferme」。
+
+[fermer]
+  1. À quelle heure vous fermez ?
+     你们几点关门？
+  2. Le pont est fermé pour travaux.
+     桥因施工封闭。
+  3. Pendant les vacances, le bureau est fermé.
+     假期里办公室关门。
+  4. Je note « fermer ».
+     我记下「fermer」。
+  5. Tu entends « fermer » ?
+     你听到「fermer」了吗？
+
+[fermeture]
+  1. Il reste dix minutes avant la fermeture.
+     还有十分钟关门。
+  2. Je note « fermeture ».
+     我记下「fermeture」。
+  3. Tu entends « fermeture » ?
+     你听到「fermeture」了吗？
+  4. C'est écrit : « fermeture ».
+     写着：「fermeture」。
+  5. Réponse courte : « fermeture ».
+     简短回答：「fermeture」。
+
+[feu]
+  1. Tournez à droite au feu.
+     红绿灯处右转。
+  2. Je note « feu ».
+     我记下「feu」。
+  3. Tu entends « feu » ?
+     你听到「feu」了吗？
+  4. C'est écrit : « feu ».
+     写着：「feu」。
+  5. Réponse courte : « feu ».
+     简短回答：「feu」。
+
+[film]
+  1. On regarde un film ce soir ?
+     今晚看电影吗？
+  2. Je note « film ».
+     我记下「film」。
+  3. Tu entends « film » ?
+     你听到「film」了吗？
+  4. C'est écrit : « film ».
+     写着：「film」。
+  5. Réponse courte : « film ».
+     简短回答：「film」。
+
+[fièvre]
+  1. Ça fait une semaine que j'ai de la fièvre.
+     我发烧已经一周了。
+  2. Je note « fièvre ».
+     我记下「fièvre」。
+  3. Tu entends « fièvre » ?
+     你听到「fièvre」了吗？
+  4. C'est écrit : « fièvre ».
+     写着：「fièvre」。
+  5. Réponse courte : « fièvre ».
+     简短回答：「fièvre」。
+
+[fois]
+  1. Prenez ce médicament trois fois par jour.
+     这药一天吃三次。
+  2. Je note « fois ».
+     我记下「fois」。
+  3. Tu entends « fois » ?
+     你听到「fois」了吗？
+  4. C'est écrit : « fois ».
+     写着：「fois」。
+  5. Réponse courte : « fois ».
+     简短回答：「fois」。
+
+[fonctionner]
+  1. Le wifi fonctionne ici ?
+     这里有Wi‑Fi吗？
+  2. Je note « fonctionner ».
+     我记下「fonctionner」。
+  3. Tu entends « fonctionner » ?
+     你听到「fonctionner」了吗？
+  4. C'est écrit : « fonctionner ».
+     写着：「fonctionner」。
+  5. Réponse courte : « fonctionner ».
+     简短回答：「fonctionner」。
+
+[fort]
+  1. Le soleil cogne fort à midi.
+     中午太阳很毒。
+  2. Je note « fort ».
+     我记下「fort」。
+  3. Tu entends « fort » ?
+     你听到「fort」了吗？
+  4. C'est écrit : « fort ».
+     写着：「fort」。
+  5. Réponse courte : « fort ».
+     简短回答：「fort」。
+
+[frais]
+  1. Les légumes frais sont là-bas.
+     新鲜蔬菜在那边。
+  2. Gardez ce gel au frais.
+     这药膏请冷藏。
+  3. Je note « frais ».
+     我记下「frais」。
+  4. Tu entends « frais » ?
+     你听到「frais」了吗？
+  5. C'est écrit : « frais ».
+     写着：「frais」。
+
+[franc]
+  1. Je prends trois mangues pour mille francs.
+     一千法郎我买三个芒果。
+  2. Je note « franc ».
+     我记下「franc」。
+  3. Tu entends « franc » ?
+     你听到「franc」了吗？
+  4. C'est écrit : « franc ».
+     写着：「franc」。
+  5. Réponse courte : « franc ».
+     简短回答：「franc」。
+
+[frigo]
+  1. Il n'y a plus de lait dans le frigo.
+     冰箱里没牛奶了。
+  2. Je note « frigo ».
+     我记下「frigo」。
+  3. Tu entends « frigo » ?
+     你听到「frigo」了吗？
+  4. C'est écrit : « frigo ».
+     写着：「frigo」。
+  5. Réponse courte : « frigo ».
+     简短回答：「frigo」。
+
+[froid]
+  1. Il fait un froid de canard.
+     冷得要命。
+  2. Je note « froid ».
+     我记下「froid」。
+  3. Tu entends « froid » ?
+     你听到「froid」了吗？
+  4. C'est écrit : « froid ».
+     写着：「froid」。
+  5. Réponse courte : « froid ».
+     简短回答：「froid」。
+
+[félicitation]
+  1. Félicitations pour ton nouveau poste !
+     恭喜你新职位！
+  2. Je note « félicitation ».
+     我记下「félicitation」。
+  3. Tu entends « félicitation » ?
+     你听到「félicitation」了吗？
+  4. C'est écrit : « félicitation ».
+     写着：「félicitation」。
+  5. Réponse courte : « félicitation ».
+     简短回答：「félicitation」。
+
+[fête]
+  1. Bonne fête de fin d'année !
+     年终节日快乐！
+  2. Je note « fête ».
+     我记下「fête」。
+  3. Tu entends « fête » ?
+     你听到「fête」了吗？
+  4. C'est écrit : « fête ».
+     写着：「fête」。
+  5. Réponse courte : « fête ».
+     简短回答：「fête」。
+
+[garder]
+  1. Merci, gardez la monnaie.
+     谢谢，不用找零。
+  2. Gardez la monnaie, ce n'est pas grave.
+     零钱不用找了，没关系。
+  3. Gardez ce gel au frais.
+     这药膏请冷藏。
+  4. Je note « garder ».
+     我记下「garder」。
+  5. Tu entends « garder » ?
+     你听到「garder」了吗？
+
+[gardez]
+  1. Gardez-moi un kilo de tomates mûres.
+     给我留一公斤熟西红柿。
+  2. Je note « gardez ».
+     我记下「gardez」。
+  3. Tu entends « gardez » ?
+     你听到「gardez」了吗？
+  4. C'est écrit : « gardez ».
+     写着：「gardez」。
+  5. Réponse courte : « gardez ».
+     简短回答：「gardez」。
+
+[gare]
+  1. Excusez-moi, où est la gare ?
+     打扰一下，火车站在哪？
+  2. Je note « gare ».
+     我记下「gare」。
+  3. Tu entends « gare » ?
+     你听到「gare」了吗？
+  4. C'est écrit : « gare ».
+     写着：「gare」。
+  5. Réponse courte : « gare ».
+     简短回答：「gare」。
+
+[gazeux]
+  1. Pouvez-vous apporter de l'eau gazeuse ?
+     能来点气泡水吗？
+  2. Je note « gazeux ».
+     我记下「gazeux」。
+  3. Tu entends « gazeux » ?
+     你听到「gazeux」了吗？
+  4. C'est écrit : « gazeux ».
+     写着：「gazeux」。
+  5. Réponse courte : « gazeux ».
+     简短回答：「gazeux」。
+
+[gel]
+  1. Gardez ce gel au frais.
+     这药膏请冷藏。
+  2. Je note « gel ».
+     我记下「gel」。
+  3. Tu entends « gel » ?
+     你听到「gel」了吗？
+  4. C'est écrit : « gel ».
+     写着：「gel」。
+  5. Réponse courte : « gel ».
+     简短回答：「gel」。
+
+[gps]
+  1. Le GPS ne marche pas.
+     导航坏了。
+  2. Je note « gps ».
+     我记下「gps」。
+  3. Tu entends « gps » ?
+     你听到「gps」了吗？
+  4. C'est écrit : « gps ».
+     写着：「gps」。
+  5. Réponse courte : « gps ».
+     简短回答：「gps」。
+
+[gris]
+  1. Le ciel est tout gris.
+     天阴沉沉的。
+  2. Je note « gris ».
+     我记下「gris」。
+  3. Tu entends « gris » ?
+     你听到「gris」了吗？
+  4. C'est écrit : « gris ».
+     写着：「gris」。
+  5. Réponse courte : « gris ».
+     简短回答：「gris」。
+
+[gâteau]
+  1. Ce gâteau est délicieux !
+     这蛋糕太好吃了！
+  2. Je note « gâteau ».
+     我记下「gâteau」。
+  3. Tu entends « gâteau » ?
+     你听到「gâteau」了吗？
+  4. C'est écrit : « gâteau ».
+     写着：「gâteau」。
+  5. Réponse courte : « gâteau ».
+     简短回答：「gâteau」。
+
+[heure]
+  1. Le supermarché ferme à vingt heures.
+     超市八点关门。
+  2. À quelle heure vous fermez ?
+     你们几点关门？
+  3. À tout à l'heure, j'arrive.
+     一会儿见，我到了。
+  4. Je me lève à sept heures.
+     我七点起床。
+  5. Quelle heure est-il ?
+     几点了？
+
+[horloge]
+  1. L'horloge de la gare avance.
+     火车站的钟快了。
+  2. Je note « horloge ».
+     我记下「horloge」。
+  3. Tu entends « horloge » ?
+     你听到「horloge」了吗？
+  4. C'est écrit : « horloge ».
+     写着：「horloge」。
+  5. Réponse courte : « horloge ».
+     简短回答：「horloge」。
+
+[hydrater]
+  1. L'air est sec, hydrate-toi.
+     空气干燥，多喝水。
+  2. Je note « hydrater ».
+     我记下「hydrater」。
+  3. Tu entends « hydrater » ?
+     你听到「hydrater」了吗？
+  4. C'est écrit : « hydrater ».
+     写着：「hydrater」。
+  5. Réponse courte : « hydrater ».
+     简短回答：「hydrater」。
+
+[il]
+  1. Il neige sur les montagnes.
+     山上在下雪。
+  2. Je note « il ».
+     我记下「il」。
+  3. Tu entends « il » ?
+     你听到「il」了吗？
+  4. C'est écrit : « il ».
+     写着：「il」。
+  5. Réponse courte : « il ».
+     简短回答：「il」。
+
+[illuminer]
+  1. Les éclairs illuminent le ciel.
+     闪电照亮天空。
+  2. Je note « illuminer ».
+     我记下「illuminer」。
+  3. Tu entends « illuminer » ?
+     你听到「illuminer」了吗？
+  4. C'est écrit : « illuminer ».
+     写着：「illuminer」。
+  5. Réponse courte : « illuminer ».
+     简短回答：「illuminer」。
+
+[je]
+  1. Demain, j'ai cours tôt.
+     明天我一大早就上课。
+  2. Si j'en prends deux kilos, c'est combien ?
+     两公斤的话多少钱？
+  3. Je note « je ».
+     我记下「je」。
+  4. Tu entends « je » ?
+     你听到「je」了吗？
+  5. C'est écrit : « je ».
+     写着：「je」。
+
+[journée]
+  1. Bonne journée, à bientôt !
+     祝你有美好的一天，回头见！
+  2. Je note « journée ».
+     我记下「journée」。
+  3. Tu entends « journée » ?
+     你听到「journée」了吗？
+  4. C'est écrit : « journée ».
+     写着：「journée」。
+  5. Réponse courte : « journée ».
+     简短回答：「journée」。
+
+[juin]
+  1. L'été commence en juin.
+     夏天从六月开始。
+  2. Je note « juin ».
+     我记下「juin」。
+  3. Tu entends « juin » ?
+     你听到「juin」了吗？
+  4. C'est écrit : « juin ».
+     写着：「juin」。
+  5. Réponse courte : « juin ».
+     简短回答：「juin」。
+
+[jus]
+  1. Je voudrais un croissant et un jus d'orange.
+     我想要一个可颂和一杯橙汁。
+  2. Je note « jus ».
+     我记下「jus」。
+  3. Tu entends « jus » ?
+     你听到「jus」了吗？
+  4. C'est écrit : « jus ».
+     写着：「jus」。
+  5. Réponse courte : « jus ».
+     简短回答：「jus」。
+
+[jusque]
+  1. Vous servez le petit-déjeuner jusqu'à midi ?
+     早餐供应到中午吗？
+  2. Je note « jusque ».
+     我记下「jusque」。
+  3. Tu entends « jusque » ?
+     你听到「jusque」了吗？
+  4. C'est écrit : « jusque ».
+     写着：「jusque」。
+  5. Réponse courte : « jusque ».
+     简短回答：「jusque」。
+
+[kilo]
+  1. Je prends un kilo de pommes.
+     我买一公斤苹果。
+  2. Si j'en prends deux kilos, c'est combien ?
+     两公斤的话多少钱？
+  3. Gardez-moi un kilo de tomates mûres.
+     给我留一公斤熟西红柿。
+  4. Je note « kilo ».
+     我记下「kilo」。
+  5. Tu entends « kilo » ?
+     你听到「kilo」了吗？
+
+[lait]
+  1. Le lait est en promotion aujourd'hui.
+     牛奶今天促销。
+  2. Il n'y a plus de lait dans le frigo.
+     冰箱里没牛奶了。
+  3. Je note « lait ».
+     我记下「lait」。
+  4. Tu entends « lait » ?
+     你听到「lait」了吗？
+  5. C'est écrit : « lait ».
+     写着：「lait」。
+
+[le]
+  1. À tout à l'heure, j'arrive.
+     一会儿见，我到了。
+  2. Je note « le ».
+     我记下「le」。
+  3. Tu entends « le » ?
+     你听到「le」了吗？
+  4. C'est écrit : « le ».
+     写着：「le」。
+  5. Réponse courte : « le ».
+     简短回答：「le」。
+
+[lever]
+  1. Je me lève à sept heures.
+     我七点起床。
+  2. Je note « lever ».
+     我记下「lever」。
+  3. Tu entends « lever » ?
+     你听到「lever」了吗？
+  4. C'est écrit : « lever ».
+     写着：「lever」。
+  5. Réponse courte : « lever ».
+     简短回答：「lever」。
+
+[ligne]
+  1. La ligne deux est en retard.
+     二号线晚点了。
+  2. Je note « ligne ».
+     我记下「ligne」。
+  3. Tu entends « ligne » ?
+     你听到「ligne」了吗？
+  4. C'est écrit : « ligne ».
+     写着：「ligne」。
+  5. Réponse courte : « ligne ».
+     简短回答：「ligne」。
+
+[liste]
+  1. La liste de courses est sur mon téléphone.
+     购物清单在手机上。
+  2. J'ai oublié ma liste sur la table.
+     我把清单忘在桌上了。
+  3. Je note « liste ».
+     我记下「liste」。
+  4. Tu entends « liste » ?
+     你听到「liste」了吗？
+  5. C'est écrit : « liste ».
+     写着：「liste」。
+
+[lumière]
+  1. J'ai oublié d'éteindre la lumière.
+     我忘了关灯。
+  2. Je note « lumière ».
+     我记下「lumière」。
+  3. Tu entends « lumière » ?
+     你听到「lumière」了吗？
+  4. C'est écrit : « lumière ».
+     写着：「lumière」。
+  5. Réponse courte : « lumière ».
+     简短回答：「lumière」。
+
+[lundi]
+  1. Je travaille du lundi au vendredi.
+     我周一到周五上班。
+  2. Je note « lundi ».
+     我记下「lundi」。
+  3. Tu entends « lundi » ?
+     你听到「lundi」了吗？
+  4. C'est écrit : « lundi ».
+     写着：「lundi」。
+  5. Réponse courte : « lundi ».
+     简短回答：「lundi」。
+
+[légume]
+  1. Les légumes frais sont là-bas.
+     新鲜蔬菜在那边。
+  2. Je note « légume ».
+     我记下「légume」。
+  3. Tu entends « légume » ?
+     你听到「légume」了吗？
+  4. C'est écrit : « légume ».
+     写着：「légume」。
+  5. Réponse courte : « légume ».
+     简短回答：「légume」。
+
+[machine]
+  1. La machine à laver est en panne.
+     洗衣机坏了。
+  2. Je note « machine ».
+     我记下「machine」。
+  3. Tu entends « machine » ?
+     你听到「machine」了吗？
+  4. C'est écrit : « machine ».
+     写着：「machine」。
+  5. Réponse courte : « machine ».
+     简短回答：「machine」。
+
+[magasin]
+  1. Le magasin ouvre à dix heures.
+     商店十点开门。
+  2. Je note « magasin ».
+     我记下「magasin」。
+  3. Tu entends « magasin » ?
+     你听到「magasin」了吗？
+  4. C'est écrit : « magasin ».
+     写着：「magasin」。
+  5. Réponse courte : « magasin ».
+     简短回答：「magasin」。
+
+[mal]
+  1. J'ai mal dormi cette nuit.
+     我昨晚没睡好。
+  2. J'ai mal à la tête depuis ce matin.
+     我从今早开始头疼。
+  3. Je note « mal ».
+     我记下「mal」。
+  4. Tu entends « mal » ?
+     你听到「mal」了吗？
+  5. C'est écrit : « mal ».
+     写着：「mal」。
+
+[manger]
+  1. On mange ensemble à midi.
+     我们中午一起吃饭。
+  2. Le chat a faim, donne-lui à manger.
+     猫饿了，喂它点吃的。
+  3. Je note « manger ».
+     我记下「manger」。
+  4. Tu entends « manger » ?
+     你听到「manger」了吗？
+  5. C'est écrit : « manger ».
+     写着：「manger」。
+
+[mangue]
+  1. Je prends trois mangues pour mille francs.
+     一千法郎我买三个芒果。
+  2. Je note « mangue ».
+     我记下「mangue」。
+  3. Tu entends « mangue » ?
+     你听到「mangue」了吗？
+  4. C'est écrit : « mangue ».
+     写着：「mangue」。
+  5. Réponse courte : « mangue ».
+     简短回答：「mangue」。
+
+[manteau]
+  1. Il y a du vent, accroche ton manteau.
+     有风，扣好外套。
+  2. Je note « manteau ».
+     我记下「manteau」。
+  3. Tu entends « manteau » ?
+     你听到「manteau」了吗？
+  4. C'est écrit : « manteau ».
+     写着：「manteau」。
+  5. Réponse courte : « manteau ».
+     简短回答：「manteau」。
+
+[marche]
+  1. Le GPS ne marche pas.
+     导航坏了。
+  2. Je note « marche ».
+     我记下「marche」。
+  3. Tu entends « marche » ?
+     你听到「marche」了吗？
+  4. C'est écrit : « marche ».
+     写着：「marche」。
+  5. Réponse courte : « marche ».
+     简短回答：「marche」。
+
+[marie]
+  1. Je m'appelle Marie pour la réservation.
+     预订的名字是玛丽。
+  2. Je note « marie ».
+     我记下「marie」。
+  3. Tu entends « marie » ?
+     你听到「marie」了吗？
+  4. C'est écrit : « marie ».
+     写着：「marie」。
+  5. Réponse courte : « marie ».
+     简短回答：「marie」。
+
+[mars]
+  1. Aujourd'hui nous sommes le quinze mars.
+     今天是三月十五号。
+  2. Je note « mars ».
+     我记下「mars」。
+  3. Tu entends « mars » ?
+     你听到「mars」了吗？
+  4. C'est écrit : « mars ».
+     写着：「mars」。
+  5. Réponse courte : « mars ».
+     简短回答：「mars」。
+
+[matin]
+  1. J'ai mal à la tête depuis ce matin.
+     我从今早开始头疼。
+  2. Ce poisson est pêché ce matin ?
+     这鱼是今早捕的吗？
+  3. Attention au verglas demain matin.
+     明早小心路面结冰。
+  4. Je note « matin ».
+     我记下「matin」。
+  5. Tu entends « matin » ?
+     你听到「matin」了吗？
+
+[merci]
+  1. Merci, gardez la monnaie.
+     谢谢，不用找零。
+  2. Un verre d'eau avec glaçons, merci.
+     一杯加冰的水，谢谢。
+  3. Ça va bien, merci, et toi ?
+     我很好，谢谢，你呢？
+  4. Merci pour ton aide, c'est gentil.
+     谢谢你的帮助，你真好。
+  5. Merci, c'était délicieux.
+     谢谢，很好吃。
+
+[mettez]
+  1. Mettez tout dans le même sac, merci.
+     请都装进同一个袋子，谢谢。
+  2. Je note « mettez ».
+     我记下「mettez」。
+  3. Tu entends « mettez » ?
+     你听到「mettez」了吗？
+  4. C'est écrit : « mettez ».
+     写着：「mettez」。
+  5. Réponse courte : « mettez ».
+     简短回答：「mettez」。
+
+[mettre]
+  1. Peux-tu mettre la table ?
+     你能摆一下桌子吗？
+  2. Je note « mettre ».
+     我记下「mettre」。
+  3. Tu entends « mettre » ?
+     你听到「mettre」了吗？
+  4. C'est écrit : « mettre ».
+     写着：「mettre」。
+  5. Réponse courte : « mettre ».
+     简短回答：「mettre」。
+
+[midi]
+  1. Vous servez le petit-déjeuner jusqu'à midi ?
+     早餐供应到中午吗？
+  2. On mange ensemble à midi.
+     我们中午一起吃饭。
+  3. Le soleil cogne fort à midi.
+     中午太阳很毒。
+  4. Synchronise tes montres à midi pile.
+     中午整点对表。
+  5. Je note « midi ».
+     我记下「midi」。
+
+[moi]
+  1. Donnez-moi un demi-kilo d'oignons.
+     给我半公斤洋葱。
+  2. Gardez-moi un kilo de tomates mûres.
+     给我留一公斤熟西红柿。
+  3. Je note « moi ».
+     我记下「moi」。
+  4. Tu entends « moi » ?
+     你听到「moi」了吗？
+  5. C'est écrit : « moi ».
+     写着：「moi」。
+
+[mois]
+  1. Dans un mois, c'est mon anniversaire.
+     再过一个月就是我生日。
+  2. Je note « mois ».
+     我记下「mois」。
+  3. Tu entends « mois » ?
+     你听到「mois」了吗？
+  4. C'est écrit : « mois ».
+     写着：「mois」。
+  5. Réponse courte : « mois ».
+     简短回答：「mois」。
+
+[monnaie]
+  1. Merci, gardez la monnaie.
+     谢谢，不用找零。
+  2. Gardez la monnaie, ce n'est pas grave.
+     零钱不用找了，没关系。
+  3. Vous avez la monnaie sur dix mille ?
+     一万您能找开吗？
+  4. Je note « monnaie ».
+     我记下「monnaie」。
+  5. Tu entends « monnaie » ?
+     你听到「monnaie」了吗？
+
+[monsieur]
+  1. C'est trop cher pour moi, madame.
+     太贵了，大姐。
+  2. Je note « monsieur ».
+     我记下「monsieur」。
+  3. Tu entends « monsieur » ?
+     你听到「monsieur」了吗？
+  4. C'est écrit : « monsieur ».
+     写着：「monsieur」。
+  5. Réponse courte : « monsieur ».
+     简短回答：「monsieur」。
+
+[montagne]
+  1. Il neige sur les montagnes.
+     山上在下雪。
+  2. Je note « montagne ».
+     我记下「montagne」。
+  3. Tu entends « montagne » ?
+     你听到「montagne」了吗？
+  4. C'est écrit : « montagne ».
+     写着：「montagne」。
+  5. Réponse courte : « montagne ».
+     简短回答：「montagne」。
+
+[montez]
+  1. Montez deux étages, s'il vous plaît.
+     请上两层。
+  2. Je note « montez ».
+     我记下「montez」。
+  3. Tu entends « montez » ?
+     你听到「montez」了吗？
+  4. C'est écrit : « montez ».
+     写着：「montez」。
+  5. Réponse courte : « montez ».
+     简短回答：「montez」。
+
+[mot]
+  1. C'est votre dernier mot sur le prix ?
+     这是您的底价吗？
+  2. Je note « mot ».
+     我记下「mot」。
+  3. Tu entends « mot » ?
+     你听到「mot」了吗？
+  4. C'est écrit : « mot ».
+     写着：「mot」。
+  5. Réponse courte : « mot ».
+     简短回答：「mot」。
+
+[médicament]
+  1. Prenez ce médicament trois fois par jour.
+     这药一天吃三次。
+  2. Je note « médicament ».
+     我记下「médicament」。
+  3. Tu entends « médicament » ?
+     你听到「médicament」了吗？
+  4. C'est écrit : « médicament ».
+     写着：「médicament」。
+  5. Réponse courte : « médicament ».
+     简短回答：「médicament」。
+
+[nature]
+  1. Je préfère les yaourts nature.
+     我更喜欢原味酸奶。
+  2. Je note « nature ».
+     我记下「nature」。
+  3. Tu entends « nature » ?
+     你听到「nature」了吗？
+  4. C'est écrit : « nature ».
+     写着：「nature」。
+  5. Réponse courte : « nature ».
+     简短回答：「nature」。
+
+[neige]
+  1. Il neige sur les montagnes.
+     山上在下雪。
+  2. Je note « neige ».
+     我记下「neige」。
+  3. Tu entends « neige » ?
+     你听到「neige」了吗？
+  4. C'est écrit : « neige ».
+     写着：「neige」。
+  5. Réponse courte : « neige ».
+     简短回答：「neige」。
+
+[noix]
+  1. Je suis allergique aux noix.
+     我对坚果过敏。
+  2. Je note « noix ».
+     我记下「noix」。
+  3. Tu entends « noix » ?
+     你听到「noix」了吗？
+  4. C'est écrit : « noix ».
+     写着：「noix」。
+  5. Réponse courte : « noix ».
+     简短回答：「noix」。
+
+[nuit]
+  1. J'ai mal dormi cette nuit.
+     我昨晚没睡好。
+  2. Bonne nuit, fais de beaux rêves.
+     晚安，做个好梦。
+  3. Je note « nuit ».
+     我记下「nuit」。
+  4. Tu entends « nuit » ?
+     你听到「nuit」了吗？
+  5. C'est écrit : « nuit ».
+     写着：「nuit」。
+
+[ombre]
+  1. Il fait trente degrés à l'ombre.
+     阴凉处三十度。
+  2. Je note « ombre ».
+     我记下「ombre」。
+  3. Tu entends « ombre » ?
+     你听到「ombre」了吗？
+  4. C'est écrit : « ombre ».
+     写着：「ombre」。
+  5. Réponse courte : « ombre ».
+     简短回答：「ombre」。
+
+[on]
+  1. L'addition, on partage ?
+     账单我们AA吗？
+  2. Quelle chaleur, on étouffe !
+     好热，闷得慌！
+  3. Je note « on ».
+     我记下「on」。
+  4. Tu entends « on » ?
+     你听到「on」了吗？
+  5. C'est écrit : « on ».
+     写着：「on」。
+
+[ordonnance]
+  1. Avez-vous une ordonnance ?
+     您有处方吗？
+  2. Je note « ordonnance ».
+     我记下「ordonnance」。
+  3. Tu entends « ordonnance » ?
+     你听到「ordonnance」了吗？
+  4. C'est écrit : « ordonnance ».
+     写着：「ordonnance」。
+  5. Réponse courte : « ordonnance ».
+     简短回答：「ordonnance」。
+
+[oublier]
+  1. J'ai oublié ma liste sur la table.
+     我把清单忘在桌上了。
+  2. J'ai oublié d'éteindre la lumière.
+     我忘了关灯。
+  3. N'oublie pas l'heure du couvre-feu.
+     别忘了宵禁时间。
+  4. Je note « oublier ».
+     我记下「oublier」。
+  5. Tu entends « oublier » ?
+     你听到「oublier」了吗？
+
+[ouvrir]
+  1. Le magasin ouvre à dix heures.
+     商店十点开门。
+  2. Je note « ouvrir ».
+     我记下「ouvrir」。
+  3. Tu entends « ouvrir » ?
+     你听到「ouvrir」了吗？
+  4. C'est écrit : « ouvrir ».
+     写着：「ouvrir」。
+  5. Réponse courte : « ouvrir ».
+     简短回答：「ouvrir」。
+
+[pain]
+  1. Je voudrais du pain, s'il vous plaît.
+     我想要一些面包，谢谢。
+  2. Je note « pain ».
+     我记下「pain」。
+  3. Tu entends « pain » ?
+     你听到「pain」了吗？
+  4. C'est écrit : « pain ».
+     写着：「pain」。
+  5. Réponse courte : « pain ».
+     简短回答：「pain」。
+
+[panier]
+  1. C'est combien, le panier de mangues ?
+     这筐芒果多少钱？
+  2. Je note « panier ».
+     我记下「panier」。
+  3. Tu entends « panier » ?
+     你听到「panier」了吗？
+  4. C'est écrit : « panier ».
+     写着：「panier」。
+  5. Réponse courte : « panier ».
+     简短回答：「panier」。
+
+[pansement]
+  1. J'ai besoin de pansements.
+     我需要创可贴/绷带。
+  2. Je note « pansement ».
+     我记下「pansement」。
+  3. Tu entends « pansement » ?
+     你听到「pansement」了吗？
+  4. C'est écrit : « pansement ».
+     写着：「pansement」。
+  5. Réponse courte : « pansement ».
+     简短回答：「pansement」。
+
+[parking]
+  1. Le parking est complet.
+     停车场满了。
+  2. Je note « parking ».
+     我记下「parking」。
+  3. Tu entends « parking » ?
+     你听到「parking」了吗？
+  4. C'est écrit : « parking ».
+     写着：「parking」。
+  5. Réponse courte : « parking ».
+     简短回答：「parking」。
+
+[part]
+  1. Je voudrais une part de tarte aux pommes.
+     我想要一块苹果派。
+  2. Le prochain train part dans dix minutes.
+     下一班火车十分钟后开。
+  3. Le dernier train part à minuit.
+     末班车午夜开。
+  4. Je note « part ».
+     我记下「part」。
+  5. Tu entends « part » ?
+     你听到「part」了吗？
+
+[partage]
+  1. L'addition, on partage ?
+     账单我们AA吗？
+  2. Je note « partage ».
+     我记下「partage」。
+  3. Tu entends « partage » ?
+     你听到「partage」了吗？
+  4. C'est écrit : « partage ».
+     写着：「partage」。
+  5. Réponse courte : « partage ».
+     简短回答：「partage」。
+
+[pas]
+  1. À ce tarif-là, je ne prends pas.
+     这价我就不买了。
+  2. Je note « pas ».
+     我记下「pas」。
+  3. Tu entends « pas » ?
+     你听到「pas」了吗？
+  4. C'est écrit : « pas ».
+     写着：「pas」。
+  5. Réponse courte : « pas ».
+     简短回答：「pas」。
+
+[pass]
+  1. Où puis-je valider mon pass ?
+     我在哪刷交通卡？
+  2. Je note « pass ».
+     我记下「pass」。
+  3. Tu entends « pass » ?
+     你听到「pass」了吗？
+  4. C'est écrit : « pass ».
+     写着：「pass」。
+  5. Réponse courte : « pass ».
+     简短回答：「pass」。
+
+[passer]
+  1. Passez devant la caisse trois, s'il vous plaît.
+     请到三号收银台。
+  2. Passe une bonne soirée.
+     祝你晚上愉快。
+  3. La douleur est passée avec le comprimé.
+     吃了药就不疼了。
+  4. Je note « passer ».
+     我记下「passer」。
+  5. Tu entends « passer » ?
+     你听到「passer」了吗？
+
+[payer]
+  1. Puis-je payer par carte ?
+     可以刷卡吗？
+  2. Je note « payer ».
+     我记下「payer」。
+  3. Tu entends « payer » ?
+     你听到「payer」了吗？
+  4. C'est écrit : « payer ».
+     写着：「payer」。
+  5. Réponse courte : « payer ».
+     简短回答：「payer」。
+
+[petit-déjeuner]
+  1. Vous servez le petit-déjeuner jusqu'à midi ?
+     早餐供应到中午吗？
+  2. Je note « petit-déjeuner ».
+     我记下「petit-déjeuner」。
+  3. Tu entends « petit-déjeuner » ?
+     你听到「petit-déjeuner」了吗？
+  4. C'est écrit : « petit-déjeuner ».
+     写着：「petit-déjeuner」。
+  5. Réponse courte : « petit-déjeuner ».
+     简短回答：「petit-déjeuner」。
+
+[pharmacie]
+  1. Où se trouve la pharmacie de garde ?
+     夜班药房在哪？
+  2. Je note « pharmacie ».
+     我记下「pharmacie」。
+  3. Tu entends « pharmacie » ?
+     你听到「pharmacie」了吗？
+  4. C'est écrit : « pharmacie ».
+     写着：「pharmacie」。
+  5. Réponse courte : « pharmacie ».
+     简短回答：「pharmacie」。
+
+[pied]
+  1. C'est loin à pied ?
+     走路远吗？
+  2. Je note « pied ».
+     我记下「pied」。
+  3. Tu entends « pied » ?
+     你听到「pied」了吗？
+  4. C'est écrit : « pied ».
+     写着：「pied」。
+  5. Réponse courte : « pied ».
+     简短回答：「pied」。
+
+[pil]
+  1. La réunion commence à neuf heures pile.
+     会议九点整开始。
+  2. Je note « pil ».
+     我记下「pil」。
+  3. Tu entends « pil » ?
+     你听到「pil」了吗？
+  4. C'est écrit : « pil ».
+     写着：「pil」。
+  5. Réponse courte : « pil ».
+     简短回答：「pil」。
+
+[pile]
+  1. Synchronise tes montres à midi pile.
+     中午整点对表。
+  2. Je note « pile ».
+     我记下「pile」。
+  3. Tu entends « pile » ?
+     你听到「pile」了吗？
+  4. C'est écrit : « pile ».
+     写着：「pile」。
+  5. Réponse courte : « pile ».
+     简短回答：「pile」。
+
+[piment]
+  1. C'est du piment fort ou doux ?
+     这是辣辣椒还是甜的？
+  2. Je note « piment ».
+     我记下「piment」。
+  3. Tu entends « piment » ?
+     你听到「piment」了吗？
+  4. C'est écrit : « piment ».
+     写着：「piment」。
+  5. Réponse courte : « piment ».
+     简短回答：「piment」。
+
+[pique-nique]
+  1. On annule le pique-nique à cause de l'orage.
+     因为雷雨取消了野餐。
+  2. Je note « pique-nique ».
+     我记下「pique-nique」。
+  3. Tu entends « pique-nique » ?
+     你听到「pique-nique」了吗？
+  4. C'est écrit : « pique-nique ».
+     写着：「pique-nique」。
+  5. Réponse courte : « pique-nique ».
+     简短回答：「pique-nique」。
+
+[place]
+  1. Vous avez des places en terrasse ?
+     露台还有位子吗？
+  2. Je note « place ».
+     我记下「place」。
+  3. Tu entends « place » ?
+     你听到「place」了吗？
+  4. C'est écrit : « place ».
+     写着：「place」。
+  5. Réponse courte : « place ».
+     简短回答：「place」。
+
+[plaisir]
+  1. Pas de quoi, avec plaisir.
+     不客气，乐意帮忙。
+  2. Je note « plaisir ».
+     我记下「plaisir」。
+  3. Tu entends « plaisir » ?
+     你听到「plaisir」了吗？
+  4. C'est écrit : « plaisir ».
+     写着：「plaisir」。
+  5. Réponse courte : « plaisir ».
+     简短回答：「plaisir」。
+
+[plat]
+  1. Le plat était un peu salé.
+     菜有点咸。
+  2. Pourriez-vous recommencer mon plat ?
+     能重新做我这道菜吗？
+  3. Je note « plat ».
+     我记下「plat」。
+  4. Tu entends « plat » ?
+     你听到「plat」了吗？
+  5. C'est écrit : « plat ».
+     写着：「plat」。
+
+[pleuvoir]
+  1. Il pleut, ferme les volets.
+     下雨了，关百叶窗。
+  2. Il pleut des cordes aujourd'hui.
+     今天下大雨。
+  3. Je note « pleuvoir ».
+     我记下「pleuvoir」。
+  4. Tu entends « pleuvoir » ?
+     你听到「pleuvoir」了吗？
+  5. C'est écrit : « pleuvoir ».
+     写着：「pleuvoir」。
+
+[pluie]
+  1. Les prévisions annoncent de la pluie.
+     预报说有雨。
+  2. Je note « pluie ».
+     我记下「pluie」。
+  3. Tu entends « pluie » ?
+     你听到「pluie」了吗？
+  4. C'est écrit : « pluie ».
+     写着：「pluie」。
+  5. Réponse courte : « pluie ».
+     简短回答：「pluie」。
+
+[point]
+  1. L'entrecôte, à point, s'il vous plaît.
+     肋眼牛排要五分熟，谢谢。
+  2. Je note « point ».
+     我记下「point」。
+  3. Tu entends « point » ?
+     你听到「point」了吗？
+  4. C'est écrit : « point ».
+     写着：「point」。
+  5. Réponse courte : « point ».
+     简短回答：「point」。
+
+[poisson]
+  1. Avez-vous du poisson congelé ?
+     有冷冻鱼吗？
+  2. Ce poisson est pêché ce matin ?
+     这鱼是今早捕的吗？
+  3. Je note « poisson ».
+     我记下「poisson」。
+  4. Tu entends « poisson » ?
+     你听到「poisson」了吗？
+  5. C'est écrit : « poisson ».
+     写着：「poisson」。
+
+[pont]
+  1. Le pont est fermé pour travaux.
+     桥因施工封闭。
+  2. Je note « pont ».
+     我记下「pont」。
+  3. Tu entends « pont » ?
+     你听到「pont」了吗？
+  4. C'est écrit : « pont ».
+     写着：「pont」。
+  5. Réponse courte : « pont ».
+     简短回答：「pont」。
+
+[poste]
+  1. Félicitations pour ton nouveau poste !
+     恭喜你新职位！
+  2. Je note « poste ».
+     我记下「poste」。
+  3. Tu entends « poste » ?
+     你听到「poste」了吗？
+  4. C'est écrit : « poste ».
+     写着：「poste」。
+  5. Réponse courte : « poste ».
+     简短回答：「poste」。
+
+[pourboire]
+  1. Le pourboire est inclus ?
+     小费包含在内吗？
+  2. Je note « pourboire ».
+     我记下「pourboire」。
+  3. Tu entends « pourboire » ?
+     你听到「pourboire」了吗？
+  4. C'est écrit : « pourboire ».
+     写着：「pourboire」。
+  5. Réponse courte : « pourboire ».
+     简短回答：「pourboire」。
+
+[pourriez]
+  1. Pourriez-vous recommencer mon plat ?
+     能重新做我这道菜吗？
+  2. Je note « pourriez ».
+     我记下「pourriez」。
+  3. Tu entends « pourriez » ?
+     你听到「pourriez」了吗？
+  4. C'est écrit : « pourriez ».
+     写着：「pourriez」。
+  5. Réponse courte : « pourriez ».
+     简短回答：「pourriez」。
+
+[pouvoir]
+  1. Pouvez-vous m'indiquer sur la carte ?
+     您能在地图上指给我吗？
+  2. Tu peux baisser le son de la télé ?
+     能把电视声音调小吗？
+  3. Pouvez-vous apporter de l'eau gazeuse ?
+     能来点气泡水吗？
+  4. On peut payer séparément ?
+     可以分开付吗？
+  5. On peut discuter un peu le prix ?
+     价钱能再商量一点吗？
+
+[prend]
+  1. Je prends un kilo de pommes.
+     我买一公斤苹果。
+  2. Je prends un thé vert sans sucre.
+     我要一杯无糖绿茶。
+  3. Je prends un café sans alcool.
+     我要一杯无酒精咖啡。
+  4. Je prends trois mangues pour mille francs.
+     一千法郎我买三个芒果。
+  5. Je note « prend ».
+     我记下「prend」。
+
+[prendre]
+  1. Prenez ce médicament trois fois par jour.
+     这药一天吃三次。
+  2. Si j'en prends deux kilos, c'est combien ?
+     两公斤的话多少钱？
+  3. J'ai pris un coup de soleil.
+     我晒伤了。
+  4. Il bruine, prends ton parapluie.
+     毛毛雨，带上伞。
+  5. Je note « prendre ».
+     我记下「prendre」。
+
+[presser]
+  1. Désolé, je suis pressé.
+     抱歉，我赶时间。
+  2. Je note « presser ».
+     我记下「presser」。
+  3. Tu entends « presser » ?
+     你听到「presser」了吗？
+  4. C'est écrit : « presser ».
+     写着：「presser」。
+  5. Réponse courte : « presser ».
+     简短回答：「presser」。
+
+[prise]
+  1. Je dois jeûner avant la prise de sang.
+     抽血前要空腹。
+  2. Je note « prise ».
+     我记下「prise」。
+  3. Tu entends « prise » ?
+     你听到「prise」了吗？
+  4. C'est écrit : « prise ».
+     写着：「prise」。
+  5. Réponse courte : « prise ».
+     简短回答：「prise」。
+
+[prix]
+  1. C'est votre dernier mot sur le prix ?
+     这是您的底价吗？
+  2. On peut discuter un peu le prix ?
+     价钱能再商量一点吗？
+  3. Ici, c'est toujours le même prix ?
+     这儿价钱一直一样吗？
+  4. Je note « prix ».
+     我记下「prix」。
+  5. Tu entends « prix » ?
+     你听到「prix」了吗？
+
+[profondément]
+  1. Respirez profondément, s'il vous plaît.
+     请深呼吸。
+  2. Je note « profondément ».
+     我记下「profondément」。
+  3. Tu entends « profondément » ?
+     你听到「profondément」了吗？
+  4. C'est écrit : « profondément ».
+     写着：「profondément」。
+  5. Réponse courte : « profondément ».
+     简短回答：「profondément」。
+
+[promotion]
+  1. Le lait est en promotion aujourd'hui.
+     牛奶今天促销。
+  2. Je note « promotion ».
+     我记下「promotion」。
+  3. Tu entends « promotion » ?
+     你听到「promotion」了吗？
+  4. C'est écrit : « promotion ».
+     写着：「promotion」。
+  5. Réponse courte : « promotion ».
+     简短回答：「promotion」。
+
+[préférer]
+  1. Je préfère les yaourts nature.
+     我更喜欢原味酸奶。
+  2. Je préfère le vélo en ville.
+     在城里我更喜欢骑车。
+  3. Je note « préférer ».
+     我记下「préférer」。
+  4. Tu entends « préférer » ?
+     你听到「préférer」了吗？
+  5. C'est écrit : « préférer ».
+     写着：「préférer」。
+
+[présente]
+  1. Je te présente ma sœur.
+     我给你介绍一下我妹妹。
+  2. Je note « présente ».
+     我记下「présente」。
+  3. Tu entends « présente » ?
+     你听到「présente」了吗？
+  4. C'est écrit : « présente ».
+     写着：「présente」。
+  5. Réponse courte : « présente ».
+     简短回答：「présente」。
+
+[prévision]
+  1. Les prévisions annoncent de la pluie.
+     预报说有雨。
+  2. Je note « prévision ».
+     我记下「prévision」。
+  3. Tu entends « prévision » ?
+     你听到「prévision」了吗？
+  4. C'est écrit : « prévision ».
+     写着：「prévision」。
+  5. Réponse courte : « prévision ».
+     简短回答：「prévision」。
+
+[pâte]
+  1. Je dois acheter du riz et des pâtes.
+     我要买米和意面。
+  2. Je note « pâte ».
+     我记下「pâte」。
+  3. Tu entends « pâte » ?
+     你听到「pâte」了吗？
+  4. C'est écrit : « pâte ».
+     写着：「pâte」。
+  5. Réponse courte : « pâte ».
+     简短回答：「pâte」。
+
+[pénicilline]
+  1. Je suis allergique à la pénicilline.
+     我对青霉素过敏。
+  2. Je note « pénicilline ».
+     我记下「pénicilline」。
+  3. Tu entends « pénicilline » ?
+     你听到「pénicilline」了吗？
+  4. C'est écrit : « pénicilline ».
+     写着：「pénicilline」。
+  5. Réponse courte : « pénicilline ».
+     简短回答：「pénicilline」。
+
+[pêcher]
+  1. Ce poisson est pêché ce matin ?
+     这鱼是今早捕的吗？
+  2. Je note « pêcher ».
+     我记下「pêcher」。
+  3. Tu entends « pêcher » ?
+     你听到「pêcher」了吗？
+  4. C'est écrit : « pêcher ».
+     写着：「pêcher」。
+  5. Réponse courte : « pêcher ».
+     简短回答：「pêcher」。
+
+[quart]
+  1. Il est huit heures et quart.
+     八点一刻。
+  2. On se retrouve dans un quart d'heure.
+     我们一刻钟后见。
+  3. Je note « quart ».
+     我记下「quart」。
+  4. Tu entends « quart » ?
+     你听到「quart」了吗？
+  5. C'est écrit : « quart ».
+     写着：「quart」。
+
+[quell]
+  1. Quelle chaleur, on étouffe !
+     好热，闷得慌！
+  2. Je note « quell ».
+     我记下「quell」。
+  3. Tu entends « quell » ?
+     你听到「quell」了吗？
+  4. C'est écrit : « quell ».
+     写着：「quell」。
+  5. Réponse courte : « quell ».
+     简短回答：「quell」。
+
+[queue]
+  1. La queue est longue à la caisse.
+     收银台排队很长。
+  2. Je note « queue ».
+     我记下「queue」。
+  3. Tu entends « queue » ?
+     你听到「queue」了吗？
+  4. C'est écrit : « queue ».
+     写着：「queue」。
+  5. Réponse courte : « queue ».
+     简短回答：「queue」。
+
+[quoi]
+  1. Pas de quoi, avec plaisir.
+     不客气，乐意帮忙。
+  2. Je note « quoi ».
+     我记下「quoi」。
+  3. Tu entends « quoi » ?
+     你听到「quoi」了吗？
+  4. C'est écrit : « quoi ».
+     写着：「quoi」。
+  5. Réponse courte : « quoi ».
+     简短回答：「quoi」。
+
+[radio]
+  1. Le dentiste m'a fait une radio.
+     牙医给我拍了X光。
+  2. Je note « radio ».
+     我记下「radio」。
+  3. Tu entends « radio » ?
+     你听到「radio」了吗？
+  4. C'est écrit : « radio ».
+     写着：「radio」。
+  5. Réponse courte : « radio ».
+     简短回答：「radio」。
+
+[range]
+  1. Range ta chambre, s'il te plaît.
+     请收拾你的房间。
+  2. Je note « range ».
+     我记下「range」。
+  3. Tu entends « range » ?
+     你听到「range」了吗？
+  4. C'est écrit : « range ».
+     写着：「range」。
+  5. Réponse courte : « range ».
+     简短回答：「range」。
+
+[rayon]
+  1. Où se trouve le rayon des fruits ?
+     水果区在哪里？
+  2. Où est le rayon surgelés ?
+     冷冻区在哪？
+  3. Je note « rayon ».
+     我记下「rayon」。
+  4. Tu entends « rayon » ?
+     你听到「rayon」了吗？
+  5. C'est écrit : « rayon ».
+     写着：「rayon」。
+
+[recommencer]
+  1. Pourriez-vous recommencer mon plat ?
+     能重新做我这道菜吗？
+  2. Je note « recommencer ».
+     我记下「recommencer」。
+  3. Tu entends « recommencer » ?
+     你听到「recommencer」了吗？
+  4. C'est écrit : « recommencer ».
+     写着：「recommencer」。
+  5. Réponse courte : « recommencer ».
+     简短回答：「recommencer」。
+
+[regarder]
+  1. On regarde un film ce soir ?
+     今晚看电影吗？
+  2. Je regarde encore sur l'autre étal.
+     我再去隔壁摊子看看。
+  3. Je note « regarder ».
+     我记下「regarder」。
+  4. Tu entends « regarder » ?
+     你听到「regarder」了吗？
+  5. C'est écrit : « regarder ».
+     写着：「regarder」。
+
+[rendez-vous]
+  1. Je voudrais un rendez-vous chez le médecin.
+     我想预约看医生。
+  2. J'ai rendez-vous mardi prochain.
+     我下周二有约。
+  3. Je note « rendez-vous ».
+     我记下「rendez-vous」。
+  4. Tu entends « rendez-vous » ?
+     你听到「rendez-vous」了吗？
+  5. C'est écrit : « rendez-vous ».
+     写着：「rendez-vous」。
+
+[repose]
+  1. Repose-toi bien ce week-end.
+     周末好好休息。
+  2. Je note « repose ».
+     我记下「repose」。
+  3. Tu entends « repose » ?
+     你听到「repose」了吗？
+  4. C'est écrit : « repose ».
+     写着：「repose」。
+  5. Réponse courte : « repose ».
+     简短回答：「repose」。
+
+[respirez]
+  1. Respirez profondément, s'il vous plaît.
+     请深呼吸。
+  2. Je note « respirez ».
+     我记下「respirez」。
+  3. Tu entends « respirez » ?
+     你听到「respirez」了吗？
+  4. C'est écrit : « respirez ».
+     写着：「respirez」。
+  5. Réponse courte : « respirez ».
+     简短回答：「respirez」。
+
+[reste]
+  1. Il reste dix minutes avant la fermeture.
+     还有十分钟关门。
+  2. Je note « reste ».
+     我记下「reste」。
+  3. Tu entends « reste » ?
+     你听到「reste」了吗？
+  4. C'est écrit : « reste ».
+     写着：「reste」。
+  5. Réponse courte : « reste ».
+     简短回答：「reste」。
+
+[retard]
+  1. La ligne deux est en retard.
+     二号线晚点了。
+  2. Je suis en retard, je cours.
+     我迟到了，在跑。
+  3. Je suis en retard de cinq minutes.
+     我迟到了五分钟。
+  4. Je note « retard ».
+     我记下「retard」。
+  5. Tu entends « retard » ?
+     你听到「retard」了吗？
+
+[retrouver]
+  1. On se retrouve dans un quart d'heure.
+     我们一刻钟后见。
+  2. Je note « retrouver ».
+     我记下「retrouver」。
+  3. Tu entends « retrouver » ?
+     你听到「retrouver」了吗？
+  4. C'est écrit : « retrouver ».
+     写着：「retrouver」。
+  5. Réponse courte : « retrouver ».
+     简短回答：「retrouver」。
+
+[revenir]
+  1. Je reviens demain pour deux têtes d'ail.
+     我明天再来拿两头蒜。
+  2. Je note « revenir ».
+     我记下「revenir」。
+  3. Tu entends « revenir » ?
+     你听到「revenir」了吗？
+  4. C'est écrit : « revenir ».
+     写着：「revenir」。
+  5. Réponse courte : « revenir ».
+     简短回答：「revenir」。
+
+[riz]
+  1. Je dois acheter du riz et des pâtes.
+     我要买米和意面。
+  2. Je note « riz ».
+     我记下「riz」。
+  3. Tu entends « riz » ?
+     你听到「riz」了吗？
+  4. C'est écrit : « riz ».
+     写着：「riz」。
+  5. Réponse courte : « riz ».
+     简短回答：「riz」。
+
+[roul]
+  1. Salut les amis, ça roule ?
+     嗨朋友们，还好吗？
+  2. Je note « roul ».
+     我记下「roul」。
+  3. Tu entends « roul » ?
+     你听到「roul」了吗？
+  4. C'est écrit : « roul ».
+     写着：「roul」。
+  5. Réponse courte : « roul ».
+     简短回答：「roul」。
+
+[râper]
+  1. Je cherche le fromage râpé.
+     我找擦碎的奶酪。
+  2. Je note « râper ».
+     我记下「râper」。
+  3. Tu entends « râper » ?
+     你听到「râper」了吗？
+  4. C'est écrit : « râper ».
+     写着：「râper」。
+  5. Réponse courte : « râper ».
+     简短回答：「râper」。
+
+[récupérer]
+  1. Où puis-je récupérer les résultats ?
+     我在哪取化验结果？
+  2. Je note « récupérer ».
+     我记下「récupérer」。
+  3. Tu entends « récupérer » ?
+     你听到「récupérer」了吗？
+  4. C'est écrit : « récupérer ».
+     写着：「récupérer」。
+  5. Réponse courte : « récupérer ».
+     简短回答：「récupérer」。
+
+[réservation]
+  1. Je m'appelle Marie pour la réservation.
+     预订的名字是玛丽。
+  2. Je note « réservation ».
+     我记下「réservation」。
+  3. Tu entends « réservation » ?
+     你听到「réservation」了吗？
+  4. C'est écrit : « réservation ».
+     写着：「réservation」。
+  5. Réponse courte : « réservation ».
+     简短回答：「réservation」。
+
+[réserve]
+  1. La réserve est complète ce soir.
+     今晚订满了。
+  2. Je note « réserve ».
+     我记下「réserve」。
+  3. Tu entends « réserve » ?
+     你听到「réserve」了吗？
+  4. C'est écrit : « réserve ».
+     写着：「réserve」。
+  5. Réponse courte : « réserve ».
+     简短回答：「réserve」。
+
+[résultat]
+  1. Où puis-je récupérer les résultats ?
+     我在哪取化验结果？
+  2. Je note « résultat ».
+     我记下「résultat」。
+  3. Tu entends « résultat » ?
+     你听到「résultat」了吗？
+  4. C'est écrit : « résultat ».
+     写着：「résultat」。
+  5. Réponse courte : « résultat ».
+     简短回答：「résultat」。
+
+[réunion]
+  1. La réunion commence à neuf heures pile.
+     会议九点整开始。
+  2. Je note « réunion ».
+     我记下「réunion」。
+  3. Tu entends « réunion » ?
+     你听到「réunion」了吗？
+  4. C'est écrit : « réunion ».
+     写着：「réunion」。
+  5. Réponse courte : « réunion ».
+     简短回答：「réunion」。
+
+[réveil]
+  1. Le réveil sonne trop tôt.
+     闹钟响得太早。
+  2. Je note « réveil ».
+     我记下「réveil」。
+  3. Tu entends « réveil » ?
+     你听到「réveil」了吗？
+  4. C'est écrit : « réveil ».
+     写着：「réveil」。
+  5. Réponse courte : « réveil ».
+     简短回答：「réveil」。
+
+[sac]
+  1. Un sac réutilisable, c'est combien ?
+     环保袋多少钱？
+  2. Mettez tout dans le même sac, merci.
+     请都装进同一个袋子，谢谢。
+  3. Je note « sac ».
+     我记下「sac」。
+  4. Tu entends « sac » ?
+     你听到「sac」了吗？
+  5. C'est écrit : « sac ».
+     写着：「sac」。
+
+[salle]
+  1. Où est la salle d'attente ?
+     候诊室在哪？
+  2. Je note « salle ».
+     我记下「salle」。
+  3. Tu entends « salle » ?
+     你听到「salle」了吗？
+  4. C'est écrit : « salle ».
+     写着：「salle」。
+  5. Réponse courte : « salle ».
+     简短回答：「salle」。
+
+[salut]
+  1. Salut les amis, ça roule ?
+     嗨朋友们，还好吗？
+  2. Je note « salut ».
+     我记下「salut」。
+  3. Tu entends « salut » ?
+     你听到「salut」了吗？
+  4. C'est écrit : « salut ».
+     写着：「salut」。
+  5. Réponse courte : « salut ».
+     简短回答：「salut」。
+
+[sandwich]
+  1. C'est combien le sandwich au jambon ?
+     火腿三明治多少钱？
+  2. Je note « sandwich ».
+     我记下「sandwich」。
+  3. Tu entends « sandwich » ?
+     你听到「sandwich」了吗？
+  4. C'est écrit : « sandwich ».
+     写着：「sandwich」。
+  5. Réponse courte : « sandwich ».
+     简短回答：「sandwich」。
+
+[semaine]
+  1. Ça fait une semaine que j'ai de la fièvre.
+     我发烧已经一周了。
+  2. Dans deux semaines, c'est les vacances.
+     再过两周就放假了。
+  3. Je note « semaine ».
+     我记下「semaine」。
+  4. Tu entends « semaine » ?
+     你听到「semaine」了吗？
+  5. C'est écrit : « semaine ».
+     写着：「semaine」。
+
+[service]
+  1. Le service était impeccable.
+     服务无可挑剔。
+  2. Je note « service ».
+     我记下「service」。
+  3. Tu entends « service » ?
+     你听到「service」了吗？
+  4. C'est écrit : « service ».
+     写着：「service」。
+  5. Réponse courte : « service ».
+     简短回答：「service」。
+
+[servir]
+  1. Vous servez le petit-déjeuner jusqu'à midi ?
+     早餐供应到中午吗？
+  2. Je note « servir ».
+     我记下「servir」。
+  3. Tu entends « servir » ?
+     你听到「servir」了吗？
+  4. C'est écrit : « servir ».
+     写着：「servir」。
+  5. Réponse courte : « servir ».
+     简短回答：「servir」。
+
+[sieste]
+  1. Je fais une sieste après le déjeuner.
+     午饭后我午睡一会儿。
+  2. Je note « sieste ».
+     我记下「sieste」。
+  3. Tu entends « sieste » ?
+     你听到「sieste」了吗？
+  4. C'est écrit : « sieste ».
+     写着：「sieste」。
+  5. Réponse courte : « sieste ».
+     简短回答：「sieste」。
+
+[sirop]
+  1. Ce sirop calme la toux.
+     这糖浆止咳。
+  2. Je note « sirop ».
+     我记下「sirop」。
+  3. Tu entends « sirop » ?
+     你听到「sirop」了吗？
+  4. C'est écrit : « sirop ».
+     写着：「sirop」。
+  5. Réponse courte : « sirop ».
+     简短回答：「sirop」。
+
+[soin]
+  1. Prends soin de toi.
+     照顾好自己。
+  2. Je note « soin ».
+     我记下「soin」。
+  3. Tu entends « soin » ?
+     你听到「soin」了吗？
+  4. C'est écrit : « soin ».
+     写着：「soin」。
+  5. Réponse courte : « soin ».
+     简短回答：「soin」。
+
+[soir]
+  1. Il faut sortir les poubelles ce soir.
+     今晚要倒垃圾。
+  2. Je vais me coucher tôt ce soir.
+     今晚我要早睡。
+  3. La réserve est complète ce soir.
+     今晚订满了。
+  4. Je note « soir ».
+     我记下「soir」。
+  5. Tu entends « soir » ?
+     你听到「soir」了吗？
+
+[soirée]
+  1. Passe une bonne soirée.
+     祝你晚上愉快。
+  2. Je note « soirée ».
+     我记下「soirée」。
+  3. Tu entends « soirée » ?
+     你听到「soirée」了吗？
+  4. C'est écrit : « soirée ».
+     写着：「soirée」。
+  5. Réponse courte : « soirée ».
+     简短回答：「soirée」。
+
+[soleil]
+  1. Le soleil cogne fort à midi.
+     中午太阳很毒。
+  2. On espère du soleil pour le week-end.
+     希望周末晴天。
+  3. Je note « soleil ».
+     我记下「soleil」。
+  4. Tu entends « soleil » ?
+     你听到「soleil」了吗？
+  5. C'est écrit : « soleil ».
+     写着：「soleil」。
+
+[son]
+  1. Tu peux baisser le son de la télé ?
+     能把电视声音调小吗？
+  2. Je note « son ».
+     我记下「son」。
+  3. Tu entends « son » ?
+     你听到「son」了吗？
+  4. C'est écrit : « son ».
+     写着：「son」。
+  5. Réponse courte : « son ».
+     简短回答：「son」。
+
+[spécialité]
+  1. Quelle est la spécialité du jour ?
+     今日特色是什么？
+  2. Je note « spécialité ».
+     我记下「spécialité」。
+  3. Tu entends « spécialité » ?
+     你听到「spécialité」了吗？
+  4. C'est écrit : « spécialité ».
+     写着：「spécialité」。
+  5. Réponse courte : « spécialité ».
+     简短回答：「spécialité」。
+
+[station]
+  1. À quelle station je descends ?
+     我该哪一站下车？
+  2. Je note « station ».
+     我记下「station」。
+  3. Tu entends « station » ?
+     你听到「station」了吗？
+  4. C'est écrit : « station ».
+     写着：「station」。
+  5. Réponse courte : « station ».
+     简短回答：「station」。
+
+[supermarché]
+  1. Le supermarché ferme à vingt heures.
+     超市八点关门。
+  2. Je note « supermarché ».
+     我记下「supermarché」。
+  3. Tu entends « supermarché » ?
+     你听到「supermarché」了吗？
+  4. C'est écrit : « supermarché ».
+     写着：「supermarché」。
+  5. Réponse courte : « supermarché ».
+     简短回答：「supermarché」。
+
+[surgeler]
+  1. Où est le rayon surgelés ?
+     冷冻区在哪？
+  2. Je note « surgeler ».
+     我记下「surgeler」。
+  3. Tu entends « surgeler » ?
+     你听到「surgeler」了吗？
+  4. C'est écrit : « surgeler ».
+     写着：「surgeler」。
+  5. Réponse courte : « surgeler ».
+     简短回答：「surgeler」。
+
+[synchroniser]
+  1. Synchronise tes montres à midi pile.
+     中午整点对表。
+  2. Je note « synchroniser ».
+     我记下「synchroniser」。
+  3. Tu entends « synchroniser » ?
+     你听到「synchroniser」了吗？
+  4. C'est écrit : « synchroniser ».
+     写着：「synchroniser」。
+  5. Réponse courte : « synchroniser ».
+     简短回答：「synchroniser」。
+
+[sœur]
+  1. Je te présente ma sœur.
+     我给你介绍一下我妹妹。
+  2. Je note « sœur ».
+     我记下「sœur」。
+  3. Tu entends « sœur » ?
+     你听到「sœur」了吗？
+  4. C'est écrit : « sœur ».
+     写着：「sœur」。
+  5. Réponse courte : « sœur ».
+     简短回答：「sœur」。
+
+[table]
+  1. Peux-tu mettre la table ?
+     你能摆一下桌子吗？
+  2. Une table pour deux personnes, s'il vous plaît.
+     请给我们两人桌。
+  3. Je note « table ».
+     我记下「table」。
+  4. Tu entends « table » ?
+     你听到「table」了吗？
+  5. C'est écrit : « table ».
+     写着：「table」。
+
+[tarif]
+  1. À ce tarif-là, je ne prends pas.
+     这价我就不买了。
+  2. Je note « tarif ».
+     我记下「tarif」。
+  3. Tu entends « tarif » ?
+     你听到「tarif」了吗？
+  4. C'est écrit : « tarif ».
+     写着：「tarif」。
+  5. Réponse courte : « tarif ».
+     简短回答：「tarif」。
+
+[tas]
+  1. Bon, je prends tout le tas de bananes.
+     好吧，这堆香蕉我全要了。
+  2. Je note « tas ».
+     我记下「tas」。
+  3. Tu entends « tas » ?
+     你听到「tas」了吗？
+  4. C'est écrit : « tas ».
+     写着：「tas」。
+  5. Réponse courte : « tas ».
+     简短回答：「tas」。
+
+[taxi]
+  1. Je voudrais un taxi pour l'aéroport.
+     我想打车去机场。
+  2. Je note « taxi ».
+     我记下「taxi」。
+  3. Tu entends « taxi » ?
+     你听到「taxi」了吗？
+  4. C'est écrit : « taxi ».
+     写着：「taxi」。
+  5. Réponse courte : « taxi ».
+     简短回答：「taxi」。
+
+[te]
+  1. Synchronise tes montres à midi pile.
+     中午整点对表。
+  2. Je note « te ».
+     我记下「te」。
+  3. Tu entends « te » ?
+     你听到「te」了吗？
+  4. C'est écrit : « te ».
+     写着：「te」。
+  5. Réponse courte : « te ».
+     简短回答：「te」。
+
+[tempête]
+  1. La tempête a cassé des branches.
+     暴风雨刮断树枝。
+  2. Je note « tempête ».
+     我记下「tempête」。
+  3. Tu entends « tempête » ?
+     你听到「tempête」了吗？
+  4. C'est écrit : « tempête ».
+     写着：「tempête」。
+  5. Réponse courte : « tempête ».
+     简短回答：「tempête」。
+
+[thermomètre]
+  1. Le thermomètre est tombé en dessous de zéro.
+     温度计降到零下了。
+  2. Je note « thermomètre ».
+     我记下「thermomètre」。
+  3. Tu entends « thermomètre » ?
+     你听到「thermomètre」了吗？
+  4. C'est écrit : « thermomètre ».
+     写着：「thermomètre」。
+  5. Réponse courte : « thermomètre ».
+     简短回答：「thermomètre」。
+
+[ticket]
+  1. Un ticket de métro, s'il vous plaît.
+     请给我一张地铁票。
+  2. Je note « ticket ».
+     我记下「ticket」。
+  3. Tu entends « ticket » ?
+     你听到「ticket」了吗？
+  4. C'est écrit : « ticket ».
+     写着：「ticket」。
+  5. Réponse courte : « ticket ».
+     简短回答：「ticket」。
+
+[toi]
+  1. Ça va bien, merci, et toi ?
+     我很好，谢谢，你呢？
+  2. Je note « toi ».
+     我记下「toi」。
+  3. Tu entends « toi » ?
+     你听到「toi」了吗？
+  4. C'est écrit : « toi ».
+     写着：「toi」。
+  5. Réponse courte : « toi ».
+     简短回答：「toi」。
+
+[tokens]
+  1. Je note « 
+     我记下
+  2. fromage
+     fromage
+  3.  ».
+     
+  4. Tu entends « 
+     你听到
+  5. fromage
+     fromage
+  6.  » ?
+     
+  7. C'est écrit : « 
+     写着
+  8. fromage
+     fromage
+  9.  ».
+     
+  10. Réponse courte : « 
+     简短回答
+  11. fromage
+     fromage
+  12.  ».
+     
+
+[tomber]
+  1. Le thermomètre est tombé en dessous de zéro.
+     温度计降到零下了。
+  2. Je note « tomber ».
+     我记下「tomber」。
+  3. Tu entends « tomber » ?
+     你听到「tomber」了吗？
+  4. C'est écrit : « tomber ».
+     写着：「tomber」。
+  5. Réponse courte : « tomber ».
+     简短回答：「tomber」。
+
+[ton]
+  1. Il bruine, prends ton parapluie.
+     毛毛雨，带上伞。
+  2. Je note « ton ».
+     我记下「ton」。
+  3. Tu entends « ton » ?
+     你听到「ton」了吗？
+  4. C'est écrit : « ton ».
+     写着：「ton」。
+  5. Réponse courte : « ton ».
+     简短回答：「ton」。
+
+[tourner]
+  1. Tournez à droite au feu.
+     红绿灯处右转。
+  2. Je note « tourner ».
+     我记下「tourner」。
+  3. Tu entends « tourner » ?
+     你听到「tourner」了吗？
+  4. C'est écrit : « tourner ».
+     写着：「tourner」。
+  5. Réponse courte : « tourner ».
+     简短回答：「tourner」。
+
+[tousser]
+  1. Je tousse beaucoup depuis hier.
+     我从昨天起咳得很厉害。
+  2. Je note « tousser ».
+     我记下「tousser」。
+  3. Tu entends « tousser » ?
+     你听到「tousser」了吗？
+  4. C'est écrit : « tousser ».
+     写着：「tousser」。
+  5. Réponse courte : « tousser ».
+     简短回答：「tousser」。
+
+[tout]
+  1. Bon, je prends tout le tas de bananes.
+     好吧，这堆香蕉我全要了。
+  2. Mettez tout dans le même sac, merci.
+     请都装进同一个袋子，谢谢。
+  3. Je note « tout ».
+     我记下「tout」。
+  4. Tu entends « tout » ?
+     你听到「tout」了吗？
+  5. C'est écrit : « tout ».
+     写着：「tout」。
+
+[toux]
+  1. Ce sirop calme la toux.
+     这糖浆止咳。
+  2. Je note « toux ».
+     我记下「toux」。
+  3. Tu entends « toux » ?
+     你听到「toux」了吗？
+  4. C'est écrit : « toux ».
+     写着：「toux」。
+  5. Réponse courte : « toux ».
+     简短回答：「toux」。
+
+[travail]
+  1. Y a-t-il des travaux sur cette route ?
+     这条路在施工吗？
+  2. Le pont est fermé pour travaux.
+     桥因施工封闭。
+  3. Je note « travail ».
+     我记下「travail」。
+  4. Tu entends « travail » ?
+     你听到「travail」了吗？
+  5. C'est écrit : « travail ».
+     写着：「travail」。
+
+[travailler]
+  1. Je travaille du lundi au vendredi.
+     我周一到周五上班。
+  2. Je note « travailler ».
+     我记下「travailler」。
+  3. Tu entends « travailler » ?
+     你听到「travailler」了吗？
+  4. C'est écrit : « travailler ».
+     写着：「travailler」。
+  5. Réponse courte : « travailler ».
+     简短回答：「travailler」。
+
+[trouver]
+  1. Où se trouve le rayon des fruits ?
+     水果区在哪里？
+  2. Où se trouve la pharmacie de garde ?
+     夜班药房在哪？
+  3. Je note « trouver ».
+     我记下「trouver」。
+  4. Tu entends « trouver » ?
+     你听到「trouver」了吗？
+  5. C'est écrit : « trouver ».
+     写着：「trouver」。
+
+[téléphone]
+  1. La liste de courses est sur mon téléphone.
+     购物清单在手机上。
+  2. Je note « téléphone ».
+     我记下「téléphone」。
+  3. Tu entends « téléphone » ?
+     你听到「téléphone」了吗？
+  4. C'est écrit : « téléphone ».
+     写着：「téléphone」。
+  5. Réponse courte : « téléphone ».
+     简短回答：「téléphone」。
+
+[tête]
+  1. J'ai mal à la tête depuis ce matin.
+     我从今早开始头疼。
+  2. Je reviens demain pour deux têtes d'ail.
+     我明天再来拿两头蒜。
+  3. Je note « tête ».
+     我记下「tête」。
+  4. Tu entends « tête » ?
+     你听到「tête」了吗？
+  5. C'est écrit : « tête ».
+     写着：「tête」。
+
+[tôt]
+  1. Le réveil sonne trop tôt.
+     闹钟响得太早。
+  2. Demain, j'ai cours tôt.
+     明天我一大早就上课。
+  3. Je note « tôt ».
+     我记下「tôt」。
+  4. Tu entends « tôt » ?
+     你听到「tôt」了吗？
+  5. C'est écrit : « tôt ».
+     写着：「tôt」。
+
+[vacance]
+  1. Dans deux semaines, c'est les vacances.
+     再过两周就放假了。
+  2. Pendant les vacances, le bureau est fermé.
+     假期里办公室关门。
+  3. Je note « vacance ».
+     我记下「vacance」。
+  4. Tu entends « vacance » ?
+     你听到「vacance」了吗？
+  5. C'est écrit : « vacance ».
+     写着：「vacance」。
+
+[valider]
+  1. Où puis-je valider mon pass ?
+     我在哪刷交通卡？
+  2. Je note « valider ».
+     我记下「valider」。
+  3. Tu entends « valider » ?
+     你听到「valider」了吗？
+  4. C'est écrit : « valider ».
+     写着：「valider」。
+  5. Réponse courte : « valider ».
+     简短回答：「valider」。
+
+[vendredi]
+  1. Je travaille du lundi au vendredi.
+     我周一到周五上班。
+  2. Je note « vendredi ».
+     我记下「vendredi」。
+  3. Tu entends « vendredi » ?
+     你听到「vendredi」了吗？
+  4. C'est écrit : « vendredi ».
+     写着：「vendredi」。
+  5. Réponse courte : « vendredi ».
+     简短回答：「vendredi」。
+
+[vent]
+  1. Il y a du vent, accroche ton manteau.
+     有风，扣好外套。
+  2. Je note « vent ».
+     我记下「vent」。
+  3. Tu entends « vent » ?
+     你听到「vent」了吗？
+  4. C'est écrit : « vent ».
+     写着：「vent」。
+  5. Réponse courte : « vent ».
+     简短回答：「vent」。
+
+[verre]
+  1. Un verre d'eau avec glaçons, merci.
+     一杯加冰的水，谢谢。
+  2. Je note « verre ».
+     我记下「verre」。
+  3. Tu entends « verre » ?
+     你听到「verre」了吗？
+  4. C'est écrit : « verre ».
+     写着：「verre」。
+  5. Réponse courte : « verre ».
+     简短回答：「verre」。
+
+[vert]
+  1. Je prends un thé vert sans sucre.
+     我要一杯无糖绿茶。
+  2. Je note « vert ».
+     我记下「vert」。
+  3. Tu entends « vert » ?
+     你听到「vert」了吗？
+  4. C'est écrit : « vert ».
+     写着：「vert」。
+  5. Réponse courte : « vert ».
+     简短回答：「vert」。
+
+[vertige]
+  1. J'ai le vertige en hauteur.
+     我恐高。
+  2. Je note « vertige ».
+     我记下「vertige」。
+  3. Tu entends « vertige » ?
+     你听到「vertige」了吗？
+  4. C'est écrit : « vertige ».
+     写着：「vertige」。
+  5. Réponse courte : « vertige ».
+     简短回答：「vertige」。
+
+[viande]
+  1. Je vais à la boucherie pour de la viande.
+     我去肉铺买肉。
+  2. Je suis végétarien, pas de viande.
+     我吃素，不要肉。
+  3. Je note « viande ».
+     我记下「viande」。
+  4. Tu entends « viande » ?
+     你听到「viande」了吗？
+  5. C'est écrit : « viande ».
+     写着：「viande」。
+
+[voir]
+  1. On se voit demain au bureau ?
+     我们明天办公室见？
+  2. Je note « voir ».
+     我记下「voir」。
+  3. Tu entends « voir » ?
+     你听到「voir」了吗？
+  4. C'est écrit : « voir ».
+     写着：「voir」。
+  5. Réponse courte : « voir ».
+     简短回答：「voir」。
+
+[volet]
+  1. Il pleut, ferme les volets.
+     下雨了，关百叶窗。
+  2. Je note « volet ».
+     我记下「volet」。
+  3. Tu entends « volet » ?
+     你听到「volet」了吗？
+  4. C'est écrit : « volet ».
+     写着：「volet」。
+  5. Réponse courte : « volet ».
+     简短回答：「volet」。
+
+[vouloir]
+  1. Je voudrais du pain, s'il vous plaît.
+     我想要一些面包，谢谢。
+  2. Je voudrais un croissant et un jus d'orange.
+     我想要一个可颂和一杯橙汁。
+  3. Je voudrais une part de tarte aux pommes.
+     我想要一块苹果派。
+  4. Je voudrais un taxi pour l'aéroport.
+     我想打车去机场。
+  5. Je voudrais un rendez-vous chez le médecin.
+     我想预约看医生。
+
+[vélo]
+  1. Je préfère le vélo en ville.
+     在城里我更喜欢骑车。
+  2. Je note « vélo ».
+     我记下「vélo」。
+  3. Tu entends « vélo » ?
+     你听到「vélo」了吗？
+  4. C'est écrit : « vélo ».
+     写着：「vélo」。
+  5. Réponse courte : « vélo ».
+     简短回答：「vélo」。
+
+[week]
+  1. Repose-toi bien ce week-end.
+     周末好好休息。
+  2. On espère du soleil pour le week-end.
+     希望周末晴天。
+  3. On avance l'heure ce week-end.
+     这周末调夏令时。
+  4. Je note « week ».
+     我记下「week」。
+  5. Tu entends « week » ?
+     你听到「week」了吗？
+
+[wifi]
+  1. Le wifi fonctionne ici ?
+     这里有Wi‑Fi吗？
+  2. Je note « wifi ».
+     我记下「wifi」。
+  3. Tu entends « wifi » ?
+     你听到「wifi」了吗？
+  4. C'est écrit : « wifi ».
+     写着：「wifi」。
+  5. Réponse courte : « wifi ».
+     简短回答：「wifi」。
+
+[yaourt]
+  1. Je préfère les yaourts nature.
+     我更喜欢原味酸奶。
+  2. Je note « yaourt ».
+     我记下「yaourt」。
+  3. Tu entends « yaourt » ?
+     你听到「yaourt」了吗？
+  4. C'est écrit : « yaourt ».
+     写着：「yaourt」。
+  5. Réponse courte : « yaourt ».
+     简短回答：「yaourt」。
+
+[éclair]
+  1. Les éclairs illuminent le ciel.
+     闪电照亮天空。
+  2. Je note « éclair ».
+     我记下「éclair」。
+  3. Tu entends « éclair » ?
+     你听到「éclair」了吗？
+  4. C'est écrit : « éclair ».
+     写着：「éclair」。
+  5. Réponse courte : « éclair ».
+     简短回答：「éclair」。
+
+[étage]
+  1. Montez deux étages, s'il vous plaît.
+     请上两层。
+  2. Je note « étage ».
+     我记下「étage」。
+  3. Tu entends « étage » ?
+     你听到「étage」了吗？
+  4. C'est écrit : « étage ».
+     写着：「étage」。
+  5. Réponse courte : « étage ».
+     简短回答：「étage」。
+
+[étal]
+  1. Je regarde encore sur l'autre étal.
+     我再去隔壁摊子看看。
+  2. Je note « étal ».
+     我记下「étal」。
+  3. Tu entends « étal » ?
+     你听到「étal」了吗？
+  4. C'est écrit : « étal ».
+     写着：「étal」。
+  5. Réponse courte : « étal ».
+     简短回答：「étal」。
+
+[étouffe]
+  1. Quelle chaleur, on étouffe !
+     好热，闷得慌！
+  2. Je note « étouffe ».
+     我记下「étouffe」。
+  3. Tu entends « étouffe » ?
+     你听到「étouffe」了吗？
+  4. C'est écrit : « étouffe ».
+     写着：「étouffe」。
+  5. Réponse courte : « étouffe ».
+     简短回答：「étouffe」。
+
+[être]
+  1. Le lait est en promotion aujourd'hui.
+     牛奶今天促销。
+  2. Les légumes frais sont là-bas.
+     新鲜蔬菜在那边。
+  3. Un sac réutilisable, c'est combien ?
+     环保袋多少钱？
+  4. Le chariot est près de l'entrée.
+     手推车在入口旁。
+  5. La liste de courses est sur mon téléphone.
+     购物清单在手机上。

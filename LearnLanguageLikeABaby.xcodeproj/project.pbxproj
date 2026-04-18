@@ -15,9 +15,40 @@
 		A1000006 /* VoiceInputController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000006 /* VoiceInputController.swift */; };
 		A1000007 /* FrenchLemmaSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000007 /* FrenchLemmaSearch.swift */; };
 		A1000008 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2000008 /* Assets.xcassets */; };
-		A1000009 /* sentences.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000009 /* sentences.json */; };
-		A100000A /* exampleSentences.json in Resources */ = {isa = PBXBuildFile; fileRef = A200000A /* exampleSentences.json */; };
+		A1000009 /* sentences_fr.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000009 /* sentences_fr.json */; };
+		A100000C /* sentences_es.json in Resources */ = {isa = PBXBuildFile; fileRef = A200000D /* sentences_es.json */; };
+		A100000E /* word_table_fr.json in Resources */ = {isa = PBXBuildFile; fileRef = A200000F /* word_table_fr.json */; };
+		A1000012 /* word_table_es.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000012 /* word_table_es.json */; };
+		A1000010 /* CandyStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000010 /* CandyStore.swift */; };
+		A1000011 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000011 /* ProfileView.swift */; };
+		A1000013 /* Localizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000013 /* Localizer.swift */; };
+		A1000020 /* LessonSessionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000020 /* LessonSessionModel.swift */; };
+		A1000021 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000021 /* RootView.swift */; };
+		A1000022 /* LibraryPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000022 /* LibraryPickerView.swift */; };
+		A1000023 /* TokenFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000023 /* TokenFlowLayout.swift */; };
+		A1000024 /* LanguageConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000024 /* LanguageConfig.swift */; };
+		A1000025 /* AppModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000025 /* AppModel.swift */; };
+		A1000030 /* UsageTimeTracker.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000030 /* UsageTimeTracker.swift */; };
+		A1000026 /* sentences_en.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000026 /* sentences_en.json */; };
+		A1000027 /* word_table_en.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000027 /* word_table_en.json */; };
+		A1000028 /* sentences_ja.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000028 /* sentences_ja.json */; };
+		A1000029 /* word_table_ja.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000029 /* word_table_ja.json */; };
+		A100002A /* sentences_ko.json in Resources */ = {isa = PBXBuildFile; fileRef = A200002A /* sentences_ko.json */; };
+		A100002B /* word_table_ko.json in Resources */ = {isa = PBXBuildFile; fileRef = A200002B /* word_table_ko.json */; };
+		A100002C /* sentences_de.json in Resources */ = {isa = PBXBuildFile; fileRef = A200002C /* sentences_de.json */; };
+		A100002D /* word_table_de.json in Resources */ = {isa = PBXBuildFile; fileRef = A200002D /* word_table_de.json */; };
+		A100002E /* sentences_ar.json in Resources */ = {isa = PBXBuildFile; fileRef = A200002E /* sentences_ar.json */; };
+		A100002F /* word_table_ar.json in Resources */ = {isa = PBXBuildFile; fileRef = A200002F /* word_table_ar.json */; };
+		A1000040 /* sentences_zh.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000040 /* sentences_zh.json */; };
+		A1000041 /* word_table_zh.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000041 /* word_table_zh.json */; };
 		A100000B /* Speech.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A200000C /* Speech.framework */; };
+		F1000001 /* LLLBWidget.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = F2000002 /* LLLBWidget.appex */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		F1000002 /* LLLBWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2000001 /* LLLBWidget.swift */; };
+		F1000003 /* LLLBActivityAttributes.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2000003 /* LLLBActivityAttributes.swift */; };
+		F1000004 /* LLLBIntents.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2000004 /* LLLBIntents.swift */; };
+		F1000005 /* LiveActivityManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2000005 /* LiveActivityManager.swift */; };
+		F1000006 /* LLLBActivityAttributes.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2000003 /* LLLBActivityAttributes.swift */; };
+		F1000007 /* LLLBIntents.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2000004 /* LLLBIntents.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,12 +59,44 @@
 		A2000005 /* NarrationEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NarrationEngine.swift; sourceTree = "<group>"; };
 		A2000006 /* VoiceInputController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoiceInputController.swift; sourceTree = "<group>"; };
 		A2000007 /* FrenchLemmaSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrenchLemmaSearch.swift; sourceTree = "<group>"; };
+		A2000010 /* CandyStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CandyStore.swift; sourceTree = "<group>"; };
+		A2000011 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		A2000013 /* Localizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Localizer.swift; sourceTree = "<group>"; };
+		A2000020 /* LessonSessionModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonSessionModel.swift; sourceTree = "<group>"; };
+		A2000021 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
+		A2000022 /* LibraryPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryPickerView.swift; sourceTree = "<group>"; };
+		A2000023 /* TokenFlowLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TokenFlowLayout.swift; sourceTree = "<group>"; };
+		A2000024 /* LanguageConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguageConfig.swift; sourceTree = "<group>"; };
+		A2000025 /* AppModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppModel.swift; sourceTree = "<group>"; };
+		A2000030 /* UsageTimeTracker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsageTimeTracker.swift; sourceTree = "<group>"; };
+		A2000026 /* sentences_en.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentences_en.json; sourceTree = "<group>"; };
+		A2000027 /* word_table_en.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = word_table_en.json; sourceTree = "<group>"; };
+		A2000028 /* sentences_ja.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentences_ja.json; sourceTree = "<group>"; };
+		A2000029 /* word_table_ja.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = word_table_ja.json; sourceTree = "<group>"; };
+		A200002A /* sentences_ko.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentences_ko.json; sourceTree = "<group>"; };
+		A200002B /* word_table_ko.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = word_table_ko.json; sourceTree = "<group>"; };
+		A200002C /* sentences_de.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentences_de.json; sourceTree = "<group>"; };
+		A200002D /* word_table_de.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = word_table_de.json; sourceTree = "<group>"; };
+		A200002E /* sentences_ar.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentences_ar.json; sourceTree = "<group>"; };
+		A200002F /* word_table_ar.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = word_table_ar.json; sourceTree = "<group>"; };
+		A2000040 /* sentences_zh.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentences_zh.json; sourceTree = "<group>"; };
+		A2000041 /* word_table_zh.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = word_table_zh.json; sourceTree = "<group>"; };
 		A2000008 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A2000009 /* sentences.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentences.json; sourceTree = "<group>"; };
-		A200000A /* exampleSentences.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = exampleSentences.json; sourceTree = "<group>"; };
+		A2000009 /* sentences_fr.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentences_fr.json; sourceTree = "<group>"; };
+		A200000D /* sentences_es.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentences_es.json; sourceTree = "<group>"; };
+		A200000F /* word_table_fr.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = word_table_fr.json; sourceTree = "<group>"; };
+		A2000012 /* word_table_es.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = word_table_es.json; sourceTree = "<group>"; };
 		A200000B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A200000C /* Speech.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Speech.framework; path = System/Library/Frameworks/Speech.framework; sourceTree = SDKROOT; };
 		A3000001 /* LearnLanguageLikeABaby.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearnLanguageLikeABaby.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F2000001 /* LLLBWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LLLBWidget.swift; sourceTree = "<group>"; };
+		F2000002 /* LLLBWidget.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = LLLBWidget.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		F2000003 /* LLLBActivityAttributes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LLLBActivityAttributes.swift; sourceTree = "<group>"; };
+		F2000004 /* LLLBIntents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LLLBIntents.swift; sourceTree = "<group>"; };
+		F2000005 /* LiveActivityManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveActivityManager.swift; sourceTree = "<group>"; };
+		F2000006 /* LearnLanguageLikeABaby.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = LearnLanguageLikeABaby.entitlements; sourceTree = "<group>"; };
+		F2000007 /* LLLBWidget.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = LLLBWidget.entitlements; sourceTree = "<group>"; };
+		F2000008 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,7 +108,28 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		F4000001 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		F5000001 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				F1000001 /* LLLBWidget.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXGroup section */
 		4B0EAC722F7995300051539D /* Recovered References */ = {
@@ -60,6 +144,7 @@
 			isa = PBXGroup;
 			children = (
 				A5000002 /* LearnLanguageLikeABaby */,
+				F9500001 /* LLLBWidget */,
 				A5000003 /* Products */,
 				4B0EAC722F7995300051539D /* Recovered References */,
 			);
@@ -70,6 +155,19 @@
 			children = (
 				A2000001 /* LearnLanguageLikeABabyApp.swift */,
 				A2000002 /* ContentView.swift */,
+				A2000020 /* LessonSessionModel.swift */,
+				A2000021 /* RootView.swift */,
+				A2000022 /* LibraryPickerView.swift */,
+				A2000023 /* TokenFlowLayout.swift */,
+				A2000024 /* LanguageConfig.swift */,
+				A2000025 /* AppModel.swift */,
+				A2000030 /* UsageTimeTracker.swift */,
+				A2000011 /* ProfileView.swift */,
+				A2000013 /* Localizer.swift */,
+				F2000005 /* LiveActivityManager.swift */,
+				F2000003 /* LLLBActivityAttributes.swift */,
+				F2000004 /* LLLBIntents.swift */,
+				F2000006 /* LearnLanguageLikeABaby.entitlements */,
 				A5000004 /* Models */,
 				A5000005 /* Services */,
 				A5000006 /* Resources */,
@@ -83,8 +181,19 @@
 			isa = PBXGroup;
 			children = (
 				A3000001 /* LearnLanguageLikeABaby.app */,
+				F2000002 /* LLLBWidget.appex */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		F9500001 /* LLLBWidget */ = {
+			isa = PBXGroup;
+			children = (
+				F2000001 /* LLLBWidget.swift */,
+				F2000008 /* Info.plist */,
+				F2000007 /* LLLBWidget.entitlements */,
+			);
+			path = LLLBWidget;
 			sourceTree = "<group>";
 		};
 		A5000004 /* Models */ = {
@@ -102,6 +211,7 @@
 				A2000005 /* NarrationEngine.swift */,
 				A2000006 /* VoiceInputController.swift */,
 				A2000007 /* FrenchLemmaSearch.swift */,
+				A2000010 /* CandyStore.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -109,8 +219,22 @@
 		A5000006 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				A2000009 /* sentences.json */,
-				A200000A /* exampleSentences.json */,
+				A2000026 /* sentences_en.json */,
+				A2000027 /* word_table_en.json */,
+				A200000D /* sentences_es.json */,
+				A2000012 /* word_table_es.json */,
+				A2000009 /* sentences_fr.json */,
+				A200000F /* word_table_fr.json */,
+				A2000028 /* sentences_ja.json */,
+				A2000029 /* word_table_ja.json */,
+				A200002A /* sentences_ko.json */,
+				A200002B /* word_table_ko.json */,
+				A200002C /* sentences_de.json */,
+				A200002D /* word_table_de.json */,
+				A200002E /* sentences_ar.json */,
+				A200002F /* word_table_ar.json */,
+				A2000040 /* sentences_zh.json */,
+				A2000041 /* word_table_zh.json */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -125,17 +249,54 @@
 				A8000001 /* Sources */,
 				A4000001 /* Frameworks */,
 				A8000002 /* Resources */,
+				F5000001 /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				F8000002 /* PBXTargetDependency */,
 			);
 			name = LearnLanguageLikeABaby;
 			productName = LearnLanguageLikeABaby;
 			productReference = A3000001 /* LearnLanguageLikeABaby.app */;
 			productType = "com.apple.product-type.application";
 		};
+		F6000001 /* LLLBWidget */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F7000001 /* Build configuration list for PBXNativeTarget "LLLBWidget" */;
+			buildPhases = (
+				F4000002 /* Sources */,
+				F4000001 /* Frameworks */,
+				F4000003 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LLLBWidget;
+			productName = LLLBWidget;
+			productReference = F2000002 /* LLLBWidget.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
 /* End PBXNativeTarget section */
+
+/* Begin PBXContainerItemProxy section */
+		F8000001 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A9000001 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F6000001;
+			remoteInfo = LLLBWidget;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXTargetDependency section */
+		F8000002 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F6000001 /* LLLBWidget */;
+			targetProxy = F8000001 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin PBXProject section */
 		A9000001 /* Project object */ = {
@@ -146,6 +307,9 @@
 				LastUpgradeCheck = 1500;
 				TargetAttributes = {
 					A6000001 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+					F6000001 = {
 						CreatedOnToolsVersion = 15.0;
 					};
 				};
@@ -164,6 +328,7 @@
 			projectRoot = "";
 			targets = (
 				A6000001 /* LearnLanguageLikeABaby */,
+				F6000001 /* LLLBWidget */,
 			);
 		};
 /* End PBXProject section */
@@ -174,8 +339,29 @@
 			buildActionMask = 2147483647;
 			files = (
 				A1000008 /* Assets.xcassets in Resources */,
-				A1000009 /* sentences.json in Resources */,
-				A100000A /* exampleSentences.json in Resources */,
+				A1000026 /* sentences_en.json in Resources */,
+				A1000027 /* word_table_en.json in Resources */,
+				A100000C /* sentences_es.json in Resources */,
+				A1000012 /* word_table_es.json in Resources */,
+				A1000009 /* sentences_fr.json in Resources */,
+				A100000E /* word_table_fr.json in Resources */,
+				A1000028 /* sentences_ja.json in Resources */,
+				A1000029 /* word_table_ja.json in Resources */,
+				A100002A /* sentences_ko.json in Resources */,
+				A100002B /* word_table_ko.json in Resources */,
+				A100002C /* sentences_de.json in Resources */,
+				A100002D /* word_table_de.json in Resources */,
+				A100002E /* sentences_ar.json in Resources */,
+				A100002F /* word_table_ar.json in Resources */,
+				A1000040 /* sentences_zh.json in Resources */,
+				A1000041 /* word_table_zh.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F4000003 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -193,6 +379,29 @@
 				A1000005 /* NarrationEngine.swift in Sources */,
 				A1000006 /* VoiceInputController.swift in Sources */,
 				A1000007 /* FrenchLemmaSearch.swift in Sources */,
+				A1000010 /* CandyStore.swift in Sources */,
+				A1000011 /* ProfileView.swift in Sources */,
+				A1000013 /* Localizer.swift in Sources */,
+				A1000020 /* LessonSessionModel.swift in Sources */,
+				A1000021 /* RootView.swift in Sources */,
+				A1000022 /* LibraryPickerView.swift in Sources */,
+				A1000023 /* TokenFlowLayout.swift in Sources */,
+				A1000024 /* LanguageConfig.swift in Sources */,
+				A1000025 /* AppModel.swift in Sources */,
+				A1000030 /* UsageTimeTracker.swift in Sources */,
+				F1000005 /* LiveActivityManager.swift in Sources */,
+				F1000006 /* LLLBActivityAttributes.swift in Sources */,
+				F1000007 /* LLLBIntents.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F4000002 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F1000002 /* LLLBWidget.swift in Sources */,
+				F1000003 /* LLLBActivityAttributes.swift in Sources */,
+				F1000004 /* LLLBIntents.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,6 +480,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = LearnLanguageLikeABaby/LearnLanguageLikeABaby.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = MB5V8D7NS8;
@@ -299,6 +509,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = LearnLanguageLikeABaby/LearnLanguageLikeABaby.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = MB5V8D7NS8;
@@ -322,6 +533,62 @@
 			};
 			name = Release;
 		};
+		B1000005 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_ENTITLEMENTS = LLLBWidget/LLLBWidget.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = MB5V8D7NS8;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = LLLBWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = LLLBWidget;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.learn.LearnLanguageLikeABaby.LLLBWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B1000006 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_ENTITLEMENTS = LLLBWidget/LLLBWidget.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = MB5V8D7NS8;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = LLLBWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = LLLBWidget;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.learn.LearnLanguageLikeABaby.LLLBWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -339,6 +606,15 @@
 			buildConfigurations = (
 				B1000003 /* Debug */,
 				B1000004 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F7000001 /* Build configuration list for PBXNativeTarget "LLLBWidget" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B1000005 /* Debug */,
+				B1000006 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

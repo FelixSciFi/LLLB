@@ -1,0 +1,564 @@
+{
+  "sentences": [
+    {
+      "id": "d867b890-a7ad-4ebd-bba3-766b9e9e675b",
+      "text": "Mamá",
+      "ipa": "maˈma",
+      "translation": {
+        "zh": "妈妈",
+        "en": "mom"
+      },
+      "cefr": "A1",
+      "rank": 1,
+      "tokens": [
+        {
+          "text": "Mamá",
+          "lemma": "mamá",
+          "emoji": "👩",
+          "ipa": "maˈma",
+          "translation": {
+            "zh": "妈妈",
+            "en": "mom"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e80fc200-931a-43dd-9aef-c3aef6768278",
+      "text": "Papá",
+      "ipa": "paˈpa",
+      "translation": {
+        "zh": "爸爸",
+        "en": "dad"
+      },
+      "cefr": "A1",
+      "rank": 2,
+      "tokens": [
+        {
+          "text": "Papá",
+          "lemma": "papá",
+          "emoji": "👨",
+          "ipa": "paˈpa",
+          "translation": {
+            "zh": "爸爸",
+            "en": "dad"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cb7fa408-d91f-43f4-8768-6dad611fb0be",
+      "text": "Bebé",
+      "ipa": "beˈβe",
+      "translation": {
+        "zh": "宝宝",
+        "en": "baby"
+      },
+      "cefr": "A1",
+      "rank": 3,
+      "tokens": [
+        {
+          "text": "Bebé",
+          "lemma": "bebé",
+          "emoji": "👶",
+          "ipa": "beˈβe",
+          "translation": {
+            "zh": "宝宝",
+            "en": "baby"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0d5de94b-4555-45e4-8f98-1d614f4e9957",
+      "text": "Sí",
+      "ipa": "si",
+      "translation": {
+        "zh": "是；好的",
+        "en": "yes"
+      },
+      "cefr": "A1",
+      "rank": 4,
+      "tokens": [
+        {
+          "text": "Sí",
+          "lemma": "sí",
+          "emoji": "✅",
+          "ipa": "si",
+          "translation": {
+            "zh": "是；好的",
+            "en": "yes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "c70e4b20-737c-48e0-98ae-205c7229dd83",
+      "text": "No",
+      "ipa": "no",
+      "translation": {
+        "zh": "不",
+        "en": "no"
+      },
+      "cefr": "A1",
+      "rank": 5,
+      "tokens": [
+        {
+          "text": "No",
+          "lemma": "no",
+          "emoji": "❌",
+          "ipa": "no",
+          "translation": {
+            "zh": "不",
+            "en": "no"
+          }
+        }
+      ]
+    },
+    {
+      "id": "c1848228-9bf1-4706-97d1-c686df6bf2fb",
+      "text": "Gracias",
+      "ipa": "ˈɡɾasjas",
+      "translation": {
+        "zh": "谢谢",
+        "en": "thank you"
+      },
+      "cefr": "A1",
+      "rank": 6,
+      "tokens": [
+        {
+          "text": "Gracias",
+          "lemma": "gracias",
+          "emoji": "🙏",
+          "ipa": "ˈɡɾasjas",
+          "translation": {
+            "zh": "谢谢",
+            "en": "thank you"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6bbac73a-177d-4251-acf5-61fee0f398e4",
+      "text": "Por favor",
+      "ipa": "poɾ faˈβoɾ",
+      "translation": {
+        "zh": "请",
+        "en": "please"
+      },
+      "cefr": "A1",
+      "rank": 7,
+      "tokens": [
+        {
+          "text": "Por favor",
+          "lemma": "por favor",
+          "emoji": "🤲",
+          "ipa": "poɾ faˈβoɾ",
+          "translation": {
+            "zh": "请",
+            "en": "please"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f7e6782c-ba11-435f-9bca-97c925c9cc42",
+      "text": "Hola",
+      "ipa": "ˈola",
+      "translation": {
+        "zh": "你好；嗨",
+        "en": "hello; hi"
+      },
+      "cefr": "A1",
+      "rank": 8,
+      "tokens": [
+        {
+          "text": "Hola",
+          "lemma": "hola",
+          "emoji": "👋",
+          "ipa": "ˈola",
+          "translation": {
+            "zh": "你好；嗨",
+            "en": "hello; hi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "68bd69fe-9229-473d-9af9-c59ef7b74ee9",
+      "text": "Adiós",
+      "ipa": "aˈdjos",
+      "translation": {
+        "zh": "再见",
+        "en": "goodbye"
+      },
+      "cefr": "A1",
+      "rank": 9,
+      "tokens": [
+        {
+          "text": "Adiós",
+          "lemma": "adiós",
+          "emoji": "👋",
+          "ipa": "aˈdjos",
+          "translation": {
+            "zh": "再见",
+            "en": "goodbye"
+          }
+        }
+      ]
+    },
+    {
+      "id": "eb6917c8-e04c-4b05-abeb-5cdb700b2d6f",
+      "text": "Agua",
+      "ipa": "ˈaɣwa",
+      "translation": {
+        "zh": "水",
+        "en": "water"
+      },
+      "cefr": "A1",
+      "rank": 10,
+      "tokens": [
+        {
+          "text": "Agua",
+          "lemma": "agua",
+          "emoji": "💧",
+          "ipa": "ˈaɣwa",
+          "translation": {
+            "zh": "水",
+            "en": "water"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3530e587-19db-4323-9d20-4c1a5181cb1a",
+      "text": "Hola, mamá.",
+      "ipa": "ˈola maˈma",
+      "translation": {
+        "zh": "你好，妈妈。",
+        "en": "Hello, Mom."
+      },
+      "cefr": "A1",
+      "rank": 8,
+      "tokens": [
+        {
+          "text": "Hola",
+          "lemma": "hola",
+          "emoji": "👋",
+          "ipa": "ˈola",
+          "translation": {
+            "zh": "你好；嗨",
+            "en": "hello; hi"
+          }
+        },
+        {
+          "text": ", mamá.",
+          "lemma": "mamá",
+          "emoji": "👩",
+          "ipa": "maˈma",
+          "translation": {
+            "zh": "妈妈",
+            "en": "mom"
+          }
+        }
+      ]
+    },
+    {
+      "id": "023ecc1f-fe38-459b-b569-f877a822d739",
+      "text": "Hola, papá.",
+      "ipa": "ˈola paˈpa",
+      "translation": {
+        "zh": "你好，爸爸。",
+        "en": "Hello, Dad."
+      },
+      "cefr": "A1",
+      "rank": 8,
+      "tokens": [
+        {
+          "text": "Hola",
+          "lemma": "hola",
+          "emoji": "👋",
+          "ipa": "ˈola",
+          "translation": {
+            "zh": "你好；嗨",
+            "en": "hello; hi"
+          }
+        },
+        {
+          "text": ", papá.",
+          "lemma": "papá",
+          "emoji": "👨",
+          "ipa": "paˈpa",
+          "translation": {
+            "zh": "爸爸",
+            "en": "dad"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1bfd701e-9b79-40a8-ad5a-f11068ce8a42",
+      "text": "Hola, bebé.",
+      "ipa": "ˈola beˈβe",
+      "translation": {
+        "zh": "你好，宝宝。",
+        "en": "Hello, baby."
+      },
+      "cefr": "A1",
+      "rank": 8,
+      "tokens": [
+        {
+          "text": "Hola",
+          "lemma": "hola",
+          "emoji": "👋",
+          "ipa": "ˈola",
+          "translation": {
+            "zh": "你好；嗨",
+            "en": "hello; hi"
+          }
+        },
+        {
+          "text": ", bebé.",
+          "lemma": "bebé",
+          "emoji": "👶",
+          "ipa": "beˈβe",
+          "translation": {
+            "zh": "宝宝",
+            "en": "baby"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fcf4103b-0818-428f-ae02-75adfea4a061",
+      "text": "Adiós, mamá.",
+      "ipa": "aˈdjos maˈma",
+      "translation": {
+        "zh": "再见，妈妈。",
+        "en": "Goodbye, Mom."
+      },
+      "cefr": "A1",
+      "rank": 9,
+      "tokens": [
+        {
+          "text": "Adiós",
+          "lemma": "adiós",
+          "emoji": "👋",
+          "ipa": "aˈdjos",
+          "translation": {
+            "zh": "再见",
+            "en": "goodbye"
+          }
+        },
+        {
+          "text": ", mamá.",
+          "lemma": "mamá",
+          "emoji": "👩",
+          "ipa": "maˈma",
+          "translation": {
+            "zh": "妈妈",
+            "en": "mom"
+          }
+        }
+      ]
+    },
+    {
+      "id": "afc9faaf-423e-4ce7-a1cd-2c347b2c8855",
+      "text": "Adiós, papá.",
+      "ipa": "aˈdjos paˈpa",
+      "translation": {
+        "zh": "再见，爸爸。",
+        "en": "Goodbye, Dad."
+      },
+      "cefr": "A1",
+      "rank": 9,
+      "tokens": [
+        {
+          "text": "Adiós",
+          "lemma": "adiós",
+          "emoji": "👋",
+          "ipa": "aˈdjos",
+          "translation": {
+            "zh": "再见",
+            "en": "goodbye"
+          }
+        },
+        {
+          "text": ", papá.",
+          "lemma": "papá",
+          "emoji": "👨",
+          "ipa": "paˈpa",
+          "translation": {
+            "zh": "爸爸",
+            "en": "dad"
+          }
+        }
+      ]
+    },
+    {
+      "id": "da3c70f6-dd82-4879-a82b-0c4e603c0542",
+      "text": "No, gracias.",
+      "ipa": "no ˈɡɾasjas",
+      "translation": {
+        "zh": "不，谢谢。",
+        "en": "No, thank you."
+      },
+      "cefr": "A1",
+      "rank": 6,
+      "tokens": [
+        {
+          "text": "No",
+          "lemma": "no",
+          "emoji": "❌",
+          "ipa": "no",
+          "translation": {
+            "zh": "不",
+            "en": "no"
+          }
+        },
+        {
+          "text": ", gracias.",
+          "lemma": "gracias",
+          "emoji": "🙏",
+          "ipa": "ˈɡɾasjas",
+          "translation": {
+            "zh": "谢谢",
+            "en": "thank you"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fbd81c52-1e20-4cfb-b64f-4a6f639b0e00",
+      "text": "Sí, gracias.",
+      "ipa": "si ˈɡɾasjas",
+      "translation": {
+        "zh": "好的，谢谢。",
+        "en": "Yes, thank you."
+      },
+      "cefr": "A1",
+      "rank": 6,
+      "tokens": [
+        {
+          "text": "Sí",
+          "lemma": "sí",
+          "emoji": "✅",
+          "ipa": "si",
+          "translation": {
+            "zh": "是；好的",
+            "en": "yes"
+          }
+        },
+        {
+          "text": ", gracias.",
+          "lemma": "gracias",
+          "emoji": "🙏",
+          "ipa": "ˈɡɾasjas",
+          "translation": {
+            "zh": "谢谢",
+            "en": "thank you"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7484e850-1e9d-4aac-976b-568c3f764aa8",
+      "text": "Agua, por favor.",
+      "ipa": "ˈaɣwa poɾ faˈβoɾ",
+      "translation": {
+        "zh": "请给我水。",
+        "en": "Water, please."
+      },
+      "cefr": "A1",
+      "rank": 10,
+      "tokens": [
+        {
+          "text": "Agua",
+          "lemma": "agua",
+          "emoji": "💧",
+          "ipa": "ˈaɣwa",
+          "translation": {
+            "zh": "水",
+            "en": "water"
+          }
+        },
+        {
+          "text": ", por favor.",
+          "lemma": "por favor",
+          "emoji": "🤲",
+          "ipa": "poɾ faˈβoɾ",
+          "translation": {
+            "zh": "请",
+            "en": "please"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a7cf56e9-fa06-4e0a-a3ce-1d81702fb3d1",
+      "text": "Gracias, mamá.",
+      "ipa": "ˈɡɾasjas maˈma",
+      "translation": {
+        "zh": "谢谢，妈妈。",
+        "en": "Thanks, Mom."
+      },
+      "cefr": "A1",
+      "rank": 6,
+      "tokens": [
+        {
+          "text": "Gracias",
+          "lemma": "gracias",
+          "emoji": "🙏",
+          "ipa": "ˈɡɾasjas",
+          "translation": {
+            "zh": "谢谢",
+            "en": "thank you"
+          }
+        },
+        {
+          "text": ", mamá.",
+          "lemma": "mamá",
+          "emoji": "👩",
+          "ipa": "maˈma",
+          "translation": {
+            "zh": "妈妈",
+            "en": "mom"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fd8aae32-7188-4fb0-8cd8-56cf9c61cd10",
+      "text": "Sí, por favor.",
+      "ipa": "si poɾ faˈβoɾ",
+      "translation": {
+        "zh": "好的，请。",
+        "en": "Yes, please."
+      },
+      "cefr": "A1",
+      "rank": 7,
+      "tokens": [
+        {
+          "text": "Sí",
+          "lemma": "sí",
+          "emoji": "✅",
+          "ipa": "si",
+          "translation": {
+            "zh": "是；好的",
+            "en": "yes"
+          }
+        },
+        {
+          "text": ", por favor.",
+          "lemma": "por favor",
+          "emoji": "🤲",
+          "ipa": "poɾ faˈβoɾ",
+          "translation": {
+            "zh": "请",
+            "en": "please"
+          }
+        }
+      ]
+    }
+  ]
+}

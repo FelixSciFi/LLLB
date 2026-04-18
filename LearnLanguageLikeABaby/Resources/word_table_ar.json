@@ -1,0 +1,12 @@
+{
+  "words": [
+    { "rank": 1, "lemma": "أم",   "translation": { "zh": "妈妈", "en": "Mom" },       "emoji": "👩", "cefr": "A1", "ipa": "ʔumm" },
+    { "rank": 2, "lemma": "أب",   "translation": { "zh": "爸爸", "en": "Dad" },       "emoji": "👨", "cefr": "A1", "ipa": "ʔab" },
+    { "rank": 3, "lemma": "طفل",  "translation": { "zh": "宝宝", "en": "Baby" },      "emoji": "👶", "cefr": "A1", "ipa": "tˤifl" },
+    { "rank": 4, "lemma": "نعم",  "translation": { "zh": "是",   "en": "Yes" },       "emoji": "✅", "cefr": "A1", "ipa": "naʕam" },
+    { "rank": 5, "lemma": "لا",   "translation": { "zh": "不",   "en": "No" },        "emoji": "❌", "cefr": "A1", "ipa": "laː" },
+    { "rank": 6, "lemma": "شكر",  "translation": { "zh": "谢谢", "en": "Thank you" }, "emoji": "🙏", "cefr": "A2", "ipa": "ʃukr" },
+    { "rank": 7, "lemma": "صباح", "translation": { "zh": "早上", "en": "morning" },   "emoji": "🌅", "cefr": "A2", "ipa": "sˤabaːħ" },
+    { "rank": 8, "lemma": "خير",  "translation": { "zh": "好",   "en": "good" },      "emoji": "✨", "cefr": "A2", "ipa": "xaɪr" }
+  ]
+}

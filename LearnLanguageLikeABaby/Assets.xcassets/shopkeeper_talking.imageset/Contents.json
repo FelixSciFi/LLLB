@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "filename": "shopkeeper_talking.png",
+      "idiom": "universal",
+      "scale": "1x"
+    }
+  ],
+  "info": {
+    "author": "xcode",
+    "version": 1
+  }
+}

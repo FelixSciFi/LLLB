@@ -1,0 +1,114 @@
+{
+  "words": [
+    {
+      "rank": 1,
+      "lemma": "mamá",
+      "translation": {
+        "zh": "妈妈",
+        "en": "mom"
+      },
+      "emoji": "👩",
+      "cefr": "A1",
+      "ipa": "maˈma"
+    },
+    {
+      "rank": 2,
+      "lemma": "papá",
+      "translation": {
+        "zh": "爸爸",
+        "en": "dad"
+      },
+      "emoji": "👨",
+      "cefr": "A1",
+      "ipa": "paˈpa"
+    },
+    {
+      "rank": 3,
+      "lemma": "bebé",
+      "translation": {
+        "zh": "宝宝",
+        "en": "baby"
+      },
+      "emoji": "👶",
+      "cefr": "A1",
+      "ipa": "beˈβe"
+    },
+    {
+      "rank": 4,
+      "lemma": "sí",
+      "translation": {
+        "zh": "是；好的",
+        "en": "yes"
+      },
+      "emoji": "✅",
+      "cefr": "A1",
+      "ipa": "si"
+    },
+    {
+      "rank": 5,
+      "lemma": "no",
+      "translation": {
+        "zh": "不",
+        "en": "no"
+      },
+      "emoji": "❌",
+      "cefr": "A1",
+      "ipa": "no"
+    },
+    {
+      "rank": 6,
+      "lemma": "gracias",
+      "translation": {
+        "zh": "谢谢",
+        "en": "thank you"
+      },
+      "emoji": "🙏",
+      "cefr": "A1",
+      "ipa": "ˈɡɾasjas"
+    },
+    {
+      "rank": 7,
+      "lemma": "por favor",
+      "translation": {
+        "zh": "请",
+        "en": "please"
+      },
+      "emoji": "🤲",
+      "cefr": "A1",
+      "ipa": "poɾ faˈβoɾ"
+    },
+    {
+      "rank": 8,
+      "lemma": "hola",
+      "translation": {
+        "zh": "你好；嗨",
+        "en": "hello; hi"
+      },
+      "emoji": "👋",
+      "cefr": "A1",
+      "ipa": "ˈola"
+    },
+    {
+      "rank": 9,
+      "lemma": "adiós",
+      "translation": {
+        "zh": "再见",
+        "en": "goodbye"
+      },
+      "emoji": "👋",
+      "cefr": "A1",
+      "ipa": "aˈdjos"
+    },
+    {
+      "rank": 10,
+      "lemma": "agua",
+      "translation": {
+        "zh": "水",
+        "en": "water"
+      },
+      "emoji": "💧",
+      "cefr": "A1",
+      "ipa": "ˈaɣwa"
+    }
+  ]
+}

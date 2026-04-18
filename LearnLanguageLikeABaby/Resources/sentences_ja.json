@@ -1,0 +1,123 @@
+{
+  "sentences": [
+    {
+      "id": "ja-0001-0000-0000-000000000001",
+      "text": "ママ",
+      "ipa": "mama",
+      "translation": { "zh": "妈妈", "en": "Mom" },
+      "cefr": "A1",
+      "rank": 1,
+      "tokens": [
+        {
+          "text": "ママ",
+          "lemma": "ママ",
+          "emoji": "👩",
+          "ipa": "mama",
+          "translation": { "zh": "妈妈", "en": "Mom" }
+        }
+      ]
+    },
+    {
+      "id": "ja-0001-0000-0000-000000000002",
+      "text": "パパ",
+      "ipa": "papa",
+      "translation": { "zh": "爸爸", "en": "Dad" },
+      "cefr": "A1",
+      "rank": 2,
+      "tokens": [
+        {
+          "text": "パパ",
+          "lemma": "パパ",
+          "emoji": "👨",
+          "ipa": "papa",
+          "translation": { "zh": "爸爸", "en": "Dad" }
+        }
+      ]
+    },
+    {
+      "id": "ja-0001-0000-0000-000000000003",
+      "text": "赤ちゃん",
+      "ipa": "akachan",
+      "translation": { "zh": "宝宝", "en": "Baby" },
+      "cefr": "A1",
+      "rank": 3,
+      "tokens": [
+        {
+          "text": "赤ちゃん",
+          "lemma": "赤ちゃん",
+          "emoji": "👶",
+          "ipa": "akachan",
+          "translation": { "zh": "宝宝", "en": "Baby" }
+        }
+      ]
+    },
+    {
+      "id": "ja-0001-0000-0000-000000000004",
+      "text": "はい",
+      "ipa": "hai",
+      "translation": { "zh": "是", "en": "Yes" },
+      "cefr": "A1",
+      "rank": 4,
+      "tokens": [
+        {
+          "text": "はい",
+          "lemma": "はい",
+          "emoji": "✅",
+          "ipa": "hai",
+          "translation": { "zh": "是", "en": "Yes" }
+        }
+      ]
+    },
+    {
+      "id": "ja-0001-0000-0000-000000000005",
+      "text": "いいえ",
+      "ipa": "iie",
+      "translation": { "zh": "不", "en": "No" },
+      "cefr": "A1",
+      "rank": 5,
+      "tokens": [
+        {
+          "text": "いいえ",
+          "lemma": "いいえ",
+          "emoji": "❌",
+          "ipa": "iie",
+          "translation": { "zh": "不", "en": "No" }
+        }
+      ]
+    },
+    {
+      "id": "ja-0002-0000-0000-000000000001",
+      "text": "ありがとう",
+      "ipa": "arigatou",
+      "translation": { "zh": "谢谢", "en": "Thank you" },
+      "cefr": "A2",
+      "rank": 6,
+      "tokens": [
+        {
+          "text": "ありがとう",
+          "lemma": "ありがとう",
+          "emoji": "🙏",
+          "ipa": "arigatou",
+          "translation": { "zh": "谢谢", "en": "Thank you" }
+        }
+      ]
+    },
+    {
+      "id": "ja-0002-0000-0000-000000000002",
+      "text": "おはようございます",
+      "ipa": "ohayou gozaimasu",
+      "translation": { "zh": "早上好", "en": "Good morning" },
+      "cefr": "A2",
+      "rank": 7,
+      "tokens": [
+        {
+          "text": "おはようございます",
+          "lemma": "おはようございます",
+          "emoji": "🌅",
+          "ipa": "ohayou gozaimasu",
+          "translation": { "zh": "早上好", "en": "Good morning" }
+        }
+      ]
+    }
+  ]
+}
