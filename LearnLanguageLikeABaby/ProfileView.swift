@@ -502,7 +502,7 @@ private struct MyAssetsView: View {
 
             // ── Archived sentences (存档句子) ──────────────────────────
             Section(header: Text(L("存档句子", "Archived Sentences", nativeLanguage: nl))) {
-                let archiveCount = sessions.flatMap { $0.trashedSentences() }.count
+                let archiveCount = sessions.flatMap { $0.trashedSentences() }.count  // mastered + later
                 NavigationLink {
                     ArchiveView(sessions: sessions, nativeLanguage: nl)
                 } label: {
@@ -631,26 +631,51 @@ private struct ArchiveView: View {
     let nativeLanguage: String
     @State private var searchText = ""
 
-    var body: some View {
-        let allTrashed = sessions.flatMap { s in s.trashedSentences().map { (session: s, sentence: $0) } }
-        let q = searchText.trimmingCharacters(in: .whitespaces).lowercased()
-        let trashed = q.isEmpty ? allTrashed : allTrashed.filter {
-            $0.sentence.text.lowercased().contains(q)
-            || $0.sentence.translation.values.contains { $0.lowercased().contains(q) }
+    private func filterPairs(
+        _ pairs: [(session: LessonSessionModel, sentence: LessonSentence)],
+        query: String
+    ) -> [(session: LessonSessionModel, sentence: LessonSentence)] {
+        guard !query.isEmpty else { return pairs }
+        return pairs.filter {
+            $0.sentence.text.lowercased().contains(query)
+            || $0.sentence.translation.values.contains { $0.lowercased().contains(query) }
         }
+    }
+
+    var body: some View {
+        let q        = searchText.trimmingCharacters(in: .whitespaces).lowercased()
+        let mastered = filterPairs(sessions.flatMap { s in s.masteredSentences().map { (session: s, sentence: $0) } }, query: q)
+        let later    = filterPairs(sessions.flatMap { s in s.laterSentences().map    { (session: s, sentence: $0) } }, query: q)
+
         List {
-            if trashed.isEmpty {
+            if mastered.isEmpty && later.isEmpty {
                 Text(L("暂无存档", "No archived sentences", nativeLanguage: nativeLanguage))
                     .foregroundStyle(.secondary)
-            } else {
-                ForEach(trashed, id: \.sentence.id) { item in
-                    TrashedSentenceRow(
-                        sentence:       item.sentence,
-                        flag:           item.session.config.flag,
-                        nativeLanguage: nativeLanguage,
-                        onRestore:      { item.session.restoreSentence(id: item.sentence.id) },
-                        onSell:         { item.session.sellArchivedSentence(id: item.sentence.id) }
-                    )
+            }
+            if !mastered.isEmpty {
+                Section(header: Text(L("学会了", "Mastered", nativeLanguage: nativeLanguage))) {
+                    ForEach(mastered, id: \.sentence.id) { item in
+                        TrashedSentenceRow(
+                            sentence:       item.sentence,
+                            flag:           item.session.config.flag,
+                            nativeLanguage: nativeLanguage,
+                            onRestore:      { item.session.restoreSentence(id: item.sentence.id) },
+                            onSell:         { item.session.sellArchivedSentence(id: item.sentence.id) }
+                        )
+                    }
+                }
+            }
+            if !later.isEmpty {
+                Section(header: Text(L("稍后学", "Learn Later", nativeLanguage: nativeLanguage))) {
+                    ForEach(later, id: \.sentence.id) { item in
+                        TrashedSentenceRow(
+                            sentence:       item.sentence,
+                            flag:           item.session.config.flag,
+                            nativeLanguage: nativeLanguage,
+                            onRestore:      { item.session.restoreSentence(id: item.sentence.id) },
+                            onSell:         { item.session.sellArchivedSentence(id: item.sentence.id) }
+                        )
+                    }
                 }
             }
         }
@@ -718,7 +743,7 @@ private struct PlayPoolView: View {
                                 .font(.caption2.weight(.semibold))
                                 .foregroundStyle(.secondary)
                                 .padding(.horizontal, 6).padding(.vertical, 2)
-                                .background(Color(.tertiarySystemGroupedBackground))
+                                .background(Color.lllbTagBg)
                                 .clipShape(Capsule())
                         }
                         let tr = sentence.translation.resolvedTranslation(nativeLanguage: nl)

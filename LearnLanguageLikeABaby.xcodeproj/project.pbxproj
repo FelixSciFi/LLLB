@@ -22,6 +22,7 @@
 		A1000010 /* CandyStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000010 /* CandyStore.swift */; };
 		A1000011 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000011 /* ProfileView.swift */; };
 		A1000013 /* Localizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000013 /* Localizer.swift */; };
+		A1000014 /* DesignTokens.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000014 /* DesignTokens.swift */; };
 		A1000020 /* LessonSessionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000020 /* LessonSessionModel.swift */; };
 		A1000021 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000021 /* RootView.swift */; };
 		A1000022 /* LibraryPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000022 /* LibraryPickerView.swift */; };
@@ -62,6 +63,7 @@
 		A2000010 /* CandyStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CandyStore.swift; sourceTree = "<group>"; };
 		A2000011 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		A2000013 /* Localizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Localizer.swift; sourceTree = "<group>"; };
+		A2000014 /* DesignTokens.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignTokens.swift; sourceTree = "<group>"; };
 		A2000020 /* LessonSessionModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonSessionModel.swift; sourceTree = "<group>"; };
 		A2000021 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
 		A2000022 /* LibraryPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryPickerView.swift; sourceTree = "<group>"; };
@@ -164,6 +166,7 @@
 				A2000030 /* UsageTimeTracker.swift */,
 				A2000011 /* ProfileView.swift */,
 				A2000013 /* Localizer.swift */,
+				A2000014 /* DesignTokens.swift */,
 				F2000005 /* LiveActivityManager.swift */,
 				F2000003 /* LLLBActivityAttributes.swift */,
 				F2000004 /* LLLBIntents.swift */,
@@ -382,6 +385,7 @@
 				A1000010 /* CandyStore.swift in Sources */,
 				A1000011 /* ProfileView.swift in Sources */,
 				A1000013 /* Localizer.swift in Sources */,
+				A1000014 /* DesignTokens.swift in Sources */,
 				A1000020 /* LessonSessionModel.swift in Sources */,
 				A1000021 /* RootView.swift in Sources */,
 				A1000022 /* LibraryPickerView.swift in Sources */,

@@ -35,6 +35,10 @@ final class NarrationEngine: NSObject, ObservableObject, AVSpeechSynthesizerDele
     /// BCP-47 locale for TTS (e.g. fr-FR, es-ES). Used as fallback when voiceIdentifier is nil.
     var language: String = "fr-FR"
 
+    /// When true and the sentence has exactly one token, speak letters one-by-one before the full word.
+    /// Checked per-call via spellFirst parameter in speak(); this flag is used by the session model.
+    var spellEnabled: Bool = false
+
     private let synthesizer = AVSpeechSynthesizer()
     private var tokenRanges: [NSRange] = []
     private var activeFullText: String = ""
@@ -92,7 +96,7 @@ final class NarrationEngine: NSObject, ObservableObject, AVSpeechSynthesizerDele
         resetChunkTracking()
     }
 
-    func speak(_ sentence: LessonSentence) {
+    func speak(_ sentence: LessonSentence, spellFirst: Bool = false) {
         synthesizer.stopSpeaking(at: .immediate)
         speakGeneration += 1
         let generation = speakGeneration
@@ -125,17 +129,35 @@ final class NarrationEngine: NSObject, ObservableObject, AVSpeechSynthesizerDele
             return
         }
 
+        // Spell mode: prepend per-letter utterances when single token (index -1 = no highlight)
+        var spellLetters: [String] = []
+        let isSingleWord = sentence.text.split(separator: " ").count == 1
+        if spellFirst && isSingleWord {
+            spellLetters = toSpeak[0].text.lowercased().map {
+                String($0).applyingTransform(.stripDiacritics, reverse: false) ?? String($0)
+            }
+            for (i, letter) in spellLetters.enumerated() {
+                let u = ChunkUtterance(string: letter, speakGen: generation)
+                u.voice = voice
+                u.rate = rate
+                u.preUtteranceDelay = i == 0 ? 0 : 0.15
+                synthesizer.speak(u)
+            }
+        }
+
         chunkHighlightMode = true
-        chunkUtteranceTokenIndices = toSpeak.map(\.tokenIndex)
+        chunkUtteranceTokenIndices = spellLetters.map { _ in -1 } + toSpeak.map(\.tokenIndex)
         chunkDidStartCursor = 0
-        pendingChunkFinishes = toSpeak.count
+        pendingChunkFinishes = spellLetters.count + toSpeak.count
         chunksFinished = 0
 
         for (j, item) in toSpeak.enumerated() {
             let utterance = ChunkUtterance(string: item.text, speakGen: generation)
             utterance.voice = voice
             utterance.rate = rate
-            if j > 0 {
+            if j == 0 && !spellLetters.isEmpty {
+                utterance.preUtteranceDelay = 0.45
+            } else if j > 0 {
                 utterance.preUtteranceDelay = 1.3
             }
             synthesizer.speak(utterance)
@@ -309,6 +331,7 @@ final class NarrationEngine: NSObject, ObservableObject, AVSpeechSynthesizerDele
         guard chunkHighlightMode, chunkDidStartCursor < chunkUtteranceTokenIndices.count else { return }
         let idx = chunkUtteranceTokenIndices[chunkDidStartCursor]
         chunkDidStartCursor += 1
+        guard idx >= 0 else { return }  // -1: spell letter, skip highlight update
         DispatchQueue.main.async {
             self.highlightedTokenIndex = idx
         }

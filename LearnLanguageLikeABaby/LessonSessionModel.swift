@@ -11,8 +11,13 @@ struct LibraryOption: Identifiable, Hashable {
 
 enum TranslationPlaybackMode: String {
     case off    = "off"
-    case before = "before"   // read translation first, then sentence
-    case after  = "after"    // read sentence N times, then translation
+    case before = "before"
+    case after  = "after"
+}
+
+enum ArchiveKind {
+    case mastered   // 学会了
+    case later      // 稍后学
 }
 
 @MainActor
@@ -110,6 +115,12 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     @Published var translationPlaybackMode: TranslationPlaybackMode {
         didSet { UserDefaults.standard.set(translationPlaybackMode.rawValue, forKey: "translationPlayback_\(config.id)") }
     }
+    @Published var spellMode: Bool {
+        didSet {
+            UserDefaults.standard.set(spellMode, forKey: "spellMode_\(config.id)")
+            narration.spellEnabled = spellMode
+        }
+    }
 
     /// Lifetime play count per sentence ID (persisted).
     @Published var lifetimePlayCounts: [String: Int] = [:]
@@ -145,7 +156,9 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     @Published var activatedTag: String? = nil
     private var isRandomTagMode: Bool = false
 
-    @Published var trashedIDs:          Set<String> = []
+    @Published var masteredIDs:          Set<String> = []
+    @Published var laterIDs:             Set<String> = []
+    var archivedIDs: Set<String> { masteredIDs.union(laterIDs) }
     @Published var feedbackMarkedIDs:   Set<String> = []
     @Published var feedbackDeletedIDs:  Set<String> = []
     @Published var familiarIDs:         Set<String> = []
@@ -163,7 +176,8 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     // MARK: - Storage keys
 
     private var familiarStorageKey:         String { "familiarIDs_\(config.id)" }
-    private var trashedStorageKey:          String { "trashedIDs_\(config.id)" }
+    private var masteredStorageKey:          String { "masteredIDs_\(config.id)" }
+    private var laterStorageKey:             String { "laterIDs_\(config.id)" }
     private var soldStorageKey:             String { "soldIDs_\(config.id)" }
     private var feedbackMarkedStorageKey:   String { "feedbackMarkedIDs_\(config.id)" }
     private var feedbackDeletedStorageKey:  String { "feedbackDeletedIDs_\(config.id)" }
@@ -201,7 +215,7 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         _showSpelling           = Published(initialValue: Self.loadBool(d: d, key: "showSpelling_\(lid)", default: false))
         _showIPA                = Published(initialValue: Self.loadBool(d: d, key: "showIPA_\(lid)", default: false))
         _showTranslation        = Published(initialValue: Self.loadBool(d: d, key: "showTranslation_\(lid)", default: false))
-        // Translation playback mode — migrate old Bool if needed
+        _spellMode              = Published(initialValue: Self.loadBool(d: d, key: "spellMode_\(lid)", default: false))
         let rawMode = d.string(forKey: "translationPlayback_\(lid)")
             ?? (d.bool(forKey: "chineseReading_\(lid)") ? "after" : "off")
         _translationPlaybackMode = Published(initialValue: TranslationPlaybackMode(rawValue: rawMode) ?? .off)
@@ -228,6 +242,8 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         narration.objectWillChange
             .sink { [weak self] _ in self?.objectWillChange.send() }
             .store(in: &cancellables)
+
+        narration.spellEnabled = spellMode
 
         // Translation narration language matches nativeLanguage TTS locale
         chineseNarration.language = LanguageConfig.uiLanguages.first { $0.id == "zh" }?.ttsLocale ?? "zh-CN"
@@ -290,7 +306,7 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         let ownedSentences  = candyStore?.ownedSentenceIDs(for: config.id) ?? []
         return mainSentences.filter { sentence in
             guard selectedLibraries.contains(sentence.cefr) else { return false }
-            guard !trashedIDs.contains(sentence.id)         else { return false }
+            guard !archivedIDs.contains(sentence.id)        else { return false }
             guard !feedbackMarkedIDs.contains(sentence.id)  else { return false }
             guard !feedbackDeletedIDs.contains(sentence.id) else { return false }
             if ownedSentences.contains(sentence.id) { return true }
@@ -347,7 +363,8 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         if playsOnCurrent >= total - 1 {
             narration.speakConnected(currentSentence)
         } else {
-            narration.speak(currentSentence)
+            let shouldSpell = spellMode && playsOnCurrent == 0 && !familiarIDs.contains(currentSentence.id)
+            narration.speak(currentSentence, spellFirst: shouldSpell)
         }
     }
 
@@ -639,7 +656,7 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         // that are CEFR-eligible and not trashed/deleted.
         let tagSentences = mainSentences.filter { s in
             guard selectedLibraries.contains(s.cefr) else { return false }
-            guard !trashedIDs.contains(s.id) else { return false }
+            guard !archivedIDs.contains(s.id) else { return false }
             guard !feedbackDeletedIDs.contains(s.id) else { return false }
             return s.tags.contains { $0.name == name }
         }
@@ -682,14 +699,17 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         saveFamiliar()
     }
 
-    // MARK: - Trash
+    // MARK: - Archive
 
-    func trashCurrentSentence() {
+    func archiveCurrentSentence(as kind: ArchiveKind) {
         let id = currentSentence.id
-        trashedIDs.insert(id)
+        switch kind {
+        case .mastered: masteredIDs.insert(id)
+        case .later:    laterIDs.insert(id)
+        }
         favoritedIDs.remove(id)
         familiarIDs.remove(id)
-        saveTrashed(); saveFavorites(); saveFamiliar()
+        saveArchived(); saveFavorites(); saveFamiliar()
         narration.stop(); chineseNarration.stop(); playsOnCurrent = 0
         if let ex = examplePlaylist {
             let remaining = ex.filter { $0.id != id }
@@ -705,20 +725,33 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         }
     }
 
-    func restoreSentence(id: String) { trashedIDs.remove(id); saveTrashed() }
+    func restoreSentence(id: String) {
+        masteredIDs.remove(id)
+        laterIDs.remove(id)
+        saveArchived()
+    }
 
     func sellArchivedSentence(id: String) {
-        trashedIDs.remove(id)
+        masteredIDs.remove(id)
+        laterIDs.remove(id)
         soldIDs.insert(id)
-        saveTrashed()
+        saveArchived()
         saveSold()
         candyStore?.addCandy(8)
-        // Also remove individual purchase so it reappears in the sentence store
         candyStore?.removeSentence(id, language: config.id)
     }
 
+    func masteredSentences() -> [LessonSentence] {
+        mainSentences.filter { masteredIDs.contains($0.id) }
+    }
+
+    func laterSentences() -> [LessonSentence] {
+        mainSentences.filter { laterIDs.contains($0.id) }
+    }
+
+    /// Legacy alias for external compatibility.
     func trashedSentences() -> [LessonSentence] {
-        mainSentences.filter { trashedIDs.contains($0.id) }
+        mainSentences.filter { archivedIDs.contains($0.id) }
     }
 
     // MARK: - Feedback
@@ -818,12 +851,23 @@ final class LessonSessionModel: ObservableObject, Identifiable {
             familiarIDs = Set(arr)
         }
     }
-    private func saveTrashed() {
-        UserDefaults.standard.set(Array(trashedIDs), forKey: trashedStorageKey)
+    private func saveArchived() {
+        UserDefaults.standard.set(Array(masteredIDs), forKey: masteredStorageKey)
+        UserDefaults.standard.set(Array(laterIDs),    forKey: laterStorageKey)
     }
     private func loadTrashed() {
-        if let arr = UserDefaults.standard.stringArray(forKey: trashedStorageKey) {
-            trashedIDs = Set(arr)
+        // Migration: old trashedIDs → masteredIDs
+        let oldKey = "trashedIDs_\(config.id)"
+        if let arr = UserDefaults.standard.stringArray(forKey: oldKey), !arr.isEmpty {
+            masteredIDs = masteredIDs.union(Set(arr))
+            UserDefaults.standard.removeObject(forKey: oldKey)
+            saveArchived()
+        }
+        if let arr = UserDefaults.standard.stringArray(forKey: masteredStorageKey) {
+            masteredIDs = Set(arr)
+        }
+        if let arr = UserDefaults.standard.stringArray(forKey: laterStorageKey) {
+            laterIDs = Set(arr)
         }
     }
     private func saveSold() {

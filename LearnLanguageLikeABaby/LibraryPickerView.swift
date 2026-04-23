@@ -18,7 +18,7 @@ struct LibraryPickerView: View {
                         Spacer()
                         if session.selectedLibraries.contains(library.id) {
                             Image(systemName: "checkmark")
-                                .foregroundStyle(Color.accentColor)
+                                .foregroundStyle(Color.lllbAccent)
                         }
                     }
                     .contentShape(Rectangle())

@@ -189,7 +189,11 @@ final class AppModel: ObservableObject {
 
         // 11. Forward session trash changes so ProfileView (observing AppModel) re-renders
         for session in allSessions {
-            session.$trashedIDs
+            session.$masteredIDs
+                .dropFirst()
+                .sink { [weak self] _ in self?.objectWillChange.send() }
+                .store(in: &cancellables)
+            session.$laterIDs
                 .dropFirst()
                 .sink { [weak self] _ in self?.objectWillChange.send() }
                 .store(in: &cancellables)
