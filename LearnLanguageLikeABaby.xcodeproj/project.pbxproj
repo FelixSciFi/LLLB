@@ -21,6 +21,7 @@
 		A1000012 /* word_table_es.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000012 /* word_table_es.json */; };
 		A1000010 /* CandyStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000010 /* CandyStore.swift */; };
 		A1000050 /* AchievementManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000050 /* AchievementManager.swift */; };
+		A1000060 /* PoolUnlockSelector.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000060 /* PoolUnlockSelector.swift */; };
 		A1000011 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000011 /* ProfileView.swift */; };
 		A1000013 /* Localizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000013 /* Localizer.swift */; };
 		A1000014 /* DesignTokens.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000014 /* DesignTokens.swift */; };
@@ -66,6 +67,7 @@
 		A2000007 /* FrenchLemmaSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrenchLemmaSearch.swift; sourceTree = "<group>"; };
 		A2000010 /* CandyStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CandyStore.swift; sourceTree = "<group>"; };
 		A2000050 /* AchievementManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementManager.swift; sourceTree = "<group>"; };
+		A2000060 /* PoolUnlockSelector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoolUnlockSelector.swift; sourceTree = "<group>"; };
 		A2000011 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		A2000013 /* Localizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Localizer.swift; sourceTree = "<group>"; };
 		A2000014 /* DesignTokens.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignTokens.swift; sourceTree = "<group>"; };
@@ -226,6 +228,7 @@
 				A2000007 /* FrenchLemmaSearch.swift */,
 				A2000010 /* CandyStore.swift */,
 				A2000050 /* AchievementManager.swift */,
+				A2000060 /* PoolUnlockSelector.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -397,6 +400,7 @@
 				A1000007 /* FrenchLemmaSearch.swift in Sources */,
 				A1000010 /* CandyStore.swift in Sources */,
 				A1000050 /* AchievementManager.swift in Sources */,
+				A1000060 /* PoolUnlockSelector.swift in Sources */,
 				A1000011 /* ProfileView.swift in Sources */,
 				A1000013 /* Localizer.swift in Sources */,
 				A1000014 /* DesignTokens.swift in Sources */,

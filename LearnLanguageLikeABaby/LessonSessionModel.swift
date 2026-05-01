@@ -200,6 +200,10 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     private var wasAutoPlaying:    Bool   = false   // saved across audio interruptions
     private var cancellables = Set<AnyCancellable>()
 
+    /// Algorithm for picking which sentence to unlock when the pool refills.
+    /// Swap with a different `PoolUnlockSelector` to experiment with strategies.
+    private var unlockSelector: PoolUnlockSelector = ProportionalUnlockSelector.default
+
     // MARK: - Storage keys
 
     private var familiarStorageKey:         String { "familiarIDs_\(config.id)" }
@@ -955,6 +959,8 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         var inPool   = Set(pool)
         var stagedIDs: [String] = []
 
+        let poolSnapshot = poolSentences
+
         for _ in 0..<quota {
             let candidates = mainSentences.filter {
                 !inPool.contains($0.id)
@@ -962,7 +968,7 @@ final class LessonSessionModel: ObservableObject, Identifiable {
                 && !feedbackDeletedIDs.contains($0.id)
                 && !soldIDs.contains($0.id)
             }
-            guard let picked = candidates.randomElement() else { break }
+            guard let picked = unlockSelector.pickNext(pool: poolSnapshot, candidates: candidates) else { break }
 
             for id in expandTagGroup(for: picked) where !inPool.contains(id) {
                 inPool.insert(id)
