@@ -168,6 +168,21 @@ struct ContentView: View {
                     .transition(.opacity)
                 }
 
+                // ── Unlock notice overlay ──────────────────────────────────────
+                if !session.pendingUnlockIDs.isEmpty {
+                    UnlockNoticeView(
+                        sentences:      session.pendingUnlockSentences,
+                        nativeLanguage: session.nativeLanguage,
+                        onConfirm: {
+                            withAnimation(.easeOut(duration: 0.18)) {
+                                session.commitPendingUnlock()
+                            }
+                        }
+                    )
+                    .transition(.opacity)
+                    .zIndex(150)
+                }
+
                 // ── Milestone collect card ─────────────────────────────────────
                 if showCollectCard {
                     MilestoneCollectCard(
@@ -377,12 +392,19 @@ struct ContentView: View {
         let nl = session.nativeLanguage
         return VStack(spacing: 10) {
 
-            // Loop
-            Button { session.toggleLoop() } label: {
+            // Play mode (shuffle / sequential / single-loop)
+            Button { session.cyclePlayMode() } label: {
+                let (icon, label): (String, String) = {
+                    switch session.playMode {
+                    case .shuffle:    return ("shuffle",  L("随机", "Shuffle", nativeLanguage: nl))
+                    case .sequential: return ("repeat",   L("顺序", "Order",   nativeLanguage: nl))
+                    case .singleLoop: return ("repeat.1", L("单曲", "Loop 1", nativeLanguage: nl))
+                    }
+                }()
                 controlCell(
-                    icon:     session.loopCurrent ? "repeat.1.circle.fill" : "repeat.circle",
-                    label:    L("循环", "Loop", nativeLanguage: nl),
-                    isActive: session.loopCurrent
+                    icon:     icon,
+                    label:    label,
+                    isActive: session.playMode != .shuffle
                 )
             }
             .buttonStyle(.plain)
@@ -801,5 +823,76 @@ struct ContentView: View {
                 )
         }
         .buttonStyle(.plain)
+    }
+}
+
+// MARK: - Unlock notice overlay
+
+private struct UnlockNoticeView: View {
+    let sentences:      [LessonSentence]
+    let nativeLanguage: String
+    let onConfirm:      () -> Void
+
+    var body: some View {
+        ZStack {
+            Color.black.opacity(0.45)
+                .ignoresSafeArea()
+
+            VStack(spacing: 0) {
+                Text(L("解锁了 \(sentences.count) 个新句子",
+                       "\(sentences.count) New Sentence\(sentences.count == 1 ? "" : "s") Unlocked",
+                       nativeLanguage: nativeLanguage))
+                    .font(.headline)
+                    .padding(.top, 22)
+                    .padding(.bottom, 14)
+
+                ScrollView {
+                    VStack(spacing: 10) {
+                        ForEach(sentences) { sentence in
+                            VStack(alignment: .leading, spacing: 4) {
+                                HStack(alignment: .top) {
+                                    Text(sentence.text)
+                                        .font(.body.weight(.medium))
+                                    Spacer()
+                                    Text(sentence.cefr)
+                                        .font(.caption2.weight(.semibold))
+                                        .foregroundStyle(.secondary)
+                                        .padding(.horizontal, 6).padding(.vertical, 2)
+                                        .background(Color.lllbTagBg)
+                                        .clipShape(Capsule())
+                                }
+                                let tr = sentence.translation.resolvedTranslation(nativeLanguage: nativeLanguage)
+                                if !tr.isEmpty {
+                                    Text(tr)
+                                        .font(.caption)
+                                        .foregroundStyle(.secondary)
+                                }
+                            }
+                            .padding(.horizontal, 14).padding(.vertical, 10)
+                            .frame(maxWidth: .infinity, alignment: .leading)
+                            .background(Color.primary.opacity(0.04),
+                                        in: RoundedRectangle(cornerRadius: 11))
+                        }
+                    }
+                    .padding(.horizontal, 18)
+                }
+                .frame(maxHeight: 320)
+
+                Button(action: onConfirm) {
+                    Text(L("知道了", "Got it", nativeLanguage: nativeLanguage))
+                        .font(.headline)
+                        .frame(maxWidth: .infinity)
+                        .padding(.vertical, 13)
+                        .background(Color.lllbAccent, in: RoundedRectangle(cornerRadius: 13))
+                        .foregroundStyle(Color.white)
+                }
+                .buttonStyle(.plain)
+                .padding(.horizontal, 18)
+                .padding(.top, 14)
+                .padding(.bottom, 22)
+            }
+            .background(.regularMaterial, in: RoundedRectangle(cornerRadius: 22))
+            .padding(.horizontal, 28)
+        }
     }
 }

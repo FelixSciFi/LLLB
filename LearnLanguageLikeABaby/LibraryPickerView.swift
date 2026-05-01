@@ -37,11 +37,7 @@ struct LibraryPickerView: View {
 
     private func levelButton(_ library: LibraryOption) -> some View {
         let isSelected = session.selectedLibraries.contains(library.id)
-        let count = session.mainSentences.filter {
-            $0.cefr == library.id
-            && !session.archivedIDs.contains($0.id)
-            && !session.feedbackDeletedIDs.contains($0.id)
-        }.count
+        let count = session.poolSentences.filter { $0.cefr == library.id }.count
 
         return Button {
             if isSelected {

@@ -706,7 +706,7 @@ private struct ArchiveView: View {
 // MARK: - Play pool view
 
 private struct PlayPoolView: View {
-    let session:       LessonSessionModel
+    @ObservedObject var session: LessonSessionModel
     let nativeLanguage: String
     @State private var searchText = ""
 
@@ -737,14 +737,23 @@ private struct PlayPoolView: View {
                     Text(L("共 \(count) 句", "\(count) sentences total", nativeLanguage: nl))
                         .font(.subheadline)
                     Spacer()
-                    Text(count < 20 ? L("偏少", "Too few", nativeLanguage: nl) :
-                         count <= 50 ? L("理想", "Ideal", nativeLanguage: nl) :
-                                       L("偏多", "Many", nativeLanguage: nl))
+                    Text(L("容量 \(session.poolCapacity)", "Cap \(session.poolCapacity)", nativeLanguage: nl))
                         .font(.caption.weight(.semibold))
                         .foregroundStyle(Color.lllbAccent)
                         .padding(.horizontal, 8).padding(.vertical, 3)
                         .background(Color.lllbAccent.opacity(0.12))
                         .clipShape(Capsule())
+                }
+
+                Stepper(value: $session.poolCapacity, in: 20...500, step: 10) {
+                    HStack {
+                        Label(L("句子池容量", "Pool capacity", nativeLanguage: nl),
+                              systemImage: "tray.full")
+                        Spacer()
+                        Text("\(session.poolCapacity)")
+                            .font(.subheadline.monospacedDigit())
+                            .foregroundStyle(.secondary)
+                    }
                 }
             }
 

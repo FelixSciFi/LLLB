@@ -4735,28 +4735,6 @@
       ]
     },
     {
-      "id": "1ad8f0ab-b5ac-4fb0-b42a-0401fbe1005c",
-      "text": "Jour",
-      "ipa": "ʒuʁ",
-      "translation": {
-        "zh": "天",
-        "en": "sky"
-      },
-      "cefr": "A1",
-      "tokens": [
-        {
-          "text": "Jour",
-          "lemma": "jour",
-          "emoji": "📅",
-          "ipa": "ʒuʁ",
-          "translation": {
-            "zh": "天",
-            "en": "sky"
-          }
-        }
-      ]
-    },
-    {
       "id": "8fe68ecd-55f1-47ef-b4a8-95bb192a9a0f",
       "text": "Semaine",
       "ipa": "səmɛn",
