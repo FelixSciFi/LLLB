@@ -78,4 +78,12 @@ extension Color {
     })
     /// Streak orange: #FF9500
     static let lllbStreak = Color(red: 1, green: 149/255, blue: 0)
+
+    /// Progress ring colors: [今天, 本周, 本月, 全部]
+    static let lllbRingColors: [Color] = [
+        Color(red: 240/255, green: 120/255, blue:  64/255),  // 今天 #F07840
+        Color(red:  46/255, green: 170/255, blue:  96/255),  // 本周 #2EAA60
+        Color(red:  40/255, green: 104/255, blue: 208/255),  // 本月 #2868D0
+        Color(red: 240/255, green: 192/255, blue:   0/255),  // 全部 #F0C000
+    ]
 }

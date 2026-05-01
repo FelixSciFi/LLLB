@@ -12,9 +12,10 @@ final class AppModel: ObservableObject {
 
     // MARK: - Owned objects
 
-    let candyStore:        CandyStore
-    let sessions:          [LessonSessionModel]   // all learning languages, fixed order
-    let usageTimeTracker = UsageTimeTracker()
+    let candyStore:           CandyStore
+    let sessions:             [LessonSessionModel]   // all learning languages, fixed order
+    let usageTimeTracker    = UsageTimeTracker()
+    let achievementManager  = AchievementManager()
 
     // MARK: - Published state
 
@@ -113,6 +114,39 @@ final class AppModel: ObservableObject {
         usageTimeTracker.objectWillChange
             .sink { [weak self] _ in self?.objectWillChange.send() }
             .store(in: &cancellables)
+        achievementManager.objectWillChange
+            .sink { [weak self] _ in self?.objectWillChange.send() }
+            .store(in: &cancellables)
+
+        // 5b. Check achievements whenever any time dimension updates (fg or bg)
+        Publishers.CombineLatest(
+            Publishers.CombineLatest4(
+                usageTimeTracker.$todayMinutes,
+                usageTimeTracker.$thisWeekMinutes,
+                usageTimeTracker.$thisMonthMinutes,
+                usageTimeTracker.$allTimeMinutes
+            ),
+            Publishers.CombineLatest4(
+                usageTimeTracker.$todayBgMinutes,
+                usageTimeTracker.$thisWeekBgMinutes,
+                usageTimeTracker.$thisMonthBgMinutes,
+                usageTimeTracker.$allTimeBgMinutes
+            )
+        )
+        .dropFirst()
+        .sink { [weak self] fg, bg in
+            guard let self else { return }
+            self.achievementManager.checkMilestones(
+                todayMinutes:   fg.0 + bg.0 / 3,
+                weekMinutes:    fg.1 + bg.1 / 3,
+                monthMinutes:   fg.2 + bg.2 / 3,
+                allTimeMinutes: fg.3 + bg.3 / 3,
+                dayKey:   self.usageTimeTracker.currentDayKey,
+                weekKey:  self.usageTimeTracker.currentWeekKey,
+                monthKey: self.usageTimeTracker.currentMonthKey
+            )
+        }
+        .store(in: &cancellables)
 
         // 6. When UI language changes: sync all sessions + fix selected learning language
         store.$nativeLanguage

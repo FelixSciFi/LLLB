@@ -10,10 +10,15 @@ struct RootView: View {
 
     var body: some View {
         ContentView(
-            session:      appModel.activeSession,
-            showProfile:  $showProfile,
-            streakDays:   appModel.usageTimeTracker.streakDays,
-            candyBalance: appModel.candyStore.candyBalance
+            session:             appModel.activeSession,
+            showProfile:         $showProfile,
+            streakDays:          appModel.usageTimeTracker.streakDays,
+            candyBalance:        appModel.candyStore.candyBalance,
+            usageTracker:        appModel.usageTimeTracker,
+            achievementManager:  appModel.achievementManager,
+            onCollectMilestones: {
+                appModel.achievementManager.collectPending(candyStore: appModel.candyStore)
+            }
         )
         .sheet(isPresented: $showProfile) {
             ProfileView(

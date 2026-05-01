@@ -20,6 +20,7 @@
 		A100000E /* word_table_fr.json in Resources */ = {isa = PBXBuildFile; fileRef = A200000F /* word_table_fr.json */; };
 		A1000012 /* word_table_es.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000012 /* word_table_es.json */; };
 		A1000010 /* CandyStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000010 /* CandyStore.swift */; };
+		A1000050 /* AchievementManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000050 /* AchievementManager.swift */; };
 		A1000011 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000011 /* ProfileView.swift */; };
 		A1000013 /* Localizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000013 /* Localizer.swift */; };
 		A1000014 /* DesignTokens.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000014 /* DesignTokens.swift */; };
@@ -27,6 +28,9 @@
 		A1000021 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000021 /* RootView.swift */; };
 		A1000022 /* LibraryPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000022 /* LibraryPickerView.swift */; };
 		A1000023 /* TokenFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000023 /* TokenFlowLayout.swift */; };
+		A1000051 /* ProgressRingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000051 /* ProgressRingsView.swift */; };
+		A1000052 /* LLLBLogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000052 /* LLLBLogoView.swift */; };
+		A1000053 /* Raleway-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A2000053 /* Raleway-Bold.ttf */; };
 		A1000024 /* LanguageConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000024 /* LanguageConfig.swift */; };
 		A1000025 /* AppModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000025 /* AppModel.swift */; };
 		A1000030 /* UsageTimeTracker.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000030 /* UsageTimeTracker.swift */; };
@@ -61,6 +65,7 @@
 		A2000006 /* VoiceInputController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoiceInputController.swift; sourceTree = "<group>"; };
 		A2000007 /* FrenchLemmaSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrenchLemmaSearch.swift; sourceTree = "<group>"; };
 		A2000010 /* CandyStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CandyStore.swift; sourceTree = "<group>"; };
+		A2000050 /* AchievementManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementManager.swift; sourceTree = "<group>"; };
 		A2000011 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		A2000013 /* Localizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Localizer.swift; sourceTree = "<group>"; };
 		A2000014 /* DesignTokens.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignTokens.swift; sourceTree = "<group>"; };
@@ -68,6 +73,9 @@
 		A2000021 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
 		A2000022 /* LibraryPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryPickerView.swift; sourceTree = "<group>"; };
 		A2000023 /* TokenFlowLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TokenFlowLayout.swift; sourceTree = "<group>"; };
+		A2000051 /* ProgressRingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressRingsView.swift; sourceTree = "<group>"; };
+		A2000052 /* LLLBLogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LLLBLogoView.swift; sourceTree = "<group>"; };
+		A2000053 /* Raleway-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Bold.ttf"; sourceTree = "<group>"; };
 		A2000024 /* LanguageConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguageConfig.swift; sourceTree = "<group>"; };
 		A2000025 /* AppModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppModel.swift; sourceTree = "<group>"; };
 		A2000030 /* UsageTimeTracker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsageTimeTracker.swift; sourceTree = "<group>"; };
@@ -161,6 +169,8 @@
 				A2000021 /* RootView.swift */,
 				A2000022 /* LibraryPickerView.swift */,
 				A2000023 /* TokenFlowLayout.swift */,
+				A2000051 /* ProgressRingsView.swift */,
+				A2000052 /* LLLBLogoView.swift */,
 				A2000024 /* LanguageConfig.swift */,
 				A2000025 /* AppModel.swift */,
 				A2000030 /* UsageTimeTracker.swift */,
@@ -215,6 +225,7 @@
 				A2000006 /* VoiceInputController.swift */,
 				A2000007 /* FrenchLemmaSearch.swift */,
 				A2000010 /* CandyStore.swift */,
+				A2000050 /* AchievementManager.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -238,6 +249,7 @@
 				A200002F /* word_table_ar.json */,
 				A2000040 /* sentences_zh.json */,
 				A2000041 /* word_table_zh.json */,
+				A2000053 /* Raleway-Bold.ttf */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -358,6 +370,7 @@
 				A100002F /* word_table_ar.json in Resources */,
 				A1000040 /* sentences_zh.json in Resources */,
 				A1000041 /* word_table_zh.json in Resources */,
+				A1000053 /* Raleway-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -383,6 +396,7 @@
 				A1000006 /* VoiceInputController.swift in Sources */,
 				A1000007 /* FrenchLemmaSearch.swift in Sources */,
 				A1000010 /* CandyStore.swift in Sources */,
+				A1000050 /* AchievementManager.swift in Sources */,
 				A1000011 /* ProfileView.swift in Sources */,
 				A1000013 /* Localizer.swift in Sources */,
 				A1000014 /* DesignTokens.swift in Sources */,
@@ -390,6 +404,8 @@
 				A1000021 /* RootView.swift in Sources */,
 				A1000022 /* LibraryPickerView.swift in Sources */,
 				A1000023 /* TokenFlowLayout.swift in Sources */,
+				A1000051 /* ProgressRingsView.swift in Sources */,
+				A1000052 /* LLLBLogoView.swift in Sources */,
 				A1000024 /* LanguageConfig.swift in Sources */,
 				A1000025 /* AppModel.swift in Sources */,
 				A1000030 /* UsageTimeTracker.swift in Sources */,

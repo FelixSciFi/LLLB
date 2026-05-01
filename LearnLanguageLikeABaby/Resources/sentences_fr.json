@@ -22655,38 +22655,6 @@
       "id": "e5e5e4a5-84af-4a03-82b7-e48d5a2a058f"
     },
     {
-      "text": "ça va, quoi de neuf ?",
-      "ipa": "sa va kwa də nœf",
-      "translation": {
-        "zh": "还好，有什么新鲜事吗？",
-        "en": "it's going, what's new?"
-      },
-      "cefr": "A1",
-      "tokens": [
-        {
-          "text": "ça va",
-          "lemma": "aller",
-          "ipa": "sa va",
-          "translation": {
-            "zh": "还好",
-            "en": "it's going"
-          },
-          "emoji": ""
-        },
-        {
-          "text": "quoi de neuf",
-          "lemma": "neuf",
-          "ipa": "kwa də nœf",
-          "translation": {
-            "zh": "什么新鲜事",
-            "en": "what's new"
-          },
-          "emoji": "🆕"
-        }
-      ],
-      "id": "4d1cd3b6-2378-4e1b-b936-3b1b37feffdd"
-    },
-    {
       "text": "ça roule ?",
       "ipa": "sa rul",
       "translation": {
@@ -25907,48 +25875,6 @@
         }
       ],
       "id": "d1e17d57-97d0-461c-a936-79a23cec6a62"
-    },
-    {
-      "text": "On apprend à lire et à compter.",
-      "ipa": "ɔ̃ apʁɑ̃ a liʁ e a kɔ̃te",
-      "translation": {
-        "zh": "我们学习阅读和计数。",
-        "en": "We learn to read and count."
-      },
-      "cefr": "A1",
-      "tokens": [
-        {
-          "text": "on apprend à",
-          "lemma": "apprendre",
-          "ipa": "ɔ̃ apʁɑ̃ a",
-          "translation": {
-            "zh": "我们学",
-            "en": "we learn to"
-          },
-          "emoji": "📚"
-        },
-        {
-          "text": "lire",
-          "lemma": "lire",
-          "ipa": "liʁ",
-          "translation": {
-            "zh": "阅读",
-            "en": "read"
-          },
-          "emoji": "📖"
-        },
-        {
-          "text": "et à compter",
-          "lemma": "compter",
-          "ipa": "eakɔ̃te",
-          "translation": {
-            "zh": "和计数",
-            "en": "and count"
-          },
-          "emoji": "🔢"
-        }
-      ],
-      "id": "56572a6b-c4ab-4332-a81e-a2fe29157f15"
     },
     {
       "text": "On aime dessiner et chanter.",
@@ -35957,6 +35883,2948 @@
         }
       ],
       "id": "559a1bc9-8490-4dd1-bf3e-747d47a7f9f0"
+    },
+    {
+      "text": "Le citron est très acide.",
+      "ipa": "lə sitʁɔ̃ ɛ tʁɛ asid",
+      "translation": {
+        "zh": "柠檬很酸",
+        "en": "The lemon is very sour"
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Le citron",
+          "lemma": "citron",
+          "ipa": "lə sitʁɔ̃",
+          "translation": {
+            "zh": "柠檬",
+            "en": "lemon"
+          },
+          "emoji": "🍋"
+        },
+        {
+          "text": "est très acide",
+          "lemma": "acide",
+          "ipa": "ɛ tʁɛ asid",
+          "translation": {
+            "zh": "很酸",
+            "en": "very sour"
+          },
+          "emoji": "😬"
+        }
+      ],
+      "id": "606a130a-3d5d-4e6a-9ada-e5c221fe9a29"
+    },
+    {
+      "text": "Le sucre est doux.",
+      "ipa": "lə sykʁ ɛ du",
+      "translation": {
+        "zh": "糖是甜的",
+        "en": "Sugar is sweet"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Le sucre",
+          "lemma": "sucre",
+          "ipa": "lə sykʁ",
+          "translation": {
+            "zh": "糖",
+            "en": "sugar"
+          },
+          "emoji": "🍬"
+        },
+        {
+          "text": "est doux",
+          "lemma": "doux",
+          "ipa": "ɛ du",
+          "translation": {
+            "zh": "是甜的",
+            "en": "is sweet"
+          },
+          "emoji": "😊"
+        }
+      ],
+      "id": "739bbc99-70b9-4cc3-a93f-075a35753bcd"
+    },
+    {
+      "text": "Le médicament est amer.",
+      "ipa": "lə medikamɑ̃ ɛ amɛʁ",
+      "translation": {
+        "zh": "药是苦的",
+        "en": "The medicine is bitter"
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Le médicament",
+          "lemma": "médicament",
+          "ipa": "lə medikamɑ̃",
+          "translation": {
+            "zh": "药",
+            "en": "medicine"
+          },
+          "emoji": "💊"
+        },
+        {
+          "text": "est amer",
+          "lemma": "amer",
+          "ipa": "ɛ amɛʁ",
+          "translation": {
+            "zh": "是苦的",
+            "en": "is bitter"
+          },
+          "emoji": "😣"
+        }
+      ],
+      "id": "41fe884d-5380-47d8-83fd-722599b99666"
+    },
+    {
+      "text": "Le sel est salé.",
+      "ipa": "lə sɛl ɛ sale",
+      "translation": {
+        "zh": "盐是咸的",
+        "en": "Salt is salty"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Le sel",
+          "lemma": "sel",
+          "ipa": "lə sɛl",
+          "translation": {
+            "zh": "盐",
+            "en": "salt"
+          },
+          "emoji": "🧂"
+        },
+        {
+          "text": "est salé",
+          "lemma": "salé",
+          "ipa": "ɛ sale",
+          "translation": {
+            "zh": "是咸的",
+            "en": "is salty"
+          },
+          "emoji": ""
+        }
+      ],
+      "id": "4fc9a432-cb0a-410a-ac0e-23908ae405f9"
+    },
+    {
+      "text": "Mon ancien téléphone ramait tout le temps.",
+      "ipa": "mɔ̃ ɑ̃sjɛ̃ telefɔn ʁamɛ tu lə tɑ̃",
+      "translation": {
+        "zh": "我的旧手机一直在卡",
+        "en": "My old phone was lagging all the time"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Mon ancien téléphone",
+          "lemma": "téléphone",
+          "ipa": "mɔ̃ ɑ̃sjɛ̃ telefɔn",
+          "translation": {
+            "zh": "我的旧手机",
+            "en": "my old phone"
+          },
+          "emoji": "📱"
+        },
+        {
+          "text": "ramait",
+          "lemma": "ramer",
+          "ipa": "ʁamɛ",
+          "translation": {
+            "zh": "卡顿",
+            "en": "was lagging"
+          },
+          "emoji": "🐌"
+        },
+        {
+          "text": "tout le temps",
+          "lemma": "temps",
+          "ipa": "tu lə tɑ̃",
+          "translation": {
+            "zh": "一直",
+            "en": "all the time"
+          },
+          "emoji": "⏳"
+        }
+      ],
+      "id": "5554eca7-3170-489e-9757-d1c395f0eda4"
+    },
+    {
+      "text": "Avec mon nouveau téléphone, ça ne rame plus.",
+      "ipa": "avɛk mɔ̃ nuvo telefɔn sa nə ʁam ply",
+      "translation": {
+        "zh": "换了新手机，不卡了",
+        "en": "With my new phone, it doesn't lag anymore"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Avec mon nouveau téléphone",
+          "lemma": "téléphone",
+          "ipa": "avɛk mɔ̃ nuvo telefɔn",
+          "translation": {
+            "zh": "换了新手机",
+            "en": "with my new phone"
+          },
+          "emoji": "📱"
+        },
+        {
+          "text": "ça ne rame plus",
+          "lemma": "ramer",
+          "ipa": "sa nə ʁam ply",
+          "translation": {
+            "zh": "不卡了",
+            "en": "doesn't lag anymore"
+          },
+          "emoji": "✅"
+        }
+      ],
+      "id": "8f178555-bd82-4d62-b40f-39d8c559da25"
+    },
+    {
+      "text": "Moi, Thomas, je te prends comme épouse,",
+      "ipa": "mwa tɔma ʒə tə pʁɑ̃ kɔm epuz",
+      "translation": {
+        "zh": "我，托马，娶你为妻，",
+        "en": "I, Thomas, take you as my wife,"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Moi, Thomas,",
+          "lemma": "Thomas",
+          "ipa": "mwa tɔma",
+          "translation": {
+            "zh": "我，托马，",
+            "en": "I, Thomas,"
+          },
+          "emoji": "🧑"
+        },
+        {
+          "text": "je te prends",
+          "lemma": "prendre",
+          "ipa": "ʒə tə pʁɑ̃",
+          "translation": {
+            "zh": "我娶你",
+            "en": "I take you"
+          },
+          "emoji": "🤝"
+        },
+        {
+          "text": "comme épouse",
+          "lemma": "épouse",
+          "ipa": "kɔm epuz",
+          "translation": {
+            "zh": "为妻",
+            "en": "as my wife"
+          },
+          "emoji": "👰"
+        }
+      ],
+      "tags": [
+        {
+          "name": "le mariage",
+          "index": 1
+        }
+      ],
+      "id": "2fb330dc-8014-492b-8bac-5d5251feea54"
+    },
+    {
+      "text": "pour t'aimer et te respecter,",
+      "ipa": "puʁ tɛme e tə ʁɛspɛkte",
+      "translation": {
+        "zh": "爱你、尊重你，",
+        "en": "to love and to respect you,"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "pour t'aimer",
+          "lemma": "aimer",
+          "ipa": "puʁ tɛme",
+          "translation": {
+            "zh": "爱你",
+            "en": "to love you"
+          },
+          "emoji": "❤️"
+        },
+        {
+          "text": "et te respecter",
+          "lemma": "respecter",
+          "ipa": "e tə ʁɛspɛkte",
+          "translation": {
+            "zh": "尊重你",
+            "en": "to respect you"
+          },
+          "emoji": "🙏"
+        }
+      ],
+      "tags": [
+        {
+          "name": "le mariage",
+          "index": 2
+        }
+      ],
+      "id": "8c87529c-1711-4678-9a08-106c415ce71e"
+    },
+    {
+      "text": "dans la joie et dans la peine,",
+      "ipa": "dɑ̃ la ʒwa e dɑ̃ la pɛn",
+      "translation": {
+        "zh": "无论喜悦还是悲伤，",
+        "en": "in joy and in sorrow,"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "dans la joie",
+          "lemma": "joie",
+          "ipa": "dɑ̃ la ʒwa",
+          "translation": {
+            "zh": "在喜悦中",
+            "en": "in joy"
+          },
+          "emoji": "😊"
+        },
+        {
+          "text": "et dans la peine",
+          "lemma": "peine",
+          "ipa": "e dɑ̃ la pɛn",
+          "translation": {
+            "zh": "在悲伤中",
+            "en": "in sorrow"
+          },
+          "emoji": "😢"
+        }
+      ],
+      "tags": [
+        {
+          "name": "le mariage",
+          "index": 3
+        }
+      ],
+      "id": "6ef59cd4-21a3-495c-925b-00d055952e00"
+    },
+    {
+      "text": "dans la santé et dans la maladie,",
+      "ipa": "dɑ̃ la sɑ̃te e dɑ̃ la maladi",
+      "translation": {
+        "zh": "无论健康还是病痛，",
+        "en": "in sickness and in health,"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "dans la santé",
+          "lemma": "santé",
+          "ipa": "dɑ̃ la sɑ̃te",
+          "translation": {
+            "zh": "在健康中",
+            "en": "in health"
+          },
+          "emoji": "💪"
+        },
+        {
+          "text": "et dans la maladie",
+          "lemma": "maladie",
+          "ipa": "e dɑ̃ la maladi",
+          "translation": {
+            "zh": "在病痛中",
+            "en": "in sickness"
+          },
+          "emoji": "🤒"
+        }
+      ],
+      "tags": [
+        {
+          "name": "le mariage",
+          "index": 4
+        }
+      ],
+      "id": "20ae83bd-3104-40cd-8930-819ede4522f8"
+    },
+    {
+      "text": "tous les jours de ma vie.",
+      "ipa": "tu le ʒuʁ də ma vi",
+      "translation": {
+        "zh": "直到我生命的最后一天。",
+        "en": "all the days of my life."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "tous les jours",
+          "lemma": "jour",
+          "ipa": "tu le ʒuʁ",
+          "translation": {
+            "zh": "每一天",
+            "en": "all the days"
+          },
+          "emoji": "📅"
+        },
+        {
+          "text": "de ma vie",
+          "lemma": "vie",
+          "ipa": "də ma vi",
+          "translation": {
+            "zh": "我的一生",
+            "en": "of my life"
+          },
+          "emoji": "🌱"
+        }
+      ],
+      "tags": [
+        {
+          "name": "le mariage",
+          "index": 5
+        }
+      ],
+      "id": "6990b47c-11a5-46f4-83df-c48c4fc9e549"
+    },
+    {
+      "text": "Je suis en avance.",
+      "ipa": "ʒə sɥi ɑ̃ avɑ̃s",
+      "translation": {
+        "zh": "我来早了",
+        "en": "I am early"
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Je suis en avance",
+          "lemma": "avance",
+          "ipa": "ʒə sɥi ɑ̃ avɑ̃s",
+          "translation": {
+            "zh": "我来早了",
+            "en": "I am early"
+          },
+          "emoji": "⏰"
+        }
+      ],
+      "id": "6f1e46f9-a94b-4cf5-8439-e95fc621adf2"
+    },
+    {
+      "text": "Je suis à l'heure.",
+      "ipa": "ʒə sɥi a lœʁ",
+      "translation": {
+        "zh": "我准时到了",
+        "en": "I am on time"
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Je suis à l'heure",
+          "lemma": "heure",
+          "ipa": "ʒə sɥi a lœʁ",
+          "translation": {
+            "zh": "我准时",
+            "en": "I am on time"
+          },
+          "emoji": "🕐"
+        }
+      ],
+      "id": "f47bf966-7256-4bca-a316-d0e86f166137"
+    },
+    {
+      "text": "Il y a huit planètes dans le système solaire.",
+      "ipa": "il i a ɥit planɛt dɑ̃ lə sistɛm sɔlɛʁ",
+      "translation": {
+        "zh": "太阳系中有八大行星",
+        "en": "There are eight planets in the solar system"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Il y a",
+          "lemma": "avoir",
+          "ipa": "il i a",
+          "translation": {
+            "zh": "有",
+            "en": "there are"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "huit planètes",
+          "lemma": "planète",
+          "ipa": "ɥit planɛt",
+          "translation": {
+            "zh": "八颗行星",
+            "en": "eight planets"
+          },
+          "emoji": "🪐"
+        },
+        {
+          "text": "dans le système solaire",
+          "lemma": "système solaire",
+          "ipa": "dɑ̃ lə sistɛm sɔlɛʁ",
+          "translation": {
+            "zh": "在太阳系中",
+            "en": "in the solar system"
+          },
+          "emoji": "☀️"
+        }
+      ],
+      "id": "3162c0a0-a1f4-44c7-a46a-00fe65d4bb7d"
+    },
+    {
+      "text": "La semaine compte sept jours.",
+      "ipa": "la səmɛn kɔ̃t sɛt ʒuʁ",
+      "translation": {
+        "zh": "一周有七天",
+        "en": "The week has seven days"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "La semaine",
+          "lemma": "semaine",
+          "ipa": "la səmɛn",
+          "translation": {
+            "zh": "一周",
+            "en": "the week"
+          },
+          "emoji": "📅"
+        },
+        {
+          "text": "compte",
+          "lemma": "compter",
+          "ipa": "kɔ̃t",
+          "translation": {
+            "zh": "有",
+            "en": "has"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "sept jours",
+          "lemma": "jour",
+          "ipa": "sɛt ʒuʁ",
+          "translation": {
+            "zh": "七天",
+            "en": "seven days"
+          },
+          "emoji": "7️⃣"
+        }
+      ],
+      "id": "6e0d92ac-c817-49d3-a960-21bb90d2bf1e"
+    },
+    {
+      "text": "Il y a onze joueurs dans une équipe de football.",
+      "ipa": "il i a ɔ̃z ʒwœʁ dɑ̃ yn ekip də futbol",
+      "translation": {
+        "zh": "一支足球队有十一名球员",
+        "en": "There are eleven players in a football team"
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Il y a",
+          "lemma": "avoir",
+          "ipa": "il i a",
+          "translation": {
+            "zh": "有",
+            "en": "there are"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "onze joueurs",
+          "lemma": "joueur",
+          "ipa": "ɔ̃z ʒwœʁ",
+          "translation": {
+            "zh": "十一名球员",
+            "en": "eleven players"
+          },
+          "emoji": "⚽"
+        },
+        {
+          "text": "dans une équipe de football",
+          "lemma": "équipe",
+          "ipa": "dɑ̃ yn ekip də futbol",
+          "translation": {
+            "zh": "在足球队中",
+            "en": "in a football team"
+          },
+          "emoji": "🏟️"
+        }
+      ],
+      "id": "a8850d16-6c8e-4639-b525-0d1e6a415089"
+    },
+    {
+      "text": "Il y a soixante minutes dans une heure.",
+      "ipa": "il i a swasɑ̃t minyt dɑ̃ yn œʁ",
+      "translation": {
+        "zh": "一小时有六十分钟",
+        "en": "There are sixty minutes in an hour"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Il y a",
+          "lemma": "avoir",
+          "ipa": "il i a",
+          "translation": {
+            "zh": "有",
+            "en": "there are"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "soixante minutes",
+          "lemma": "minute",
+          "ipa": "swasɑ̃t minyt",
+          "translation": {
+            "zh": "六十分钟",
+            "en": "sixty minutes"
+          },
+          "emoji": "⏱️"
+        },
+        {
+          "text": "dans une heure",
+          "lemma": "heure",
+          "ipa": "dɑ̃ yn œʁ",
+          "translation": {
+            "zh": "在一小时里",
+            "en": "in an hour"
+          },
+          "emoji": "🕐"
+        }
+      ],
+      "id": "e72c0317-78d5-4d2e-8e72-e4629f4e1a77"
+    },
+    {
+      "text": "L'année compte quatre saisons.",
+      "ipa": "lane kɔ̃t katʁ sɛzɔ̃",
+      "translation": {
+        "zh": "一年有四个季节",
+        "en": "The year has four seasons"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "L'année",
+          "lemma": "année",
+          "ipa": "lane",
+          "translation": {
+            "zh": "一年",
+            "en": "the year"
+          },
+          "emoji": "🗓️"
+        },
+        {
+          "text": "compte",
+          "lemma": "compter",
+          "ipa": "kɔ̃t",
+          "translation": {
+            "zh": "有",
+            "en": "has"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "quatre saisons",
+          "lemma": "saison",
+          "ipa": "katʁ sɛzɔ̃",
+          "translation": {
+            "zh": "四个季节",
+            "en": "four seasons"
+          },
+          "emoji": "🍂"
+        }
+      ],
+      "id": "3138572d-f2b2-496e-b737-98a659413003"
+    },
+    {
+      "text": "Un siècle dure cent ans.",
+      "ipa": "ɛ̃ sjɛklə dyʁ sɑ̃ ɑ̃",
+      "translation": {
+        "zh": "一个世纪有一百年",
+        "en": "A century lasts one hundred years"
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Un siècle",
+          "lemma": "siècle",
+          "ipa": "ɛ̃ sjɛklə",
+          "translation": {
+            "zh": "一个世纪",
+            "en": "a century"
+          },
+          "emoji": "🏛️"
+        },
+        {
+          "text": "dure",
+          "lemma": "durer",
+          "ipa": "dyʁ",
+          "translation": {
+            "zh": "持续",
+            "en": "lasts"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "cent ans",
+          "lemma": "an",
+          "ipa": "sɑ̃ ɑ̃",
+          "translation": {
+            "zh": "一百年",
+            "en": "one hundred years"
+          },
+          "emoji": "💯"
+        }
+      ],
+      "id": "1310ea14-d900-471b-90ae-dac8fc6017cf"
+    },
+    {
+      "text": "La journée compte vingt-quatre heures.",
+      "ipa": "la ʒuʁne kɔ̃t vɛ̃t katʁ œʁ",
+      "translation": {
+        "zh": "一天有二十四小时",
+        "en": "The day has twenty-four hours"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "La journée",
+          "lemma": "journée",
+          "ipa": "la ʒuʁne",
+          "translation": {
+            "zh": "一天",
+            "en": "the day"
+          },
+          "emoji": "🌅"
+        },
+        {
+          "text": "compte",
+          "lemma": "compter",
+          "ipa": "kɔ̃t",
+          "translation": {
+            "zh": "有",
+            "en": "has"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "vingt-quatre heures",
+          "lemma": "heure",
+          "ipa": "vɛ̃t katʁ œʁ",
+          "translation": {
+            "zh": "二十四小时",
+            "en": "twenty-four hours"
+          },
+          "emoji": "🕛"
+        }
+      ],
+      "id": "b8ab505d-81a4-4489-9dab-e7bb07a5c591"
+    },
+    {
+      "text": "Les cinq anneaux du drapeau olympique représentent les cinq continents.",
+      "ipa": "le sɛ̃k ano dy dʁapo ɔlɛ̃pik ʁəpʁezɑ̃t le sɛ̃k kɔ̃tinɑ̃",
+      "translation": {
+        "zh": "奥林匹克旗帜上的五个圆环代表五大洲",
+        "en": "The five rings of the Olympic flag represent the five continents"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Les cinq anneaux",
+          "lemma": "anneau",
+          "ipa": "le sɛ̃k ano",
+          "translation": {
+            "zh": "五个圆环",
+            "en": "the five rings"
+          },
+          "emoji": "🔵"
+        },
+        {
+          "text": "du drapeau olympique",
+          "lemma": "drapeau",
+          "ipa": "dy dʁapo ɔlɛ̃pik",
+          "translation": {
+            "zh": "奥运旗帜的",
+            "en": "of the Olympic flag"
+          },
+          "emoji": "🏳️"
+        },
+        {
+          "text": "représentent",
+          "lemma": "représenter",
+          "ipa": "ʁəpʁezɑ̃t",
+          "translation": {
+            "zh": "代表",
+            "en": "represent"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "les cinq continents",
+          "lemma": "continent",
+          "ipa": "le sɛ̃k kɔ̃tinɑ̃",
+          "translation": {
+            "zh": "五大洲",
+            "en": "the five continents"
+          },
+          "emoji": "🌍"
+        }
+      ],
+      "id": "e987a2c9-4597-4301-9ff3-33699e7b7703"
+    },
+    {
+      "text": "Les humains ont vingt-trois paires de chromosomes.",
+      "ipa": "le ymɛ̃ ɔ̃ vɛ̃t tʁwa pɛʁ də kʁomozom",
+      "translation": {
+        "zh": "人类有二十三对染色体",
+        "en": "Humans have twenty-three pairs of chromosomes"
+      },
+      "cefr": "C1",
+      "tokens": [
+        {
+          "text": "Les humains",
+          "lemma": "humain",
+          "ipa": "le ymɛ̃",
+          "translation": {
+            "zh": "人类",
+            "en": "humans"
+          },
+          "emoji": "🧬"
+        },
+        {
+          "text": "ont",
+          "lemma": "avoir",
+          "ipa": "ɔ̃",
+          "translation": {
+            "zh": "有",
+            "en": "have"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "vingt-trois paires",
+          "lemma": "paire",
+          "ipa": "vɛ̃t tʁwa pɛʁ",
+          "translation": {
+            "zh": "二十三对",
+            "en": "twenty-three pairs"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "de chromosomes",
+          "lemma": "chromosome",
+          "ipa": "də kʁomozom",
+          "translation": {
+            "zh": "染色体",
+            "en": "of chromosomes"
+          },
+          "emoji": "🧬"
+        }
+      ],
+      "id": "919b9e41-86ca-4b53-834b-b66e86efc5d2"
+    },
+    {
+      "text": "Cette ville a deux mille habitants.",
+      "ipa": "sɛt vil a dø mil abitɑ̃",
+      "translation": {
+        "zh": "这个小镇有两千居民",
+        "en": "This town has two thousand inhabitants"
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Cette ville",
+          "lemma": "ville",
+          "ipa": "sɛt vil",
+          "translation": {
+            "zh": "这个小镇",
+            "en": "this town"
+          },
+          "emoji": "🏘️"
+        },
+        {
+          "text": "a",
+          "lemma": "avoir",
+          "ipa": "a",
+          "translation": {
+            "zh": "有",
+            "en": "has"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "deux mille habitants",
+          "lemma": "habitant",
+          "ipa": "dø mil abitɑ̃",
+          "translation": {
+            "zh": "两千居民",
+            "en": "two thousand inhabitants"
+          },
+          "emoji": "👥"
+        }
+      ],
+      "id": "287ce02c-cec0-48b1-873f-2382271cc851"
+    },
+    {
+      "text": "Le billet coûte cinq cents euros.",
+      "ipa": "lə bijɛ kut sɛ̃ sɑ̃z øʁo",
+      "translation": {
+        "zh": "这张票要五百欧元",
+        "en": "The ticket costs five hundred euros"
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Le billet",
+          "lemma": "billet",
+          "ipa": "lə bijɛ",
+          "translation": {
+            "zh": "这张票",
+            "en": "the ticket"
+          },
+          "emoji": "🎟️"
+        },
+        {
+          "text": "coûte",
+          "lemma": "coûter",
+          "ipa": "kut",
+          "translation": {
+            "zh": "花费",
+            "en": "costs"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "cinq cents euros",
+          "lemma": "euro",
+          "ipa": "sɛ̃ sɑ̃z øʁo",
+          "translation": {
+            "zh": "五百欧元",
+            "en": "five hundred euros"
+          },
+          "emoji": "💶"
+        }
+      ],
+      "id": "0e800798-7600-402c-b378-0a068b22b95e"
+    },
+    {
+      "text": "Il y a trois cent soixante-cinq jours dans une année.",
+      "ipa": "il i a tʁwa sɑ̃ swasɑ̃t sɛ̃k ʒuʁ dɑ̃ yn ane",
+      "translation": {
+        "zh": "一年有三百六十五天",
+        "en": "There are three hundred and sixty-five days in a year"
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Il y a",
+          "lemma": "avoir",
+          "ipa": "il i a",
+          "translation": {
+            "zh": "有",
+            "en": "there are"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "trois cent soixante-cinq jours",
+          "lemma": "jour",
+          "ipa": "tʁwa sɑ̃ swasɑ̃t sɛ̃k ʒuʁ",
+          "translation": {
+            "zh": "三百六十五天",
+            "en": "three hundred sixty-five days"
+          },
+          "emoji": "📅"
+        },
+        {
+          "text": "dans une année",
+          "lemma": "année",
+          "ipa": "dɑ̃ yn ane",
+          "translation": {
+            "zh": "在一年里",
+            "en": "in a year"
+          },
+          "emoji": "🗓️"
+        }
+      ],
+      "id": "5a1846f7-ae36-4519-b0e6-e074a87b3a69"
+    },
+    {
+      "text": "Cette entreprise emploie vingt mille personnes.",
+      "ipa": "sɛt ɑ̃tʁəpʁiz ɑ̃plwa vɛ̃ mil pɛʁsɔn",
+      "translation": {
+        "zh": "这家公司雇用两万人",
+        "en": "This company employs twenty thousand people"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Cette entreprise",
+          "lemma": "entreprise",
+          "ipa": "sɛt ɑ̃tʁəpʁiz",
+          "translation": {
+            "zh": "这家公司",
+            "en": "this company"
+          },
+          "emoji": "🏢"
+        },
+        {
+          "text": "emploie",
+          "lemma": "employer",
+          "ipa": "ɑ̃plwa",
+          "translation": {
+            "zh": "雇用",
+            "en": "employs"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "vingt mille personnes",
+          "lemma": "personne",
+          "ipa": "vɛ̃ mil pɛʁsɔn",
+          "translation": {
+            "zh": "两万人",
+            "en": "twenty thousand people"
+          },
+          "emoji": "👥"
+        }
+      ],
+      "id": "ba6f6abb-8636-42a0-bca6-718f99dcef16"
+    },
+    {
+      "text": "Paris compte plus de deux millions d'habitants.",
+      "ipa": "paʁi kɔ̃t ply də dø miljɔ̃ dabitɑ̃",
+      "translation": {
+        "zh": "巴黎有超过两百万居民",
+        "en": "Paris has more than two million inhabitants"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Paris",
+          "lemma": "Paris",
+          "ipa": "paʁi",
+          "translation": {
+            "zh": "巴黎",
+            "en": "Paris"
+          },
+          "emoji": "🗼"
+        },
+        {
+          "text": "compte plus de",
+          "lemma": "compter",
+          "ipa": "kɔ̃t ply də",
+          "translation": {
+            "zh": "超过",
+            "en": "has more than"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "deux millions d'habitants",
+          "lemma": "habitant",
+          "ipa": "dø miljɔ̃ dabitɑ̃",
+          "translation": {
+            "zh": "两百万居民",
+            "en": "two million inhabitants"
+          },
+          "emoji": "👥"
+        }
+      ],
+      "id": "3d0bcffd-27b4-497e-b264-dec3a2db0aa3"
+    },
+    {
+      "text": "Ce film a rapporté cent millions d'euros.",
+      "ipa": "sə film a ʁapɔʁte sɑ̃ miljɔ̃ døʁo",
+      "translation": {
+        "zh": "这部电影票房达一亿欧元",
+        "en": "This film grossed one hundred million euros"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Ce film",
+          "lemma": "film",
+          "ipa": "sə film",
+          "translation": {
+            "zh": "这部电影",
+            "en": "this film"
+          },
+          "emoji": "🎬"
+        },
+        {
+          "text": "a rapporté",
+          "lemma": "rapporter",
+          "ipa": "a ʁapɔʁte",
+          "translation": {
+            "zh": "票房达",
+            "en": "grossed"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "cent millions d'euros",
+          "lemma": "euro",
+          "ipa": "sɑ̃ miljɔ̃ døʁo",
+          "translation": {
+            "zh": "一亿欧元",
+            "en": "one hundred million euros"
+          },
+          "emoji": "💶"
+        }
+      ],
+      "id": "f3e3b1f8-1bc6-4b05-8ba4-469993f9d18c"
+    },
+    {
+      "text": "La Terre est à cent cinquante millions de kilomètres du Soleil.",
+      "ipa": "la tɛʁ ɛ a sɑ̃ sɛ̃kɑ̃t miljɔ̃ də kilɔmɛtʁ dy sɔlɛj",
+      "translation": {
+        "zh": "地球距太阳一亿五千万公里",
+        "en": "The Earth is one hundred and fifty million kilometres from the Sun"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "La Terre",
+          "lemma": "terre",
+          "ipa": "la tɛʁ",
+          "translation": {
+            "zh": "地球",
+            "en": "the Earth"
+          },
+          "emoji": "🌍"
+        },
+        {
+          "text": "est à",
+          "lemma": "être",
+          "ipa": "ɛ a",
+          "translation": {
+            "zh": "距离",
+            "en": "is at"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "cent cinquante millions de kilomètres",
+          "lemma": "kilomètre",
+          "ipa": "sɑ̃ sɛ̃kɑ̃t miljɔ̃ də kilɔmɛtʁ",
+          "translation": {
+            "zh": "一亿五千万公里",
+            "en": "one hundred fifty million kilometres"
+          },
+          "emoji": "📏"
+        },
+        {
+          "text": "du Soleil",
+          "lemma": "soleil",
+          "ipa": "dy sɔlɛj",
+          "translation": {
+            "zh": "距太阳",
+            "en": "from the Sun"
+          },
+          "emoji": "☀️"
+        }
+      ],
+      "id": "cde13335-09a0-45c4-9af6-0c1a70ae169e"
+    },
+    {
+      "text": "La Chine compte plus d'un milliard quatre cents millions d'habitants.",
+      "ipa": "la ʃin kɔ̃t ply dɛ̃ miljaʁ katʁ sɑ̃ miljɔ̃ dabitɑ̃",
+      "translation": {
+        "zh": "中国有超过十四亿居民",
+        "en": "China has more than one billion four hundred million inhabitants"
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "La Chine",
+          "lemma": "Chine",
+          "ipa": "la ʃin",
+          "translation": {
+            "zh": "中国",
+            "en": "China"
+          },
+          "emoji": "🇨🇳"
+        },
+        {
+          "text": "compte plus de",
+          "lemma": "compter",
+          "ipa": "kɔ̃t ply də",
+          "translation": {
+            "zh": "超过",
+            "en": "has more than"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "un milliard quatre cents millions d'habitants",
+          "lemma": "habitant",
+          "ipa": "ɛ̃ miljaʁ katʁ sɑ̃ miljɔ̃ dabitɑ̃",
+          "translation": {
+            "zh": "十四亿居民",
+            "en": "one point four billion inhabitants"
+          },
+          "emoji": "👥"
+        }
+      ],
+      "id": "9c538b86-c67e-41aa-a580-4505e288bafc"
+    },
+    {
+      "text": "Le budget de l'État dépasse mille milliards d'euros.",
+      "ipa": "lə bydʒɛ də leta depas mil miljaʁ døʁo",
+      "translation": {
+        "zh": "国家预算超过一万亿欧元",
+        "en": "The state budget exceeds one thousand billion euros"
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "Le budget de l'État",
+          "lemma": "budget",
+          "ipa": "lə bydʒɛ də leta",
+          "translation": {
+            "zh": "国家预算",
+            "en": "the state budget"
+          },
+          "emoji": "🏛️"
+        },
+        {
+          "text": "dépasse",
+          "lemma": "dépasser",
+          "ipa": "depas",
+          "translation": {
+            "zh": "超过",
+            "en": "exceeds"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "mille milliards d'euros",
+          "lemma": "euro",
+          "ipa": "mil miljaʁ døʁo",
+          "translation": {
+            "zh": "一万亿欧元",
+            "en": "one thousand billion euros"
+          },
+          "emoji": "💶"
+        }
+      ],
+      "id": "ec3d9f90-6937-46f5-ae2d-3b712407fb9a"
+    },
+    {
+      "text": "Un appartement à Paris coûte en moyenne cinq cent mille euros.",
+      "ipa": "ɛ̃ apaʁtəmɑ̃ a paʁi kut ɑ̃ mwajɛn sɛ̃ sɑ̃ mil øʁo",
+      "translation": {
+        "zh": "巴黎一套公寓平均要五十万欧元",
+        "en": "An apartment in Paris costs five hundred thousand euros on average"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Un appartement à Paris",
+          "lemma": "appartement",
+          "ipa": "ɛ̃ apaʁtəmɑ̃ a paʁi",
+          "translation": {
+            "zh": "巴黎一套公寓",
+            "en": "an apartment in Paris"
+          },
+          "emoji": "🏠"
+        },
+        {
+          "text": "coûte",
+          "lemma": "coûter",
+          "ipa": "kut",
+          "translation": {
+            "zh": "花费",
+            "en": "costs"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "en moyenne",
+          "lemma": "moyenne",
+          "ipa": "ɑ̃ mwajɛn",
+          "translation": {
+            "zh": "平均",
+            "en": "on average"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "cinq cent mille euros",
+          "lemma": "euro",
+          "ipa": "sɛ̃ sɑ̃ mil øʁo",
+          "translation": {
+            "zh": "五十万欧元",
+            "en": "five hundred thousand euros"
+          },
+          "emoji": "💶"
+        }
+      ],
+      "id": "9a972cc1-2ce6-42f0-a09d-b389378f72db"
+    },
+    {
+      "text": "Cette chanson a été écoutée cinq cents millions de fois.",
+      "ipa": "sɛt ʃɑ̃sɔ̃ a ete ekute sɛ̃ sɑ̃ miljɔ̃ də fwa",
+      "translation": {
+        "zh": "这首歌被听了五亿次",
+        "en": "This song has been listened to five hundred million times"
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "Cette chanson",
+          "lemma": "chanson",
+          "ipa": "sɛt ʃɑ̃sɔ̃",
+          "translation": {
+            "zh": "这首歌",
+            "en": "this song"
+          },
+          "emoji": "🎵"
+        },
+        {
+          "text": "a été écoutée",
+          "lemma": "écouter",
+          "ipa": "a ete ekute",
+          "translation": {
+            "zh": "被听了",
+            "en": "has been listened to"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "cinq cents millions de fois",
+          "lemma": "fois",
+          "ipa": "sɛ̃ sɑ̃ miljɔ̃ də fwa",
+          "translation": {
+            "zh": "五亿次",
+            "en": "five hundred million times"
+          },
+          "emoji": "🔁"
+        }
+      ],
+      "id": "5ee2e22b-58ff-4172-9c11-4c6cf15ec7bc"
+    },
+    {
+      "text": "Il y a environ huit milliards de personnes sur Terre.",
+      "ipa": "il i a ɑ̃viʁɔ̃ ɥit miljaʁ də pɛʁsɔn syʁ tɛʁ",
+      "translation": {
+        "zh": "地球上大约有八十亿人",
+        "en": "There are approximately eight billion people on Earth"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Il y a environ",
+          "lemma": "avoir",
+          "ipa": "il i a ɑ̃viʁɔ̃",
+          "translation": {
+            "zh": "大约有",
+            "en": "there are approximately"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "huit milliards de personnes",
+          "lemma": "personne",
+          "ipa": "ɥit miljaʁ də pɛʁsɔn",
+          "translation": {
+            "zh": "八十亿人",
+            "en": "eight billion people"
+          },
+          "emoji": "🌏"
+        },
+        {
+          "text": "sur Terre",
+          "lemma": "terre",
+          "ipa": "syʁ tɛʁ",
+          "translation": {
+            "zh": "在地球上",
+            "en": "on Earth"
+          },
+          "emoji": "🌍"
+        }
+      ],
+      "id": "69750e88-9efc-4a6e-86ec-b16c8d1b85ec"
+    },
+    {
+      "text": "Bonjour, qu'est-ce qu'il vous faut aujourd'hui ?",
+      "ipa": "bɔ̃ʒuʁ kɛs kil vu fo oʒuʁdɥi",
+      "translation": {
+        "zh": "您好，今天需要什么？",
+        "en": "Hello, what do you need today?"
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Bonjour",
+          "lemma": "bonjour",
+          "ipa": "bɔ̃ʒuʁ",
+          "translation": {
+            "zh": "你好",
+            "en": "hello"
+          },
+          "emoji": "👋"
+        },
+        {
+          "text": "qu'est-ce qu'il vous faut",
+          "lemma": "falloir",
+          "ipa": "kɛs kil vu fo",
+          "translation": {
+            "zh": "您需要什么",
+            "en": "what do you need"
+          },
+          "emoji": "🛒"
+        },
+        {
+          "text": "aujourd'hui",
+          "lemma": "aujourd'hui",
+          "ipa": "oʒuʁdɥi",
+          "translation": {
+            "zh": "今天",
+            "en": "today"
+          },
+          "emoji": "📅"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Acheter des fruits",
+          "index": 1
+        }
+      ],
+      "id": "17200ce1-92aa-49de-8b88-09bfef457e4c"
+    },
+    {
+      "text": "Je voudrais des bananes et des oranges, s'il vous plaît.",
+      "ipa": "ʒə vudʁɛ de banan e de zɔʁɑ̃ʒ sil vu plɛ",
+      "translation": {
+        "zh": "我想要一些香蕉和橙子，麻烦了。",
+        "en": "I'd like some bananas and oranges, please."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Je voudrais",
+          "lemma": "vouloir",
+          "ipa": "ʒə vudʁɛ",
+          "translation": {
+            "zh": "我想要",
+            "en": "I would like"
+          },
+          "emoji": "🙋"
+        },
+        {
+          "text": "des bananes",
+          "lemma": "banane",
+          "ipa": "de banan",
+          "translation": {
+            "zh": "香蕉",
+            "en": "bananas"
+          },
+          "emoji": "🍌"
+        },
+        {
+          "text": "et des oranges",
+          "lemma": "orange",
+          "ipa": "e de zɔʁɑ̃ʒ",
+          "translation": {
+            "zh": "橙子",
+            "en": "oranges"
+          },
+          "emoji": "🍊"
+        },
+        {
+          "text": "s'il vous plaît",
+          "lemma": "s'il vous plaît",
+          "ipa": "sil vu plɛ",
+          "translation": {
+            "zh": "请",
+            "en": "please"
+          },
+          "emoji": "🙏"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Acheter des fruits",
+          "index": 2
+        }
+      ],
+      "id": "11e099b6-20e7-4c44-9094-a10cd673e80c"
+    },
+    {
+      "text": "Ça fait neuf cent quatre-vingts grammes.",
+      "ipa": "sa fɛ nœf sɑ̃ katʁə vɛ̃ ɡʁam",
+      "translation": {
+        "zh": "这是九百八十克。",
+        "en": "That's nine hundred and eighty grams."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Ça fait",
+          "lemma": "faire",
+          "ipa": "sa fɛ",
+          "translation": {
+            "zh": "这是",
+            "en": "that's"
+          },
+          "emoji": "⚖️"
+        },
+        {
+          "text": "neuf cent quatre-vingts",
+          "lemma": "neuf cent quatre-vingts",
+          "ipa": "nœf sɑ̃ katʁə vɛ̃",
+          "translation": {
+            "zh": "九百八十",
+            "en": "nine hundred eighty"
+          },
+          "emoji": "🔢"
+        },
+        {
+          "text": "grammes",
+          "lemma": "gramme",
+          "ipa": "ɡʁam",
+          "translation": {
+            "zh": "克",
+            "en": "grams"
+          },
+          "emoji": "⚖️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Acheter des fruits",
+          "index": 3
+        }
+      ],
+      "id": "fa007406-3762-4e8c-bcb8-023e94ff33c6"
+    },
+    {
+      "text": "Vous voulez que j'en rajoute une petite ?",
+      "ipa": "vu vule kə ʒɑ̃ ʁaʒut yn pətit",
+      "translation": {
+        "zh": "您要我再加一点吗？",
+        "en": "Would you like me to add a little more?"
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Vous voulez",
+          "lemma": "vouloir",
+          "ipa": "vu vule",
+          "translation": {
+            "zh": "您想要",
+            "en": "do you want"
+          },
+          "emoji": "🙋"
+        },
+        {
+          "text": "que j'en rajoute",
+          "lemma": "rajouter",
+          "ipa": "kə ʒɑ̃ ʁaʒut",
+          "translation": {
+            "zh": "我再加",
+            "en": "that I add more"
+          },
+          "emoji": "➕"
+        },
+        {
+          "text": "une petite",
+          "lemma": "petit",
+          "ipa": "yn pətit",
+          "translation": {
+            "zh": "一小个",
+            "en": "a small one"
+          },
+          "emoji": "🤏"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Acheter des fruits",
+          "index": 4
+        }
+      ],
+      "id": "82a49399-c3c3-495e-80af-07c5702bfa58"
+    },
+    {
+      "text": "Complétez jusqu'à un kilo.",
+      "ipa": "kɔ̃plete ʒyska œ̃ kilo",
+      "translation": {
+        "zh": "凑够一公斤吧。",
+        "en": "Make it up to one kilo."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Complétez",
+          "lemma": "compléter",
+          "ipa": "kɔ̃plete",
+          "translation": {
+            "zh": "凑齐",
+            "en": "complete"
+          },
+          "emoji": "✅"
+        },
+        {
+          "text": "jusqu'à un kilo",
+          "lemma": "kilo",
+          "ipa": "ʒyska œ̃ kilo",
+          "translation": {
+            "zh": "到一公斤",
+            "en": "up to one kilo"
+          },
+          "emoji": "⚖️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Acheter des fruits",
+          "index": 5
+        }
+      ],
+      "id": "5d769f23-b20c-41a5-bedd-27ab26921c91"
+    },
+    {
+      "text": "Ça vous fait trois euros cinquante en tout.",
+      "ipa": "sa vu fɛ tʁwa øʁo sɛ̃kɑ̃t ɑ̃ tu",
+      "translation": {
+        "zh": "一共是三欧五十。",
+        "en": "That comes to three euros fifty in total."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Ça vous fait",
+          "lemma": "faire",
+          "ipa": "sa vu fɛ",
+          "translation": {
+            "zh": "一共是",
+            "en": "that comes to"
+          },
+          "emoji": "💶"
+        },
+        {
+          "text": "trois euros cinquante",
+          "lemma": "euro",
+          "ipa": "tʁwa øʁo sɛ̃kɑ̃t",
+          "translation": {
+            "zh": "三欧五十",
+            "en": "three fifty"
+          },
+          "emoji": "💶"
+        },
+        {
+          "text": "en tout",
+          "lemma": "tout",
+          "ipa": "ɑ̃ tu",
+          "translation": {
+            "zh": "总共",
+            "en": "in total"
+          },
+          "emoji": "🔢"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Acheter des fruits",
+          "index": 6
+        }
+      ],
+      "id": "478f80dd-a421-4f64-a030-64798b81ce33"
+    },
+    {
+      "text": "Je n'ai pas la monnaie.",
+      "ipa": "ʒə nɛ pa la mɔnɛ",
+      "translation": {
+        "zh": "我没有零钱。",
+        "en": "I don't have change."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Je n'ai pas",
+          "lemma": "avoir",
+          "ipa": "ʒə nɛ pa",
+          "translation": {
+            "zh": "我没有",
+            "en": "I don't have"
+          },
+          "emoji": "❌"
+        },
+        {
+          "text": "la monnaie",
+          "lemma": "monnaie",
+          "ipa": "la mɔnɛ",
+          "translation": {
+            "zh": "零钱",
+            "en": "change"
+          },
+          "emoji": "🪙"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Acheter des fruits",
+          "index": 7
+        }
+      ],
+      "id": "a4cbe5dc-64e7-4249-a034-ae575e7fe285"
+    },
+    {
+      "text": "Je vais voir chez mon voisin.",
+      "ipa": "ʒə vɛ vwaʁ ʃe mɔ̃ vwazɛ̃",
+      "translation": {
+        "zh": "我去找我邻居看看。",
+        "en": "I'll go check with my neighbor."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Je vais voir",
+          "lemma": "voir",
+          "ipa": "ʒə vɛ vwaʁ",
+          "translation": {
+            "zh": "我去看看",
+            "en": "I'll go check"
+          },
+          "emoji": "👀"
+        },
+        {
+          "text": "chez mon voisin",
+          "lemma": "voisin",
+          "ipa": "ʃe mɔ̃ vwazɛ̃",
+          "translation": {
+            "zh": "我邻居那里",
+            "en": "at my neighbor's"
+          },
+          "emoji": "🏠"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Acheter des fruits",
+          "index": 8
+        }
+      ],
+      "id": "bacdecc5-add2-4b82-a0ff-383127e6194d"
+    },
+    {
+      "text": "Une petite seconde !",
+      "ipa": "yn pətit səɡɔ̃d",
+      "translation": {
+        "zh": "稍等一下！",
+        "en": "Just a second!"
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Une petite seconde",
+          "lemma": "seconde",
+          "ipa": "yn pətit səɡɔ̃d",
+          "translation": {
+            "zh": "稍等一下",
+            "en": "just a second"
+          },
+          "emoji": "⏱️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Acheter des fruits",
+          "index": 9
+        }
+      ],
+      "id": "529dcdd2-a774-4cc2-90c8-20f6ce14d778"
+    },
+    {
+      "text": "Pas de souci, prenez votre temps.",
+      "ipa": "pa də susi pʁəne vɔtʁə tɑ̃",
+      "translation": {
+        "zh": "没关系，慢慢来。",
+        "en": "No worries, take your time."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Pas de souci",
+          "lemma": "souci",
+          "ipa": "pa də susi",
+          "translation": {
+            "zh": "没关系",
+            "en": "no worries"
+          },
+          "emoji": "😌"
+        },
+        {
+          "text": "prenez votre temps",
+          "lemma": "temps",
+          "ipa": "pʁəne vɔtʁə tɑ̃",
+          "translation": {
+            "zh": "慢慢来",
+            "en": "take your time"
+          },
+          "emoji": "⏳"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Acheter des fruits",
+          "index": 10
+        }
+      ],
+      "id": "f85f5433-70b0-4387-bfff-d46abb93ac01"
+    },
+    {
+      "text": "Désolé pour l'attente !",
+      "ipa": "dezɔle puʁ latɑ̃t",
+      "translation": {
+        "zh": "抱歉让您久等了！",
+        "en": "Sorry for the wait!"
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Désolé",
+          "lemma": "désolé",
+          "ipa": "dezɔle",
+          "translation": {
+            "zh": "抱歉",
+            "en": "sorry"
+          },
+          "emoji": "😔"
+        },
+        {
+          "text": "pour l'attente",
+          "lemma": "attente",
+          "ipa": "puʁ latɑ̃t",
+          "translation": {
+            "zh": "等待",
+            "en": "the wait"
+          },
+          "emoji": "⏳"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Acheter des fruits",
+          "index": 11
+        }
+      ],
+      "id": "671b8ec9-f610-4434-99c0-92cb7ab9a39a"
+    },
+    {
+      "text": "Bonne journée !",
+      "ipa": "bɔn ʒuʁne",
+      "translation": {
+        "zh": "祝您愉快！",
+        "en": "Have a great day!"
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Bonne journée",
+          "lemma": "journée",
+          "ipa": "bɔn ʒuʁne",
+          "translation": {
+            "zh": "美好的一天",
+            "en": "good day"
+          },
+          "emoji": "☀️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Acheter des fruits",
+          "index": 12
+        }
+      ],
+      "id": "f8871e9f-63d1-4a52-85da-c6e9aa556105"
+    },
+    {
+      "text": "T'as chopé le nouveau Assassin's Creed ?",
+      "ipa": "ta ʃɔpe lə nuvo asasin kʁid",
+      "translation": {
+        "zh": "你入手新刺客信条了吗？",
+        "en": "Did you grab the new Assassin's Creed?"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "T'as chopé",
+          "lemma": "choper",
+          "ipa": "ta ʃɔpe",
+          "translation": {
+            "zh": "你弄到了",
+            "en": "did you grab"
+          },
+          "emoji": "🎮"
+        },
+        {
+          "text": "le nouveau",
+          "lemma": "nouveau",
+          "ipa": "lə nuvo",
+          "translation": {
+            "zh": "新的",
+            "en": "the new"
+          },
+          "emoji": "🆕"
+        },
+        {
+          "text": "Assassin's Creed",
+          "lemma": "Assassin's Creed",
+          "ipa": "asasin kʁid",
+          "translation": {
+            "zh": "刺客信条",
+            "en": "Assassin's Creed"
+          },
+          "emoji": "🗡️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Jeux vidéo",
+          "index": 1
+        }
+      ],
+      "id": "38018ead-6f61-45bc-96bd-4df6b67126db"
+    },
+    {
+      "text": "Ouais, j'en ai entendu parler.",
+      "ipa": "wɛ ʒɑ̃ n‿e ɑ̃tɑ̃dy paʁle",
+      "translation": {
+        "zh": "嗯，我听说过。",
+        "en": "Yeah, I've heard about it."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Ouais",
+          "lemma": "ouais",
+          "ipa": "wɛ",
+          "translation": {
+            "zh": "嗯对",
+            "en": "yeah"
+          },
+          "emoji": "👍"
+        },
+        {
+          "text": "j'en ai entendu parler",
+          "lemma": "entendre parler",
+          "ipa": "ʒɑ̃ n‿e ɑ̃tɑ̃dy paʁle",
+          "translation": {
+            "zh": "听说过",
+            "en": "heard about it"
+          },
+          "emoji": "👂"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Jeux vidéo",
+          "index": 2
+        }
+      ],
+      "id": "928fd384-332b-4f95-8314-2baa531200e3"
+    },
+    {
+      "text": "T'y as joué ?",
+      "ipa": "ti a ʒwe",
+      "translation": {
+        "zh": "你玩了吗？",
+        "en": "Have you played it?"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "T'y as joué",
+          "lemma": "jouer",
+          "ipa": "ti a ʒwe",
+          "translation": {
+            "zh": "你玩了吗",
+            "en": "have you played it"
+          },
+          "emoji": "🎮"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Jeux vidéo",
+          "index": 3
+        }
+      ],
+      "id": "f4618d4a-9978-4939-afb7-8e60f1b8fc72"
+    },
+    {
+      "text": "Mec, j'ai rien dormi de la nuit.",
+      "ipa": "mɛk ʒɛ ʁjɛ̃ dɔʁmi də la nɥi",
+      "translation": {
+        "zh": "哥们，我一整晚没睡。",
+        "en": "Dude, I didn't sleep at all last night."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Mec",
+          "lemma": "mec",
+          "ipa": "mɛk",
+          "translation": {
+            "zh": "哥们",
+            "en": "dude"
+          },
+          "emoji": "🧑"
+        },
+        {
+          "text": "j'ai rien dormi",
+          "lemma": "dormir",
+          "ipa": "ʒɛ ʁjɛ̃ dɔʁmi",
+          "translation": {
+            "zh": "没睡",
+            "en": "didn't sleep at all"
+          },
+          "emoji": "😴"
+        },
+        {
+          "text": "de la nuit",
+          "lemma": "nuit",
+          "ipa": "də la nɥi",
+          "translation": {
+            "zh": "整晚",
+            "en": "all night"
+          },
+          "emoji": "🌙"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Jeux vidéo",
+          "index": 4
+        }
+      ],
+      "id": "93da1d0d-6cfb-47e5-a9ce-aef5e50c3dba"
+    },
+    {
+      "text": "Je me suis couché à cinq heures du mat'.",
+      "ipa": "ʒə mə sɥi kuʃe a sɛ̃k œʁ dy mat",
+      "translation": {
+        "zh": "我五点才上床。",
+        "en": "I went to bed at five in the morning."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Je me suis couché",
+          "lemma": "se coucher",
+          "ipa": "ʒə mə sɥi kuʃe",
+          "translation": {
+            "zh": "我上床睡觉",
+            "en": "I went to bed"
+          },
+          "emoji": "🛏️"
+        },
+        {
+          "text": "à cinq heures",
+          "lemma": "heure",
+          "ipa": "a sɛ̃k œʁ",
+          "translation": {
+            "zh": "五点",
+            "en": "at five"
+          },
+          "emoji": "🕔"
+        },
+        {
+          "text": "du mat'",
+          "lemma": "matin",
+          "ipa": "dy mat",
+          "translation": {
+            "zh": "早上",
+            "en": "in the morning"
+          },
+          "emoji": "🌅"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Jeux vidéo",
+          "index": 5
+        }
+      ],
+      "id": "3542f1d3-d972-47fc-be17-e18d6ca08a3e"
+    },
+    {
+      "text": "Sérieux ? C'est bien ?",
+      "ipa": "seʁjø sɛ bjɛ̃",
+      "translation": {
+        "zh": "真的？好玩吗？",
+        "en": "Seriously? Is it good?"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Sérieux",
+          "lemma": "sérieux",
+          "ipa": "seʁjø",
+          "translation": {
+            "zh": "认真的",
+            "en": "seriously"
+          },
+          "emoji": "😮"
+        },
+        {
+          "text": "C'est bien",
+          "lemma": "bien",
+          "ipa": "sɛ bjɛ̃",
+          "translation": {
+            "zh": "好吗",
+            "en": "is it good"
+          },
+          "emoji": "👌"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Jeux vidéo",
+          "index": 6
+        }
+      ],
+      "id": "04cf5e07-6d53-4538-8118-e44e52f0c125"
+    },
+    {
+      "text": "C'est ouf.",
+      "ipa": "sɛ uf",
+      "translation": {
+        "zh": "太牛了。",
+        "en": "It's insane."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "C'est ouf",
+          "lemma": "ouf",
+          "ipa": "sɛ uf",
+          "translation": {
+            "zh": "太疯了",
+            "en": "it's insane"
+          },
+          "emoji": "🤯"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Jeux vidéo",
+          "index": 7
+        }
+      ],
+      "id": "bc3505f9-705e-4b6e-ae70-9ae19be78894"
+    },
+    {
+      "text": "Je lâchais plus la manette.",
+      "ipa": "ʒə laʃɛ ply la manɛt",
+      "translation": {
+        "zh": "我根本放不下手柄。",
+        "en": "I couldn't put the controller down."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Je lâchais plus",
+          "lemma": "lâcher",
+          "ipa": "ʒə laʃɛ ply",
+          "translation": {
+            "zh": "放不下",
+            "en": "couldn't let go"
+          },
+          "emoji": "✋"
+        },
+        {
+          "text": "la manette",
+          "lemma": "manette",
+          "ipa": "la manɛt",
+          "translation": {
+            "zh": "手柄",
+            "en": "controller"
+          },
+          "emoji": "🎮"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Jeux vidéo",
+          "index": 8
+        }
+      ],
+      "id": "93a2ed97-597e-42e4-9871-f27258c24445"
+    },
+    {
+      "text": "Maintenant ils font tous pareil.",
+      "ipa": "mɛ̃tnɑ̃ il fɔ̃ tus paʁɛj",
+      "translation": {
+        "zh": "现在每一代都一个样。",
+        "en": "Now they're all the same."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Maintenant",
+          "lemma": "maintenant",
+          "ipa": "mɛ̃tnɑ̃",
+          "translation": {
+            "zh": "现在",
+            "en": "now"
+          },
+          "emoji": "⏱️"
+        },
+        {
+          "text": "ils font tous pareil",
+          "lemma": "faire",
+          "ipa": "il fɔ̃ tus paʁɛj",
+          "translation": {
+            "zh": "都一个样",
+            "en": "they're all the same"
+          },
+          "emoji": "🔁"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Jeux vidéo",
+          "index": 9
+        }
+      ],
+      "id": "496f0413-cf74-4c39-8a40-67c1db486e1b"
+    },
+    {
+      "text": "T'as l'impression de rejouer le même jeu.",
+      "ipa": "ta lɛ̃pʁɛsjɔ̃ də ʁəʒwe lə mɛm ʒø",
+      "translation": {
+        "zh": "感觉在重复玩同一个游戏。",
+        "en": "You feel like you're playing the same game again."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "T'as l'impression",
+          "lemma": "impression",
+          "ipa": "ta lɛ̃pʁɛsjɔ̃",
+          "translation": {
+            "zh": "你感觉",
+            "en": "you get the feeling"
+          },
+          "emoji": "💭"
+        },
+        {
+          "text": "de rejouer",
+          "lemma": "rejouer",
+          "ipa": "də ʁəʒwe",
+          "translation": {
+            "zh": "重新玩",
+            "en": "of replaying"
+          },
+          "emoji": "🔄"
+        },
+        {
+          "text": "le même jeu",
+          "lemma": "jeu",
+          "ipa": "lə mɛm ʒø",
+          "translation": {
+            "zh": "同一个游戏",
+            "en": "the same game"
+          },
+          "emoji": "🎮"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Jeux vidéo",
+          "index": 10
+        }
+      ],
+      "id": "6e8d1c13-5237-40fa-9bc9-dfcf65e7bd16"
+    },
+    {
+      "text": "Nan mais celui-là c'est différent, je te jure.",
+      "ipa": "nɑ̃ mɛ səlɥi la sɛ difeʁɑ̃ ʒə tə ʒyʁ",
+      "translation": {
+        "zh": "不不，这一代不一样，我跟你说真的。",
+        "en": "No but this one's different, I swear."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Nan mais",
+          "lemma": "non",
+          "ipa": "nɑ̃ mɛ",
+          "translation": {
+            "zh": "不不但是",
+            "en": "no but"
+          },
+          "emoji": "🙅"
+        },
+        {
+          "text": "celui-là",
+          "lemma": "celui",
+          "ipa": "səlɥi la",
+          "translation": {
+            "zh": "这个",
+            "en": "this one"
+          },
+          "emoji": "👇"
+        },
+        {
+          "text": "c'est différent",
+          "lemma": "différent",
+          "ipa": "sɛ difeʁɑ̃",
+          "translation": {
+            "zh": "不一样",
+            "en": "it's different"
+          },
+          "emoji": "✨"
+        },
+        {
+          "text": "je te jure",
+          "lemma": "jurer",
+          "ipa": "ʒə tə ʒyʁ",
+          "translation": {
+            "zh": "我发誓",
+            "en": "I swear"
+          },
+          "emoji": "🤞"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Jeux vidéo",
+          "index": 11
+        }
+      ],
+      "id": "61fab16d-722d-483f-b282-d43fbe980381"
+    },
+    {
+      "text": "Une infirmière est une professionnelle de santé.",
+      "ipa": "yn ɛ̃fiʁmjɛʁ ɛ yn pʁɔfɛsjɔnɛl də sɑ̃te",
+      "translation": {
+        "zh": "护士是一种医疗专业人员。",
+        "en": "A nurse is a healthcare professional."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Une infirmière",
+          "lemma": "infirmière",
+          "ipa": "yn ɛ̃fiʁmjɛʁ",
+          "translation": {
+            "zh": "护士",
+            "en": "a nurse"
+          },
+          "emoji": "👩‍⚕️"
+        },
+        {
+          "text": "est une professionnelle",
+          "lemma": "professionnel",
+          "ipa": "ɛ yn pʁɔfɛsjɔnɛl",
+          "translation": {
+            "zh": "是专业人员",
+            "en": "is a professional"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "de santé",
+          "lemma": "santé",
+          "ipa": "də sɑ̃te",
+          "translation": {
+            "zh": "医疗的",
+            "en": "healthcare"
+          },
+          "emoji": "🏥"
+        }
+      ],
+      "tags": [
+        {
+          "name": "infirmière",
+          "index": 1
+        }
+      ],
+      "id": "2fb9f9b4-6009-472f-8149-b0dce0678fc2"
+    },
+    {
+      "text": "Elle travaille dans un hôpital ou une clinique.",
+      "ipa": "ɛl tʁavaj dɑ̃ z‿œ̃ opital u yn klinik",
+      "translation": {
+        "zh": "她在医院或诊所工作。",
+        "en": "She works in a hospital or a clinic."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Elle travaille",
+          "lemma": "travailler",
+          "ipa": "ɛl tʁavaj",
+          "translation": {
+            "zh": "她工作",
+            "en": "she works"
+          },
+          "emoji": "💼"
+        },
+        {
+          "text": "dans un hôpital",
+          "lemma": "hôpital",
+          "ipa": "dɑ̃ z‿œ̃ opital",
+          "translation": {
+            "zh": "在医院",
+            "en": "in a hospital"
+          },
+          "emoji": "🏥"
+        },
+        {
+          "text": "ou une clinique",
+          "lemma": "clinique",
+          "ipa": "u yn klinik",
+          "translation": {
+            "zh": "或诊所",
+            "en": "or a clinic"
+          },
+          "emoji": "🏨"
+        }
+      ],
+      "tags": [
+        {
+          "name": "infirmière",
+          "index": 2
+        }
+      ],
+      "id": "92e472a0-631a-4233-806f-876d2c7e902c"
+    },
+    {
+      "text": "Elle s'occupe des patients.",
+      "ipa": "ɛl sɔkype de pasjɑ̃",
+      "translation": {
+        "zh": "她负责照顾病人。",
+        "en": "She takes care of patients."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Elle s'occupe",
+          "lemma": "s'occuper",
+          "ipa": "ɛl sɔkype",
+          "translation": {
+            "zh": "她负责",
+            "en": "she takes care"
+          },
+          "emoji": "🤲"
+        },
+        {
+          "text": "des patients",
+          "lemma": "patient",
+          "ipa": "de pasjɑ̃",
+          "translation": {
+            "zh": "病人",
+            "en": "of patients"
+          },
+          "emoji": "🤒"
+        }
+      ],
+      "tags": [
+        {
+          "name": "infirmière",
+          "index": 3
+        }
+      ],
+      "id": "c2734598-dfcf-40ab-ac9c-e527d17aa055"
+    },
+    {
+      "text": "Elle prend la température.",
+      "ipa": "ɛl pʁɑ̃ la tɑ̃peʁatyʁ",
+      "translation": {
+        "zh": "她量体温。",
+        "en": "She takes the temperature."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Elle prend",
+          "lemma": "prendre",
+          "ipa": "ɛl pʁɑ̃",
+          "translation": {
+            "zh": "她量",
+            "en": "she takes"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "la température",
+          "lemma": "température",
+          "ipa": "la tɑ̃peʁatyʁ",
+          "translation": {
+            "zh": "体温",
+            "en": "temperature"
+          },
+          "emoji": "🌡️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "infirmière",
+          "index": 4
+        }
+      ],
+      "id": "1de643c1-f52b-4e1f-b4c5-9eb97c6c5d38"
+    },
+    {
+      "text": "Elle fait les piqûres.",
+      "ipa": "ɛl fɛ le pikyʁ",
+      "translation": {
+        "zh": "她打针。",
+        "en": "She gives injections."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Elle fait",
+          "lemma": "faire",
+          "ipa": "ɛl fɛ",
+          "translation": {
+            "zh": "她做",
+            "en": "she gives"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "les piqûres",
+          "lemma": "piqûre",
+          "ipa": "le pikyʁ",
+          "translation": {
+            "zh": "注射",
+            "en": "injections"
+          },
+          "emoji": "💉"
+        }
+      ],
+      "tags": [
+        {
+          "name": "infirmière",
+          "index": 5
+        }
+      ],
+      "id": "c67301f1-ffa9-4499-be07-1620d36e272a"
+    },
+    {
+      "text": "Elle distribue les médicaments.",
+      "ipa": "ɛl distʁibɥ le medikamɑ̃",
+      "translation": {
+        "zh": "她发药。",
+        "en": "She hands out medication."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Elle distribue",
+          "lemma": "distribuer",
+          "ipa": "ɛl distʁibɥ",
+          "translation": {
+            "zh": "她发放",
+            "en": "she distributes"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "les médicaments",
+          "lemma": "médicament",
+          "ipa": "le medikamɑ̃",
+          "translation": {
+            "zh": "药物",
+            "en": "medication"
+          },
+          "emoji": "💊"
+        }
+      ],
+      "tags": [
+        {
+          "name": "infirmière",
+          "index": 6
+        }
+      ],
+      "id": "4b43e7c7-3e7f-48d1-a38b-3914296e779c"
+    },
+    {
+      "text": "Elle aide les médecins.",
+      "ipa": "ɛl ɛd le medsɛ̃",
+      "translation": {
+        "zh": "她协助医生。",
+        "en": "She assists the doctors."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Elle aide",
+          "lemma": "aider",
+          "ipa": "ɛl ɛd",
+          "translation": {
+            "zh": "她帮助",
+            "en": "she helps"
+          },
+          "emoji": "🤝"
+        },
+        {
+          "text": "les médecins",
+          "lemma": "médecin",
+          "ipa": "le medsɛ̃",
+          "translation": {
+            "zh": "医生",
+            "en": "doctors"
+          },
+          "emoji": "👨‍⚕️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "infirmière",
+          "index": 7
+        }
+      ],
+      "id": "57df8904-01b1-45c2-9db6-0f836f24d3e3"
+    },
+    {
+      "text": "C'est elle qu'on appelle quand on a besoin d'aide.",
+      "ipa": "sɛ ɛl kɔ̃ apɛl kɑ̃ ɔ̃ n‿a bəzwɛ̃ dɛd",
+      "translation": {
+        "zh": "有需要帮助的时候就叫她。",
+        "en": "She's the one you call when you need help."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "C'est elle qu'on appelle",
+          "lemma": "appeler",
+          "ipa": "sɛ ɛl kɔ̃ apɛl",
+          "translation": {
+            "zh": "被叫来的是她",
+            "en": "she's the one you call"
+          },
+          "emoji": "📢"
+        },
+        {
+          "text": "quand on a besoin",
+          "lemma": "besoin",
+          "ipa": "kɑ̃ ɔ̃ n‿a bəzwɛ̃",
+          "translation": {
+            "zh": "当需要",
+            "en": "when you need"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "d'aide",
+          "lemma": "aide",
+          "ipa": "dɛd",
+          "translation": {
+            "zh": "帮助",
+            "en": "help"
+          },
+          "emoji": "🆘"
+        }
+      ],
+      "tags": [
+        {
+          "name": "infirmière",
+          "index": 8
+        }
+      ],
+      "id": "f9a99150-8189-4d3d-becd-496fac1b5268"
+    },
+    {
+      "text": "Prenez la direction du sud.",
+      "ipa": "pʁəne la diʁɛksjɔ̃ dy syd",
+      "translation": {
+        "zh": "向南行驶。",
+        "en": "Head south."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Prenez la direction",
+          "lemma": "direction",
+          "ipa": "pʁəne la diʁɛksjɔ̃",
+          "translation": {
+            "zh": "朝方向走",
+            "en": "head in the direction"
+          },
+          "emoji": "🧭"
+        },
+        {
+          "text": "du sud",
+          "lemma": "sud",
+          "ipa": "dy syd",
+          "translation": {
+            "zh": "南方",
+            "en": "south"
+          },
+          "emoji": "⬇️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Navigation",
+          "index": 1
+        }
+      ],
+      "id": "d8146ff9-5f20-4847-a29e-74e3b51c2329"
+    },
+    {
+      "text": "Dans trois cents mètres, tournez à gauche.",
+      "ipa": "dɑ̃ tʁwa sɑ̃ mɛtʁ tuʁne a goʃ",
+      "translation": {
+        "zh": "三百米后左转。",
+        "en": "In three hundred meters, turn left."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Dans trois cents mètres",
+          "lemma": "mètre",
+          "ipa": "dɑ̃ tʁwa sɑ̃ mɛtʁ",
+          "translation": {
+            "zh": "三百米后",
+            "en": "in three hundred meters"
+          },
+          "emoji": "📏"
+        },
+        {
+          "text": "tournez à gauche",
+          "lemma": "tourner",
+          "ipa": "tuʁne a goʃ",
+          "translation": {
+            "zh": "左转",
+            "en": "turn left"
+          },
+          "emoji": "⬅️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Navigation",
+          "index": 2
+        }
+      ],
+      "id": "30845654-42b9-4ee1-87c2-533bf7fa3410"
+    },
+    {
+      "text": "Continuez tout droit sur le boulevard Saint-Germain.",
+      "ipa": "kɔ̃tinɥe tu dʁwa syʁ lə buləvaʁ sɛ̃ ʒɛʁmɛ̃",
+      "translation": {
+        "zh": "沿圣日耳曼大道直行。",
+        "en": "Continue straight on Boulevard Saint-Germain."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Continuez tout droit",
+          "lemma": "continuer",
+          "ipa": "kɔ̃tinɥe tu dʁwa",
+          "translation": {
+            "zh": "直行",
+            "en": "continue straight"
+          },
+          "emoji": "⬆️"
+        },
+        {
+          "text": "sur le boulevard Saint-Germain",
+          "lemma": "boulevard",
+          "ipa": "syʁ lə buləvaʁ sɛ̃ ʒɛʁmɛ̃",
+          "translation": {
+            "zh": "圣日耳曼大道",
+            "en": "Boulevard Saint-Germain"
+          },
+          "emoji": "🛣️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Navigation",
+          "index": 3
+        }
+      ],
+      "id": "39a150ad-916d-4de6-adae-b7b9b9aeefa3"
+    },
+    {
+      "text": "Au rond-point, prenez la deuxième sortie.",
+      "ipa": "o ʁɔ̃pwɛ̃ pʁəne la døzjɛm sɔʁti",
+      "translation": {
+        "zh": "在环岛走第二个出口。",
+        "en": "At the roundabout, take the second exit."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Au rond-point",
+          "lemma": "rond-point",
+          "ipa": "o ʁɔ̃pwɛ̃",
+          "translation": {
+            "zh": "在环岛",
+            "en": "at the roundabout"
+          },
+          "emoji": "🔄"
+        },
+        {
+          "text": "prenez la deuxième sortie",
+          "lemma": "sortie",
+          "ipa": "pʁəne la døzjɛm sɔʁti",
+          "translation": {
+            "zh": "走第二出口",
+            "en": "take the second exit"
+          },
+          "emoji": "↪️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Navigation",
+          "index": 4
+        }
+      ],
+      "id": "058e40f8-66e1-414a-a363-01be1fad8145"
+    },
+    {
+      "text": "Traversez le pont de la Concorde.",
+      "ipa": "tʁaveʁse lə pɔ̃ də la kɔ̃kɔʁd",
+      "translation": {
+        "zh": "过协和桥。",
+        "en": "Cross the Pont de la Concorde."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Traversez",
+          "lemma": "traverser",
+          "ipa": "tʁaveʁse",
+          "translation": {
+            "zh": "穿越",
+            "en": "cross"
+          },
+          "emoji": "🌉"
+        },
+        {
+          "text": "le pont de la Concorde",
+          "lemma": "pont",
+          "ipa": "lə pɔ̃ də la kɔ̃kɔʁd",
+          "translation": {
+            "zh": "协和桥",
+            "en": "Pont de la Concorde"
+          },
+          "emoji": "🌉"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Navigation",
+          "index": 5
+        }
+      ],
+      "id": "9411e6dd-d840-46eb-ba58-967642d1338b"
+    },
+    {
+      "text": "Dans cinquante mètres, votre destination se trouve sur la droite.",
+      "ipa": "dɑ̃ sɛ̃kɑ̃t mɛtʁ vɔtʁ dɛstinasjɔ̃ sə tʁuv syʁ la dʁwat",
+      "translation": {
+        "zh": "五十米后，目的地在您右手边。",
+        "en": "In fifty meters, your destination is on the right."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Dans cinquante mètres",
+          "lemma": "mètre",
+          "ipa": "dɑ̃ sɛ̃kɑ̃t mɛtʁ",
+          "translation": {
+            "zh": "五十米后",
+            "en": "in fifty meters"
+          },
+          "emoji": "📏"
+        },
+        {
+          "text": "votre destination",
+          "lemma": "destination",
+          "ipa": "vɔtʁ dɛstinasjɔ̃",
+          "translation": {
+            "zh": "目的地",
+            "en": "your destination"
+          },
+          "emoji": "📍"
+        },
+        {
+          "text": "se trouve",
+          "lemma": "se trouver",
+          "ipa": "sə tʁuv",
+          "translation": {
+            "zh": "位于",
+            "en": "is located"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "sur la droite",
+          "lemma": "droite",
+          "ipa": "syʁ la dʁwat",
+          "translation": {
+            "zh": "右手边",
+            "en": "on the right"
+          },
+          "emoji": "➡️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Navigation",
+          "index": 6
+        }
+      ],
+      "id": "fa70aa13-5d8f-4616-b25e-bd222bf749c8"
+    },
+    {
+      "text": "Vous êtes arrivé à destination.",
+      "ipa": "vu z‿ɛt aʁive a dɛstinasjɔ̃",
+      "translation": {
+        "zh": "您已到达目的地。",
+        "en": "You have arrived at your destination."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Vous êtes arrivé",
+          "lemma": "arriver",
+          "ipa": "vu z‿ɛt aʁive",
+          "translation": {
+            "zh": "您已到达",
+            "en": "you have arrived"
+          },
+          "emoji": "✅"
+        },
+        {
+          "text": "à destination",
+          "lemma": "destination",
+          "ipa": "a dɛstinasjɔ̃",
+          "translation": {
+            "zh": "目的地",
+            "en": "at destination"
+          },
+          "emoji": "📍"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Navigation",
+          "index": 7
+        }
+      ],
+      "id": "aea582e5-f425-417d-8451-e00b516d6713"
     }
   ]
 }

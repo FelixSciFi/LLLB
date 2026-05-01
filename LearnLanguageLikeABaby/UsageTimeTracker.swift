@@ -43,6 +43,17 @@ final class UsageTimeTracker: ObservableObject {
     @Published private(set) var thisMonthBgMinutes:Int = 0
     @Published private(set) var allTimeBgMinutes:  Int = 0
 
+    // MARK: - Period keys (kept in sync with the *Minutes values above)
+
+    /// Period keys recomputed alongside the minute values.
+    /// Consumers that bucket by period (achievements, etc.) MUST read these,
+    /// not compute their own from `Date()` — otherwise they'll see stale
+    /// minutes paired with a fresh date when the day/week/month rolls over
+    /// before recompute() runs.
+    @Published private(set) var currentDayKey:   String = ""
+    @Published private(set) var currentWeekKey:  String = ""
+    @Published private(set) var currentMonthKey: String = ""
+
     // Keep the original key so existing foreground data is preserved
     private static let fgStorageKey = "usageTimeByDate_v1"
     private static let bgStorageKey = "usageBgTimeByDate_v1"
@@ -60,7 +71,18 @@ final class UsageTimeTracker: ObservableObject {
         load()
         recompute()
         streakDays = UserDefaults.standard.integer(forKey: Self.streakCountKey)
+
+        // Recompute on midnight rollover so period keys + minute values stay in sync.
+        NotificationCenter.default.addObserver(
+            forName: .NSCalendarDayChanged,
+            object: nil,
+            queue: .main
+        ) { [weak self] _ in
+            self?.recompute()
+        }
     }
+
+    deinit { NotificationCenter.default.removeObserver(self) }
 
     // MARK: - Foreground session
 
@@ -143,6 +165,13 @@ final class UsageTimeTracker: ObservableObject {
         }
         allTimeMinutes   = dailySeconds.values.reduce(0, +)   / 60
         allTimeBgMinutes = dailyBgSeconds.values.reduce(0, +) / 60
+
+        currentDayKey   = Self.dayKey(for: now)
+        let w = cal.component(.weekOfYear,        from: now)
+        let y = cal.component(.yearForWeekOfYear, from: now)
+        currentWeekKey  = "\(y)-W\(String(format: "%02d", w))"
+        let mFmt = DateFormatter(); mFmt.dateFormat = "yyyy-MM"
+        currentMonthKey = mFmt.string(from: now)
     }
 
     private func secondsForDay(_ date: Date, in dict: [String: Int]) -> Int {

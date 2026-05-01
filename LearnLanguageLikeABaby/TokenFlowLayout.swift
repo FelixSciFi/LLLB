@@ -53,13 +53,19 @@ struct TokenFlowLayout: Layout {
     }
 
     private func arrange(_ maxWidth: CGFloat, subviews: Subviews) -> [RowItem] {
+        let widthProposal: ProposedViewSize = maxWidth > 0
+            ? ProposedViewSize(width: maxWidth, height: nil)
+            : .unspecified
         var x: CGFloat = 0
         var y: CGFloat = 0
         var rowHeight: CGFloat = 0
         var items: [RowItem] = []
 
         for sub in subviews {
-            let size = sub.sizeThatFits(.unspecified)
+            var size = sub.sizeThatFits(widthProposal)
+            if maxWidth > 0, size.width > maxWidth {
+                size.width = maxWidth
+            }
             if x > 0, x + size.width > maxWidth, maxWidth > 0 {
                 x = 0
                 y += rowHeight + runSpacing

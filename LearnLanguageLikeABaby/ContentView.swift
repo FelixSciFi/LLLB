@@ -1,4 +1,12 @@
 import SwiftUI
+import UIKit
+
+
+// MARK: - Dynamic Type helper
+
+private func dynSize(_ style: UIFont.TextStyle) -> CGFloat {
+    UIFont.preferredFont(forTextStyle: style).pointSize
+}
 
 
 // MARK: - View
@@ -6,27 +14,56 @@ import SwiftUI
 struct ContentView: View {
     @ObservedObject var session: LessonSessionModel
     @Binding var showProfile: Bool
-    var streakDays:   Int = 0
-    var candyBalance: Int = 0
+    var streakDays:         Int = 0
+    var candyBalance:       Int = 0
+    @ObservedObject var usageTracker:       UsageTimeTracker   = .init()
+    @ObservedObject var achievementManager: AchievementManager = .init()
+    var onCollectMilestones: () -> Void = {}
     @State private var showLibraryPicker  = false
     @State private var showSpeedPopover   = false
     @State private var showRepeatsPopover = false
     @State private var archiveExpanded    = false
+    @State private var showRingsOverlay   = false
+    @State private var showCollectCard    = false
 
     private static let playbackSpeedSteps: [Double] = Array(stride(from: 0.5, through: 2.0, by: 0.25))
+
+    private var effectiveMinutes: [Int] {[
+        usageTracker.todayMinutes     + usageTracker.todayBgMinutes     / 3,
+        usageTracker.thisWeekMinutes  + usageTracker.thisWeekBgMinutes  / 3,
+        usageTracker.thisMonthMinutes + usageTracker.thisMonthBgMinutes / 3,
+        usageTracker.allTimeMinutes   + usageTracker.allTimeBgMinutes   / 3,
+    ]}
+
+    private var achievedDimensions: [Bool] {[
+        achievementManager.hasPending(for: .daily),
+        achievementManager.hasPending(for: .weekly),
+        achievementManager.hasPending(for: .monthly),
+        achievementManager.hasPending(for: .lifetime),
+    ]}
 
     var body: some View {
         NavigationStack {
             ZStack {
                 // ── Background ────────────────────────────────────────────────
                 Group {
-                    if session.isFavoriteMode          { Color.green.opacity(0.12) }
+                    if session.isFavoriteMode          { Color.lllbAccent.opacity(0.10) }
                     else if session.focusedLemma != nil { Color.lllbAccent.opacity(0.10) }
                     else                               { Color.lllbBackground }
                 }
                 .ignoresSafeArea()
                 .animation(.easeInOut(duration: 0.3), value: session.focusedLemma)
                 .animation(.easeInOut(duration: 0.3), value: session.isFavoriteMode)
+
+                // ── Archive expanded dismiss layer ────────────────────────────
+                if archiveExpanded {
+                    Color.clear
+                        .contentShape(Rectangle())
+                        .ignoresSafeArea()
+                        .onTapGesture {
+                            withAnimation(.spring(response: 0.28)) { archiveExpanded = false }
+                        }
+                }
 
                 // ── Three-column layout ───────────────────────────────────────
                 VStack(spacing: 0) {
@@ -40,9 +77,17 @@ struct ContentView: View {
                         VStack(spacing: 0) {
                             peekArrow(systemName: "chevron.up")
                             Spacer(minLength: 0)
-                            sentenceArea
-                                .padding(.horizontal, 12)
-                            Spacer()
+                            ViewThatFits(in: .vertical) {
+                                sentenceArea(scale: 1.50)
+                                sentenceArea(scale: 1.30)
+                                sentenceArea(scale: 1.15)
+                                sentenceArea(scale: 1.00)
+                                sentenceArea(scale: 0.85)
+                                sentenceArea(scale: 0.70)
+                                sentenceArea(scale: 0.55)
+                            }
+                            .padding(.horizontal, 12)
+                            Spacer(minLength: 110)
                             peekArrow(systemName: "chevron.down")
                         }
                         .frame(maxWidth: .infinity)
@@ -62,7 +107,7 @@ struct ContentView: View {
                             Image(systemName: "xmark.circle.fill")
                                 .symbolRenderingMode(.hierarchical)
                                 .font(.title2)
-                                .foregroundStyle(session.isFavoriteMode ? Color.green : Color.lllbAccent)
+                                .foregroundStyle(Color.lllbAccent)
                                 .padding(14)
                                 .background(.ultraThinMaterial, in: Circle())
                         }
@@ -70,21 +115,37 @@ struct ContentView: View {
                     }
                 }
 
-                // ── Floating menu button (normal mode) ────────────────────────
+                // ── Profile button (bottom-right, normal mode) ────────────────
                 if session.focusedLemma == nil && !session.isFavoriteMode && session.activatedTag == nil {
                     VStack {
                         Spacer()
                         HStack {
                             Spacer()
                             Button { showProfile = true } label: {
-                                Image(systemName: "line.3.horizontal")
-                                    .font(.title2)
-                                    .padding(14)
-                                    .background(.ultraThinMaterial, in: Circle())
+                                Image(systemName: "person.crop.circle")
+                                    .font(.system(size: 22, weight: .regular))
+                                    .foregroundStyle(Color.lllbAccent)
+                                    .frame(width: 44, height: 44)
+                                    .background(Color.lllbChipBg, in: Circle())
+                                    .overlay(Circle().stroke(Color.lllbChipStroke, lineWidth: 0.5))
                             }
                             .padding(.trailing, 20)
-                            .padding(.bottom, 28)
+                            .padding(.bottom, 32)
                         }
+                    }
+                }
+
+                // ── Tag chips (bottom-center) ─────────────────────────────────
+                let currentTags = session.currentSentence.tags
+                if !currentTags.isEmpty {
+                    VStack {
+                        Spacer()
+                        HStack(spacing: 6) {
+                            ForEach(currentTags, id: \.name) { tag in
+                                tagChip(tag)
+                            }
+                        }
+                        .padding(.bottom, 100)
                     }
                 }
 
@@ -97,6 +158,51 @@ struct ContentView: View {
                             .padding(.bottom, 32)
                         Spacer()
                     }
+                }
+
+                // ── Library picker overlay ─────────────────────────────────────
+                if showLibraryPicker {
+                    LibraryPickerView(session: session) {
+                        withAnimation(.easeOut(duration: 0.18)) { showLibraryPicker = false }
+                    }
+                    .transition(.opacity)
+                }
+
+                // ── Milestone collect card ─────────────────────────────────────
+                if showCollectCard {
+                    MilestoneCollectCard(
+                        milestones:     achievementManager.pendingMilestones,
+                        nativeLanguage: session.nativeLanguage,
+                        onCollect: {
+                            onCollectMilestones()
+                            withAnimation(.easeOut(duration: 0.18)) { showCollectCard = false }
+                            withAnimation(.easeOut(duration: 0.18)) { showRingsOverlay = true }
+                        }
+                    )
+                    .transition(.opacity)
+                    .zIndex(200)
+                }
+
+                // ── Progress rings overlay ──────────────────────────────────────
+                if showRingsOverlay {
+                    ProgressRingsOverlay(
+                        progresses:     [
+                            achievementManager.progress(for: .daily,    currentMinutes: effectiveMinutes[0]),
+                            achievementManager.progress(for: .weekly,   currentMinutes: effectiveMinutes[1]),
+                            achievementManager.progress(for: .monthly,  currentMinutes: effectiveMinutes[2]),
+                            achievementManager.progress(for: .lifetime, currentMinutes: effectiveMinutes[3]),
+                        ],
+                        currentMinutes: effectiveMinutes,
+                        targetMinutes:  [
+                            achievementManager.nextThreshold(for: .daily,    currentMinutes: effectiveMinutes[0]),
+                            achievementManager.nextThreshold(for: .weekly,   currentMinutes: effectiveMinutes[1]),
+                            achievementManager.nextThreshold(for: .monthly,  currentMinutes: effectiveMinutes[2]),
+                            achievementManager.nextThreshold(for: .lifetime, currentMinutes: effectiveMinutes[3]),
+                        ],
+                        nativeLanguage: session.nativeLanguage,
+                        onDismiss:      { withAnimation(.easeOut(duration: 0.18)) { showRingsOverlay = false } }
+                    )
+                    .transition(.opacity)
                 }
             }
             .toolbar(.hidden, for: .navigationBar)
@@ -118,19 +224,37 @@ struct ContentView: View {
     // MARK: - Top bar
 
     private var topBar: some View {
-        HStack {
+        HStack(spacing: 10) {
             Label("\(streakDays)", systemImage: "flame.fill")
                 .font(.system(size: 13, weight: .semibold))
                 .foregroundStyle(streakDays > 0
-                    ? Color(red: 1, green: 149/255, blue: 0)   // #FF9500
+                    ? Color.lllbRingColors[0]   // #F07840 — echoes the "today" ring
                     : Color.lllbSecondaryText)
-            Spacer()
             HStack(spacing: 3) {
                 Text("🍬").font(.system(size: 13))
                 Text("\(candyBalance)")
                     .font(.system(size: 13, weight: .semibold))
                     .foregroundStyle(Color.lllbSecondaryText)
             }
+            Spacer()
+            Button {
+                if achievementManager.pendingMilestones.isEmpty {
+                    showRingsOverlay = true
+                } else {
+                    showCollectCard = true
+                }
+            } label: {
+                ProgressRingsSmall(
+                    progresses: [
+                        achievementManager.progress(for: .daily,    currentMinutes: effectiveMinutes[0]),
+                        achievementManager.progress(for: .weekly,   currentMinutes: effectiveMinutes[1]),
+                        achievementManager.progress(for: .monthly,  currentMinutes: effectiveMinutes[2]),
+                        achievementManager.progress(for: .lifetime, currentMinutes: effectiveMinutes[3]),
+                    ],
+                    achieved: achievedDimensions
+                )
+            }
+            .buttonStyle(.plain)
         }
         .padding(.horizontal, 20)
         .frame(height: 36)
@@ -264,11 +388,10 @@ struct ContentView: View {
             .buttonStyle(.plain)
 
             // Library
-            Button { showLibraryPicker = true } label: {
+            Button { withAnimation(.easeOut(duration: 0.18)) { showLibraryPicker = true } } label: {
                 controlCell(icon: "books.vertical", label: L("库", "Library", nativeLanguage: nl))
             }
             .buttonStyle(.plain)
-            .sheet(isPresented: $showLibraryPicker) { LibraryPickerView(session: session) }
 
             // Favorites mode
             Button {
@@ -374,33 +497,43 @@ struct ContentView: View {
             Button { session.toggleFamiliar() } label: {
                 controlCell(
                     icon:        isFamiliar ? "checkmark.circle.fill" : "checkmark.circle",
-                    label:       L("熟悉", "Known", nativeLanguage: nl),
+                    label:       L("熟悉", "Familiar", nativeLanguage: nl),
                     isActive:    isFamiliar,
                     activeColor: .green
                 )
             }
             .buttonStyle(.plain)
 
-            if archiveExpanded {
-                Button {
-                    session.archiveCurrentSentence(as: .mastered)
-                    withAnimation { archiveExpanded = false }
-                } label: {
-                    controlCell(icon: "checkmark.seal", label: L("学会了", "Done", nativeLanguage: nl))
+            Button {
+                withAnimation(.spring(response: 0.28)) { archiveExpanded.toggle() }
+            } label: {
+                controlCell(icon: "archivebox", label: L("存档", "Archive", nativeLanguage: nl), isActive: archiveExpanded)
+            }
+            .buttonStyle(.plain)
+            .frame(width: 56)
+            .overlay(alignment: .leading) {
+                if archiveExpanded {
+                    VStack(spacing: 6) {
+                        Button {
+                            session.archiveCurrentSentence(as: .mastered)
+                            withAnimation(.spring(response: 0.28)) { archiveExpanded = false }
+                        } label: {
+                            controlCell(icon: "checkmark.seal", label: L("学会了", "Known", nativeLanguage: nl))
+                        }
+                        .buttonStyle(.plain)
+
+                        Button {
+                            session.archiveCurrentSentence(as: .later)
+                            withAnimation(.spring(response: 0.28)) { archiveExpanded = false }
+                        } label: {
+                            controlCell(icon: "clock", label: L("稍后学", "Later", nativeLanguage: nl))
+                        }
+                        .buttonStyle(.plain)
+                    }
+                    .frame(width: 56)
+                    .offset(x: -(56 + 6))
+                    .transition(.move(edge: .trailing).combined(with: .opacity))
                 }
-                .buttonStyle(.plain)
-                Button {
-                    session.archiveCurrentSentence(as: .later)
-                    withAnimation { archiveExpanded = false }
-                } label: {
-                    controlCell(icon: "clock", label: L("稍后学", "Later", nativeLanguage: nl))
-                }
-                .buttonStyle(.plain)
-            } else {
-                Button { withAnimation { archiveExpanded = true } } label: {
-                    controlCell(icon: "archivebox", label: L("存档", "Archive", nativeLanguage: nl))
-                }
-                .buttonStyle(.plain)
             }
         }
         .onChange(of: session.currentSentence.id) { _ in
@@ -493,7 +626,10 @@ struct ContentView: View {
     private var playCountBadge: some View {
         let count = session.currentSentencePlayCount
         if count > 0 {
-            let color: Color = count < 20 ? .orange : (count < 50 ? .green : (count < 100 ? .blue : .yellow))
+            let color: Color = count < 20 ? Color.lllbRingColors[0]      // 橙
+                             : count < 50 ? Color.lllbRingColors[1]      // 绿
+                             : count < 100 ? Color.lllbRingColors[2]     // 蓝
+                                           : Color.lllbRingColors[3]     // 金
             Text("▶ \(count)")
                 .font(.caption2.monospacedDigit())
                 .foregroundStyle(color)
@@ -505,46 +641,41 @@ struct ContentView: View {
 
     // MARK: - Sentence area
 
-    private var sentenceArea: some View {
+    @ViewBuilder
+    private func sentenceArea(scale: CGFloat) -> some View {
         let s  = session.currentSentence
         let nl = session.nativeLanguage
-        return VStack(spacing: 16) {
-            // Tag row
-            let currentTags = s.tags
-            if !currentTags.isEmpty {
-                TokenFlowLayout(spacing: 4, runSpacing: 4, trailingAligned: true) {
-                    ForEach(currentTags, id: \.name) { tag in
-                        tagChip(tag)
-                    }
-                }
-                .frame(maxWidth: .infinity)
-            }
-
+        VStack(spacing: 16 * scale) {
             // Favorite mode indicator
             if session.isFavoriteMode, let playlist = session.examplePlaylist {
                 HStack {
-                    Image(systemName: "heart.fill").foregroundStyle(.green)
+                    Image(systemName: "heart.fill").foregroundStyle(Color.lllbAccent)
                     Text("\(session.exampleIndex + 1)/\(playlist.count)")
-                        .font(.caption.weight(.semibold)).foregroundStyle(.green.opacity(0.7))
+                        .font(.system(size: dynSize(.caption1) * scale, weight: .semibold))
+                        .foregroundStyle(Color.lllbAccent.opacity(0.7))
                     Spacer()
                 }
-                .padding(.bottom, 4)
+                .padding(.bottom, 4 * scale)
             }
 
             // Focus mode header
             if let lemma = session.focusedLemma {
-                HStack(spacing: 8) {
+                HStack(spacing: 8 * scale) {
                     Text(session.focusedTokenText)
-                        .font(.title.weight(.bold)).foregroundStyle(Color.lllbAccent)
+                        .font(.system(size: dynSize(.title1) * scale, weight: .bold))
+                        .foregroundStyle(Color.lllbAccent)
                     Text("·").foregroundStyle(Color.lllbAccent.opacity(0.5))
-                    Text(lemma).font(.title3).foregroundStyle(Color.lllbAccent.opacity(0.7))
+                    Text(lemma)
+                        .font(.system(size: dynSize(.title3) * scale))
+                        .foregroundStyle(Color.lllbAccent.opacity(0.7))
                     Spacer()
                     if let playlist = session.examplePlaylist {
                         Text("\(session.exampleIndex + 1)/\(playlist.count)")
-                            .font(.caption.weight(.semibold)).foregroundStyle(Color.lllbAccent.opacity(0.7))
+                            .font(.system(size: dynSize(.caption1) * scale, weight: .semibold))
+                            .foregroundStyle(Color.lllbAccent.opacity(0.7))
                     }
                 }
-                .padding(.bottom, 4)
+                .padding(.bottom, 4 * scale)
             }
 
             if let err = session.loadError {
@@ -554,7 +685,7 @@ struct ContentView: View {
 
             if session.showIPA, !session.isFamiliarSuppressed, !s.ipa.isEmpty {
                 Text("/ \(s.ipa) /")
-                    .font(.subheadline)
+                    .font(.system(size: dynSize(.subheadline) * scale))
                     .foregroundStyle(Color.lllbSecondaryText)
                     .multilineTextAlignment(.center)
             }
@@ -562,15 +693,16 @@ struct ContentView: View {
             let sentenceTr = s.translation.resolvedTranslation(nativeLanguage: session.nativeLanguage)
             if session.showTranslation, !session.isFamiliarSuppressed, !sentenceTr.isEmpty {
                 Text(sentenceTr)
-                    .font(.headline)
+                    .font(.system(size: dynSize(.headline) * scale, weight: .semibold))
                     .foregroundStyle(Color.lllbSecondaryText)
                     .multilineTextAlignment(.center)
             }
 
-            TokenFlowLayout(spacing: 10, runSpacing: 14) {
+            TokenFlowLayout(spacing: 10 * scale, runSpacing: 14 * scale) {
                 ForEach(Array(s.tokens.enumerated()), id: \.offset) { idx, token in
                     tokenChip(token: token, index: idx,
-                              highlighted: idx == session.narration.highlightedTokenIndex)
+                              highlighted: idx == session.narration.highlightedTokenIndex,
+                              scale: scale)
                 }
             }
             .frame(maxWidth: .infinity)
@@ -580,7 +712,7 @@ struct ContentView: View {
     // MARK: - Token chip
 
     @ViewBuilder
-    private func tokenChip(token: TokenChunk, index: Int, highlighted: Bool) -> some View {
+    private func tokenChip(token: TokenChunk, index: Int, highlighted: Bool, scale: CGFloat) -> some View {
         let display            = token.text.trimmingCharacters(in: .whitespaces)
         let showEmoji          = session.showImage && !token.emoji.isEmpty
         let showFallbackText   = !showEmoji && !display.isEmpty
@@ -600,17 +732,19 @@ struct ContentView: View {
         let chipStrokeWidth: CGFloat = isFocusedToken ? 1.8 : highlighted ? 1.5 : 0.5
         let spellingColor: Color     = Color.primary
 
-        VStack(alignment: .center, spacing: 6) {
+        VStack(alignment: .center, spacing: 6 * scale) {
             if showEmoji {
-                Text(token.emoji).font(.system(size: 44))
+                Text(token.emoji).font(.system(size: 44 * scale))
             }
             if showFallbackText && !showSpell {
-                Text(display).font(.system(size: 44))
+                Text(display).font(.system(size: 44 * scale))
                     .foregroundStyle(Color.lllbSecondaryText)
+                    .lineLimit(1)
+                    .minimumScaleFactor(0.5)
             }
             if showSpell {
                 Text(display)
-                    .font(.title3.weight(.medium))                  // §3: medium weight
+                    .font(.system(size: dynSize(.title3) * scale, weight: .medium))   // §3: medium weight
                     .foregroundStyle(spellingColor)
                     .multilineTextAlignment(.center)
                     .lineLimit(1)
@@ -618,21 +752,21 @@ struct ContentView: View {
             }
             if showTokIPA, let ipa = token.ipa {
                 Text("/\(ipa)/")
-                    .font(.caption).italic()                        // §3: italic IPA
+                    .font(.system(size: dynSize(.caption1) * scale).italic())          // §3: italic IPA
                     .foregroundStyle(Color.lllbSecondaryText)
                     .lineLimit(1)
                     .minimumScaleFactor(0.7)
             }
             if showTokTr {
                 Text(token.translation.resolvedTranslation(nativeLanguage: session.nativeLanguage))
-                    .font(.caption)
+                    .font(.system(size: dynSize(.caption1) * scale))
                     .foregroundStyle(Color.lllbSecondaryText)
                     .lineLimit(1)
                     .minimumScaleFactor(0.7)
             }
         }
-        .padding(.horizontal, 12)
-        .padding(.vertical, 10)
+        .padding(.horizontal, 12 * scale)
+        .padding(.vertical, 10 * scale)
         .background(RoundedRectangle(cornerRadius: 12).fill(chipBg))
         .overlay(RoundedRectangle(cornerRadius: 12).stroke(chipStroke, lineWidth: chipStrokeWidth))
         .simultaneousGesture(
@@ -653,9 +787,9 @@ struct ContentView: View {
             else        { session.activateTag(tag.name) }
         } label: {
             Text(tag.name)
-                .font(.system(size: 10, weight: .medium))
-                .padding(.horizontal, 7)
-                .padding(.vertical, 3)
+                .font(.system(size: 12, weight: .medium))
+                .padding(.horizontal, 10)
+                .padding(.vertical, 5)
                 .foregroundStyle(isActive ? Color.lllbAccent : Color.lllbSecondaryText)
                 .background(isActive ? Color.lllbAccent.opacity(0.10) : Color.lllbTagBg)
                 .clipShape(Capsule())
