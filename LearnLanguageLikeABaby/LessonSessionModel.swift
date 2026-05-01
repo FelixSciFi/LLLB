@@ -172,8 +172,6 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     @Published var masteredIDs:          Set<String> = []
     @Published var laterIDs:             Set<String> = []
     var archivedIDs: Set<String> { masteredIDs.union(laterIDs) }
-    @Published var feedbackMarkedIDs:   Set<String> = []
-    @Published var feedbackDeletedIDs:  Set<String> = []
     @Published var familiarIDs:         Set<String> = []
 
     /// Sentence IDs in the user's active pool, ordered by entry time (oldest first).
@@ -210,8 +208,6 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     private var masteredStorageKey:          String { "masteredIDs_\(config.id)" }
     private var laterStorageKey:             String { "laterIDs_\(config.id)" }
     private var soldStorageKey:             String { "soldIDs_\(config.id)" }
-    private var feedbackMarkedStorageKey:   String { "feedbackMarkedIDs_\(config.id)" }
-    private var feedbackDeletedStorageKey:  String { "feedbackDeletedIDs_\(config.id)" }
     private var favoritesStorageKey:        String { "favoritedIDs_\(config.id)" }
     private var librarySelectionStorageKey: String { "selectedLibraries_\(config.id)" }
     /// Stores which CEFR levels were known last time; new levels detected by diffing against this.
@@ -289,8 +285,6 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         loadFamiliar()
         loadTrashed()
         loadSold()
-        loadFeedbackMarked()
-        loadFeedbackDeleted()
         loadPlayCounts()
         loadPool()
         loadPendingUnlock()
@@ -346,8 +340,6 @@ final class LessonSessionModel: ObservableObject, Identifiable {
             guard poolSet.contains(sentence.id)             else { return false }
             guard selectedLibraries.contains(sentence.cefr) else { return false }
             guard !archivedIDs.contains(sentence.id)        else { return false }
-            guard !feedbackMarkedIDs.contains(sentence.id)  else { return false }
-            guard !feedbackDeletedIDs.contains(sentence.id) else { return false }
             return true
         }
     }
@@ -713,12 +705,10 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     }
 
     func activateTag(_ name: String) {
-        // Tag playlists bypass lemma-ownership filtering — show all tagged sentences
-        // that are CEFR-eligible and not trashed/deleted.
+        // Tag playlists show all tagged sentences that are CEFR-eligible and not archived.
         let tagSentences = mainSentences.filter { s in
             guard selectedLibraries.contains(s.cefr) else { return false }
             guard !archivedIDs.contains(s.id) else { return false }
-            guard !feedbackDeletedIDs.contains(s.id) else { return false }
             return s.tags.contains { $0.name == name }
         }
         guard !tagSentences.isEmpty else { return }
@@ -823,36 +813,6 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     func trashedSentences() -> [LessonSentence] {
         mainSentences.filter { archivedIDs.contains($0.id) }
     }
-
-    // MARK: - Feedback
-
-    func feedbackMark() { addFeedback(to: &feedbackMarkedIDs, save: saveFeedbackMarked) }
-    func feedbackDelete() { addFeedback(to: &feedbackDeletedIDs, save: saveFeedbackDeleted) }
-
-    private func addFeedback(to set: inout Set<String>, save: () -> Void) {
-        set.insert(currentSentence.id)
-        save()
-        narration.stop(); chineseNarration.stop(); playsOnCurrent = 0
-        pickNextMainSentence()
-    }
-
-    func clearFeedback() {
-        feedbackMarkedIDs.removeAll()
-        feedbackDeletedIDs.removeAll()
-        saveFeedbackMarked()
-        saveFeedbackDeleted()
-    }
-
-    func feedbackReport() -> String {
-        let marked  = feedbackMarkedIDs.sorted().joined(separator: "\n")
-        let deleted = feedbackDeletedIDs.sorted().joined(separator: "\n")
-        var parts: [String] = []
-        if !feedbackMarkedIDs.isEmpty  { parts.append("[标记]\n\(marked)") }
-        if !feedbackDeletedIDs.isEmpty { parts.append("[删除]\n\(deleted)") }
-        return parts.joined(separator: "\n\n")
-    }
-
-    var hasFeedback: Bool { !feedbackMarkedIDs.isEmpty || !feedbackDeletedIDs.isEmpty }
 
     // MARK: - Library selection
 
@@ -959,16 +919,19 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         var inPool   = Set(pool)
         var stagedIDs: [String] = []
 
-        let poolSnapshot = poolSentences
+        // Distribution signal = pool + archived (mastered + later). Counting archived
+        // prevents a self-reinforcing drift toward whatever level you DON'T archive
+        // (e.g., A1 mastering faster than A2 would otherwise tilt picks to A2 over time).
+        // Pending-unlock IDs are intentionally excluded — user hasn't confirmed them yet.
+        let snapshot = poolSentences + mainSentences.filter { archivedIDs.contains($0.id) }
 
         for _ in 0..<quota {
             let candidates = mainSentences.filter {
                 !inPool.contains($0.id)
                 && !archivedIDs.contains($0.id)
-                && !feedbackDeletedIDs.contains($0.id)
                 && !soldIDs.contains($0.id)
             }
-            guard let picked = unlockSelector.pickNext(pool: poolSnapshot, candidates: candidates) else { break }
+            guard let picked = unlockSelector.pickNext(pool: snapshot, candidates: candidates) else { break }
 
             for id in expandTagGroup(for: picked) where !inPool.contains(id) {
                 inPool.insert(id)
@@ -1014,7 +977,7 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     }
 
     /// If `sentence` carries an indexed (ordered content) tag, return all sentences
-    /// in that tag group sorted by `tag.index`, excluding archived/feedback-deleted.
+    /// in that tag group sorted by `tag.index`, excluding archived ones.
     /// Otherwise returns just the input sentence's ID.
     private func expandTagGroup(for sentence: LessonSentence) -> [String] {
         guard let indexedTag = sentence.tags.first(where: { $0.index != nil }) else {
@@ -1024,7 +987,6 @@ final class LessonSessionModel: ObservableObject, Identifiable {
             .filter { s in
                 s.tags.contains { $0.name == indexedTag.name && $0.index != nil }
                 && !archivedIDs.contains(s.id)
-                && !feedbackDeletedIDs.contains(s.id)
             }
             .sorted { a, b in
                 let ai = a.tags.first(where: { $0.name == indexedTag.name })?.index ?? Int.max
@@ -1034,15 +996,14 @@ final class LessonSessionModel: ObservableObject, Identifiable {
             .map(\.id)
     }
 
-    /// Seed the pool with up to 100 random A1 sentences (excluding already-archived
-    /// or feedback-deleted) on first run. Idempotent across launches; pool growth
-    /// after this happens via archive deficit-unlock (see Step 3).
+    /// Seed the pool with up to 100 random A1 sentences (excluding already-archived)
+    /// on first run. Idempotent across launches; pool growth after this happens via
+    /// archive deficit-unlock (see Step 3).
     private func seedPoolIfNeeded() {
         guard !UserDefaults.standard.bool(forKey: poolInitializedKey) else { return }
         let candidates = mainSentences.filter {
             $0.cefr == "A1"
             && !archivedIDs.contains($0.id)
-            && !feedbackDeletedIDs.contains($0.id)
         }
         let seeded = Array(candidates.shuffled().prefix(100)).map(\.id)
         pool = seeded
@@ -1082,22 +1043,6 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         if let data = UserDefaults.standard.data(forKey: playCountsStorageKey),
            let dict = try? JSONDecoder().decode([String: Int].self, from: data) {
             lifetimePlayCounts = dict
-        }
-    }
-    private func saveFeedbackMarked() {
-        UserDefaults.standard.set(Array(feedbackMarkedIDs), forKey: feedbackMarkedStorageKey)
-    }
-    private func loadFeedbackMarked() {
-        if let arr = UserDefaults.standard.stringArray(forKey: feedbackMarkedStorageKey) {
-            feedbackMarkedIDs = Set(arr)
-        }
-    }
-    private func saveFeedbackDeleted() {
-        UserDefaults.standard.set(Array(feedbackDeletedIDs), forKey: feedbackDeletedStorageKey)
-    }
-    private func loadFeedbackDeleted() {
-        if let arr = UserDefaults.standard.stringArray(forKey: feedbackDeletedStorageKey) {
-            feedbackDeletedIDs = Set(arr)
         }
     }
 }
