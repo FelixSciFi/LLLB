@@ -76,9 +76,44 @@ final class LessonSessionModel: ObservableObject, Identifiable {
             .map { LibraryOption(id: $0, name: $0) }
     }
 
-    @Published var mainSentences:   [LessonSentence] = []
+    @Published var mainSentences:   [LessonSentence] = [] {
+        didSet { recomputeMyAssetsCache() }
+    }
     @Published var wordTable:       [WordEntry]       = []
-    @Published var selectedLibraries: Set<String>
+    @Published var selectedLibraries: Set<String> {
+        didSet { recomputeMyAssetsCache() }
+    }
+
+    /// Cached results for `MyAssetsView` (Profile → 我的词句).
+    /// Recomputed only when one of the dependencies (mainSentences, pool,
+    /// masteredIDs, laterIDs, selectedLibraries) actually changes — not on
+    /// every body render. Call sites in core playback still use the
+    /// `filteredSentences()` function form, since they're outside the hot
+    /// SwiftUI body path.
+    @Published private(set) var filteredPool:   [LessonSentence] = []
+    @Published private(set) var masteredList:   [LessonSentence] = []
+    @Published private(set) var laterList:      [LessonSentence] = []
+
+    private func recomputeMyAssetsCache() {
+        let poolSet = Set(pool)
+        var filtered: [LessonSentence] = []
+        var mastered: [LessonSentence] = []
+        var later:    [LessonSentence] = []
+        for s in mainSentences {
+            let isMastered = masteredIDs.contains(s.id)
+            let isLater    = laterIDs.contains(s.id)
+            if isMastered { mastered.append(s) }
+            if isLater    { later.append(s) }
+            if poolSet.contains(s.id)
+                && selectedLibraries.contains(s.cefr)
+                && !isMastered && !isLater {
+                filtered.append(s)
+            }
+        }
+        filteredPool = filtered
+        masteredList = mastered
+        laterList    = later
+    }
 
     /// Current sentence on the main track (not example / favorite playlist).
     @Published var currentMainSentence: LessonSentence? = nil {
@@ -132,6 +167,13 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         }
     }
 
+    /// Stroke-writer toggle (zh learning mode only). Persisted globally per
+    /// learning language; the rendering decision still gates per-sentence
+    /// via StrokeWriterFeature.canRender.
+    @Published var writeMode: Bool {
+        didSet { UserDefaults.standard.set(writeMode, forKey: "writeMode_\(config.id)") }
+    }
+
     /// Lifetime play count per sentence ID (persisted).
     @Published var lifetimePlayCounts: [String: Int] = [:]
 
@@ -166,14 +208,20 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     @Published var activatedTag: String? = nil
     private var isRandomTagMode: Bool = false
 
-    @Published var masteredIDs:          Set<String> = []
-    @Published var laterIDs:             Set<String> = []
+    @Published var masteredIDs:          Set<String> = [] {
+        didSet { recomputeMyAssetsCache() }
+    }
+    @Published var laterIDs:             Set<String> = [] {
+        didSet { recomputeMyAssetsCache() }
+    }
     var archivedIDs: Set<String> { masteredIDs.union(laterIDs) }
     @Published var familiarIDs:         Set<String> = []
 
     /// Sentence IDs in the user's active pool, ordered by entry time (oldest first).
     /// Acts like a music playlist: archive removes, restore appends, deficit-unlock appends.
-    @Published var pool: [String] = []
+    @Published var pool: [String] = [] {
+        didSet { recomputeMyAssetsCache() }
+    }
 
     /// Candidate groups offered to the user after archive: each inner `[String]`
     /// is one selectable card (single sentence = 1 ID; tag group = N IDs that
@@ -261,6 +309,7 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         _showIPA                = Published(initialValue: Self.loadBool(d: d, key: "showIPA_\(lid)", default: true))
         _showTranslation        = Published(initialValue: Self.loadBool(d: d, key: "showTranslation_\(lid)", default: true))
         _spellMode              = Published(initialValue: Self.loadBool(d: d, key: "spellMode_\(lid)", default: true))
+        _writeMode              = Published(initialValue: Self.loadBool(d: d, key: "writeMode_\(lid)", default: true))
         let rawMode = d.string(forKey: "translationPlayback_\(lid)")
             ?? (d.bool(forKey: "chineseReading_\(lid)") ? "after" : "after")
         _translationPlaybackMode = Published(initialValue: TranslationPlaybackMode(rawValue: rawMode) ?? .after)
@@ -381,8 +430,6 @@ final class LessonSessionModel: ObservableObject, Identifiable {
             wordTable     = (try? SentenceLibrary.loadWordTable(language: config.id)) ?? []
             loadError     = nil
             loadLibrarySelection()
-            let f = filteredSentences().count
-            print("[\(config.id)] filteredSentences: \(f) / mainSentences: \(mainSentences.count) pool: \(pool.count) placementShown: \(wasPlacementShown)")
         } catch {
             if let de = error as? DecodingError {
                 switch de {
@@ -415,7 +462,7 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         if playsOnCurrent >= total - 1 {
             narration.speakConnected(currentSentence)
         } else {
-            let shouldSpell = spellMode && playsOnCurrent == 0 && !familiarIDs.contains(currentSentence.id)
+            let shouldSpell = spellMode && playsOnCurrent == 0 && !familiarIDs.contains(currentSentence.id) && config.id != "zh"
             narration.speak(currentSentence, spellFirst: shouldSpell)
         }
     }
@@ -612,17 +659,22 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     // MARK: - Sentence navigation
 
     private func pickNextMainSentence() {
-        // If there's already a future entry in the playlist, just advance to it
-        if mainPlaylistIndex < mainPlaylist.count - 1 {
+        // Walk forward through any pre-existing future entries, skipping any
+        // that have since become invalid (archived, removed from library).
+        // Without this skip, a sentence the user just archived can resurface
+        // when they swipe to the next one.
+        while mainPlaylistIndex < mainPlaylist.count - 1 {
             mainPlaylistIndex += 1
-            if let s = mainSentences.first(where: { $0.id == mainPlaylist[mainPlaylistIndex] }) {
+            let id = mainPlaylist[mainPlaylistIndex]
+            if !archivedIDs.contains(id),
+               let s = mainSentences.first(where: { $0.id == id }) {
                 currentMainSentence = s
                 beginCurrentSentence()
                 return
             }
-            // ID no longer valid (trashed etc.) — fall through to generate a new one
-            mainPlaylist.removeLast(mainPlaylist.count - mainPlaylistIndex)
-            mainPlaylistIndex = mainPlaylist.count - 1
+            // Skip — drop this stale entry from the future portion of the playlist
+            mainPlaylist.remove(at: mainPlaylistIndex)
+            mainPlaylistIndex -= 1
         }
 
         let filtered = filteredSentences()
@@ -706,12 +758,22 @@ final class LessonSessionModel: ObservableObject, Identifiable {
             if exampleIndex > 0 { exampleIndex -= 1 }
             snapshotPlayCount()
             narration.speak(ex[exampleIndex])
-        } else if mainPlaylistIndex > 0 {
-            mainPlaylistIndex -= 1
-            if let s = mainSentences.first(where: { $0.id == mainPlaylist[mainPlaylistIndex] }) {
-                currentMainSentence = s
-                snapshotPlayCount()
-                speakCurrentSentence()
+        } else {
+            // Walk back through history skipping any archived/invalid entries,
+            // and prune them from the playlist so they don't resurface again.
+            while mainPlaylistIndex > 0 {
+                let prevIdx = mainPlaylistIndex - 1
+                let id = mainPlaylist[prevIdx]
+                if !archivedIDs.contains(id),
+                   let s = mainSentences.first(where: { $0.id == id }) {
+                    mainPlaylistIndex = prevIdx
+                    currentMainSentence = s
+                    snapshotPlayCount()
+                    speakCurrentSentence()
+                    return
+                }
+                mainPlaylist.remove(at: prevIdx)
+                mainPlaylistIndex -= 1
             }
         }
     }
@@ -1040,7 +1102,6 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         pendingCandidateGroups = groups
         pendingPicksRemaining  = min(target, groups.count)
         savePendingCandidates()
-        print("[\(config.id)] offered \(groups.count) candidate group(s); user picks \(pendingPicksRemaining)")
     }
 
     /// User tapped a card — commit its sentences to the pool and decrement the picker.
@@ -1068,7 +1129,6 @@ final class LessonSessionModel: ObservableObject, Identifiable {
             pendingPicksRemaining = 0
         }
         savePendingCandidates()
-        print("[\(config.id)] picked \(chosen.count) sentence(s); remaining picks: \(pendingPicksRemaining); pool: \(pool.count)/\(poolCapacity)")
 
         // Queue picked sentences as next on the main track (skip if in voice-branch).
         guard examplePlaylist == nil else { return }
@@ -1164,7 +1224,6 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         }
         pool = seeded
         savePool()
-        print("[\(config.id)] pool seeded with \(pool.count) sentences from \(allocation)")
 
         if isActive && currentMainSentence == nil { startFresh() }
     }
@@ -1208,7 +1267,6 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         guard !added.isEmpty else { return }
         pool.append(contentsOf: added)
         savePool()
-        print("[\(config.id)] pool topped up: \(inPoolBefore) → \(pool.count) (target \(target))")
 
         if isActive && currentMainSentence == nil { startFresh() }
     }

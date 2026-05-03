@@ -62,7 +62,6 @@ final class AppModel: ObservableObject {
 
     private var cancellables = Set<AnyCancellable>()
     private var sleepTimerTask: DispatchWorkItem?
-    private var sleepTimerDisplayTick: AnyCancellable?
 
     /// Updated by RootView on every scenePhase change so Combine sinks can consult it.
     var currentScenePhase: ScenePhase = .inactive
@@ -89,17 +88,15 @@ final class AppModel: ObservableObject {
 
         // 2. Create one session per learning language
         let budget = self.playbackBudget
-        let tracker = self.usageTimeTracker
         let allSessions = LanguageConfig.learningLanguages.map { config -> LessonSessionModel in
             let s = LessonSessionModel(config: config)
             s.candyStore    = store
             s.nativeLanguage = store.nativeLanguage
-            // Soft brake: budget exhaustion stops advancement to the next sentence.
-            // Whatever's playing finishes, then pause + flag for UI to surface.
-            s.shouldContinueAfterSentence = { [weak budget, weak tracker] in
-                guard let budget, let tracker else { return true }
-                let used = tracker.todayMinutes + tracker.todayBgMinutes
-                return !budget.isExhausted(usedMinutes: used)
+            // Soft brake: cup exhaustion stops advancement to the next sentence.
+            // The current sentence finishes naturally, then pause + flag UI.
+            s.shouldContinueAfterSentence = { [weak budget] in
+                guard let budget else { return true }
+                return !budget.isExhausted()
             }
             return s
         }
@@ -130,18 +127,27 @@ final class AppModel: ObservableObject {
             for s in allSessions { s.isActive = (s.config.id == defaultID) }
         }
 
-        // 5. Forward candyStore + usageTracker changes so views re-render
+        // 5. Forward candyStore + playbackBudget changes so views observing
+        //    AppModel (RootView, ProfileView) re-render on candy balance /
+        //    cup state changes. usageTimeTracker and achievementManager are
+        //    NOT forwarded — their consumers (ContentView) observe them
+        //    directly as @ObservedObject; forwarding here would cause
+        //    ProfileView/RootView to re-render every 30s during playback
+        //    for no benefit.
         store.objectWillChange
-            .sink { [weak self] _ in self?.objectWillChange.send() }
-            .store(in: &cancellables)
-        usageTimeTracker.objectWillChange
-            .sink { [weak self] _ in self?.objectWillChange.send() }
-            .store(in: &cancellables)
-        achievementManager.objectWillChange
             .sink { [weak self] _ in self?.objectWillChange.send() }
             .store(in: &cancellables)
         playbackBudget.objectWillChange
             .sink { [weak self] _ in self?.objectWillChange.send() }
+            .store(in: &cancellables)
+
+        // Drain the coffee cup as the usage tracker accumulates play minutes.
+        // Forwards combined fg + bg minutes to the budget on every change.
+        Publishers
+            .CombineLatest(usageTimeTracker.$todayMinutes, usageTimeTracker.$todayBgMinutes)
+            .sink { [weak self] fg, bg in
+                self?.playbackBudget.sync(playMinutes: fg + bg)
+            }
             .store(in: &cancellables)
 
         // 5b. Check achievements whenever any time dimension updates (fg or bg)
@@ -247,17 +253,10 @@ final class AppModel: ObservableObject {
         // 10. Lock-screen Now Playing info
         setupNowPlayingUpdates()
 
-        // 11. Forward session trash changes so ProfileView (observing AppModel) re-renders
-        for session in allSessions {
-            session.$masteredIDs
-                .dropFirst()
-                .sink { [weak self] _ in self?.objectWillChange.send() }
-                .store(in: &cancellables)
-            session.$laterIDs
-                .dropFirst()
-                .sink { [weak self] _ in self?.objectWillChange.send() }
-                .store(in: &cancellables)
-        }
+        // 11. (Previously forwarded session.$masteredIDs / $laterIDs to AppModel
+        //     so ProfileView could see archive changes. Now MyAssetsView observes
+        //     session directly via filteredPool / masteredList / laterList, so
+        //     no forwarding needed.)
     }
 
     // MARK: - Remote commands
@@ -423,18 +422,11 @@ final class AppModel: ObservableObject {
         }
         sleepTimerTask = task
         DispatchQueue.main.asyncAfter(deadline: .now() + Double(minutes) * 60, execute: task)
-
-        // Refresh displayed countdown every second
-        sleepTimerDisplayTick = Timer.publish(every: 1, on: .main, in: .common)
-            .autoconnect()
-            .sink { [weak self] _ in self?.objectWillChange.send() }
     }
 
     func cancelSleepTimer() {
         sleepTimerTask?.cancel()
         sleepTimerTask = nil
-        sleepTimerDisplayTick?.cancel()
-        sleepTimerDisplayTick = nil
         sleepTimerFireDate = nil
     }
 

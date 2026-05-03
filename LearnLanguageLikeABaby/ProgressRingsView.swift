@@ -38,6 +38,10 @@ struct ProgressRing: View {
     let lineWidth:    CGFloat
     let trackOpacity: Double
     var isAchieved:   Bool = false
+    /// When non-nil, the arc is rendered two-tone: full-color from 0 to
+    /// `activeProgress`, lighter from there to `progress`. Used by the 2×2
+    /// overlay to encode 主动 vs 被动/3 within the same ring.
+    var activeProgress: Double? = nil
 
     @State private var pulse = false
 
@@ -45,16 +49,29 @@ struct ProgressRing: View {
         ZStack {
             Circle()
                 .stroke(color.opacity(trackOpacity), lineWidth: lineWidth)
+
+            // Total arc — lighter when two-tone (so the active overlay reads
+            // as "the deeper part") otherwise full color.
             Circle()
                 .trim(from: 0, to: CGFloat(progress.clamped(to: 0...1)))
-                .stroke(color, style: StrokeStyle(lineWidth: lineWidth, lineCap: isAchieved ? .butt : .round))
+                .stroke(
+                    activeProgress != nil ? color.opacity(0.45) : color,
+                    style: StrokeStyle(lineWidth: lineWidth, lineCap: isAchieved ? .butt : .round)
+                )
                 .rotationEffect(.degrees(startAngle - 90))
-                // Soft outer glow when there's something to collect — visible
-                // even in peripheral vision without being aggressive.
                 .shadow(
                     color: isAchieved ? color.opacity(pulse ? 0.85 : 0.25) : .clear,
                     radius: isAchieved ? (pulse ? max(4, diameter * 0.10) : 1) : 0
                 )
+
+            // Two-tone overlay: 主动 portion on top
+            if let active = activeProgress {
+                Circle()
+                    .trim(from: 0, to: CGFloat(active.clamped(to: 0...1)))
+                    .stroke(color, style: StrokeStyle(lineWidth: lineWidth, lineCap: isAchieved ? .butt : .round))
+                    .rotationEffect(.degrees(startAngle - 90))
+            }
+
             if isAchieved {
                 Circle()
                     .trim(from: 0, to: 1.0)
@@ -164,8 +181,10 @@ struct MilestoneBadge: View {
 // MARK: - Overlay (original 2×2 layout — tapping a ring drills into its catalog)
 
 struct ProgressRingsOverlay: View {
-    let progresses:     [Double]   // [today, week, month, lifetime]
-    let currentMinutes: [Int]
+    let progresses:     [Double]   // [today, week, month, lifetime] effective (active + passive/3) / target
+    let currentMinutes: [Int]      // effective minutes (matches ring big number)
+    let activeMinutes:  [Int]      // raw active per dimension
+    let passiveMinutes: [Int]      // raw passive per dimension
     let targetMinutes:  [Int?]     // nil = maxed out
     let nativeLanguage: String
     @ObservedObject var achievementManager: AchievementManager
@@ -209,22 +228,37 @@ struct ProgressRingsOverlay: View {
         }
     }
 
-    // MARK: 2×2 grid (unchanged from the original)
+    // MARK: 2×2 grid
 
     private var gridCard: some View {
-        VStack(spacing: 12) {
-            HStack(spacing: 12) {
-                ringCell(0)
-                ringCell(1)
+        VStack(spacing: 14) {
+            VStack(spacing: 12) {
+                HStack(spacing: 12) {
+                    ringCell(0)
+                    ringCell(1)
+                }
+                HStack(spacing: 12) {
+                    ringCell(2)
+                    ringCell(3)
+                }
             }
-            HStack(spacing: 12) {
-                ringCell(2)
-                ringCell(3)
-            }
+            // Footer: explains the deep / light arc encoding.
+            Text(L("学习时间 = 主动 + 被动 ÷ 3",
+                   "Learning time = active + passive ÷ 3",
+                   nativeLanguage: nativeLanguage))
+                .font(.system(size: 10))
+                .foregroundStyle(.secondary.opacity(0.75))
         }
         .padding(24)
         .background(.regularMaterial, in: RoundedRectangle(cornerRadius: 32, style: .continuous))
         .onTapGesture {}   // swallow so background tap-to-dismiss doesn't fire
+    }
+
+    /// active / threshold for the two-tone arc. Falls back to total progress
+    /// when threshold is unknown (max-out state).
+    private func activeProgressForRing(_ i: Int) -> Double {
+        guard let target = targetMinutes[i], target > 0 else { return progresses[i] }
+        return min(progresses[i], Double(activeMinutes[i]) / Double(target))
     }
 
     @ViewBuilder
@@ -235,14 +269,15 @@ struct ProgressRingsOverlay: View {
         } label: {
             ZStack {
                 ProgressRing(
-                    progress:     progresses[i],
-                    color:        Color.lllbRingColors[i],
-                    startAngle:   0,
-                    diameter:     diameter,
-                    lineWidth:    lineWidth,
-                    trackOpacity: trackOpacity
+                    progress:       progresses[i],
+                    color:          Color.lllbRingColors[i],
+                    startAngle:     0,
+                    diameter:       diameter,
+                    lineWidth:      lineWidth,
+                    trackOpacity:   trackOpacity,
+                    activeProgress: activeProgressForRing(i)
                 )
-                VStack(spacing: 3) {
+                VStack(spacing: 2) {
                     Text(labels[i])
                         .font(.system(size: 11))
                         .foregroundStyle(Color.secondary)
@@ -252,6 +287,12 @@ struct ProgressRingsOverlay: View {
                     Text(formatTarget(targetMinutes[i]))
                         .font(.system(size: 11))
                         .foregroundStyle(Color.secondary.opacity(0.7))
+                    // Per-ring active / passive breakdown — small, annotation-only.
+                    Text("\(L("主", "A", nativeLanguage: nativeLanguage)) \(activeMinutes[i]) · \(L("被", "P", nativeLanguage: nativeLanguage)) \(passiveMinutes[i])")
+                        .font(.system(size: 9, weight: .medium, design: .rounded))
+                        .foregroundStyle(.secondary.opacity(0.7))
+                        .monospacedDigit()
+                        .padding(.top, 1)
                 }
             }
             .frame(width: diameter, height: diameter)
@@ -324,11 +365,12 @@ struct ProgressRingsOverlay: View {
     // MARK: Formatters (unchanged)
 
     private func formatValue(_ minutes: Int) -> String {
-        if minutes <= 0  { return "0" }
-        if minutes < 60  { return "\(minutes)" }
+        let minLabel = L("分", "min", nativeLanguage: nativeLanguage)
+        if minutes <= 0  { return "0 \(minLabel)" }
+        if minutes < 60  { return "\(minutes) \(minLabel)" }
         let hours = Double(minutes) / 60.0
-        if minutes < 600 { return String(format: "%.1f", hours) }
-        return "\(minutes / 60)"
+        if minutes < 600 { return String(format: "%.1f h", hours) }
+        return "\(minutes / 60) h"
     }
 
     private func formatTarget(_ minutes: Int?) -> String {

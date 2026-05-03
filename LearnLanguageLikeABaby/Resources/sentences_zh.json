@@ -200,6 +200,86 @@
           "emoji": "🔍"
         }
       ]
+    },
+    {
+      "id": "a1b2c3d4-0007-0000-0000-000000000007",
+      "text": "你好。",
+      "ipa": "nǐ hǎo",
+      "translation": {"zh": "你好。", "en": "Hello."},
+      "cefr": "HSK1",
+      "tokens": [
+        {
+          "text": "你好",
+          "lemma": "你好",
+          "ipa": "nǐ hǎo",
+          "translation": {"zh": "你好", "en": "hello"},
+          "emoji": "👋"
+        }
+      ]
+    },
+    {
+      "id": "a1b2c3d4-0008-0000-0000-000000000008",
+      "text": "谢谢。",
+      "ipa": "xiè xie",
+      "translation": {"zh": "谢谢。", "en": "Thanks."},
+      "cefr": "HSK1",
+      "tokens": [
+        {
+          "text": "谢谢",
+          "lemma": "谢谢",
+          "ipa": "xiè xie",
+          "translation": {"zh": "谢谢", "en": "thank you"},
+          "emoji": "🙏"
+        }
+      ]
+    },
+    {
+      "id": "a1b2c3d4-0009-0000-0000-000000000009",
+      "text": "再见。",
+      "ipa": "zài jiàn",
+      "translation": {"zh": "再见。", "en": "Goodbye."},
+      "cefr": "HSK1",
+      "tokens": [
+        {
+          "text": "再见",
+          "lemma": "再见",
+          "ipa": "zài jiàn",
+          "translation": {"zh": "再见", "en": "goodbye"},
+          "emoji": "👋"
+        }
+      ]
+    },
+    {
+      "id": "a1b2c3d4-0010-0000-0000-000000000010",
+      "text": "早上好。",
+      "ipa": "zǎo shang hǎo",
+      "translation": {"zh": "早上好。", "en": "Good morning."},
+      "cefr": "HSK1",
+      "tokens": [
+        {
+          "text": "早上好",
+          "lemma": "早上好",
+          "ipa": "zǎo shang hǎo",
+          "translation": {"zh": "早上好", "en": "good morning"},
+          "emoji": "🌅"
+        }
+      ]
+    },
+    {
+      "id": "a1b2c3d4-0011-0000-0000-000000000011",
+      "text": "对不起。",
+      "ipa": "duì bu qǐ",
+      "translation": {"zh": "对不起。", "en": "Sorry."},
+      "cefr": "HSK1",
+      "tokens": [
+        {
+          "text": "对不起",
+          "lemma": "对不起",
+          "ipa": "duì bu qǐ",
+          "translation": {"zh": "对不起", "en": "sorry"},
+          "emoji": "😔"
+        }
+      ]
     }
   ]
 }

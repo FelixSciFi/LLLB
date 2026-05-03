@@ -29,7 +29,6 @@ struct RootView: View {
         ContentView(
             session:             appModel.activeSession,
             showProfile:         $showProfile,
-            streakDays:          appModel.usageTimeTracker.streakDays,
             candyBalance:        appModel.candyStore.candyBalance,
             usageTracker:        appModel.usageTimeTracker,
             achievementManager:  appModel.achievementManager,
@@ -39,14 +38,32 @@ struct RootView: View {
                 appModel.achievementManager.collectPending(candyStore: appModel.candyStore)
             },
             onUseCandyForRefill: {
-                guard appModel.candyStore.spendCandy(PlaybackBudget.refillCandyCost) else { return }
-                appModel.playbackBudget.addBoughtMinutes(PlaybackBudget.refillMinutes)
+                guard appModel.playbackBudget.canRefillSingle,
+                      appModel.candyStore.spendCandy(PlaybackBudget.refillCandyCost)
+                else { return }
+                appModel.playbackBudget.refillSingle()
+                appModel.activeSession.resume()
+            },
+            onTopUpForRefill: { candyCost in
+                guard candyCost > 0,
+                      appModel.playbackBudget.canTopUp,
+                      appModel.candyStore.spendCandy(candyCost)
+                else { return }
+                appModel.playbackBudget.topUpToFull()
+                appModel.activeSession.resume()
+            },
+            onWatchAdForRefill: {
+                // AdMob not wired yet — placeholder runs the same refill path
+                // a real rewarded-ad callback would. Replace with the actual
+                // ad-completion handler once SDK is integrated.
+                guard appModel.playbackBudget.canRefillSingle else { return }
+                appModel.playbackBudget.refillSingle()
                 appModel.activeSession.resume()
             },
             onOpenSubscribe: {
                 // Paywall + StoreKit not wired yet. For now, route to Profile
-                // where the developer-only premium toggle lives so QA can test
-                // both states end-to-end.
+                // where the developer-only premium toggle lives so QA can flip
+                // the cup state to ∞ end-to-end.
                 showProfile = true
             }
         )

@@ -14,7 +14,6 @@ private func dynSize(_ style: UIFont.TextStyle) -> CGFloat {
 struct ContentView: View {
     @ObservedObject var session: LessonSessionModel
     @Binding var showProfile: Bool
-    var streakDays:         Int = 0
     var candyBalance:       Int = 0
     @ObservedObject var usageTracker:       UsageTimeTracker   = .init()
     @ObservedObject var achievementManager: AchievementManager = .init()
@@ -22,6 +21,8 @@ struct ContentView: View {
     var onboardingCompleted: Bool = true
     var onCollectMilestones: () -> Void = {}
     var onUseCandyForRefill: () -> Void = {}
+    var onTopUpForRefill:    (Int) -> Void = { _ in }
+    var onWatchAdForRefill:  () -> Void = {}
     var onOpenSubscribe:     () -> Void = {}
     @State private var showLibraryPicker  = false
     @State private var showSpeedPopover   = false
@@ -30,7 +31,6 @@ struct ContentView: View {
     @State private var showRingsOverlay   = false
     @State private var showCollectCard    = false
     @State private var showCelebration    = false
-    @State private var showCupPeek        = false
     @State private var showRefillMenu     = false
     @State private var placementModel:    PlacementTestModel? = nil
 
@@ -124,6 +124,7 @@ struct ContentView: View {
                                 .padding(14)
                                 .background(.ultraThinMaterial, in: Circle())
                         }
+                        .buttonStyle(.plain)
                         .padding(.bottom, 32)
                     }
                 }
@@ -142,6 +143,7 @@ struct ContentView: View {
                                     .background(Color.lllbChipBg, in: Circle())
                                     .overlay(Circle().stroke(Color.lllbChipStroke, lineWidth: 0.5))
                             }
+                            .buttonStyle(.plain)
                             .padding(.trailing, 20)
                             .padding(.bottom, 32)
                         }
@@ -234,6 +236,14 @@ struct ContentView: View {
 
                 // ── Progress rings overlay ──────────────────────────────────────
                 if showRingsOverlay {
+                    let activeMins:  [Int] = [
+                        usageTracker.todayMinutes,    usageTracker.thisWeekMinutes,
+                        usageTracker.thisMonthMinutes, usageTracker.allTimeMinutes,
+                    ]
+                    let passiveMins: [Int] = [
+                        usageTracker.todayBgMinutes,    usageTracker.thisWeekBgMinutes,
+                        usageTracker.thisMonthBgMinutes, usageTracker.allTimeBgMinutes,
+                    ]
                     ProgressRingsOverlay(
                         progresses:     [
                             achievementManager.progress(for: .daily,    currentMinutes: effectiveMinutes[0]),
@@ -242,6 +252,8 @@ struct ContentView: View {
                             achievementManager.progress(for: .lifetime, currentMinutes: effectiveMinutes[3]),
                         ],
                         currentMinutes: effectiveMinutes,
+                        activeMinutes:  activeMins,
+                        passiveMinutes: passiveMins,
                         targetMinutes:  [
                             achievementManager.nextThreshold(for: .daily,    currentMinutes: effectiveMinutes[0]),
                             achievementManager.nextThreshold(for: .weekly,   currentMinutes: effectiveMinutes[1]),
@@ -342,17 +354,12 @@ struct ContentView: View {
 
     // MARK: - Top bar
 
-    private var usedPlaybackMinutes: Int {
-        usageTracker.todayMinutes + usageTracker.todayBgMinutes
-    }
-
     private var topBar: some View {
         HStack(spacing: 10) {
+            coffeeCupButton
             streakLabel
             CandyBalanceLabel(balance: candyBalance)
             Spacer()
-            coffeeCupButton
-                .padding(.trailing, 4)
             Button {
                 Haptics.light()
                 if achievementManager.pendingMilestones.isEmpty {
@@ -618,6 +625,15 @@ struct ContentView: View {
                             .padding(.trailing, 6)
                     }
                 }
+            } else if StrokeWriterFeature.shouldShowButton(isChinese: true) {
+                let canRender = StrokeWriterFeature.canRender(
+                    text: session.currentSentence.tokens.first?.text ?? "",
+                    tokenCount: session.currentSentence.tokens.count,
+                    isChinese: true
+                )
+                toggleCell(L("书写", "Write", nativeLanguage: nl), icon: "pencil.tip", on: $session.writeMode)
+                    .opacity(canRender ? 1.0 : 0.4)
+                    .allowsHitTesting(canRender)
             }
 
             let isFav      = session.favoritedIDs.contains(session.currentSentence.id)
@@ -908,6 +924,27 @@ struct ContentView: View {
                         .minimumScaleFactor(0.6)
                 }
             }
+            if session.config.id == "zh"
+                && session.writeMode
+                && !familiar
+                && session.currentSentence.tokens.count == 1
+                && StrokeWriterFeature.canRender(text: display, tokenCount: 1, isChinese: true) {
+                let trText = session.currentSentence.tokens
+                    .map { $0.translation.resolvedTranslation(nativeLanguage: session.nativeLanguage) }
+                    .joined()
+                let mode = StrokeWriterFeature.mode(
+                    text: display,
+                    tokenCount: 1,
+                    repeats: session.repeatsBeforeAdvance,
+                    hasTranslation: session.translationPlaybackMode != .off,
+                    translationCharCount: trText.count,
+                    speedMultiplier: session.speedMultiplier,
+                    isSingleLoopMode: session.playMode == .singleLoop
+                )
+                HanziStrokeView(text: display, mode: mode)
+                    .frame(height: 140 * scale)
+                    .id("\(session.currentSentence.id)-\(display)")
+            }
             if showTokIPA, let ipa = token.ipa {
                 Text("/\(ipa)/")
                     .font(.system(size: dynSize(.caption1) * scale).italic())          // §3: italic IPA
@@ -971,80 +1008,47 @@ struct ContentView: View {
 
     @ViewBuilder
     private var refillMenuOverlay: some View {
-        let nl = session.nativeLanguage
-        ZStack {
-            Color.black.opacity(0.30)
-                .ignoresSafeArea()
-                .onTapGesture { showRefillMenu = false }
-            CoffeeRefillMenu(
-                nativeLanguage: nl,
-                candyBalance:   candyBalance,
-                canAffordCandy: candyBalance >= PlaybackBudget.refillCandyCost,
-                onUseCandy: {
-                    Haptics.success()
-                    onUseCandyForRefill()
-                    showRefillMenu = false
-                },
-                onSubscribe: {
-                    Haptics.medium()
-                    showRefillMenu = false
-                    onOpenSubscribe()
-                },
-                onClose: { showRefillMenu = false }
-            )
-        }
+        CoffeeRefillMenu(
+            nativeLanguage: session.nativeLanguage,
+            candyBalance:   candyBalance,
+            cupMinutes:     playbackBudget.cupMinutes,
+            canRefillSingle: playbackBudget.canRefillSingle,
+            canTopUp:        playbackBudget.canTopUp,
+            topUpCost:       playbackBudget.topUpCost,
+            isPremium:       playbackBudget.isPremium,
+            onUseCandy: {
+                Haptics.success()
+                onUseCandyForRefill()
+                showRefillMenu = false
+            },
+            onTopUp: {
+                Haptics.success()
+                onTopUpForRefill(playbackBudget.topUpCost)
+                showRefillMenu = false
+            },
+            onWatchAd: {
+                Haptics.medium()
+                onWatchAdForRefill()
+                showRefillMenu = false
+            },
+            onSubscribe: {
+                Haptics.medium()
+                showRefillMenu = false
+                onOpenSubscribe()
+            },
+            onClose: { showRefillMenu = false }
+        )
     }
 
     // MARK: - Coffee cup (playback budget)
 
     private var coffeeCupButton: some View {
-        let progress = playbackBudget.progress(usedMinutes: usedPlaybackMinutes)
-        return CoffeeCupView(progress: progress, isPremium: playbackBudget.isPremium, size: 22)
+        return CoffeeCupView(progress: playbackBudget.progress(), isPremium: playbackBudget.isPremium, size: 26)
             .contentShape(Rectangle())
             .onTapGesture {
                 Haptics.light()
-                if playbackBudget.isPremium {
-                    showCupPeek = true
-                    DispatchQueue.main.asyncAfter(deadline: .now() + 1.8) { showCupPeek = false }
-                } else {
-                    showCupPeek = true
-                    DispatchQueue.main.asyncAfter(deadline: .now() + 1.8) { showCupPeek = false }
-                }
-            }
-            .onLongPressGesture(minimumDuration: 0.4) {
-                guard !playbackBudget.isPremium else { return }
-                Haptics.medium()
                 showRefillMenu = true
             }
-            .overlay(alignment: .topTrailing) {
-                if showCupPeek {
-                    cupPeekPill
-                        .offset(x: 10, y: 28)
-                        .transition(.opacity)
-                }
-            }
-            .animation(.easeOut(duration: 0.18), value: showCupPeek)
-    }
-
-    @ViewBuilder
-    private var cupPeekPill: some View {
-        let nl = session.nativeLanguage
-        Group {
-            if playbackBudget.isPremium {
-                Text("∞")
-                    .font(.system(size: 13, weight: .bold, design: .rounded))
-            } else {
-                Text("\(usedPlaybackMinutes) / \(playbackBudget.dailyAllowance) \(L("分", "min", nativeLanguage: nl))")
-                    .font(.system(size: 11, weight: .semibold, design: .rounded))
-                    .monospacedDigit()
-            }
-        }
-        .foregroundStyle(Color.primary)
-        .padding(.horizontal, 9)
-        .padding(.vertical, 5)
-        .background(.regularMaterial, in: Capsule())
-        .overlay(Capsule().stroke(Color.lllbCellStroke, lineWidth: 0.5))
-        .fixedSize()
     }
 
     // MARK: - Streak label (tiered)
@@ -1053,7 +1057,7 @@ struct ContentView: View {
     private var streakLabel: some View {
         // Visual reward grows with streak length: bigger / hotter / glowing.
         let tier: (size: CGFloat, color: Color, glow: CGFloat) = {
-            switch streakDays {
+            switch usageTracker.streakDays {
             case 0:        return (13, Color.lllbSecondaryText,  0)
             case 1...6:    return (13, Color.lllbRingColors[0],  0)   // orange
             case 7...29:   return (15, Color.lllbRingColors[0],  0)
@@ -1067,11 +1071,11 @@ struct ContentView: View {
                 .foregroundStyle(tier.color)
                 .shadow(color: tier.glow > 0 ? tier.color.opacity(0.55) : .clear,
                         radius: tier.glow)
-            Text("\(streakDays)")
+            Text("\(usageTracker.streakDays)")
                 .font(.system(size: tier.size - 1, weight: .semibold))
                 .foregroundStyle(tier.color)
                 .contentTransition(.numericText())
-                .animation(.spring(response: 0.45, dampingFraction: 0.7), value: streakDays)
+                .animation(.spring(response: 0.45, dampingFraction: 0.7), value: usageTracker.streakDays)
         }
     }
 }

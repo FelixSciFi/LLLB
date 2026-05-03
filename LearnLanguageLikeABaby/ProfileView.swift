@@ -16,64 +16,7 @@ struct ProfileView: View {
             ZStack {
                 Color.lllbBackground.ignoresSafeArea()
                 List {
-                // ── Usage stats ────────────────────────────────────────────
-                let tracker = appModel.usageTimeTracker
-                Section(
-                    header: Text(L("学习统计", "Stats", nativeLanguage: nl)),
-                    footer: Text(L(
-                        "学习时间 = 主动 + 被动 ÷ 3（被动收听效果约为主动的三分之一）",
-                        "Learning time = active + passive ÷ 3 (passive listening counts at ⅓ efficiency)",
-                        nativeLanguage: nl))
-                        .font(.caption2)
-                ) {
-                    VStack(spacing: 6) {
-                        // Column header row
-                        HStack(spacing: 0) {
-                            Color.clear.frame(width: 36)
-                            ForEach([
-                                L("今天", "Today", nativeLanguage: nl),
-                                L("本周", "Week",  nativeLanguage: nl),
-                                L("本月", "Month", nativeLanguage: nl),
-                                L("全部", "All",   nativeLanguage: nl)
-                            ], id: \.self) { col in
-                                Text(col)
-                                    .font(.caption2)
-                                    .foregroundStyle(.secondary)
-                                    .frame(maxWidth: .infinity)
-                            }
-                        }
-
-                        Divider()
-
-                        // 学习时间 row = active + passive / 3
-                        let learnMinutes: [Int] = [
-                            tracker.todayMinutes      + tracker.todayBgMinutes      / 3,
-                            tracker.thisWeekMinutes   + tracker.thisWeekBgMinutes   / 3,
-                            tracker.thisMonthMinutes  + tracker.thisMonthBgMinutes  / 3,
-                            tracker.allTimeMinutes    + tracker.allTimeBgMinutes    / 3,
-                        ]
-                        statRow(L("学时", "Time", nativeLanguage: nl), learnMinutes,
-                                nl: nl, prominent: true)
-
-                        Divider()
-
-                        // 主动 row
-                        statRow(L("主动", "Active",  nativeLanguage: nl), [
-                            tracker.todayMinutes, tracker.thisWeekMinutes,
-                            tracker.thisMonthMinutes, tracker.allTimeMinutes
-                        ], nl: nl)
-
-                        Divider()
-
-                        // 被动 row
-                        statRow(L("被动", "Passive", nativeLanguage: nl), [
-                            tracker.todayBgMinutes, tracker.thisWeekBgMinutes,
-                            tracker.thisMonthBgMinutes, tracker.allTimeBgMinutes
-                        ], nl: nl)
-                    }
-                    .padding(.vertical, 6)
-                }
-                .onAppear { tracker.refresh() }
+                // Stats moved to the 2×2 rings overlay (tap rings on home screen).
 
                 // ── Language settings ──────────────────────────────────────
                 Section(header: Text(L("语言", "Language", nativeLanguage: nl))) {
@@ -136,21 +79,11 @@ struct ProfileView: View {
                     }
                 }
 
-                // ── Balance ────────────────────────────────────────────────
-                Section {
-                    Text("🍬 \(candyStore.candyBalance) Candy")
-                        .font(.title2.weight(.semibold))
-                        .frame(maxWidth: .infinity, alignment: .leading)
-                        .listRowInsets(EdgeInsets(top: 12, leading: 16, bottom: 12, trailing: 16))
-                }
-
                 // ── My assets (我的词句) ────────────────────────────────────
                 Section {
                     NavigationLink {
                         MyAssetsView(
-                            candyStore:     candyStore,
-                            sessions:       sessions,
-                            wordTables:     wordTables,
+                            session:        appModel.activeSession,
                             nativeLanguage: nl
                         )
                     } label: {
@@ -161,8 +94,8 @@ struct ProfileView: View {
                             VStack(alignment: .leading, spacing: 2) {
                                 Text(L("我的词句", "My Collection", nativeLanguage: nl))
                                     .font(.headline)
-                                Text(L("已购词汇 · 存档句子",
-                                       "Owned words · archived sentences",
+                                Text(L("播放池 · 学会了 · 稍后学",
+                                       "Pool · Mastered · Later",
                                        nativeLanguage: nl))
                                     .font(.caption)
                                     .foregroundStyle(.secondary)
@@ -172,33 +105,9 @@ struct ProfileView: View {
                     }
                 }
 
-                // ── Word store ─────────────────────────────────────────────
-                Section {
-                    NavigationLink {
-                        StoreView(
-                            candyStore:     candyStore,
-                            sessions:       sessions,
-                            wordTables:     wordTables,
-                            nativeLanguage: nl
-                        )
-                    } label: {
-                        HStack(spacing: 12) {
-                            Image(systemName: "cart.fill")
-                                .font(.title2)
-                                .foregroundStyle(.tint)
-                            VStack(alignment: .leading, spacing: 2) {
-                                Text(L("词商城", "Word store", nativeLanguage: nl))
-                                    .font(.headline)
-                                Text(L("按语言浏览 · 购买新词",
-                                       "Browse by language · buy new words",
-                                       nativeLanguage: nl))
-                                    .font(.caption)
-                                    .foregroundStyle(.secondary)
-                            }
-                        }
-                        .padding(.vertical, 4)
-                    }
-                }
+                // ── Word store entry hidden (2026-05-03) — buy-individual-words
+                // monetization is paused. StoreView and supporting code below are
+                // intentionally retained in case the feature is revived.
 
                 // ── Playback settings ──────────────────────────────────────
                 Section(header: Text(L("播放设置", "Playback", nativeLanguage: nl))) {
@@ -216,9 +125,8 @@ struct ProfileView: View {
                     }
 
                     // Sleep timer
-                    let remaining = appModel.sleepTimerRemainingSeconds
                     Menu {
-                        if remaining != nil {
+                        if appModel.sleepTimerFireDate != nil {
                             Button(role: .destructive) {
                                 appModel.cancelSleepTimer()
                             } label: {
@@ -239,11 +147,21 @@ struct ProfileView: View {
                             Label(L("睡眠定时", "Sleep timer", nativeLanguage: nl),
                                   systemImage: "moon.zzz")
                             Spacer()
-                            if let r = remaining {
-                                let mm = r / 60, ss = r % 60
-                                Text(String(format: "%d:%02d", mm, ss))
-                                    .font(.subheadline.monospacedDigit())
-                                    .foregroundStyle(Color.lllbAccent)
+                            if appModel.sleepTimerFireDate != nil {
+                                // Self-driven 1Hz countdown — only this Text rebuilds,
+                                // not the whole ProfileView.
+                                TimelineView(.periodic(from: .now, by: 1)) { _ in
+                                    if let r = appModel.sleepTimerRemainingSeconds {
+                                        let mm = r / 60, ss = r % 60
+                                        Text(String(format: "%d:%02d", mm, ss))
+                                            .font(.subheadline.monospacedDigit())
+                                            .foregroundStyle(Color.lllbAccent)
+                                    } else {
+                                        Text(L("关", "Off", nativeLanguage: nl))
+                                            .font(.subheadline)
+                                            .foregroundStyle(.secondary)
+                                    }
+                                }
                             } else {
                                 Text(L("关", "Off", nativeLanguage: nl))
                                     .font(.subheadline)
@@ -276,39 +194,6 @@ struct ProfileView: View {
             .navigationBarTitleDisplayMode(.inline)
         }
         .tint(Color.lllbAccent)
-    }
-}
-
-// MARK: - ProfileView helpers
-
-private extension ProfileView {
-    /// Single data row: row label + 4 value cells (no repeated column labels).
-    func statRow(_ rowLabel: String, _ minuteValues: [Int],
-                 nl: String, prominent: Bool = false) -> some View {
-        HStack(spacing: 0) {
-            Text(rowLabel)
-                .font(.caption2)
-                .foregroundStyle(prominent ? .primary : .secondary)
-                .frame(width: 36, alignment: .leading)
-            ForEach(minuteValues.indices, id: \.self) { i in
-                Text(formatMinutes(minuteValues[i], nl: nl))
-                    .font(prominent ? .subheadline.weight(.bold) : .subheadline.weight(.semibold))
-                    .foregroundStyle(prominent ? .primary : .secondary)
-                    .minimumScaleFactor(0.7)
-                    .lineLimit(1)
-                    .frame(maxWidth: .infinity)
-            }
-        }
-    }
-
-    func formatMinutes(_ minutes: Int, nl: String) -> String {
-        let minUnit  = L("分", "m", nativeLanguage: nl)
-        let hourUnit = L("h", "h", nativeLanguage: nl)
-        if minutes <= 0 { return "0\(minUnit)" }
-        if minutes < 60  { return "\(minutes)\(minUnit)" }
-        let hours = Double(minutes) / 60.0
-        if hours < 10    { return String(format: "%.1f\(hourUnit)", hours) }
-        return "\(minutes / 60)\(hourUnit)"
     }
 }
 
@@ -463,292 +348,71 @@ private struct VoiceLanguageDetailView: View {
 
 // MARK: - My Assets (我的词句)
 
+/// Three-tab view for the **current learning language** only:
+/// Pool / Mastered / Later. Pool capacity stepper lives at the top of the
+/// pool tab. Per-language word ownership UI is gone (paused with word-store).
 private struct MyAssetsView: View {
-    @ObservedObject var candyStore: CandyStore
-    let sessions:       [LessonSessionModel]
-    let wordTables:     [String: [WordEntry]]
+    @ObservedObject var session: LessonSessionModel
     let nativeLanguage: String
+
+    @State private var selectedTab: Int = 0   // 0=Pool, 1=Mastered, 2=Later
+    @State private var searchText  = ""
 
     var body: some View {
         let nl = nativeLanguage
-        return List {
-            // ── My words (我的词) ──────────────────────────────────────
-            Section(header: Text(L("我的词", "My Words", nativeLanguage: nl))) {
-                ForEach(sessions) { session in
-                    let wt = wordTables[session.config.id] ?? []
-                    NavigationLink {
-                        SellWordsPageView(
-                            candyStore:     candyStore,
-                            config:         session.config,
-                            wordTable:      wt,
-                            session:        session,
-                            nativeLanguage: nl
-                        )
-                    } label: {
-                        HStack {
-                            Text(session.config.flag)
-                            Text(session.config.displayName(for: nl))
-                            Spacer()
-                            let owned = candyStore.ownedLemmas(for: session.config.id).count
-                            if owned > 0 {
-                                Text("\(owned)")
-                                    .font(.caption)
-                                    .foregroundStyle(.secondary)
-                            }
-                        }
-                    }
-                }
-            }
+        let pool     = session.filteredPool
+        let mastered = session.masteredList
+        let later    = session.laterList
 
-            // ── Play pool ──────────────────────────────────────────────
-            Section(header: Text(L("播放池", "Play Pool", nativeLanguage: nl))) {
-                ForEach(sessions) { session in
-                    let count = session.filteredSentences().count
-                    NavigationLink {
-                        PlayPoolView(session: session, nativeLanguage: nl)
-                    } label: {
-                        HStack(spacing: 12) {
-                            Image(systemName: "play.circle")
-                                .font(.title2)
-                                .foregroundStyle(.tint)
-                            VStack(alignment: .leading, spacing: 2) {
-                                Text(session.config.flag + " " + session.config.displayName(for: nl))
-                                    .font(.headline)
-                                Text(L("\(count) 句", "\(count) sentences", nativeLanguage: nl))
-                                    .font(.caption)
-                                    .foregroundStyle(
-                                        count < 20 ? .orange :
-                                        count <= 50 ? .green : .secondary
-                                    )
-                            }
-                        }
-                        .padding(.vertical, 4)
-                    }
+        ZStack {
+            Color.lllbBackground.ignoresSafeArea()
+            VStack(spacing: 0) {
+                Picker("", selection: $selectedTab) {
+                    Text(L("播放池", "Pool",     nativeLanguage: nl) + " \(pool.count)").tag(0)
+                    Text(L("学会了", "Mastered", nativeLanguage: nl) + " \(mastered.count)").tag(1)
+                    Text(L("稍后学", "Later",    nativeLanguage: nl) + " \(later.count)").tag(2)
                 }
-            }
+                .pickerStyle(.segmented)
+                .padding(.horizontal, 16)
+                .padding(.vertical, 10)
 
-            // ── Archived sentences (存档句子) ──────────────────────────
-            Section(header: Text(L("存档句子", "Archived Sentences", nativeLanguage: nl))) {
-                let archiveCount = sessions.flatMap { $0.trashedSentences() }.count  // mastered + later
-                NavigationLink {
-                    ArchiveView(sessions: sessions, nativeLanguage: nl)
-                } label: {
-                    HStack(spacing: 12) {
-                        Image(systemName: "archivebox")
-                            .font(.title2)
-                            .foregroundStyle(.tint)
-                        VStack(alignment: .leading, spacing: 2) {
-                            Text(L("存档", "Archive", nativeLanguage: nl))
-                                .font(.headline)
-                            Text(archiveCount == 0
-                                 ? L("暂无", "Empty", nativeLanguage: nl)
-                                 : L("\(archiveCount) 条句子", "\(archiveCount) sentences",
-                                     nativeLanguage: nl))
-                                .font(.caption)
-                                .foregroundStyle(.secondary)
-                        }
+                Group {
+                    switch selectedTab {
+                    case 0: poolList(pool: pool, nl: nl)
+                    case 1: archiveList(items: mastered, nl: nl)
+                    case 2: archiveList(items: later, nl: nl)
+                    default: EmptyView()
                     }
-                    .padding(.vertical, 4)
                 }
             }
+            .searchable(text: $searchText, prompt: L("搜索", "Search", nativeLanguage: nl))
         }
+        .scrollContentBackground(.hidden)
         .navigationTitle(L("我的词句", "My Collection", nativeLanguage: nl))
         .navigationBarTitleDisplayMode(.inline)
     }
-}
 
-// MARK: - Sell words page (我的词 → per language)
-
-private struct SellWordsPageView: View {
-    @ObservedObject var candyStore: CandyStore
-    let config:         LanguageConfig
-    let wordTable:      [WordEntry]
-    let session:        LessonSessionModel
-    let nativeLanguage: String
-
-    @State private var searchText      = ""
-    @State private var totalCounts:     [String: Int] = [:]
-    @State private var remainingCounts: [String: Int] = [:]
-
-    private var language: String { config.id }
-    private var ownedLemmas: Set<String> { candyStore.ownedLemmas(for: language) }
-
-    private var lemmaToEntry: [String: WordEntry] {
-        Dictionary(uniqueKeysWithValues: wordTable.map { ($0.lemma, $0) })
-    }
-
-    private var sellEntries: [WordEntry] {
-        ownedLemmas.compactMap { lemmaToEntry[$0] }.sorted { $0.rank < $1.rank }
-    }
-
-    private var filteredSellEntries: [WordEntry] {
+    private func filtered(_ items: [LessonSentence]) -> [LessonSentence] {
         let q = searchText.trimmingCharacters(in: .whitespaces).lowercased()
-        guard !q.isEmpty else { return sellEntries }
-        return sellEntries.filter {
-            $0.lemma.lowercased().contains(q)
-            || $0.translation.values.contains { $0.lowercased().contains(q) }
-        }
-    }
-
-    @ViewBuilder
-    private func sentenceCountLabel(lemma: String) -> some View {
-        let total = totalCounts[lemma] ?? 0
-        if total > 0 {
-            let rem = remainingCounts[lemma] ?? 0
-            Text("\(rem)/\(total)")
-                .font(.caption2)
-                .foregroundStyle(.tertiary)
-        }
-    }
-
-    var body: some View {
-        ZStack {
-        Color.lllbBackground.ignoresSafeArea()
-        List {
-            Section {
-                Text("🍬 \(candyStore.candyBalance) Candy")
-                    .font(.title3.weight(.semibold))
-            }
-            Section {
-                ForEach(filteredSellEntries, id: \.lemma) { entry in
-                    let refund = Int(ceil(Double(entry.rank) * 0.8))
-                    HStack(spacing: 10) {
-                        if !entry.emoji.isEmpty { Text(entry.emoji).frame(width: 24) }
-                        VStack(alignment: .leading, spacing: 2) {
-                            Text(entry.lemma).font(.body)
-                            Text(entry.translation.resolvedTranslation(nativeLanguage: nativeLanguage))
-                                .font(.caption).foregroundStyle(.secondary)
-                            sentenceCountLabel(lemma: entry.lemma)
-                        }
-                        Spacer()
-                        Text("+\(refund)🍬").font(.caption).foregroundStyle(.secondary)
-                        Button(L("出售", "Sell", nativeLanguage: nativeLanguage)) {
-                            candyStore.sellLemma(entry.lemma, language: language, price: entry.rank)
-                        }
-                        .buttonStyle(.bordered).controlSize(.small)
-                    }
-                }
-            }
-        }
-        .searchable(text: $searchText, prompt: L("搜索", "Search", nativeLanguage: nativeLanguage))
-        .task {
-            let ownedSentences = candyStore.ownedSentenceIDs(for: language)
-            var total:     [String: Int] = [:]
-            var remaining: [String: Int] = [:]
-            for sentence in session.mainSentences {
-                let isBought = ownedSentences.contains(sentence.id)
-                var seen = Set<String>()
-                for token in sentence.tokens {
-                    guard let lemma = token.lemma, !seen.contains(lemma) else { continue }
-                    seen.insert(lemma)
-                    total[lemma, default: 0] += 1
-                    if !isBought { remaining[lemma, default: 0] += 1 }
-                }
-            }
-            totalCounts     = total
-            remainingCounts = remaining
-        }
-        .scrollContentBackground(.hidden)
-        .navigationTitle(config.displayName(for: nativeLanguage))
-        .navigationBarTitleDisplayMode(.inline)
-        }
-    }
-}
-
-// MARK: - Archive sub-page
-
-private struct ArchiveView: View {
-    let sessions:       [LessonSessionModel]
-    let nativeLanguage: String
-    @State private var selectedTab = 0   // 0 = Mastered, 1 = Later
-    @State private var searchText  = ""
-
-    private func filterPairs(
-        _ pairs: [(session: LessonSessionModel, sentence: LessonSentence)],
-        query: String
-    ) -> [(session: LessonSessionModel, sentence: LessonSentence)] {
-        guard !query.isEmpty else { return pairs }
-        return pairs.filter {
-            $0.sentence.text.lowercased().contains(query)
-            || $0.sentence.translation.values.contains { $0.lowercased().contains(query) }
-        }
-    }
-
-    var body: some View {
-        let q        = searchText.trimmingCharacters(in: .whitespaces).lowercased()
-        let mastered = filterPairs(sessions.flatMap { s in s.masteredSentences().map { (session: s, sentence: $0) } }, query: q)
-        let later    = filterPairs(sessions.flatMap { s in s.laterSentences().map    { (session: s, sentence: $0) } }, query: q)
-
-        ZStack {
-        Color.lllbBackground.ignoresSafeArea()
-        VStack(spacing: 0) {
-            Picker("", selection: $selectedTab) {
-                Text(L("学会了", "Mastered", nativeLanguage: nativeLanguage) + " \(mastered.count)").tag(0)
-                Text(L("稍后学", "Learn Later", nativeLanguage: nativeLanguage) + " \(later.count)").tag(1)
-            }
-            .pickerStyle(.segmented)
-            .padding(.horizontal, 16)
-            .padding(.vertical, 10)
-
-            let items = selectedTab == 0 ? mastered : later
-            List {
-                if items.isEmpty {
-                    Text(L("暂无记录", "Nothing here yet", nativeLanguage: nativeLanguage))
-                        .foregroundStyle(.secondary)
-                } else {
-                    ForEach(items, id: \.sentence.id) { item in
-                        TrashedSentenceRow(
-                            sentence:       item.sentence,
-                            flag:           item.session.config.flag,
-                            nativeLanguage: nativeLanguage,
-                            onRestore:      { item.session.restoreSentence(id: item.sentence.id) },
-                            onSell:         { item.session.sellArchivedSentence(id: item.sentence.id) }
-                        )
-                    }
-                }
-            }
-            .listStyle(.plain)
-        }
-        .searchable(text: $searchText, prompt: L("搜索", "Search", nativeLanguage: nativeLanguage))
-        .scrollContentBackground(.hidden)
-        .navigationTitle(L("存档", "Archive", nativeLanguage: nativeLanguage))
-        .navigationBarTitleDisplayMode(.inline)
-        }
-    }
-}
-
-// MARK: - Play pool view
-
-private struct PlayPoolView: View {
-    @ObservedObject var session: LessonSessionModel
-    let nativeLanguage: String
-    @State private var searchText = ""
-
-    private var sentences: [LessonSentence] {
-        let all = session.filteredSentences()
-        let q   = searchText.trimmingCharacters(in: .whitespaces).lowercased()
-        guard !q.isEmpty else { return all }
-        return all.filter {
+        guard !q.isEmpty else { return items }
+        return items.filter {
             $0.text.lowercased().contains(q)
             || $0.translation.values.contains { $0.lowercased().contains(q) }
             || $0.cefr.lowercased().contains(q)
         }
     }
 
-    var body: some View {
-        let count = session.filteredSentences().count
-        let nl    = nativeLanguage
-        ZStack {
-        Color.lllbBackground.ignoresSafeArea()
+    @ViewBuilder
+    private func poolList(pool: [LessonSentence], nl: String) -> some View {
+        let items = filtered(pool)
         List {
             Section(footer: Text(L(
                 "推荐同时在播句子保持在 20–50 句之间，数量太少重复率高，太多则每句复习频率降低。",
                 "For best results, keep 20–50 sentences in the pool. Too few causes repetition; too many reduces review frequency.",
-                nativeLanguage: nl))
-                .font(.caption2)
+                nativeLanguage: nl)).font(.caption2)
             ) {
                 HStack {
-                    Text(L("共 \(count) 句", "\(count) sentences total", nativeLanguage: nl))
+                    Text(L("共 \(pool.count) 句", "\(pool.count) sentences total", nativeLanguage: nl))
                         .font(.subheadline)
                     Spacer()
                     Text(L("容量 \(session.poolCapacity)", "Cap \(session.poolCapacity)", nativeLanguage: nl))
@@ -758,7 +422,6 @@ private struct PlayPoolView: View {
                         .background(Color.lllbAccent.opacity(0.12))
                         .clipShape(Capsule())
                 }
-
                 Stepper(value: $session.poolCapacity, in: 20...500, step: 10) {
                     HStack {
                         Label(L("句子池容量", "Pool capacity", nativeLanguage: nl),
@@ -772,72 +435,64 @@ private struct PlayPoolView: View {
             }
 
             Section {
-                ForEach(sentences) { sentence in
-                    VStack(alignment: .leading, spacing: 3) {
-                        HStack(alignment: .top) {
-                            Text(sentence.text)
-                                .font(.body)
-                                .lineLimit(2)
-                            Spacer()
-                            Text(sentence.cefr)
-                                .font(.caption2.weight(.semibold))
-                                .foregroundStyle(.secondary)
-                                .padding(.horizontal, 6).padding(.vertical, 2)
-                                .background(Color.lllbTagBg)
-                                .clipShape(Capsule())
+                if items.isEmpty {
+                    Text(L("暂无句子", "No sentences", nativeLanguage: nl))
+                        .foregroundStyle(.secondary)
+                } else {
+                    ForEach(items) { sentence in
+                        sentenceRow(sentence, nl: nl)
+                    }
+                }
+            }
+        }
+    }
+
+    @ViewBuilder
+    private func archiveList(items: [LessonSentence], nl: String) -> some View {
+        let shown = filtered(items)
+        List {
+            if shown.isEmpty {
+                Text(L("暂无记录", "Nothing here yet", nativeLanguage: nl))
+                    .foregroundStyle(.secondary)
+            } else {
+                ForEach(shown) { sentence in
+                    HStack(spacing: 10) {
+                        VStack(alignment: .leading, spacing: 2) {
+                            Text(sentence.text).font(.body).lineLimit(2)
+                            let tr = sentence.translation.resolvedTranslation(nativeLanguage: nl)
+                            if !tr.isEmpty {
+                                Text(tr).font(.caption).foregroundStyle(.secondary).lineLimit(1)
+                            }
                         }
-                        let tr = sentence.translation.resolvedTranslation(nativeLanguage: nl)
-                        if !tr.isEmpty {
-                            Text(tr)
-                                .font(.caption)
-                                .foregroundStyle(.secondary)
-                                .lineLimit(1)
+                        Spacer()
+                        Button(L("恢复", "Restore", nativeLanguage: nl)) {
+                            session.restoreSentence(id: sentence.id)
                         }
+                        .buttonStyle(.bordered).controlSize(.small)
                     }
                     .padding(.vertical, 2)
                 }
             }
         }
-        .searchable(text: $searchText, prompt: L("搜索", "Search", nativeLanguage: nl))
-        .scrollContentBackground(.hidden)
-        .navigationTitle(session.config.flag + " " + session.config.displayName(for: nl))
-        .navigationBarTitleDisplayMode(.inline)
-        }
     }
-}
 
-// MARK: - Trashed sentence row
-
-private struct TrashedSentenceRow: View {
-    let sentence:       LessonSentence
-    let flag:           String
-    let nativeLanguage: String
-    let onRestore:      () -> Void
-    let onSell:         () -> Void
-
-    var body: some View {
-        HStack(spacing: 10) {
-            Text(flag)
-            VStack(alignment: .leading, spacing: 2) {
-                Text(sentence.text)
-                    .font(.body)
-                    .lineLimit(2)
-                let tr = sentence.translation.resolvedTranslation(nativeLanguage: nativeLanguage)
-                if !tr.isEmpty {
-                    Text(tr)
-                        .font(.caption)
-                        .foregroundStyle(.secondary)
-                        .lineLimit(1)
-                }
+    @ViewBuilder
+    private func sentenceRow(_ sentence: LessonSentence, nl: String) -> some View {
+        VStack(alignment: .leading, spacing: 3) {
+            HStack(alignment: .top) {
+                Text(sentence.text).font(.body).lineLimit(2)
+                Spacer()
+                Text(sentence.cefr)
+                    .font(.caption2.weight(.semibold))
+                    .foregroundStyle(.secondary)
+                    .padding(.horizontal, 6).padding(.vertical, 2)
+                    .background(Color.lllbTagBg)
+                    .clipShape(Capsule())
             }
-            Spacer()
-            Button(L("恢复", "Restore", nativeLanguage: nativeLanguage)) { onRestore() }
-                .buttonStyle(.bordered)
-                .controlSize(.small)
-            Button("8🍬") { onSell() }
-                .buttonStyle(.bordered)
-                .controlSize(.small)
-                .tint(Color.lllbAccent)
+            let tr = sentence.translation.resolvedTranslation(nativeLanguage: nl)
+            if !tr.isEmpty {
+                Text(tr).font(.caption).foregroundStyle(.secondary).lineLimit(1)
+            }
         }
         .padding(.vertical, 2)
     }

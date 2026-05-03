@@ -54,6 +54,10 @@
 		A100002F /* word_table_ar.json in Resources */ = {isa = PBXBuildFile; fileRef = A200002F /* word_table_ar.json */; };
 		A1000040 /* sentences_zh.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000040 /* sentences_zh.json */; };
 		A1000041 /* word_table_zh.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000041 /* word_table_zh.json */; };
+		A1000070 /* HanziStrokeData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000070 /* HanziStrokeData.swift */; };
+		A1000071 /* HanziStrokeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000071 /* HanziStrokeView.swift */; };
+		A1000072 /* StrokeWriterFeature.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000072 /* StrokeWriterFeature.swift */; };
+		A1000073 /* hanzi-3000.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000073 /* hanzi-3000.json */; };
 		A100000B /* Speech.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A200000C /* Speech.framework */; };
 		F1000001 /* LLLBWidget.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = F2000002 /* LLLBWidget.appex */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		F1000002 /* LLLBWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2000001 /* LLLBWidget.swift */; };
@@ -106,6 +110,10 @@
 		A200002E /* sentences_ar.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentences_ar.json; sourceTree = "<group>"; };
 		A200002F /* word_table_ar.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = word_table_ar.json; sourceTree = "<group>"; };
 		A2000040 /* sentences_zh.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentences_zh.json; sourceTree = "<group>"; };
+		A2000070 /* HanziStrokeData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HanziStrokeData.swift; sourceTree = "<group>"; };
+		A2000071 /* HanziStrokeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HanziStrokeView.swift; sourceTree = "<group>"; };
+		A2000072 /* StrokeWriterFeature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrokeWriterFeature.swift; sourceTree = "<group>"; };
+		A2000073 /* hanzi-3000.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "hanzi-3000.json"; sourceTree = "<group>"; };
 		A2000041 /* word_table_zh.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = word_table_zh.json; sourceTree = "<group>"; };
 		A2000008 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2000009 /* sentences_fr.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentences_fr.json; sourceTree = "<group>"; };
@@ -204,6 +212,7 @@
 				A5000004 /* Models */,
 				A5000005 /* Services */,
 				A5000006 /* Resources */,
+				A5000007 /* StrokeWriter */,
 				A2000008 /* Assets.xcassets */,
 				A200000B /* Info.plist */,
 			);
@@ -251,6 +260,25 @@
 				A2000066 /* PlaybackBudget.swift */,
 			);
 			path = Services;
+			sourceTree = "<group>";
+		};
+		A5000007 /* StrokeWriter */ = {
+			isa = PBXGroup;
+			children = (
+				A2000070 /* HanziStrokeData.swift */,
+				A2000071 /* HanziStrokeView.swift */,
+				A2000072 /* StrokeWriterFeature.swift */,
+				A5000008 /* Resources */,
+			);
+			path = StrokeWriter;
+			sourceTree = "<group>";
+		};
+		A5000008 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A2000073 /* hanzi-3000.json */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 		A5000006 /* Resources */ = {
@@ -396,6 +424,7 @@
 				A1000040 /* sentences_zh.json in Resources */,
 				A1000041 /* word_table_zh.json in Resources */,
 				A1000053 /* Raleway-Bold.ttf in Resources */,
+				A1000073 /* hanzi-3000.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -444,6 +473,9 @@
 				F1000005 /* LiveActivityManager.swift in Sources */,
 				F1000006 /* LLLBActivityAttributes.swift in Sources */,
 				F1000007 /* LLLBIntents.swift in Sources */,
+				A1000070 /* HanziStrokeData.swift in Sources */,
+				A1000071 /* HanziStrokeView.swift in Sources */,
+				A1000072 /* StrokeWriterFeature.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

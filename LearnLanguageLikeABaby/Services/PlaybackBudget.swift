@@ -1,36 +1,56 @@
 import Combine
 import Foundation
 
-/// Daily-resetting playback budget for free users. Subscribers (`isPremium`)
-/// bypass the budget entirely.
+/// Daily playback budget for free users. Premium subscribers bypass it entirely.
 ///
-/// Usage minutes are taken from `UsageTimeTracker` (foreground play +
-/// background play, full weight — both count for the free quota). On top of
-/// the free quota, users can spend candy or watch ads to add extra minutes
-/// for the day; bought minutes do NOT carry over to the next day.
+/// **Model**: a coffee cup with fixed capacity (45 min). The cup starts full
+/// each day, drains as the user plays, and can be refilled (candy / ad) up
+/// to capacity — never above. Refills near a full cup are blocked to prevent
+/// candy waste.
+///
+/// `cupMinutes` is the only piece of state we need; everything else (refill
+/// affordances, top-up cost) is derived from it. AppModel forwards the
+/// usage tracker's playback-minute totals into `sync(playMinutes:)`, which
+/// translates accumulated play time into cup drainage.
 @MainActor
 final class PlaybackBudget: ObservableObject {
 
-    /// Free playback minutes per day for non-subscribers.
+    /// Cup capacity in minutes (per-day allowance).
     static let freeBudgetMinutes: Int = 45
 
-    /// Each candy / ad refill adds this many minutes.
+    /// One refill unit (candy / ad) tops the cup up by this many minutes.
     static let refillMinutes: Int = 10
 
-    /// Cost in candy per refill.
+    /// Cost in candy of one single refill.
     static let refillCandyCost: Int = 1
 
-    /// Subscription state (stub — wire to StoreKit later).
+    /// Minimum free space (in minutes) required to enable a single refill.
+    /// Prevents wasting most of a `refillMinutes`-unit purchase near full.
+    private static let strictRefillMinSpace: Int = refillMinutes
+
+    /// Subscription state (StoreKit wiring stub).
     @Published var isPremium: Bool = false
 
-    /// Bought minutes for today (resets at the next calendar day).
-    @Published private(set) var boughtMinutesToday: Int = 0
+    /// Current liquid in the cup, 0 ... freeBudgetMinutes.
+    @Published private(set) var cupMinutes: Int
 
     private let defaults = UserDefaults.standard
-    private let keyBoughtByDay = "playback_bought_by_day_v1"
-    private let keyIsPremium   = "playback_is_premium_dev_v1"
+    private let keyCupMinutes        = "cup_minutes_v2"
+    private let keyLastSeenDay       = "cup_last_seen_day_v2"
+    private let keyLastSeenPlayMin   = "cup_last_seen_play_v2"
+    private let keyIsPremium         = "playback_is_premium_dev_v1"
+    /// Legacy keys we proactively wipe on first launch of v2 — the previous
+    /// model accumulated `bought` minutes which led to a "frozen" cup.
+    private let legacyBoughtKey      = "playback_bought_by_day_v1"
 
-    /// Current YYYY-MM-DD in user's local time zone.
+    /// `todayMinutes + todayBgMinutes` value last seen by `sync()`. Used to
+    /// compute the per-call delta to subtract from the cup.
+    private var lastSeenPlayMinutes: Int
+
+    /// The day key the cup is currently scoped to. When `sync()` notices a
+    /// new day, the cup resets to full and the baseline is rebased.
+    private var lastSeenDay: String
+
     private static let dayFormatter: DateFormatter = {
         let f = DateFormatter()
         f.calendar = Calendar(identifier: .gregorian)
@@ -43,87 +63,133 @@ final class PlaybackBudget: ObservableObject {
     private static func todayKey() -> String { dayFormatter.string(from: Date()) }
 
     init() {
-        isPremium = defaults.bool(forKey: keyIsPremium)
-        boughtMinutesToday = readBoughtMinutes(for: Self.todayKey())
+        let d = defaults
 
-        // Cross-midnight: when day rolls over, recompute bought (becomes 0 for new day).
+        // One-time migration — drop the v1 stockpile so users don't carry
+        // over the now-broken accumulated `bought` minutes.
+        if d.object(forKey: legacyBoughtKey) != nil {
+            d.removeObject(forKey: legacyBoughtKey)
+        }
+
+        let today = Self.todayKey()
+        let storedDay = d.string(forKey: keyLastSeenDay) ?? ""
+
+        if storedDay == today {
+            cupMinutes          = d.object(forKey: keyCupMinutes) as? Int ?? Self.freeBudgetMinutes
+            lastSeenPlayMinutes = d.integer(forKey: keyLastSeenPlayMin)
+            lastSeenDay         = today
+        } else {
+            // Fresh day (or first run) — full cup, baseline reset.
+            cupMinutes          = Self.freeBudgetMinutes
+            lastSeenPlayMinutes = 0
+            lastSeenDay         = today
+            persist()
+        }
+
+        isPremium = d.bool(forKey: keyIsPremium)
+
+        // Catch midnight rollover even if the app stays open.
         NotificationCenter.default.addObserver(
             forName: .NSCalendarDayChanged, object: nil, queue: .main
         ) { [weak self] _ in
-            Task { @MainActor in self?.refreshDayIfNeeded() }
+            Task { @MainActor in self?.handleDayChange() }
         }
     }
 
-    // MARK: - Queries
+    // MARK: - External sync
 
-    /// Total minutes the user can play today (free + bought).
-    var dailyAllowance: Int {
-        Self.freeBudgetMinutes + boughtMinutesToday
+    /// Called by AppModel whenever usage tracker minute totals change.
+    /// Translates accumulated play minutes into cup drainage.
+    func sync(playMinutes: Int) {
+        let today = Self.todayKey()
+
+        if today != lastSeenDay {
+            // Crossed midnight while running — reset cup, rebase the baseline
+            // so today's already-elapsed minutes don't count against it.
+            cupMinutes          = Self.freeBudgetMinutes
+            lastSeenPlayMinutes = playMinutes
+            lastSeenDay         = today
+            persist()
+            return
+        }
+
+        let delta = playMinutes - lastSeenPlayMinutes
+        guard delta > 0 else { return }
+        let drained = max(0, cupMinutes - delta)
+        if drained != cupMinutes {
+            cupMinutes = drained
+        }
+        lastSeenPlayMinutes = playMinutes
+        persist()
     }
 
-    /// Remaining minutes (clamped ≥ 0). Premium users always see Int.max.
-    func remaining(usedMinutes: Int) -> Int {
-        if isPremium { return .max }
-        return max(0, dailyAllowance - usedMinutes)
+    private func handleDayChange() {
+        // Clean midnight reset (sync() will rebase next time playMinutes arrives).
+        cupMinutes  = Self.freeBudgetMinutes
+        lastSeenDay = Self.todayKey()
+        // lastSeenPlayMinutes stays — usage tracker also resets at midnight,
+        // so the next sync delta will be correct.
+        lastSeenPlayMinutes = 0
+        persist()
     }
 
-    /// 0…1 fraction of the day's allowance still available.
-    /// Premium users always get 1 (full cup).
-    func progress(usedMinutes: Int) -> Double {
+    // MARK: - Refill API
+
+    /// Free space in the cup (minutes that could still be added).
+    var freeSpaceMinutes: Int { Self.freeBudgetMinutes - cupMinutes }
+
+    /// Strict mode: only allow a single refill if the full unit fits without waste.
+    var canRefillSingle: Bool { freeSpaceMinutes >= Self.strictRefillMinSpace }
+
+    /// Candy needed for a bulk top-up. Floors to whole candy units, so a 1-candy
+    /// purchase always buys 10 min of cup space — never partial. When less than
+    /// one full unit fits, the bulk button stays disabled (`canTopUp == false`).
+    var topUpCost: Int { freeSpaceMinutes / Self.refillMinutes }
+
+    /// True when the cup has space for at least one full bulk unit.
+    var canTopUp: Bool { topUpCost >= 1 }
+
+    /// Add a single refill (caller must have already spent the candy / shown the ad).
+    func refillSingle() {
+        guard canRefillSingle else { return }
+        cupMinutes = min(Self.freeBudgetMinutes, cupMinutes + Self.refillMinutes)
+        persist()
+    }
+
+    /// Bulk refill — adds `topUpCost * refillMinutes` minutes (always exact whole
+    /// units, capped at capacity). Caller charges `topUpCost` candy.
+    func topUpToFull() {
+        let units = topUpCost
+        guard units >= 1 else { return }
+        let added = units * Self.refillMinutes
+        cupMinutes = min(Self.freeBudgetMinutes, cupMinutes + added)
+        persist()
+    }
+
+    // MARK: - Soft-brake gate
+
+    /// Returns the current cup level — used by views and the soft-brake gate.
+    func remaining() -> Int { isPremium ? .max : cupMinutes }
+
+    func progress() -> Double {
         if isPremium { return 1 }
-        let rem = Double(remaining(usedMinutes: usedMinutes))
-        let total = Double(dailyAllowance)
-        guard total > 0 else { return 0 }
-        return max(0, min(1, rem / total))
+        return max(0, min(1, Double(cupMinutes) / Double(Self.freeBudgetMinutes)))
     }
 
-    /// True when the budget is fully drained and we should soft-brake.
-    func isExhausted(usedMinutes: Int) -> Bool {
-        !isPremium && remaining(usedMinutes: usedMinutes) <= 0
-    }
+    func isExhausted() -> Bool { !isPremium && cupMinutes <= 0 }
 
-    // MARK: - Mutations
+    // MARK: - Premium toggle (dev only for now)
 
-    /// Adds bought minutes to today's pot. Persists per-day so a fresh day
-    /// starts at 0 automatically (yesterday's bought minutes are dropped).
-    func addBoughtMinutes(_ amount: Int) {
-        guard amount > 0 else { return }
-        let key = Self.todayKey()
-        let current = readBoughtMinutes(for: key)
-        let next = current + amount
-        writeBoughtMinutes(next, for: key)
-        boughtMinutesToday = next
-    }
-
-    /// Toggle premium for development / testing. Wire to StoreKit when ready.
     func setPremium(_ value: Bool) {
         isPremium = value
         defaults.set(value, forKey: keyIsPremium)
     }
 
-    // MARK: - Daily refresh
+    // MARK: - Persistence
 
-    private func refreshDayIfNeeded() {
-        let fresh = readBoughtMinutes(for: Self.todayKey())
-        if fresh != boughtMinutesToday {
-            boughtMinutesToday = fresh
-        }
-    }
-
-    // MARK: - Persistence helpers
-
-    private func readBoughtMinutes(for day: String) -> Int {
-        let dict = defaults.dictionary(forKey: keyBoughtByDay) as? [String: Int] ?? [:]
-        return dict[day] ?? 0
-    }
-
-    private func writeBoughtMinutes(_ value: Int, for day: String) {
-        var dict = defaults.dictionary(forKey: keyBoughtByDay) as? [String: Int] ?? [:]
-        dict[day] = value
-        // Garbage-collect entries older than 7 days so the dictionary doesn't grow unbounded.
-        let cutoff = Calendar.current.date(byAdding: .day, value: -7, to: Date()) ?? Date()
-        let cutoffKey = Self.dayFormatter.string(from: cutoff)
-        dict = dict.filter { $0.key >= cutoffKey }
-        defaults.set(dict, forKey: keyBoughtByDay)
+    private func persist() {
+        defaults.set(cupMinutes,           forKey: keyCupMinutes)
+        defaults.set(lastSeenPlayMinutes,  forKey: keyLastSeenPlayMin)
+        defaults.set(lastSeenDay,          forKey: keyLastSeenDay)
     }
 }
