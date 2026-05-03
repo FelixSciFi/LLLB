@@ -1,0 +1,126 @@
+[
+  {
+    "id": "2bb8ce59-a8eb-4ae2-8878-99f43438f935",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "pastɛk",
+    "translation": {"zh": "西瓜", "en": "watermelon"},
+    "tokens": [
+      {"text": "Pastèque", "lemma": "pastèque", "ipa": "pastɛk", "emoji": "🍉", "translation": {"zh": "西瓜", "en": "watermelon"}}
+    ]
+  },
+  {
+    "id": "ac7c921f-a65b-4a18-9d4e-fd57e01d0db3",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "miʁtij",
+    "translation": {"zh": "蓝莓", "en": "blueberry"},
+    "tokens": [
+      {"text": "Myrtille", "lemma": "myrtille", "ipa": "miʁtij", "emoji": "🫐", "translation": {"zh": "蓝莓", "en": "blueberry"}}
+    ]
+  },
+  {
+    "id": "a1f4ff23-ee75-43d0-a4a8-556a609ba108",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "məlɔ̃",
+    "translation": {"zh": "甜瓜", "en": "melon"},
+    "tokens": [
+      {"text": "Melon", "lemma": "melon", "ipa": "məlɔ̃", "emoji": "🍈", "translation": {"zh": "甜瓜", "en": "melon"}}
+    ]
+  },
+  {
+    "id": "408e5ca9-22c9-49b7-80e8-69fb2d6a3f22",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "səʁiz",
+    "translation": {"zh": "樱桃", "en": "cherry"},
+    "tokens": [
+      {"text": "Cerise", "lemma": "cerise", "ipa": "səʁiz", "emoji": "🍒", "translation": {"zh": "樱桃", "en": "cherry"}}
+    ]
+  },
+  {
+    "id": "8b289064-91fe-4781-8bf2-6c1694ad3759",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "pɛʃ",
+    "translation": {"zh": "桃子", "en": "peach"},
+    "tokens": [
+      {"text": "Pêche", "lemma": "pêche", "ipa": "pɛʃ", "emoji": "🍑", "translation": {"zh": "桃子", "en": "peach"}}
+    ]
+  },
+  {
+    "id": "8c2e995f-109e-42e4-94a8-10a17791dc2a",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "mɑ̃ɡ",
+    "translation": {"zh": "芒果", "en": "mango"},
+    "tokens": [
+      {"text": "Mangue", "lemma": "mangue", "ipa": "mɑ̃ɡ", "emoji": "🥭", "translation": {"zh": "芒果", "en": "mango"}}
+    ]
+  },
+  {
+    "id": "6a372fe0-0644-43b5-ae66-68306f5f73b8",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "anana(s)",
+    "translation": {"zh": "菠萝", "en": "pineapple"},
+    "tokens": [
+      {"text": "Ananas", "lemma": "ananas", "ipa": "anana(s)", "emoji": "🍍", "translation": {"zh": "菠萝", "en": "pineapple"}}
+    ]
+  },
+  {
+    "id": "b45c0f8d-6c3f-4b4f-8fb2-019fb1f014eb",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "nwa də kɔko",
+    "translation": {"zh": "椰子", "en": "coconut"},
+    "tokens": [
+      {"text": "Noix de coco", "lemma": "noix de coco", "ipa": "nwa də kɔko", "emoji": "🥥", "translation": {"zh": "椰子", "en": "coconut"}}
+    ]
+  },
+  {
+    "id": "3734f07e-f13b-431d-937c-77050e3d16f0",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "kiwi",
+    "translation": {"zh": "猕猴桃", "en": "kiwi"},
+    "tokens": [
+      {"text": "Kiwi", "lemma": "kiwi", "ipa": "kiwi", "emoji": "🥝", "translation": {"zh": "猕猴桃", "en": "kiwi"}}
+    ]
+  },
+  {
+    "id": "d9b13830-6a0a-4d8c-a5d0-498091317aac",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "kɛs kə ty fɛ",
+    "translation": {"zh": "你在做什么？", "en": "What are you doing?"},
+    "tokens": [
+      {"text": "Qu'est-ce que", "lemma": "qu'est-ce que", "ipa": "kɛs kə", "emoji": "", "translation": {"zh": "什么", "en": "what"}},
+      {"text": "tu fais", "lemma": "tu faire", "ipa": "ty fɛ", "emoji": "", "translation": {"zh": "你做", "en": "you do"}}
+    ]
+  },
+  {
+    "id": "36bbbeb6-df1f-4e2f-bee6-5b86b9480b8f",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "kɔ̃bjɛ̃ də tɑ̃ sa pʁɑ̃",
+    "translation": {"zh": "需要多久？", "en": "How long does it take?"},
+    "tokens": [
+      {"text": "Combien de", "lemma": "combien de", "ipa": "kɔ̃bjɛ̃ də", "emoji": "", "translation": {"zh": "多少", "en": "how much"}},
+      {"text": "temps", "lemma": "temps", "ipa": "tɑ̃", "emoji": "⏱️", "translation": {"zh": "时间", "en": "time"}},
+      {"text": "ça prend", "lemma": "ça prendre", "ipa": "sa pʁɑ̃", "emoji": "", "translation": {"zh": "需要", "en": "it takes"}}
+    ]
+  },
+  {
+    "id": "53a9e8c0-beaf-4880-92c2-412172f1f49d",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "lə pɔ̃ ɛ ɡʁɑ̃",
+    "translation": {"zh": "桥很大。", "en": "The bridge is big."},
+    "tokens": [
+      {"text": "Le pont", "lemma": "pont", "ipa": "lə pɔ̃", "emoji": "🌉", "translation": {"zh": "桥", "en": "bridge"}},
+      {"text": "est grand", "lemma": "être grand", "ipa": "ɛ ɡʁɑ̃", "emoji": "", "translation": {"zh": "很大", "en": "is big"}}
+    ]
+  }
+]

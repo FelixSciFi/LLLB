@@ -71,12 +71,9 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     /// Derived from whatever CEFR values exist in the loaded sentences.
     /// Adding new levels to the JSON automatically makes them appear here.
     var availableLibraries: [LibraryOption] {
-        let knownOrder = ["A1", "A2", "B1", "B2", "C1", "C2",
-                          "HSK1", "HSK2", "HSK3", "HSK4", "HSK5", "HSK6"]
-        let present = Set(mainSentences.map(\.cefr))
-        let known   = knownOrder.filter { present.contains($0) }
-        let unknown = present.subtracting(knownOrder).sorted()
-        return (known + unknown).map { LibraryOption(id: $0, name: $0) }
+        let present = mainSentences.map(\.cefr)
+        return LevelSystem.sorted(present, using: config.levelOrder)
+            .map { LibraryOption(id: $0, name: $0) }
     }
 
     @Published var mainSentences:   [LessonSentence] = []
@@ -178,9 +175,15 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     /// Acts like a music playlist: archive removes, restore appends, deficit-unlock appends.
     @Published var pool: [String] = []
 
-    /// IDs unlocked by the most recent archive but awaiting user confirmation.
-    /// Persisted across launches so the popup survives app kill.
-    @Published var pendingUnlockIDs: [String] = []
+    /// Candidate groups offered to the user after archive: each inner `[String]`
+    /// is one selectable card (single sentence = 1 ID; tag group = N IDs that
+    /// all enter the pool together if the user picks that card).
+    /// Persisted so a half-completed selection survives app kill.
+    @Published var pendingCandidateGroups: [[String]] = []
+
+    /// How many more cards the user still needs to tap before this batch closes.
+    /// Decrements with every tap; hits 0 (or candidates run out) → batch clears.
+    @Published var pendingPicksRemaining: Int = 0
 
     /// Pool sentences as full objects, preserving entry order. Convenience for UI.
     var poolSentences: [LessonSentence] {
@@ -198,6 +201,12 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     private var wasAutoPlaying:    Bool   = false   // saved across audio interruptions
     private var cancellables = Set<AnyCancellable>()
 
+    /// Sequential-mode "resume hint" — the pool ID we should jump to next time
+    /// pickNextMainSentence falls through, regardless of what's currently playing.
+    /// Set when state changes that would otherwise reset position to pool[0]
+    /// (archiving current, splicing in user-picked sentences). Consumed on use.
+    private var sequentialResumeID: String? = nil
+
     /// Algorithm for picking which sentence to unlock when the pool refills.
     /// Swap with a different `PoolUnlockSelector` to experiment with strategies.
     private var unlockSelector: PoolUnlockSelector = ProportionalUnlockSelector.default
@@ -214,8 +223,11 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     private var knownLibrariesStorageKey:   String { "knownLibraries_\(config.id)" }
     private var playCountsStorageKey: String { "lifetimePlayCounts_\(config.id)" }
     private var poolStorageKey:             String { "pool_\(config.id)" }
-    private var poolInitializedKey:         String { "poolInitialized_\(config.id)" }
-    private var pendingUnlockStorageKey:    String { "pendingUnlock_\(config.id)" }
+    private var placementShownKey:          String { "placementShown_\(config.id)" }
+    /// Legacy key — superseded by `placementShownKey`. Read once at init for migration only.
+    private var legacyPoolInitializedKey:   String { "poolInitialized_\(config.id)" }
+    private var pendingCandidatesKey:       String { "pendingCandidates_\(config.id)" }
+    private var pendingRemainingKey:        String { "pendingRemaining_\(config.id)" }
 
     // MARK: - Init helpers
 
@@ -239,19 +251,19 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         let d   = UserDefaults.standard
         let lid = config.id
         _selectedLibraries      = Published(initialValue: Set(["A1", "A2"]))
-        _speedMultiplier        = Published(initialValue: Self.loadDouble(d: d, key: "speed_\(lid)", default: 0.75))
+        _speedMultiplier        = Published(initialValue: Self.loadDouble(d: d, key: "speed_\(lid)", default: 1.0))
         _repeatsBeforeAdvance   = Published(initialValue: Self.loadInt(d: d, key: "repeats_\(lid)", default: 3))
         _poolCapacity           = Published(initialValue: Self.loadInt(d: d, key: "poolCapacity_\(lid)", default: 100))
         let rawPlayMode = d.string(forKey: "playMode_\(lid)") ?? "shuffle"
         _playMode               = Published(initialValue: PlayMode(rawValue: rawPlayMode) ?? .shuffle)
         _showImage              = Published(initialValue: Self.loadBool(d: d, key: "showImage_\(lid)", default: true))
-        _showSpelling           = Published(initialValue: Self.loadBool(d: d, key: "showSpelling_\(lid)", default: false))
-        _showIPA                = Published(initialValue: Self.loadBool(d: d, key: "showIPA_\(lid)", default: false))
-        _showTranslation        = Published(initialValue: Self.loadBool(d: d, key: "showTranslation_\(lid)", default: false))
-        _spellMode              = Published(initialValue: Self.loadBool(d: d, key: "spellMode_\(lid)", default: false))
+        _showSpelling           = Published(initialValue: Self.loadBool(d: d, key: "showSpelling_\(lid)", default: true))
+        _showIPA                = Published(initialValue: Self.loadBool(d: d, key: "showIPA_\(lid)", default: true))
+        _showTranslation        = Published(initialValue: Self.loadBool(d: d, key: "showTranslation_\(lid)", default: true))
+        _spellMode              = Published(initialValue: Self.loadBool(d: d, key: "spellMode_\(lid)", default: true))
         let rawMode = d.string(forKey: "translationPlayback_\(lid)")
-            ?? (d.bool(forKey: "chineseReading_\(lid)") ? "after" : "off")
-        _translationPlaybackMode = Published(initialValue: TranslationPlaybackMode(rawValue: rawMode) ?? .off)
+            ?? (d.bool(forKey: "chineseReading_\(lid)") ? "after" : "after")
+        _translationPlaybackMode = Published(initialValue: TranslationPlaybackMode(rawValue: rawMode) ?? .after)
 
         narration.onUtteranceFinished = { [weak self] in
             Task { @MainActor in self?.handleUtteranceFinished() }
@@ -287,8 +299,23 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         loadSold()
         loadPlayCounts()
         loadPool()
-        loadPendingUnlock()
+        loadPendingCandidates()
+        migrateLegacyInitFlag()
+        // Discard any pending notice from the old single-tap flow — schema changed.
+        UserDefaults.standard.removeObject(forKey: "pendingUnlock_\(lid)")
 
+    }
+
+    /// One-shot migration: previously we used `poolInitialized_<lang>` both as a
+    /// sticky pool-state flag AND a placement-shown flag, conflating two concerns.
+    /// Now `placementShown_<lang>` is the only UI-state flag; pool size is purely
+    /// state-driven. Promote the old flag to the new one if applicable.
+    private func migrateLegacyInitFlag() {
+        let d = UserDefaults.standard
+        guard d.object(forKey: placementShownKey) == nil else { return }
+        if d.bool(forKey: legacyPoolInitializedKey) {
+            d.set(true, forKey: placementShownKey)
+        }
     }
 
     // MARK: - Live Activity signal
@@ -354,9 +381,8 @@ final class LessonSessionModel: ObservableObject, Identifiable {
             wordTable     = (try? SentenceLibrary.loadWordTable(language: config.id)) ?? []
             loadError     = nil
             loadLibrarySelection()
-            seedPoolIfNeeded()
             let f = filteredSentences().count
-            print("[\(config.id)] filteredSentences: \(f) / mainSentences: \(mainSentences.count) pool: \(pool.count) ownedLemmas: \(candyStore?.ownedLemmas(for: config.id).count ?? 0)")
+            print("[\(config.id)] filteredSentences: \(f) / mainSentences: \(mainSentences.count) pool: \(pool.count) placementShown: \(wasPlacementShown)")
         } catch {
             if let de = error as? DecodingError {
                 switch de {
@@ -517,10 +543,27 @@ final class LessonSessionModel: ObservableObject, Identifiable {
 
     // MARK: - Utterance finished
 
+    /// Optional gate consulted before advancing to the next sentence. Return
+    /// false to soft-brake — the current sentence finishes, then playback
+    /// pauses. AppModel wires this to the playback budget for free users.
+    var shouldContinueAfterSentence: (() -> Bool)?
+
+    /// Set by `shouldContinueAfterSentence` returning false; ContentView /
+    /// AppModel can observe and surface the refill UI.
+    @Published var didHitBudgetLimit: Bool = false
+
     private func handleUtteranceFinished() {
         guard isAutoPlaying else { return }
         if playMode == .singleLoop { narration.speak(currentSentence); return }
         guard !filteredSentences().isEmpty || examplePlaylist != nil else { return }
+
+        // Soft brake: budget gate runs only at sentence boundaries so the
+        // currently-playing sentence always completes naturally.
+        if let gate = shouldContinueAfterSentence, !gate() {
+            didHitBudgetLimit = true
+            pause()
+            return
+        }
 
         // Increment lifetime play count and current-sentence display counter
         lifetimePlayCounts[currentSentence.id, default: 0] += 1
@@ -588,19 +631,42 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         let chosen: LessonSentence
         switch playMode {
         case .sequential, .singleLoop:
-            // Pool-order next, wrap around at end. (singleLoop here only triggers
-            // on swipe-next; finishedUtterance keeps the current sentence repeating.)
+            // Pool-order walk. Priority:
+            // 1. Resume hint (post-splice / post-archive) — overrides current's position
+            // 2. Otherwise advance from currentMainSentence's pool index
+            // 3. If neither yields a filtered candidate, walk forward from start of pool
+            // (singleLoop here only triggers on swipe-next; finishedUtterance keeps
+            // the current sentence repeating.)
             let filteredIDs = Set(filtered.map(\.id))
-            let ordered = pool.filter { filteredIDs.contains($0) }
-            guard !ordered.isEmpty else { return }
-            let nextID: String
-            if let cid = currentMainSentence?.id, let idx = ordered.firstIndex(of: cid) {
-                nextID = ordered[(idx + 1) % ordered.count]
+            let n = pool.count
+            guard n > 0 else { return }
+
+            if let resumeID = sequentialResumeID,
+               filteredIDs.contains(resumeID),
+               let idx = pool.firstIndex(of: resumeID),
+               let s = filtered.first(where: { $0.id == resumeID }) {
+                sequentialResumeID = nil
+                chosen = s
+                _ = idx  // silence warning
             } else {
-                nextID = ordered[0]
+                let startIdx: Int
+                if let cid = currentMainSentence?.id, let cidx = pool.firstIndex(of: cid) {
+                    startIdx = (cidx + 1) % n
+                } else {
+                    startIdx = 0
+                }
+                var picked: LessonSentence?
+                for i in 0..<n {
+                    let idx = (startIdx + i) % n
+                    let id  = pool[idx]
+                    if filteredIDs.contains(id), let s = filtered.first(where: { $0.id == id }) {
+                        picked = s
+                        break
+                    }
+                }
+                guard let s = picked else { return }
+                chosen = s
             }
-            guard let s = mainSentences.first(where: { $0.id == nextID }) else { return }
-            chosen = s
 
         case .shuffle:
             let currentID = currentMainSentence?.id
@@ -760,6 +826,13 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         }
         favoritedIDs.remove(id)
         familiarIDs.remove(id)
+        // Capture sequential resume target before mutating pool: the ID that was
+        // right after the archived sentence in pool order.
+        if playMode == .sequential, sequentialResumeID == nil,
+           let cidx = pool.firstIndex(of: id), pool.count > 1 {
+            let nextIdx = (cidx + 1) % pool.count
+            sequentialResumeID = pool[nextIdx]
+        }
         if let idx = pool.firstIndex(of: id) {
             pool.remove(at: idx)
             savePool()
@@ -893,87 +966,126 @@ final class LessonSessionModel: ObservableObject, Identifiable {
             pool = arr
         }
     }
-    private func savePendingUnlock() {
-        UserDefaults.standard.set(pendingUnlockIDs, forKey: pendingUnlockStorageKey)
-    }
-    private func loadPendingUnlock() {
-        if let arr = UserDefaults.standard.stringArray(forKey: pendingUnlockStorageKey) {
-            pendingUnlockIDs = arr
+    private func savePendingCandidates() {
+        if let data = try? JSONEncoder().encode(pendingCandidateGroups) {
+            UserDefaults.standard.set(data, forKey: pendingCandidatesKey)
         }
+        UserDefaults.standard.set(pendingPicksRemaining, forKey: pendingRemainingKey)
     }
-    /// Refill pool toward `poolCapacity` after an archive event.
-    /// Deficit==0 → no-op; ==1 → unlock 1; ≥2 → unlock 2 (cap intentional, slow trickle).
-    /// Capacity decreases never trigger eviction (per spec).
-    /// If a picked sentence belongs to an indexed (ordered) tag group, the whole
-    /// group is unlocked together as a single quota slot (pool may overflow capacity).
-    /// Newly-unlocked IDs are STAGED in `pendingUnlockIDs`; they enter the pool only
-    /// after the user confirms via `commitPendingUnlock()`. While a notice is pending,
-    /// further unlock attempts are skipped to prevent popup pile-up.
+    private func loadPendingCandidates() {
+        if let data = UserDefaults.standard.data(forKey: pendingCandidatesKey),
+           let groups = try? JSONDecoder().decode([[String]].self, from: data) {
+            pendingCandidateGroups = groups
+        }
+        pendingPicksRemaining = UserDefaults.standard.integer(forKey: pendingRemainingKey)
+    }
+    /// Refill pool toward `poolCapacity` after an archive event by *offering* 2× the
+    /// deficit as user-pickable candidates (so user steers what enters their pool).
+    /// Deficit 0 → nothing. 1 → 2 candidates, user picks 1. ≥2 → 4 candidates, user picks 2.
+    /// Tag-group sentences become a single card that pulls the whole group when picked.
+    /// While a batch is in progress, further archive triggers are skipped to avoid pile-up.
     private func tryUnlockAfterArchive() {
-        guard pendingUnlockIDs.isEmpty else { return }
+        guard pendingCandidateGroups.isEmpty else { return }
 
         let deficit = poolCapacity - pool.count
         guard deficit > 0 else { return }
-        let quota = (deficit == 1) ? 1 : 2
+        let target  = (deficit == 1) ? 1 : 2
+        let toShow  = target * 2
 
-        var inPool   = Set(pool)
-        var stagedIDs: [String] = []
-
-        // Distribution signal = pool + archived (mastered + later). Counting archived
-        // prevents a self-reinforcing drift toward whatever level you DON'T archive
-        // (e.g., A1 mastering faster than A2 would otherwise tilt picks to A2 over time).
-        // Pending-unlock IDs are intentionally excluded — user hasn't confirmed them yet.
         let snapshot = poolSentences + mainSentences.filter { archivedIDs.contains($0.id) }
 
-        for _ in 0..<quota {
-            let candidates = mainSentences.filter {
-                !inPool.contains($0.id)
+        var staged: Set<String> = Set(pool)
+        var groups: [[String]] = []
+
+        // Slot 1 (always): a sentence at the user's current lowest pool level.
+        // Acts as a "stay-safe / review" option so they can always anchor lower
+        // and prevent unwanted upward drift.
+        let presentLevels = Set(poolSentences.map(\.cefr))
+        let lowestPresent = LevelSystem.sorted(Array(presentLevels), using: config.levelOrder).first
+        if let lowest = lowestPresent {
+            let lowestCands = mainSentences.filter {
+                $0.cefr == lowest
+                && !staged.contains($0.id)
                 && !archivedIDs.contains($0.id)
                 && !soldIDs.contains($0.id)
             }
-            guard let picked = unlockSelector.pickNext(pool: snapshot, candidates: candidates) else { break }
-
-            for id in expandTagGroup(for: picked) where !inPool.contains(id) {
-                inPool.insert(id)
-                stagedIDs.append(id)
+            if let picked = lowestCands.randomElement() {
+                let group = expandTagGroup(for: picked).filter { !staged.contains($0) }
+                if !group.isEmpty {
+                    for id in group { staged.insert(id) }
+                    groups.append(group)
+                }
             }
         }
 
-        guard !stagedIDs.isEmpty else { return }
-        pendingUnlockIDs = stagedIDs
-        savePendingUnlock()
-        print("[\(config.id)] staged \(stagedIDs.count) sentence(s) for unlock notice")
+        // Remaining slots: selector-driven (distribution-aware, hard-capped to max+1)
+        while groups.count < toShow {
+            let candidates = mainSentences.filter {
+                !staged.contains($0.id)
+                && !archivedIDs.contains($0.id)
+                && !soldIDs.contains($0.id)
+            }
+            guard let picked = unlockSelector.pickNext(
+                pool: snapshot,
+                candidates: candidates,
+                levelOrder: config.levelOrder
+            ) else { break }
+            let group = expandTagGroup(for: picked).filter { !staged.contains($0) }
+            guard !group.isEmpty else { continue }
+            for id in group { staged.insert(id) }
+            groups.append(group)
+        }
+
+        guard !groups.isEmpty else { return }
+        pendingCandidateGroups = groups
+        pendingPicksRemaining  = min(target, groups.count)
+        savePendingCandidates()
+        print("[\(config.id)] offered \(groups.count) candidate group(s); user picks \(pendingPicksRemaining)")
     }
 
-    /// User dismissed the unlock notice — commit staged sentences into the pool
-    /// and immediately queue them as the next sentences on the main track,
-    /// preserving stage order. If the user is in an example/voice-branch playlist,
-    /// just commit silently without disrupting that flow.
-    func commitPendingUnlock() {
-        guard !pendingUnlockIDs.isEmpty else { return }
-        let unlocked = pendingUnlockIDs
-        pool.append(contentsOf: unlocked)
+    /// User tapped a card — commit its sentences to the pool and decrement the picker.
+    /// When `pendingPicksRemaining` hits 0 (or candidates run out), the batch clears
+    /// and the picker view dismisses. Picked sentences also splice into the main
+    /// playlist for immediate sequential playback (unless in example/voice-branch mode).
+    func pickCandidate(at index: Int) {
+        guard pendingCandidateGroups.indices.contains(index) else { return }
+        // Capture sequential resume target BEFORE mutating: ID after current in
+        // pool order. After splice plays out, sequence resumes from this ID.
+        if playMode == .sequential, sequentialResumeID == nil,
+           let cid = currentMainSentence?.id,
+           let cidx = pool.firstIndex(of: cid), pool.count > 1 {
+            let nextIdx = (cidx + 1) % pool.count
+            sequentialResumeID = pool[nextIdx]
+        }
+        let chosen = pendingCandidateGroups.remove(at: index)
+        pool.append(contentsOf: chosen)
         savePool()
-        pendingUnlockIDs.removeAll()
-        savePendingUnlock()
-        print("[\(config.id)] committed \(unlocked.count) unlocked sentence(s) → pool: \(pool.count)/\(poolCapacity)")
+        pendingPicksRemaining = max(0, pendingPicksRemaining - 1)
 
+        // Auto-clear if quota met or no candidates left
+        if pendingPicksRemaining == 0 || pendingCandidateGroups.isEmpty {
+            pendingCandidateGroups.removeAll()
+            pendingPicksRemaining = 0
+        }
+        savePendingCandidates()
+        print("[\(config.id)] picked \(chosen.count) sentence(s); remaining picks: \(pendingPicksRemaining); pool: \(pool.count)/\(poolCapacity)")
+
+        // Queue picked sentences as next on the main track (skip if in voice-branch).
         guard examplePlaylist == nil else { return }
-
-        // Splice unlocked IDs right after the current playlist position.
         let insertAt = max(0, min(mainPlaylistIndex + 1, mainPlaylist.count))
         let head = Array(mainPlaylist[..<insertAt])
         let tail = Array(mainPlaylist[insertAt...])
-        mainPlaylist = head + unlocked + tail
-
+        mainPlaylist = head + chosen + tail
         narration.stop(); chineseNarration.stop(); playsOnCurrent = 0
         pickNextMainSentence()
     }
 
-    /// Resolved sentence objects for the pending unlock notice (preserves stage order).
-    var pendingUnlockSentences: [LessonSentence] {
+    /// Resolved sentence objects per candidate group, in display order.
+    var pendingCandidateSentences: [[LessonSentence]] {
         let byID = Dictionary(uniqueKeysWithValues: mainSentences.map { ($0.id, $0) })
-        return pendingUnlockIDs.compactMap { byID[$0] }
+        return pendingCandidateGroups.map { group in
+            group.compactMap { byID[$0] }
+        }
     }
 
     /// If `sentence` carries an indexed (ordered content) tag, return all sentences
@@ -996,20 +1108,109 @@ final class LessonSessionModel: ObservableObject, Identifiable {
             .map(\.id)
     }
 
-    /// Seed the pool with up to 100 random A1 sentences (excluding already-archived)
-    /// on first run. Idempotent across launches; pool growth after this happens via
-    /// archive deficit-unlock (see Step 3).
-    private func seedPoolIfNeeded() {
-        guard !UserDefaults.standard.bool(forKey: poolInitializedKey) else { return }
-        let candidates = mainSentences.filter {
-            $0.cefr == "A1"
-            && !archivedIDs.contains($0.id)
+    /// Whether the placement-test UI has already been offered to the user (whether
+    /// completed or skipped) for this language. Pure UI-state flag — does NOT gate
+    /// pool content. Pool growth is handled by `ensurePoolFilled()` regardless.
+    var wasPlacementShown: Bool {
+        UserDefaults.standard.bool(forKey: placementShownKey)
+    }
+
+    func markPlacementShown() {
+        UserDefaults.standard.set(true, forKey: placementShownKey)
+    }
+
+    /// Fallback pool allocation when no placement test is run (skip path or no
+    /// placement bank for this language). Fills 100 slots starting from the
+    /// lowest available level and cascading up; if the entire library is smaller
+    /// than 100, returns whatever's available across all levels. Multi-language
+    /// safe — uses `config.levelOrder`, never references specific level names.
+    func defaultBeginnerAllocation() -> [String: Int] {
+        let order = LevelSystem.sorted(mainSentences.map(\.cefr), using: config.levelOrder)
+        var remaining = 100
+        var alloc: [String: Int] = [:]
+        for level in order {
+            guard remaining > 0 else { break }
+            let avail = mainSentences.filter {
+                $0.cefr == level && !archivedIDs.contains($0.id)
+            }.count
+            let take = min(avail, remaining)
+            if take > 0 {
+                alloc[level] = take
+                remaining -= take
+            }
         }
-        let seeded = Array(candidates.shuffled().prefix(100)).map(\.id)
+        return alloc
+    }
+
+    /// Replaces the pool with sentences sampled per `allocation` (level → slot count).
+    /// Used for **initial** seeding — placement-test outcome or skip default.
+    /// Ordering follows `config.levelOrder` (easiest first), so sequential playback
+    /// starts low. Already-archived sentences are excluded. Pure write — no flag
+    /// gating, no auto-fill afterward (caller decides whether to also `ensurePoolFilled`).
+    /// Works with any level system; reads names only via `config.levelOrder`.
+    func seedPool(allocation: [String: Int]) {
+        var seeded: [String] = []
+        for level in LevelSystem.sorted(Array(allocation.keys), using: config.levelOrder) {
+            let count = allocation[level] ?? 0
+            guard count > 0 else { continue }
+            // Exclude content-tagged sentences (story groups like fables, scene
+            // dialogs) — these enter the pool only via deliberate archive-unlock,
+            // never as part of the initial random seed.
+            let candidates = mainSentences.filter {
+                $0.cefr == level && !archivedIDs.contains($0.id) && $0.tags.isEmpty
+            }
+            let picked = Array(candidates.shuffled().prefix(count)).map(\.id)
+            seeded.append(contentsOf: picked)
+        }
         pool = seeded
         savePool()
-        UserDefaults.standard.set(true, forKey: poolInitializedKey)
-        print("[\(config.id)] pool seeded with \(pool.count) A1 sentences")
+        print("[\(config.id)] pool seeded with \(pool.count) sentences from \(allocation)")
+
+        if isActive && currentMainSentence == nil { startFresh() }
+    }
+
+    /// Brings pool size up to `min(poolCapacity, viable library size)` using the
+    /// unlock selector. Idempotent: no-op if pool is already at target. Used at
+    /// app launch, after placement (to top off any allocation shortfall), and
+    /// anywhere we want to ensure the pool is full. Self-heals legacy broken
+    /// state (e.g., pool empty due to old hardcoded-A1 seed for HSK languages).
+    func ensurePoolFilled() {
+        // Same exclusion rule as seedPool: content-tagged sentences (story groups)
+        // are reserved for deliberate archive-unlock and never auto-fill the pool.
+        let viable = mainSentences.filter {
+            !archivedIDs.contains($0.id) && !soldIDs.contains($0.id) && $0.tags.isEmpty
+        }
+        let target = min(poolCapacity, viable.count)
+        let inPoolBefore = pool.count
+        guard pool.count < target else { return }
+
+        var inPool = Set(pool)
+        var added: [String] = []
+
+        while inPool.count + added.count < target {
+            let stagedSentences = added.compactMap { id in
+                mainSentences.first(where: { $0.id == id })
+            }
+            let candidates = viable.filter {
+                !inPool.contains($0.id) && !added.contains($0.id)
+            }
+            guard let picked = unlockSelector.pickNext(
+                pool: poolSentences + stagedSentences,
+                candidates: candidates,
+                levelOrder: config.levelOrder
+            ) else { break }
+
+            for id in expandTagGroup(for: picked) where !inPool.contains(id) && !added.contains(id) {
+                added.append(id)
+            }
+        }
+
+        guard !added.isEmpty else { return }
+        pool.append(contentsOf: added)
+        savePool()
+        print("[\(config.id)] pool topped up: \(inPoolBefore) → \(pool.count) (target \(target))")
+
+        if isActive && currentMainSentence == nil { startFresh() }
     }
     private func loadTrashed() {
         // Migration: old trashedIDs → masteredIDs

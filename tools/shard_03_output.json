@@ -1,0 +1,146 @@
+[
+  {
+    "id": "aefaf17b-b6c4-4ca3-af79-03b00c348805",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə li ʁaʁmɑ̃ lə ʒuʁnal",
+    "translation": {"zh": "我很少看报纸。", "en": "I rarely read the newspaper."},
+    "tokens": [
+      {"text": "Je lis", "lemma": "lire", "ipa": "ʒə li", "emoji": "", "translation": {"zh": "我读", "en": "I read"}},
+      {"text": "rarement", "lemma": "rarement", "ipa": "ʁaʁmɑ̃", "emoji": "", "translation": {"zh": "很少", "en": "rarely"}},
+      {"text": "le journal", "lemma": "journal", "ipa": "lə ʒuʁnal", "emoji": "📰", "translation": {"zh": "报纸", "en": "the newspaper"}}
+    ]
+  },
+  {
+    "id": "82da3b77-da48-48d7-bb99-49df93e51097",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "kɔ̃bjɛ̃ kut yn duzɛn dø",
+    "translation": {"zh": "一打鸡蛋多少钱?", "en": "How much is a dozen eggs?"},
+    "tokens": [
+      {"text": "Combien", "lemma": "combien", "ipa": "kɔ̃bjɛ̃", "emoji": "", "translation": {"zh": "多少", "en": "how much"}},
+      {"text": "coûte", "lemma": "coûter", "ipa": "kut", "emoji": "", "translation": {"zh": "价格是", "en": "costs"}},
+      {"text": "une douzaine", "lemma": "douzaine", "ipa": "yn duzɛn", "emoji": "", "translation": {"zh": "一打", "en": "a dozen"}},
+      {"text": "d'œufs", "lemma": "œuf", "ipa": "dø", "emoji": "🥚", "translation": {"zh": "鸡蛋", "en": "of eggs"}}
+    ]
+  },
+  {
+    "id": "5e329248-ebf5-4474-9ad8-8c92c53a5212",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒe ublije mɔ̃ mo də pas",
+    "translation": {"zh": "我忘了密码。", "en": "I forgot my password."},
+    "tokens": [
+      {"text": "J'ai oublié", "lemma": "oublier", "ipa": "ʒe ublije", "emoji": "", "translation": {"zh": "我忘了", "en": "I forgot"}},
+      {"text": "mon mot de passe", "lemma": "mot de passe", "ipa": "mɔ̃ mo də pas", "emoji": "🔑", "translation": {"zh": "我的密码", "en": "my password"}}
+    ]
+  },
+  {
+    "id": "4a7b0fd2-c440-43e9-989c-2547939bc8c2",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə mə pʁɔmɛn",
+    "translation": {"zh": "我在散步。", "en": "I'm taking a walk."},
+    "tokens": [
+      {"text": "Je me promène", "lemma": "se promener", "ipa": "ʒə mə pʁɔmɛn", "emoji": "🚶", "translation": {"zh": "我散步", "en": "I walk"}}
+    ]
+  },
+  {
+    "id": "bba5f04a-0c0c-41b9-9153-fae3efdcf0a0",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɛ tɛ̃dispɑ̃sabl",
+    "translation": {"zh": "这是必不可少的。", "en": "It's essential."},
+    "tokens": [
+      {"text": "C'est", "lemma": "être", "ipa": "sɛ", "emoji": "", "translation": {"zh": "这是", "en": "it is"}},
+      {"text": "indispensable", "lemma": "indispensable", "ipa": "tɛ̃dispɑ̃sabl", "emoji": "", "translation": {"zh": "必不可少", "en": "indispensable"}}
+    ]
+  },
+  {
+    "id": "67aac379-bb9b-4847-b679-49b01735ddb7",
+    "verdict": "delete",
+    "delete_reason": "fragment, no verb",
+    "ipa": "nɔnɔpstɑ̃ sə ʁəfy",
+    "translation": {"zh": "尽管如此拒绝。", "en": "Notwithstanding this refusal."},
+    "tokens": [
+      {"text": "Nonobstant", "lemma": "nonobstant", "ipa": "nɔnɔpstɑ̃", "emoji": "", "translation": {"zh": "尽管", "en": "notwithstanding"}},
+      {"text": "ce refus", "lemma": "refus", "ipa": "sə ʁəfy", "emoji": "", "translation": {"zh": "此拒绝", "en": "this refusal"}}
+    ]
+  },
+  {
+    "id": "7b520031-e19f-4253-9f46-a60afc700ee4",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "lalea lɑ̃pɔʁ",
+    "translation": {"zh": "偶然占了上风。", "en": "Chance prevails."},
+    "tokens": [
+      {"text": "L'aléa", "lemma": "aléa", "ipa": "lalea", "emoji": "🎲", "translation": {"zh": "偶然", "en": "chance"}},
+      {"text": "l'emporte", "lemma": "emporter", "ipa": "lɑ̃pɔʁ", "emoji": "", "translation": {"zh": "占上风", "en": "prevails"}}
+    ]
+  },
+  {
+    "id": "7e873751-5f70-4e79-a4b4-6fab64b53eb1",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "lə vid lɛse paʁ kɛlkɛ̃ nə dispaʁɛ pa fasilmɑ̃",
+    "translation": {"zh": "某人留下的空缺难以消失。", "en": "The void left by someone doesn't fade easily."},
+    "tokens": [
+      {"text": "Le vide", "lemma": "vide", "ipa": "lə vid", "emoji": "", "translation": {"zh": "空缺", "en": "the void"}},
+      {"text": "laissé", "lemma": "laisser", "ipa": "lɛse", "emoji": "", "translation": {"zh": "留下的", "en": "left"}},
+      {"text": "par", "lemma": "par", "ipa": "paʁ", "emoji": "", "translation": {"zh": "由", "en": "by"}},
+      {"text": "quelqu'un", "lemma": "quelqu'un", "ipa": "kɛlkɛ̃", "emoji": "", "translation": {"zh": "某人", "en": "someone"}},
+      {"text": "ne disparaît pas", "lemma": "disparaître", "ipa": "nə dispaʁɛ pa", "emoji": "", "translation": {"zh": "不消失", "en": "doesn't fade"}},
+      {"text": "facilement", "lemma": "facilement", "ipa": "fasilmɑ̃", "emoji": "", "translation": {"zh": "轻易", "en": "easily"}}
+    ]
+  },
+  {
+    "id": "43c1fd2e-f674-4f64-b6cc-2ee5e6be845a",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɛ tyn lysidite ki fɛ mal",
+    "translation": {"zh": "这是令人痛苦的清醒。", "en": "It's a painful clarity."},
+    "tokens": [
+      {"text": "C'est", "lemma": "être", "ipa": "sɛ", "emoji": "", "translation": {"zh": "这是", "en": "it is"}},
+      {"text": "une lucidité", "lemma": "lucidité", "ipa": "tyn lysidite", "emoji": "", "translation": {"zh": "清醒", "en": "a clarity"}},
+      {"text": "qui fait", "lemma": "faire", "ipa": "ki fɛ", "emoji": "", "translation": {"zh": "使", "en": "that makes"}},
+      {"text": "mal", "lemma": "mal", "ipa": "mal", "emoji": "", "translation": {"zh": "痛", "en": "hurt"}}
+    ]
+  },
+  {
+    "id": "4a2a19d7-98f6-42f8-9af5-941a5a0408ca",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "lyzyʁ ɛ̃pɛʁsɛptibl dy kɔtidjɛ̃ fini paʁ epɥize",
+    "translation": {"zh": "日常的隐性磨损终会令人疲惫。", "en": "Daily wear imperceptibly exhausts us."},
+    "tokens": [
+      {"text": "L'usure", "lemma": "usure", "ipa": "lyzyʁ", "emoji": "", "translation": {"zh": "磨损", "en": "the wear"}},
+      {"text": "imperceptible", "lemma": "imperceptible", "ipa": "ɛ̃pɛʁsɛptibl", "emoji": "", "translation": {"zh": "难察觉", "en": "imperceptible"}},
+      {"text": "du quotidien", "lemma": "quotidien", "ipa": "dy kɔtidjɛ̃", "emoji": "", "translation": {"zh": "日常", "en": "of daily life"}},
+      {"text": "finit", "lemma": "finir", "ipa": "fini", "emoji": "", "translation": {"zh": "终会", "en": "ends up"}},
+      {"text": "par épuiser", "lemma": "épuiser", "ipa": "paʁ epɥize", "emoji": "", "translation": {"zh": "使疲惫", "en": "exhausting"}}
+    ]
+  },
+  {
+    "id": "7f9f2dee-ffcd-4eea-9c20-4e6545804e37",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə maʁʃ vɛʁ lekɔl",
+    "translation": {"zh": "我走去学校。", "en": "I walk to school."},
+    "tokens": [
+      {"text": "Je marche", "lemma": "marcher", "ipa": "ʒə maʁʃ", "emoji": "🚶", "translation": {"zh": "我走", "en": "I walk"}},
+      {"text": "vers", "lemma": "vers", "ipa": "vɛʁ", "emoji": "", "translation": {"zh": "朝向", "en": "toward"}},
+      {"text": "l'école", "lemma": "école", "ipa": "lekɔl", "emoji": "🏫", "translation": {"zh": "学校", "en": "school"}}
+    ]
+  },
+  {
+    "id": "f615b877-5172-410b-b9af-b0851f524a1d",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ɔ̃ tʁavaj tus ɑ̃sɑ̃bl",
+    "translation": {"zh": "我们一起工作。", "en": "We all work together."},
+    "tokens": [
+      {"text": "On travaille", "lemma": "travailler", "ipa": "ɔ̃ tʁavaj", "emoji": "", "translation": {"zh": "我们工作", "en": "we work"}},
+      {"text": "tous ensemble", "lemma": "ensemble", "ipa": "tus ɑ̃sɑ̃bl", "emoji": "", "translation": {"zh": "一起", "en": "all together"}}
+    ]
+  }
+]

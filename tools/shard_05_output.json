@@ -1,0 +1,136 @@
+[
+  {
+    "id": "55593b30-6fb9-411f-8d76-b2c571c00bf6",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "vəne mə ʁəʒwɛ̃dʁ",
+    "translation": {"zh": "来加入我", "en": "Come join me"},
+    "tokens": [
+      {"text": "Venez", "lemma": "venir", "ipa": "vəne", "emoji": "", "translation": {"zh": "来", "en": "come"}},
+      {"text": "me rejoindre", "lemma": "me rejoindre", "ipa": "mə ʁəʒwɛ̃dʁ", "emoji": "", "translation": {"zh": "加入我", "en": "join me"}}
+    ]
+  },
+  {
+    "id": "b1114ab9-0f49-405d-b9ab-eaa198be2908",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ki la ʁɑ̃plas",
+    "translation": {"zh": "谁替她", "en": "Who replaces her"},
+    "tokens": [
+      {"text": "Qui", "lemma": "qui", "ipa": "ki", "emoji": "", "translation": {"zh": "谁", "en": "who"}},
+      {"text": "la remplace", "lemma": "la remplacer", "ipa": "la ʁɑ̃plas", "emoji": "", "translation": {"zh": "替她", "en": "replaces her"}}
+    ]
+  },
+  {
+    "id": "65010f8c-6742-47fa-927e-3fa71a448797",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "kɛl ɛ tɔ̃ pʁenɔ̃",
+    "translation": {"zh": "你叫什么", "en": "What's your name"},
+    "tokens": [
+      {"text": "Quel", "lemma": "quel", "ipa": "kɛl", "emoji": "", "translation": {"zh": "什么", "en": "what"}},
+      {"text": "est", "lemma": "être", "ipa": "ɛ", "emoji": "", "translation": {"zh": "是", "en": "is"}},
+      {"text": "ton prénom", "lemma": "ton prénom", "ipa": "tɔ̃ pʁenɔ̃", "emoji": "🪪", "translation": {"zh": "你的名字", "en": "your first name"}}
+    ]
+  },
+  {
+    "id": "a06852b8-1525-4dd7-89cb-e0b75967304e",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə vɛ distʁibɥe le fœj",
+    "translation": {"zh": "我来发纸", "en": "I'll hand out sheets"},
+    "tokens": [
+      {"text": "Je vais", "lemma": "aller", "ipa": "ʒə vɛ", "emoji": "", "translation": {"zh": "我要", "en": "I'm going to"}},
+      {"text": "distribuer", "lemma": "distribuer", "ipa": "distʁibɥe", "emoji": "", "translation": {"zh": "分发", "en": "hand out"}},
+      {"text": "les feuilles", "lemma": "feuille", "ipa": "le fœj", "emoji": "📄", "translation": {"zh": "纸张", "en": "sheets"}}
+    ]
+  },
+  {
+    "id": "d6d01631-5547-4e5e-ba47-d99222091048",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "vwasi tɔ̃ kaje dy ʒuʁ",
+    "translation": {"zh": "今日作业本", "en": "Here's today's notebook"},
+    "tokens": [
+      {"text": "Voici", "lemma": "voici", "ipa": "vwasi", "emoji": "", "translation": {"zh": "这是", "en": "here is"}},
+      {"text": "ton cahier", "lemma": "cahier", "ipa": "tɔ̃ kaje", "emoji": "📓", "translation": {"zh": "你的本子", "en": "your notebook"}},
+      {"text": "du jour", "lemma": "jour", "ipa": "dy ʒuʁ", "emoji": "", "translation": {"zh": "今天的", "en": "of the day"}}
+    ]
+  },
+  {
+    "id": "c6f53e25-706b-4f60-9c26-5b92f5e2793f",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "o tʁavaj mɛ̃tnɑ̃",
+    "translation": {"zh": "现在干活", "en": "Get to work now"},
+    "tokens": [
+      {"text": "Au travail", "lemma": "travail", "ipa": "o tʁavaj", "emoji": "💼", "translation": {"zh": "干活", "en": "to work"}},
+      {"text": "maintenant", "lemma": "maintenant", "ipa": "mɛ̃tnɑ̃", "emoji": "", "translation": {"zh": "现在", "en": "now"}}
+    ]
+  },
+  {
+    "id": "7574bf77-e06d-4891-8dfb-e27599b717c9",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "la povʁ",
+    "translation": {"zh": "可怜的她", "en": "Poor her"},
+    "tokens": [
+      {"text": "La pauvre", "lemma": "pauvre", "ipa": "la povʁ", "emoji": "", "translation": {"zh": "可怜的", "en": "poor thing"}}
+    ]
+  },
+  {
+    "id": "716089d2-775e-4817-b327-f5c14e782677",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "jupi",
+    "translation": {"zh": "耶", "en": "Yippee"},
+    "tokens": [
+      {"text": "Youpi", "lemma": "youpi", "ipa": "jupi", "emoji": "🎉", "translation": {"zh": "耶", "en": "yippee"}}
+    ]
+  },
+  {
+    "id": "3afcfe5a-1892-4a50-b51e-735d3e150b7e",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɛ pa ɡʁav",
+    "translation": {"zh": "没关系", "en": "It's okay"},
+    "tokens": [
+      {"text": "C'est", "lemma": "c'est", "ipa": "sɛ", "emoji": "", "translation": {"zh": "这是", "en": "it is"}},
+      {"text": "pas", "lemma": "pas", "ipa": "pa", "emoji": "", "translation": {"zh": "不", "en": "not"}},
+      {"text": "grave", "lemma": "grave", "ipa": "ɡʁav", "emoji": "", "translation": {"zh": "严重", "en": "serious"}}
+    ]
+  },
+  {
+    "id": "861a9566-022d-4718-9edb-fe9320614d73",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ɔ̃ sə kalm",
+    "translation": {"zh": "冷静点", "en": "Calm down"},
+    "tokens": [
+      {"text": "On se calme", "lemma": "se calmer", "ipa": "ɔ̃ sə kalm", "emoji": "", "translation": {"zh": "冷静点", "en": "calm down"}}
+    ]
+  },
+  {
+    "id": "5b63df77-a59a-4bfd-a69d-b6a4b5374903",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ty ʁakɔ̃t de betiz",
+    "translation": {"zh": "你胡说", "en": "You're talking nonsense"},
+    "tokens": [
+      {"text": "Tu racontes", "lemma": "raconter", "ipa": "ty ʁakɔ̃t", "emoji": "", "translation": {"zh": "你说", "en": "you're telling"}},
+      {"text": "des bêtises", "lemma": "bêtise", "ipa": "de betiz", "emoji": "", "translation": {"zh": "胡话", "en": "nonsense"}}
+    ]
+  },
+  {
+    "id": "f776a5fc-9a11-4c0f-80a8-7febea929dbd",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɛ pa tʁɛ ʒɑ̃ti",
+    "translation": {"zh": "不太好", "en": "That's not very nice"},
+    "tokens": [
+      {"text": "C'est", "lemma": "c'est", "ipa": "sɛ", "emoji": "", "translation": {"zh": "这是", "en": "it is"}},
+      {"text": "pas", "lemma": "pas", "ipa": "pa", "emoji": "", "translation": {"zh": "不", "en": "not"}},
+      {"text": "très gentil", "lemma": "gentil", "ipa": "tʁɛ ʒɑ̃ti", "emoji": "", "translation": {"zh": "很友善", "en": "very nice"}}
+    ]
+  }
+]

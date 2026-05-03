@@ -42,8 +42,10 @@ struct LibraryPickerView: View {
         return Button {
             if isSelected {
                 guard session.selectedLibraries.count > 1 else { return }
+                Haptics.light()
                 session.selectedLibraries.remove(library.id)
             } else {
+                Haptics.light()
                 session.selectedLibraries.insert(library.id)
             }
             session.saveLibrarySelection()

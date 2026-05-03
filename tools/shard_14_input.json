@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6eab8b59-3222-4c1b-8f35-b5a31f27c7f6",
+    "text": "Le chemin de fer est long.",
+    "cefr": "A2"
+  },
+  {
+    "id": "ca5327de-4e01-417b-b705-d7c4aaab247b",
+    "text": "C'est quoi ça ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "6106133c-b94e-42f7-ad4f-0e5f75b2c7a4",
+    "text": "Il y a tellement de monde.",
+    "cefr": "A2"
+  },
+  {
+    "id": "b3a72d82-044a-46fe-b1b8-0e3921fbfe01",
+    "text": "C'est assez.",
+    "cefr": "A1"
+  },
+  {
+    "id": "9882a16f-3784-421e-8c45-67cbd046fa7c",
+    "text": "Tu viens d'où ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "63c27816-f4b3-4a45-92d9-5c21c518efc3",
+    "text": "Tu as quelque chose de similaire ?",
+    "cefr": "B1"
+  },
+  {
+    "id": "937954fe-d49d-43c6-a8a8-575a49370f6d",
+    "text": "Le ciel est bleu.",
+    "cefr": "A1"
+  },
+  {
+    "id": "68a646cb-aa6c-4ba8-912d-6b50d10edb16",
+    "text": "La terre est grande.",
+    "cefr": "A1"
+  },
+  {
+    "id": "cac94991-455d-46f8-a9ad-ec2f1937de3d",
+    "text": "L'océan est profond.",
+    "cefr": "A2"
+  },
+  {
+    "id": "ea347270-40b3-45e1-aa99-66ed386c4c49",
+    "text": "La rivière coule.",
+    "cefr": "A2"
+  },
+  {
+    "id": "4af1d214-6e16-4e8f-8105-419b03891fb9",
+    "text": "Votre correspondant est actuellement en ligne.",
+    "cefr": "B1"
+  },
+  {
+    "id": "482cea58-c2a0-4a26-baba-35e9e201d331",
+    "text": "Merci de renouveler votre appel ultérieurement.",
+    "cefr": "B1"
+  }
+]

@@ -22,6 +22,15 @@ enum SentenceLibrary {
         return decoded.words
     }
 
+    /// Loads the per-language placement test bank. Returns empty array if no file.
+    static func loadPlacementQuestions(language: String) -> [PlacementQuestion] {
+        guard let url = try? resourceURL("placement_\(language)"),
+              let data = try? Data(contentsOf: url),
+              let decoded = try? JSONDecoder().decode(PlacementFile.self, from: data)
+        else { return [] }
+        return decoded.questions
+    }
+
     private static func resourceURL(_ name: String) throws -> URL {
         guard let url = Bundle.main.url(forResource: name, withExtension: "json") else {
             throw NSError(domain: "SentenceLibrary", code: 1, userInfo: [NSLocalizedDescriptionKey: "Missing \(name).json"])

@@ -7,8 +7,25 @@ struct RootView: View {
     @Environment(\.scenePhase) private var scenePhase
     @State private var darwinRouter: LLLBDarwinLiveActivityRouter?
     @State private var showProfile = false
+    @AppStorage("onboardingCompleted_v1") private var onboardingCompleted = false
 
     var body: some View {
+        ZStack {
+            mainContent
+            if !onboardingCompleted {
+                OnboardingView(appModel: appModel) {
+                    // No setupActiveFlag here — that would startFresh() before
+                    // ContentView.task gets to decide whether placement test runs.
+                    // ContentView.task re-fires when onboardingCompleted flips
+                    // (it's part of the task id) and handles activation itself.
+                    withAnimation(.easeOut(duration: 0.25)) { onboardingCompleted = true }
+                }
+                .zIndex(500)
+            }
+        }
+    }
+
+    private var mainContent: some View {
         ContentView(
             session:             appModel.activeSession,
             showProfile:         $showProfile,
@@ -16,8 +33,21 @@ struct RootView: View {
             candyBalance:        appModel.candyStore.candyBalance,
             usageTracker:        appModel.usageTimeTracker,
             achievementManager:  appModel.achievementManager,
+            playbackBudget:      appModel.playbackBudget,
+            onboardingCompleted: onboardingCompleted,
             onCollectMilestones: {
                 appModel.achievementManager.collectPending(candyStore: appModel.candyStore)
+            },
+            onUseCandyForRefill: {
+                guard appModel.candyStore.spendCandy(PlaybackBudget.refillCandyCost) else { return }
+                appModel.playbackBudget.addBoughtMinutes(PlaybackBudget.refillMinutes)
+                appModel.activeSession.resume()
+            },
+            onOpenSubscribe: {
+                // Paywall + StoreKit not wired yet. For now, route to Profile
+                // where the developer-only premium toggle lives so QA can test
+                // both states end-to-end.
+                showProfile = true
             }
         )
         .sheet(isPresented: $showProfile) {
@@ -32,7 +62,11 @@ struct RootView: View {
         .onAppear {
             appModel.currentScenePhase = .active
             appModel.syncTimeTracking(playing: appModel.activeSession.isAutoPlaying)
-            setupActiveFlag()
+            // Don't activate any session while onboarding is still up — otherwise
+            // ContentView (mounted under the welcome overlay) starts TTS in the
+            // background. The completion handler in body calls setupActiveFlag()
+            // explicitly when the user finishes picking languages.
+            if onboardingCompleted { setupActiveFlag() }
             if darwinRouter == nil {
                 let model  = appModel
                 let router = LLLBDarwinLiveActivityRouter { model.activeSession }
@@ -49,11 +83,16 @@ struct RootView: View {
             }
         }
         // ── Learning language switch ────────────────────────────────────────
+        // Both gated on onboarding completion: while the user is still on the
+        // welcome / language-picker screens, picking a native language must not
+        // cascade-activate a session and start TTS in the background.
         .onChange(of: appModel.selectedLearningLanguageID) { _ in
+            guard onboardingCompleted else { return }
             setupActiveFlag()
         }
         // ── UI language change ──────────────────────────────────────────────
         .onChange(of: appModel.candyStore.nativeLanguage) { _ in
+            guard onboardingCompleted else { return }
             setupActiveFlag()
         }
         // ── Usage tracking + Live Activity on scene phase

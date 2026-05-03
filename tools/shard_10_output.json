@@ -1,0 +1,136 @@
+[
+  {
+    "id": "ee5fc0ce-3339-4213-a4d4-1421ed2e20e5",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "bɔ̃ʒuʁ məsjø",
+    "translation": {"zh": "您好,先生。", "en": "Hello, sir."},
+    "tokens": [
+      {"text": "Bonjour", "lemma": "bonjour", "ipa": "bɔ̃ʒuʁ", "emoji": "👋", "translation": {"zh": "你好", "en": "hello"}},
+      {"text": "monsieur", "lemma": "monsieur", "ipa": "məsjø", "emoji": "🎩", "translation": {"zh": "先生", "en": "sir"}}
+    ]
+  },
+  {
+    "id": "65017aa6-ff03-4cb3-a291-1975d4deac26",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "vu z‿ave ʃwazi",
+    "translation": {"zh": "您选好了吗?", "en": "Have you chosen?"},
+    "tokens": [
+      {"text": "Vous avez", "lemma": "vous avoir", "ipa": "vu z‿ave", "emoji": "", "translation": {"zh": "您有", "en": "you have"}},
+      {"text": "choisi", "lemma": "choisir", "ipa": "ʃwazi", "emoji": "", "translation": {"zh": "选择", "en": "chosen"}}
+    ]
+  },
+  {
+    "id": "48756952-6eda-4139-850b-3eda4da1568a",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə vudʁɛ œ̃ stɛk fʁit sil vu plɛ",
+    "translation": {"zh": "我要牛排薯条,谢谢。", "en": "I'd like steak frites, please."},
+    "tokens": [
+      {"text": "Je voudrais", "lemma": "je vouloir", "ipa": "ʒə vudʁɛ", "emoji": "", "translation": {"zh": "我想要", "en": "I'd like"}},
+      {"text": "un steak-frites", "lemma": "steak-frites", "ipa": "œ̃ stɛk fʁit", "emoji": "🥩", "translation": {"zh": "牛排薯条", "en": "steak frites"}},
+      {"text": "s'il vous plaît", "lemma": "s'il vous plaît", "ipa": "sil vu plɛ", "emoji": "", "translation": {"zh": "请", "en": "please"}}
+    ]
+  },
+  {
+    "id": "ed9dcff3-a4bc-4618-be80-b2a4501517bd",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "tʁɛ bjɛ̃ e puʁ bwaʁ",
+    "translation": {"zh": "好的。喝点什么?", "en": "Very good. To drink?"},
+    "tokens": [
+      {"text": "Très", "lemma": "très", "ipa": "tʁɛ", "emoji": "", "translation": {"zh": "很", "en": "very"}},
+      {"text": "bien", "lemma": "bien", "ipa": "bjɛ̃", "emoji": "", "translation": {"zh": "好", "en": "good"}},
+      {"text": "Et pour", "lemma": "et pour", "ipa": "e puʁ", "emoji": "", "translation": {"zh": "那么", "en": "and for"}},
+      {"text": "boire", "lemma": "boire", "ipa": "bwaʁ", "emoji": "🥤", "translation": {"zh": "喝", "en": "drink"}}
+    ]
+  },
+  {
+    "id": "ea698e31-c428-4dd7-be15-5a7ff9a34da9",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "yn kaʁaf do mɛʁsi",
+    "translation": {"zh": "一壶水,谢谢。", "en": "A carafe of water, thanks."},
+    "tokens": [
+      {"text": "Une carafe d'eau", "lemma": "carafe d'eau", "ipa": "yn kaʁaf do", "emoji": "🚰", "translation": {"zh": "一壶水", "en": "carafe of water"}},
+      {"text": "merci", "lemma": "merci", "ipa": "mɛʁsi", "emoji": "🙏", "translation": {"zh": "谢谢", "en": "thanks"}}
+    ]
+  },
+  {
+    "id": "9b020622-5537-403b-803c-5e54f240f2f0",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sa maʁʃ",
+    "translation": {"zh": "可以。", "en": "Works for me."},
+    "tokens": [
+      {"text": "Ça", "lemma": "ça", "ipa": "sa", "emoji": "", "translation": {"zh": "这", "en": "that"}},
+      {"text": "marche", "lemma": "marcher", "ipa": "maʁʃ", "emoji": "👍", "translation": {"zh": "行", "en": "works"}}
+    ]
+  },
+  {
+    "id": "549a1fcf-0e9c-420d-ac72-44f6f77270f6",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "kɛlk minyt ply taʁ",
+    "translation": {"zh": "几分钟后。", "en": "A few minutes later."},
+    "tokens": [
+      {"text": "Quelques minutes", "lemma": "quelques minutes", "ipa": "kɛlk minyt", "emoji": "⏱️", "translation": {"zh": "几分钟", "en": "a few minutes"}},
+      {"text": "plus tard", "lemma": "plus tard", "ipa": "ply taʁ", "emoji": "", "translation": {"zh": "之后", "en": "later"}}
+    ]
+  },
+  {
+    "id": "3986c8d5-ce0d-42a5-a86f-622475ab8c62",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "vwasi vɔtʁə pla bɔn‿apeti",
+    "translation": {"zh": "您的菜。请慢用!", "en": "Your dish. Enjoy!"},
+    "tokens": [
+      {"text": "Voici", "lemma": "voici", "ipa": "vwasi", "emoji": "", "translation": {"zh": "这是", "en": "here is"}},
+      {"text": "votre plat", "lemma": "plat", "ipa": "vɔtʁə pla", "emoji": "🍽️", "translation": {"zh": "您的菜", "en": "your dish"}},
+      {"text": "Bon appétit", "lemma": "bon appétit", "ipa": "bɔn‿apeti", "emoji": "😋", "translation": {"zh": "请慢用", "en": "enjoy meal"}}
+    ]
+  },
+  {
+    "id": "95f9a09d-04eb-4bd4-bb92-0408b8392bd7",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "bɔ̃ʒuʁ vu z‿ave la kaʁt də fidelite",
+    "translation": {"zh": "您好!有会员卡吗?", "en": "Hi! Got a loyalty card?"},
+    "tokens": [
+      {"text": "Bonjour", "lemma": "bonjour", "ipa": "bɔ̃ʒuʁ", "emoji": "👋", "translation": {"zh": "你好", "en": "hello"}},
+      {"text": "Vous avez", "lemma": "vous avoir", "ipa": "vu z‿ave", "emoji": "", "translation": {"zh": "您有", "en": "you have"}},
+      {"text": "la carte de fidélité", "lemma": "carte de fidélité", "ipa": "la kaʁt də fidelite", "emoji": "💳", "translation": {"zh": "会员卡", "en": "loyalty card"}}
+    ]
+  },
+  {
+    "id": "b4bc733c-9234-4763-8f02-eda43a36fc23",
+    "verdict": "delete",
+    "delete_reason": "Bare interrogative fragment",
+    "ipa": "ki",
+    "translation": {"zh": "谁?", "en": "Who?"},
+    "tokens": [
+      {"text": "Qui", "lemma": "qui", "ipa": "ki", "emoji": "", "translation": {"zh": "谁", "en": "who"}}
+    ]
+  },
+  {
+    "id": "8fed9fb7-fc09-4670-a11b-d5be9e0837de",
+    "verdict": "delete",
+    "delete_reason": "Bare interrogative fragment",
+    "ipa": "kwa",
+    "translation": {"zh": "什么?", "en": "What?"},
+    "tokens": [
+      {"text": "Quoi", "lemma": "quoi", "ipa": "kwa", "emoji": "", "translation": {"zh": "什么", "en": "what"}}
+    ]
+  },
+  {
+    "id": "b1992344-6069-4a87-b49f-3ac83e9fac48",
+    "verdict": "delete",
+    "delete_reason": "Bare interrogative fragment",
+    "ipa": "kɑ̃",
+    "translation": {"zh": "什么时候?", "en": "When?"},
+    "tokens": [
+      {"text": "Quand", "lemma": "quand", "ipa": "kɑ̃", "emoji": "", "translation": {"zh": "何时", "en": "when"}}
+    ]
+  }
+]

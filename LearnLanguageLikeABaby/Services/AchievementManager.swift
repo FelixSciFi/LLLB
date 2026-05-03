@@ -180,6 +180,15 @@ final class AchievementManager: ObservableObject {
         pendingIDs.compactMap { id in Self.allMilestones.first { $0.id == id } }
     }
 
+    /// Whether the user has ever claimed this milestone — covers both the
+    /// one-shot lifetime IDs and any past period (daily/weekly/monthly) where
+    /// the threshold was hit. Used by the catalog view to render "earned"
+    /// vs "locked" badges.
+    func isEverAchieved(_ id: String) -> Bool {
+        if lifetimeEarned.contains(id) { return true }
+        return periodEarned[id] != nil
+    }
+
     // MARK: - Progress (0…1) for ring display
 
     /// Progress 0…1 toward the next milestone: currentMinutes / nextThreshold.

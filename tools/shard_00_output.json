@@ -1,0 +1,138 @@
+[
+  {
+    "id": "ade1eb60-3ed0-4b6f-ba04-042f6472f7a4",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə pø peje paʁ kaʁt",
+    "translation": {"zh": "我可以刷卡吗？", "en": "Can I pay by card?"},
+    "tokens": [
+      {"text": "Je peux", "lemma": "pouvoir", "ipa": "ʒə pø", "emoji": "", "translation": {"zh": "我可以", "en": "I can"}},
+      {"text": "payer", "lemma": "payer", "ipa": "peje", "emoji": "💳", "translation": {"zh": "付款", "en": "to pay"}},
+      {"text": "par carte", "lemma": "carte", "ipa": "paʁ kaʁt", "emoji": "💳", "translation": {"zh": "刷卡", "en": "by card"}}
+    ]
+  },
+  {
+    "id": "9888180e-a984-4800-891a-b97ed7eb2ffd",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "lə sɔld də mɔ̃ kɔ̃t",
+    "translation": {"zh": "我账户的余额。", "en": "My account balance."},
+    "tokens": [
+      {"text": "Le solde", "lemma": "solde", "ipa": "lə sɔld", "emoji": "💰", "translation": {"zh": "余额", "en": "balance"}},
+      {"text": "de", "lemma": "de", "ipa": "də", "emoji": "", "translation": {"zh": "的", "en": "of"}},
+      {"text": "mon compte", "lemma": "compte", "ipa": "mɔ̃ kɔ̃t", "emoji": "🏦", "translation": {"zh": "我的账户", "en": "my account"}}
+    ]
+  },
+  {
+    "id": "7cb40544-1f01-409b-a79d-f968a7bcf7e6",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə vudʁɛ uvʁiʁ œ̃ kɔ̃t",
+    "translation": {"zh": "我想开一个账户。", "en": "I'd like to open an account."},
+    "tokens": [
+      {"text": "Je voudrais", "lemma": "vouloir", "ipa": "ʒə vudʁɛ", "emoji": "", "translation": {"zh": "我想要", "en": "I'd like"}},
+      {"text": "ouvrir", "lemma": "ouvrir", "ipa": "uvʁiʁ", "emoji": "", "translation": {"zh": "开设", "en": "to open"}},
+      {"text": "un compte", "lemma": "compte", "ipa": "œ̃ kɔ̃t", "emoji": "🏦", "translation": {"zh": "一个账户", "en": "an account"}}
+    ]
+  },
+  {
+    "id": "ce9a4aeb-869f-4549-bc45-9674167bd76e",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "œ̃ viʁmɑ̃ sil vu plɛ",
+    "translation": {"zh": "请办理一笔转账。", "en": "A transfer, please."},
+    "tokens": [
+      {"text": "Un virement", "lemma": "virement", "ipa": "œ̃ viʁmɑ̃", "emoji": "💸", "translation": {"zh": "一笔转账", "en": "a transfer"}},
+      {"text": "s'il vous plaît", "lemma": "s'il vous plaît", "ipa": "sil vu plɛ", "emoji": "", "translation": {"zh": "请", "en": "please"}}
+    ]
+  },
+  {
+    "id": "fef27291-ddc1-4649-a6b4-1f6a3005be99",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ma kaʁt nə fɔ̃ksjɔn pa",
+    "translation": {"zh": "我的卡用不了。", "en": "My card doesn't work."},
+    "tokens": [
+      {"text": "Ma carte", "lemma": "carte", "ipa": "ma kaʁt", "emoji": "💳", "translation": {"zh": "我的卡", "en": "my card"}},
+      {"text": "ne fonctionne pas", "lemma": "fonctionner", "ipa": "nə fɔ̃ksjɔn pa", "emoji": "", "translation": {"zh": "不能用", "en": "doesn't work"}}
+    ]
+  },
+  {
+    "id": "7703c940-e658-4f69-b283-74c910de78b7",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "la ʁeynjɔ̃ kɔmɑ̃s a kɛl œʁ",
+    "translation": {"zh": "会议几点开始？", "en": "What time does the meeting start?"},
+    "tokens": [
+      {"text": "La réunion", "lemma": "réunion", "ipa": "la ʁeynjɔ̃", "emoji": "📅", "translation": {"zh": "会议", "en": "the meeting"}},
+      {"text": "commence", "lemma": "commencer", "ipa": "kɔmɑ̃s", "emoji": "", "translation": {"zh": "开始", "en": "starts"}},
+      {"text": "à quelle heure", "lemma": "heure", "ipa": "a kɛl œʁ", "emoji": "🕐", "translation": {"zh": "几点", "en": "at what time"}}
+    ]
+  },
+  {
+    "id": "3eff07f5-b5d3-430e-b1e3-85773c8ddc8d",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ty a yn minyt",
+    "translation": {"zh": "你有一分钟吗？", "en": "Do you have a minute?"},
+    "tokens": [
+      {"text": "Tu as", "lemma": "avoir", "ipa": "ty a", "emoji": "", "translation": {"zh": "你有", "en": "you have"}},
+      {"text": "une minute", "lemma": "minute", "ipa": "yn minyt", "emoji": "⏱️", "translation": {"zh": "一分钟", "en": "a minute"}}
+    ]
+  },
+  {
+    "id": "65765b24-c8bc-48fb-a1b5-36890fe2fc59",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə tɑ̃vwa œ̃ mɛl",
+    "translation": {"zh": "我给你发邮件。", "en": "I'll send you an email."},
+    "tokens": [
+      {"text": "Je t'envoie", "lemma": "envoyer", "ipa": "ʒə tɑ̃vwa", "emoji": "", "translation": {"zh": "我发给你", "en": "I send you"}},
+      {"text": "un mail", "lemma": "mail", "ipa": "œ̃ mɛl", "emoji": "📧", "translation": {"zh": "一封邮件", "en": "an email"}}
+    ]
+  },
+  {
+    "id": "6d5e496c-b37a-4866-b6e0-19b98c6b6d24",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ɔ̃ sə ʁətʁuv a midi",
+    "translation": {"zh": "我们中午见面吗？", "en": "Shall we meet at noon?"},
+    "tokens": [
+      {"text": "On se retrouve", "lemma": "se retrouver", "ipa": "ɔ̃ sə ʁətʁuv", "emoji": "", "translation": {"zh": "我们见面", "en": "we meet"}},
+      {"text": "à midi", "lemma": "midi", "ipa": "a midi", "emoji": "🕛", "translation": {"zh": "中午", "en": "at noon"}}
+    ]
+  },
+  {
+    "id": "7ac880db-1dc8-4b75-8642-790569ea3f14",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "lə byʁo ɛ fɛʁme",
+    "translation": {"zh": "办公室关门了。", "en": "The office is closed."},
+    "tokens": [
+      {"text": "Le bureau", "lemma": "bureau", "ipa": "lə byʁo", "emoji": "🏢", "translation": {"zh": "办公室", "en": "the office"}},
+      {"text": "est fermé", "lemma": "fermé", "ipa": "ɛ fɛʁme", "emoji": "", "translation": {"zh": "关着的", "en": "is closed"}}
+    ]
+  },
+  {
+    "id": "f3d23965-22be-4b94-8659-11ea0d91d45c",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒe œ̃n apɛl",
+    "translation": {"zh": "我有个电话。", "en": "I have a call."},
+    "tokens": [
+      {"text": "J'ai", "lemma": "avoir", "ipa": "ʒe", "emoji": "", "translation": {"zh": "我有", "en": "I have"}},
+      {"text": "un appel", "lemma": "appel", "ipa": "œ̃n apɛl", "emoji": "📞", "translation": {"zh": "一个电话", "en": "a call"}}
+    ]
+  },
+  {
+    "id": "f6549116-2fca-4dbd-b10f-19e2e718d6a3",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ty pø mede",
+    "translation": {"zh": "你能帮我吗？", "en": "Can you help me?"},
+    "tokens": [
+      {"text": "Tu peux", "lemma": "pouvoir", "ipa": "ty pø", "emoji": "", "translation": {"zh": "你能", "en": "you can"}},
+      {"text": "m'aider", "lemma": "aider", "ipa": "mede", "emoji": "", "translation": {"zh": "帮我", "en": "help me"}}
+    ]
+  }
+]

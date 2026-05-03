@@ -1,0 +1,165 @@
+[
+  {
+    "id": "3138572d-f2b2-496e-b737-98a659413003",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "lane kɔ̃t katʁə sɛzɔ̃",
+    "translation": {"zh": "一年有四季。", "en": "A year has four seasons."},
+    "tokens": [
+      {"text": "L'année", "lemma": "année", "ipa": "lane", "emoji": "📅", "translation": {"zh": "一年", "en": "the year"}},
+      {"text": "compte", "lemma": "compter", "ipa": "kɔ̃t", "emoji": "", "translation": {"zh": "包含", "en": "has"}},
+      {"text": "quatre saisons", "lemma": "quatre saison", "ipa": "katʁə sɛzɔ̃", "emoji": "🍂", "translation": {"zh": "四个季节", "en": "four seasons"}},
+      {"text": ".", "lemma": ".", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "b8ab505d-81a4-4489-9dab-e7bb07a5c591",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "la ʒuʁne kɔ̃t vɛ̃tkatʁ œʁ",
+    "translation": {"zh": "一天有二十四小时。", "en": "A day has 24 hours."},
+    "tokens": [
+      {"text": "La journée", "lemma": "journée", "ipa": "la ʒuʁne", "emoji": "☀️", "translation": {"zh": "一天", "en": "the day"}},
+      {"text": "compte", "lemma": "compter", "ipa": "kɔ̃t", "emoji": "", "translation": {"zh": "包含", "en": "has"}},
+      {"text": "vingt-quatre heures", "lemma": "vingt-quatre heure", "ipa": "vɛ̃tkatʁ œʁ", "emoji": "🕐", "translation": {"zh": "二十四小时", "en": "24 hours"}},
+      {"text": ".", "lemma": ".", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "e987a2c9-4597-4301-9ff3-33699e7b7703",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "le sɛ̃k anonyz dy dʁapo ɔlɛ̃pik ʁəpʁezɑ̃t le sɛ̃k kɔ̃tinɑ̃",
+    "translation": {"zh": "奥运五环代表五大洲。", "en": "The five Olympic rings represent five continents."},
+    "tokens": [
+      {"text": "Les cinq anneaux", "lemma": "cinq anneau", "ipa": "le sɛ̃k ano", "emoji": "🔗", "translation": {"zh": "五环", "en": "the five rings"}},
+      {"text": "du drapeau olympique", "lemma": "drapeau olympique", "ipa": "dy dʁapo ɔlɛ̃pik", "emoji": "🏳️", "translation": {"zh": "奥运旗的", "en": "of the Olympic flag"}},
+      {"text": "représentent", "lemma": "représenter", "ipa": "ʁəpʁezɑ̃t", "emoji": "", "translation": {"zh": "代表", "en": "represent"}},
+      {"text": "les cinq continents", "lemma": "cinq continent", "ipa": "le sɛ̃k kɔ̃tinɑ̃", "emoji": "🌍", "translation": {"zh": "五大洲", "en": "five continents"}},
+      {"text": ".", "lemma": ".", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "919b9e41-86ca-4b53-834b-b66e86efc5d2",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "lez ymɛ̃ ɔ̃ vɛ̃ttʁwa pɛʁ də kʁɔmɔzɔm",
+    "translation": {"zh": "人有二十三对染色体。", "en": "Humans have 23 chromosome pairs."},
+    "tokens": [
+      {"text": "Les humains", "lemma": "humain", "ipa": "lez ymɛ̃", "emoji": "🧑", "translation": {"zh": "人类", "en": "humans"}},
+      {"text": "ont", "lemma": "avoir", "ipa": "ɔ̃", "emoji": "", "translation": {"zh": "拥有", "en": "have"}},
+      {"text": "vingt-trois paires", "lemma": "vingt-trois paire", "ipa": "vɛ̃ttʁwa pɛʁ", "emoji": "", "translation": {"zh": "二十三对", "en": "23 pairs"}},
+      {"text": "de chromosomes", "lemma": "chromosome", "ipa": "də kʁɔmɔzɔm", "emoji": "🧬", "translation": {"zh": "染色体的", "en": "of chromosomes"}},
+      {"text": ".", "lemma": ".", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "287ce02c-cec0-48b1-873f-2382271cc851",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɛt vil a dø mil abitɑ̃",
+    "translation": {"zh": "这城有两千居民。", "en": "This city has 2000 residents."},
+    "tokens": [
+      {"text": "Cette ville", "lemma": "ville", "ipa": "sɛt vil", "emoji": "🏙️", "translation": {"zh": "这个城市", "en": "this city"}},
+      {"text": "a", "lemma": "avoir", "ipa": "a", "emoji": "", "translation": {"zh": "有", "en": "has"}},
+      {"text": "deux mille habitants", "lemma": "deux mille habitant", "ipa": "dø mil abitɑ̃", "emoji": "👥", "translation": {"zh": "两千居民", "en": "2000 residents"}},
+      {"text": ".", "lemma": ".", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "5a1846f7-ae36-4519-b0e6-e074a87b3a69",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "il j a tʁwa sɑ̃ swasɑ̃tsɛ̃k ʒuʁ dɑ̃z yn ane",
+    "translation": {"zh": "一年有三百六十五天。", "en": "A year has 365 days."},
+    "tokens": [
+      {"text": "Il y a", "lemma": "il y avoir", "ipa": "il j a", "emoji": "", "translation": {"zh": "有", "en": "there are"}},
+      {"text": "trois cent soixante-cinq jours", "lemma": "trois cent soixante-cinq jour", "ipa": "tʁwa sɑ̃ swasɑ̃tsɛ̃k ʒuʁ", "emoji": "📅", "translation": {"zh": "三百六十五天", "en": "365 days"}},
+      {"text": "dans une année", "lemma": "année", "ipa": "dɑ̃z yn ane", "emoji": "", "translation": {"zh": "在一年里", "en": "in a year"}},
+      {"text": ".", "lemma": ".", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "ba6f6abb-8636-42a0-bca6-718f99dcef16",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɛt ɑ̃tʁəpʁiz ɑ̃plwa vɛ̃ mil pɛʁsɔn",
+    "translation": {"zh": "该公司雇两万人。", "en": "This company employs 20000 people."},
+    "tokens": [
+      {"text": "Cette entreprise", "lemma": "entreprise", "ipa": "sɛt ɑ̃tʁəpʁiz", "emoji": "🏢", "translation": {"zh": "这家公司", "en": "this company"}},
+      {"text": "emploie", "lemma": "employer", "ipa": "ɑ̃plwa", "emoji": "", "translation": {"zh": "雇用", "en": "employs"}},
+      {"text": "vingt mille personnes", "lemma": "vingt mille personne", "ipa": "vɛ̃ mil pɛʁsɔn", "emoji": "👥", "translation": {"zh": "两万人", "en": "20000 people"}},
+      {"text": ".", "lemma": ".", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "3d0bcffd-27b4-497e-b264-dec3a2db0aa3",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "paʁi kɔ̃t ply də dø miljɔ̃ dabitɑ̃",
+    "translation": {"zh": "巴黎超两百万人。", "en": "Paris has over 2 million residents."},
+    "tokens": [
+      {"text": "Paris", "lemma": "Paris", "ipa": "paʁi", "emoji": "🗼", "translation": {"zh": "巴黎", "en": "Paris"}},
+      {"text": "compte", "lemma": "compter", "ipa": "kɔ̃t", "emoji": "", "translation": {"zh": "包含", "en": "has"}},
+      {"text": "plus de", "lemma": "plus de", "ipa": "ply də", "emoji": "", "translation": {"zh": "超过", "en": "more than"}},
+      {"text": "deux millions d'habitants", "lemma": "deux million habitant", "ipa": "dø miljɔ̃ dabitɑ̃", "emoji": "👥", "translation": {"zh": "两百万居民", "en": "2 million residents"}},
+      {"text": ".", "lemma": ".", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "f3e3b1f8-1bc6-4b05-8ba4-469993f9d18c",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sə film a ʁapɔʁte sɑ̃ miljɔ̃ dœʁo",
+    "translation": {"zh": "这电影赚一亿欧元。", "en": "This film earned 100 million euros."},
+    "tokens": [
+      {"text": "Ce film", "lemma": "film", "ipa": "sə film", "emoji": "🎬", "translation": {"zh": "这部电影", "en": "this film"}},
+      {"text": "a rapporté", "lemma": "rapporter", "ipa": "a ʁapɔʁte", "emoji": "", "translation": {"zh": "赚得", "en": "earned"}},
+      {"text": "cent millions d'euros", "lemma": "cent million euro", "ipa": "sɑ̃ miljɔ̃ dœʁo", "emoji": "💶", "translation": {"zh": "一亿欧元", "en": "100 million euros"}},
+      {"text": ".", "lemma": ".", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "cde13335-09a0-45c4-9af6-0c1a70ae169e",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "la tɛʁ ɛt a sɑ̃ sɛ̃kɑ̃t miljɔ̃ də kilɔmɛtʁ dy sɔlɛj",
+    "translation": {"zh": "地球距日一亿五千万公里。", "en": "Earth is 150 million km from the Sun."},
+    "tokens": [
+      {"text": "La Terre", "lemma": "Terre", "ipa": "la tɛʁ", "emoji": "🌍", "translation": {"zh": "地球", "en": "the Earth"}},
+      {"text": "est à", "lemma": "être à", "ipa": "ɛt a", "emoji": "", "translation": {"zh": "位于", "en": "is at"}},
+      {"text": "cent cinquante millions", "lemma": "cent cinquante million", "ipa": "sɑ̃ sɛ̃kɑ̃t miljɔ̃", "emoji": "", "translation": {"zh": "一亿五千万", "en": "150 million"}},
+      {"text": "de kilomètres", "lemma": "kilomètre", "ipa": "də kilɔmɛtʁ", "emoji": "📏", "translation": {"zh": "公里", "en": "kilometers"}},
+      {"text": "du Soleil", "lemma": "Soleil", "ipa": "dy sɔlɛj", "emoji": "☀️", "translation": {"zh": "离太阳", "en": "from the Sun"}},
+      {"text": ".", "lemma": ".", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "9c538b86-c67e-41aa-a580-4505e288bafc",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "la ʃin kɔ̃t plys dœ̃ miljaʁ katʁə sɑ̃ miljɔ̃ dabitɑ̃",
+    "translation": {"zh": "中国有十四亿多人。", "en": "China has over 1.4 billion residents."},
+    "tokens": [
+      {"text": "La Chine", "lemma": "Chine", "ipa": "la ʃin", "emoji": "🇨🇳", "translation": {"zh": "中国", "en": "China"}},
+      {"text": "compte", "lemma": "compter", "ipa": "kɔ̃t", "emoji": "", "translation": {"zh": "包含", "en": "has"}},
+      {"text": "plus d'", "lemma": "plus de", "ipa": "plys d", "emoji": "", "translation": {"zh": "超过", "en": "more than"}},
+      {"text": "un milliard quatre cents millions d'habitants", "lemma": "milliard habitant", "ipa": "œ̃ miljaʁ katʁə sɑ̃ miljɔ̃ dabitɑ̃", "emoji": "👥", "translation": {"zh": "十四亿居民", "en": "1.4 billion residents"}},
+      {"text": ".", "lemma": ".", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "ec3d9f90-6937-46f5-ae2d-3b712407fb9a",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "lə bydʒɛ də leta depas mil miljaʁ dœʁo",
+    "translation": {"zh": "国家预算超万亿欧元。", "en": "State budget exceeds a trillion euros."},
+    "tokens": [
+      {"text": "Le budget", "lemma": "budget", "ipa": "lə bydʒɛ", "emoji": "💰", "translation": {"zh": "预算", "en": "the budget"}},
+      {"text": "de l'État", "lemma": "État", "ipa": "də leta", "emoji": "🏛️", "translation": {"zh": "国家的", "en": "of the state"}},
+      {"text": "dépasse", "lemma": "dépasser", "ipa": "depas", "emoji": "", "translation": {"zh": "超过", "en": "exceeds"}},
+      {"text": "mille milliards d'euros", "lemma": "mille milliard euro", "ipa": "mil miljaʁ dœʁo", "emoji": "💶", "translation": {"zh": "万亿欧元", "en": "trillion euros"}},
+      {"text": ".", "lemma": ".", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  }
+]

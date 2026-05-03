@@ -81,7 +81,7 @@ struct ProfileView: View {
                     NavigationLink {
                         LanguagePickerView(
                             title: L("学习语言", "Learning Language", nativeLanguage: nl),
-                            languages: LanguageConfig.learningLanguages.filter { $0.id != candyStore.nativeLanguage },
+                            languages: LanguageConfig.releasedLearningLanguages.filter { $0.id != candyStore.nativeLanguage },
                             selectedID: $selectedLearningLanguageID,
                             nativeLanguage: nl
                         )
@@ -255,6 +255,20 @@ struct ProfileView: View {
                 }
 
                 // ── Live Activity toggle — hidden, code retained for future cleanup ──
+
+                #if DEBUG
+                Section(header: Text("Developer"),
+                        footer: Text(L("仅 DEBUG 构建可见，用来手动切换订阅状态测试 UI",
+                                       "DEBUG-only — toggle premium state to test UI",
+                                       nativeLanguage: nl))) {
+                    Toggle(isOn: Binding(
+                        get: { appModel.playbackBudget.isPremium },
+                        set: { appModel.playbackBudget.setPremium($0) }
+                    )) {
+                        Label("Premium (∞ time)", systemImage: "infinity")
+                    }
+                }
+                #endif
             }
                 .scrollContentBackground(.hidden)
             }

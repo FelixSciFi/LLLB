@@ -49,34 +49,133 @@ struct ProgressRing: View {
                 .trim(from: 0, to: CGFloat(progress.clamped(to: 0...1)))
                 .stroke(color, style: StrokeStyle(lineWidth: lineWidth, lineCap: isAchieved ? .butt : .round))
                 .rotationEffect(.degrees(startAngle - 90))
+                // Soft outer glow when there's something to collect — visible
+                // even in peripheral vision without being aggressive.
+                .shadow(
+                    color: isAchieved ? color.opacity(pulse ? 0.85 : 0.25) : .clear,
+                    radius: isAchieved ? (pulse ? max(4, diameter * 0.10) : 1) : 0
+                )
             if isAchieved {
                 Circle()
                     .trim(from: 0, to: 1.0)
                     .stroke(
-                        Color.white.opacity(pulse ? 0.62 : 0.18),
+                        Color.white.opacity(pulse ? 0.92 : 0.18),
                         style: StrokeStyle(lineWidth: lineWidth, lineCap: .butt)
                     )
-                    .animation(.easeInOut(duration: 2.4).repeatForever(autoreverses: true), value: pulse)
             }
         }
         .frame(width: diameter, height: diameter)
+        .animation(
+            isAchieved
+                ? .easeInOut(duration: 1.4).repeatForever(autoreverses: true)
+                : .default,
+            value: pulse
+        )
         .onAppear { if isAchieved { pulse = true } }
         .onChange(of: isAchieved) { if $0 { pulse = true } else { pulse = false } }
     }
 }
 
-// MARK: - Overlay (2×2 large rings, shown on tap)
+// MARK: - Threshold formatting helper
+
+enum MilestoneFormat {
+    /// Compact human-readable threshold (e.g., 30 → "30", 90 → "1.5h", 600 → "10h").
+    static func threshold(_ minutes: Int, nativeLanguage nl: String) -> String {
+        let minLabel = L("分", "m", nativeLanguage: nl)
+        if minutes < 60 { return "\(minutes)\(minLabel)" }
+        let hours = Double(minutes) / 60.0
+        if minutes < 600 { return String(format: "%.1fh", hours) }
+        return "\(minutes / 60)h"
+    }
+
+    /// Current-value formatting matching the rings UI.
+    static func currentValue(_ minutes: Int) -> String {
+        if minutes <= 0  { return "0" }
+        if minutes < 60  { return "\(minutes)" }
+        let hours = Double(minutes) / 60.0
+        if minutes < 600 { return String(format: "%.1f", hours) }
+        return "\(minutes / 60)"
+    }
+}
+
+// MARK: - Single milestone badge (ring style)
+
+struct MilestoneBadge: View {
+    let milestone: MilestoneDefinition
+    let achieved:  Bool
+    /// Diameter of the badge ring in points.
+    var diameter:  CGFloat = 90
+    var nativeLanguage: String
+
+    private var color: Color {
+        switch milestone.dimension {
+        case .daily:    return Color.lllbRingColors[0]
+        case .weekly:   return Color.lllbRingColors[1]
+        case .monthly:  return Color.lllbRingColors[2]
+        case .lifetime: return Color.lllbRingColors[3]
+        }
+    }
+
+    private var ringWidth: CGFloat { max(3, diameter * 0.06) }
+
+    var body: some View {
+        VStack(spacing: 8) {
+            ZStack {
+                // Outer ring — solid continuous stroke either way; "locked"
+                // is conveyed purely via desaturation, not dash pattern.
+                Circle()
+                    .stroke(
+                        achieved ? color : Color.secondary.opacity(0.22),
+                        lineWidth: ringWidth
+                    )
+                    .frame(width: diameter, height: diameter)
+
+                // Inner fill
+                Circle()
+                    .fill(achieved ? color.opacity(0.10) : Color.secondary.opacity(0.04))
+                    .frame(width: diameter - ringWidth * 2, height: diameter - ringWidth * 2)
+
+                // Threshold label
+                Text(MilestoneFormat.threshold(milestone.thresholdMinutes, nativeLanguage: nativeLanguage))
+                    .font(.system(size: diameter * 0.24, weight: .bold, design: .rounded))
+                    .foregroundStyle(achieved ? color : Color.secondary.opacity(0.50))
+                    .minimumScaleFactor(0.6)
+                    .lineLimit(1)
+                    .padding(.horizontal, 6)
+            }
+
+            VStack(spacing: 2) {
+                Text(L(milestone.titleZh, milestone.titleEn, nativeLanguage: nativeLanguage))
+                    .font(.system(size: diameter * 0.13, weight: .semibold))
+                    .foregroundStyle(achieved ? Color.primary : Color.secondary)
+                    .multilineTextAlignment(.center)
+                    .lineLimit(2)
+                    .fixedSize(horizontal: false, vertical: true)
+
+                Text("+\(milestone.candyReward) 🍬")
+                    .font(.system(size: diameter * 0.11, weight: .medium, design: .rounded))
+                    .foregroundStyle(achieved ? Color.lllbRingColors[3] : Color.secondary.opacity(0.55))
+            }
+            .frame(width: diameter * 1.15)
+        }
+    }
+}
+
+// MARK: - Overlay (original 2×2 layout — tapping a ring drills into its catalog)
 
 struct ProgressRingsOverlay: View {
     let progresses:     [Double]   // [today, week, month, lifetime]
     let currentMinutes: [Int]
     let targetMinutes:  [Int?]     // nil = maxed out
     let nativeLanguage: String
+    @ObservedObject var achievementManager: AchievementManager
     let onDismiss:      () -> Void
 
     private let diameter:     CGFloat = 126
     private let lineWidth:    CGFloat = 10
     private let trackOpacity: Double  = 0.18
+
+    @State private var selected: Int? = nil   // 0…3 = dimension index, nil = grid
 
     private var labels: [String] {[
         L("今天", "Today",    nativeLanguage: nativeLanguage),
@@ -85,53 +184,144 @@ struct ProgressRingsOverlay: View {
         L("全部", "All time", nativeLanguage: nativeLanguage),
     ]}
 
+    private static let dimensionByIndex: [MilestoneDimension] =
+        [.daily, .weekly, .monthly, .lifetime]
+
     var body: some View {
         ZStack {
             Color.black.opacity(0.4)
                 .ignoresSafeArea()
-                .onTapGesture { onDismiss() }
+                .onTapGesture {
+                    if selected != nil {
+                        Haptics.soft()
+                        selected = nil
+                    } else {
+                        onDismiss()
+                    }
+                }
 
-            VStack(spacing: 12) {
-                HStack(spacing: 12) {
-                    ringCell(0)
-                    ringCell(1)
-                }
-                HStack(spacing: 12) {
-                    ringCell(2)
-                    ringCell(3)
-                }
+            // Plain instant swap — no transition, no animation.
+            if let i = selected {
+                detailCard(for: i)
+            } else {
+                gridCard
             }
-            .padding(24)
-            .background(.regularMaterial, in: RoundedRectangle(cornerRadius: 32, style: .continuous))
-            .onTapGesture {}
         }
+    }
+
+    // MARK: 2×2 grid (unchanged from the original)
+
+    private var gridCard: some View {
+        VStack(spacing: 12) {
+            HStack(spacing: 12) {
+                ringCell(0)
+                ringCell(1)
+            }
+            HStack(spacing: 12) {
+                ringCell(2)
+                ringCell(3)
+            }
+        }
+        .padding(24)
+        .background(.regularMaterial, in: RoundedRectangle(cornerRadius: 32, style: .continuous))
+        .onTapGesture {}   // swallow so background tap-to-dismiss doesn't fire
     }
 
     @ViewBuilder
     private func ringCell(_ i: Int) -> some View {
-        ZStack {
-            ProgressRing(
-                progress:     progresses[i],
-                color:        Color.lllbRingColors[i],
-                startAngle:   0,
-                diameter:     diameter,
-                lineWidth:    lineWidth,
-                trackOpacity: trackOpacity
-            )
-            VStack(spacing: 3) {
+        Button {
+            Haptics.light()
+            selected = i
+        } label: {
+            ZStack {
+                ProgressRing(
+                    progress:     progresses[i],
+                    color:        Color.lllbRingColors[i],
+                    startAngle:   0,
+                    diameter:     diameter,
+                    lineWidth:    lineWidth,
+                    trackOpacity: trackOpacity
+                )
+                VStack(spacing: 3) {
+                    Text(labels[i])
+                        .font(.system(size: 11))
+                        .foregroundStyle(Color.secondary)
+                    Text(formatValue(currentMinutes[i]))
+                        .font(.system(size: 24, weight: .semibold, design: .rounded))
+                        .foregroundStyle(Color.lllbRingColors[i])
+                    Text(formatTarget(targetMinutes[i]))
+                        .font(.system(size: 11))
+                        .foregroundStyle(Color.secondary.opacity(0.7))
+                }
+            }
+            .frame(width: diameter, height: diameter)
+        }
+        .buttonStyle(.plain)
+    }
+
+    // MARK: Drill-down catalog for one dimension
+
+    @ViewBuilder
+    private func detailCard(for i: Int) -> some View {
+        let dim   = Self.dimensionByIndex[i]
+        let color = Color.lllbRingColors[i]
+        let items = AchievementManager.allMilestones
+            .filter { $0.dimension == dim }
+            .sorted { $0.thresholdMinutes < $1.thresholdMinutes }
+        let earned = items.filter { achievementManager.isEverAchieved($0.id) }.count
+
+        VStack(spacing: 0) {
+            // Header: back chevron + label + count
+            HStack(spacing: 10) {
+                Button {
+                    Haptics.soft()
+                    selected = nil
+                } label: {
+                    Image(systemName: "chevron.left")
+                        .font(.system(size: 15, weight: .semibold))
+                        .foregroundStyle(Color.lllbAccent)
+                        .padding(8)
+                        .contentShape(Rectangle())
+                }
+                .buttonStyle(.plain)
+                Circle().fill(color).frame(width: 9, height: 9)
                 Text(labels[i])
-                    .font(.system(size: 11))
-                    .foregroundStyle(Color.secondary)
-                Text(formatValue(currentMinutes[i]))
-                    .font(.system(size: 24, weight: .semibold, design: .rounded))
-                    .foregroundStyle(Color.lllbRingColors[i])
-                Text(formatTarget(targetMinutes[i]))
-                    .font(.system(size: 11))
-                    .foregroundStyle(Color.secondary.opacity(0.7))
+                    .font(.system(size: 16, weight: .semibold))
+                    .foregroundStyle(Color.primary)
+                Spacer()
+                Text("\(earned) / \(items.count)")
+                    .font(.caption.monospacedDigit())
+                    .foregroundStyle(.secondary)
+            }
+            .padding(.horizontal, 16)
+            .padding(.vertical, 12)
+
+            Divider()
+
+            ScrollView(showsIndicators: false) {
+                let cols = [GridItem(.flexible(), spacing: 18), GridItem(.flexible(), spacing: 18)]
+                LazyVGrid(columns: cols, spacing: 22) {
+                    ForEach(items) { m in
+                        MilestoneBadge(
+                            milestone:      m,
+                            achieved:       achievementManager.isEverAchieved(m.id),
+                            diameter:       96,
+                            nativeLanguage: nativeLanguage
+                        )
+                    }
+                }
+                .padding(.horizontal, 18)
+                .padding(.vertical, 18)
             }
         }
-        .frame(width: diameter, height: diameter)
+        .frame(maxWidth: .infinity)
+        .frame(maxHeight: 540)
+        .background(.regularMaterial, in: RoundedRectangle(cornerRadius: 32, style: .continuous))
+        .padding(.horizontal, 16)
+        .onTapGesture {}
     }
+
+    // MARK: Formatters (unchanged)
 
     private func formatValue(_ minutes: Int) -> String {
         if minutes <= 0  { return "0" }
@@ -149,7 +339,7 @@ struct ProgressRingsOverlay: View {
     }
 }
 
-// MARK: - Milestone collect card (non-dismissible)
+// MARK: - Milestone collect card (badge style, non-dismissible)
 
 struct MilestoneCollectCard: View {
     let milestones:     [MilestoneDefinition]
@@ -160,103 +350,96 @@ struct MilestoneCollectCard: View {
 
     var body: some View {
         ZStack {
-            Color.black.opacity(0.4)
+            Color.black.opacity(0.45)
                 .ignoresSafeArea()
             // No tap-to-dismiss — user must tap collect
 
-            VStack(spacing: 0) {
-                // Header
-                VStack(spacing: 6) {
-                    Text(L("里程碑达成", "Milestone Reached", nativeLanguage: nativeLanguage))
-                        .font(.system(size: 17, weight: .semibold))
-                        .foregroundStyle(Color.primary)
-                    Text(L("收取奖励后继续", "Collect your rewards to continue", nativeLanguage: nativeLanguage))
+            VStack(spacing: 22) {
+                Text(milestones.count == 1
+                     ? L("里程碑达成", "Milestone Reached",  nativeLanguage: nativeLanguage)
+                     : L("解锁了 \(milestones.count) 个里程碑",
+                         "\(milestones.count) Milestones Reached",
+                         nativeLanguage: nativeLanguage))
+                    .font(.system(size: 18, weight: .semibold))
+                    .foregroundStyle(Color.primary)
+                    .padding(.top, 26)
+
+                badgeArea
+
+                // Subtitle for the single-milestone case (since user has space)
+                if milestones.count == 1, let m = milestones.first {
+                    Text(L(m.subtitleZh, m.subtitleEn, nativeLanguage: nativeLanguage))
                         .font(.system(size: 13))
-                        .foregroundStyle(Color.secondary)
+                        .foregroundStyle(.secondary)
+                        .multilineTextAlignment(.center)
+                        .padding(.horizontal, 28)
                 }
-                .padding(.top, 24)
-                .padding(.bottom, 20)
 
-                Divider()
-
-                // Milestone list
-                ScrollView(showsIndicators: false) {
-                    VStack(spacing: 0) {
-                        ForEach(milestones) { m in
-                            milestoneRow(m)
-                            if m.id != milestones.last?.id {
-                                Divider().padding(.leading, 56)
-                            }
-                        }
-                    }
-                }
-                .frame(maxHeight: 340)
-
-                Divider()
-
-                // Total + collect button
-                HStack {
-                    Text("🍬 ×\(totalCandy)")
-                        .font(.system(size: 20, weight: .semibold, design: .rounded))
-                        .foregroundStyle(Color.lllbRingColors[3])
-                    Spacer()
-                    Button {
-                        onCollect()
-                    } label: {
+                Button {
+                    onCollect()
+                } label: {
+                    HStack(spacing: 8) {
                         Text(L("收取", "Collect", nativeLanguage: nativeLanguage))
                             .font(.system(size: 16, weight: .semibold))
-                            .foregroundStyle(.white)
-                            .padding(.horizontal, 24)
-                            .padding(.vertical, 10)
-                            .background(Color.lllbAccent, in: Capsule())
+                        Text("+\(totalCandy) 🍬")
+                            .font(.system(size: 15, weight: .semibold, design: .rounded))
                     }
+                    .foregroundStyle(.white)
+                    .padding(.horizontal, 28)
+                    .padding(.vertical, 12)
+                    .background(Color.lllbAccent, in: Capsule())
                 }
-                .padding(.horizontal, 20)
-                .padding(.vertical, 16)
+                .buttonStyle(.plain)
+                .padding(.bottom, 26)
             }
+            .frame(maxWidth: .infinity)
             .background(.regularMaterial, in: RoundedRectangle(cornerRadius: 28, style: .continuous))
             .padding(.horizontal, 20)
         }
     }
 
     @ViewBuilder
-    private func milestoneRow(_ m: MilestoneDefinition) -> some View {
-        HStack(spacing: 12) {
-            // Color badge
-            Circle()
-                .stroke(ringColor(m.dimension), lineWidth: 2.5)
-                .frame(width: 28, height: 28)
-                .overlay(
-                    Circle()
-                        .fill(ringColor(m.dimension).opacity(0.15))
-                )
-
-            VStack(alignment: .leading, spacing: 2) {
-                Text(L(m.titleZh, m.titleEn, nativeLanguage: nativeLanguage))
-                    .font(.system(size: 14, weight: .medium))
-                    .foregroundStyle(Color.primary)
-                Text(L(m.subtitleZh, m.subtitleEn, nativeLanguage: nativeLanguage))
-                    .font(.system(size: 11))
-                    .foregroundStyle(Color.secondary)
-                    .lineLimit(2)
+    private var badgeArea: some View {
+        if milestones.count == 1, let m = milestones.first {
+            // Single big badge
+            MilestoneBadge(
+                milestone:      m,
+                achieved:       true,
+                diameter:       150,
+                nativeLanguage: nativeLanguage
+            )
+            .padding(.horizontal, 24)
+        } else if milestones.count <= 4 {
+            // 2-4: grid (2 columns)
+            let cols = [GridItem(.flexible(), spacing: 16), GridItem(.flexible(), spacing: 16)]
+            LazyVGrid(columns: cols, spacing: 18) {
+                ForEach(milestones) { m in
+                    MilestoneBadge(
+                        milestone:      m,
+                        achieved:       true,
+                        diameter:       96,
+                        nativeLanguage: nativeLanguage
+                    )
+                }
             }
-
-            Spacer()
-
-            Text("+\(m.candyReward)")
-                .font(.system(size: 13, weight: .semibold, design: .rounded))
-                .foregroundStyle(Color.lllbRingColors[3])
-        }
-        .padding(.horizontal, 20)
-        .padding(.vertical, 12)
-    }
-
-    private func ringColor(_ dimension: MilestoneDimension) -> Color {
-        switch dimension {
-        case .daily:    return Color.lllbRingColors[0]
-        case .weekly:   return Color.lllbRingColors[1]
-        case .monthly:  return Color.lllbRingColors[2]
-        case .lifetime: return Color.lllbRingColors[3]
+            .padding(.horizontal, 24)
+        } else {
+            // 5+: scrollable grid
+            ScrollView(showsIndicators: false) {
+                let cols = [GridItem(.flexible(), spacing: 16), GridItem(.flexible(), spacing: 16)]
+                LazyVGrid(columns: cols, spacing: 18) {
+                    ForEach(milestones) { m in
+                        MilestoneBadge(
+                            milestone:      m,
+                            achieved:       true,
+                            diameter:       90,
+                            nativeLanguage: nativeLanguage
+                        )
+                    }
+                }
+                .padding(.horizontal, 24)
+            }
+            .frame(maxHeight: 360)
         }
     }
 }

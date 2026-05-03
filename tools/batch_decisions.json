@@ -1,0 +1,1157 @@
+[
+  {
+    "id": "ade1eb60-3ed0-4b6f-ba04-042f6472f7a4",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "9888180e-a984-4800-891a-b97ed7eb2ffd",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "7cb40544-1f01-409b-a79d-f968a7bcf7e6",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "ce9a4aeb-869f-4549-bc45-9674167bd76e",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "fef27291-ddc1-4649-a6b4-1f6a3005be99",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "7703c940-e658-4f69-b283-74c910de78b7",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "3eff07f5-b5d3-430e-b1e3-85773c8ddc8d",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "65765b24-c8bc-48fb-a1b5-36890fe2fc59",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "6d5e496c-b37a-4866-b6e0-19b98c6b6d24",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "7ac880db-1dc8-4b75-8642-790569ea3f14",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "f3d23965-22be-4b94-8659-11ea0d91d45c",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "f6549116-2fca-4dbd-b10f-19e2e718d6a3",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "afb6b74d-c795-4c49-ab09-ea89bfdb1aa0",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "c7f9f880-a438-4e17-aa5c-7a35dbeed09d",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "dd47ebdc-aba9-40ed-ba5b-1655dba0281b",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "b183bc0c-c2b2-4bbe-92c1-963c5476609f",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "8262ae87-001b-41d2-a5cd-e3d16eb3bb0d",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "6d438351-c5a8-45d2-b760-1a2b024e9747",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "abfd5b9b-2642-4e12-8b4f-39de54663e20",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "aa882ae5-c3e8-4895-9000-4814efb46ce4",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "c15501bb-845a-4268-aec2-12ceb02c6193",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "7e26114c-ab3a-4c27-8338-2316b10076cf",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "fb264330-3528-42dc-a684-54b616d0e7b3",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "c6b328a9-1f39-4ba0-9fcb-179291b2e641",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "5cb960a4-1091-4c7f-be75-c36800b1c7e6",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "9243de4a-2669-4669-9a8a-844529fa4eaf",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "5e046524-6edb-4e63-86b1-da55ee95e151",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "4899ddf2-0a9a-402a-b0d0-58acd8edf1df",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "db6f1e97-92bf-4122-9bc8-01f73916e179",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "b11c6f1d-110e-4c7d-b4ed-b08fac719922",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "4bd4a8c5-7f52-4f7b-8bb8-ba74518f773b",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "4463eaf5-235b-40cc-8d4c-9aa61c719f20",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "a66b1fc0-d884-4447-9a19-3a64dc87f42b",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "e718214e-0e99-4510-beaf-6270d3ae821d",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "a34f063b-3d47-47b7-bc3a-d368aa0b3969",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "fe365c4b-af61-4736-bafc-530ca81fb059",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "aefaf17b-b6c4-4ca3-af79-03b00c348805",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "82da3b77-da48-48d7-bb99-49df93e51097",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "5e329248-ebf5-4474-9ad8-8c92c53a5212",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "4a7b0fd2-c440-43e9-989c-2547939bc8c2",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "bba5f04a-0c0c-41b9-9153-fae3efdcf0a0",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "67aac379-bb9b-4847-b679-49b01735ddb7",
+    "action": "delete",
+    "reason": "Nonobstant ce refus."
+  },
+  {
+    "id": "7b520031-e19f-4253-9f46-a60afc700ee4",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "7e873751-5f70-4e79-a4b4-6fab64b53eb1",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "43c1fd2e-f674-4f64-b6cc-2ee5e6be845a",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "4a2a19d7-98f6-42f8-9af5-941a5a0408ca",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "7f9f2dee-ffcd-4eea-9c20-4e6545804e37",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "f615b877-5172-410b-b9af-b0851f524a1d",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "5075390b-68f0-4c52-a153-cbaa06f214b8",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "6fe9ac8e-986e-4b7d-a503-c10f4af94094",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "d5554e78-1d01-4d4d-878e-34a1acf67a0d",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "d1e17d57-97d0-461c-a936-79a23cec6a62",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "7113534a-824f-4c96-a455-fdcd49f1eb09",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "b446893f-1ca8-4b31-aed2-d51bf8923139",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "dba26606-385a-4df3-8b02-afa511779060",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "f79dabfe-2e41-419c-a1dd-b8de9365afe0",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "33a3cab4-b7db-46e1-9358-eac75cf017a6",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "3c3f3e42-160d-443c-ab48-f4d6e2c39412",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "991de57d-5d92-4f38-8a35-c7f315e15271",
+    "action": "use_new",
+    "reason": "override: But !"
+  },
+  {
+    "id": "c14276b8-39a8-4502-89e6-ddee211ccda9",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "55593b30-6fb9-411f-8d76-b2c571c00bf6",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "b1114ab9-0f49-405d-b9ab-eaa198be2908",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "65010f8c-6742-47fa-927e-3fa71a448797",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "a06852b8-1525-4dd7-89cb-e0b75967304e",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "d6d01631-5547-4e5e-ba47-d99222091048",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "c6f53e25-706b-4f60-9c26-5b92f5e2793f",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "7574bf77-e06d-4891-8dfb-e27599b717c9",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "716089d2-775e-4817-b327-f5c14e782677",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "3afcfe5a-1892-4a50-b51e-735d3e150b7e",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "861a9566-022d-4718-9edb-fe9320614d73",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "5b63df77-a59a-4bfd-a69d-b6a4b5374903",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "f776a5fc-9a11-4c0f-80a8-7febea929dbd",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "73ee50a4-4518-46a0-a4f0-ff6792ec13a4",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "707f36d3-9f10-440f-a79f-f79a1d9149b2",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "61371f03-dd34-4523-82ac-f55d23e982b7",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "e3f365d3-2459-4161-99bc-b3e309451a14",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "99155d43-1b14-4d00-8291-9a21a485e52e",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "ce20664a-d633-496e-8c3e-616e6d78c85f",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "54d8c43b-c6d8-4fb4-9d4d-651427b91382",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "7a1c6fc4-b702-4693-9d5f-54ec1081e45a",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "2b101428-c9df-45e7-9e4a-5a28619fcbd7",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "cac1a179-ff73-4d09-ad68-5593f63c26c4",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "8c4cf159-0b0f-480f-a339-c4f3549a250e",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "58d10eac-e7a5-40f1-941e-86e68c7fe4e3",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "35f499b1-5ecb-4bb5-b3d0-ab0cbb0d451d",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "4cdce51e-1f74-432c-83d1-f219aff8dd33",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "a78ed32c-d1c2-471f-801f-5648f5019982",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "75e95120-dd33-4a2d-b738-c57a46ce2988",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "3df0273a-e3dc-4fb7-9f63-fbb273912132",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "d3d0264e-f33d-4f5a-8b11-14860a8655b7",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "3caa13dc-1bd7-44f1-a4b2-6caaaf583576",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "9f8012b5-560b-4f5f-83b8-ebfbabdf1173",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "5b57f1f9-f3a2-4a89-ba4b-be14a0c3a319",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "9dc06188-f310-4cc1-9eec-58e931f94782",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "64e79b04-9c12-408e-8be0-9961c969e91f",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "d1263e5a-eb3d-4a49-ac0c-08872f00e719",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "d0c983a0-13fa-44de-ac94-63032922ec50",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "8192be0e-49d1-4d29-8d00-864fda9be12b",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "4e375d6c-2d23-4ff0-b070-b7f903b8f6e1",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "554d87d2-8558-4f4d-8a31-6c8b03c6da6b",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "d9373a35-7ffa-4fbe-a81f-8bf7fc0cd8cc",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "3ef769c0-3d52-43cc-a01c-fd2901120396",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "d0d081f8-2e09-4ccf-8762-074ad73f2c8d",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "4962e9d7-f103-411d-9e3f-efd80e2d8ae7",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "37053ffc-0ef8-48ca-80c5-b81a72eced85",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "9fbd672d-b29a-42b7-abab-a5c3e4697807",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "d264f8d8-5e6b-461f-b05a-b2902cf5e37d",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "a26b28de-82d6-47cc-8de2-3ae28de6f991",
+    "action": "delete",
+    "reason": "Tenu !"
+  },
+  {
+    "id": "3055ed21-1b89-4bde-9f28-6828dc353199",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "28b1285e-f5ee-4011-8044-80f9091b3e48",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "c9c09812-6323-47a7-9032-90ad08463000",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "e4c3b33f-df84-4c1e-b9bb-5b560cd1d042",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "c5c460f6-fd14-4072-a929-60d3aa7c2e6b",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "41ff8a05-dbc1-437c-841f-b968d49e9bf9",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "43e1c5e5-72bc-49f3-8a62-48b7febc5768",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "438ba036-c77c-42a4-b257-87d37029ee56",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "8f57ae31-6596-44b3-873d-09cb23c8bfa0",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "a487f8cb-9e09-484c-8810-0cdceeb3537b",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "4ef9f39e-94df-43a1-a78c-ff3a986ba5d9",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "9b918e32-6b9f-4490-bfb2-24ca12530877",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "ee5fc0ce-3339-4213-a4d4-1421ed2e20e5",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "65017aa6-ff03-4cb3-a291-1975d4deac26",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "48756952-6eda-4139-850b-3eda4da1568a",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "ed9dcff3-a4bc-4618-be80-b2a4501517bd",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "ea698e31-c428-4dd7-be15-5a7ff9a34da9",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "9b020622-5537-403b-803c-5e54f240f2f0",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "549a1fcf-0e9c-420d-ac72-44f6f77270f6",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "3986c8d5-ce0d-42a5-a86f-622475ab8c62",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "95f9a09d-04eb-4bd4-bb92-0408b8392bd7",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "b4bc733c-9234-4763-8f02-eda43a36fc23",
+    "action": "use_new",
+    "reason": "override: Qui ?"
+  },
+  {
+    "id": "8fed9fb7-fc09-4670-a11b-d5be9e0837de",
+    "action": "use_new",
+    "reason": "override: Quoi ?"
+  },
+  {
+    "id": "b1992344-6069-4a87-b49f-3ac83e9fac48",
+    "action": "use_new",
+    "reason": "override: Quand ?"
+  },
+  {
+    "id": "6fd04b5a-c156-44d9-a2f1-980410a751e9",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "fdba2676-1b45-432d-8c23-03967a91a1fd",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "2f1eb150-7c47-4878-be75-934ae2ee29d5",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "4aa1817e-e9dd-4c92-a897-c6c4114496eb",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "9b72fe2a-d5da-44de-8f76-1463b9664e02",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "2bf3bb16-de3f-46c2-8762-ac2e865bbf7e",
+    "action": "delete",
+    "reason": "Encore !"
+  },
+  {
+    "id": "7c5b5393-823f-407e-864c-62ada6d1de6e",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "f69b8137-5fec-4dbb-80fb-e93dc430f212",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "ed98b07a-055f-4d7f-be5e-1a8745dcf062",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "94274fa9-93d8-411f-a0e1-c12667500406",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "7db1db99-0d9e-4b12-a1c2-eecfd1b0250f",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "f5674e48-a461-45b9-acd4-2d502b93c590",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "2dc2074b-a95d-4918-838a-1e7b7102c69a",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "3a01f14e-068d-4f33-836d-8fdd3fe84876",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "cc4c78d6-2751-4ec0-8816-bf0557b0da6f",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "e11e52f4-6ab7-427b-8fd7-6fe8d18ac67f",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "6ebb5c88-300a-4e8c-9ec6-e5e30b5853fa",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "dadb3883-c3c1-4958-b164-7504c2db231a",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "27a53d0b-1d51-490b-a467-6a17729359dc",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "9e75344c-34e6-4940-88ac-fadc49034bae",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "51fa0456-4491-4fca-88ef-281cd13e0165",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "f958d5f9-1d03-407a-91f3-49fde102d0cd",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "b9a83294-5cfe-47fd-99be-c87b82f1c3f6",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "979e5fe6-3456-41b2-921e-29da76aba28e",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "2bb8ce59-a8eb-4ae2-8878-99f43438f935",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "ac7c921f-a65b-4a18-9d4e-fd57e01d0db3",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "a1f4ff23-ee75-43d0-a4a8-556a609ba108",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "408e5ca9-22c9-49b7-80e8-69fb2d6a3f22",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "8b289064-91fe-4781-8bf2-6c1694ad3759",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "8c2e995f-109e-42e4-94a8-10a17791dc2a",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "6a372fe0-0644-43b5-ae66-68306f5f73b8",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "b45c0f8d-6c3f-4b4f-8fb2-019fb1f014eb",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "3734f07e-f13b-431d-937c-77050e3d16f0",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "d9b13830-6a0a-4d8c-a5d0-498091317aac",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "36bbbeb6-df1f-4e2f-bee6-5b86b9480b8f",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "53a9e8c0-beaf-4880-92c2-412172f1f49d",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "6eab8b59-3222-4c1b-8f35-b5a31f27c7f6",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "ca5327de-4e01-417b-b705-d7c4aaab247b",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "6106133c-b94e-42f7-ad4f-0e5f75b2c7a4",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "b3a72d82-044a-46fe-b1b8-0e3921fbfe01",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "9882a16f-3784-421e-8c45-67cbd046fa7c",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "63c27816-f4b3-4a45-92d9-5c21c518efc3",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "937954fe-d49d-43c6-a8a8-575a49370f6d",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "68a646cb-aa6c-4ba8-912d-6b50d10edb16",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "cac94991-455d-46f8-a9ad-ec2f1937de3d",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "ea347270-40b3-45e1-aa99-66ed386c4c49",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "4af1d214-6e16-4e8f-8105-419b03891fb9",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "482cea58-c2a0-4a26-baba-35e9e201d331",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "2ca33307-0aec-4da3-9c92-2955ca0a20ee",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "5385bf9d-bb0d-48ab-8470-653a5ed11e0e",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "744eeb99-ab63-43d5-84da-5472a0ebf78f",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "a2f373ae-7cf0-4227-a77c-84a9df6b69df",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "e8d79d62-2bb9-430f-a6f2-134d2f089872",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "5d6bc943-9284-446c-b6b5-016740ff7e82",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "4c51792c-e4be-4d4d-a9e5-1e82176e5487",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "bc25e36d-8094-4340-b220-d35d17e1b88f",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "69e8c723-a1d8-4d8b-8959-252d2b0e2c7a",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "889b4836-92fe-4c13-9a54-63dc2d219793",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "290a3700-80e7-4171-bcca-394c4a0ab4c1",
+    "action": "delete",
+    "reason": "Plusieurs millions."
+  },
+  {
+    "id": "6dad7cc5-17cc-4b32-a6a4-4e6706a3af38",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "8803bc6a-3a44-4f0b-90c1-1a2b213713bf",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "4154bc53-2885-476a-83a5-6d3a8179176a",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "3bef51ea-f536-4b21-8739-ef926109572a",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "494dee3b-52ab-4c53-9b12-a95f95b26760",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "8501e926-cf8b-4ecd-af55-7aea3fd23e0e",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "c6e01a3b-b541-4e1c-884f-9162442687d9",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "6122fab1-eb8e-42a5-ab61-202df84f697c",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "630bf918-fd47-44a5-a803-03bf2de247f3",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "95c4dd16-4c63-425e-b2b2-b13c70b0128d",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "84252683-2cdd-4922-91ea-bbc8cfb45248",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "fc6abe76-5e02-4d4f-9f29-420029184056",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "7925e7c4-9d48-4159-9731-3327962e0d6c",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "606a130a-3d5d-4e6a-9ada-e5c221fe9a29",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "739bbc99-70b9-4cc3-a93f-075a35753bcd",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "41fe884d-5380-47d8-83fd-722599b99666",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "4fc9a432-cb0a-410a-ac0e-23908ae405f9",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "5554eca7-3170-489e-9757-d1c395f0eda4",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "8f178555-bd82-4d62-b40f-39d8c559da25",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "6f1e46f9-a94b-4cf5-8439-e95fc621adf2",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "f47bf966-7256-4bca-a316-d0e86f166137",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "3162c0a0-a1f4-44c7-a46a-00fe65d4bb7d",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "6e0d92ac-c817-49d3-a960-21bb90d2bf1e",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "a8850d16-6c8e-4639-b525-0d1e6a415089",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "e72c0317-78d5-4d2e-8e72-e4629f4e1a77",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "3138572d-f2b2-496e-b737-98a659413003",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "b8ab505d-81a4-4489-9dab-e7bb07a5c591",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "e987a2c9-4597-4301-9ff3-33699e7b7703",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "919b9e41-86ca-4b53-834b-b66e86efc5d2",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "287ce02c-cec0-48b1-873f-2382271cc851",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "5a1846f7-ae36-4519-b0e6-e074a87b3a69",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "ba6f6abb-8636-42a0-bca6-718f99dcef16",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "3d0bcffd-27b4-497e-b264-dec3a2db0aa3",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "f3e3b1f8-1bc6-4b05-8ba4-469993f9d18c",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "cde13335-09a0-45c4-9af6-0c1a70ae169e",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "9c538b86-c67e-41aa-a580-4505e288bafc",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "ec3d9f90-6937-46f5-ae2d-3b712407fb9a",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "9a972cc1-2ce6-42f0-a09d-b389378f72db",
+    "action": "use_old",
+    "reason": "token_count diff"
+  },
+  {
+    "id": "5ee2e22b-58ff-4172-9c11-4c6cf15ec7bc",
+    "action": "use_new",
+    "reason": "regen"
+  },
+  {
+    "id": "69750e88-9efc-4a6e-86ec-b16c8d1b85ec",
+    "action": "use_old",
+    "reason": "token_count diff"
+  }
+]

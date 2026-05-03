@@ -18,13 +18,21 @@ struct ContentView: View {
     var candyBalance:       Int = 0
     @ObservedObject var usageTracker:       UsageTimeTracker   = .init()
     @ObservedObject var achievementManager: AchievementManager = .init()
+    @ObservedObject var playbackBudget:     PlaybackBudget     = .init()
+    var onboardingCompleted: Bool = true
     var onCollectMilestones: () -> Void = {}
+    var onUseCandyForRefill: () -> Void = {}
+    var onOpenSubscribe:     () -> Void = {}
     @State private var showLibraryPicker  = false
     @State private var showSpeedPopover   = false
     @State private var showRepeatsPopover = false
     @State private var archiveExpanded    = false
     @State private var showRingsOverlay   = false
     @State private var showCollectCard    = false
+    @State private var showCelebration    = false
+    @State private var showCupPeek        = false
+    @State private var showRefillMenu     = false
+    @State private var placementModel:    PlacementTestModel? = nil
 
     private static let playbackSpeedSteps: [Double] = Array(stride(from: 0.5, through: 2.0, by: 0.25))
 
@@ -86,6 +94,11 @@ struct ContentView: View {
                                 sentenceArea(scale: 0.70)
                                 sentenceArea(scale: 0.55)
                             }
+                            // Force a fresh view tree on every sentence change so the
+                            // crossfade transition fires (instead of in-place re-render).
+                            .id(session.currentSentence.id)
+                            .transition(.opacity)
+                            .animation(.easeOut(duration: 0.22), value: session.currentSentence.id)
                             .padding(.horizontal, 12)
                             Spacer(minLength: 110)
                             peekArrow(systemName: "chevron.down")
@@ -168,14 +181,16 @@ struct ContentView: View {
                     .transition(.opacity)
                 }
 
-                // ── Unlock notice overlay ──────────────────────────────────────
-                if !session.pendingUnlockIDs.isEmpty {
-                    UnlockNoticeView(
-                        sentences:      session.pendingUnlockSentences,
+                // ── Unlock picker overlay ──────────────────────────────────────
+                if !session.pendingCandidateGroups.isEmpty {
+                    UnlockPickerView(
+                        groups:         session.pendingCandidateSentences,
+                        remaining:      session.pendingPicksRemaining,
                         nativeLanguage: session.nativeLanguage,
-                        onConfirm: {
+                        onPick: { idx in
+                            Haptics.success()
                             withAnimation(.easeOut(duration: 0.18)) {
-                                session.commitPendingUnlock()
+                                session.pickCandidate(at: idx)
                             }
                         }
                     )
@@ -189,13 +204,32 @@ struct ContentView: View {
                         milestones:     achievementManager.pendingMilestones,
                         nativeLanguage: session.nativeLanguage,
                         onCollect: {
+                            Haptics.success()
                             onCollectMilestones()
                             withAnimation(.easeOut(duration: 0.18)) { showCollectCard = false }
-                            withAnimation(.easeOut(duration: 0.18)) { showRingsOverlay = true }
+                            // Quick celebration burst, then reveal the rings overlay.
+                            showCelebration = true
+                            DispatchQueue.main.asyncAfter(deadline: .now() + 0.55) {
+                                showCelebration = false
+                                withAnimation(.easeOut(duration: 0.18)) { showRingsOverlay = true }
+                            }
                         }
                     )
                     .transition(.opacity)
                     .zIndex(200)
+                }
+
+                if showCelebration {
+                    MilestoneBurst()
+                        .allowsHitTesting(false)
+                        .transition(.opacity)
+                        .zIndex(220)
+                }
+
+                if showRefillMenu {
+                    refillMenuOverlay
+                        .transition(.opacity)
+                        .zIndex(240)
                 }
 
                 // ── Progress rings overlay ──────────────────────────────────────
@@ -214,10 +248,34 @@ struct ContentView: View {
                             achievementManager.nextThreshold(for: .monthly,  currentMinutes: effectiveMinutes[2]),
                             achievementManager.nextThreshold(for: .lifetime, currentMinutes: effectiveMinutes[3]),
                         ],
-                        nativeLanguage: session.nativeLanguage,
-                        onDismiss:      { withAnimation(.easeOut(duration: 0.18)) { showRingsOverlay = false } }
+                        nativeLanguage:    session.nativeLanguage,
+                        achievementManager: achievementManager,
+                        onDismiss:         { withAnimation(.easeOut(duration: 0.18)) { showRingsOverlay = false } }
                     )
                     .transition(.opacity)
+                }
+
+                // ── Placement test (first launch, big-enough libraries) ─────────
+                if let pm = placementModel {
+                    PlacementTestView(
+                        model: pm,
+                        onSkip: {
+                            session.seedPool(allocation: session.defaultBeginnerAllocation())
+                            session.ensurePoolFilled()
+                            session.markPlacementShown()
+                            placementModel = nil
+                            session.isActive = true   // didSet → startFresh()
+                        },
+                        onConfirm: { result in
+                            session.seedPool(allocation: result.allocation)
+                            session.ensurePoolFilled()
+                            session.markPlacementShown()
+                            placementModel = nil
+                            session.isActive = true   // didSet → startFresh()
+                        }
+                    )
+                    .transition(.opacity)
+                    .zIndex(300)
                 }
             }
             .toolbar(.hidden, for: .navigationBar)
@@ -231,6 +289,52 @@ struct ContentView: View {
                         else if dy > 60  { session.goPreviousSentence() }
                     }
             )
+            // Re-fires both when the active language switches AND when onboarding
+            // completes — the second case is what lets us defer placement / TTS
+            // activation until the user has actually finished picking languages.
+            .onChange(of: session.didHitBudgetLimit) { hit in
+                guard hit else { return }
+                showRefillMenu = true
+                session.didHitBudgetLimit = false
+            }
+            .task(id: "\(session.id)-\(onboardingCompleted)") {
+                placementModel = nil
+
+                // Don't run any of this while the welcome/language-picker overlay
+                // is still up: ContentView is mounted underneath it, but we don't
+                // want to seed pools, show placement, or activate playback yet.
+                guard onboardingCompleted else { return }
+
+                // Placement test only triggers if (a) never offered before AND
+                // (b) library is big enough to actually need calibration. For tiny
+                // libraries (size <= capacity) cascade-fill already gives them
+                // the whole library, no point asking levels.
+                let needsPlacement = !session.wasPlacementShown
+                    && session.mainSentences.count > session.poolCapacity
+                let qs: [PlacementQuestion] = needsPlacement
+                    ? SentenceLibrary.loadPlacementQuestions(language: session.config.id)
+                    : []
+
+                if needsPlacement, !qs.isEmpty {
+                    // Don't ensurePoolFilled here — that uses the proportional
+                    // unlock selector, which has a floor weight for every CEFR
+                    // level and would inject C1/C2 sentences into a fresh pool
+                    // *before* placement gets to seed it properly. Placement's
+                    // onConfirm / onSkip seeds the pool from scratch.
+                    placementModel = PlacementTestModel(
+                        questions: qs,
+                        nativeLanguage: session.nativeLanguage,
+                        levelOrder: session.config.levelOrder
+                    )
+                } else {
+                    if needsPlacement { session.markPlacementShown() }
+                    // Self-heal: top up to capacity for returning users (no-op if
+                    // already filled). Safe here because the user's placement-driven
+                    // allocation is already represented in the existing pool.
+                    session.ensurePoolFilled()
+                    session.isActive = true   // didSet → startFresh()
+                }
+            }
         }
         .sheet(isPresented: $showSpeedPopover)   { speedSheet }
         .sheet(isPresented: $showRepeatsPopover) { repeatsSheet }
@@ -238,21 +342,19 @@ struct ContentView: View {
 
     // MARK: - Top bar
 
+    private var usedPlaybackMinutes: Int {
+        usageTracker.todayMinutes + usageTracker.todayBgMinutes
+    }
+
     private var topBar: some View {
         HStack(spacing: 10) {
-            Label("\(streakDays)", systemImage: "flame.fill")
-                .font(.system(size: 13, weight: .semibold))
-                .foregroundStyle(streakDays > 0
-                    ? Color.lllbRingColors[0]   // #F07840 — echoes the "today" ring
-                    : Color.lllbSecondaryText)
-            HStack(spacing: 3) {
-                Text("🍬").font(.system(size: 13))
-                Text("\(candyBalance)")
-                    .font(.system(size: 13, weight: .semibold))
-                    .foregroundStyle(Color.lllbSecondaryText)
-            }
+            streakLabel
+            CandyBalanceLabel(balance: candyBalance)
             Spacer()
+            coffeeCupButton
+                .padding(.trailing, 4)
             Button {
+                Haptics.light()
                 if achievementManager.pendingMilestones.isEmpty {
                     showRingsOverlay = true
                 } else {
@@ -334,7 +436,11 @@ struct ContentView: View {
         return VStack(spacing: 24) {
             Text(L("重复遍数", "Repeats", nativeLanguage: nl)).font(.headline)
             HStack(spacing: 40) {
-                Button { session.repeatsBeforeAdvance = max(1, current - 1) } label: {
+                Button {
+                    guard current > 1 else { return }
+                    Haptics.light()
+                    session.repeatsBeforeAdvance = current - 1
+                } label: {
                     Image(systemName: "minus.circle.fill")
                         .font(.system(size: 36))
                         .foregroundStyle(current > 1 ? Color.lllbAccent : Color.secondary.opacity(0.4))
@@ -345,7 +451,11 @@ struct ContentView: View {
                     .font(.system(size: 40, weight: .bold, design: .monospaced))
                     .frame(minWidth: 60)
 
-                Button { session.repeatsBeforeAdvance = min(10, current + 1) } label: {
+                Button {
+                    guard current < 10 else { return }
+                    Haptics.light()
+                    session.repeatsBeforeAdvance = current + 1
+                } label: {
                     Image(systemName: "plus.circle.fill")
                         .font(.system(size: 36))
                         .foregroundStyle(current < 10 ? Color.lllbAccent : Color.secondary.opacity(0.4))
@@ -362,6 +472,8 @@ struct ContentView: View {
     private func stepSpeed(by delta: Int) {
         let idx  = Self.speedStepIndex(for: session.speedMultiplier)
         let next = min(Self.playbackSpeedSteps.count - 1, max(0, idx + delta))
+        guard next != idx else { return }
+        Haptics.light()
         session.applySpeed(Self.playbackSpeedSteps[next])
     }
 
@@ -393,7 +505,7 @@ struct ContentView: View {
         return VStack(spacing: 10) {
 
             // Play mode (shuffle / sequential / single-loop)
-            Button { session.cyclePlayMode() } label: {
+            Button { Haptics.light(); session.cyclePlayMode() } label: {
                 let (icon, label): (String, String) = {
                     switch session.playMode {
                     case .shuffle:    return ("shuffle",  L("随机", "Shuffle", nativeLanguage: nl))
@@ -410,13 +522,17 @@ struct ContentView: View {
             .buttonStyle(.plain)
 
             // Library
-            Button { withAnimation(.easeOut(duration: 0.18)) { showLibraryPicker = true } } label: {
+            Button {
+                Haptics.light()
+                withAnimation(.easeOut(duration: 0.18)) { showLibraryPicker = true }
+            } label: {
                 controlCell(icon: "books.vertical", label: L("库", "Library", nativeLanguage: nl))
             }
             .buttonStyle(.plain)
 
             // Favorites mode
             Button {
+                Haptics.medium()
                 if session.isFavoriteMode { session.dismissVoiceBranch() }
                 else                      { session.enterFavoriteMode() }
             } label: {
@@ -430,7 +546,7 @@ struct ContentView: View {
             .buttonStyle(.plain)
 
             // Speed
-            Button { showSpeedPopover = true } label: {
+            Button { Haptics.light(); showSpeedPopover = true } label: {
                 VStack(spacing: 3) {
                     Text(Self.formatSpeedDisplay(Self.snappedSpeedStep(session.speedMultiplier)))
                         .font(.title3.weight(.bold))
@@ -447,7 +563,7 @@ struct ContentView: View {
             .buttonStyle(.plain)
 
             // Repeats
-            Button { showRepeatsPopover = true } label: {
+            Button { Haptics.light(); showRepeatsPopover = true } label: {
                 VStack(spacing: 3) {
                     Text("\(session.repeatsBeforeAdvance)")
                         .font(.title3.weight(.bold))
@@ -465,6 +581,7 @@ struct ContentView: View {
 
             // Play / Pause
             Button {
+                Haptics.medium()
                 if session.isAutoPlaying { session.pause() } else { session.resume() }
             } label: {
                 controlCell(
@@ -506,17 +623,16 @@ struct ContentView: View {
             let isFav      = session.favoritedIDs.contains(session.currentSentence.id)
             let isFamiliar = session.familiarIDs.contains(session.currentSentence.id)
 
-            Button { session.toggleFavorite(for: session.currentSentence.id) } label: {
-                controlCell(
-                    icon:        isFav ? "heart.fill" : "heart",
-                    label:       L("喜欢", "Like", nativeLanguage: nl),
-                    isActive:    isFav,
-                    activeColor: .red
-                )
-            }
-            .buttonStyle(.plain)
+            LikeButton(
+                isFav: isFav,
+                label: L("喜欢", "Like", nativeLanguage: nl),
+                onTap: {
+                    Haptics.success()
+                    session.toggleFavorite(for: session.currentSentence.id)
+                }
+            )
 
-            Button { session.toggleFamiliar() } label: {
+            Button { Haptics.success(); session.toggleFamiliar() } label: {
                 controlCell(
                     icon:        isFamiliar ? "checkmark.circle.fill" : "checkmark.circle",
                     label:       L("熟悉", "Familiar", nativeLanguage: nl),
@@ -527,6 +643,7 @@ struct ContentView: View {
             .buttonStyle(.plain)
 
             Button {
+                Haptics.light()
                 withAnimation(.spring(response: 0.28)) { archiveExpanded.toggle() }
             } label: {
                 controlCell(icon: "archivebox", label: L("存档", "Archive", nativeLanguage: nl), isActive: archiveExpanded)
@@ -537,6 +654,7 @@ struct ContentView: View {
                 if archiveExpanded {
                     VStack(spacing: 6) {
                         Button {
+                            Haptics.success()
                             session.archiveCurrentSentence(as: .mastered)
                             withAnimation(.spring(response: 0.28)) { archiveExpanded = false }
                         } label: {
@@ -545,6 +663,7 @@ struct ContentView: View {
                         .buttonStyle(.plain)
 
                         Button {
+                            Haptics.success()
                             session.archiveCurrentSentence(as: .later)
                             withAnimation(.spring(response: 0.28)) { archiveExpanded = false }
                         } label: {
@@ -601,6 +720,7 @@ struct ContentView: View {
             }
         }()
         Button {
+            Haptics.soft()
             switch session.translationPlaybackMode {
             case .off:    session.translationPlaybackMode = .before
             case .before: session.translationPlaybackMode = .after
@@ -626,7 +746,7 @@ struct ContentView: View {
 
     @ViewBuilder
     private func toggleCell(_ label: String, icon: String, on: Binding<Bool>) -> some View {
-        Button { on.wrappedValue.toggle() } label: {
+        Button { Haptics.soft(); on.wrappedValue.toggle() } label: {
             VStack(spacing: 3) {
                 Image(systemName: icon).font(.title3)
                 Text(label).font(.caption2)
@@ -754,23 +874,39 @@ struct ContentView: View {
         let chipStrokeWidth: CGFloat = isFocusedToken ? 1.8 : highlighted ? 1.5 : 0.5
         let spellingColor: Color     = Color.primary
 
+        let isMultiWord = display.contains(" ")
         VStack(alignment: .center, spacing: 6 * scale) {
             if showEmoji {
                 Text(token.emoji).font(.system(size: 44 * scale))
             }
             if showFallbackText && !showSpell {
-                Text(display).font(.system(size: 44 * scale))
-                    .foregroundStyle(Color.lllbSecondaryText)
-                    .lineLimit(1)
-                    .minimumScaleFactor(0.5)
+                if isMultiWord {
+                    Text(display).font(.system(size: 44 * scale))
+                        .foregroundStyle(Color.lllbSecondaryText)
+                        .multilineTextAlignment(.center)
+                        .fixedSize(horizontal: false, vertical: true)
+                } else {
+                    Text(display).font(.system(size: 44 * scale))
+                        .foregroundStyle(Color.lllbSecondaryText)
+                        .lineLimit(1)
+                        .minimumScaleFactor(0.5)
+                }
             }
             if showSpell {
-                Text(display)
-                    .font(.system(size: dynSize(.title3) * scale, weight: .medium))   // §3: medium weight
-                    .foregroundStyle(spellingColor)
-                    .multilineTextAlignment(.center)
-                    .lineLimit(1)
-                    .minimumScaleFactor(0.6)
+                if isMultiWord {
+                    Text(display)
+                        .font(.system(size: dynSize(.title3) * scale, weight: .medium))
+                        .foregroundStyle(spellingColor)
+                        .multilineTextAlignment(.center)
+                        .fixedSize(horizontal: false, vertical: true)
+                } else {
+                    Text(display)
+                        .font(.system(size: dynSize(.title3) * scale, weight: .medium))
+                        .foregroundStyle(spellingColor)
+                        .multilineTextAlignment(.center)
+                        .lineLimit(1)
+                        .minimumScaleFactor(0.6)
+                }
             }
             if showTokIPA, let ipa = token.ipa {
                 Text("/\(ipa)/")
@@ -791,8 +927,13 @@ struct ContentView: View {
         .padding(.vertical, 10 * scale)
         .background(RoundedRectangle(cornerRadius: 12).fill(chipBg))
         .overlay(RoundedRectangle(cornerRadius: 12).stroke(chipStroke, lineWidth: chipStrokeWidth))
+        // Subtle pulse on each TTS highlight — chip nudges up to 1.05 then settles.
+        // Spring with low damping gives that "tapped on the beat" feel synced to playback.
+        .scaleEffect(highlighted ? 1.05 : 1.0)
+        .animation(.spring(response: 0.28, dampingFraction: 0.55), value: highlighted)
         .simultaneousGesture(
             TapGesture().onEnded {
+                Haptics.light()
                 if session.focusedLemma == tokenLemmaForFocus { session.dismissVoiceBranch() }
                 else                                          { session.focusOnToken(token) }
             }
@@ -805,6 +946,7 @@ struct ContentView: View {
     private func tagChip(_ tag: SentenceTag) -> some View {
         let isActive = session.activatedTag == tag.name
         Button {
+            Haptics.light()
             if isActive { session.dismissVoiceBranch() }
             else        { session.activateTag(tag.name) }
         } label: {
@@ -824,14 +966,303 @@ struct ContentView: View {
         }
         .buttonStyle(.plain)
     }
+
+    // MARK: - Refill menu
+
+    @ViewBuilder
+    private var refillMenuOverlay: some View {
+        let nl = session.nativeLanguage
+        ZStack {
+            Color.black.opacity(0.30)
+                .ignoresSafeArea()
+                .onTapGesture { showRefillMenu = false }
+            CoffeeRefillMenu(
+                nativeLanguage: nl,
+                candyBalance:   candyBalance,
+                canAffordCandy: candyBalance >= PlaybackBudget.refillCandyCost,
+                onUseCandy: {
+                    Haptics.success()
+                    onUseCandyForRefill()
+                    showRefillMenu = false
+                },
+                onSubscribe: {
+                    Haptics.medium()
+                    showRefillMenu = false
+                    onOpenSubscribe()
+                },
+                onClose: { showRefillMenu = false }
+            )
+        }
+    }
+
+    // MARK: - Coffee cup (playback budget)
+
+    private var coffeeCupButton: some View {
+        let progress = playbackBudget.progress(usedMinutes: usedPlaybackMinutes)
+        return CoffeeCupView(progress: progress, isPremium: playbackBudget.isPremium, size: 22)
+            .contentShape(Rectangle())
+            .onTapGesture {
+                Haptics.light()
+                if playbackBudget.isPremium {
+                    showCupPeek = true
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 1.8) { showCupPeek = false }
+                } else {
+                    showCupPeek = true
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 1.8) { showCupPeek = false }
+                }
+            }
+            .onLongPressGesture(minimumDuration: 0.4) {
+                guard !playbackBudget.isPremium else { return }
+                Haptics.medium()
+                showRefillMenu = true
+            }
+            .overlay(alignment: .topTrailing) {
+                if showCupPeek {
+                    cupPeekPill
+                        .offset(x: 10, y: 28)
+                        .transition(.opacity)
+                }
+            }
+            .animation(.easeOut(duration: 0.18), value: showCupPeek)
+    }
+
+    @ViewBuilder
+    private var cupPeekPill: some View {
+        let nl = session.nativeLanguage
+        Group {
+            if playbackBudget.isPremium {
+                Text("∞")
+                    .font(.system(size: 13, weight: .bold, design: .rounded))
+            } else {
+                Text("\(usedPlaybackMinutes) / \(playbackBudget.dailyAllowance) \(L("分", "min", nativeLanguage: nl))")
+                    .font(.system(size: 11, weight: .semibold, design: .rounded))
+                    .monospacedDigit()
+            }
+        }
+        .foregroundStyle(Color.primary)
+        .padding(.horizontal, 9)
+        .padding(.vertical, 5)
+        .background(.regularMaterial, in: Capsule())
+        .overlay(Capsule().stroke(Color.lllbCellStroke, lineWidth: 0.5))
+        .fixedSize()
+    }
+
+    // MARK: - Streak label (tiered)
+
+    @ViewBuilder
+    private var streakLabel: some View {
+        // Visual reward grows with streak length: bigger / hotter / glowing.
+        let tier: (size: CGFloat, color: Color, glow: CGFloat) = {
+            switch streakDays {
+            case 0:        return (13, Color.lllbSecondaryText,  0)
+            case 1...6:    return (13, Color.lllbRingColors[0],  0)   // orange
+            case 7...29:   return (15, Color.lllbRingColors[0],  0)
+            case 30...99:  return (16, Color(red: 0.95, green: 0.40, blue: 0.20), 3)
+            default:       return (17, Color(red: 0.95, green: 0.25, blue: 0.10), 5)
+            }
+        }()
+        HStack(spacing: 3) {
+            Image(systemName: "flame.fill")
+                .font(.system(size: tier.size, weight: .semibold))
+                .foregroundStyle(tier.color)
+                .shadow(color: tier.glow > 0 ? tier.color.opacity(0.55) : .clear,
+                        radius: tier.glow)
+            Text("\(streakDays)")
+                .font(.system(size: tier.size - 1, weight: .semibold))
+                .foregroundStyle(tier.color)
+                .contentTransition(.numericText())
+                .animation(.spring(response: 0.45, dampingFraction: 0.7), value: streakDays)
+        }
+    }
 }
 
-// MARK: - Unlock notice overlay
+// MARK: - Milestone celebration burst
 
-private struct UnlockNoticeView: View {
-    let sentences:      [LessonSentence]
+/// 12 small dots in the brand ring colors radiate from screen center, drift
+/// outward, and fade. ~0.55s total. A single accent ring expands underneath.
+private struct MilestoneBurst: View {
+    @State private var dotProgress:  CGFloat = 0
+    @State private var ringScale:    CGFloat = 0.4
+    @State private var ringOpacity:  Double  = 0
+
+    private static let particles: [(angle: Double, radius: CGFloat, color: Color)] = {
+        let colors = Color.lllbRingColors
+        return (0..<14).map { i in
+            let angle = Double(i) * (360.0 / 14.0) + Double.random(in: -8...8)
+            let radius = CGFloat.random(in: 95...140)
+            let color = colors[i % colors.count]
+            return (angle, radius, color)
+        }
+    }()
+
+    var body: some View {
+        ZStack {
+            // Expanding accent ring underneath
+            Circle()
+                .stroke(Color.lllbAccent.opacity(ringOpacity), lineWidth: 3)
+                .frame(width: 80, height: 80)
+                .scaleEffect(ringScale)
+
+            // Particle dots
+            ForEach(Self.particles.indices, id: \.self) { i in
+                let p = Self.particles[i]
+                Circle()
+                    .fill(p.color)
+                    .frame(width: 8, height: 8)
+                    .offset(
+                        x: cos(p.angle * .pi / 180) * p.radius * dotProgress,
+                        y: sin(p.angle * .pi / 180) * p.radius * dotProgress
+                    )
+                    .opacity(Double(1 - dotProgress))
+                    .scaleEffect(1 - dotProgress * 0.4)
+            }
+        }
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
+        .onAppear {
+            ringOpacity = 0.55
+            withAnimation(.easeOut(duration: 0.5)) {
+                dotProgress = 1
+                ringScale   = 2.6
+                ringOpacity = 0
+            }
+        }
+    }
+}
+
+// MARK: - Like button with heart burst
+
+private struct LikeButton: View {
+    let isFav: Bool
+    let label: String
+    let onTap: () -> Void
+
+    @State private var heartScale: CGFloat = 1.0
+    @State private var ringScale:  CGFloat = 0.6
+    @State private var ringOpacity: Double = 0
+
+    var body: some View {
+        Button {
+            let willFav = !isFav
+            onTap()
+            if willFav { burst() }
+        } label: {
+            VStack(spacing: 3) {
+                Image(systemName: isFav ? "heart.fill" : "heart")
+                    .font(.title3)
+                    .scaleEffect(heartScale)
+                    .overlay(
+                        Circle()
+                            .stroke(Color.red.opacity(ringOpacity), lineWidth: 2)
+                            .frame(width: 28, height: 28)
+                            .scaleEffect(ringScale)
+                            .allowsHitTesting(false)
+                    )
+                Text(label).font(.caption2)
+            }
+            .frame(maxWidth: .infinity)
+            .padding(.vertical, 6)
+            .foregroundStyle(isFav ? Color.red : Color.lllbSecondaryText)
+            .background(isFav ? Color.red.opacity(0.10) : Color.clear)
+            .clipShape(RoundedRectangle(cornerRadius: 10))
+            .overlay(
+                RoundedRectangle(cornerRadius: 10)
+                    .stroke(isFav ? Color.red.opacity(0.30) : Color.lllbCellStroke, lineWidth: 0.5)
+            )
+        }
+        .buttonStyle(.plain)
+    }
+
+    private func burst() {
+        // Heart pulses up then settles.
+        withAnimation(.spring(response: 0.18, dampingFraction: 0.55)) { heartScale = 1.4 }
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.16) {
+            withAnimation(.spring(response: 0.32, dampingFraction: 0.6)) { heartScale = 1.0 }
+        }
+        // Ring expands outward and fades.
+        ringScale   = 0.6
+        ringOpacity = 0.55
+        withAnimation(.easeOut(duration: 0.55)) {
+            ringScale   = 2.4
+            ringOpacity = 0
+        }
+    }
+}
+
+// MARK: - Candy balance with digit roll + "+N" floating delta
+
+private struct CandyBalanceLabel: View {
+    let balance: Int
+
+    @State private var lastSeen: Int? = nil
+    @State private var floats:   [FloatingDelta] = []
+
+    private struct FloatingDelta: Identifiable {
+        let id = UUID()
+        let amount: Int
+        let createdAt: Date
+    }
+
+    var body: some View {
+        HStack(spacing: 3) {
+            Text("🍬").font(.system(size: 13))
+            Text("\(balance)")
+                .font(.system(size: 13, weight: .semibold))
+                .foregroundStyle(Color.lllbSecondaryText)
+                .contentTransition(.numericText())
+                .animation(.easeOut(duration: 0.4), value: balance)
+        }
+        .overlay(alignment: .topTrailing) {
+            ZStack(alignment: .topTrailing) {
+                ForEach(floats) { f in
+                    DeltaPlume(amount: f.amount)
+                        .id(f.id)
+                }
+            }
+            .allowsHitTesting(false)
+            .offset(x: 18, y: -4)
+        }
+        .onAppear { lastSeen = balance }
+        .onChange(of: balance) { newValue in
+            defer { lastSeen = newValue }
+            guard let prev = lastSeen, newValue > prev else { return }
+            let delta = newValue - prev
+            let f = FloatingDelta(amount: delta, createdAt: Date())
+            floats.append(f)
+            // Cleanup after the animation finishes.
+            DispatchQueue.main.asyncAfter(deadline: .now() + 1.4) {
+                floats.removeAll { $0.id == f.id }
+            }
+        }
+    }
+}
+
+private struct DeltaPlume: View {
+    let amount: Int
+    @State private var rise:    CGFloat = 0
+    @State private var opacity: Double  = 0
+
+    var body: some View {
+        Text("+\(amount)")
+            .font(.system(size: 12, weight: .bold, design: .rounded))
+            .foregroundStyle(Color.lllbRingColors[3])    // gold from brand palette
+            .shadow(color: .black.opacity(0.15), radius: 1, y: 1)
+            .offset(y: rise)
+            .opacity(opacity)
+            .onAppear {
+                withAnimation(.easeOut(duration: 0.18)) { opacity = 1 }
+                withAnimation(.easeOut(duration: 1.1))  { rise = -28 }
+                withAnimation(.easeIn(duration: 0.45).delay(0.7)) { opacity = 0 }
+            }
+    }
+}
+
+// MARK: - Unlock picker overlay
+
+private struct UnlockPickerView: View {
+    let groups:         [[LessonSentence]]   // each entry is one tappable card (1 sentence or full tag-group)
+    let remaining:      Int                  // how many more cards user must tap before close
     let nativeLanguage: String
-    let onConfirm:      () -> Void
+    let onPick:         (Int) -> Void
 
     var body: some View {
         ZStack {
@@ -839,60 +1270,87 @@ private struct UnlockNoticeView: View {
                 .ignoresSafeArea()
 
             VStack(spacing: 0) {
-                Text(L("解锁了 \(sentences.count) 个新句子",
-                       "\(sentences.count) New Sentence\(sentences.count == 1 ? "" : "s") Unlocked",
+                Text(L("挑 \(remaining) 个加进句子池",
+                       "Pick \(remaining) for your pool",
                        nativeLanguage: nativeLanguage))
                     .font(.headline)
                     .padding(.top, 22)
+                Text(L("点一下即加入，未选中的本次丢弃",
+                       "Tap to add — unpicked ones are discarded this round",
+                       nativeLanguage: nativeLanguage))
+                    .font(.caption)
+                    .foregroundStyle(.secondary)
+                    .padding(.top, 4)
                     .padding(.bottom, 14)
 
                 ScrollView {
                     VStack(spacing: 10) {
-                        ForEach(sentences) { sentence in
-                            VStack(alignment: .leading, spacing: 4) {
-                                HStack(alignment: .top) {
-                                    Text(sentence.text)
-                                        .font(.body.weight(.medium))
-                                    Spacer()
-                                    Text(sentence.cefr)
-                                        .font(.caption2.weight(.semibold))
-                                        .foregroundStyle(.secondary)
-                                        .padding(.horizontal, 6).padding(.vertical, 2)
-                                        .background(Color.lllbTagBg)
-                                        .clipShape(Capsule())
-                                }
-                                let tr = sentence.translation.resolvedTranslation(nativeLanguage: nativeLanguage)
-                                if !tr.isEmpty {
-                                    Text(tr)
-                                        .font(.caption)
-                                        .foregroundStyle(.secondary)
-                                }
+                        ForEach(groups.indices, id: \.self) { i in
+                            Button {
+                                onPick(i)
+                            } label: {
+                                cardContent(group: groups[i])
                             }
-                            .padding(.horizontal, 14).padding(.vertical, 10)
-                            .frame(maxWidth: .infinity, alignment: .leading)
-                            .background(Color.primary.opacity(0.04),
-                                        in: RoundedRectangle(cornerRadius: 11))
+                            .buttonStyle(.plain)
                         }
                     }
                     .padding(.horizontal, 18)
                 }
-                .frame(maxHeight: 320)
-
-                Button(action: onConfirm) {
-                    Text(L("知道了", "Got it", nativeLanguage: nativeLanguage))
-                        .font(.headline)
-                        .frame(maxWidth: .infinity)
-                        .padding(.vertical, 13)
-                        .background(Color.lllbAccent, in: RoundedRectangle(cornerRadius: 13))
-                        .foregroundStyle(Color.white)
-                }
-                .buttonStyle(.plain)
-                .padding(.horizontal, 18)
-                .padding(.top, 14)
+                .frame(maxHeight: 360)
                 .padding(.bottom, 22)
             }
             .background(.regularMaterial, in: RoundedRectangle(cornerRadius: 22))
             .padding(.horizontal, 28)
         }
+    }
+
+    @ViewBuilder
+    private func cardContent(group: [LessonSentence]) -> some View {
+        let isGroup = group.count > 1
+        let head    = group.first
+        VStack(alignment: .leading, spacing: 4) {
+            HStack(alignment: .top) {
+                if let s = head {
+                    Text(s.text)
+                        .font(.body.weight(.medium))
+                        .foregroundStyle(.primary)
+                }
+                Spacer()
+                if let s = head {
+                    Text(s.cefr)
+                        .font(.caption2.weight(.semibold))
+                        .foregroundStyle(.secondary)
+                        .padding(.horizontal, 6).padding(.vertical, 2)
+                        .background(Color.lllbTagBg)
+                        .clipShape(Capsule())
+                }
+            }
+            if let s = head {
+                let tr = s.translation.resolvedTranslation(nativeLanguage: nativeLanguage)
+                if !tr.isEmpty {
+                    Text(tr)
+                        .font(.caption)
+                        .foregroundStyle(.secondary)
+                }
+            }
+            if isGroup {
+                let tagName = head?.tags.first(where: { $0.index != nil })?.name
+                              ?? L("整组", "Group", nativeLanguage: nativeLanguage)
+                Text(L("\(tagName) · \(group.count) 句一组",
+                       "\(tagName) · \(group.count)-piece group",
+                       nativeLanguage: nativeLanguage))
+                    .font(.caption2.weight(.semibold))
+                    .foregroundStyle(Color.lllbAccent)
+                    .padding(.top, 2)
+            }
+        }
+        .padding(.horizontal, 14).padding(.vertical, 11)
+        .frame(maxWidth: .infinity, alignment: .leading)
+        .background(Color.primary.opacity(0.05),
+                    in: RoundedRectangle(cornerRadius: 12))
+        .overlay(
+            RoundedRectangle(cornerRadius: 12)
+                .stroke(Color.lllbCellStroke, lineWidth: 0.5)
+        )
     }
 }

@@ -1,0 +1,124 @@
+[
+  {
+    "id": "2dc2074b-a95d-4918-838a-1e7b7102c69a",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "jɛːʁ",
+    "translation": {"zh": "昨天", "en": "Yesterday"},
+    "tokens": [
+      {"text": "Hier", "lemma": "hier", "ipa": "jɛːʁ", "emoji": "📅", "translation": {"zh": "昨天", "en": "yesterday"}}
+    ]
+  },
+  {
+    "id": "3a01f14e-068d-4f33-836d-8fdd3fe84876",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "yn səmɛn",
+    "translation": {"zh": "一周", "en": "One week"},
+    "tokens": [
+      {"text": "Une semaine", "lemma": "une semaine", "ipa": "yn səmɛn", "emoji": "📆", "translation": {"zh": "一周", "en": "one week"}}
+    ]
+  },
+  {
+    "id": "cc4c78d6-2751-4ec0-8816-bf0557b0da6f",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "œ̃ mwa",
+    "translation": {"zh": "一个月", "en": "One month"},
+    "tokens": [
+      {"text": "Un mois", "lemma": "un mois", "ipa": "œ̃ mwa", "emoji": "🗓️", "translation": {"zh": "一个月", "en": "one month"}}
+    ]
+  },
+  {
+    "id": "e11e52f4-6ab7-427b-8fd7-6fe8d18ac67f",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "kɛl ane",
+    "translation": {"zh": "哪一年？", "en": "Which year?"},
+    "tokens": [
+      {"text": "Quelle", "lemma": "quel", "ipa": "kɛl", "emoji": "", "translation": {"zh": "哪个", "en": "which"}},
+      {"text": "année", "lemma": "année", "ipa": "ane", "emoji": "📅", "translation": {"zh": "年", "en": "year"}}
+    ]
+  },
+  {
+    "id": "6ebb5c88-300a-4e8c-9ec6-e5e30b5853fa",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "avɔka",
+    "translation": {"zh": "牛油果", "en": "Avocado"},
+    "tokens": [
+      {"text": "Avocat", "lemma": "avocat", "ipa": "avɔka", "emoji": "🥑", "translation": {"zh": "牛油果", "en": "avocado"}}
+    ]
+  },
+  {
+    "id": "dadb3883-c3c1-4958-b164-7504c2db231a",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "bʁɔkɔli",
+    "translation": {"zh": "西兰花", "en": "Broccoli"},
+    "tokens": [
+      {"text": "Brocoli", "lemma": "brocoli", "ipa": "bʁɔkɔli", "emoji": "🥦", "translation": {"zh": "西兰花", "en": "broccoli"}}
+    ]
+  },
+  {
+    "id": "27a53d0b-1d51-490b-a467-6a17729359dc",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "leɡym vɛːʁ",
+    "translation": {"zh": "绿色蔬菜", "en": "Green vegetable"},
+    "tokens": [
+      {"text": "Légume", "lemma": "légume", "ipa": "leɡym", "emoji": "🥬", "translation": {"zh": "蔬菜", "en": "vegetable"}},
+      {"text": "vert", "lemma": "vert", "ipa": "vɛːʁ", "emoji": "🟢", "translation": {"zh": "绿色", "en": "green"}}
+    ]
+  },
+  {
+    "id": "9e75344c-34e6-4940-88ac-fadc49034bae",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "kɔ̃kɔ̃bʁ",
+    "translation": {"zh": "黄瓜", "en": "Cucumber"},
+    "tokens": [
+      {"text": "Concombre", "lemma": "concombre", "ipa": "kɔ̃kɔ̃bʁ", "emoji": "🥒", "translation": {"zh": "黄瓜", "en": "cucumber"}}
+    ]
+  },
+  {
+    "id": "51fa0456-4491-4fca-88ef-281cd13e0165",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "pimɑ̃",
+    "translation": {"zh": "辣椒", "en": "Chili"},
+    "tokens": [
+      {"text": "Piment", "lemma": "piment", "ipa": "pimɑ̃", "emoji": "🌶️", "translation": {"zh": "辣椒", "en": "chili"}}
+    ]
+  },
+  {
+    "id": "f958d5f9-1d03-407a-91f3-49fde102d0cd",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "pwavʁɔ̃",
+    "translation": {"zh": "甜椒", "en": "Bell pepper"},
+    "tokens": [
+      {"text": "Poivron", "lemma": "poivron", "ipa": "pwavʁɔ̃", "emoji": "🫑", "translation": {"zh": "甜椒", "en": "bell pepper"}}
+    ]
+  },
+  {
+    "id": "b9a83294-5cfe-47fd-99be-c87b82f1c3f6",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ɔliv",
+    "translation": {"zh": "橄榄", "en": "Olive"},
+    "tokens": [
+      {"text": "Olive", "lemma": "olive", "ipa": "ɔliv", "emoji": "🫒", "translation": {"zh": "橄榄", "en": "olive"}}
+    ]
+  },
+  {
+    "id": "979e5fe6-3456-41b2-921e-29da76aba28e",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "aj",
+    "translation": {"zh": "大蒜", "en": "Garlic"},
+    "tokens": [
+      {"text": "Ail", "lemma": "ail", "ipa": "aj", "emoji": "🧄", "translation": {"zh": "大蒜", "en": "garlic"}}
+    ]
+  }
+]

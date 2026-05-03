@@ -1,0 +1,41 @@
+[
+  {
+    "id": "9a972cc1-2ce6-42f0-a09d-b389378f72db",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "œ̃n‿apaʁtəmɑ̃ a paʁi kut ɑ̃ mwajɛn sɛ̃ sɑ̃ mil øʁo",
+    "translation": {"zh": "巴黎公寓均价五十万欧元。", "en": "A Paris apartment averages five hundred thousand euros."},
+    "tokens": [
+      {"text": "Un appartement", "lemma": "un appartement", "ipa": "œ̃n‿apaʁtəmɑ̃", "emoji": "🏢", "translation": {"zh": "一套公寓", "en": "an apartment"}},
+      {"text": "à Paris", "lemma": "à Paris", "ipa": "a paʁi", "emoji": "🗼", "translation": {"zh": "在巴黎", "en": "in Paris"}},
+      {"text": "coûte", "lemma": "coûter", "ipa": "kut", "emoji": "💶", "translation": {"zh": "花费", "en": "costs"}},
+      {"text": "en moyenne", "lemma": "en moyenne", "ipa": "ɑ̃ mwajɛn", "emoji": "", "translation": {"zh": "平均", "en": "on average"}},
+      {"text": "cinq cent mille euros", "lemma": "cinq cent mille euros", "ipa": "sɛ̃ sɑ̃ mil øʁo", "emoji": "💶", "translation": {"zh": "五十万欧元", "en": "500,000 euros"}}
+    ]
+  },
+  {
+    "id": "5ee2e22b-58ff-4172-9c11-4c6cf15ec7bc",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɛt ʃɑ̃sɔ̃ a ete ekute sɛ̃ sɑ̃ miljɔ̃ də fwa",
+    "translation": {"zh": "这首歌被听了五亿次。", "en": "This song was listened to five hundred million times."},
+    "tokens": [
+      {"text": "Cette chanson", "lemma": "cette chanson", "ipa": "sɛt ʃɑ̃sɔ̃", "emoji": "🎵", "translation": {"zh": "这首歌", "en": "this song"}},
+      {"text": "a été écoutée", "lemma": "être écouté", "ipa": "a ete ekute", "emoji": "🎧", "translation": {"zh": "被听过", "en": "has been listened to"}},
+      {"text": "cinq cents millions de fois", "lemma": "cinq cents millions de fois", "ipa": "sɛ̃ sɑ̃ miljɔ̃ də fwa", "emoji": "🔢", "translation": {"zh": "五亿次", "en": "500 million times"}}
+    ]
+  },
+  {
+    "id": "69750e88-9efc-4a6e-86ec-b16c8d1b85ec",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "il j‿a ɑ̃viʁɔ̃ ɥi miljaʁ də pɛʁsɔn syʁ tɛʁ",
+    "translation": {"zh": "地球上约有八十亿人。", "en": "There are about eight billion people on Earth."},
+    "tokens": [
+      {"text": "Il y a", "lemma": "il y avoir", "ipa": "il j‿a", "emoji": "", "translation": {"zh": "有", "en": "there are"}},
+      {"text": "environ", "lemma": "environ", "ipa": "ɑ̃viʁɔ̃", "emoji": "", "translation": {"zh": "大约", "en": "about"}},
+      {"text": "huit milliards de personnes", "lemma": "huit milliards de personnes", "ipa": "ɥi miljaʁ də pɛʁsɔn", "emoji": "👥", "translation": {"zh": "八十亿人", "en": "8 billion people"}},
+      {"text": "sur Terre", "lemma": "sur Terre", "ipa": "syʁ tɛʁ", "emoji": "🌍", "translation": {"zh": "在地球上", "en": "on Earth"}}
+    ]
+  }
+]

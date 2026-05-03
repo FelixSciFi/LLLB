@@ -1,0 +1,145 @@
+[
+  {
+    "id": "6eab8b59-3222-4c1b-8f35-b5a31f27c7f6",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "lə ʃəmɛ̃ də fɛʁ ɛ lɔ̃",
+    "translation": {"zh": "铁路很长。", "en": "The railway is long."},
+    "tokens": [
+      {"text": "Le chemin de fer", "lemma": "chemin de fer", "ipa": "lə ʃəmɛ̃ də fɛʁ", "emoji": "🚆", "translation": {"zh": "铁路", "en": "railway"}},
+      {"text": "est", "lemma": "être", "ipa": "ɛ", "emoji": "", "translation": {"zh": "是", "en": "is"}},
+      {"text": "long", "lemma": "long", "ipa": "lɔ̃", "emoji": "", "translation": {"zh": "长", "en": "long"}}
+    ]
+  },
+  {
+    "id": "ca5327de-4e01-417b-b705-d7c4aaab247b",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɛ kwa sa",
+    "translation": {"zh": "这是什么?", "en": "What's this?"},
+    "tokens": [
+      {"text": "C'est", "lemma": "c'est", "ipa": "sɛ", "emoji": "", "translation": {"zh": "这是", "en": "it is"}},
+      {"text": "quoi", "lemma": "quoi", "ipa": "kwa", "emoji": "", "translation": {"zh": "什么", "en": "what"}},
+      {"text": "ça", "lemma": "ça", "ipa": "sa", "emoji": "", "translation": {"zh": "这个", "en": "that"}}
+    ]
+  },
+  {
+    "id": "6106133c-b94e-42f7-ad4f-0e5f75b2c7a4",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "il i a tɛlmɑ̃ də mɔ̃d",
+    "translation": {"zh": "人好多。", "en": "So many people."},
+    "tokens": [
+      {"text": "Il y a", "lemma": "il y a", "ipa": "il i a", "emoji": "", "translation": {"zh": "有", "en": "there is"}},
+      {"text": "tellement", "lemma": "tellement", "ipa": "tɛlmɑ̃", "emoji": "", "translation": {"zh": "如此多", "en": "so much"}},
+      {"text": "de monde", "lemma": "monde", "ipa": "də mɔ̃d", "emoji": "👥", "translation": {"zh": "人", "en": "people"}}
+    ]
+  },
+  {
+    "id": "b3a72d82-044a-46fe-b1b8-0e3921fbfe01",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɛ asɛ",
+    "translation": {"zh": "够了。", "en": "That's enough."},
+    "tokens": [
+      {"text": "C'est", "lemma": "c'est", "ipa": "sɛ", "emoji": "", "translation": {"zh": "这是", "en": "it is"}},
+      {"text": "assez", "lemma": "assez", "ipa": "asɛ", "emoji": "", "translation": {"zh": "够了", "en": "enough"}}
+    ]
+  },
+  {
+    "id": "9882a16f-3784-421e-8c45-67cbd046fa7c",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ty vjɛ̃ du",
+    "translation": {"zh": "你从哪来?", "en": "Where you from?"},
+    "tokens": [
+      {"text": "Tu viens", "lemma": "venir", "ipa": "ty vjɛ̃", "emoji": "", "translation": {"zh": "你来", "en": "you come"}},
+      {"text": "d'où", "lemma": "d'où", "ipa": "du", "emoji": "", "translation": {"zh": "从哪", "en": "from where"}}
+    ]
+  },
+  {
+    "id": "63c27816-f4b3-4a45-92d9-5c21c518efc3",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ty a kɛlkə ʃoz də similɛʁ",
+    "translation": {"zh": "你有类似的吗?", "en": "Got something similar?"},
+    "tokens": [
+      {"text": "Tu as", "lemma": "avoir", "ipa": "ty a", "emoji": "", "translation": {"zh": "你有", "en": "you have"}},
+      {"text": "quelque chose", "lemma": "quelque chose", "ipa": "kɛlkə ʃoz", "emoji": "", "translation": {"zh": "某物", "en": "something"}},
+      {"text": "de similaire", "lemma": "similaire", "ipa": "də similɛʁ", "emoji": "", "translation": {"zh": "类似的", "en": "similar"}}
+    ]
+  },
+  {
+    "id": "937954fe-d49d-43c6-a8a8-575a49370f6d",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "lə sjɛl ɛ blø",
+    "translation": {"zh": "天空是蓝的。", "en": "The sky is blue."},
+    "tokens": [
+      {"text": "Le ciel", "lemma": "ciel", "ipa": "lə sjɛl", "emoji": "🌌", "translation": {"zh": "天空", "en": "sky"}},
+      {"text": "est", "lemma": "être", "ipa": "ɛ", "emoji": "", "translation": {"zh": "是", "en": "is"}},
+      {"text": "bleu", "lemma": "bleu", "ipa": "blø", "emoji": "🔵", "translation": {"zh": "蓝色", "en": "blue"}}
+    ]
+  },
+  {
+    "id": "68a646cb-aa6c-4ba8-912d-6b50d10edb16",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "la tɛʁ ɛ ɡʁɑ̃d",
+    "translation": {"zh": "地球很大。", "en": "Earth is big."},
+    "tokens": [
+      {"text": "La terre", "lemma": "terre", "ipa": "la tɛʁ", "emoji": "🌍", "translation": {"zh": "地球", "en": "earth"}},
+      {"text": "est", "lemma": "être", "ipa": "ɛ", "emoji": "", "translation": {"zh": "是", "en": "is"}},
+      {"text": "grande", "lemma": "grand", "ipa": "ɡʁɑ̃d", "emoji": "", "translation": {"zh": "大", "en": "big"}}
+    ]
+  },
+  {
+    "id": "cac94991-455d-46f8-a9ad-ec2f1937de3d",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "lɔseɑ̃ ɛ pʁɔfɔ̃",
+    "translation": {"zh": "海洋很深。", "en": "The ocean is deep."},
+    "tokens": [
+      {"text": "L'océan", "lemma": "océan", "ipa": "lɔseɑ̃", "emoji": "🌊", "translation": {"zh": "海洋", "en": "ocean"}},
+      {"text": "est", "lemma": "être", "ipa": "ɛ", "emoji": "", "translation": {"zh": "是", "en": "is"}},
+      {"text": "profond", "lemma": "profond", "ipa": "pʁɔfɔ̃", "emoji": "", "translation": {"zh": "深", "en": "deep"}}
+    ]
+  },
+  {
+    "id": "ea347270-40b3-45e1-aa99-66ed386c4c49",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "la ʁivjɛʁ kul",
+    "translation": {"zh": "河流流淌。", "en": "The river flows."},
+    "tokens": [
+      {"text": "La rivière", "lemma": "rivière", "ipa": "la ʁivjɛʁ", "emoji": "🏞️", "translation": {"zh": "河流", "en": "river"}},
+      {"text": "coule", "lemma": "couler", "ipa": "kul", "emoji": "", "translation": {"zh": "流淌", "en": "flows"}}
+    ]
+  },
+  {
+    "id": "4af1d214-6e16-4e8f-8105-419b03891fb9",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "vɔtʁ kɔʁɛspɔ̃dɑ̃ ɛ aktɥɛlmɑ̃ ɑ̃ liɲ",
+    "translation": {"zh": "对方正在通话中。", "en": "Your party is busy."},
+    "tokens": [
+      {"text": "Votre correspondant", "lemma": "correspondant", "ipa": "vɔtʁ kɔʁɛspɔ̃dɑ̃", "emoji": "📞", "translation": {"zh": "您的通话方", "en": "your party"}},
+      {"text": "est", "lemma": "être", "ipa": "ɛ", "emoji": "", "translation": {"zh": "是", "en": "is"}},
+      {"text": "actuellement", "lemma": "actuellement", "ipa": "aktɥɛlmɑ̃", "emoji": "", "translation": {"zh": "目前", "en": "currently"}},
+      {"text": "en ligne", "lemma": "en ligne", "ipa": "ɑ̃ liɲ", "emoji": "", "translation": {"zh": "通话中", "en": "on the line"}}
+    ]
+  },
+  {
+    "id": "482cea58-c2a0-4a26-baba-35e9e201d331",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "mɛʁsi də ʁənuvle vɔtʁ apɛl ylteʁjœʁmɑ̃",
+    "translation": {"zh": "请稍后再拨。", "en": "Please call back later."},
+    "tokens": [
+      {"text": "Merci", "lemma": "merci", "ipa": "mɛʁsi", "emoji": "", "translation": {"zh": "谢谢", "en": "thanks"}},
+      {"text": "de renouveler", "lemma": "renouveler", "ipa": "də ʁənuvle", "emoji": "", "translation": {"zh": "重新", "en": "to renew"}},
+      {"text": "votre appel", "lemma": "appel", "ipa": "vɔtʁ apɛl", "emoji": "📞", "translation": {"zh": "您的来电", "en": "your call"}},
+      {"text": "ultérieurement", "lemma": "ultérieurement", "ipa": "ylteʁjœʁmɑ̃", "emoji": "", "translation": {"zh": "稍后", "en": "later"}}
+    ]
+  }
+]

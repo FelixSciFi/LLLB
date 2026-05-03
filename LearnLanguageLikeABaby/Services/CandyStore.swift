@@ -19,7 +19,7 @@ final class CandyStore: ObservableObject {
     private let keyDailyFreeDate      = "daily_free_date"
     private let keyBootstrapVersion   = "candy_bootstrap_version"
     /// Bump this when bootstrap defaults change; forces one-time re-init on existing installs.
-    private static let currentBootstrapVersion = 5
+    private static let currentBootstrapVersion = 6
 
     private let keyNativeLanguage       = "native_language"
     private let keyNativeLanguageLegacy = "nativeLanguage"
@@ -58,7 +58,7 @@ final class CandyStore: ObservableObject {
 
         if defaults.object(forKey: keyInitializedV3) == nil {
             // Fresh install (or forced reset)
-            candyBalance = 99999999
+            candyBalance = 100
             ownedLemmasByLanguage = initialLemmasByLanguage.mapValues { Set($0) }
             ownedSentenceIDsByLanguage = [:]
             dailyFreeRemaining = 3
@@ -112,6 +112,15 @@ final class CandyStore: ObservableObject {
     func addCandy(_ amount: Int) {
         candyBalance += amount
         persist()
+    }
+
+    /// Generic candy debit. Returns false (and does nothing) if balance is short.
+    @discardableResult
+    func spendCandy(_ amount: Int) -> Bool {
+        guard amount > 0, candyBalance >= amount else { return false }
+        candyBalance -= amount
+        persist()
+        return true
     }
 
     func removeSentence(_ id: String, language: String) {

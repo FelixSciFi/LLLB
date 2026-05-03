@@ -16,6 +16,7 @@ final class AppModel: ObservableObject {
     let sessions:             [LessonSessionModel]   // all learning languages, fixed order
     let usageTimeTracker    = UsageTimeTracker()
     let achievementManager  = AchievementManager()
+    let playbackBudget      = PlaybackBudget()
 
     // MARK: - Published state
 
@@ -41,9 +42,14 @@ final class AppModel: ObservableObject {
 
     // MARK: - Computed
 
-    /// Sessions eligible for learning (excludes current UI language).
+    /// Sessions eligible for learning: excludes the current UI language and any
+    /// languages whose `released` flag is false (work-in-progress content).
+    /// The underlying sessions still exist for unreleased languages so persisted
+    /// state survives a flip from `released: false` → `true`.
     var availableSessions: [LessonSessionModel] {
-        sessions.filter { $0.config.id != candyStore.nativeLanguage }
+        sessions.filter {
+            $0.config.id != candyStore.nativeLanguage && $0.config.released
+        }
     }
 
     var activeSession: LessonSessionModel {
@@ -82,10 +88,19 @@ final class AppModel: ObservableObject {
         self.candyStore = store
 
         // 2. Create one session per learning language
+        let budget = self.playbackBudget
+        let tracker = self.usageTimeTracker
         let allSessions = LanguageConfig.learningLanguages.map { config -> LessonSessionModel in
             let s = LessonSessionModel(config: config)
             s.candyStore    = store
             s.nativeLanguage = store.nativeLanguage
+            // Soft brake: budget exhaustion stops advancement to the next sentence.
+            // Whatever's playing finishes, then pause + flag for UI to surface.
+            s.shouldContinueAfterSentence = { [weak budget, weak tracker] in
+                guard let budget, let tracker else { return true }
+                let used = tracker.todayMinutes + tracker.todayBgMinutes
+                return !budget.isExhausted(usedMinutes: used)
+            }
             return s
         }
         self.sessions = allSessions
@@ -97,15 +112,23 @@ final class AppModel: ObservableObject {
 
         // 4. Restore or default learning language
         let savedID = UserDefaults.standard.string(forKey: "selectedLearningLanguage") ?? ""
-        let available = allSessions.filter { $0.config.id != store.nativeLanguage }
+        let available = allSessions.filter {
+            $0.config.id != store.nativeLanguage && $0.config.released
+        }
         let restored = available.first { $0.config.id == savedID } ?? available.first
         let defaultID = restored?.config.id ?? ""
         _selectedLearningLanguageID = Published(initialValue: defaultID)
 
         // 5. Load all libraries first (isActive still false — no autoplay triggered)
         for s in allSessions { s.loadLibrary() }
-        // Then set isActive: didSet fires startFresh() for the active session only
-        for s in allSessions { s.isActive = (s.config.id == defaultID) }
+        // Then set isActive: didSet fires startFresh() for the active session only.
+        // Skip activation entirely until onboarding completes — otherwise the
+        // active session starts speaking before the user has even picked their
+        // languages. RootView calls setupActiveFlag() when onboarding finishes.
+        let onboardingDone = UserDefaults.standard.bool(forKey: "onboardingCompleted_v1")
+        if onboardingDone {
+            for s in allSessions { s.isActive = (s.config.id == defaultID) }
+        }
 
         // 5. Forward candyStore + usageTracker changes so views re-render
         store.objectWillChange
@@ -115,6 +138,9 @@ final class AppModel: ObservableObject {
             .sink { [weak self] _ in self?.objectWillChange.send() }
             .store(in: &cancellables)
         achievementManager.objectWillChange
+            .sink { [weak self] _ in self?.objectWillChange.send() }
+            .store(in: &cancellables)
+        playbackBudget.objectWillChange
             .sink { [weak self] _ in self?.objectWillChange.send() }
             .store(in: &cancellables)
 

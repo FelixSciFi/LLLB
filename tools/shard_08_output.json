@@ -1,0 +1,150 @@
+[
+  {
+    "id": "d0c983a0-13fa-44de-ac94-63032922ec50",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "a bɔ̃ sɛ vʁɛ",
+    "translation": {"zh": "真的吗？是真的？", "en": "Really? Is that true?"},
+    "tokens": [
+      {"text": "Ah bon", "lemma": "ah bon", "ipa": "a bɔ̃", "emoji": "", "translation": {"zh": "真的吗", "en": "really"}},
+      {"text": "?", "lemma": "?", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}},
+      {"text": "C'est", "lemma": "c'est", "ipa": "sɛ", "emoji": "", "translation": {"zh": "这是", "en": "it is"}},
+      {"text": "vrai", "lemma": "vrai", "ipa": "vʁɛ", "emoji": "", "translation": {"zh": "真的", "en": "true"}},
+      {"text": "?", "lemma": "?", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "8192be0e-49d1-4d29-8d00-864fda9be12b",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "mɛ si sɛ vʁɛ",
+    "translation": {"zh": "就是真的！", "en": "Yes it's true!"},
+    "tokens": [
+      {"text": "Mais", "lemma": "mais", "ipa": "mɛ", "emoji": "", "translation": {"zh": "但", "en": "but"}},
+      {"text": "si", "lemma": "si", "ipa": "si", "emoji": "", "translation": {"zh": "是的", "en": "yes"}},
+      {"text": ",", "lemma": ",", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}},
+      {"text": "c'est", "lemma": "c'est", "ipa": "sɛ", "emoji": "", "translation": {"zh": "这是", "en": "it is"}},
+      {"text": "vrai", "lemma": "vrai", "ipa": "vʁɛ", "emoji": "", "translation": {"zh": "真的", "en": "true"}},
+      {"text": "!", "lemma": "!", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "4e375d6c-2d23-4ff0-b070-b7f903b8f6e1",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "kɔmɑ̃ sa",
+    "translation": {"zh": "怎么回事？", "en": "How so?"},
+    "tokens": [
+      {"text": "Comment", "lemma": "comment", "ipa": "kɔmɑ̃", "emoji": "", "translation": {"zh": "怎么", "en": "how"}},
+      {"text": "ça", "lemma": "ça", "ipa": "sa", "emoji": "", "translation": {"zh": "这", "en": "that"}},
+      {"text": "?", "lemma": "?", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "554d87d2-8558-4f4d-8a31-6c8b03c6da6b",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "kɛs kil vu zɔ̃ ʁakɔ̃te",
+    "translation": {"zh": "他们跟你说什么了？", "en": "What did they tell you?"},
+    "tokens": [
+      {"text": "Qu'est-ce qu'", "lemma": "qu'est-ce que", "ipa": "kɛs k", "emoji": "", "translation": {"zh": "什么", "en": "what"}},
+      {"text": "ils", "lemma": "il", "ipa": "il", "emoji": "", "translation": {"zh": "他们", "en": "they"}},
+      {"text": "vous", "lemma": "vous", "ipa": "vu", "emoji": "", "translation": {"zh": "你们", "en": "you"}},
+      {"text": "ont raconté", "lemma": "raconter", "ipa": "ɔ̃ ʁakɔ̃te", "emoji": "", "translation": {"zh": "讲了", "en": "told"}},
+      {"text": "?", "lemma": "?", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "d9373a35-7ffa-4fbe-a81f-8bf7fc0cd8cc",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "paʁ isi",
+    "translation": {"zh": "这边请", "en": "This way"},
+    "tokens": [
+      {"text": "Par ici", "lemma": "par ici", "ipa": "paʁ isi", "emoji": "", "translation": {"zh": "这边", "en": "this way"}},
+      {"text": ".", "lemma": ".", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "3ef769c0-3d52-43cc-a01c-fd2901120396",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "deɡaʒ twa",
+    "translation": {"zh": "走开！", "en": "Get away!"},
+    "tokens": [
+      {"text": "Dégage-toi", "lemma": "se dégager", "ipa": "deɡaʒ twa", "emoji": "", "translation": {"zh": "走开", "en": "get away"}},
+      {"text": "!", "lemma": "!", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "d0d081f8-2e09-4ccf-8762-074ad73f2c8d",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sa j ɛ",
+    "translation": {"zh": "搞定了！", "en": "That's it!"},
+    "tokens": [
+      {"text": "Ça y est", "lemma": "ça y est", "ipa": "sa j ɛ", "emoji": "", "translation": {"zh": "搞定了", "en": "that's it"}},
+      {"text": "!", "lemma": "!", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "4962e9d7-f103-411d-9e3f-efd80e2d8ae7",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "le vwala",
+    "translation": {"zh": "他们来了！", "en": "There they are!"},
+    "tokens": [
+      {"text": "Les", "lemma": "le", "ipa": "le", "emoji": "", "translation": {"zh": "他们", "en": "them"}},
+      {"text": "voilà", "lemma": "voilà", "ipa": "vwala", "emoji": "", "translation": {"zh": "在那儿", "en": "there"}},
+      {"text": "!", "lemma": "!", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "37053ffc-0ef8-48ca-80c5-b81a72eced85",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "vu zɛt ɑ̃ fɔʁm",
+    "translation": {"zh": "你状态真好！", "en": "You look great!"},
+    "tokens": [
+      {"text": "Vous êtes", "lemma": "être", "ipa": "vu zɛt", "emoji": "", "translation": {"zh": "你是", "en": "you are"}},
+      {"text": "en forme", "lemma": "en forme", "ipa": "ɑ̃ fɔʁm", "emoji": "💪", "translation": {"zh": "状态好", "en": "in shape"}},
+      {"text": "!", "lemma": "!", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "9fbd672d-b29a-42b7-abab-a5c3e4697807",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɔʁte dy veikyl",
+    "translation": {"zh": "下车！", "en": "Get out of the vehicle!"},
+    "tokens": [
+      {"text": "Sortez", "lemma": "sortir", "ipa": "sɔʁte", "emoji": "", "translation": {"zh": "出来", "en": "exit"}},
+      {"text": "du véhicule", "lemma": "véhicule", "ipa": "dy veikyl", "emoji": "🚗", "translation": {"zh": "车辆", "en": "vehicle"}},
+      {"text": "!", "lemma": "!", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "d264f8d8-5e6b-461f-b05a-b2902cf5e37d",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "vu zale ɑ̃kɔʁ pɛʁdʁ",
+    "translation": {"zh": "你又要输了。", "en": "You'll lose again."},
+    "tokens": [
+      {"text": "Vous allez", "lemma": "aller", "ipa": "vu zale", "emoji": "", "translation": {"zh": "你将", "en": "you will"}},
+      {"text": "encore", "lemma": "encore", "ipa": "ɑ̃kɔʁ", "emoji": "", "translation": {"zh": "又", "en": "again"}},
+      {"text": "perdre", "lemma": "perdre", "ipa": "pɛʁdʁ", "emoji": "", "translation": {"zh": "输", "en": "lose"}},
+      {"text": ".", "lemma": ".", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "a26b28de-82d6-47cc-8de2-3ae28de6f991",
+    "verdict": "delete",
+    "delete_reason": "bare past participle fragment",
+    "ipa": "təny",
+    "translation": {"zh": "成交！", "en": "Deal!"},
+    "tokens": [
+      {"text": "Tenu", "lemma": "tenir", "ipa": "təny", "emoji": "", "translation": {"zh": "成交", "en": "held"}},
+      {"text": "!", "lemma": "!", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  }
+]

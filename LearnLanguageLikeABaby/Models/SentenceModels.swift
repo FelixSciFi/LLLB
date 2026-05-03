@@ -113,3 +113,30 @@ struct ExampleBankFile: Codable {
         case examplesByLemma = "examples_by_lemma"
     }
 }
+
+// MARK: - Placement test
+
+struct PlacementQuestion: Codable, Equatable, Identifiable {
+    let id: String
+    let level: String              // "A1", "A2", "B1", "B2", "C1"
+    let kind: String               // "word" or "sentence"
+    let prompt: String             // French text shown to user
+    let options: [[String: String]] // Each option is a translation dict (zh/en/...)
+    let correctIndex: Int
+}
+
+struct PlacementFile: Codable {
+    let questions: [PlacementQuestion]
+}
+
+/// Sorts level names by a per-language order list. Names are arbitrary labels;
+/// only their position in `order` matters. Levels not found in `order` are
+/// appended alphabetically (defensive fallback for data drift).
+enum LevelSystem {
+    static func sorted(_ levels: [String], using order: [String]) -> [String] {
+        let present = Set(levels)
+        let known   = order.filter { present.contains($0) }
+        let unknown = present.subtracting(order).sorted()
+        return known + unknown
+    }
+}

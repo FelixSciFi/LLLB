@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ee5fc0ce-3339-4213-a4d4-1421ed2e20e5",
+    "text": "Bonjour, monsieur.",
+    "cefr": "A1"
+  },
+  {
+    "id": "65017aa6-ff03-4cb3-a291-1975d4deac26",
+    "text": "Vous avez choisi ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "48756952-6eda-4139-850b-3eda4da1568a",
+    "text": "Je voudrais un steak-frites, s'il vous plaît.",
+    "cefr": "A1"
+  },
+  {
+    "id": "ed9dcff3-a4bc-4618-be80-b2a4501517bd",
+    "text": "Très bien. Et pour boire ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "ea698e31-c428-4dd7-be15-5a7ff9a34da9",
+    "text": "Une carafe d'eau, merci.",
+    "cefr": "A1"
+  },
+  {
+    "id": "9b020622-5537-403b-803c-5e54f240f2f0",
+    "text": "Ça marche.",
+    "cefr": "A2"
+  },
+  {
+    "id": "549a1fcf-0e9c-420d-ac72-44f6f77270f6",
+    "text": "Quelques minutes plus tard.",
+    "cefr": "A2"
+  },
+  {
+    "id": "3986c8d5-ce0d-42a5-a86f-622475ab8c62",
+    "text": "Voici votre plat. Bon appétit !",
+    "cefr": "A1"
+  },
+  {
+    "id": "95f9a09d-04eb-4bd4-bb92-0408b8392bd7",
+    "text": "Bonjour ! Vous avez la carte de fidélité ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "b4bc733c-9234-4763-8f02-eda43a36fc23",
+    "text": "Qui ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "8fed9fb7-fc09-4670-a11b-d5be9e0837de",
+    "text": "Quoi ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "b1992344-6069-4a87-b49f-3ac83e9fac48",
+    "text": "Quand ?",
+    "cefr": "A1"
+  }
+]

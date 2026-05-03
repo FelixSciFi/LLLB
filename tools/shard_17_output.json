@@ -1,0 +1,146 @@
+[
+  {
+    "id": "606a130a-3d5d-4e6a-9ada-e5c221fe9a29",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "lə sitʁɔ̃ ɛ tʁɛ asid",
+    "translation": {"zh": "柠檬很酸", "en": "Lemon is very sour"},
+    "tokens": [
+      {"text": "Le citron", "lemma": "citron", "ipa": "lə sitʁɔ̃", "emoji": "🍋", "translation": {"zh": "柠檬", "en": "lemon"}},
+      {"text": "est", "lemma": "être", "ipa": "ɛ", "emoji": "", "translation": {"zh": "是", "en": "is"}},
+      {"text": "très", "lemma": "très", "ipa": "tʁɛ", "emoji": "", "translation": {"zh": "很", "en": "very"}},
+      {"text": "acide", "lemma": "acide", "ipa": "asid", "emoji": "", "translation": {"zh": "酸", "en": "sour"}}
+    ]
+  },
+  {
+    "id": "739bbc99-70b9-4cc3-a93f-075a35753bcd",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "lə sykʁ ɛ du",
+    "translation": {"zh": "糖是甜的", "en": "Sugar is sweet"},
+    "tokens": [
+      {"text": "Le sucre", "lemma": "sucre", "ipa": "lə sykʁ", "emoji": "🍬", "translation": {"zh": "糖", "en": "sugar"}},
+      {"text": "est doux", "lemma": "être doux", "ipa": "ɛ du", "emoji": "", "translation": {"zh": "是甜的", "en": "is sweet"}}
+    ]
+  },
+  {
+    "id": "41fe884d-5380-47d8-83fd-722599b99666",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "lə medikamɑ̃ ɛ tamɛʁ",
+    "translation": {"zh": "药很苦", "en": "Medicine is bitter"},
+    "tokens": [
+      {"text": "Le médicament", "lemma": "médicament", "ipa": "lə medikamɑ̃", "emoji": "💊", "translation": {"zh": "药", "en": "medicine"}},
+      {"text": "est amer", "lemma": "être amer", "ipa": "ɛ tamɛʁ", "emoji": "", "translation": {"zh": "是苦的", "en": "is bitter"}}
+    ]
+  },
+  {
+    "id": "4fc9a432-cb0a-410a-ac0e-23908ae405f9",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "lə sɛl ɛ sale",
+    "translation": {"zh": "盐是咸的", "en": "Salt is salty"},
+    "tokens": [
+      {"text": "Le sel", "lemma": "sel", "ipa": "lə sɛl", "emoji": "🧂", "translation": {"zh": "盐", "en": "salt"}},
+      {"text": "est salé", "lemma": "être salé", "ipa": "ɛ sale", "emoji": "", "translation": {"zh": "是咸的", "en": "is salty"}}
+    ]
+  },
+  {
+    "id": "5554eca7-3170-489e-9757-d1c395f0eda4",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "mɔ̃n ɑ̃sjɛ̃ telefɔn ʁamɛ tu lə tɑ̃",
+    "translation": {"zh": "旧手机总是卡", "en": "My old phone always lagged"},
+    "tokens": [
+      {"text": "Mon ancien téléphone", "lemma": "ancien téléphone", "ipa": "mɔ̃n ɑ̃sjɛ̃ telefɔn", "emoji": "📱", "translation": {"zh": "我的旧手机", "en": "my old phone"}},
+      {"text": "ramait", "lemma": "ramer", "ipa": "ʁamɛ", "emoji": "", "translation": {"zh": "卡顿", "en": "lagged"}},
+      {"text": "tout le temps", "lemma": "tout le temps", "ipa": "tu lə tɑ̃", "emoji": "", "translation": {"zh": "总是", "en": "all the time"}}
+    ]
+  },
+  {
+    "id": "8f178555-bd82-4d62-b40f-39d8c559da25",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "avɛk mɔ̃ nuvo telefɔn sa nə ʁam ply",
+    "translation": {"zh": "新手机不卡了", "en": "New phone no longer lags"},
+    "tokens": [
+      {"text": "Avec", "lemma": "avec", "ipa": "avɛk", "emoji": "", "translation": {"zh": "用", "en": "with"}},
+      {"text": "mon nouveau téléphone", "lemma": "nouveau téléphone", "ipa": "mɔ̃ nuvo telefɔn", "emoji": "📱", "translation": {"zh": "我的新手机", "en": "my new phone"}},
+      {"text": "ça", "lemma": "ça", "ipa": "sa", "emoji": "", "translation": {"zh": "它", "en": "it"}},
+      {"text": "ne rame plus", "lemma": "ne ramer plus", "ipa": "nə ʁam ply", "emoji": "", "translation": {"zh": "不卡了", "en": "no longer lags"}}
+    ]
+  },
+  {
+    "id": "6f1e46f9-a94b-4cf5-8439-e95fc621adf2",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə sɥiz ɑ̃n avɑ̃s",
+    "translation": {"zh": "我提前到了", "en": "I am early"},
+    "tokens": [
+      {"text": "Je suis", "lemma": "être", "ipa": "ʒə sɥi", "emoji": "", "translation": {"zh": "我是", "en": "I am"}},
+      {"text": "en avance", "lemma": "en avance", "ipa": "zɑ̃n avɑ̃s", "emoji": "⏰", "translation": {"zh": "提前", "en": "early"}}
+    ]
+  },
+  {
+    "id": "f47bf966-7256-4bca-a316-d0e86f166137",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə sɥiz a lœʁ",
+    "translation": {"zh": "我准时到", "en": "I am on time"},
+    "tokens": [
+      {"text": "Je suis", "lemma": "être", "ipa": "ʒə sɥi", "emoji": "", "translation": {"zh": "我是", "en": "I am"}},
+      {"text": "à l'heure", "lemma": "à l'heure", "ipa": "za lœʁ", "emoji": "⏰", "translation": {"zh": "准时", "en": "on time"}}
+    ]
+  },
+  {
+    "id": "3162c0a0-a1f4-44c7-a46a-00fe65d4bb7d",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "il j a ɥit planɛt dɑ̃ lə sistɛm sɔlɛʁ",
+    "translation": {"zh": "太阳系有八颗行星", "en": "Eight planets in solar system"},
+    "tokens": [
+      {"text": "Il y a", "lemma": "il y a", "ipa": "il j a", "emoji": "", "translation": {"zh": "有", "en": "there are"}},
+      {"text": "huit planètes", "lemma": "planète", "ipa": "ɥit planɛt", "emoji": "🪐", "translation": {"zh": "八颗行星", "en": "eight planets"}},
+      {"text": "dans", "lemma": "dans", "ipa": "dɑ̃", "emoji": "", "translation": {"zh": "在", "en": "in"}},
+      {"text": "le système solaire", "lemma": "système solaire", "ipa": "lə sistɛm sɔlɛʁ", "emoji": "☀️", "translation": {"zh": "太阳系", "en": "solar system"}}
+    ]
+  },
+  {
+    "id": "6e0d92ac-c817-49d3-a960-21bb90d2bf1e",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "la səmɛn kɔ̃t sɛt ʒuʁ",
+    "translation": {"zh": "一周有七天", "en": "Week has seven days"},
+    "tokens": [
+      {"text": "La semaine", "lemma": "semaine", "ipa": "la səmɛn", "emoji": "📅", "translation": {"zh": "一周", "en": "week"}},
+      {"text": "compte", "lemma": "compter", "ipa": "kɔ̃t", "emoji": "", "translation": {"zh": "有", "en": "has"}},
+      {"text": "sept jours", "lemma": "jour", "ipa": "sɛt ʒuʁ", "emoji": "", "translation": {"zh": "七天", "en": "seven days"}}
+    ]
+  },
+  {
+    "id": "a8850d16-6c8e-4639-b525-0d1e6a415089",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "il j a ɔ̃z ʒwœʁ dɑ̃z yn ekip də futbol",
+    "translation": {"zh": "足球队有十一名球员", "en": "Eleven players in football team"},
+    "tokens": [
+      {"text": "Il y a", "lemma": "il y a", "ipa": "il j a", "emoji": "", "translation": {"zh": "有", "en": "there are"}},
+      {"text": "onze joueurs", "lemma": "joueur", "ipa": "ɔ̃z ʒwœʁ", "emoji": "👥", "translation": {"zh": "十一名球员", "en": "eleven players"}},
+      {"text": "dans", "lemma": "dans", "ipa": "dɑ̃", "emoji": "", "translation": {"zh": "在", "en": "in"}},
+      {"text": "une équipe de football", "lemma": "équipe de football", "ipa": "zyn ekip də futbol", "emoji": "⚽", "translation": {"zh": "足球队", "en": "football team"}}
+    ]
+  },
+  {
+    "id": "e72c0317-78d5-4d2e-8e72-e4629f4e1a77",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "il j a swasɑ̃t minyt dɑ̃z yn œʁ",
+    "translation": {"zh": "一小时有六十分钟", "en": "Sixty minutes in an hour"},
+    "tokens": [
+      {"text": "Il y a", "lemma": "il y a", "ipa": "il j a", "emoji": "", "translation": {"zh": "有", "en": "there are"}},
+      {"text": "soixante minutes", "lemma": "minute", "ipa": "swasɑ̃t minyt", "emoji": "", "translation": {"zh": "六十分钟", "en": "sixty minutes"}},
+      {"text": "dans", "lemma": "dans", "ipa": "dɑ̃", "emoji": "", "translation": {"zh": "在", "en": "in"}},
+      {"text": "une heure", "lemma": "heure", "ipa": "zyn œʁ", "emoji": "⏰", "translation": {"zh": "一小时", "en": "an hour"}}
+    ]
+  }
+]

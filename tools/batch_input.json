@@ -1,0 +1,1157 @@
+[
+  {
+    "id": "ade1eb60-3ed0-4b6f-ba04-042f6472f7a4",
+    "text": "Je peux payer par carte ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "9888180e-a984-4800-891a-b97ed7eb2ffd",
+    "text": "Le solde de mon compte.",
+    "cefr": "A2"
+  },
+  {
+    "id": "7cb40544-1f01-409b-a79d-f968a7bcf7e6",
+    "text": "Je voudrais ouvrir un compte.",
+    "cefr": "A2"
+  },
+  {
+    "id": "ce9a4aeb-869f-4549-bc45-9674167bd76e",
+    "text": "Un virement, s'il vous plaît.",
+    "cefr": "A2"
+  },
+  {
+    "id": "fef27291-ddc1-4649-a6b4-1f6a3005be99",
+    "text": "Ma carte ne fonctionne pas.",
+    "cefr": "A2"
+  },
+  {
+    "id": "7703c940-e658-4f69-b283-74c910de78b7",
+    "text": "La réunion commence à quelle heure ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "3eff07f5-b5d3-430e-b1e3-85773c8ddc8d",
+    "text": "Tu as une minute ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "65765b24-c8bc-48fb-a1b5-36890fe2fc59",
+    "text": "Je t'envoie un mail.",
+    "cefr": "A2"
+  },
+  {
+    "id": "6d5e496c-b37a-4866-b6e0-19b98c6b6d24",
+    "text": "On se retrouve à midi ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "7ac880db-1dc8-4b75-8642-790569ea3f14",
+    "text": "Le bureau est fermé.",
+    "cefr": "A2"
+  },
+  {
+    "id": "f3d23965-22be-4b94-8659-11ea0d91d45c",
+    "text": "J'ai un appel.",
+    "cefr": "A1"
+  },
+  {
+    "id": "f6549116-2fca-4dbd-b10f-19e2e718d6a3",
+    "text": "Tu peux m'aider ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "afb6b74d-c795-4c49-ab09-ea89bfdb1aa0",
+    "text": "Je suis occupé.",
+    "cefr": "A1"
+  },
+  {
+    "id": "c7f9f880-a438-4e17-aa5c-7a35dbeed09d",
+    "text": "Vous étiez là ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "dd47ebdc-aba9-40ed-ba5b-1655dba0281b",
+    "text": "C'était comment ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "b183bc0c-c2b2-4bbe-92c1-963c5476609f",
+    "text": "Vous avez vu quelque chose ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "8262ae87-001b-41d2-a5cd-e3d16eb3bb0d",
+    "text": "Depuis combien de temps ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "6d438351-c5a8-45d2-b760-1a2b024e9747",
+    "text": "C'est grave ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "abfd5b9b-2642-4e12-8b4f-39de54663e20",
+    "text": "Qu'est-ce que vous en pensez ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "aa882ae5-c3e8-4895-9000-4814efb46ce4",
+    "text": "Ça fait mal ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "c15501bb-845a-4268-aec2-12ceb02c6193",
+    "text": "Vous êtes d'accord ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "7e26114c-ab3a-4c27-8338-2316b10076cf",
+    "text": "Et maintenant ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "fb264330-3528-42dc-a684-54b616d0e7b3",
+    "text": "Un ingénieur chinois.",
+    "cefr": "A1"
+  },
+  {
+    "id": "c6b328a9-1f39-4ba0-9fcb-179291b2e641",
+    "text": "Une infirmière française.",
+    "cefr": "A1"
+  },
+  {
+    "id": "5cb960a4-1091-4c7f-be75-c36800b1c7e6",
+    "text": "Trois médecins maliens.",
+    "cefr": "A1"
+  },
+  {
+    "id": "9243de4a-2669-4669-9a8a-844529fa4eaf",
+    "text": "Quatre architectes italiens.",
+    "cefr": "A1"
+  },
+  {
+    "id": "5e046524-6edb-4e63-86b1-da55ee95e151",
+    "text": "Un technicien marocain.",
+    "cefr": "A1"
+  },
+  {
+    "id": "4899ddf2-0a9a-402a-b0d0-58acd8edf1df",
+    "text": "Cinq chercheurs japonais.",
+    "cefr": "A1"
+  },
+  {
+    "id": "db6f1e97-92bf-4122-9bc8-01f73916e179",
+    "text": "Une avocate espagnole.",
+    "cefr": "A1"
+  },
+  {
+    "id": "b11c6f1d-110e-4c7d-b4ed-b08fac719922",
+    "text": "Deux traducteurs arabes.",
+    "cefr": "A1"
+  },
+  {
+    "id": "4bd4a8c5-7f52-4f7b-8bb8-ba74518f773b",
+    "text": "Trois ouvriers vietnamiens.",
+    "cefr": "A1"
+  },
+  {
+    "id": "4463eaf5-235b-40cc-8d4c-9aa61c719f20",
+    "text": "Dix agriculteurs brésiliens.",
+    "cefr": "A1"
+  },
+  {
+    "id": "a66b1fc0-d884-4447-9a19-3a64dc87f42b",
+    "text": "Deux comptables russes.",
+    "cefr": "A1"
+  },
+  {
+    "id": "e718214e-0e99-4510-beaf-6270d3ae821d",
+    "text": "Cinq artistes américains.",
+    "cefr": "A1"
+  },
+  {
+    "id": "a34f063b-3d47-47b7-bc3a-d368aa0b3969",
+    "text": "Un musicien congolais.",
+    "cefr": "A1"
+  },
+  {
+    "id": "fe365c4b-af61-4736-bafc-530ca81fb059",
+    "text": "Se brosser les dents est une bonne habitude.",
+    "cefr": "A2"
+  },
+  {
+    "id": "aefaf17b-b6c4-4ca3-af79-03b00c348805",
+    "text": "Je lis rarement le journal.",
+    "cefr": "A2"
+  },
+  {
+    "id": "82da3b77-da48-48d7-bb99-49df93e51097",
+    "text": "Combien coûte une douzaine d'œufs?",
+    "cefr": "A1"
+  },
+  {
+    "id": "5e329248-ebf5-4474-9ad8-8c92c53a5212",
+    "text": "J'ai oublié mon mot de passe.",
+    "cefr": "A2"
+  },
+  {
+    "id": "4a7b0fd2-c440-43e9-989c-2547939bc8c2",
+    "text": "Je me promène.",
+    "cefr": "A2"
+  },
+  {
+    "id": "bba5f04a-0c0c-41b9-9153-fae3efdcf0a0",
+    "text": "C'est indispensable.",
+    "cefr": "B2"
+  },
+  {
+    "id": "67aac379-bb9b-4847-b679-49b01735ddb7",
+    "text": "Nonobstant ce refus.",
+    "cefr": "C1"
+  },
+  {
+    "id": "7b520031-e19f-4253-9f46-a60afc700ee4",
+    "text": "L'aléa l'emporte.",
+    "cefr": "C2"
+  },
+  {
+    "id": "7e873751-5f70-4e79-a4b4-6fab64b53eb1",
+    "text": "Le vide laissé par quelqu'un ne disparaît pas facilement.",
+    "cefr": "B2"
+  },
+  {
+    "id": "43c1fd2e-f674-4f64-b6cc-2ee5e6be845a",
+    "text": "C'est une lucidité qui fait mal.",
+    "cefr": "B2"
+  },
+  {
+    "id": "4a2a19d7-98f6-42f8-9af5-941a5a0408ca",
+    "text": "L'usure imperceptible du quotidien finit par épuiser.",
+    "cefr": "C1"
+  },
+  {
+    "id": "7f9f2dee-ffcd-4eea-9c20-4e6545804e37",
+    "text": "Je marche vers l'école.",
+    "cefr": "A1"
+  },
+  {
+    "id": "f615b877-5172-410b-b9af-b0851f524a1d",
+    "text": "On travaille tous ensemble.",
+    "cefr": "A1"
+  },
+  {
+    "id": "5075390b-68f0-4c52-a153-cbaa06f214b8",
+    "text": "On rigole bien.",
+    "cefr": "A2"
+  },
+  {
+    "id": "6fe9ac8e-986e-4b7d-a503-c10f4af94094",
+    "text": "On attend la sonnerie.",
+    "cefr": "A2"
+  },
+  {
+    "id": "d5554e78-1d01-4d4d-878e-34a1acf67a0d",
+    "text": "C'est l'heure de la récré.",
+    "cefr": "A1"
+  },
+  {
+    "id": "d1e17d57-97d0-461c-a936-79a23cec6a62",
+    "text": "Mettez-vous en rang, s'il vous plaît.",
+    "cefr": "A2"
+  },
+  {
+    "id": "7113534a-824f-4c96-a455-fdcd49f1eb09",
+    "text": "On aime dessiner et chanter.",
+    "cefr": "A1"
+  },
+  {
+    "id": "b446893f-1ca8-4b31-aed2-d51bf8923139",
+    "text": "Viens à l'école avec moi.",
+    "cefr": "A1"
+  },
+  {
+    "id": "dba26606-385a-4df3-8b02-afa511779060",
+    "text": "C'est l'autre maîtresse aujourd'hui.",
+    "cefr": "A2"
+  },
+  {
+    "id": "f79dabfe-2e41-419c-a1dd-b8de9365afe0",
+    "text": "Au revoir maman !",
+    "cefr": "A1"
+  },
+  {
+    "id": "33a3cab4-b7db-46e1-9358-eac75cf017a6",
+    "text": "Allez, dépêche-toi !",
+    "cefr": "A2"
+  },
+  {
+    "id": "3c3f3e42-160d-443c-ab48-f4d6e2c39412",
+    "text": "Vas-y !",
+    "cefr": "A1"
+  },
+  {
+    "id": "991de57d-5d92-4f38-8a35-c7f315e15271",
+    "text": "But !",
+    "cefr": "A1"
+  },
+  {
+    "id": "c14276b8-39a8-4502-89e6-ddee211ccda9",
+    "text": "La maîtresse est malade.",
+    "cefr": "A1"
+  },
+  {
+    "id": "55593b30-6fb9-411f-8d76-b2c571c00bf6",
+    "text": "Venez me rejoindre.",
+    "cefr": "A2"
+  },
+  {
+    "id": "b1114ab9-0f49-405d-b9ab-eaa198be2908",
+    "text": "Qui la remplace ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "65010f8c-6742-47fa-927e-3fa71a448797",
+    "text": "Quel est ton prénom ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "a06852b8-1525-4dd7-89cb-e0b75967304e",
+    "text": "Je vais distribuer les feuilles.",
+    "cefr": "A2"
+  },
+  {
+    "id": "d6d01631-5547-4e5e-ba47-d99222091048",
+    "text": "Voici ton cahier du jour.",
+    "cefr": "A2"
+  },
+  {
+    "id": "c6f53e25-706b-4f60-9c26-5b92f5e2793f",
+    "text": "Au travail maintenant !",
+    "cefr": "A2"
+  },
+  {
+    "id": "7574bf77-e06d-4891-8dfb-e27599b717c9",
+    "text": "La pauvre !",
+    "cefr": "A2"
+  },
+  {
+    "id": "716089d2-775e-4817-b327-f5c14e782677",
+    "text": "Youpi !",
+    "cefr": "A1"
+  },
+  {
+    "id": "3afcfe5a-1892-4a50-b51e-735d3e150b7e",
+    "text": "C'est pas grave.",
+    "cefr": "A1"
+  },
+  {
+    "id": "861a9566-022d-4718-9edb-fe9320614d73",
+    "text": "On se calme !",
+    "cefr": "A2"
+  },
+  {
+    "id": "5b63df77-a59a-4bfd-a69d-b6a4b5374903",
+    "text": "Tu racontes des bêtises.",
+    "cefr": "A2"
+  },
+  {
+    "id": "f776a5fc-9a11-4c0f-80a8-7febea929dbd",
+    "text": "C'est pas très gentil.",
+    "cefr": "A1"
+  },
+  {
+    "id": "73ee50a4-4518-46a0-a4f0-ff6792ec13a4",
+    "text": "C'est qui ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "707f36d3-9f10-440f-a79f-f79a1d9149b2",
+    "text": "Je m'appelle Marie.",
+    "cefr": "A1"
+  },
+  {
+    "id": "61371f03-dd34-4523-82ac-f55d23e982b7",
+    "text": "Pas du tout !",
+    "cefr": "A1"
+  },
+  {
+    "id": "e3f365d3-2459-4161-99bc-b3e309451a14",
+    "text": "Venez ici.",
+    "cefr": "A1"
+  },
+  {
+    "id": "99155d43-1b14-4d00-8291-9a21a485e52e",
+    "text": "Pardon.",
+    "cefr": "A1"
+  },
+  {
+    "id": "ce20664a-d633-496e-8c3e-616e6d78c85f",
+    "text": "Elle va me manquer.",
+    "cefr": "A2"
+  },
+  {
+    "id": "54d8c43b-c6d8-4fb4-9d4d-651427b91382",
+    "text": "C'est qui ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "7a1c6fc4-b702-4693-9d5f-54ec1081e45a",
+    "text": "Quel est ton prénom ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "2b101428-c9df-45e7-9e4a-5a28619fcbd7",
+    "text": "Tu ne sais plus comment tu t'appelles ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "cac1a179-ff73-4d09-ad68-5593f63c26c4",
+    "text": "Ça te va très bien.",
+    "cefr": "A2"
+  },
+  {
+    "id": "8c4cf159-0b0f-480f-a339-c4f3549a250e",
+    "text": "C'est joli comme prénom.",
+    "cefr": "A2"
+  },
+  {
+    "id": "58d10eac-e7a5-40f1-941e-86e68c7fe4e3",
+    "text": "Elle a un gros rhume.",
+    "cefr": "A1"
+  },
+  {
+    "id": "35f499b1-5ecb-4bb5-b3d0-ab0cbb0d451d",
+    "text": "C'est moi qui la remplace.",
+    "cefr": "A2"
+  },
+  {
+    "id": "4cdce51e-1f74-432c-83d1-f219aff8dd33",
+    "text": "Vous me montrez votre classe ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "a78ed32c-d1c2-471f-801f-5648f5019982",
+    "text": "On va travailler maintenant.",
+    "cefr": "A1"
+  },
+  {
+    "id": "75e95120-dd33-4a2d-b738-c57a46ce2988",
+    "text": "Je n'ai jamais vu ça.",
+    "cefr": "A2"
+  },
+  {
+    "id": "3df0273a-e3dc-4fb7-9f63-fbb273912132",
+    "text": "Je ne vais pas changer les habitudes.",
+    "cefr": "A2"
+  },
+  {
+    "id": "d3d0264e-f33d-4f5a-8b11-14860a8655b7",
+    "text": "Retournez en classe.",
+    "cefr": "A1"
+  },
+  {
+    "id": "3caa13dc-1bd7-44f1-a4b2-6caaaf583576",
+    "text": "Au travail maintenant.",
+    "cefr": "A1"
+  },
+  {
+    "id": "9f8012b5-560b-4f5f-83b8-ebfbabdf1173",
+    "text": "On se calme !",
+    "cefr": "A2"
+  },
+  {
+    "id": "5b57f1f9-f3a2-4a89-ba4b-be14a0c3a319",
+    "text": "C'est pas très gentil.",
+    "cefr": "A2"
+  },
+  {
+    "id": "9dc06188-f310-4cc1-9eec-58e931f94782",
+    "text": "Je me doutais bien.",
+    "cefr": "B1"
+  },
+  {
+    "id": "64e79b04-9c12-408e-8be0-9961c969e91f",
+    "text": "Je ne suis pas content.",
+    "cefr": "A1"
+  },
+  {
+    "id": "d1263e5a-eb3d-4a49-ac0c-08872f00e719",
+    "text": "J'ai pas envie.",
+    "cefr": "A2"
+  },
+  {
+    "id": "d0c983a0-13fa-44de-ac94-63032922ec50",
+    "text": "Ah bon ? C'est vrai ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "8192be0e-49d1-4d29-8d00-864fda9be12b",
+    "text": "Mais si, c'est vrai !",
+    "cefr": "A1"
+  },
+  {
+    "id": "4e375d6c-2d23-4ff0-b070-b7f903b8f6e1",
+    "text": "Comment ça ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "554d87d2-8558-4f4d-8a31-6c8b03c6da6b",
+    "text": "Qu'est-ce qu'ils vous ont raconté ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "d9373a35-7ffa-4fbe-a81f-8bf7fc0cd8cc",
+    "text": "Par ici.",
+    "cefr": "A1"
+  },
+  {
+    "id": "3ef769c0-3d52-43cc-a01c-fd2901120396",
+    "text": "Dégage-toi !",
+    "cefr": "A2"
+  },
+  {
+    "id": "d0d081f8-2e09-4ccf-8762-074ad73f2c8d",
+    "text": "Ça y est !",
+    "cefr": "A2"
+  },
+  {
+    "id": "4962e9d7-f103-411d-9e3f-efd80e2d8ae7",
+    "text": "Les voilà !",
+    "cefr": "A1"
+  },
+  {
+    "id": "37053ffc-0ef8-48ca-80c5-b81a72eced85",
+    "text": "Vous êtes en forme !",
+    "cefr": "A2"
+  },
+  {
+    "id": "9fbd672d-b29a-42b7-abab-a5c3e4697807",
+    "text": "Sortez du véhicule !",
+    "cefr": "A2"
+  },
+  {
+    "id": "d264f8d8-5e6b-461f-b05a-b2902cf5e37d",
+    "text": "Vous allez encore perdre.",
+    "cefr": "A2"
+  },
+  {
+    "id": "a26b28de-82d6-47cc-8de2-3ae28de6f991",
+    "text": "Tenu !",
+    "cefr": "B1"
+  },
+  {
+    "id": "3055ed21-1b89-4bde-9f28-6828dc353199",
+    "text": "Je vais vous expliquer.",
+    "cefr": "A2"
+  },
+  {
+    "id": "28b1285e-f5ee-4011-8044-80f9091b3e48",
+    "text": "Venez immédiatement.",
+    "cefr": "A2"
+  },
+  {
+    "id": "c9c09812-6323-47a7-9032-90ad08463000",
+    "text": "Doucement !",
+    "cefr": "A1"
+  },
+  {
+    "id": "e4c3b33f-df84-4c1e-b9bb-5b560cd1d042",
+    "text": "Il peut pas sortir.",
+    "cefr": "A2"
+  },
+  {
+    "id": "c5c460f6-fd14-4072-a929-60d3aa7c2e6b",
+    "text": "Qu'est-ce que tu racontes ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "41ff8a05-dbc1-437c-841f-b968d49e9bf9",
+    "text": "C'est dans le coffre.",
+    "cefr": "A2"
+  },
+  {
+    "id": "43e1c5e5-72bc-49f3-8a62-48b7febc5768",
+    "text": "Vas vérifier !",
+    "cefr": "A2"
+  },
+  {
+    "id": "438ba036-c77c-42a4-b257-87d37029ee56",
+    "text": "Je fais ça pas pour m'amuser.",
+    "cefr": "B1"
+  },
+  {
+    "id": "8f57ae31-6596-44b3-873d-09cb23c8bfa0",
+    "text": "J'étais en route pour l'hôpital.",
+    "cefr": "A2"
+  },
+  {
+    "id": "a487f8cb-9e09-484c-8810-0cdceeb3537b",
+    "text": "Je suis là pour ça.",
+    "cefr": "A2"
+  },
+  {
+    "id": "4ef9f39e-94df-43a1-a78c-ff3a986ba5d9",
+    "text": "Vas-y !",
+    "cefr": "A1"
+  },
+  {
+    "id": "9b918e32-6b9f-4490-bfb2-24ca12530877",
+    "text": "Comment t'appelles-tu ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "ee5fc0ce-3339-4213-a4d4-1421ed2e20e5",
+    "text": "Bonjour, monsieur.",
+    "cefr": "A1"
+  },
+  {
+    "id": "65017aa6-ff03-4cb3-a291-1975d4deac26",
+    "text": "Vous avez choisi ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "48756952-6eda-4139-850b-3eda4da1568a",
+    "text": "Je voudrais un steak-frites, s'il vous plaît.",
+    "cefr": "A1"
+  },
+  {
+    "id": "ed9dcff3-a4bc-4618-be80-b2a4501517bd",
+    "text": "Très bien. Et pour boire ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "ea698e31-c428-4dd7-be15-5a7ff9a34da9",
+    "text": "Une carafe d'eau, merci.",
+    "cefr": "A1"
+  },
+  {
+    "id": "9b020622-5537-403b-803c-5e54f240f2f0",
+    "text": "Ça marche.",
+    "cefr": "A2"
+  },
+  {
+    "id": "549a1fcf-0e9c-420d-ac72-44f6f77270f6",
+    "text": "Quelques minutes plus tard.",
+    "cefr": "A2"
+  },
+  {
+    "id": "3986c8d5-ce0d-42a5-a86f-622475ab8c62",
+    "text": "Voici votre plat. Bon appétit !",
+    "cefr": "A1"
+  },
+  {
+    "id": "95f9a09d-04eb-4bd4-bb92-0408b8392bd7",
+    "text": "Bonjour ! Vous avez la carte de fidélité ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "b4bc733c-9234-4763-8f02-eda43a36fc23",
+    "text": "Qui ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "8fed9fb7-fc09-4670-a11b-d5be9e0837de",
+    "text": "Quoi ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "b1992344-6069-4a87-b49f-3ac83e9fac48",
+    "text": "Quand ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "6fd04b5a-c156-44d9-a2f1-980410a751e9",
+    "text": "C'est trop.",
+    "cefr": "A1"
+  },
+  {
+    "id": "fdba2676-1b45-432d-8c23-03967a91a1fd",
+    "text": "Je suis fatigué.",
+    "cefr": "A1"
+  },
+  {
+    "id": "2f1eb150-7c47-4878-be75-934ae2ee29d5",
+    "text": "Je suis malade.",
+    "cefr": "A1"
+  },
+  {
+    "id": "4aa1817e-e9dd-4c92-a897-c6c4114496eb",
+    "text": "Je voudrais prendre un rendez-vous.",
+    "cefr": "A2"
+  },
+  {
+    "id": "9b72fe2a-d5da-44de-8f76-1463b9664e02",
+    "text": "J'étais occupé.",
+    "cefr": "A2"
+  },
+  {
+    "id": "2bf3bb16-de3f-46c2-8762-ac2e865bbf7e",
+    "text": "Encore !",
+    "cefr": "A1"
+  },
+  {
+    "id": "7c5b5393-823f-407e-864c-62ada6d1de6e",
+    "text": "Prends soin de toi.",
+    "cefr": "A2"
+  },
+  {
+    "id": "f69b8137-5fec-4dbb-80fb-e93dc430f212",
+    "text": "Pas de souci.",
+    "cefr": "A2"
+  },
+  {
+    "id": "ed98b07a-055f-4d7f-be5e-1a8745dcf062",
+    "text": "Ne m'attendez pas.",
+    "cefr": "A2"
+  },
+  {
+    "id": "94274fa9-93d8-411f-a0e1-c12667500406",
+    "text": "Je vais essayer.",
+    "cefr": "A2"
+  },
+  {
+    "id": "7db1db99-0d9e-4b12-a1c2-eecfd1b0250f",
+    "text": "À plus tard !",
+    "cefr": "A1"
+  },
+  {
+    "id": "f5674e48-a461-45b9-acd4-2d502b93c590",
+    "text": "J'ai hâte de te revoir.",
+    "cefr": "B1"
+  },
+  {
+    "id": "2dc2074b-a95d-4918-838a-1e7b7102c69a",
+    "text": "Hier.",
+    "cefr": "A1"
+  },
+  {
+    "id": "3a01f14e-068d-4f33-836d-8fdd3fe84876",
+    "text": "Une semaine.",
+    "cefr": "A1"
+  },
+  {
+    "id": "cc4c78d6-2751-4ec0-8816-bf0557b0da6f",
+    "text": "Un mois.",
+    "cefr": "A1"
+  },
+  {
+    "id": "e11e52f4-6ab7-427b-8fd7-6fe8d18ac67f",
+    "text": "Quelle année ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "6ebb5c88-300a-4e8c-9ec6-e5e30b5853fa",
+    "text": "Avocat",
+    "cefr": "A1"
+  },
+  {
+    "id": "dadb3883-c3c1-4958-b164-7504c2db231a",
+    "text": "Brocoli",
+    "cefr": "A1"
+  },
+  {
+    "id": "27a53d0b-1d51-490b-a467-6a17729359dc",
+    "text": "Légume vert",
+    "cefr": "A1"
+  },
+  {
+    "id": "9e75344c-34e6-4940-88ac-fadc49034bae",
+    "text": "Concombre",
+    "cefr": "A1"
+  },
+  {
+    "id": "51fa0456-4491-4fca-88ef-281cd13e0165",
+    "text": "Piment",
+    "cefr": "A1"
+  },
+  {
+    "id": "f958d5f9-1d03-407a-91f3-49fde102d0cd",
+    "text": "Poivron",
+    "cefr": "A1"
+  },
+  {
+    "id": "b9a83294-5cfe-47fd-99be-c87b82f1c3f6",
+    "text": "Olive",
+    "cefr": "A1"
+  },
+  {
+    "id": "979e5fe6-3456-41b2-921e-29da76aba28e",
+    "text": "Ail",
+    "cefr": "A1"
+  },
+  {
+    "id": "2bb8ce59-a8eb-4ae2-8878-99f43438f935",
+    "text": "Pastèque",
+    "cefr": "A1"
+  },
+  {
+    "id": "ac7c921f-a65b-4a18-9d4e-fd57e01d0db3",
+    "text": "Myrtille",
+    "cefr": "A1"
+  },
+  {
+    "id": "a1f4ff23-ee75-43d0-a4a8-556a609ba108",
+    "text": "Melon",
+    "cefr": "A1"
+  },
+  {
+    "id": "408e5ca9-22c9-49b7-80e8-69fb2d6a3f22",
+    "text": "Cerise",
+    "cefr": "A1"
+  },
+  {
+    "id": "8b289064-91fe-4781-8bf2-6c1694ad3759",
+    "text": "Pêche",
+    "cefr": "A1"
+  },
+  {
+    "id": "8c2e995f-109e-42e4-94a8-10a17791dc2a",
+    "text": "Mangue",
+    "cefr": "A1"
+  },
+  {
+    "id": "6a372fe0-0644-43b5-ae66-68306f5f73b8",
+    "text": "Ananas",
+    "cefr": "A1"
+  },
+  {
+    "id": "b45c0f8d-6c3f-4b4f-8fb2-019fb1f014eb",
+    "text": "Noix de coco",
+    "cefr": "A1"
+  },
+  {
+    "id": "3734f07e-f13b-431d-937c-77050e3d16f0",
+    "text": "Kiwi",
+    "cefr": "A1"
+  },
+  {
+    "id": "d9b13830-6a0a-4d8c-a5d0-498091317aac",
+    "text": "Qu'est-ce que tu fais ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "36bbbeb6-df1f-4e2f-bee6-5b86b9480b8f",
+    "text": "Combien de temps ça prend ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "53a9e8c0-beaf-4880-92c2-412172f1f49d",
+    "text": "Le pont est grand.",
+    "cefr": "A1"
+  },
+  {
+    "id": "6eab8b59-3222-4c1b-8f35-b5a31f27c7f6",
+    "text": "Le chemin de fer est long.",
+    "cefr": "A2"
+  },
+  {
+    "id": "ca5327de-4e01-417b-b705-d7c4aaab247b",
+    "text": "C'est quoi ça ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "6106133c-b94e-42f7-ad4f-0e5f75b2c7a4",
+    "text": "Il y a tellement de monde.",
+    "cefr": "A2"
+  },
+  {
+    "id": "b3a72d82-044a-46fe-b1b8-0e3921fbfe01",
+    "text": "C'est assez.",
+    "cefr": "A1"
+  },
+  {
+    "id": "9882a16f-3784-421e-8c45-67cbd046fa7c",
+    "text": "Tu viens d'où ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "63c27816-f4b3-4a45-92d9-5c21c518efc3",
+    "text": "Tu as quelque chose de similaire ?",
+    "cefr": "B1"
+  },
+  {
+    "id": "937954fe-d49d-43c6-a8a8-575a49370f6d",
+    "text": "Le ciel est bleu.",
+    "cefr": "A1"
+  },
+  {
+    "id": "68a646cb-aa6c-4ba8-912d-6b50d10edb16",
+    "text": "La terre est grande.",
+    "cefr": "A1"
+  },
+  {
+    "id": "cac94991-455d-46f8-a9ad-ec2f1937de3d",
+    "text": "L'océan est profond.",
+    "cefr": "A2"
+  },
+  {
+    "id": "ea347270-40b3-45e1-aa99-66ed386c4c49",
+    "text": "La rivière coule.",
+    "cefr": "A2"
+  },
+  {
+    "id": "4af1d214-6e16-4e8f-8105-419b03891fb9",
+    "text": "Votre correspondant est actuellement en ligne.",
+    "cefr": "B1"
+  },
+  {
+    "id": "482cea58-c2a0-4a26-baba-35e9e201d331",
+    "text": "Merci de renouveler votre appel ultérieurement.",
+    "cefr": "B1"
+  },
+  {
+    "id": "2ca33307-0aec-4da3-9c92-2955ca0a20ee",
+    "text": "Quelle heure est-il ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "5385bf9d-bb0d-48ab-8470-653a5ed11e0e",
+    "text": "Il est vingt-trois heures.",
+    "cefr": "A1"
+  },
+  {
+    "id": "744eeb99-ab63-43d5-84da-5472a0ebf78f",
+    "text": "Un canapé confortable.",
+    "cefr": "A1"
+  },
+  {
+    "id": "a2f373ae-7cf0-4227-a77c-84a9df6b69df",
+    "text": "Une télévision.",
+    "cefr": "A1"
+  },
+  {
+    "id": "e8d79d62-2bb9-430f-a6f2-134d2f089872",
+    "text": "Un ordinateur portable.",
+    "cefr": "A1"
+  },
+  {
+    "id": "5d6bc943-9284-446c-b6b5-016740ff7e82",
+    "text": "La baignoire et le miroir dans la salle de bain.",
+    "cefr": "A1"
+  },
+  {
+    "id": "4c51792c-e4be-4d4d-a9e5-1e82176e5487",
+    "text": "Une souris sans fil.",
+    "cefr": "A1"
+  },
+  {
+    "id": "bc25e36d-8094-4340-b220-d35d17e1b88f",
+    "text": "Le clavier.",
+    "cefr": "A1"
+  },
+  {
+    "id": "69e8c723-a1d8-4d8b-8959-252d2b0e2c7a",
+    "text": "L'alimentation de l'ordinateur.",
+    "cefr": "A2"
+  },
+  {
+    "id": "889b4836-92fe-4c13-9a54-63dc2d219793",
+    "text": "À vendre.",
+    "cefr": "A1"
+  },
+  {
+    "id": "290a3700-80e7-4171-bcca-394c4a0ab4c1",
+    "text": "Plusieurs millions.",
+    "cefr": "A2"
+  },
+  {
+    "id": "6dad7cc5-17cc-4b32-a6a4-4e6706a3af38",
+    "text": "Quelle est votre voiture ? Celle au milieu.",
+    "cefr": "A1"
+  },
+  {
+    "id": "8803bc6a-3a44-4f0b-90c1-1a2b213713bf",
+    "text": "Je ressens de la joie.",
+    "cefr": "A2"
+  },
+  {
+    "id": "4154bc53-2885-476a-83a5-6d3a8179176a",
+    "text": "Je suis content.",
+    "cefr": "A1"
+  },
+  {
+    "id": "3bef51ea-f536-4b21-8739-ef926109572a",
+    "text": "Il ressent de l'excitation.",
+    "cefr": "B1"
+  },
+  {
+    "id": "494dee3b-52ab-4c53-9b12-a95f95b26760",
+    "text": "Il a de la fierté.",
+    "cefr": "B1"
+  },
+  {
+    "id": "8501e926-cf8b-4ecd-af55-7aea3fd23e0e",
+    "text": "Je suis en réflexion.",
+    "cefr": "B1"
+  },
+  {
+    "id": "c6e01a3b-b541-4e1c-884f-9162442687d9",
+    "text": "Je ressens de la gêne.",
+    "cefr": "B1"
+  },
+  {
+    "id": "6122fab1-eb8e-42a5-ab61-202df84f697c",
+    "text": "Je ressens de la déception.",
+    "cefr": "B1"
+  },
+  {
+    "id": "630bf918-fd47-44a5-a803-03bf2de247f3",
+    "text": "Je suis en pleurs.",
+    "cefr": "B1"
+  },
+  {
+    "id": "95c4dd16-4c63-425e-b2b2-b13c70b0128d",
+    "text": "Il ressent de la colère.",
+    "cefr": "B1"
+  },
+  {
+    "id": "84252683-2cdd-4922-91ea-bbc8cfb45248",
+    "text": "Il a de la rage.",
+    "cefr": "B1"
+  },
+  {
+    "id": "fc6abe76-5e02-4d4f-9f29-420029184056",
+    "text": "J'ai sommeil.",
+    "cefr": "A1"
+  },
+  {
+    "id": "7925e7c4-9d48-4159-9731-3327962e0d6c",
+    "text": "Pour ce problème, il y a deux solutions.",
+    "cefr": "A2"
+  },
+  {
+    "id": "606a130a-3d5d-4e6a-9ada-e5c221fe9a29",
+    "text": "Le citron est très acide.",
+    "cefr": "A2"
+  },
+  {
+    "id": "739bbc99-70b9-4cc3-a93f-075a35753bcd",
+    "text": "Le sucre est doux.",
+    "cefr": "A1"
+  },
+  {
+    "id": "41fe884d-5380-47d8-83fd-722599b99666",
+    "text": "Le médicament est amer.",
+    "cefr": "A2"
+  },
+  {
+    "id": "4fc9a432-cb0a-410a-ac0e-23908ae405f9",
+    "text": "Le sel est salé.",
+    "cefr": "A1"
+  },
+  {
+    "id": "5554eca7-3170-489e-9757-d1c395f0eda4",
+    "text": "Mon ancien téléphone ramait tout le temps.",
+    "cefr": "B1"
+  },
+  {
+    "id": "8f178555-bd82-4d62-b40f-39d8c559da25",
+    "text": "Avec mon nouveau téléphone, ça ne rame plus.",
+    "cefr": "B1"
+  },
+  {
+    "id": "6f1e46f9-a94b-4cf5-8439-e95fc621adf2",
+    "text": "Je suis en avance.",
+    "cefr": "A2"
+  },
+  {
+    "id": "f47bf966-7256-4bca-a316-d0e86f166137",
+    "text": "Je suis à l'heure.",
+    "cefr": "A2"
+  },
+  {
+    "id": "3162c0a0-a1f4-44c7-a46a-00fe65d4bb7d",
+    "text": "Il y a huit planètes dans le système solaire.",
+    "cefr": "B1"
+  },
+  {
+    "id": "6e0d92ac-c817-49d3-a960-21bb90d2bf1e",
+    "text": "La semaine compte sept jours.",
+    "cefr": "A1"
+  },
+  {
+    "id": "a8850d16-6c8e-4639-b525-0d1e6a415089",
+    "text": "Il y a onze joueurs dans une équipe de football.",
+    "cefr": "A2"
+  },
+  {
+    "id": "e72c0317-78d5-4d2e-8e72-e4629f4e1a77",
+    "text": "Il y a soixante minutes dans une heure.",
+    "cefr": "A1"
+  },
+  {
+    "id": "3138572d-f2b2-496e-b737-98a659413003",
+    "text": "L'année compte quatre saisons.",
+    "cefr": "A1"
+  },
+  {
+    "id": "b8ab505d-81a4-4489-9dab-e7bb07a5c591",
+    "text": "La journée compte vingt-quatre heures.",
+    "cefr": "A1"
+  },
+  {
+    "id": "e987a2c9-4597-4301-9ff3-33699e7b7703",
+    "text": "Les cinq anneaux du drapeau olympique représentent les cinq continents.",
+    "cefr": "B1"
+  },
+  {
+    "id": "919b9e41-86ca-4b53-834b-b66e86efc5d2",
+    "text": "Les humains ont vingt-trois paires de chromosomes.",
+    "cefr": "C1"
+  },
+  {
+    "id": "287ce02c-cec0-48b1-873f-2382271cc851",
+    "text": "Cette ville a deux mille habitants.",
+    "cefr": "A2"
+  },
+  {
+    "id": "5a1846f7-ae36-4519-b0e6-e074a87b3a69",
+    "text": "Il y a trois cent soixante-cinq jours dans une année.",
+    "cefr": "A2"
+  },
+  {
+    "id": "ba6f6abb-8636-42a0-bca6-718f99dcef16",
+    "text": "Cette entreprise emploie vingt mille personnes.",
+    "cefr": "B1"
+  },
+  {
+    "id": "3d0bcffd-27b4-497e-b264-dec3a2db0aa3",
+    "text": "Paris compte plus de deux millions d'habitants.",
+    "cefr": "B1"
+  },
+  {
+    "id": "f3e3b1f8-1bc6-4b05-8ba4-469993f9d18c",
+    "text": "Ce film a rapporté cent millions d'euros.",
+    "cefr": "B1"
+  },
+  {
+    "id": "cde13335-09a0-45c4-9af6-0c1a70ae169e",
+    "text": "La Terre est à cent cinquante millions de kilomètres du Soleil.",
+    "cefr": "B1"
+  },
+  {
+    "id": "9c538b86-c67e-41aa-a580-4505e288bafc",
+    "text": "La Chine compte plus d'un milliard quatre cents millions d'habitants.",
+    "cefr": "B2"
+  },
+  {
+    "id": "ec3d9f90-6937-46f5-ae2d-3b712407fb9a",
+    "text": "Le budget de l'État dépasse mille milliards d'euros.",
+    "cefr": "B2"
+  },
+  {
+    "id": "9a972cc1-2ce6-42f0-a09d-b389378f72db",
+    "text": "Un appartement à Paris coûte en moyenne cinq cent mille euros.",
+    "cefr": "B1"
+  },
+  {
+    "id": "5ee2e22b-58ff-4172-9c11-4c6cf15ec7bc",
+    "text": "Cette chanson a été écoutée cinq cents millions de fois.",
+    "cefr": "B2"
+  },
+  {
+    "id": "69750e88-9efc-4a6e-86ec-b16c8d1b85ec",
+    "text": "Il y a environ huit milliards de personnes sur Terre.",
+    "cefr": "B1"
+  }
+]

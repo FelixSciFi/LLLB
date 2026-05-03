@@ -1,0 +1,134 @@
+[
+  {
+    "id": "73ee50a4-4518-46a0-a4f0-ff6792ec13a4",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɛ ki",
+    "translation": {"zh": "是谁？", "en": "Who is it?"},
+    "tokens": [
+      {"text": "C'est", "lemma": "c'est", "ipa": "sɛ", "emoji": "", "translation": {"zh": "是", "en": "it is"}},
+      {"text": "qui", "lemma": "qui", "ipa": "ki", "emoji": "", "translation": {"zh": "谁", "en": "who"}}
+    ]
+  },
+  {
+    "id": "707f36d3-9f10-440f-a79f-f79a1d9149b2",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə mapɛl maʁi",
+    "translation": {"zh": "我叫玛丽。", "en": "My name is Marie."},
+    "tokens": [
+      {"text": "Je m'appelle", "lemma": "je m'appeler", "ipa": "ʒə mapɛl", "emoji": "", "translation": {"zh": "我叫", "en": "my name is"}},
+      {"text": "Marie", "lemma": "Marie", "ipa": "maʁi", "emoji": "", "translation": {"zh": "玛丽", "en": "Marie"}}
+    ]
+  },
+  {
+    "id": "61371f03-dd34-4523-82ac-f55d23e982b7",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "pɑ dy tu",
+    "translation": {"zh": "完全不！", "en": "Not at all!"},
+    "tokens": [
+      {"text": "Pas du tout", "lemma": "pas du tout", "ipa": "pɑ dy tu", "emoji": "", "translation": {"zh": "完全不", "en": "not at all"}}
+    ]
+  },
+  {
+    "id": "e3f365d3-2459-4161-99bc-b3e309451a14",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "vəne isi",
+    "translation": {"zh": "过来这里。", "en": "Come here."},
+    "tokens": [
+      {"text": "Venez", "lemma": "venir", "ipa": "vəne", "emoji": "", "translation": {"zh": "来", "en": "come"}},
+      {"text": "ici", "lemma": "ici", "ipa": "isi", "emoji": "", "translation": {"zh": "这里", "en": "here"}}
+    ]
+  },
+  {
+    "id": "99155d43-1b14-4d00-8291-9a21a485e52e",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "paʁdɔ̃",
+    "translation": {"zh": "对不起。", "en": "Sorry."},
+    "tokens": [
+      {"text": "Pardon", "lemma": "pardon", "ipa": "paʁdɔ̃", "emoji": "", "translation": {"zh": "对不起", "en": "sorry"}}
+    ]
+  },
+  {
+    "id": "ce20664a-d633-496e-8c3e-616e6d78c85f",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ɛl va mə mɑ̃kɛ",
+    "translation": {"zh": "我会想她。", "en": "I'll miss her."},
+    "tokens": [
+      {"text": "Elle va", "lemma": "elle aller", "ipa": "ɛl va", "emoji": "", "translation": {"zh": "她将", "en": "she will"}},
+      {"text": "me manquer", "lemma": "me manquer", "ipa": "mə mɑ̃kɛ", "emoji": "", "translation": {"zh": "想念我", "en": "miss me"}}
+    ]
+  },
+  {
+    "id": "54d8c43b-c6d8-4fb4-9d4d-651427b91382",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɛ ki",
+    "translation": {"zh": "是谁？", "en": "Who is it?"},
+    "tokens": [
+      {"text": "C'est", "lemma": "c'est", "ipa": "sɛ", "emoji": "", "translation": {"zh": "是", "en": "it is"}},
+      {"text": "qui", "lemma": "qui", "ipa": "ki", "emoji": "", "translation": {"zh": "谁", "en": "who"}}
+    ]
+  },
+  {
+    "id": "7a1c6fc4-b702-4693-9d5f-54ec1081e45a",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "kɛl ɛ tɔ̃ pʁenɔ̃",
+    "translation": {"zh": "你叫什么？", "en": "What's your name?"},
+    "tokens": [
+      {"text": "Quel est", "lemma": "quel être", "ipa": "kɛl ɛ", "emoji": "", "translation": {"zh": "是什么", "en": "what is"}},
+      {"text": "ton prénom", "lemma": "ton prénom", "ipa": "tɔ̃ pʁenɔ̃", "emoji": "", "translation": {"zh": "你的名字", "en": "your first name"}}
+    ]
+  },
+  {
+    "id": "2b101428-c9df-45e7-9e4a-5a28619fcbd7",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ty nə sɛ ply kɔmɑ̃ ty tapɛl",
+    "translation": {"zh": "忘了自己叫啥？", "en": "Forgot your name?"},
+    "tokens": [
+      {"text": "Tu ne sais plus", "lemma": "tu ne savoir plus", "ipa": "ty nə sɛ ply", "emoji": "", "translation": {"zh": "你不再知道", "en": "you no longer know"}},
+      {"text": "comment", "lemma": "comment", "ipa": "kɔmɑ̃", "emoji": "", "translation": {"zh": "如何", "en": "how"}},
+      {"text": "tu t'appelles", "lemma": "tu s'appeler", "ipa": "ty tapɛl", "emoji": "", "translation": {"zh": "你叫", "en": "you're called"}}
+    ]
+  },
+  {
+    "id": "cac1a179-ff73-4d09-ad68-5593f63c26c4",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sa tə va tʁɛ bjɛ̃",
+    "translation": {"zh": "很适合你。", "en": "Suits you well."},
+    "tokens": [
+      {"text": "Ça te va", "lemma": "ça te aller", "ipa": "sa tə va", "emoji": "", "translation": {"zh": "适合你", "en": "suits you"}},
+      {"text": "très bien", "lemma": "très bien", "ipa": "tʁɛ bjɛ̃", "emoji": "", "translation": {"zh": "很好", "en": "very well"}}
+    ]
+  },
+  {
+    "id": "8c4cf159-0b0f-480f-a339-c4f3549a250e",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɛ ʒɔli kɔm pʁenɔ̃",
+    "translation": {"zh": "名字真好听。", "en": "Pretty name."},
+    "tokens": [
+      {"text": "C'est joli", "lemma": "c'est joli", "ipa": "sɛ ʒɔli", "emoji": "", "translation": {"zh": "真好看", "en": "it's pretty"}},
+      {"text": "comme", "lemma": "comme", "ipa": "kɔm", "emoji": "", "translation": {"zh": "作为", "en": "as"}},
+      {"text": "prénom", "lemma": "prénom", "ipa": "pʁenɔ̃", "emoji": "", "translation": {"zh": "名字", "en": "first name"}}
+    ]
+  },
+  {
+    "id": "58d10eac-e7a5-40f1-941e-86e68c7fe4e3",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ɛl a œ̃ ɡʁo ʁym",
+    "translation": {"zh": "她重感冒了。", "en": "She has a bad cold."},
+    "tokens": [
+      {"text": "Elle a", "lemma": "elle avoir", "ipa": "ɛl a", "emoji": "", "translation": {"zh": "她有", "en": "she has"}},
+      {"text": "un gros rhume", "lemma": "un gros rhume", "ipa": "œ̃ ɡʁo ʁym", "emoji": "🤧", "translation": {"zh": "重感冒", "en": "bad cold"}}
+    ]
+  }
+]

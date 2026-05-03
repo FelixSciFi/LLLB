@@ -1,0 +1,142 @@
+[
+  {
+    "id": "afb6b74d-c795-4c49-ab09-ea89bfdb1aa0",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə sɥi z‿ɔkype",
+    "translation": {"zh": "我很忙。", "en": "I'm busy."},
+    "tokens": [
+      {"text": "Je suis occupé", "lemma": "occupé", "ipa": "ʒə sɥi z‿ɔkype", "emoji": "", "translation": {"zh": "我很忙", "en": "I'm busy"}},
+      {"text": ".", "lemma": ".", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "c7f9f880-a438-4e17-aa5c-7a35dbeed09d",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "vu zetje la",
+    "translation": {"zh": "你们当时在吗？", "en": "Were you there?"},
+    "tokens": [
+      {"text": "Vous étiez", "lemma": "être", "ipa": "vu zetje", "emoji": "", "translation": {"zh": "你们当时在", "en": "you were"}},
+      {"text": "là", "lemma": "là", "ipa": "la", "emoji": "", "translation": {"zh": "那里", "en": "there"}},
+      {"text": "?", "lemma": "?", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "dd47ebdc-aba9-40ed-ba5b-1655dba0281b",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "setɛ kɔmɑ̃",
+    "translation": {"zh": "怎么样？", "en": "How was it?"},
+    "tokens": [
+      {"text": "C'était", "lemma": "être", "ipa": "setɛ", "emoji": "", "translation": {"zh": "那时是", "en": "it was"}},
+      {"text": "comment", "lemma": "comment", "ipa": "kɔmɑ̃", "emoji": "", "translation": {"zh": "怎么样", "en": "how"}},
+      {"text": "?", "lemma": "?", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "b183bc0c-c2b2-4bbe-92c1-963c5476609f",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "vu z‿ave vy kɛlkə ʃoz",
+    "translation": {"zh": "你们看到什么了吗？", "en": "Did you see something?"},
+    "tokens": [
+      {"text": "Vous avez vu", "lemma": "voir", "ipa": "vu z‿ave vy", "emoji": "👀", "translation": {"zh": "你们看到", "en": "you saw"}},
+      {"text": "quelque chose", "lemma": "quelque chose", "ipa": "kɛlkə ʃoz", "emoji": "", "translation": {"zh": "某事", "en": "something"}},
+      {"text": "?", "lemma": "?", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "8262ae87-001b-41d2-a5cd-e3d16eb3bb0d",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "dəpɥi kɔ̃bjɛ̃ də tɑ̃",
+    "translation": {"zh": "多久了？", "en": "For how long?"},
+    "tokens": [
+      {"text": "Depuis", "lemma": "depuis", "ipa": "dəpɥi", "emoji": "", "translation": {"zh": "自从", "en": "since"}},
+      {"text": "combien de temps", "lemma": "combien de temps", "ipa": "kɔ̃bjɛ̃ də tɑ̃", "emoji": "⏳", "translation": {"zh": "多长时间", "en": "how long"}},
+      {"text": "?", "lemma": "?", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "6d438351-c5a8-45d2-b760-1a2b024e9747",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɛ ɡʁav",
+    "translation": {"zh": "严重吗？", "en": "Is it serious?"},
+    "tokens": [
+      {"text": "C'est grave", "lemma": "grave", "ipa": "sɛ ɡʁav", "emoji": "", "translation": {"zh": "严重吗", "en": "is it serious"}},
+      {"text": "?", "lemma": "?", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "abfd5b9b-2642-4e12-8b4f-39de54663e20",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "kɛs kə vu z‿ɑ̃ pɑ̃se",
+    "translation": {"zh": "你们怎么看？", "en": "What do you think?"},
+    "tokens": [
+      {"text": "Qu'est-ce que", "lemma": "qu'est-ce que", "ipa": "kɛs kə", "emoji": "", "translation": {"zh": "什么", "en": "what"}},
+      {"text": "vous en pensez", "lemma": "penser", "ipa": "vu z‿ɑ̃ pɑ̃se", "emoji": "💭", "translation": {"zh": "你们觉得", "en": "you think"}},
+      {"text": "?", "lemma": "?", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "aa882ae5-c3e8-4895-9000-4814efb46ce4",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sa fɛ mal",
+    "translation": {"zh": "疼吗？", "en": "Does it hurt?"},
+    "tokens": [
+      {"text": "Ça fait mal", "lemma": "faire mal", "ipa": "sa fɛ mal", "emoji": "🤕", "translation": {"zh": "疼", "en": "it hurts"}},
+      {"text": "?", "lemma": "?", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "c15501bb-845a-4268-aec2-12ceb02c6193",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "vu zɛt dakɔʁ",
+    "translation": {"zh": "你们同意吗？", "en": "Do you agree?"},
+    "tokens": [
+      {"text": "Vous êtes", "lemma": "être", "ipa": "vu zɛt", "emoji": "", "translation": {"zh": "你们是", "en": "you are"}},
+      {"text": "d'accord", "lemma": "d'accord", "ipa": "dakɔʁ", "emoji": "👌", "translation": {"zh": "同意", "en": "agreed"}},
+      {"text": "?", "lemma": "?", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "7e26114c-ab3a-4c27-8338-2316b10076cf",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "e mɛ̃tnɑ̃",
+    "translation": {"zh": "现在呢？", "en": "And now?"},
+    "tokens": [
+      {"text": "Et maintenant", "lemma": "maintenant", "ipa": "e mɛ̃tnɑ̃", "emoji": "", "translation": {"zh": "现在呢", "en": "and now"}},
+      {"text": "?", "lemma": "?", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "fb264330-3528-42dc-a684-54b616d0e7b3",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "œ̃ n‿ɛ̃ʒenjœʁ ʃinwa",
+    "translation": {"zh": "一位中国工程师。", "en": "A Chinese engineer."},
+    "tokens": [
+      {"text": "Un ingénieur", "lemma": "ingénieur", "ipa": "œ̃ n‿ɛ̃ʒenjœʁ", "emoji": "👨‍💼", "translation": {"zh": "工程师", "en": "engineer"}},
+      {"text": "chinois", "lemma": "chinois", "ipa": "ʃinwa", "emoji": "🇨🇳", "translation": {"zh": "中国的", "en": "Chinese"}},
+      {"text": ".", "lemma": ".", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  },
+  {
+    "id": "c6b328a9-1f39-4ba0-9fcb-179291b2e641",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "yn ɛ̃fiʁmjɛʁ fʁɑ̃sɛz",
+    "translation": {"zh": "一位法国护士。", "en": "A French nurse."},
+    "tokens": [
+      {"text": "Une infirmière", "lemma": "infirmière", "ipa": "yn ɛ̃fiʁmjɛʁ", "emoji": "👩‍⚕️", "translation": {"zh": "护士", "en": "nurse"}},
+      {"text": "française", "lemma": "français", "ipa": "fʁɑ̃sɛz", "emoji": "🇫🇷", "translation": {"zh": "法国的", "en": "French"}},
+      {"text": ".", "lemma": ".", "ipa": "", "emoji": "", "translation": {"zh": "", "en": ""}}
+    ]
+  }
+]

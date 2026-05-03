@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ade1eb60-3ed0-4b6f-ba04-042f6472f7a4",
+    "text": "Je peux payer par carte ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "9888180e-a984-4800-891a-b97ed7eb2ffd",
+    "text": "Le solde de mon compte.",
+    "cefr": "A2"
+  },
+  {
+    "id": "7cb40544-1f01-409b-a79d-f968a7bcf7e6",
+    "text": "Je voudrais ouvrir un compte.",
+    "cefr": "A2"
+  },
+  {
+    "id": "ce9a4aeb-869f-4549-bc45-9674167bd76e",
+    "text": "Un virement, s'il vous plaît.",
+    "cefr": "A2"
+  },
+  {
+    "id": "fef27291-ddc1-4649-a6b4-1f6a3005be99",
+    "text": "Ma carte ne fonctionne pas.",
+    "cefr": "A2"
+  },
+  {
+    "id": "7703c940-e658-4f69-b283-74c910de78b7",
+    "text": "La réunion commence à quelle heure ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "3eff07f5-b5d3-430e-b1e3-85773c8ddc8d",
+    "text": "Tu as une minute ?",
+    "cefr": "A1"
+  },
+  {
+    "id": "65765b24-c8bc-48fb-a1b5-36890fe2fc59",
+    "text": "Je t'envoie un mail.",
+    "cefr": "A2"
+  },
+  {
+    "id": "6d5e496c-b37a-4866-b6e0-19b98c6b6d24",
+    "text": "On se retrouve à midi ?",
+    "cefr": "A2"
+  },
+  {
+    "id": "7ac880db-1dc8-4b75-8642-790569ea3f14",
+    "text": "Le bureau est fermé.",
+    "cefr": "A2"
+  },
+  {
+    "id": "f3d23965-22be-4b94-8659-11ea0d91d45c",
+    "text": "J'ai un appel.",
+    "cefr": "A1"
+  },
+  {
+    "id": "f6549116-2fca-4dbd-b10f-19e2e718d6a3",
+    "text": "Tu peux m'aider ?",
+    "cefr": "A1"
+  }
+]

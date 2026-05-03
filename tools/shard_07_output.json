@@ -1,0 +1,141 @@
+[
+  {
+    "id": "35f499b1-5ecb-4bb5-b3d0-ab0cbb0d451d",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɛ mwa ki la ʁɑ̃plas",
+    "translation": {"zh": "是我替她。", "en": "I'm replacing her."},
+    "tokens": [
+      {"text": "C'est", "lemma": "c'est", "ipa": "sɛ", "emoji": "", "translation": {"zh": "是", "en": "it is"}},
+      {"text": "moi", "lemma": "moi", "ipa": "mwa", "emoji": "", "translation": {"zh": "我", "en": "me"}},
+      {"text": "qui", "lemma": "qui", "ipa": "ki", "emoji": "", "translation": {"zh": "谁", "en": "who"}},
+      {"text": "la remplace", "lemma": "la remplacer", "ipa": "la ʁɑ̃plas", "emoji": "", "translation": {"zh": "替她", "en": "replace her"}}
+    ]
+  },
+  {
+    "id": "4cdce51e-1f74-432c-83d1-f219aff8dd33",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "vu mə mɔ̃tʁe vɔtʁ klas",
+    "translation": {"zh": "给我看教室?", "en": "Show me your class?"},
+    "tokens": [
+      {"text": "Vous me montrez", "lemma": "vous me montrer", "ipa": "vu mə mɔ̃tʁe", "emoji": "", "translation": {"zh": "你给我看", "en": "you show me"}},
+      {"text": "votre classe", "lemma": "votre classe", "ipa": "vɔtʁ klas", "emoji": "🏫", "translation": {"zh": "你的教室", "en": "your class"}}
+    ]
+  },
+  {
+    "id": "a78ed32c-d1c2-471f-801f-5648f5019982",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ɔ̃ va tʁavaje mɛ̃tnɑ̃",
+    "translation": {"zh": "现在开始工作。", "en": "We'll work now."},
+    "tokens": [
+      {"text": "On va", "lemma": "on aller", "ipa": "ɔ̃ va", "emoji": "", "translation": {"zh": "我们要", "en": "we will"}},
+      {"text": "travailler", "lemma": "travailler", "ipa": "tʁavaje", "emoji": "💼", "translation": {"zh": "工作", "en": "work"}},
+      {"text": "maintenant", "lemma": "maintenant", "ipa": "mɛ̃tnɑ̃", "emoji": "", "translation": {"zh": "现在", "en": "now"}}
+    ]
+  },
+  {
+    "id": "75e95120-dd33-4a2d-b738-c57a46ce2988",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə nɛ ʒamɛ vy sa",
+    "translation": {"zh": "从没见过。", "en": "Never seen that."},
+    "tokens": [
+      {"text": "Je n'ai", "lemma": "je avoir", "ipa": "ʒə nɛ", "emoji": "", "translation": {"zh": "我没", "en": "I have not"}},
+      {"text": "jamais", "lemma": "jamais", "ipa": "ʒamɛ", "emoji": "", "translation": {"zh": "从不", "en": "never"}},
+      {"text": "vu", "lemma": "voir", "ipa": "vy", "emoji": "👀", "translation": {"zh": "见过", "en": "seen"}},
+      {"text": "ça", "lemma": "ça", "ipa": "sa", "emoji": "", "translation": {"zh": "这个", "en": "that"}}
+    ]
+  },
+  {
+    "id": "3df0273a-e3dc-4fb7-9f63-fbb273912132",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə nə vɛ pa ʃɑ̃ʒe le abityd",
+    "translation": {"zh": "我不会改习惯。", "en": "I won't change habits."},
+    "tokens": [
+      {"text": "Je ne vais pas", "lemma": "je aller", "ipa": "ʒə nə vɛ pa", "emoji": "", "translation": {"zh": "我不会", "en": "I won't"}},
+      {"text": "changer", "lemma": "changer", "ipa": "ʃɑ̃ʒe", "emoji": "🔄", "translation": {"zh": "改变", "en": "change"}},
+      {"text": "les habitudes", "lemma": "habitude", "ipa": "le abityd", "emoji": "", "translation": {"zh": "习惯", "en": "habits"}}
+    ]
+  },
+  {
+    "id": "d3d0264e-f33d-4f5a-8b11-14860a8655b7",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʁətuʁne ɑ̃ klas",
+    "translation": {"zh": "回教室去。", "en": "Go back to class."},
+    "tokens": [
+      {"text": "Retournez", "lemma": "retourner", "ipa": "ʁətuʁne", "emoji": "↩️", "translation": {"zh": "回去", "en": "go back"}},
+      {"text": "en classe", "lemma": "classe", "ipa": "ɑ̃ klas", "emoji": "🏫", "translation": {"zh": "教室", "en": "to class"}}
+    ]
+  },
+  {
+    "id": "3caa13dc-1bd7-44f1-a4b2-6caaaf583576",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "o tʁavaj mɛ̃tnɑ̃",
+    "translation": {"zh": "开始干活。", "en": "Get to work."},
+    "tokens": [
+      {"text": "Au travail", "lemma": "travail", "ipa": "o tʁavaj", "emoji": "💼", "translation": {"zh": "干活", "en": "to work"}},
+      {"text": "maintenant", "lemma": "maintenant", "ipa": "mɛ̃tnɑ̃", "emoji": "", "translation": {"zh": "现在", "en": "now"}}
+    ]
+  },
+  {
+    "id": "9f8012b5-560b-4f5f-83b8-ebfbabdf1173",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ɔ̃ sə kalm",
+    "translation": {"zh": "都冷静!", "en": "Calm down!"},
+    "tokens": [
+      {"text": "On se calme", "lemma": "se calmer", "ipa": "ɔ̃ sə kalm", "emoji": "😌", "translation": {"zh": "冷静点", "en": "calm down"}}
+    ]
+  },
+  {
+    "id": "5b57f1f9-f3a2-4a89-ba4b-be14a0c3a319",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɛ pa tʁɛ ʒɑ̃ti",
+    "translation": {"zh": "不太友好。", "en": "Not very nice."},
+    "tokens": [
+      {"text": "C'est", "lemma": "c'est", "ipa": "sɛ", "emoji": "", "translation": {"zh": "这", "en": "it is"}},
+      {"text": "pas", "lemma": "pas", "ipa": "pa", "emoji": "", "translation": {"zh": "不", "en": "not"}},
+      {"text": "très gentil", "lemma": "gentil", "ipa": "tʁɛ ʒɑ̃ti", "emoji": "", "translation": {"zh": "很友好", "en": "very nice"}}
+    ]
+  },
+  {
+    "id": "9dc06188-f310-4cc1-9eec-58e931f94782",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə mə dutɛ bjɛ̃",
+    "translation": {"zh": "我早料到。", "en": "I suspected so."},
+    "tokens": [
+      {"text": "Je me doutais", "lemma": "se douter", "ipa": "ʒə mə dutɛ", "emoji": "🤔", "translation": {"zh": "我怀疑", "en": "I suspected"}},
+      {"text": "bien", "lemma": "bien", "ipa": "bjɛ̃", "emoji": "", "translation": {"zh": "确实", "en": "indeed"}}
+    ]
+  },
+  {
+    "id": "64e79b04-9c12-408e-8be0-9961c969e91f",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə nə sɥi pa kɔ̃tɑ̃",
+    "translation": {"zh": "我不开心。", "en": "I'm not happy."},
+    "tokens": [
+      {"text": "Je ne suis pas", "lemma": "je être", "ipa": "ʒə nə sɥi pa", "emoji": "", "translation": {"zh": "我不是", "en": "I am not"}},
+      {"text": "content", "lemma": "content", "ipa": "kɔ̃tɑ̃", "emoji": "😊", "translation": {"zh": "高兴", "en": "happy"}}
+    ]
+  },
+  {
+    "id": "d1263e5a-eb3d-4a49-ac0c-08872f00e719",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒɛ pa ɑ̃vi",
+    "translation": {"zh": "我不想。", "en": "I don't want."},
+    "tokens": [
+      {"text": "J'ai", "lemma": "avoir", "ipa": "ʒɛ", "emoji": "", "translation": {"zh": "我有", "en": "I have"}},
+      {"text": "pas", "lemma": "pas", "ipa": "pa", "emoji": "", "translation": {"zh": "不", "en": "not"}},
+      {"text": "envie", "lemma": "envie", "ipa": "ɑ̃vi", "emoji": "", "translation": {"zh": "想要", "en": "desire"}}
+    ]
+  }
+]

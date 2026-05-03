@@ -1,0 +1,135 @@
+[
+  {
+    "id": "2ca33307-0aec-4da3-9c92-2955ca0a20ee",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "kɛl œʁ ɛ.til",
+    "translation": {"zh": "几点了？", "en": "What time is it?"},
+    "tokens": [
+      {"text": "Quelle heure", "lemma": "quelle heure", "ipa": "kɛl œʁ", "emoji": "🕐", "translation": {"zh": "几点", "en": "what time"}},
+      {"text": "est-il", "lemma": "être", "ipa": "ɛ.til", "emoji": "", "translation": {"zh": "是", "en": "is it"}}
+    ]
+  },
+  {
+    "id": "5385bf9d-bb0d-48ab-8470-653a5ed11e0e",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "il ɛ vɛ̃t.tʁwa.zœʁ",
+    "translation": {"zh": "二十三点了", "en": "It's 11 PM"},
+    "tokens": [
+      {"text": "Il est", "lemma": "être", "ipa": "il ɛ", "emoji": "", "translation": {"zh": "是", "en": "it is"}},
+      {"text": "vingt-trois heures", "lemma": "vingt-trois heures", "ipa": "vɛ̃t.tʁwa.zœʁ", "emoji": "🕚", "translation": {"zh": "二十三点", "en": "11 PM"}}
+    ]
+  },
+  {
+    "id": "744eeb99-ab63-43d5-84da-5472a0ebf78f",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "œ̃ ka.na.pe kɔ̃.fɔʁ.tabl",
+    "translation": {"zh": "舒服的沙发", "en": "A comfy sofa"},
+    "tokens": [
+      {"text": "Un canapé", "lemma": "canapé", "ipa": "œ̃ ka.na.pe", "emoji": "🛋️", "translation": {"zh": "沙发", "en": "a sofa"}},
+      {"text": "confortable", "lemma": "confortable", "ipa": "kɔ̃.fɔʁ.tabl", "emoji": "", "translation": {"zh": "舒适的", "en": "comfortable"}}
+    ]
+  },
+  {
+    "id": "a2f373ae-7cf0-4227-a77c-84a9df6b69df",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "yn te.le.vi.zjɔ̃",
+    "translation": {"zh": "一台电视", "en": "A television"},
+    "tokens": [
+      {"text": "Une télévision", "lemma": "télévision", "ipa": "yn te.le.vi.zjɔ̃", "emoji": "📺", "translation": {"zh": "电视", "en": "a television"}}
+    ]
+  },
+  {
+    "id": "e8d79d62-2bb9-430f-a6f2-134d2f089872",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "œ̃.nɔʁ.di.na.tœʁ pɔʁ.tabl",
+    "translation": {"zh": "一台笔记本", "en": "A laptop"},
+    "tokens": [
+      {"text": "Un ordinateur", "lemma": "ordinateur", "ipa": "œ̃.nɔʁ.di.na.tœʁ", "emoji": "💻", "translation": {"zh": "电脑", "en": "a computer"}},
+      {"text": "portable", "lemma": "portable", "ipa": "pɔʁ.tabl", "emoji": "", "translation": {"zh": "便携的", "en": "portable"}}
+    ]
+  },
+  {
+    "id": "5d6bc943-9284-446c-b6b5-016740ff7e82",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "la bɛ.ɲwaʁ e lə mi.ʁwaʁ dɑ̃ la sal də bɛ̃",
+    "translation": {"zh": "浴室里浴缸和镜子", "en": "Bathtub and mirror in bathroom"},
+    "tokens": [
+      {"text": "La baignoire", "lemma": "baignoire", "ipa": "la bɛ.ɲwaʁ", "emoji": "🛁", "translation": {"zh": "浴缸", "en": "the bathtub"}},
+      {"text": "et le miroir", "lemma": "miroir", "ipa": "e lə mi.ʁwaʁ", "emoji": "🪞", "translation": {"zh": "和镜子", "en": "and the mirror"}},
+      {"text": "dans", "lemma": "dans", "ipa": "dɑ̃", "emoji": "", "translation": {"zh": "在…里", "en": "in"}},
+      {"text": "la salle de bain", "lemma": "salle de bain", "ipa": "la sal də bɛ̃", "emoji": "🚿", "translation": {"zh": "浴室", "en": "the bathroom"}}
+    ]
+  },
+  {
+    "id": "4c51792c-e4be-4d4d-a9e5-1e82176e5487",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "yn su.ʁi sɑ̃ fil",
+    "translation": {"zh": "无线鼠标", "en": "A wireless mouse"},
+    "tokens": [
+      {"text": "Une souris", "lemma": "souris", "ipa": "yn su.ʁi", "emoji": "🖱️", "translation": {"zh": "鼠标", "en": "a mouse"}},
+      {"text": "sans fil", "lemma": "sans fil", "ipa": "sɑ̃ fil", "emoji": "📶", "translation": {"zh": "无线", "en": "wireless"}}
+    ]
+  },
+  {
+    "id": "bc25e36d-8094-4340-b220-d35d17e1b88f",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "lə kla.vje",
+    "translation": {"zh": "键盘", "en": "The keyboard"},
+    "tokens": [
+      {"text": "Le clavier", "lemma": "clavier", "ipa": "lə kla.vje", "emoji": "⌨️", "translation": {"zh": "键盘", "en": "the keyboard"}}
+    ]
+  },
+  {
+    "id": "69e8c723-a1d8-4d8b-8959-252d2b0e2c7a",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "la.li.mɑ̃.ta.sjɔ̃ də lɔʁ.di.na.tœʁ",
+    "translation": {"zh": "电脑的电源", "en": "The computer's power"},
+    "tokens": [
+      {"text": "L'alimentation", "lemma": "alimentation", "ipa": "la.li.mɑ̃.ta.sjɔ̃", "emoji": "🔌", "translation": {"zh": "电源", "en": "power supply"}},
+      {"text": "de l'ordinateur", "lemma": "ordinateur", "ipa": "də lɔʁ.di.na.tœʁ", "emoji": "💻", "translation": {"zh": "电脑的", "en": "of the computer"}}
+    ]
+  },
+  {
+    "id": "889b4836-92fe-4c13-9a54-63dc2d219793",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "a vɑ̃dʁ",
+    "translation": {"zh": "出售", "en": "For sale"},
+    "tokens": [
+      {"text": "À vendre", "lemma": "à vendre", "ipa": "a vɑ̃dʁ", "emoji": "🏷️", "translation": {"zh": "出售", "en": "for sale"}}
+    ]
+  },
+  {
+    "id": "290a3700-80e7-4171-bcca-394c4a0ab4c1",
+    "verdict": "delete",
+    "delete_reason": "fragment without context",
+    "ipa": "ply.zjœʁ mi.ljɔ̃",
+    "translation": {"zh": "好几百万", "en": "Several million"},
+    "tokens": [
+      {"text": "Plusieurs", "lemma": "plusieurs", "ipa": "ply.zjœʁ", "emoji": "", "translation": {"zh": "好几", "en": "several"}},
+      {"text": "millions", "lemma": "million", "ipa": "mi.ljɔ̃", "emoji": "", "translation": {"zh": "百万", "en": "million"}}
+    ]
+  },
+  {
+    "id": "6dad7cc5-17cc-4b32-a6a4-4e6706a3af38",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "kɛl ɛ vɔtʁ vwa.tyʁ sɛl o mi.ljø",
+    "translation": {"zh": "你的车是哪辆？中间那辆", "en": "Which is your car? The middle one"},
+    "tokens": [
+      {"text": "Quelle est", "lemma": "être", "ipa": "kɛl ɛ", "emoji": "", "translation": {"zh": "是哪", "en": "which is"}},
+      {"text": "votre voiture", "lemma": "voiture", "ipa": "vɔtʁ vwa.tyʁ", "emoji": "🚗", "translation": {"zh": "你的车", "en": "your car"}},
+      {"text": "Celle", "lemma": "celui", "ipa": "sɛl", "emoji": "", "translation": {"zh": "那辆", "en": "the one"}},
+      {"text": "au milieu", "lemma": "au milieu", "ipa": "o mi.ljø", "emoji": "", "translation": {"zh": "在中间", "en": "in the middle"}}
+    ]
+  }
+]

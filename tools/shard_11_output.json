@@ -1,0 +1,139 @@
+[
+  {
+    "id": "6fd04b5a-c156-44d9-a2f1-980410a751e9",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɛ tʁo",
+    "translation": {"zh": "太多了", "en": "Too much"},
+    "tokens": [
+      {"text": "C'est", "lemma": "c'est", "ipa": "sɛ", "emoji": "", "translation": {"zh": "这是", "en": "it is"}},
+      {"text": "trop", "lemma": "trop", "ipa": "tʁo", "emoji": "", "translation": {"zh": "太多", "en": "too much"}}
+    ]
+  },
+  {
+    "id": "fdba2676-1b45-432d-8c23-03967a91a1fd",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə sɥi fatiɡe",
+    "translation": {"zh": "我累了", "en": "I'm tired"},
+    "tokens": [
+      {"text": "Je suis", "lemma": "je suis", "ipa": "ʒə sɥi", "emoji": "", "translation": {"zh": "我是", "en": "I am"}},
+      {"text": "fatigué", "lemma": "fatigué", "ipa": "fatiɡe", "emoji": "😴", "translation": {"zh": "累的", "en": "tired"}}
+    ]
+  },
+  {
+    "id": "2f1eb150-7c47-4878-be75-934ae2ee29d5",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə sɥi malad",
+    "translation": {"zh": "我生病了", "en": "I'm sick"},
+    "tokens": [
+      {"text": "Je suis", "lemma": "je suis", "ipa": "ʒə sɥi", "emoji": "", "translation": {"zh": "我是", "en": "I am"}},
+      {"text": "malade", "lemma": "malade", "ipa": "malad", "emoji": "🤒", "translation": {"zh": "生病的", "en": "sick"}}
+    ]
+  },
+  {
+    "id": "4aa1817e-e9dd-4c92-a897-c6c4114496eb",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə vudʁɛ pʁɑ̃dʁ œ̃ ʁɑ̃devu",
+    "translation": {"zh": "我想预约", "en": "I'd like an appointment"},
+    "tokens": [
+      {"text": "Je", "lemma": "je", "ipa": "ʒə", "emoji": "", "translation": {"zh": "我", "en": "I"}},
+      {"text": "voudrais", "lemma": "vouloir", "ipa": "vudʁɛ", "emoji": "", "translation": {"zh": "想要", "en": "would like"}},
+      {"text": "prendre", "lemma": "prendre", "ipa": "pʁɑ̃dʁ", "emoji": "", "translation": {"zh": "拿取", "en": "to take"}},
+      {"text": "un rendez-vous", "lemma": "rendez-vous", "ipa": "œ̃ ʁɑ̃devu", "emoji": "📅", "translation": {"zh": "一个预约", "en": "an appointment"}}
+    ]
+  },
+  {
+    "id": "9b72fe2a-d5da-44de-8f76-1463b9664e02",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒetɛ ɔkype",
+    "translation": {"zh": "我之前很忙", "en": "I was busy"},
+    "tokens": [
+      {"text": "J'étais", "lemma": "être", "ipa": "ʒetɛ", "emoji": "", "translation": {"zh": "我曾是", "en": "I was"}},
+      {"text": "occupé", "lemma": "occupé", "ipa": "ɔkype", "emoji": "", "translation": {"zh": "忙碌的", "en": "busy"}}
+    ]
+  },
+  {
+    "id": "2bf3bb16-de3f-46c2-8762-ac2e865bbf7e",
+    "verdict": "delete",
+    "delete_reason": "bare intensifier fragment",
+    "ipa": "ɑ̃kɔʁ",
+    "translation": {"zh": "再一次", "en": "Again"},
+    "tokens": [
+      {"text": "Encore", "lemma": "encore", "ipa": "ɑ̃kɔʁ", "emoji": "", "translation": {"zh": "再次", "en": "again"}}
+    ]
+  },
+  {
+    "id": "7c5b5393-823f-407e-864c-62ada6d1de6e",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "pʁɑ̃ swɛ̃ də twa",
+    "translation": {"zh": "保重", "en": "Take care"},
+    "tokens": [
+      {"text": "Prends", "lemma": "prendre", "ipa": "pʁɑ̃", "emoji": "", "translation": {"zh": "拿", "en": "take"}},
+      {"text": "soin", "lemma": "soin", "ipa": "swɛ̃", "emoji": "", "translation": {"zh": "照顾", "en": "care"}},
+      {"text": "de toi", "lemma": "toi", "ipa": "də twa", "emoji": "", "translation": {"zh": "你自己", "en": "of yourself"}}
+    ]
+  },
+  {
+    "id": "f69b8137-5fec-4dbb-80fb-e93dc430f212",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "pa də susi",
+    "translation": {"zh": "没问题", "en": "No worries"},
+    "tokens": [
+      {"text": "Pas de", "lemma": "pas de", "ipa": "pa də", "emoji": "", "translation": {"zh": "没有", "en": "no"}},
+      {"text": "souci", "lemma": "souci", "ipa": "susi", "emoji": "", "translation": {"zh": "担忧", "en": "worry"}}
+    ]
+  },
+  {
+    "id": "ed98b07a-055f-4d7f-be5e-1a8745dcf062",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "nə matɑ̃de pa",
+    "translation": {"zh": "别等我", "en": "Don't wait for me"},
+    "tokens": [
+      {"text": "Ne", "lemma": "ne", "ipa": "nə", "emoji": "", "translation": {"zh": "不", "en": "not"}},
+      {"text": "m'attendez", "lemma": "attendre", "ipa": "matɑ̃de", "emoji": "", "translation": {"zh": "等我", "en": "wait for me"}},
+      {"text": "pas", "lemma": "pas", "ipa": "pa", "emoji": "", "translation": {"zh": "不", "en": "not"}}
+    ]
+  },
+  {
+    "id": "94274fa9-93d8-411f-a0e1-c12667500406",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə vɛ eseje",
+    "translation": {"zh": "我会试试", "en": "I'll try"},
+    "tokens": [
+      {"text": "Je vais", "lemma": "aller", "ipa": "ʒə vɛ", "emoji": "", "translation": {"zh": "我要", "en": "I'm going to"}},
+      {"text": "essayer", "lemma": "essayer", "ipa": "eseje", "emoji": "", "translation": {"zh": "尝试", "en": "to try"}}
+    ]
+  },
+  {
+    "id": "7db1db99-0d9e-4b12-a1c2-eecfd1b0250f",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "a ply taʁ",
+    "translation": {"zh": "回头见", "en": "See you later"},
+    "tokens": [
+      {"text": "À", "lemma": "à", "ipa": "a", "emoji": "", "translation": {"zh": "到", "en": "to"}},
+      {"text": "plus tard", "lemma": "plus tard", "ipa": "ply taʁ", "emoji": "", "translation": {"zh": "稍后", "en": "later"}}
+    ]
+  },
+  {
+    "id": "f5674e48-a461-45b9-acd4-2d502b93c590",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒe ɑt də tə ʁəvwaʁ",
+    "translation": {"zh": "我迫不及待想再见你", "en": "Can't wait to see you"},
+    "tokens": [
+      {"text": "J'ai", "lemma": "avoir", "ipa": "ʒe", "emoji": "", "translation": {"zh": "我有", "en": "I have"}},
+      {"text": "hâte", "lemma": "hâte", "ipa": "ɑt", "emoji": "", "translation": {"zh": "急切", "en": "eagerness"}},
+      {"text": "de", "lemma": "de", "ipa": "də", "emoji": "", "translation": {"zh": "去", "en": "to"}},
+      {"text": "te revoir", "lemma": "revoir", "ipa": "tə ʁəvwaʁ", "emoji": "", "translation": {"zh": "再见你", "en": "see you again"}}
+    ]
+  }
+]

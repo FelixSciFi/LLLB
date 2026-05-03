@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "id": "fr_a1_001",
+      "level": "A1",
+      "kind": "word",
+      "prompt": "merci",
+      "options": [
+        {"zh": "谢谢", "en": "thank you"},
+        {"zh": "你好", "en": "hello"},
+        {"zh": "再见", "en": "goodbye"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "fr_a1_002",
+      "level": "A1",
+      "kind": "word",
+      "prompt": "manger",
+      "options": [
+        {"zh": "吃", "en": "to eat"},
+        {"zh": "喝", "en": "to drink"},
+        {"zh": "跑", "en": "to run"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "fr_a1_003",
+      "level": "A1",
+      "kind": "sentence",
+      "prompt": "Il fait beau.",
+      "options": [
+        {"zh": "天气很好", "en": "The weather is nice"},
+        {"zh": "他很美", "en": "He is beautiful"},
+        {"zh": "它很大", "en": "It is big"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "fr_a2_001",
+      "level": "A2",
+      "kind": "word",
+      "prompt": "voiture",
+      "options": [
+        {"zh": "汽车", "en": "car"},
+        {"zh": "自行车", "en": "bicycle"},
+        {"zh": "火车", "en": "train"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "fr_a2_002",
+      "level": "A2",
+      "kind": "sentence",
+      "prompt": "Je voudrais un café.",
+      "options": [
+        {"zh": "我想要一杯咖啡", "en": "I would like a coffee"},
+        {"zh": "我喜欢咖啡", "en": "I like coffee"},
+        {"zh": "我有一杯咖啡", "en": "I have a coffee"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "fr_a2_003",
+      "level": "A2",
+      "kind": "word",
+      "prompt": "facile",
+      "options": [
+        {"zh": "容易的", "en": "easy"},
+        {"zh": "困难的", "en": "difficult"},
+        {"zh": "重要的", "en": "important"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "fr_b1_001",
+      "level": "B1",
+      "kind": "word",
+      "prompt": "découvrir",
+      "options": [
+        {"zh": "发现", "en": "to discover"},
+        {"zh": "隐藏", "en": "to hide"},
+        {"zh": "描述", "en": "to describe"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "fr_b1_002",
+      "level": "B1",
+      "kind": "sentence",
+      "prompt": "Il a fini ses devoirs.",
+      "options": [
+        {"zh": "他做完了作业", "en": "He has finished his homework"},
+        {"zh": "他在做作业", "en": "He is doing his homework"},
+        {"zh": "他没有作业", "en": "He has no homework"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "fr_b1_003",
+      "level": "B1",
+      "kind": "word",
+      "prompt": "réussir",
+      "options": [
+        {"zh": "成功", "en": "to succeed"},
+        {"zh": "失败", "en": "to fail"},
+        {"zh": "尝试", "en": "to try"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "fr_b2_001",
+      "level": "B2",
+      "kind": "word",
+      "prompt": "néanmoins",
+      "options": [
+        {"zh": "然而", "en": "nevertheless"},
+        {"zh": "因此", "en": "therefore"},
+        {"zh": "假如", "en": "if"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "fr_b2_002",
+      "level": "B2",
+      "kind": "sentence",
+      "prompt": "Il s'est rendu compte de son erreur.",
+      "options": [
+        {"zh": "他意识到了自己的错误", "en": "He realized his mistake"},
+        {"zh": "他原谅了自己的错误", "en": "He forgave his mistake"},
+        {"zh": "他纠正了自己的错误", "en": "He corrected his mistake"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "fr_b2_003",
+      "level": "B2",
+      "kind": "word",
+      "prompt": "épanouir",
+      "options": [
+        {"zh": "绽放", "en": "to bloom"},
+        {"zh": "倒塌", "en": "to collapse"},
+        {"zh": "关闭", "en": "to close"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "fr_c1_001",
+      "level": "C1",
+      "kind": "word",
+      "prompt": "perspicace",
+      "options": [
+        {"zh": "敏锐的", "en": "perceptive"},
+        {"zh": "笨拙的", "en": "clumsy"},
+        {"zh": "善良的", "en": "kind"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "fr_c1_002",
+      "level": "C1",
+      "kind": "sentence",
+      "prompt": "Cette mesure n'est qu'un palliatif.",
+      "options": [
+        {"zh": "这个措施只是权宜之计", "en": "This measure is only a stopgap"},
+        {"zh": "这个措施很有效", "en": "This measure is very effective"},
+        {"zh": "这个措施被取消了", "en": "This measure has been canceled"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "fr_c1_003",
+      "level": "C1",
+      "kind": "word",
+      "prompt": "consternation",
+      "options": [
+        {"zh": "错愕", "en": "dismay"},
+        {"zh": "喜悦", "en": "joy"},
+        {"zh": "平静", "en": "calm"}
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

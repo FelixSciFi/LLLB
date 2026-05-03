@@ -1,0 +1,141 @@
+[
+  {
+    "id": "3055ed21-1b89-4bde-9f28-6828dc353199",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə vɛ vu zɛksplike",
+    "translation": {"zh": "我来给你解释。", "en": "I'll explain to you."},
+    "tokens": [
+      {"text": "Je vais", "lemma": "je aller", "ipa": "ʒə vɛ", "emoji": "", "translation": {"zh": "我要", "en": "I will"}},
+      {"text": "vous", "lemma": "vous", "ipa": "vu", "emoji": "", "translation": {"zh": "您", "en": "you"}},
+      {"text": "expliquer", "lemma": "expliquer", "ipa": "ɛksplike", "emoji": "", "translation": {"zh": "解释", "en": "explain"}}
+    ]
+  },
+  {
+    "id": "28b1285e-f5ee-4011-8044-80f9091b3e48",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "vəne imedjatmɑ̃",
+    "translation": {"zh": "马上来。", "en": "Come immediately."},
+    "tokens": [
+      {"text": "Venez", "lemma": "venir", "ipa": "vəne", "emoji": "", "translation": {"zh": "来", "en": "come"}},
+      {"text": "immédiatement", "lemma": "immédiatement", "ipa": "imedjatmɑ̃", "emoji": "", "translation": {"zh": "立刻", "en": "immediately"}}
+    ]
+  },
+  {
+    "id": "c9c09812-6323-47a7-9032-90ad08463000",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "dusmɑ̃",
+    "translation": {"zh": "慢点！", "en": "Gently!"},
+    "tokens": [
+      {"text": "Doucement", "lemma": "doucement", "ipa": "dusmɑ̃", "emoji": "", "translation": {"zh": "轻轻地", "en": "gently"}}
+    ]
+  },
+  {
+    "id": "e4c3b33f-df84-4c1e-b9bb-5b560cd1d042",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "il pø pa sɔʁtiʁ",
+    "translation": {"zh": "他出不去。", "en": "He can't leave."},
+    "tokens": [
+      {"text": "Il peut", "lemma": "il pouvoir", "ipa": "il pø", "emoji": "", "translation": {"zh": "他能", "en": "he can"}},
+      {"text": "pas", "lemma": "pas", "ipa": "pa", "emoji": "", "translation": {"zh": "不", "en": "not"}},
+      {"text": "sortir", "lemma": "sortir", "ipa": "sɔʁtiʁ", "emoji": "", "translation": {"zh": "出去", "en": "go out"}}
+    ]
+  },
+  {
+    "id": "c5c460f6-fd14-4072-a929-60d3aa7c2e6b",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "kɛs kə ty ʁakɔ̃t",
+    "translation": {"zh": "你说什么？", "en": "What are you saying?"},
+    "tokens": [
+      {"text": "Qu'est-ce que", "lemma": "qu'est-ce que", "ipa": "kɛs kə", "emoji": "", "translation": {"zh": "什么", "en": "what"}},
+      {"text": "tu racontes", "lemma": "tu raconter", "ipa": "ty ʁakɔ̃t", "emoji": "", "translation": {"zh": "你讲", "en": "you tell"}}
+    ]
+  },
+  {
+    "id": "41ff8a05-dbc1-437c-841f-b968d49e9bf9",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɛ dɑ̃ lə kɔfʁ",
+    "translation": {"zh": "在后备箱里。", "en": "It's in the trunk."},
+    "tokens": [
+      {"text": "C'est", "lemma": "c'est", "ipa": "sɛ", "emoji": "", "translation": {"zh": "这是", "en": "it is"}},
+      {"text": "dans le coffre", "lemma": "dans le coffre", "ipa": "dɑ̃ lə kɔfʁ", "emoji": "🚗", "translation": {"zh": "在后备箱", "en": "in the trunk"}}
+    ]
+  },
+  {
+    "id": "43e1c5e5-72bc-49f3-8a62-48b7febc5768",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "va veʁifje",
+    "translation": {"zh": "去查一下！", "en": "Go check!"},
+    "tokens": [
+      {"text": "Vas", "lemma": "aller", "ipa": "va", "emoji": "", "translation": {"zh": "去", "en": "go"}},
+      {"text": "vérifier", "lemma": "vérifier", "ipa": "veʁifje", "emoji": "", "translation": {"zh": "确认", "en": "check"}}
+    ]
+  },
+  {
+    "id": "438ba036-c77c-42a4-b257-87d37029ee56",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə fɛ sa pa puʁ mamyze",
+    "translation": {"zh": "我不是闹着玩。", "en": "I'm not doing this for fun."},
+    "tokens": [
+      {"text": "Je fais", "lemma": "je faire", "ipa": "ʒə fɛ", "emoji": "", "translation": {"zh": "我做", "en": "I do"}},
+      {"text": "ça", "lemma": "ça", "ipa": "sa", "emoji": "", "translation": {"zh": "这个", "en": "this"}},
+      {"text": "pas", "lemma": "pas", "ipa": "pa", "emoji": "", "translation": {"zh": "不", "en": "not"}},
+      {"text": "pour", "lemma": "pour", "ipa": "puʁ", "emoji": "", "translation": {"zh": "为了", "en": "for"}},
+      {"text": "m'amuser", "lemma": "s'amuser", "ipa": "mamyze", "emoji": "", "translation": {"zh": "玩乐", "en": "have fun"}}
+    ]
+  },
+  {
+    "id": "8f57ae31-6596-44b3-873d-09cb23c8bfa0",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒetɛ ɑ̃ ʁut puʁ lopital",
+    "translation": {"zh": "我在去医院的路上。", "en": "I was on the way to the hospital."},
+    "tokens": [
+      {"text": "J'étais", "lemma": "être", "ipa": "ʒetɛ", "emoji": "", "translation": {"zh": "我曾是", "en": "I was"}},
+      {"text": "en route", "lemma": "en route", "ipa": "ɑ̃ ʁut", "emoji": "🛣️", "translation": {"zh": "在路上", "en": "on the way"}},
+      {"text": "pour", "lemma": "pour", "ipa": "puʁ", "emoji": "", "translation": {"zh": "去往", "en": "to"}},
+      {"text": "l'hôpital", "lemma": "hôpital", "ipa": "lopital", "emoji": "🏥", "translation": {"zh": "医院", "en": "hospital"}}
+    ]
+  },
+  {
+    "id": "a487f8cb-9e09-484c-8810-0cdceeb3537b",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə sɥi la puʁ sa",
+    "translation": {"zh": "我就是为了这个。", "en": "I'm here for that."},
+    "tokens": [
+      {"text": "Je suis", "lemma": "je être", "ipa": "ʒə sɥi", "emoji": "", "translation": {"zh": "我是", "en": "I am"}},
+      {"text": "là", "lemma": "là", "ipa": "la", "emoji": "", "translation": {"zh": "在这", "en": "here"}},
+      {"text": "pour", "lemma": "pour", "ipa": "puʁ", "emoji": "", "translation": {"zh": "为了", "en": "for"}},
+      {"text": "ça", "lemma": "ça", "ipa": "sa", "emoji": "", "translation": {"zh": "这个", "en": "that"}}
+    ]
+  },
+  {
+    "id": "4ef9f39e-94df-43a1-a78c-ff3a986ba5d9",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "va zi",
+    "translation": {"zh": "去吧！", "en": "Go on!"},
+    "tokens": [
+      {"text": "Vas-y", "lemma": "y aller", "ipa": "va zi", "emoji": "", "translation": {"zh": "去吧", "en": "go on"}}
+    ]
+  },
+  {
+    "id": "9b918e32-6b9f-4490-bfb2-24ca12530877",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "kɔmɑ̃ tapɛl ty",
+    "translation": {"zh": "你叫什么名字？", "en": "What's your name?"},
+    "tokens": [
+      {"text": "Comment", "lemma": "comment", "ipa": "kɔmɑ̃", "emoji": "", "translation": {"zh": "怎么", "en": "how"}},
+      {"text": "t'appelles-tu", "lemma": "s'appeler", "ipa": "tapɛl ty", "emoji": "", "translation": {"zh": "你叫", "en": "you're called"}}
+    ]
+  }
+]

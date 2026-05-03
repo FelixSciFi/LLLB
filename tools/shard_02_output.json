@@ -1,0 +1,136 @@
+[
+  {
+    "id": "5cb960a4-1091-4c7f-be75-c36800b1c7e6",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "tʁwɑ medsɛ̃ maljɛ̃",
+    "translation": {"zh": "三位马里医生。", "en": "Three Malian doctors."},
+    "tokens": [
+      {"text": "Trois médecins", "lemma": "trois médecin", "ipa": "tʁwɑ medsɛ̃", "emoji": "🧑‍⚕️", "translation": {"zh": "三位医生", "en": "three doctors"}},
+      {"text": "maliens", "lemma": "malien", "ipa": "maljɛ̃", "emoji": "", "translation": {"zh": "马里的", "en": "Malian"}}
+    ]
+  },
+  {
+    "id": "9243de4a-2669-4669-9a8a-844529fa4eaf",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "katʁ aʁʃitɛkt italjɛ̃",
+    "translation": {"zh": "四位意大利建筑师。", "en": "Four Italian architects."},
+    "tokens": [
+      {"text": "Quatre architectes", "lemma": "quatre architecte", "ipa": "katʁ aʁʃitɛkt", "emoji": "👷", "translation": {"zh": "四位建筑师", "en": "four architects"}},
+      {"text": "italiens", "lemma": "italien", "ipa": "italjɛ̃", "emoji": "", "translation": {"zh": "意大利的", "en": "Italian"}}
+    ]
+  },
+  {
+    "id": "5e046524-6edb-4e63-86b1-da55ee95e151",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "œ̃ tɛknisjɛ̃ maʁɔkɛ̃",
+    "translation": {"zh": "一位摩洛哥技师。", "en": "A Moroccan technician."},
+    "tokens": [
+      {"text": "Un technicien", "lemma": "un technicien", "ipa": "œ̃ tɛknisjɛ̃", "emoji": "🔧", "translation": {"zh": "一位技师", "en": "a technician"}},
+      {"text": "marocain", "lemma": "marocain", "ipa": "maʁɔkɛ̃", "emoji": "", "translation": {"zh": "摩洛哥的", "en": "Moroccan"}}
+    ]
+  },
+  {
+    "id": "4899ddf2-0a9a-402a-b0d0-58acd8edf1df",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɛ̃k ʃɛʁʃœʁ ʒapɔnɛ",
+    "translation": {"zh": "五位日本研究员。", "en": "Five Japanese researchers."},
+    "tokens": [
+      {"text": "Cinq chercheurs", "lemma": "cinq chercheur", "ipa": "sɛ̃k ʃɛʁʃœʁ", "emoji": "🔬", "translation": {"zh": "五位研究员", "en": "five researchers"}},
+      {"text": "japonais", "lemma": "japonais", "ipa": "ʒapɔnɛ", "emoji": "", "translation": {"zh": "日本的", "en": "Japanese"}}
+    ]
+  },
+  {
+    "id": "db6f1e97-92bf-4122-9bc8-01f73916e179",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "yn avɔkat ɛspaɲɔl",
+    "translation": {"zh": "一位西班牙女律师。", "en": "A Spanish lawyer."},
+    "tokens": [
+      {"text": "Une avocate", "lemma": "un avocat", "ipa": "yn avɔkat", "emoji": "⚖️", "translation": {"zh": "一位女律师", "en": "a lawyer"}},
+      {"text": "espagnole", "lemma": "espagnol", "ipa": "ɛspaɲɔl", "emoji": "", "translation": {"zh": "西班牙的", "en": "Spanish"}}
+    ]
+  },
+  {
+    "id": "b11c6f1d-110e-4c7d-b4ed-b08fac719922",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "dø tʁadyktœʁ aʁab",
+    "translation": {"zh": "两位阿拉伯翻译。", "en": "Two Arab translators."},
+    "tokens": [
+      {"text": "Deux traducteurs", "lemma": "deux traducteur", "ipa": "dø tʁadyktœʁ", "emoji": "🗣️", "translation": {"zh": "两位翻译", "en": "two translators"}},
+      {"text": "arabes", "lemma": "arabe", "ipa": "aʁab", "emoji": "", "translation": {"zh": "阿拉伯的", "en": "Arab"}}
+    ]
+  },
+  {
+    "id": "4bd4a8c5-7f52-4f7b-8bb8-ba74518f773b",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "tʁwɑ zuvʁije vjɛtnamjɛ̃",
+    "translation": {"zh": "三位越南工人。", "en": "Three Vietnamese workers."},
+    "tokens": [
+      {"text": "Trois ouvriers", "lemma": "trois ouvrier", "ipa": "tʁwɑ zuvʁije", "emoji": "👷", "translation": {"zh": "三位工人", "en": "three workers"}},
+      {"text": "vietnamiens", "lemma": "vietnamien", "ipa": "vjɛtnamjɛ̃", "emoji": "", "translation": {"zh": "越南的", "en": "Vietnamese"}}
+    ]
+  },
+  {
+    "id": "4463eaf5-235b-40cc-8d4c-9aa61c719f20",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "di z‿aɡʁikyltœʁ bʁeziljɛ̃",
+    "translation": {"zh": "十位巴西农民。", "en": "Ten Brazilian farmers."},
+    "tokens": [
+      {"text": "Dix agriculteurs", "lemma": "dix agriculteur", "ipa": "di z‿aɡʁikyltœʁ", "emoji": "🧑‍🌾", "translation": {"zh": "十位农民", "en": "ten farmers"}},
+      {"text": "brésiliens", "lemma": "brésilien", "ipa": "bʁeziljɛ̃", "emoji": "", "translation": {"zh": "巴西的", "en": "Brazilian"}}
+    ]
+  },
+  {
+    "id": "a66b1fc0-d884-4447-9a19-3a64dc87f42b",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "dø kɔ̃tabl ʁys",
+    "translation": {"zh": "两位俄罗斯会计。", "en": "Two Russian accountants."},
+    "tokens": [
+      {"text": "Deux comptables", "lemma": "deux comptable", "ipa": "dø kɔ̃tabl", "emoji": "🧮", "translation": {"zh": "两位会计", "en": "two accountants"}},
+      {"text": "russes", "lemma": "russe", "ipa": "ʁys", "emoji": "", "translation": {"zh": "俄罗斯的", "en": "Russian"}}
+    ]
+  },
+  {
+    "id": "e718214e-0e99-4510-beaf-6270d3ae821d",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɛ̃k aʁtist ameʁikɛ̃",
+    "translation": {"zh": "五位美国艺术家。", "en": "Five American artists."},
+    "tokens": [
+      {"text": "Cinq artistes", "lemma": "cinq artiste", "ipa": "sɛ̃k aʁtist", "emoji": "🎨", "translation": {"zh": "五位艺术家", "en": "five artists"}},
+      {"text": "américains", "lemma": "américain", "ipa": "ameʁikɛ̃", "emoji": "", "translation": {"zh": "美国的", "en": "American"}}
+    ]
+  },
+  {
+    "id": "a34f063b-3d47-47b7-bc3a-d368aa0b3969",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "œ̃ myzisjɛ̃ kɔ̃ɡɔlɛ",
+    "translation": {"zh": "一位刚果音乐家。", "en": "A Congolese musician."},
+    "tokens": [
+      {"text": "Un musicien", "lemma": "un musicien", "ipa": "œ̃ myzisjɛ̃", "emoji": "🎵", "translation": {"zh": "一位音乐家", "en": "a musician"}},
+      {"text": "congolais", "lemma": "congolais", "ipa": "kɔ̃ɡɔlɛ", "emoji": "", "translation": {"zh": "刚果的", "en": "Congolese"}}
+    ]
+  },
+  {
+    "id": "fe365c4b-af61-4736-bafc-530ca81fb059",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sə bʁɔse le dɑ̃ ɛ tyn bɔn abityd",
+    "translation": {"zh": "刷牙是个好习惯。", "en": "Brushing teeth is a good habit."},
+    "tokens": [
+      {"text": "Se brosser", "lemma": "se brosser", "ipa": "sə bʁɔse", "emoji": "🪥", "translation": {"zh": "刷", "en": "to brush"}},
+      {"text": "les dents", "lemma": "le dent", "ipa": "le dɑ̃", "emoji": "🦷", "translation": {"zh": "牙齿", "en": "teeth"}},
+      {"text": "est", "lemma": "être", "ipa": "ɛ", "emoji": "", "translation": {"zh": "是", "en": "is"}},
+      {"text": "une bonne habitude", "lemma": "un bon habitude", "ipa": "yn bɔn abityd", "emoji": "✨", "translation": {"zh": "好习惯", "en": "good habit"}}
+    ]
+  }
+]

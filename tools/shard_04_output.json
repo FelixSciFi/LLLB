@@ -1,0 +1,139 @@
+[
+  {
+    "id": "5075390b-68f0-4c52-a153-cbaa06f214b8",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ɔ̃ ʁiɡɔl bjɛ̃",
+    "translation": {"zh": "我们玩得开心。", "en": "We're having fun."},
+    "tokens": [
+      {"text": "On rigole", "lemma": "on rigoler", "ipa": "ɔ̃ ʁiɡɔl", "emoji": "😄", "translation": {"zh": "我们说笑", "en": "we laugh"}},
+      {"text": "bien", "lemma": "bien", "ipa": "bjɛ̃", "emoji": "", "translation": {"zh": "很", "en": "well"}}
+    ]
+  },
+  {
+    "id": "6fe9ac8e-986e-4b7d-a503-c10f4af94094",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ɔ̃n‿atɑ̃ la sɔnʁi",
+    "translation": {"zh": "我们等铃声。", "en": "We wait for the bell."},
+    "tokens": [
+      {"text": "On attend", "lemma": "on attendre", "ipa": "ɔ̃n‿atɑ̃", "emoji": "", "translation": {"zh": "我们等", "en": "we wait"}},
+      {"text": "la sonnerie", "lemma": "sonnerie", "ipa": "la sɔnʁi", "emoji": "🔔", "translation": {"zh": "铃声", "en": "bell"}}
+    ]
+  },
+  {
+    "id": "d5554e78-1d01-4d4d-878e-34a1acf67a0d",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɛ lœʁ də la ʁekʁe",
+    "translation": {"zh": "课间休息时间到了。", "en": "It's recess time."},
+    "tokens": [
+      {"text": "C'est", "lemma": "c'est", "ipa": "sɛ", "emoji": "", "translation": {"zh": "是", "en": "it is"}},
+      {"text": "l'heure", "lemma": "heure", "ipa": "lœʁ", "emoji": "⏰", "translation": {"zh": "时间", "en": "time"}},
+      {"text": "de", "lemma": "de", "ipa": "də", "emoji": "", "translation": {"zh": "的", "en": "of"}},
+      {"text": "la récré", "lemma": "récré", "ipa": "la ʁekʁe", "emoji": "🛝", "translation": {"zh": "课间", "en": "recess"}}
+    ]
+  },
+  {
+    "id": "d1e17d57-97d0-461c-a936-79a23cec6a62",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "mɛte vu ɑ̃ ʁɑ̃ sil vu plɛ",
+    "translation": {"zh": "请排好队。", "en": "Line up, please."},
+    "tokens": [
+      {"text": "Mettez-vous", "lemma": "se mettre", "ipa": "mɛte vu", "emoji": "", "translation": {"zh": "你们站", "en": "get yourselves"}},
+      {"text": "en rang", "lemma": "rang", "ipa": "ɑ̃ ʁɑ̃", "emoji": "🚸", "translation": {"zh": "排队", "en": "in line"}},
+      {"text": "s'il vous plaît", "lemma": "s'il vous plaît", "ipa": "sil vu plɛ", "emoji": "🙏", "translation": {"zh": "请", "en": "please"}}
+    ]
+  },
+  {
+    "id": "7113534a-824f-4c96-a455-fdcd49f1eb09",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ɔ̃n‿ɛm desine e ʃɑ̃te",
+    "translation": {"zh": "我们喜欢画画和唱歌。", "en": "We like to draw and sing."},
+    "tokens": [
+      {"text": "On aime", "lemma": "on aimer", "ipa": "ɔ̃n‿ɛm", "emoji": "❤️", "translation": {"zh": "我们喜欢", "en": "we like"}},
+      {"text": "dessiner", "lemma": "dessiner", "ipa": "desine", "emoji": "🎨", "translation": {"zh": "画画", "en": "to draw"}},
+      {"text": "et chanter", "lemma": "et chanter", "ipa": "e ʃɑ̃te", "emoji": "🎤", "translation": {"zh": "和唱歌", "en": "and sing"}}
+    ]
+  },
+  {
+    "id": "b446893f-1ca8-4b31-aed2-d51bf8923139",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "vjɛ̃ a lekɔl avɛk mwa",
+    "translation": {"zh": "和我一起去上学。", "en": "Come to school with me."},
+    "tokens": [
+      {"text": "Viens", "lemma": "venir", "ipa": "vjɛ̃", "emoji": "", "translation": {"zh": "来", "en": "come"}},
+      {"text": "à l'école", "lemma": "école", "ipa": "a lekɔl", "emoji": "🏫", "translation": {"zh": "去学校", "en": "to school"}},
+      {"text": "avec moi", "lemma": "avec moi", "ipa": "avɛk mwa", "emoji": "", "translation": {"zh": "和我", "en": "with me"}}
+    ]
+  },
+  {
+    "id": "dba26606-385a-4df3-8b02-afa511779060",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "sɛ lotʁ mɛtʁɛs oʒuʁdɥi",
+    "translation": {"zh": "今天是另一位老师。", "en": "It's the other teacher today."},
+    "tokens": [
+      {"text": "C'est", "lemma": "c'est", "ipa": "sɛ", "emoji": "", "translation": {"zh": "是", "en": "it is"}},
+      {"text": "l'autre", "lemma": "autre", "ipa": "lotʁ", "emoji": "", "translation": {"zh": "另一位", "en": "the other"}},
+      {"text": "maîtresse", "lemma": "maîtresse", "ipa": "mɛtʁɛs", "emoji": "👩‍🏫", "translation": {"zh": "女老师", "en": "teacher"}},
+      {"text": "aujourd'hui", "lemma": "aujourd'hui", "ipa": "oʒuʁdɥi", "emoji": "📅", "translation": {"zh": "今天", "en": "today"}}
+    ]
+  },
+  {
+    "id": "f79dabfe-2e41-419c-a1dd-b8de9365afe0",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "o ʁəvwaʁ mamɑ̃",
+    "translation": {"zh": "再见妈妈！", "en": "Bye mom!"},
+    "tokens": [
+      {"text": "Au revoir", "lemma": "au revoir", "ipa": "o ʁəvwaʁ", "emoji": "👋", "translation": {"zh": "再见", "en": "goodbye"}},
+      {"text": "maman", "lemma": "maman", "ipa": "mamɑ̃", "emoji": "👩", "translation": {"zh": "妈妈", "en": "mom"}}
+    ]
+  },
+  {
+    "id": "33a3cab4-b7db-46e1-9358-eac75cf017a6",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ale depɛʃ twa",
+    "translation": {"zh": "快点儿！", "en": "Come on, hurry up!"},
+    "tokens": [
+      {"text": "Allez", "lemma": "aller", "ipa": "ale", "emoji": "", "translation": {"zh": "来吧", "en": "come on"}},
+      {"text": "dépêche-toi", "lemma": "se dépêcher", "ipa": "depɛʃ twa", "emoji": "💨", "translation": {"zh": "快点", "en": "hurry up"}}
+    ]
+  },
+  {
+    "id": "3c3f3e42-160d-443c-ab48-f4d6e2c39412",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "va zi",
+    "translation": {"zh": "去吧！", "en": "Go on!"},
+    "tokens": [
+      {"text": "Vas-y", "lemma": "y aller", "ipa": "va zi", "emoji": "👉", "translation": {"zh": "去吧", "en": "go on"}}
+    ]
+  },
+  {
+    "id": "991de57d-5d92-4f38-8a35-c7f315e15271",
+    "verdict": "delete",
+    "delete_reason": "single-word exclamation fragment",
+    "ipa": "byt",
+    "translation": {"zh": "进球！", "en": "Goal!"},
+    "tokens": [
+      {"text": "But", "lemma": "but", "ipa": "byt", "emoji": "⚽", "translation": {"zh": "进球", "en": "goal"}}
+    ]
+  },
+  {
+    "id": "c14276b8-39a8-4502-89e6-ddee211ccda9",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "la mɛtʁɛs ɛ malad",
+    "translation": {"zh": "老师生病了。", "en": "The teacher is sick."},
+    "tokens": [
+      {"text": "La maîtresse", "lemma": "maîtresse", "ipa": "la mɛtʁɛs", "emoji": "👩‍🏫", "translation": {"zh": "女老师", "en": "the teacher"}},
+      {"text": "est malade", "lemma": "être malade", "ipa": "ɛ malad", "emoji": "🤒", "translation": {"zh": "生病了", "en": "is sick"}}
+    ]
+  }
+]

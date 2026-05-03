@@ -1,0 +1,136 @@
+[
+  {
+    "id": "8803bc6a-3a44-4f0b-90c1-1a2b213713bf",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə ʁəsɑ̃ də la ʒwa",
+    "translation": {"zh": "我感到喜悦。", "en": "I feel joy."},
+    "tokens": [
+      {"text": "Je ressens", "lemma": "je ressentir", "ipa": "ʒə ʁəsɑ̃", "emoji": "", "translation": {"zh": "我感到", "en": "I feel"}},
+      {"text": "de la joie", "lemma": "joie", "ipa": "də la ʒwa", "emoji": "😊", "translation": {"zh": "喜悦", "en": "joy"}}
+    ]
+  },
+  {
+    "id": "4154bc53-2885-476a-83a5-6d3a8179176a",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə sɥi kɔ̃tɑ̃",
+    "translation": {"zh": "我很开心。", "en": "I'm happy."},
+    "tokens": [
+      {"text": "Je suis", "lemma": "je être", "ipa": "ʒə sɥi", "emoji": "", "translation": {"zh": "我是", "en": "I am"}},
+      {"text": "content", "lemma": "content", "ipa": "kɔ̃tɑ̃", "emoji": "😊", "translation": {"zh": "开心", "en": "happy"}}
+    ]
+  },
+  {
+    "id": "3bef51ea-f536-4b21-8739-ef926109572a",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "il ʁəsɑ̃ də l‿ɛksitasjɔ̃",
+    "translation": {"zh": "他感到兴奋。", "en": "He feels excitement."},
+    "tokens": [
+      {"text": "Il ressent", "lemma": "il ressentir", "ipa": "il ʁəsɑ̃", "emoji": "", "translation": {"zh": "他感到", "en": "he feels"}},
+      {"text": "de l'excitation", "lemma": "excitation", "ipa": "də l‿ɛksitasjɔ̃", "emoji": "🤩", "translation": {"zh": "兴奋", "en": "excitement"}}
+    ]
+  },
+  {
+    "id": "494dee3b-52ab-4c53-9b12-a95f95b26760",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "il a də la fjɛʁte",
+    "translation": {"zh": "他有自豪感。", "en": "He has pride."},
+    "tokens": [
+      {"text": "Il a", "lemma": "il avoir", "ipa": "il a", "emoji": "", "translation": {"zh": "他有", "en": "he has"}},
+      {"text": "de la fierté", "lemma": "fierté", "ipa": "də la fjɛʁte", "emoji": "🦁", "translation": {"zh": "自豪", "en": "pride"}}
+    ]
+  },
+  {
+    "id": "8501e926-cf8b-4ecd-af55-7aea3fd23e0e",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə sɥi ɑ̃ ʁeflɛksjɔ̃",
+    "translation": {"zh": "我在思考。", "en": "I'm thinking."},
+    "tokens": [
+      {"text": "Je suis", "lemma": "je être", "ipa": "ʒə sɥi", "emoji": "", "translation": {"zh": "我是", "en": "I am"}},
+      {"text": "en réflexion", "lemma": "réflexion", "ipa": "ɑ̃ ʁeflɛksjɔ̃", "emoji": "🤔", "translation": {"zh": "思考中", "en": "thinking"}}
+    ]
+  },
+  {
+    "id": "c6e01a3b-b541-4e1c-884f-9162442687d9",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə ʁəsɑ̃ də la ʒɛn",
+    "translation": {"zh": "我感到尴尬。", "en": "I feel embarrassed."},
+    "tokens": [
+      {"text": "Je ressens", "lemma": "je ressentir", "ipa": "ʒə ʁəsɑ̃", "emoji": "", "translation": {"zh": "我感到", "en": "I feel"}},
+      {"text": "de la gêne", "lemma": "gêne", "ipa": "də la ʒɛn", "emoji": "😳", "translation": {"zh": "尴尬", "en": "embarrassment"}}
+    ]
+  },
+  {
+    "id": "6122fab1-eb8e-42a5-ab61-202df84f697c",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə ʁəsɑ̃ də la desɛpsjɔ̃",
+    "translation": {"zh": "我感到失望。", "en": "I feel disappointed."},
+    "tokens": [
+      {"text": "Je ressens", "lemma": "je ressentir", "ipa": "ʒə ʁəsɑ̃", "emoji": "", "translation": {"zh": "我感到", "en": "I feel"}},
+      {"text": "de la déception", "lemma": "déception", "ipa": "də la desɛpsjɔ̃", "emoji": "😞", "translation": {"zh": "失望", "en": "disappointment"}}
+    ]
+  },
+  {
+    "id": "630bf918-fd47-44a5-a803-03bf2de247f3",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒə sɥi ɑ̃ plœʁ",
+    "translation": {"zh": "我在哭。", "en": "I'm in tears."},
+    "tokens": [
+      {"text": "Je suis", "lemma": "je être", "ipa": "ʒə sɥi", "emoji": "", "translation": {"zh": "我是", "en": "I am"}},
+      {"text": "en pleurs", "lemma": "pleur", "ipa": "ɑ̃ plœʁ", "emoji": "😢", "translation": {"zh": "在哭", "en": "in tears"}}
+    ]
+  },
+  {
+    "id": "95c4dd16-4c63-425e-b2b2-b13c70b0128d",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "il ʁəsɑ̃ də la kɔlɛʁ",
+    "translation": {"zh": "他感到愤怒。", "en": "He feels anger."},
+    "tokens": [
+      {"text": "Il ressent", "lemma": "il ressentir", "ipa": "il ʁəsɑ̃", "emoji": "", "translation": {"zh": "他感到", "en": "he feels"}},
+      {"text": "de la colère", "lemma": "colère", "ipa": "də la kɔlɛʁ", "emoji": "😠", "translation": {"zh": "愤怒", "en": "anger"}}
+    ]
+  },
+  {
+    "id": "84252683-2cdd-4922-91ea-bbc8cfb45248",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "il a də la ʁaʒ",
+    "translation": {"zh": "他很狂怒。", "en": "He has rage."},
+    "tokens": [
+      {"text": "Il a", "lemma": "il avoir", "ipa": "il a", "emoji": "", "translation": {"zh": "他有", "en": "he has"}},
+      {"text": "de la rage", "lemma": "rage", "ipa": "də la ʁaʒ", "emoji": "😡", "translation": {"zh": "狂怒", "en": "rage"}}
+    ]
+  },
+  {
+    "id": "fc6abe76-5e02-4d4f-9f29-420029184056",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "ʒe sɔmɛj",
+    "translation": {"zh": "我困了。", "en": "I'm sleepy."},
+    "tokens": [
+      {"text": "J'ai", "lemma": "je avoir", "ipa": "ʒe", "emoji": "", "translation": {"zh": "我有", "en": "I have"}},
+      {"text": "sommeil", "lemma": "sommeil", "ipa": "sɔmɛj", "emoji": "😴", "translation": {"zh": "困意", "en": "sleepiness"}}
+    ]
+  },
+  {
+    "id": "7925e7c4-9d48-4159-9731-3327962e0d6c",
+    "verdict": "keep",
+    "delete_reason": "",
+    "ipa": "puʁ sə pʁɔblɛm il j‿a dø sɔlysjɔ̃",
+    "translation": {"zh": "这问题有两个解法。", "en": "Two solutions for this."},
+    "tokens": [
+      {"text": "Pour", "lemma": "pour", "ipa": "puʁ", "emoji": "", "translation": {"zh": "对于", "en": "for"}},
+      {"text": "ce problème", "lemma": "problème", "ipa": "sə pʁɔblɛm", "emoji": "❓", "translation": {"zh": "这问题", "en": "this problem"}},
+      {"text": "il y a", "lemma": "il y avoir", "ipa": "il j‿a", "emoji": "", "translation": {"zh": "有", "en": "there are"}},
+      {"text": "deux solutions", "lemma": "solution", "ipa": "dø sɔlysjɔ̃", "emoji": "💡", "translation": {"zh": "两个解法", "en": "two solutions"}}
+    ]
+  }
+]
