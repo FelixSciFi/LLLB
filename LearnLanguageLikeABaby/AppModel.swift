@@ -14,9 +14,12 @@ final class AppModel: ObservableObject {
 
     let candyStore:           CandyStore
     let sessions:             [LessonSessionModel]   // all learning languages, fixed order
-    let usageTimeTracker    = UsageTimeTracker()
-    let achievementManager  = AchievementManager()
-    let playbackBudget      = PlaybackBudget()
+    // These three read UserDefaults during init, so we construct them inside
+    // `init()` *after* iCloudSync.bootstrap() has had a chance to restore from
+    // KVS. Inline `= X()` would run before init body and miss the restored data.
+    let usageTimeTracker:    UsageTimeTracker
+    let achievementManager:  AchievementManager
+    let playbackBudget:      PlaybackBudget
 
     // MARK: - Published state
 
@@ -69,6 +72,19 @@ final class AppModel: ObservableObject {
     // MARK: - Init
 
     init() {
+        // 0a. Restore progress from iCloud KVS if local is fresh but cloud
+        //     has data (uninstall + reinstall scenario). Must run before any
+        //     persistence-aware model reads UserDefaults; subsequent inits
+        //     of usageTimeTracker / achievementManager / playbackBudget /
+        //     CandyStore / LessonSessionModel then see the restored values.
+        iCloudSync.shared.bootstrap()
+
+        // Construct UserDefaults-reading models AFTER the restore has had its
+        // chance, so they pick up the restored values from this launch.
+        self.usageTimeTracker   = UsageTimeTracker()
+        self.achievementManager = AchievementManager()
+        self.playbackBudget     = PlaybackBudget()
+
         // 0. Configure shared AVAudioSession once for the whole app lifetime
         try? AVAudioSession.sharedInstance().setCategory(.playback, mode: .spokenAudio, options: [])
         try? AVAudioSession.sharedInstance().setActive(true)

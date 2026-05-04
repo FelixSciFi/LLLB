@@ -7,6 +7,7 @@ struct RootView: View {
     @Environment(\.scenePhase) private var scenePhase
     @State private var darwinRouter: LLLBDarwinLiveActivityRouter?
     @State private var showProfile = false
+    @State private var showRestoreToast = false
     @AppStorage("onboardingCompleted_v1") private var onboardingCompleted = false
 
     var body: some View {
@@ -22,7 +23,37 @@ struct RootView: View {
                 }
                 .zIndex(500)
             }
+            if showRestoreToast {
+                restoreToast.zIndex(1000)
+            }
         }
+        .onAppear {
+            if iCloudSync.shared.didRestoreFromCloud && !showRestoreToast {
+                withAnimation(.easeOut(duration: 0.3)) { showRestoreToast = true }
+                DispatchQueue.main.asyncAfter(deadline: .now() + 3.0) {
+                    withAnimation(.easeIn(duration: 0.4)) { showRestoreToast = false }
+                }
+            }
+        }
+    }
+
+    private var restoreToast: some View {
+        VStack {
+            HStack(spacing: 8) {
+                Image(systemName: "icloud.and.arrow.down.fill")
+                    .foregroundStyle(Color.lllbAccent)
+                Text(L("已从 iCloud 恢复学习记录",
+                       "Restored progress from iCloud",
+                       nativeLanguage: appModel.candyStore.nativeLanguage))
+                    .font(.subheadline)
+            }
+            .padding(.horizontal, 16).padding(.vertical, 12)
+            .background(.regularMaterial, in: Capsule())
+            .shadow(color: .black.opacity(0.08), radius: 8, y: 2)
+            .padding(.top, 60)
+            Spacer()
+        }
+        .transition(.move(edge: .top).combined(with: .opacity))
     }
 
     private var mainContent: some View {
