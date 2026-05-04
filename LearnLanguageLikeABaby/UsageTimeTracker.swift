@@ -88,7 +88,6 @@ final class UsageTimeTracker: ObservableObject {
 
     func beginSession() {
         guard sessionStart == nil else { return }
-        updateStreak()
         sessionStart = Date()
         let t = Timer(timeInterval: 30, repeats: true) { [weak self] _ in self?.flush() }
         RunLoop.main.add(t, forMode: .common)
@@ -172,6 +171,15 @@ final class UsageTimeTracker: ObservableObject {
         currentWeekKey  = "\(y)-W\(String(format: "%02d", w))"
         let mFmt = DateFormatter(); mFmt.dateFormat = "yyyy-MM"
         currentMonthKey = mFmt.string(from: now)
+
+        // Streak: count today as a streak day once综合学习时间 (active + passive/3)
+        // hits 5 minutes — same threshold as the first daily milestone. Lower bar
+        // than "complete a lesson", higher than "open the app". updateStreak()
+        // self-guards against multiple updates on the same day.
+        let effectiveToday = todayMinutes + todayBgMinutes / 3
+        if effectiveToday >= 5 {
+            updateStreak()
+        }
     }
 
     private func secondsForDay(_ date: Date, in dict: [String: Int]) -> Int {
