@@ -7,6 +7,7 @@ struct RootView: View {
     @Environment(\.scenePhase) private var scenePhase
     @State private var darwinRouter: LLLBDarwinLiveActivityRouter?
     @State private var showProfile = false
+    @State private var sessionPausedByProfile = false
     @State private var showRestoreToast = false
     @AppStorage("onboardingCompleted_v1") private var onboardingCompleted = false
 
@@ -103,6 +104,17 @@ struct RootView: View {
                 appModel:                   appModel,
                 selectedLearningLanguageID: $appModel.selectedLearningLanguageID
             )
+        }
+        .onChange(of: showProfile) { isShown in
+            if isShown {
+                if appModel.activeSession.isAutoPlaying {
+                    appModel.activeSession.pause()
+                    sessionPausedByProfile = true
+                }
+            } else if sessionPausedByProfile {
+                appModel.activeSession.resume()
+                sessionPausedByProfile = false
+            }
         }
         .task {
             await appModel.loadWordTables()

@@ -289,6 +289,8 @@ private struct VoiceLanguageDetailView: View {
     @Binding var voiceByLanguage: [String: String]
     let nativeLanguage:  String
 
+    @State private var previewer = AVSpeechSynthesizer()
+
     private var selectedID: String? { voiceByLanguage[langCode] }
 
     private func select(_ id: String?) {
@@ -298,6 +300,30 @@ private struct VoiceLanguageDetailView: View {
             voiceByLanguage.removeValue(forKey: langCode)
         }
         UserDefaults.standard.set(voiceByLanguage, forKey: "voiceByLanguage")
+    }
+
+    private func playPreview(_ voice: AVSpeechSynthesisVoice) {
+        previewer.stopSpeaking(at: .immediate)
+        let utterance = AVSpeechUtterance(string: Self.previewText(for: langCode, voiceName: voice.name))
+        utterance.voice = voice
+        utterance.rate = AVSpeechUtteranceDefaultSpeechRate * 0.75
+        previewer.speak(utterance)
+    }
+
+    private static func previewText(for code: String, voiceName: String) -> String {
+        switch code {
+        case "fr": return "Bonjour, je m'appelle \(voiceName)."
+        case "es": return "Hola, me llamo \(voiceName)."
+        case "de": return "Hallo, ich heiße \(voiceName)."
+        case "it": return "Ciao, mi chiamo \(voiceName)."
+        case "pt": return "Olá, eu me chamo \(voiceName)."
+        case "en": return "Hello, my name is \(voiceName)."
+        case "zh": return "你好，我叫\(voiceName)。"
+        case "ja": return "こんにちは、私は\(voiceName)です。"
+        case "ko": return "안녕하세요, 저는 \(voiceName)입니다."
+        case "ru": return "Привет, меня зовут \(voiceName)."
+        default:   return voiceName
+        }
     }
 
     private func qualityLabel(_ voice: AVSpeechSynthesisVoice) -> String {
@@ -338,6 +364,7 @@ private struct VoiceLanguageDetailView: View {
                 ForEach(voices, id: \.identifier) { voice in
                     Button {
                         select(voice.identifier)
+                        playPreview(voice)
                     } label: {
                         HStack {
                             Text(voice.name + qualityLabel(voice))
@@ -354,6 +381,9 @@ private struct VoiceLanguageDetailView: View {
         .scrollContentBackground(.hidden)
         .navigationTitle(langDisplayName)
         .navigationBarTitleDisplayMode(.inline)
+        .onDisappear {
+            previewer.stopSpeaking(at: .immediate)
+        }
         }
     }
 }
