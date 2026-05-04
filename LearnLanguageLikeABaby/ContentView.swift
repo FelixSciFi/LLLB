@@ -692,6 +692,8 @@ struct ContentView: View {
                             controlCell(icon: "checkmark.seal", label: L("学会了", "Known", nativeLanguage: nl), showLabel: true)
                         }
                         .buttonStyle(.plain)
+                        .background(RoundedRectangle(cornerRadius: 10).fill(Color.lllbBackground))
+                        .contentShape(Rectangle())
 
                         Button {
                             Haptics.success()
@@ -701,6 +703,8 @@ struct ContentView: View {
                             controlCell(icon: "clock", label: L("稍后学", "Later", nativeLanguage: nl), showLabel: true)
                         }
                         .buttonStyle(.plain)
+                        .background(RoundedRectangle(cornerRadius: 10).fill(Color.lllbBackground))
+                        .contentShape(Rectangle())
                     }
                     .frame(width: 56)
                     .offset(x: -(56 + 6))
@@ -970,6 +974,7 @@ struct ContentView: View {
             if session.config.id == "zh"
                 && session.writeMode
                 && !familiar
+                && !archiveExpanded
                 && session.currentSentence.tokens.count == 1
                 && StrokeWriterFeature.canRender(text: display, tokenCount: 1, isChinese: true) {
                 let trText = session.currentSentence.tokens
