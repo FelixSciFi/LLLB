@@ -127,17 +127,14 @@ final class AppModel: ObservableObject {
             for s in allSessions { s.isActive = (s.config.id == defaultID) }
         }
 
-        // 5. Forward candyStore + playbackBudget changes so views observing
-        //    AppModel (RootView, ProfileView) re-render on candy balance /
-        //    cup state changes. usageTimeTracker and achievementManager are
-        //    NOT forwarded — their consumers (ContentView) observe them
-        //    directly as @ObservedObject; forwarding here would cause
-        //    ProfileView/RootView to re-render every 30s during playback
-        //    for no benefit.
+        // 5. Forward candyStore changes only. usageTimeTracker, achievementManager,
+        //    and playbackBudget all fire every ~30s during playback as usage minutes
+        //    flush — forwarding any of them to AppModel.objectWillChange would
+        //    cause RootView / ProfileView to re-render every 30s for no reason
+        //    (their bodies don't read those values). Consumers that DO need them
+        //    (ContentView for the cup/rings, the DEBUG premium toggle) observe
+        //    the sub-component directly as @ObservedObject instead.
         store.objectWillChange
-            .sink { [weak self] _ in self?.objectWillChange.send() }
-            .store(in: &cancellables)
-        playbackBudget.objectWillChange
             .sink { [weak self] _ in self?.objectWillChange.send() }
             .store(in: &cancellables)
 

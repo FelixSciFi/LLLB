@@ -179,12 +179,7 @@ struct ProfileView: View {
                         footer: Text(L("仅 DEBUG 构建可见，用来手动切换订阅状态测试 UI",
                                        "DEBUG-only — toggle premium state to test UI",
                                        nativeLanguage: nl))) {
-                    Toggle(isOn: Binding(
-                        get: { appModel.playbackBudget.isPremium },
-                        set: { appModel.playbackBudget.setPremium($0) }
-                    )) {
-                        Label("Premium (∞ time)", systemImage: "infinity")
-                    }
+                    DebugPremiumToggle(playbackBudget: appModel.playbackBudget)
                 }
                 #endif
             }
@@ -196,6 +191,23 @@ struct ProfileView: View {
         .tint(Color.lllbAccent)
     }
 }
+
+#if DEBUG
+/// Tiny wrapper so the DEBUG premium toggle observes PlaybackBudget directly
+/// without forcing the whole ProfileView to re-render on every cup-drain tick.
+private struct DebugPremiumToggle: View {
+    @ObservedObject var playbackBudget: PlaybackBudget
+
+    var body: some View {
+        Toggle(isOn: Binding(
+            get: { playbackBudget.isPremium },
+            set: { playbackBudget.setPremium($0) }
+        )) {
+            Label("Premium (∞ time)", systemImage: "infinity")
+        }
+    }
+}
+#endif
 
 // MARK: - Voice language hub
 
