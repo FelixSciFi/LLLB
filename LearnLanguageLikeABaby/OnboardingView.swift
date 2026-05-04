@@ -33,8 +33,7 @@ struct OnboardingView: View {
 
             // Brand block
             VStack(spacing: 18) {
-                LLLBLogoView(size: 120, background: Color.lllbBackground, animated: true)
-                    .clipShape(RoundedRectangle(cornerRadius: 24))
+                LLLBLogoCoded(variant: .free, size: 120)
 
                 VStack(spacing: 4) {
                     Text("LLLB")

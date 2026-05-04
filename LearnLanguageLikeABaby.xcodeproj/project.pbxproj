@@ -45,7 +45,7 @@
 		A1000041 /* word_table_zh.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000041 /* word_table_zh.json */; };
 		A1000050 /* AchievementManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000050 /* AchievementManager.swift */; };
 		A1000051 /* ProgressRingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000051 /* ProgressRingsView.swift */; };
-		A1000052 /* LLLBLogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000052 /* LLLBLogoView.swift */; };
+		A1000052 /* LLLBBrand.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000052 /* LLLBBrand.swift */; };
 		A1000053 /* Raleway-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A2000053 /* Raleway-Bold.ttf */; };
 		A1000060 /* PoolUnlockSelector.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000060 /* PoolUnlockSelector.swift */; };
 		A1000061 /* placement_fr.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000061 /* placement_fr.json */; };
@@ -132,7 +132,7 @@
 		A2000041 /* word_table_zh.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = word_table_zh.json; sourceTree = "<group>"; };
 		A2000050 /* AchievementManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementManager.swift; sourceTree = "<group>"; };
 		A2000051 /* ProgressRingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressRingsView.swift; sourceTree = "<group>"; };
-		A2000052 /* LLLBLogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LLLBLogoView.swift; sourceTree = "<group>"; };
+		A2000052 /* LLLBBrand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LLLBBrand.swift; sourceTree = "<group>"; };
 		A2000053 /* Raleway-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Bold.ttf"; sourceTree = "<group>"; };
 		A2000060 /* PoolUnlockSelector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoolUnlockSelector.swift; sourceTree = "<group>"; };
 		A2000061 /* placement_fr.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = placement_fr.json; sourceTree = "<group>"; };
@@ -204,7 +204,7 @@
 				A2000022 /* LibraryPickerView.swift */,
 				A2000023 /* TokenFlowLayout.swift */,
 				A2000051 /* ProgressRingsView.swift */,
-				A2000052 /* LLLBLogoView.swift */,
+				A2000052 /* LLLBBrand.swift */,
 				A2000063 /* PlacementTestView.swift */,
 				A2000064 /* OnboardingView.swift */,
 				A2000065 /* Haptics.swift */,
@@ -458,7 +458,7 @@
 				A1000022 /* LibraryPickerView.swift in Sources */,
 				A1000023 /* TokenFlowLayout.swift in Sources */,
 				A1000051 /* ProgressRingsView.swift in Sources */,
-				A1000052 /* LLLBLogoView.swift in Sources */,
+				A1000052 /* LLLBBrand.swift in Sources */,
 				A1000024 /* LanguageConfig.swift in Sources */,
 				A1000025 /* AppModel.swift in Sources */,
 				A1000030 /* UsageTimeTracker.swift in Sources */,
