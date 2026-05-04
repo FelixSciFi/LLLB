@@ -16,32 +16,20 @@
 		A1000007 /* FrenchLemmaSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000007 /* FrenchLemmaSearch.swift */; };
 		A1000008 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2000008 /* Assets.xcassets */; };
 		A1000009 /* sentences_fr.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000009 /* sentences_fr.json */; };
+		A100000B /* Speech.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A200000C /* Speech.framework */; };
 		A100000C /* sentences_es.json in Resources */ = {isa = PBXBuildFile; fileRef = A200000D /* sentences_es.json */; };
 		A100000E /* word_table_fr.json in Resources */ = {isa = PBXBuildFile; fileRef = A200000F /* word_table_fr.json */; };
-		A1000012 /* word_table_es.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000012 /* word_table_es.json */; };
 		A1000010 /* CandyStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000010 /* CandyStore.swift */; };
-		A1000050 /* AchievementManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000050 /* AchievementManager.swift */; };
-		A1000060 /* PoolUnlockSelector.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000060 /* PoolUnlockSelector.swift */; };
-		A1000061 /* placement_fr.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000061 /* placement_fr.json */; };
-		A1000062 /* PlacementTestModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000062 /* PlacementTestModel.swift */; };
-		A1000063 /* PlacementTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000063 /* PlacementTestView.swift */; };
-		A1000064 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000064 /* OnboardingView.swift */; };
-		A1000065 /* Haptics.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000065 /* Haptics.swift */; };
-		A1000066 /* PlaybackBudget.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000066 /* PlaybackBudget.swift */; };
-		A1000067 /* CoffeeCupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000067 /* CoffeeCupView.swift */; };
 		A1000011 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000011 /* ProfileView.swift */; };
+		A1000012 /* word_table_es.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000012 /* word_table_es.json */; };
 		A1000013 /* Localizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000013 /* Localizer.swift */; };
 		A1000014 /* DesignTokens.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000014 /* DesignTokens.swift */; };
 		A1000020 /* LessonSessionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000020 /* LessonSessionModel.swift */; };
 		A1000021 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000021 /* RootView.swift */; };
 		A1000022 /* LibraryPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000022 /* LibraryPickerView.swift */; };
 		A1000023 /* TokenFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000023 /* TokenFlowLayout.swift */; };
-		A1000051 /* ProgressRingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000051 /* ProgressRingsView.swift */; };
-		A1000052 /* LLLBLogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000052 /* LLLBLogoView.swift */; };
-		A1000053 /* Raleway-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A2000053 /* Raleway-Bold.ttf */; };
 		A1000024 /* LanguageConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000024 /* LanguageConfig.swift */; };
 		A1000025 /* AppModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000025 /* AppModel.swift */; };
-		A1000030 /* UsageTimeTracker.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000030 /* UsageTimeTracker.swift */; };
 		A1000026 /* sentences_en.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000026 /* sentences_en.json */; };
 		A1000027 /* word_table_en.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000027 /* word_table_en.json */; };
 		A1000028 /* sentences_ja.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000028 /* sentences_ja.json */; };
@@ -52,13 +40,25 @@
 		A100002D /* word_table_de.json in Resources */ = {isa = PBXBuildFile; fileRef = A200002D /* word_table_de.json */; };
 		A100002E /* sentences_ar.json in Resources */ = {isa = PBXBuildFile; fileRef = A200002E /* sentences_ar.json */; };
 		A100002F /* word_table_ar.json in Resources */ = {isa = PBXBuildFile; fileRef = A200002F /* word_table_ar.json */; };
+		A1000030 /* UsageTimeTracker.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000030 /* UsageTimeTracker.swift */; };
 		A1000040 /* sentences_zh.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000040 /* sentences_zh.json */; };
 		A1000041 /* word_table_zh.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000041 /* word_table_zh.json */; };
+		A1000050 /* AchievementManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000050 /* AchievementManager.swift */; };
+		A1000051 /* ProgressRingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000051 /* ProgressRingsView.swift */; };
+		A1000052 /* LLLBLogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000052 /* LLLBLogoView.swift */; };
+		A1000053 /* Raleway-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A2000053 /* Raleway-Bold.ttf */; };
+		A1000060 /* PoolUnlockSelector.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000060 /* PoolUnlockSelector.swift */; };
+		A1000061 /* placement_fr.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000061 /* placement_fr.json */; };
+		A1000062 /* PlacementTestModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000062 /* PlacementTestModel.swift */; };
+		A1000063 /* PlacementTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000063 /* PlacementTestView.swift */; };
+		A1000064 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000064 /* OnboardingView.swift */; };
+		A1000065 /* Haptics.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000065 /* Haptics.swift */; };
+		A1000066 /* PlaybackBudget.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000066 /* PlaybackBudget.swift */; };
+		A1000067 /* CoffeeCupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000067 /* CoffeeCupView.swift */; };
 		A1000070 /* HanziStrokeData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000070 /* HanziStrokeData.swift */; };
 		A1000071 /* HanziStrokeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000071 /* HanziStrokeView.swift */; };
 		A1000072 /* StrokeWriterFeature.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000072 /* StrokeWriterFeature.swift */; };
 		A1000073 /* hanzi-3000.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000073 /* hanzi-3000.json */; };
-		A100000B /* Speech.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A200000C /* Speech.framework */; };
 		F1000001 /* LLLBWidget.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = F2000002 /* LLLBWidget.appex */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		F1000002 /* LLLBWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2000001 /* LLLBWidget.swift */; };
 		F1000003 /* LLLBActivityAttributes.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2000003 /* LLLBActivityAttributes.swift */; };
@@ -68,6 +68,30 @@
 		F1000007 /* LLLBIntents.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2000004 /* LLLBIntents.swift */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		F8000001 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A9000001 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F6000001;
+			remoteInfo = LLLBWidget;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		F5000001 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				F1000001 /* LLLBWidget.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		A2000001 /* LearnLanguageLikeABabyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnLanguageLikeABabyApp.swift; sourceTree = "<group>"; };
 		A2000002 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -76,29 +100,23 @@
 		A2000005 /* NarrationEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NarrationEngine.swift; sourceTree = "<group>"; };
 		A2000006 /* VoiceInputController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoiceInputController.swift; sourceTree = "<group>"; };
 		A2000007 /* FrenchLemmaSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrenchLemmaSearch.swift; sourceTree = "<group>"; };
+		A2000008 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A2000009 /* sentences_fr.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentences_fr.json; sourceTree = "<group>"; };
+		A200000B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A200000C /* Speech.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Speech.framework; path = System/Library/Frameworks/Speech.framework; sourceTree = SDKROOT; };
+		A200000D /* sentences_es.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentences_es.json; sourceTree = "<group>"; };
+		A200000F /* word_table_fr.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = word_table_fr.json; sourceTree = "<group>"; };
 		A2000010 /* CandyStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CandyStore.swift; sourceTree = "<group>"; };
-		A2000050 /* AchievementManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementManager.swift; sourceTree = "<group>"; };
-		A2000060 /* PoolUnlockSelector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoolUnlockSelector.swift; sourceTree = "<group>"; };
-		A2000061 /* placement_fr.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = placement_fr.json; sourceTree = "<group>"; };
-		A2000062 /* PlacementTestModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacementTestModel.swift; sourceTree = "<group>"; };
-		A2000063 /* PlacementTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacementTestView.swift; sourceTree = "<group>"; };
-		A2000064 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
-		A2000065 /* Haptics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Haptics.swift; sourceTree = "<group>"; };
-		A2000066 /* PlaybackBudget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaybackBudget.swift; sourceTree = "<group>"; };
-		A2000067 /* CoffeeCupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeCupView.swift; sourceTree = "<group>"; };
 		A2000011 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		A2000012 /* word_table_es.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = word_table_es.json; sourceTree = "<group>"; };
 		A2000013 /* Localizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Localizer.swift; sourceTree = "<group>"; };
 		A2000014 /* DesignTokens.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignTokens.swift; sourceTree = "<group>"; };
 		A2000020 /* LessonSessionModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonSessionModel.swift; sourceTree = "<group>"; };
 		A2000021 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
 		A2000022 /* LibraryPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryPickerView.swift; sourceTree = "<group>"; };
 		A2000023 /* TokenFlowLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TokenFlowLayout.swift; sourceTree = "<group>"; };
-		A2000051 /* ProgressRingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressRingsView.swift; sourceTree = "<group>"; };
-		A2000052 /* LLLBLogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LLLBLogoView.swift; sourceTree = "<group>"; };
-		A2000053 /* Raleway-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Bold.ttf"; sourceTree = "<group>"; };
 		A2000024 /* LanguageConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguageConfig.swift; sourceTree = "<group>"; };
 		A2000025 /* AppModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppModel.swift; sourceTree = "<group>"; };
-		A2000030 /* UsageTimeTracker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsageTimeTracker.swift; sourceTree = "<group>"; };
 		A2000026 /* sentences_en.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentences_en.json; sourceTree = "<group>"; };
 		A2000027 /* word_table_en.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = word_table_en.json; sourceTree = "<group>"; };
 		A2000028 /* sentences_ja.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentences_ja.json; sourceTree = "<group>"; };
@@ -109,19 +127,25 @@
 		A200002D /* word_table_de.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = word_table_de.json; sourceTree = "<group>"; };
 		A200002E /* sentences_ar.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentences_ar.json; sourceTree = "<group>"; };
 		A200002F /* word_table_ar.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = word_table_ar.json; sourceTree = "<group>"; };
+		A2000030 /* UsageTimeTracker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsageTimeTracker.swift; sourceTree = "<group>"; };
 		A2000040 /* sentences_zh.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentences_zh.json; sourceTree = "<group>"; };
+		A2000041 /* word_table_zh.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = word_table_zh.json; sourceTree = "<group>"; };
+		A2000050 /* AchievementManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementManager.swift; sourceTree = "<group>"; };
+		A2000051 /* ProgressRingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressRingsView.swift; sourceTree = "<group>"; };
+		A2000052 /* LLLBLogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LLLBLogoView.swift; sourceTree = "<group>"; };
+		A2000053 /* Raleway-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Bold.ttf"; sourceTree = "<group>"; };
+		A2000060 /* PoolUnlockSelector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoolUnlockSelector.swift; sourceTree = "<group>"; };
+		A2000061 /* placement_fr.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = placement_fr.json; sourceTree = "<group>"; };
+		A2000062 /* PlacementTestModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacementTestModel.swift; sourceTree = "<group>"; };
+		A2000063 /* PlacementTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacementTestView.swift; sourceTree = "<group>"; };
+		A2000064 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		A2000065 /* Haptics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Haptics.swift; sourceTree = "<group>"; };
+		A2000066 /* PlaybackBudget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaybackBudget.swift; sourceTree = "<group>"; };
+		A2000067 /* CoffeeCupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeCupView.swift; sourceTree = "<group>"; };
 		A2000070 /* HanziStrokeData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HanziStrokeData.swift; sourceTree = "<group>"; };
 		A2000071 /* HanziStrokeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HanziStrokeView.swift; sourceTree = "<group>"; };
 		A2000072 /* StrokeWriterFeature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrokeWriterFeature.swift; sourceTree = "<group>"; };
 		A2000073 /* hanzi-3000.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "hanzi-3000.json"; sourceTree = "<group>"; };
-		A2000041 /* word_table_zh.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = word_table_zh.json; sourceTree = "<group>"; };
-		A2000008 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A2000009 /* sentences_fr.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentences_fr.json; sourceTree = "<group>"; };
-		A200000D /* sentences_es.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sentences_es.json; sourceTree = "<group>"; };
-		A200000F /* word_table_fr.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = word_table_fr.json; sourceTree = "<group>"; };
-		A2000012 /* word_table_es.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = word_table_es.json; sourceTree = "<group>"; };
-		A200000B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A200000C /* Speech.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Speech.framework; path = System/Library/Frameworks/Speech.framework; sourceTree = SDKROOT; };
 		A3000001 /* LearnLanguageLikeABaby.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearnLanguageLikeABaby.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2000001 /* LLLBWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LLLBWidget.swift; sourceTree = "<group>"; };
 		F2000002 /* LLLBWidget.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = LLLBWidget.appex; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -150,20 +174,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
-
-/* Begin PBXCopyFilesBuildPhase section */
-		F5000001 /* Embed Foundation Extensions */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "";
-			dstSubfolderSpec = 13;
-			files = (
-				F1000001 /* LLLBWidget.appex in Embed Foundation Extensions */,
-			);
-			name = "Embed Foundation Extensions";
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXGroup section */
 		4B0EAC722F7995300051539D /* Recovered References */ = {
@@ -228,16 +238,6 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F9500001 /* LLLBWidget */ = {
-			isa = PBXGroup;
-			children = (
-				F2000001 /* LLLBWidget.swift */,
-				F2000008 /* Info.plist */,
-				F2000007 /* LLLBWidget.entitlements */,
-			);
-			path = LLLBWidget;
-			sourceTree = "<group>";
-		};
 		A5000004 /* Models */ = {
 			isa = PBXGroup;
 			children = (
@@ -260,25 +260,6 @@
 				A2000066 /* PlaybackBudget.swift */,
 			);
 			path = Services;
-			sourceTree = "<group>";
-		};
-		A5000007 /* StrokeWriter */ = {
-			isa = PBXGroup;
-			children = (
-				A2000070 /* HanziStrokeData.swift */,
-				A2000071 /* HanziStrokeView.swift */,
-				A2000072 /* StrokeWriterFeature.swift */,
-				A5000008 /* Resources */,
-			);
-			path = StrokeWriter;
-			sourceTree = "<group>";
-		};
-		A5000008 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				A2000073 /* hanzi-3000.json */,
-			);
-			path = Resources;
 			sourceTree = "<group>";
 		};
 		A5000006 /* Resources */ = {
@@ -304,6 +285,35 @@
 				A2000053 /* Raleway-Bold.ttf */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		A5000007 /* StrokeWriter */ = {
+			isa = PBXGroup;
+			children = (
+				A2000070 /* HanziStrokeData.swift */,
+				A2000071 /* HanziStrokeView.swift */,
+				A2000072 /* StrokeWriterFeature.swift */,
+				A5000008 /* Resources */,
+			);
+			path = StrokeWriter;
+			sourceTree = "<group>";
+		};
+		A5000008 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A2000073 /* hanzi-3000.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		F9500001 /* LLLBWidget */ = {
+			isa = PBXGroup;
+			children = (
+				F2000001 /* LLLBWidget.swift */,
+				F2000008 /* Info.plist */,
+				F2000007 /* LLLBWidget.entitlements */,
+			);
+			path = LLLBWidget;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -346,24 +356,6 @@
 			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
-
-/* Begin PBXContainerItemProxy section */
-		F8000001 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = A9000001 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = F6000001;
-			remoteInfo = LLLBWidget;
-		};
-/* End PBXContainerItemProxy section */
-
-/* Begin PBXTargetDependency section */
-		F8000002 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = F6000001 /* LLLBWidget */;
-			targetProxy = F8000001 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXProject section */
 		A9000001 /* Project object */ = {
@@ -491,6 +483,14 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXTargetDependency section */
+		F8000002 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F6000001 /* LLLBWidget */;
+			targetProxy = F8000001 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
 /* Begin XCBuildConfiguration section */
 		B1000001 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -567,7 +567,7 @@
 				CODE_SIGN_ENTITLEMENTS = LearnLanguageLikeABaby/LearnLanguageLikeABaby.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = MB5V8D7NS8;
+				DEVELOPMENT_TEAM = U68ZKYNX56;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = LearnLanguageLikeABaby/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Learn Language Like a Baby";
@@ -580,11 +580,15 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.learn.LearnLanguageLikeABaby;
+				PRODUCT_BUNDLE_IDENTIFIER = com.fanzhang.lllb;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -596,7 +600,7 @@
 				CODE_SIGN_ENTITLEMENTS = LearnLanguageLikeABaby/LearnLanguageLikeABaby.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = MB5V8D7NS8;
+				DEVELOPMENT_TEAM = U68ZKYNX56;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = LearnLanguageLikeABaby/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Learn Language Like a Baby";
@@ -609,11 +613,15 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.learn.LearnLanguageLikeABaby;
+				PRODUCT_BUNDLE_IDENTIFIER = com.fanzhang.lllb;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -624,7 +632,7 @@
 				CODE_SIGN_ENTITLEMENTS = LLLBWidget/LLLBWidget.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = MB5V8D7NS8;
+				DEVELOPMENT_TEAM = U68ZKYNX56;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = LLLBWidget/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = LLLBWidget;
@@ -636,7 +644,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.learn.LearnLanguageLikeABaby.LLLBWidget;
+				PRODUCT_BUNDLE_IDENTIFIER = com.fanzhang.lllb.widget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -652,7 +660,7 @@
 				CODE_SIGN_ENTITLEMENTS = LLLBWidget/LLLBWidget.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = MB5V8D7NS8;
+				DEVELOPMENT_TEAM = U68ZKYNX56;
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = LLLBWidget/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = LLLBWidget;
@@ -664,7 +672,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.learn.LearnLanguageLikeABaby.LLLBWidget;
+				PRODUCT_BUNDLE_IDENTIFIER = com.fanzhang.lllb.widget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
