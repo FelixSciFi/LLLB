@@ -496,13 +496,18 @@ struct ContentView: View {
         let s = snappedSpeedStep(v)
         return playbackSpeedSteps.firstIndex(where: { abs($0 - s) < 0.001 }) ?? 2
     }
-    private static func formatSpeedDisplay(_ v: Double) -> String {
+    /// Bare number without unit, for the inline "速度 N" button label.
+    private static func formatSpeedNumber(_ v: Double) -> String {
         let r = (v * 4).rounded() / 4
-        if abs(r - 1) < 0.001 { return "1×" }
-        if abs(r - 2) < 0.001 { return "2×" }
+        if abs(r - 1) < 0.001 { return "1" }
+        if abs(r - 2) < 0.001 { return "2" }
         return abs(r * 2 - floor(r * 2 + 0.0001)) < 0.001
-            ? String(format: "%.1f×", r)
-            : String(format: "%.2f×", r)
+            ? String(format: "%.1f", r)
+            : String(format: "%.2f", r)
+    }
+    /// Number with `×` suffix, for the speed-picker popover's big readout.
+    private static func formatSpeedDisplay(_ v: Double) -> String {
+        formatSpeedNumber(v) + "×"
     }
 
     // MARK: - Left controls
@@ -552,37 +557,46 @@ struct ContentView: View {
             }
             .buttonStyle(.plain)
 
-            // Speed
+            // Speed — number on left, fixed speedometer icon on right.
+            // Width is language-agnostic since both are non-text glyphs.
             Button { Haptics.light(); showSpeedPopover = true } label: {
-                VStack(spacing: 3) {
-                    Text(Self.formatSpeedDisplay(Self.snappedSpeedStep(session.speedMultiplier)))
-                        .font(.title3.weight(.bold))
+                HStack(spacing: 4) {
+                    Text(Self.formatSpeedNumber(Self.snappedSpeedStep(session.speedMultiplier)))
+                        .font(.subheadline.weight(.semibold))
                         .foregroundStyle(Color.primary)
-                    Text(L("速度", "Speed", nativeLanguage: nl)).font(.caption2)
+                    Image(systemName: "speedometer")
+                        .font(.footnote)
                         .foregroundStyle(Color.lllbSecondaryText)
                 }
+                .lineLimit(1)
                 .frame(maxWidth: .infinity)
-                .padding(.vertical, 6)
+                .padding(.vertical, 13)
                 .background(Color.clear)
                 .clipShape(RoundedRectangle(cornerRadius: 10))
                 .overlay(RoundedRectangle(cornerRadius: 10).stroke(Color.lllbCellStroke, lineWidth: 0.5))
+                .accessibilityLabel(L("速度", "Speed", nativeLanguage: nl))
             }
             .buttonStyle(.plain)
 
-            // Repeats
+            // Repeats — number on left, circular-arrow icon on right.
+            // Using `arrow.clockwise` (single ↻) instead of `repeat` so it
+            // doesn't visually clash with the play-mode sequential icon.
             Button { Haptics.light(); showRepeatsPopover = true } label: {
-                VStack(spacing: 3) {
+                HStack(spacing: 4) {
                     Text("\(session.repeatsBeforeAdvance)")
-                        .font(.title3.weight(.bold))
+                        .font(.subheadline.weight(.semibold))
                         .foregroundStyle(Color.primary)
-                    Text(L("遍数", "Repeats", nativeLanguage: nl)).font(.caption2)
+                    Image(systemName: "arrow.clockwise")
+                        .font(.footnote)
                         .foregroundStyle(Color.lllbSecondaryText)
                 }
+                .lineLimit(1)
                 .frame(maxWidth: .infinity)
-                .padding(.vertical, 6)
+                .padding(.vertical, 13)
                 .background(Color.clear)
                 .clipShape(RoundedRectangle(cornerRadius: 10))
                 .overlay(RoundedRectangle(cornerRadius: 10).stroke(Color.lllbCellStroke, lineWidth: 0.5))
+                .accessibilityLabel(L("遍数", "Repeats", nativeLanguage: nl))
             }
             .buttonStyle(.plain)
 
@@ -608,15 +622,15 @@ struct ContentView: View {
         let nl = session.nativeLanguage
         return VStack(spacing: 7) {
             toggleCell(L("图片", "Pic",  nativeLanguage: nl), icon: "photo",          on: $session.showImage)
-            toggleCell(L("拼写", "Text", nativeLanguage: nl), icon: "textformat.abc",  on: $session.showSpelling)
-            toggleCell(L("音标", "IPA",  nativeLanguage: nl), icon: "waveform",        on: $session.showIPA)
+            toggleCell(L("文字", "Text", nativeLanguage: nl), icon: "textformat.abc",  on: $session.showSpelling)
+            toggleTextCell(L("音标", "IPA",  nativeLanguage: nl), on: $session.showIPA)
             toggleCell(L("翻译", "Tr.",  nativeLanguage: nl), icon: "globe",           on: $session.showTranslation)
             translationModeCell(nativeLanguage: nl)
 
             if session.config.id != "zh" {
                 let isSingle = session.currentSentence.text.split(separator: " ").count == 1
                 ZStack(alignment: .topTrailing) {
-                    toggleCell(L("字母", "Spell", nativeLanguage: nl), icon: "a.circle", on: $session.spellMode)
+                    toggleTextCell(L("拼写", "Spell", nativeLanguage: nl), on: $session.spellMode)
                     if isSingle {
                         Circle()
                             .fill(session.spellMode ? Color.lllbSelectedFg : Color.lllbSecondaryText)
@@ -631,7 +645,7 @@ struct ContentView: View {
                     tokenCount: session.currentSentence.tokens.count,
                     isChinese: true
                 )
-                toggleCell(L("书写", "Write", nativeLanguage: nl), icon: "pencil.tip", on: $session.writeMode)
+                toggleTextCell(L("书写", "Write", nativeLanguage: nl), on: $session.writeMode)
                     .opacity(canRender ? 1.0 : 0.4)
                     .allowsHitTesting(canRender)
             }
@@ -652,6 +666,7 @@ struct ContentView: View {
                 controlCell(
                     icon:        isFamiliar ? "checkmark.circle.fill" : "checkmark.circle",
                     label:       L("熟悉", "Familiar", nativeLanguage: nl),
+                    showLabel:   true,
                     isActive:    isFamiliar,
                     activeColor: .green
                 )
@@ -662,7 +677,7 @@ struct ContentView: View {
                 Haptics.light()
                 withAnimation(.spring(response: 0.28)) { archiveExpanded.toggle() }
             } label: {
-                controlCell(icon: "archivebox", label: L("存档", "Archive", nativeLanguage: nl), isActive: archiveExpanded)
+                controlCell(icon: "archivebox", label: L("存档", "Archive", nativeLanguage: nl), showLabel: true, isActive: archiveExpanded)
             }
             .buttonStyle(.plain)
             .frame(width: 56)
@@ -674,7 +689,7 @@ struct ContentView: View {
                             session.archiveCurrentSentence(as: .mastered)
                             withAnimation(.spring(response: 0.28)) { archiveExpanded = false }
                         } label: {
-                            controlCell(icon: "checkmark.seal", label: L("学会了", "Known", nativeLanguage: nl))
+                            controlCell(icon: "checkmark.seal", label: L("学会了", "Known", nativeLanguage: nl), showLabel: true)
                         }
                         .buttonStyle(.plain)
 
@@ -683,7 +698,7 @@ struct ContentView: View {
                             session.archiveCurrentSentence(as: .later)
                             withAnimation(.spring(response: 0.28)) { archiveExpanded = false }
                         } label: {
-                            controlCell(icon: "clock", label: L("稍后学", "Later", nativeLanguage: nl))
+                            controlCell(icon: "clock", label: L("稍后学", "Later", nativeLanguage: nl), showLabel: true)
                         }
                         .buttonStyle(.plain)
                     }
@@ -706,15 +721,22 @@ struct ContentView: View {
     private func controlCell(
         icon:        String,
         label:       String,
+        showLabel:   Bool  = false,
         isActive:    Bool  = false,
         activeColor: Color = .lllbAccent
     ) -> some View {
-        VStack(spacing: 3) {
-            Image(systemName: icon).font(.title3)
-            Text(label).font(.caption2)
+        Group {
+            if showLabel {
+                VStack(spacing: 3) {
+                    Image(systemName: icon).font(.title3)
+                    Text(label).font(.caption2)
+                }
+            } else {
+                Image(systemName: icon).font(.title3)
+            }
         }
         .frame(maxWidth: .infinity)
-        .padding(.vertical, 6)
+        .padding(.vertical, showLabel ? 6 : 12)
         .foregroundStyle(isActive ? activeColor : Color.lllbSecondaryText)
         .background(isActive ? activeColor.opacity(0.10) : Color.clear)
         .clipShape(RoundedRectangle(cornerRadius: 10))
@@ -722,6 +744,7 @@ struct ContentView: View {
             RoundedRectangle(cornerRadius: 10)
                 .stroke(isActive ? activeColor.opacity(0.30) : Color.lllbCellStroke, lineWidth: 0.5)
         )
+        .accessibilityLabel(label)
     }
 
     @ViewBuilder
@@ -763,19 +786,39 @@ struct ContentView: View {
     @ViewBuilder
     private func toggleCell(_ label: String, icon: String, on: Binding<Bool>) -> some View {
         Button { Haptics.soft(); on.wrappedValue.toggle() } label: {
-            VStack(spacing: 3) {
-                Image(systemName: icon).font(.title3)
-                Text(label).font(.caption2)
-            }
-            .frame(maxWidth: .infinity)
-            .padding(.vertical, 6)
-            .foregroundStyle(on.wrappedValue ? Color.lllbSelectedFg : Color.lllbSecondaryText)
-            .background(on.wrappedValue ? Color.lllbSelectedBg : Color.clear)
-            .clipShape(RoundedRectangle(cornerRadius: 10))
-            .overlay(
-                RoundedRectangle(cornerRadius: 10)
-                    .stroke(on.wrappedValue ? Color.lllbSelectedStroke : Color.lllbCellStroke, lineWidth: 0.5)
-            )
+            Image(systemName: icon)
+                .font(.title3)
+                .frame(maxWidth: .infinity)
+                .padding(.vertical, 12)
+                .foregroundStyle(on.wrappedValue ? Color.lllbSelectedFg : Color.lllbSecondaryText)
+                .background(on.wrappedValue ? Color.lllbSelectedBg : Color.clear)
+                .clipShape(RoundedRectangle(cornerRadius: 10))
+                .overlay(
+                    RoundedRectangle(cornerRadius: 10)
+                        .stroke(on.wrappedValue ? Color.lllbSelectedStroke : Color.lllbCellStroke, lineWidth: 0.5)
+                )
+                .accessibilityLabel(label)
+        }
+        .buttonStyle(.plain)
+    }
+
+    /// Text-only toggle (for buttons where a word is clearer than an icon).
+    /// Same shape/active-state visuals as `toggleCell` so the columns stay
+    /// uniform.
+    @ViewBuilder
+    private func toggleTextCell(_ text: String, on: Binding<Bool>) -> some View {
+        Button { Haptics.soft(); on.wrappedValue.toggle() } label: {
+            Text(text)
+                .font(.subheadline.weight(.semibold))
+                .frame(maxWidth: .infinity)
+                .padding(.vertical, 14)
+                .foregroundStyle(on.wrappedValue ? Color.lllbSelectedFg : Color.lllbSecondaryText)
+                .background(on.wrappedValue ? Color.lllbSelectedBg : Color.clear)
+                .clipShape(RoundedRectangle(cornerRadius: 10))
+                .overlay(
+                    RoundedRectangle(cornerRadius: 10)
+                        .stroke(on.wrappedValue ? Color.lllbSelectedStroke : Color.lllbCellStroke, lineWidth: 0.5)
+                )
         }
         .buttonStyle(.plain)
     }
