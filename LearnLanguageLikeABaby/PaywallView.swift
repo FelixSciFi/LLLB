@@ -98,29 +98,24 @@ struct PaywallView: View {
 
     // MARK: - Features
 
+    /// Pro 唯一与免费版的差异是无限时间，所以这里只讲这一件事——不放
+    /// 任何其他"特性"以免误导用户。
     private var featureSection: some View {
-        VStack(alignment: .leading, spacing: 16) {
-            featureRow(icon: "infinity",
-                       title: L("无限学习时间", "Unlimited learning time", nativeLanguage: nativeLanguage))
-            featureRow(icon: "globe.europe.africa.fill",
-                       title: L("八种语言任意切换", "All eight languages", nativeLanguage: nativeLanguage))
-            featureRow(icon: "heart.fill",
-                       title: L("支持独立开发，持续更新内容", "Support indie development", nativeLanguage: nativeLanguage))
-        }
-        .frame(maxWidth: .infinity, alignment: .leading)
-        .padding(.horizontal, 36)
-    }
-
-    private func featureRow(icon: String, title: String) -> some View {
-        HStack(spacing: 14) {
-            Image(systemName: icon)
-                .font(.system(size: 18, weight: .semibold))
-                .foregroundStyle(gold)
-                .frame(width: 26)
-            Text(title)
-                .font(.system(size: 16, weight: .medium))
+        VStack(spacing: 8) {
+            Text(L("无限学习时间",
+                   "Unlimited learning time",
+                   nativeLanguage: nativeLanguage))
+                .font(.system(size: 22, weight: .bold))
                 .foregroundStyle(Color.white)
+            Text(L("不再受咖啡杯每天 45 分钟的限制",
+                   "Lifts the 45-minute daily cup limit",
+                   nativeLanguage: nativeLanguage))
+                .font(.system(size: 14))
+                .foregroundStyle(Color.white.opacity(0.70))
+                .multilineTextAlignment(.center)
         }
+        .frame(maxWidth: .infinity)
+        .padding(.horizontal, 36)
     }
 
     // MARK: - Product cards

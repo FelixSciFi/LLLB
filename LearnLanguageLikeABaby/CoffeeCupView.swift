@@ -193,6 +193,29 @@ struct CoffeeRefillMenu: View {
                 .font(.system(size: 13))
                 .foregroundStyle(.secondary)
                 .multilineTextAlignment(.center)
+            // 在 promo 期间也允许直接订阅——避免用户错过 7 天后再来时
+            // 才发现入口；同时不在真实订阅状态下出现，避免错位 UX。
+            if promoDaysRemaining != nil {
+                Button {
+                    Haptics.medium()
+                    onClose()
+                    onSubscribe()
+                } label: {
+                    Text(L("订阅 LLLB Pro",
+                           "Subscribe to LLLB Pro",
+                           nativeLanguage: nativeLanguage))
+                        .font(.system(size: 14, weight: .semibold))
+                        .foregroundStyle(Color.lllbAccent)
+                        .padding(.horizontal, 18)
+                        .padding(.vertical, 8)
+                        .background(Color.lllbAccent.opacity(0.10), in: Capsule())
+                        .overlay(
+                            Capsule().stroke(Color.lllbAccent.opacity(0.30), lineWidth: 0.5)
+                        )
+                }
+                .buttonStyle(.plain)
+                .padding(.top, 2)
+            }
         }
         .padding(.vertical, 28)
         .padding(.horizontal, 32)

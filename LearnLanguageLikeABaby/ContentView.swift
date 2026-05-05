@@ -1083,7 +1083,11 @@ struct ContentView: View {
             canTopUp:        playbackBudget.canTopUp,
             topUpCost:       playbackBudget.topUpCost,
             isPremium:       entitlementStore.isUnlimited,
-            promoDaysRemaining: entitlementStore.isPromoActive
+            // Only surface the promo countdown / subscribe affordance when the
+            // user is in promo *and* hasn't subscribed yet. Subscribers see the
+            // plain "thanks" card.
+            promoDaysRemaining: (entitlementStore.isPromoActive
+                                 && !entitlementStore.isSubscribed)
                                 ? entitlementStore.promoDaysRemaining : nil,
             onUseCandy: {
                 Haptics.success()

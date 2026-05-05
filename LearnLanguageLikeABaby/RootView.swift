@@ -58,17 +58,27 @@ struct RootView: View {
             checkWelcomeGift()
         }
         .onChange(of: onboardingCompleted) { done in
-            // Onboarding just completed → promo was just granted →
-            // show the welcome card on the next runloop tick.
+            // Onboarding just completed → promo was just granted, but the
+            // placement test may run next. Defer the check; it'll fire again
+            // when wasPlacementShown flips below.
             if done { checkWelcomeGift() }
+        }
+        // Wait for the placement test to finish (or be skipped) before
+        // popping the welcome card — otherwise both modals overlap on a
+        // brand-new user.
+        .onReceive(appModel.activeSession.$wasPlacementShown) { _ in
+            checkWelcomeGift()
         }
     }
 
-    /// Show the welcome gift card iff: onboarding finished, the promo is
-    /// active (i.e. the user is genuinely new), and we haven't shown it yet.
+    /// Show the welcome gift card iff: onboarding finished, the placement
+    /// test is settled, the promo is active (genuine new user), and we
+    /// haven't shown the card yet. The placement gate prevents the card
+    /// from clobbering the placement modal on a fresh install.
     private func checkWelcomeGift() {
         guard onboardingCompleted,
               !welcomeGiftShown,
+              appModel.activeSession.wasPlacementShown,
               appModel.promoStore.isActive
         else { return }
         DispatchQueue.main.asyncAfter(deadline: .now() + 0.35) {

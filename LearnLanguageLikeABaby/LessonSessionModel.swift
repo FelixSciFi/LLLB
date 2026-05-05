@@ -298,6 +298,7 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         self.config = config
         let d   = UserDefaults.standard
         let lid = config.id
+        _wasPlacementShown      = Published(initialValue: d.bool(forKey: "placementShown_\(lid)"))
         _selectedLibraries      = Published(initialValue: Set(["A1", "A2"]))
         _speedMultiplier        = Published(initialValue: Self.loadDouble(d: d, key: "speed_\(lid)", default: 1.0))
         _repeatsBeforeAdvance   = Published(initialValue: Self.loadInt(d: d, key: "repeats_\(lid)", default: 3))
@@ -1171,12 +1172,13 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     /// Whether the placement-test UI has already been offered to the user (whether
     /// completed or skipped) for this language. Pure UI-state flag — does NOT gate
     /// pool content. Pool growth is handled by `ensurePoolFilled()` regardless.
-    var wasPlacementShown: Bool {
-        UserDefaults.standard.bool(forKey: placementShownKey)
-    }
+    /// Backed by `placementShownKey` in UserDefaults; the @Published mirror lets
+    /// downstream views (e.g. RootView's welcome-gift gate) react to completion.
+    @Published private(set) var wasPlacementShown: Bool = false
 
     func markPlacementShown() {
         UserDefaults.standard.set(true, forKey: placementShownKey)
+        wasPlacementShown = true
     }
 
     /// Fallback pool allocation when no placement test is run (skip path or no
