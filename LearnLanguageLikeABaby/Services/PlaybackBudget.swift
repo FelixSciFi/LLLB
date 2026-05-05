@@ -1,7 +1,7 @@
 import Combine
 import Foundation
 
-/// Daily playback budget for free users. Premium subscribers bypass it entirely.
+/// Daily playback budget for free users.
 ///
 /// **Model**: a coffee cup with fixed capacity (45 min). The cup starts full
 /// each day, drains as the user plays, and can be refilled (candy / ad) up
@@ -12,6 +12,11 @@ import Foundation
 /// affordances, top-up cost) is derived from it. AppModel forwards the
 /// usage tracker's playback-minute totals into `sync(playMinutes:)`, which
 /// translates accumulated play time into cup drainage.
+///
+/// **Premium / unlimited time** lives outside this object. `EntitlementStore`
+/// owns that flag; AppModel composes the soft-brake gate by combining
+/// `entitlement.isUnlimited` with `budget.isExhausted()`. Views that need to
+/// render ♾️ read `entitlement.isUnlimited` directly.
 @MainActor
 final class PlaybackBudget: ObservableObject {
 
@@ -28,9 +33,6 @@ final class PlaybackBudget: ObservableObject {
     /// Prevents wasting most of a `refillMinutes`-unit purchase near full.
     private static let strictRefillMinSpace: Int = refillMinutes
 
-    /// Subscription state (StoreKit wiring stub).
-    @Published var isPremium: Bool = false
-
     /// Current liquid in the cup, 0 ... freeBudgetMinutes.
     @Published private(set) var cupMinutes: Int
 
@@ -38,7 +40,6 @@ final class PlaybackBudget: ObservableObject {
     private let keyCupMinutes        = "cup_minutes_v2"
     private let keyLastSeenDay       = "cup_last_seen_day_v2"
     private let keyLastSeenPlayMin   = "cup_last_seen_play_v2"
-    private let keyIsPremium         = "playback_is_premium_dev_v1"
     /// Legacy keys we proactively wipe on first launch of v2 — the previous
     /// model accumulated `bought` minutes which led to a "frozen" cup.
     private let legacyBoughtKey      = "playback_bought_by_day_v1"
@@ -85,8 +86,6 @@ final class PlaybackBudget: ObservableObject {
             lastSeenDay         = today
             persist()
         }
-
-        isPremium = d.bool(forKey: keyIsPremium)
 
         // Catch midnight rollover even if the app stays open.
         NotificationCenter.default.addObserver(
@@ -168,22 +167,15 @@ final class PlaybackBudget: ObservableObject {
 
     // MARK: - Soft-brake gate
 
-    /// Returns the current cup level — used by views and the soft-brake gate.
-    func remaining() -> Int { isPremium ? .max : cupMinutes }
+    /// Returns the current cup level. The unlimited-time check lives in
+    /// `EntitlementStore`; AppModel combines the two for the soft-brake gate.
+    func remaining() -> Int { cupMinutes }
 
     func progress() -> Double {
-        if isPremium { return 1 }
-        return max(0, min(1, Double(cupMinutes) / Double(Self.freeBudgetMinutes)))
+        max(0, min(1, Double(cupMinutes) / Double(Self.freeBudgetMinutes)))
     }
 
-    func isExhausted() -> Bool { !isPremium && cupMinutes <= 0 }
-
-    // MARK: - Premium toggle (dev only for now)
-
-    func setPremium(_ value: Bool) {
-        isPremium = value
-        defaults.set(value, forKey: keyIsPremium)
-    }
+    func isExhausted() -> Bool { cupMinutes <= 0 }
 
     // MARK: - Persistence
 

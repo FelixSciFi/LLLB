@@ -1,0 +1,91 @@
+{
+  "identifier" : "F4A1B2C3-D4E5-4F67-8901-23456789ABCD",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {
+    "_applicationInternalID" : "0",
+    "_developerTeamID" : "",
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : []
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21001001",
+      "localizations" : [
+        {
+          "description" : "LLLB Pro — unlimited learning time",
+          "displayName" : "LLLB Pro",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "LLLB Pro —— 无限学习时间",
+          "displayName" : "LLLB Pro",
+          "locale" : "zh_Hans"
+        }
+      ],
+      "name" : "LLLB Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "19.99",
+          "familyShareable" : true,
+          "groupNumber" : 1,
+          "internalID" : "21001011",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlimited learning time, billed yearly",
+              "displayName" : "Yearly",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "无限学习时间，按年扣费",
+              "displayName" : "年度订阅",
+              "locale" : "zh_Hans"
+            }
+          ],
+          "productID" : "com.fanzhang.lllb.pro.yearly",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "LLLB Pro Yearly",
+          "subscriptionGroupID" : "21001001",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : []
+        },
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "2.99",
+          "familyShareable" : true,
+          "groupNumber" : 2,
+          "internalID" : "21001012",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlimited learning time, billed monthly",
+              "displayName" : "Monthly",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "无限学习时间，按月扣费",
+              "displayName" : "月度订阅",
+              "locale" : "zh_Hans"
+            }
+          ],
+          "productID" : "com.fanzhang.lllb.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "LLLB Pro Monthly",
+          "subscriptionGroupID" : "21001001",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : []
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}

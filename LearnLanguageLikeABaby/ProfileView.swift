@@ -6,6 +6,10 @@ import AVFoundation
 struct ProfileView: View {
     @ObservedObject var appModel: AppModel
     @Binding var selectedLearningLanguageID: String
+    /// Tapped from the upgrade row → caller closes ProfileView and presents
+    /// the paywall (centralised in RootView). Plain closure so this view
+    /// stays oblivious to which sheet/cover the parent is using.
+    var onOpenSubscribe: () -> Void = {}
 
     var body: some View {
         let candyStore = appModel.candyStore
@@ -16,6 +20,16 @@ struct ProfileView: View {
             ZStack {
                 Color.lllbBackground.ignoresSafeArea()
                 List {
+                // ── Subscription status ────────────────────────────────────
+                Section {
+                    SubscriptionStatusRow(
+                        subscriptionManager: appModel.subscriptionManager,
+                        entitlementStore:    appModel.entitlementStore,
+                        nativeLanguage:      nl,
+                        onOpenSubscribe:     onOpenSubscribe
+                    )
+                }
+
                 // Stats moved to the 2×2 rings overlay (tap rings on home screen).
 
                 // ── Language settings ──────────────────────────────────────
@@ -179,7 +193,8 @@ struct ProfileView: View {
                         footer: Text(L("仅 DEBUG 构建可见，用来手动切换订阅状态测试 UI",
                                        "DEBUG-only — toggle premium state to test UI",
                                        nativeLanguage: nl))) {
-                    DebugPremiumToggle(playbackBudget: appModel.playbackBudget)
+                    DebugPremiumToggle(entitlementStore: appModel.entitlementStore)
+                    DebugPromoControls(promoStore: appModel.promoStore)
                 }
                 #endif
             }
@@ -193,17 +208,39 @@ struct ProfileView: View {
 }
 
 #if DEBUG
-/// Tiny wrapper so the DEBUG premium toggle observes PlaybackBudget directly
-/// without forcing the whole ProfileView to re-render on every cup-drain tick.
+/// Tiny wrapper so the DEBUG premium toggle observes EntitlementStore directly
+/// without forcing the whole ProfileView to re-render.
 private struct DebugPremiumToggle: View {
-    @ObservedObject var playbackBudget: PlaybackBudget
+    @ObservedObject var entitlementStore: EntitlementStore
 
     var body: some View {
-        Toggle(isOn: Binding(
-            get: { playbackBudget.isPremium },
-            set: { playbackBudget.setPremium($0) }
-        )) {
+        Toggle(isOn: $entitlementStore.debugOverride) {
             Label("Premium (∞ time)", systemImage: "infinity")
+        }
+    }
+}
+
+/// DEBUG promo controls: re-grant or wipe the onboarding 7-day promo so the
+/// countdown / expiry warning can be re-tested without uninstalling the app.
+private struct DebugPromoControls: View {
+    @ObservedObject var promoStore: PromoStore
+
+    var body: some View {
+        HStack {
+            Label("Promo", systemImage: "gift")
+            Spacer()
+            Text(promoStore.daysRemaining.map { "\($0)d" } ?? "—")
+                .font(.caption.monospacedDigit())
+                .foregroundStyle(.secondary)
+            Button("Reset") {
+                promoStore.debugReset()
+                UserDefaults.standard.removeObject(forKey: "promo_warned_at_1d_v1")
+                UserDefaults.standard.removeObject(forKey: "promo_warned_at_2d_v1")
+                UserDefaults.standard.removeObject(forKey: "promo_expiry_paywall_shown_v1")
+            }
+            .buttonStyle(.bordered)
+            Button("Grant") { promoStore.grantOnboardingPromo() }
+                .buttonStyle(.borderedProminent)
         }
     }
 }
@@ -864,5 +901,118 @@ private struct LanguagePickerView: View {
         .navigationTitle(title)
         .navigationBarTitleDisplayMode(.inline)
         }
+    }
+}
+
+// MARK: - Subscription status row
+
+/// Top-of-profile row that flips between two states based on
+/// `subscriptionManager.isSubscribed`. Subscribed users get a manage-sub
+/// shortcut; everyone else gets an upgrade affordance routed back to the
+/// shared paywall presenter via `onOpenSubscribe`.
+private struct SubscriptionStatusRow: View {
+    @ObservedObject var subscriptionManager: SubscriptionManager
+    @ObservedObject var entitlementStore: EntitlementStore
+    let nativeLanguage: String
+    let onOpenSubscribe: () -> Void
+
+    private var gold: Color { Color.lllbRingColors[3] }
+
+    var body: some View {
+        Group {
+            if subscriptionManager.isSubscribed {
+                subscribedRow
+            } else {
+                upgradeRow
+            }
+        }
+    }
+
+    // MARK: subscribed
+    //
+    // Read-only by design — cancel / change plan goes through Settings →
+    // Apple ID → Subscriptions (Apple's standard path). Keeping it out of
+    // the app per product decision: avoid surfacing the cancel button.
+
+    private var subscribedRow: some View {
+        HStack(spacing: 12) {
+            Image(systemName: "crown.fill")
+                .font(.system(size: 16, weight: .semibold))
+                .foregroundStyle(gold)
+                .frame(width: 24)
+            VStack(alignment: .leading, spacing: 2) {
+                Text("LLLB Pro")
+                    .font(.system(size: 16, weight: .semibold))
+                    .foregroundStyle(Color.primary)
+                Text(subscribedSubtitle)
+                    .font(.caption)
+                    .foregroundStyle(Color.secondary)
+            }
+            Spacer()
+        }
+    }
+
+    private var subscribedSubtitle: String {
+        let plan: String
+        if subscriptionManager.activeProductID == SubscriptionManager.yearlyProductID {
+            plan = L("年付", "Yearly", nativeLanguage: nativeLanguage)
+        } else if subscriptionManager.activeProductID == SubscriptionManager.monthlyProductID {
+            plan = L("月付", "Monthly", nativeLanguage: nativeLanguage)
+        } else {
+            plan = L("已订阅", "Active", nativeLanguage: nativeLanguage)
+        }
+        guard let expiry = subscriptionManager.expiresAt else { return plan }
+        let formatter = DateFormatter()
+        formatter.dateStyle = .medium
+        formatter.locale    = Locale(identifier: nativeLanguage == "zh" ? "zh_CN" : "en_US")
+        let dateStr = formatter.string(from: expiry)
+        if subscriptionManager.willRenew {
+            return plan + " · " + L("下次续订 \(dateStr)",
+                                     "Renews \(dateStr)",
+                                     nativeLanguage: nativeLanguage)
+        }
+        return plan + " · " + L("到期 \(dateStr)",
+                                 "Expires \(dateStr)",
+                                 nativeLanguage: nativeLanguage)
+    }
+
+    // MARK: upgrade
+
+    private var upgradeRow: some View {
+        Button {
+            Haptics.medium()
+            onOpenSubscribe()
+        } label: {
+            HStack(spacing: 12) {
+                Image(systemName: "infinity")
+                    .font(.system(size: 16, weight: .heavy))
+                    .foregroundStyle(gold)
+                    .frame(width: 24)
+                VStack(alignment: .leading, spacing: 2) {
+                    Text(L("升级 LLLB Pro", "Upgrade to LLLB Pro", nativeLanguage: nativeLanguage))
+                        .font(.system(size: 16, weight: .semibold))
+                        .foregroundStyle(Color.primary)
+                    Text(upgradeSubtitle)
+                        .font(.caption)
+                        .foregroundStyle(Color.secondary)
+                }
+                Spacer()
+                Image(systemName: "chevron.right")
+                    .font(.caption.weight(.semibold))
+                    .foregroundStyle(Color.secondary.opacity(0.55))
+            }
+        }
+        .buttonStyle(.plain)
+    }
+
+    /// Promo-aware subtitle: while the 7-day welcome promo is still running,
+    /// remind the user how much is left rather than just hyping the upgrade.
+    private var upgradeSubtitle: String {
+        if let days = entitlementStore.promoDaysRemaining, entitlementStore.isPromoActive {
+            return L("新人礼包还剩 \(days) 天 🎁",
+                     "Welcome gift — \(days) days left 🎁",
+                     nativeLanguage: nativeLanguage)
+        }
+        return L("无限学习时间", "Unlimited learning time", nativeLanguage: nativeLanguage)
     }
 }

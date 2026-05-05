@@ -11,6 +11,10 @@ struct CoffeeCupView: View {
     /// Total height of the cup glyph (lid + body) in points.
     var size: CGFloat = 24
 
+    /// Visible fill ratio — premium overrides the real cup level so the cup
+    /// reads as full whenever the user has unlimited time.
+    private var displayProgress: Double { isPremium ? 1 : progress }
+
     /// Color tier for the coffee — shifts amber → red as it drains.
     private var fillColor: Color {
         if isPremium { return Self.coffeeBrown }
@@ -56,7 +60,7 @@ struct CoffeeCupView: View {
                 CupBodyShape()
                     .fill(fillColor)
                     .mask(alignment: .bottom) {
-                        Rectangle().frame(height: bodyHeight * progress)
+                        Rectangle().frame(height: bodyHeight * displayProgress)
                     }
 
                 // Tick marks at 1/3 and 2/3 — visible "measuring cup" feel
@@ -147,6 +151,9 @@ struct CoffeeRefillMenu: View {
     /// Candy needed to top the cup back to capacity (0 when already full).
     let topUpCost:       Int
     let isPremium:       Bool
+    /// When non-nil, the unlimited card shows a "X days left" countdown — the
+    /// onboarding promo is the source. Nil for subscriptions or DEBUG override.
+    var promoDaysRemaining: Int? = nil
     let onUseCandy:  () -> Void
     let onTopUp:     () -> Void
     let onWatchAd:   () -> Void
@@ -177,14 +184,15 @@ struct CoffeeRefillMenu: View {
 
     private var premiumCard: some View {
         VStack(spacing: 14) {
-            Image(systemName: "infinity")
+            Image(systemName: promoDaysRemaining != nil ? "gift.fill" : "infinity")
                 .font(.system(size: 38, weight: .heavy))
                 .foregroundStyle(Color.lllbRingColors[3])
             Text(L("无限时间", "Unlimited time", nativeLanguage: nativeLanguage))
                 .font(.system(size: 17, weight: .semibold))
-            Text(L("感谢订阅 ☕️", "Thanks for subscribing ☕️", nativeLanguage: nativeLanguage))
+            Text(premiumSubtitle)
                 .font(.system(size: 13))
                 .foregroundStyle(.secondary)
+                .multilineTextAlignment(.center)
         }
         .padding(.vertical, 28)
         .padding(.horizontal, 32)
@@ -194,6 +202,22 @@ struct CoffeeRefillMenu: View {
                 .stroke(Color.lllbCellStroke, lineWidth: 0.5)
         )
         .onTapGesture {}    // swallow taps inside
+    }
+
+    /// Subtitle copy depends on what's granting the unlimited time.
+    /// Promo gets a countdown; subscription / DEBUG gets a thanks message.
+    private var premiumSubtitle: String {
+        if let days = promoDaysRemaining {
+            if days == 1 {
+                return L("新人礼包还剩最后 1 天 🎁",
+                         "Welcome gift — 1 day left 🎁",
+                         nativeLanguage: nativeLanguage)
+            }
+            return L("新人礼包还剩 \(days) 天 🎁",
+                     "Welcome gift — \(days) days left 🎁",
+                     nativeLanguage: nativeLanguage)
+        }
+        return L("感谢订阅 ☕️", "Thanks for subscribing ☕️", nativeLanguage: nativeLanguage)
     }
 
     // MARK: - Refill variant

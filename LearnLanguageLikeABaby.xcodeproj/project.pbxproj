@@ -49,11 +49,17 @@
 		A1000053 /* Raleway-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A2000053 /* Raleway-Bold.ttf */; };
 		A1000060 /* PoolUnlockSelector.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000060 /* PoolUnlockSelector.swift */; };
 		A1000061 /* placement_fr.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000061 /* placement_fr.json */; };
+		A1000081 /* placement_zh.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000081 /* placement_zh.json */; };
+		A1000082 /* placement_en.json in Resources */ = {isa = PBXBuildFile; fileRef = A2000082 /* placement_en.json */; };
 		A1000062 /* PlacementTestModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000062 /* PlacementTestModel.swift */; };
 		A1000063 /* PlacementTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000063 /* PlacementTestView.swift */; };
 		A1000064 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000064 /* OnboardingView.swift */; };
 		A1000065 /* Haptics.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000065 /* Haptics.swift */; };
 		A1000066 /* PlaybackBudget.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000066 /* PlaybackBudget.swift */; };
+		A1000090 /* EntitlementStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000090 /* EntitlementStore.swift */; };
+		A1000091 /* PromoStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000091 /* PromoStore.swift */; };
+		A1000092 /* SubscriptionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000092 /* SubscriptionManager.swift */; };
+		A1000093 /* PaywallView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000093 /* PaywallView.swift */; };
 		A1000067 /* CoffeeCupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000067 /* CoffeeCupView.swift */; };
 		A1000080 /* iCloudSync.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000080 /* iCloudSync.swift */; };
 		A1000070 /* HanziStrokeData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000070 /* HanziStrokeData.swift */; };
@@ -137,11 +143,18 @@
 		A2000053 /* Raleway-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Bold.ttf"; sourceTree = "<group>"; };
 		A2000060 /* PoolUnlockSelector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoolUnlockSelector.swift; sourceTree = "<group>"; };
 		A2000061 /* placement_fr.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = placement_fr.json; sourceTree = "<group>"; };
+		A2000081 /* placement_zh.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = placement_zh.json; sourceTree = "<group>"; };
+		A2000082 /* placement_en.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = placement_en.json; sourceTree = "<group>"; };
 		A2000062 /* PlacementTestModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacementTestModel.swift; sourceTree = "<group>"; };
 		A2000063 /* PlacementTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlacementTestView.swift; sourceTree = "<group>"; };
 		A2000064 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		A2000065 /* Haptics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Haptics.swift; sourceTree = "<group>"; };
 		A2000066 /* PlaybackBudget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaybackBudget.swift; sourceTree = "<group>"; };
+		A2000090 /* EntitlementStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntitlementStore.swift; sourceTree = "<group>"; };
+		A2000091 /* PromoStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PromoStore.swift; sourceTree = "<group>"; };
+		A2000092 /* SubscriptionManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriptionManager.swift; sourceTree = "<group>"; };
+		A2000093 /* PaywallView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaywallView.swift; sourceTree = "<group>"; };
+		A2000094 /* Subscription.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Subscription.storekit; sourceTree = "<group>"; };
 		A2000067 /* CoffeeCupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeCupView.swift; sourceTree = "<group>"; };
 		A2000080 /* iCloudSync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iCloudSync.swift; sourceTree = "<group>"; };
 		A2000070 /* HanziStrokeData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HanziStrokeData.swift; sourceTree = "<group>"; };
@@ -211,6 +224,8 @@
 				A2000064 /* OnboardingView.swift */,
 				A2000065 /* Haptics.swift */,
 				A2000067 /* CoffeeCupView.swift */,
+				A2000093 /* PaywallView.swift */,
+				A2000094 /* Subscription.storekit */,
 				A2000024 /* LanguageConfig.swift */,
 				A2000025 /* AppModel.swift */,
 				A2000030 /* UsageTimeTracker.swift */,
@@ -260,6 +275,9 @@
 				A2000060 /* PoolUnlockSelector.swift */,
 				A2000062 /* PlacementTestModel.swift */,
 				A2000066 /* PlaybackBudget.swift */,
+				A2000090 /* EntitlementStore.swift */,
+				A2000091 /* PromoStore.swift */,
+				A2000092 /* SubscriptionManager.swift */,
 				A2000080 /* iCloudSync.swift */,
 			);
 			path = Services;
@@ -275,6 +293,8 @@
 				A2000009 /* sentences_fr.json */,
 				A200000F /* word_table_fr.json */,
 				A2000061 /* placement_fr.json */,
+				A2000081 /* placement_zh.json */,
+				A2000082 /* placement_en.json */,
 				A2000028 /* sentences_ja.json */,
 				A2000029 /* word_table_ja.json */,
 				A200002A /* sentences_ko.json */,
@@ -408,6 +428,8 @@
 				A1000009 /* sentences_fr.json in Resources */,
 				A100000E /* word_table_fr.json in Resources */,
 				A1000061 /* placement_fr.json in Resources */,
+				A1000081 /* placement_zh.json in Resources */,
+				A1000082 /* placement_en.json in Resources */,
 				A1000028 /* sentences_ja.json in Resources */,
 				A1000029 /* word_table_ja.json in Resources */,
 				A100002A /* sentences_ko.json in Resources */,
@@ -452,6 +474,10 @@
 				A1000064 /* OnboardingView.swift in Sources */,
 				A1000065 /* Haptics.swift in Sources */,
 				A1000066 /* PlaybackBudget.swift in Sources */,
+				A1000090 /* EntitlementStore.swift in Sources */,
+				A1000091 /* PromoStore.swift in Sources */,
+				A1000092 /* SubscriptionManager.swift in Sources */,
+				A1000093 /* PaywallView.swift in Sources */,
 				A1000067 /* CoffeeCupView.swift in Sources */,
 				A1000080 /* iCloudSync.swift in Sources */,
 				A1000011 /* ProfileView.swift in Sources */,

@@ -51,7 +51,10 @@ struct ProgressRing: View {
                 .stroke(color.opacity(trackOpacity), lineWidth: lineWidth)
 
             // Total arc — lighter when two-tone (so the active overlay reads
-            // as "the deeper part") otherwise full color.
+            // as "the deeper part") otherwise full color. Shadow breathes
+            // while achieved; the breathing animation is scoped to this
+            // circle only so it doesn't bleed into the trim animation when
+            // isAchieved flips on collect.
             Circle()
                 .trim(from: 0, to: CGFloat(progress.clamped(to: 0...1)))
                 .stroke(
@@ -62,6 +65,12 @@ struct ProgressRing: View {
                 .shadow(
                     color: isAchieved ? color.opacity(pulse ? 0.85 : 0.25) : .clear,
                     radius: isAchieved ? (pulse ? max(4, diameter * 0.10) : 1) : 0
+                )
+                .animation(
+                    isAchieved
+                        ? .easeInOut(duration: 1.4).repeatForever(autoreverses: true)
+                        : nil,
+                    value: pulse
                 )
 
             // Two-tone overlay: 主动 portion on top
@@ -79,15 +88,13 @@ struct ProgressRing: View {
                         Color.white.opacity(pulse ? 0.92 : 0.18),
                         style: StrokeStyle(lineWidth: lineWidth, lineCap: .butt)
                     )
+                    .animation(
+                        .easeInOut(duration: 1.4).repeatForever(autoreverses: true),
+                        value: pulse
+                    )
             }
         }
         .frame(width: diameter, height: diameter)
-        .animation(
-            isAchieved
-                ? .easeInOut(duration: 1.4).repeatForever(autoreverses: true)
-                : .default,
-            value: pulse
-        )
         .onAppear { if isAchieved { pulse = true } }
         .onChange(of: isAchieved) { if $0 { pulse = true } else { pulse = false } }
     }

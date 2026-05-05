@@ -18,6 +18,7 @@ struct ContentView: View {
     @ObservedObject var usageTracker:       UsageTimeTracker   = .init()
     @ObservedObject var achievementManager: AchievementManager = .init()
     @ObservedObject var playbackBudget:     PlaybackBudget     = .init()
+    @ObservedObject var entitlementStore:   EntitlementStore
     var onboardingCompleted: Bool = true
     var onCollectMilestones: () -> Void = {}
     var onUseCandyForRefill: () -> Void = {}
@@ -350,6 +351,24 @@ struct ContentView: View {
         }
         .sheet(isPresented: $showSpeedPopover)   { speedSheet }
         .sheet(isPresented: $showRepeatsPopover) { repeatsSheet }
+        // Promo expiry reminder: the first time the user enters ContentView
+        // with daysRemaining == 2 (and again at 1), pop the cup menu so the
+        // countdown is unmissable. Per-threshold flag in UserDefaults keeps
+        // it to a single popup per remaining-day count.
+        .onAppear { checkPromoExpiryWarning() }
+        .onReceive(usageTracker.$todayMinutes) { _ in checkPromoExpiryWarning() }
+    }
+
+    private func checkPromoExpiryWarning() {
+        guard entitlementStore.isPromoActive,
+              let days = entitlementStore.promoDaysRemaining,
+              days == 1 || days == 2
+        else { return }
+        let key = "promo_warned_at_\(days)d_v1"
+        guard !UserDefaults.standard.bool(forKey: key) else { return }
+        UserDefaults.standard.set(true, forKey: key)
+        showRefillMenu = true
+        Haptics.medium()
     }
 
     // MARK: - Top bar
@@ -1063,7 +1082,9 @@ struct ContentView: View {
             canRefillSingle: playbackBudget.canRefillSingle,
             canTopUp:        playbackBudget.canTopUp,
             topUpCost:       playbackBudget.topUpCost,
-            isPremium:       playbackBudget.isPremium,
+            isPremium:       entitlementStore.isUnlimited,
+            promoDaysRemaining: entitlementStore.isPromoActive
+                                ? entitlementStore.promoDaysRemaining : nil,
             onUseCandy: {
                 Haptics.success()
                 onUseCandyForRefill()
@@ -1091,7 +1112,7 @@ struct ContentView: View {
     // MARK: - Coffee cup (playback budget)
 
     private var coffeeCupButton: some View {
-        return CoffeeCupView(progress: playbackBudget.progress(), isPremium: playbackBudget.isPremium, size: 26)
+        return CoffeeCupView(progress: playbackBudget.progress(), isPremium: entitlementStore.isUnlimited, size: 26)
             .contentShape(Rectangle())
             .onTapGesture {
                 Haptics.light()

@@ -9,7 +9,14 @@ struct RootView: View {
     @State private var showProfile = false
     @State private var sessionPausedByProfile = false
     @State private var showRestoreToast = false
+    @State private var showPaywall = false
+    @State private var showWelcomeGift = false
     @AppStorage("onboardingCompleted_v1") private var onboardingCompleted = false
+    /// One-shot flag so the "🎁 7 days unlimited" card only ever appears once
+    /// — at the very first run after onboarding. Persisted (not KVS-synced
+    /// because cross-device replay isn't a concern: the gift itself is
+    /// already KVS-protected via PromoStore).
+    @AppStorage("welcome_gift_shown_v1") private var welcomeGiftShown = false
 
     var body: some View {
         ZStack {
@@ -27,6 +34,19 @@ struct RootView: View {
             if showRestoreToast {
                 restoreToast.zIndex(1000)
             }
+            if showWelcomeGift {
+                WelcomeGiftCard(
+                    nativeLanguage: appModel.candyStore.nativeLanguage,
+                    days:           appModel.promoStore.daysRemaining ?? PromoStore.onboardingPromoDays,
+                    onDismiss: {
+                        Haptics.success()
+                        welcomeGiftShown = true
+                        withAnimation(.easeOut(duration: 0.25)) { showWelcomeGift = false }
+                    }
+                )
+                .zIndex(900)
+                .transition(.opacity.combined(with: .scale(scale: 0.96)))
+            }
         }
         .onAppear {
             if iCloudSync.shared.didRestoreFromCloud && !showRestoreToast {
@@ -35,6 +55,24 @@ struct RootView: View {
                     withAnimation(.easeIn(duration: 0.4)) { showRestoreToast = false }
                 }
             }
+            checkWelcomeGift()
+        }
+        .onChange(of: onboardingCompleted) { done in
+            // Onboarding just completed → promo was just granted →
+            // show the welcome card on the next runloop tick.
+            if done { checkWelcomeGift() }
+        }
+    }
+
+    /// Show the welcome gift card iff: onboarding finished, the promo is
+    /// active (i.e. the user is genuinely new), and we haven't shown it yet.
+    private func checkWelcomeGift() {
+        guard onboardingCompleted,
+              !welcomeGiftShown,
+              appModel.promoStore.isActive
+        else { return }
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.35) {
+            withAnimation(.easeOut(duration: 0.3)) { showWelcomeGift = true }
         }
     }
 
@@ -65,6 +103,7 @@ struct RootView: View {
             usageTracker:        appModel.usageTimeTracker,
             achievementManager:  appModel.achievementManager,
             playbackBudget:      appModel.playbackBudget,
+            entitlementStore:    appModel.entitlementStore,
             onboardingCompleted: onboardingCompleted,
             onCollectMilestones: {
                 appModel.achievementManager.collectPending(candyStore: appModel.candyStore)
@@ -93,17 +132,34 @@ struct RootView: View {
                 appModel.activeSession.resume()
             },
             onOpenSubscribe: {
-                // Paywall + StoreKit not wired yet. For now, route to Profile
-                // where the developer-only premium toggle lives so QA can flip
-                // the cup state to ∞ end-to-end.
-                showProfile = true
+                showPaywall = true
             }
         )
         .sheet(isPresented: $showProfile) {
             ProfileView(
                 appModel:                   appModel,
-                selectedLearningLanguageID: $appModel.selectedLearningLanguageID
+                selectedLearningLanguageID: $appModel.selectedLearningLanguageID,
+                onOpenSubscribe: {
+                    // Dismiss profile first so the paywall presents from the
+                    // base view (cleaner than stacking a fullScreenCover on
+                    // top of a sheet). 0.4s lets the sheet drop before the
+                    // paywall slides up.
+                    showProfile = false
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) {
+                        showPaywall = true
+                    }
+                }
             )
+        }
+        .fullScreenCover(isPresented: $showPaywall) {
+            PaywallView(
+                subscriptionManager: appModel.subscriptionManager,
+                nativeLanguage:      appModel.candyStore.nativeLanguage,
+                onDismiss:           { showPaywall = false }
+            )
+        }
+        .onReceive(appModel.entitlementStore.objectWillChange) { _ in
+            checkPromoExpiryPaywall()
         }
         .onChange(of: showProfile) { isShown in
             if isShown {
@@ -172,6 +228,23 @@ struct RootView: View {
         }
     }
 
+    /// Show the paywall once when the onboarding 7-day promo has expired and
+    /// the user hasn't subscribed. The flag is iCloud-synced so a reinstall
+    /// after expiry doesn't re-trigger.
+    private func checkPromoExpiryPaywall() {
+        guard onboardingCompleted else { return }
+        guard let expiry = appModel.promoStore.expiresAt, expiry <= Date() else { return }
+        guard !appModel.subscriptionManager.isSubscribed else { return }
+        let key = "promo_expiry_paywall_shown_v1"
+        guard !UserDefaults.standard.bool(forKey: key) else { return }
+        UserDefaults.standard.set(true, forKey: key)
+        // Tiny delay so SwiftUI doesn't try to present during a state-change
+        // pass — the paywall is a fullScreenCover and likes a clean turn.
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) {
+            showPaywall = true
+        }
+    }
+
     private func setupActiveFlag() {
         let activeID = appModel.selectedLearningLanguageID
         for s in appModel.availableSessions {
@@ -186,4 +259,63 @@ struct RootView: View {
 
 #Preview {
     RootView()
+}
+
+// MARK: - Welcome gift card
+
+/// One-shot welcome card shown right after onboarding when the 7-day promo
+/// has just been granted. Modal, non-tap-to-dismiss — the user must tap the
+/// CTA so the gift "lands" before the home screen takes focus.
+private struct WelcomeGiftCard: View {
+    let nativeLanguage: String
+    let days: Int
+    let onDismiss: () -> Void
+
+    private var gold: Color { Color.lllbRingColors[3] }
+
+    var body: some View {
+        ZStack {
+            Color.black.opacity(0.45)
+                .ignoresSafeArea()
+
+            VStack(spacing: 20) {
+                ZStack {
+                    Circle()
+                        .fill(gold.opacity(0.18))
+                        .frame(width: 92, height: 92)
+                    Image(systemName: "gift.fill")
+                        .font(.system(size: 44, weight: .heavy))
+                        .foregroundStyle(gold)
+                }
+                .padding(.top, 30)
+
+                VStack(spacing: 8) {
+                    Text(L("欢迎礼包", "Welcome gift", nativeLanguage: nativeLanguage))
+                        .font(.system(size: 22, weight: .bold))
+                        .foregroundStyle(Color.primary)
+                    Text(L("送你 \(days) 天无限学习时间",
+                           "\(days) days of unlimited learning, on us",
+                           nativeLanguage: nativeLanguage))
+                        .font(.system(size: 15))
+                        .foregroundStyle(Color.secondary)
+                        .multilineTextAlignment(.center)
+                        .padding(.horizontal, 28)
+                }
+
+                Button(action: onDismiss) {
+                    Text(L("立刻开始", "Let's go", nativeLanguage: nativeLanguage))
+                        .font(.system(size: 16, weight: .semibold))
+                        .foregroundStyle(.white)
+                        .padding(.horizontal, 38)
+                        .padding(.vertical, 13)
+                        .background(Color.lllbAccent, in: Capsule())
+                }
+                .buttonStyle(.plain)
+                .padding(.bottom, 28)
+            }
+            .frame(maxWidth: 320)
+            .background(.regularMaterial, in: RoundedRectangle(cornerRadius: 28, style: .continuous))
+            .padding(.horizontal, 32)
+        }
+    }
 }

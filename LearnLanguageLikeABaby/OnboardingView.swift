@@ -103,6 +103,9 @@ struct OnboardingView: View {
                             Haptics.success()
                             appModel.selectedLearningLanguageID = lang.id
                             UserDefaults.standard.set(true, forKey: "onboardingCompleted_v1")
+                            // Welcome gift: 7 days of unlimited time. Idempotent —
+                            // a previously granted user (or a reinstall) is a no-op.
+                            appModel.promoStore.grantOnboardingPromo()
                             onComplete()
                         } label: {
                             languageCard(title: lang.displayName(for: nl))

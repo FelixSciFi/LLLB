@@ -79,6 +79,14 @@ extension Color {
     /// Streak orange: #FF9500
     static let lllbStreak = Color(red: 1, green: 149/255, blue: 0)
 
+    /// Paywall navy — deep royal blue used as the LLLB Pro paywall background
+    /// (paired with `lllbRingColors[3]` gold for logo / CTA). Sourced from
+    /// the LLLB Pro app icon. Same value light + dark — the paywall is dark
+    /// by design.
+    static let lllbPaywallNavy = Color(red: 27/255, green: 61/255, blue: 143/255)
+    /// Slightly lighter navy used for product cards on the paywall background.
+    static let lllbPaywallNavyElevated = Color(red: 38/255, green: 76/255, blue: 162/255)
+
     /// Progress ring colors: [今天, 本周, 本月, 全部]
     static let lllbRingColors: [Color] = [
         Color(red: 240/255, green: 120/255, blue:  64/255),  // 今天 #F07840

@@ -14,12 +14,15 @@ final class AppModel: ObservableObject {
 
     let candyStore:           CandyStore
     let sessions:             [LessonSessionModel]   // all learning languages, fixed order
-    // These three read UserDefaults during init, so we construct them inside
+    // These read UserDefaults during init, so we construct them inside
     // `init()` *after* iCloudSync.bootstrap() has had a chance to restore from
     // KVS. Inline `= X()` would run before init body and miss the restored data.
     let usageTimeTracker:    UsageTimeTracker
     let achievementManager:  AchievementManager
     let playbackBudget:      PlaybackBudget
+    let promoStore:          PromoStore
+    let subscriptionManager: SubscriptionManager
+    let entitlementStore:    EntitlementStore
 
     // MARK: - Published state
 
@@ -81,9 +84,15 @@ final class AppModel: ObservableObject {
 
         // Construct UserDefaults-reading models AFTER the restore has had its
         // chance, so they pick up the restored values from this launch.
-        self.usageTimeTracker   = UsageTimeTracker()
-        self.achievementManager = AchievementManager()
-        self.playbackBudget     = PlaybackBudget()
+        self.usageTimeTracker    = UsageTimeTracker()
+        self.achievementManager  = AchievementManager()
+        self.playbackBudget      = PlaybackBudget()
+        self.promoStore          = PromoStore()
+        self.subscriptionManager = SubscriptionManager()
+        self.entitlementStore    = EntitlementStore(
+            promoStore:          self.promoStore,
+            subscriptionManager: self.subscriptionManager
+        )
 
         // 0. Configure shared AVAudioSession once for the whole app lifetime
         try? AVAudioSession.sharedInstance().setCategory(.playback, mode: .spokenAudio, options: [])
@@ -104,13 +113,16 @@ final class AppModel: ObservableObject {
 
         // 2. Create one session per learning language
         let budget = self.playbackBudget
+        let entitlement = self.entitlementStore
         let allSessions = LanguageConfig.learningLanguages.map { config -> LessonSessionModel in
             let s = LessonSessionModel(config: config)
             s.candyStore    = store
             s.nativeLanguage = store.nativeLanguage
             // Soft brake: cup exhaustion stops advancement to the next sentence.
             // The current sentence finishes naturally, then pause + flag UI.
-            s.shouldContinueAfterSentence = { [weak budget] in
+            // Unlimited entitlement bypasses the cup entirely.
+            s.shouldContinueAfterSentence = { [weak budget, weak entitlement] in
+                if entitlement?.isUnlimited == true { return true }
                 guard let budget else { return true }
                 return !budget.isExhausted()
             }

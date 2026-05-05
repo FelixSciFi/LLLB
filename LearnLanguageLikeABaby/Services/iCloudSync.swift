@@ -52,6 +52,13 @@ final class iCloudSync {
         "achievement_lifetime_v1",
         "achievement_period_v1",
         "achievement_pending_v1",
+        // Promo (onboarding 7-day grant). Both keys must sync so a reinstall
+        // can't re-grant another 7 days, and an in-window reinstall picks
+        // up the existing expiry rather than restarting the clock.
+        "promo_granted_at_v1",
+        "promo_expires_at_v1",
+        // Don't show the post-promo paywall a second time across devices.
+        "promo_expiry_paywall_shown_v1",
     ]
 
     /// Per-language key prefixes — each is expanded to `{prefix}{lang}`
