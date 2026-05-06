@@ -24,6 +24,7 @@ enum PlayMode: String {
     case shuffle    = "shuffle"
     case sequential = "sequential"
     case singleLoop = "singleLoop"
+    case favorites  = "favorites"
 }
 
 @MainActor
@@ -203,8 +204,11 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     @Published var focusedLemma:    String? = nil
     @Published var focusedTokenText: String = ""
 
-    @Published var favoritedIDs: Set<String> = []
-    @Published var isFavoriteMode: Bool = false
+    /// Ordered list of favorited sentence IDs. Append on favorite, remove preserving
+    /// order on un-favorite. Persisted as `[String]`. Order is "by favorite time"
+    /// (oldest first) and drives playback order in `.favorites` play mode.
+    @Published var favoritedIDs: [String] = []
+    var isFavoriteMode: Bool { playMode == .favorites }
     @Published var activatedTag: String? = nil
     private var isRandomTagMode: Bool = false
 
@@ -431,6 +435,7 @@ final class LessonSessionModel: ObservableObject, Identifiable {
             wordTable     = (try? SentenceLibrary.loadWordTable(language: config.id)) ?? []
             loadError     = nil
             loadLibrarySelection()
+            pruneOrphanedIDs()
         } catch {
             if let de = error as? DecodingError {
                 switch de {
@@ -559,13 +564,63 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         }
     }
 
-    /// Cycle: shuffle → sequential → singleLoop → shuffle.
+    /// Cycle: sequential → singleLoop → shuffle → favorites → sequential.
+    /// Skips `.favorites` when there are no favorites to play.
     func cyclePlayMode() {
+        let next: PlayMode
         switch playMode {
-        case .shuffle:    playMode = .sequential
-        case .sequential: playMode = .singleLoop
-        case .singleLoop: playMode = .shuffle
+        case .sequential: next = .singleLoop
+        case .singleLoop: next = .shuffle
+        case .shuffle:    next = favoritedIDs.isEmpty ? .sequential : .favorites
+        case .favorites:  next = .sequential
         }
+        setPlayMode(next)
+    }
+
+    /// Set play mode and run entry/exit side-effects for `.favorites` transitions.
+    func setPlayMode(_ newMode: PlayMode) {
+        let oldMode = playMode
+        guard oldMode != newMode else { return }
+        playMode = newMode
+        if newMode == .favorites {
+            enterFavoritesPlayback()
+        } else if oldMode == .favorites {
+            exitFavoritesPlayback()
+        }
+    }
+
+    private func enterFavoritesPlayback() {
+        let byID = Dictionary(uniqueKeysWithValues: mainSentences.map { ($0.id, $0) })
+        let favs = favoritedIDs.compactMap { byID[$0] }
+            .filter { !archivedIDs.contains($0.id) }
+        guard !favs.isEmpty else {
+            playMode = .sequential
+            return
+        }
+        activatedTag = nil; isRandomTagMode = false
+        focusedLemma = nil; focusedTokenText = ""
+        narration.stop(); chineseNarration.stop(); playsOnCurrent = 0
+        examplePlaylist = favs; exampleIndex = 0
+        isAutoPlaying = true
+        narration.rateMultiplier = speedMultiplier
+        chineseNarration.rateMultiplier = speedMultiplier
+        snapshotPlayCount()
+        narration.speak(favs[0])
+    }
+
+    private func exitFavoritesPlayback() {
+        examplePlaylist = nil; exampleIndex = 0; playsOnCurrent = 0
+        narration.stop(); chineseNarration.stop()
+        let filtered = filteredSentences()
+        guard !filtered.isEmpty, let pick = filtered.randomElement() else { return }
+        currentMainSentence = pick
+        mainPlaylist.append(pick.id)
+        mainPlaylistIndex = mainPlaylist.count - 1
+        if mainPlaylist.count > 21 {
+            mainPlaylist.removeFirst()
+            mainPlaylistIndex -= 1
+        }
+        if isAutoPlaying { beginCurrentSentence() }
     }
 
     /// Snapshots the lifetime play count for the currently displayed sentence into
@@ -683,6 +738,11 @@ final class LessonSessionModel: ObservableObject, Identifiable {
 
         let chosen: LessonSentence
         switch playMode {
+        case .favorites:
+            // .favorites drives playback through examplePlaylist; this entry point
+            // is a defensive no-op if reached without an active playlist.
+            return
+
         case .sequential, .singleLoop:
             // Pool-order walk. Priority:
             // 1. Resume hint (post-splice / post-archive) — overrides current's position
@@ -793,10 +853,15 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     // MARK: - Branch / focus / favorite
 
     func dismissVoiceBranch() {
+        // Favorites is now a play mode — exiting routes through setPlayMode so the
+        // entry/exit transitions stay coherent (random pool resume, etc.).
+        if playMode == .favorites {
+            setPlayMode(.sequential)
+            return
+        }
         activatedTag = nil; isRandomTagMode = false
         narration.stop(); chineseNarration.stop()
         examplePlaylist = nil; exampleIndex = 0; playsOnCurrent = 0
-        isFavoriteMode  = false
         focusedLemma    = nil; focusedTokenText = ""
         let mains = filteredSentences()
         guard !mains.isEmpty else { return }
@@ -824,13 +889,7 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     }
 
     func enterFavoriteMode() {
-        let favSentences = filteredSentences().filter { favoritedIDs.contains($0.id) }
-        guard !favSentences.isEmpty else { return }
-        isFavoriteMode = true
-        activatedTag = nil; isRandomTagMode = false
-        narration.stop(); chineseNarration.stop(); playsOnCurrent = 0
-        examplePlaylist = favSentences.shuffled(); exampleIndex = 0
-        if let ex = examplePlaylist, !ex.isEmpty { snapshotPlayCount(); narration.speak(ex[0]) }
+        setPlayMode(.favorites)
     }
 
     func activateTag(_ name: String) {
@@ -847,7 +906,7 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         activatedTag = name
         isRandomTagMode = !isOrdered
         narration.stop(); chineseNarration.stop(); playsOnCurrent = 0
-        isFavoriteMode = false
+        if playMode == .favorites { playMode = .sequential }
         focusedLemma = nil; focusedTokenText = ""
         if isOrdered {
             examplePlaylist = tagSentences.sorted {
@@ -869,7 +928,17 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     }
 
     func toggleFavorite(for id: String) {
-        if favoritedIDs.contains(id) { favoritedIDs.remove(id) } else { favoritedIDs.insert(id) }
+        if let idx = favoritedIDs.firstIndex(of: id) {
+            favoritedIDs.remove(at: idx)
+            // If this drained the favorites list while the user is in favorites
+            // mode, fall back to sequential so the UI doesn't strand on an empty
+            // playlist.
+            if playMode == .favorites && favoritedIDs.isEmpty {
+                setPlayMode(.sequential)
+            }
+        } else {
+            favoritedIDs.append(id)
+        }
         saveFavorites()
     }
 
@@ -887,7 +956,7 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         case .mastered: masteredIDs.insert(id)
         case .later:    laterIDs.insert(id)
         }
-        favoritedIDs.remove(id)
+        if let fIdx = favoritedIDs.firstIndex(of: id) { favoritedIDs.remove(at: fIdx) }
         familiarIDs.remove(id)
         // Capture sequential resume target before mutating pool: the ID that was
         // right after the archived sentence in pool order.
@@ -984,7 +1053,8 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         narration.stop(); chineseNarration.stop()
         playsOnCurrent = 0; mainPlaylist = []; mainPlaylistIndex = -1
         examplePlaylist = nil; exampleIndex = 0
-        isFavoriteMode = false; focusedLemma = nil; focusedTokenText = ""
+        if playMode == .favorites { playMode = .sequential }
+        focusedLemma = nil; focusedTokenText = ""
         let pick = filtered.randomElement()!
         mainPlaylist = [pick.id]; mainPlaylistIndex = 0
         currentMainSentence = pick
@@ -995,16 +1065,22 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     // MARK: - Persistence helpers
 
     private func saveFavorites() {
-        UserDefaults.standard.set(Array(favoritedIDs), forKey: favoritesStorageKey)
+        UserDefaults.standard.set(favoritedIDs, forKey: favoritesStorageKey)
     }
     private func loadFavorites() {
         if let arr = UserDefaults.standard.stringArray(forKey: favoritesStorageKey) {
-            favoritedIDs = Set(arr); return
+            // Dedup defensively in case an older Set-roundtripped store has duplicates;
+            // preserve first-seen order to match "by favorite time" semantics.
+            var seen: Set<String> = []
+            favoritedIDs = arr.filter { seen.insert($0).inserted }
+            return
         }
         // One-time migration from old flat key (French only)
         if config.id == "fr",
            let legacy = UserDefaults.standard.stringArray(forKey: "favoritedIDs") {
-            favoritedIDs = Set(legacy); saveFavorites()
+            var seen: Set<String> = []
+            favoritedIDs = legacy.filter { seen.insert($0).inserted }
+            saveFavorites()
         } else {
             favoritedIDs = []
         }
@@ -1027,6 +1103,35 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     private func loadPool() {
         if let arr = UserDefaults.standard.stringArray(forKey: poolStorageKey) {
             pool = arr
+        }
+    }
+
+    /// Drop sentence IDs that no longer exist in the loaded library. Called after
+    /// `loadLibrary()` populates `mainSentences` so that any persisted ID cluster
+    /// (pool, pending candidate cards, currentMainSentence) reflects only sentences
+    /// that can actually be played. Without this, `pool.count` is artificially
+    /// inflated by deleted IDs, breaking the deficit-driven refill in
+    /// `tryUnlockAfterArchive` and `ensurePoolFilled`.
+    private func pruneOrphanedIDs() {
+        let valid = Set(mainSentences.map(\.id))
+
+        let prunedPool = pool.filter { valid.contains($0) }
+        if prunedPool.count != pool.count {
+            pool = prunedPool
+            savePool()
+        }
+
+        let prunedGroups: [[String]] = pendingCandidateGroups
+            .map { $0.filter { valid.contains($0) } }
+            .filter { !$0.isEmpty }
+        if prunedGroups != pendingCandidateGroups {
+            pendingCandidateGroups = prunedGroups
+            pendingPicksRemaining  = min(pendingPicksRemaining, prunedGroups.count)
+            savePendingCandidates()
+        }
+
+        if let cms = currentMainSentence, !valid.contains(cms.id) {
+            currentMainSentence = nil
         }
     }
     private func savePendingCandidates() {

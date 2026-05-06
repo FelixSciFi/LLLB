@@ -7,6 +7,10 @@ struct ProgressRingsSmall: View {
     let achieved:   [Bool]     // which dimensions have pending milestones
 
     @State private var startAngles: [Double] = [0, 0, 0, 0]
+    /// Per-ring extra rotation. On appear each ring kicks off at ±360° and
+    /// animates to 0, so the random start-angle reveal looks like a one-turn
+    /// spin into place. Direction is randomized per ring for variety.
+    @State private var spinOffsets: [Double] = [0, 0, 0, 0]
 
     var body: some View {
         HStack(spacing: 3) {
@@ -20,10 +24,17 @@ struct ProgressRingsSmall: View {
                     trackOpacity: 0.10,
                     isAchieved:   achieved[i]
                 )
+                .rotationEffect(.degrees(spinOffsets[i]))
             }
         }
         .onAppear {
             startAngles = (0..<4).map { _ in Double.random(in: 0..<360) }
+            spinOffsets = (0..<4).map { _ in Bool.random() ? 360 : -360 }
+            DispatchQueue.main.async {
+                withAnimation(.easeOut(duration: 0.7)) {
+                    spinOffsets = [0, 0, 0, 0]
+                }
+            }
         }
     }
 }

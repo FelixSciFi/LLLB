@@ -34,11 +34,18 @@ struct ProfileView: View {
 
                 // ── Language settings ──────────────────────────────────────
                 Section(header: Text(L("语言", "Language", nativeLanguage: nl))) {
-                    // Learning language — excludes current native language
+                    // Learning language — full list shown; user's native language
+                    // is rendered greyed-out with a hint rather than hidden, so the
+                    // picker doesn't look mysteriously short.
                     NavigationLink {
                         LanguagePickerView(
                             title: L("学习语言", "Learning Language", nativeLanguage: nl),
-                            languages: LanguageConfig.releasedLearningLanguages.filter { $0.id != candyStore.nativeLanguage },
+                            languages: LanguageConfig.releasedLearningLanguages,
+                            disabledHint: { id in
+                                id == candyStore.nativeLanguage
+                                    ? L("你的母语", "Your native language", nativeLanguage: nl)
+                                    : nil
+                            },
                             selectedID: $selectedLearningLanguageID,
                             nativeLanguage: nl
                         )
@@ -54,11 +61,17 @@ struct ProfileView: View {
                         }
                     }
 
-                    // Native / interface language — excludes current learning language
+                    // Native / interface language — full list shown; current learning
+                    // language is greyed-out with a hint (mirrors learning picker UX).
                     NavigationLink {
                         LanguagePickerView(
                             title: L("母语", "Native Language", nativeLanguage: nl),
-                            languages: LanguageConfig.uiLanguages.filter { $0.id != selectedLearningLanguageID },
+                            languages: LanguageConfig.uiLanguages,
+                            disabledHint: { id in
+                                id == selectedLearningLanguageID
+                                    ? L("正在学这个语言", "You're learning this", nativeLanguage: nl)
+                                    : nil
+                            },
                             selectedID: Binding(
                                 get: { candyStore.nativeLanguage },
                                 set: { candyStore.nativeLanguage = $0 }
@@ -872,6 +885,11 @@ private struct LanguageStoreContent: View {
 private struct LanguagePickerView: View {
     let title:          String
     let languages:      [LanguageConfig]
+    /// Returns a hint string (e.g. "你的母语") if the language ID should be shown
+    /// but disabled; nil means selectable. Disabled rows render greyed-out with
+    /// the hint and don't react to taps. Lets the picker show the full language
+    /// list rather than a confusingly filtered subset.
+    var disabledHint:   (String) -> String? = { _ in nil }
     @Binding var selectedID: String
     let nativeLanguage: String
 
@@ -880,21 +898,34 @@ private struct LanguagePickerView: View {
         Color.lllbBackground.ignoresSafeArea()
         List {
             ForEach(languages) { lang in
+                let hint = disabledHint(lang.id)
+                let disabled = hint != nil
                 Button {
+                    guard !disabled else { return }
                     selectedID = lang.id
                 } label: {
                     HStack(spacing: 12) {
                         Text(lang.flag).font(.title2)
-                        Text(lang.displayName(for: nativeLanguage))
-                            .foregroundStyle(.primary)
+                        VStack(alignment: .leading, spacing: 2) {
+                            Text(lang.displayName(for: nativeLanguage))
+                                .foregroundStyle(.primary)
+                            if let hint {
+                                Text(hint)
+                                    .font(.caption)
+                                    .foregroundStyle(.secondary)
+                            }
+                        }
                         Spacer()
                         if lang.id == selectedID {
                             Image(systemName: "checkmark")
                                 .foregroundStyle(.tint)
                         }
                     }
+                    .contentShape(Rectangle())
+                    .opacity(disabled ? 0.4 : 1)
                 }
                 .buttonStyle(.plain)
+                .disabled(disabled)
             }
         }
         .scrollContentBackground(.hidden)

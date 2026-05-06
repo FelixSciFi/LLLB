@@ -28,7 +28,6 @@ struct ContentView: View {
     @State private var showLibraryPicker  = false
     @State private var showSpeedPopover   = false
     @State private var showRepeatsPopover = false
-    @State private var archiveExpanded    = false
     @State private var showRingsOverlay   = false
     @State private var showCollectCard    = false
     @State private var showCelebration    = false
@@ -63,16 +62,6 @@ struct ContentView: View {
                 .ignoresSafeArea()
                 .animation(.easeInOut(duration: 0.3), value: session.focusedLemma)
                 .animation(.easeInOut(duration: 0.3), value: session.isFavoriteMode)
-
-                // ── Archive expanded dismiss layer ────────────────────────────
-                if archiveExpanded {
-                    Color.clear
-                        .contentShape(Rectangle())
-                        .ignoresSafeArea()
-                        .onTapGesture {
-                            withAnimation(.spring(response: 0.28)) { archiveExpanded = false }
-                        }
-                }
 
                 // ── Three-column layout ───────────────────────────────────────
                 VStack(spacing: 0) {
@@ -535,19 +524,21 @@ struct ContentView: View {
         let nl = session.nativeLanguage
         return VStack(spacing: 10) {
 
-            // Play mode (shuffle / sequential / single-loop)
+            // Play mode (sequential / single-loop / shuffle / favorites)
             Button { Haptics.light(); session.cyclePlayMode() } label: {
                 let (icon, label): (String, String) = {
                     switch session.playMode {
-                    case .shuffle:    return ("shuffle",  L("随机", "Shuffle", nativeLanguage: nl))
-                    case .sequential: return ("repeat",   L("顺序", "Order",   nativeLanguage: nl))
-                    case .singleLoop: return ("repeat.1", L("单曲", "Loop 1", nativeLanguage: nl))
+                    case .sequential: return ("repeat",     L("顺序", "Order",   nativeLanguage: nl))
+                    case .singleLoop: return ("repeat.1",   L("单曲", "Loop 1", nativeLanguage: nl))
+                    case .shuffle:    return ("shuffle",    L("随机", "Shuffle", nativeLanguage: nl))
+                    case .favorites:  return ("heart.fill", L("收藏", "Fav",     nativeLanguage: nl))
                     }
                 }()
                 controlCell(
-                    icon:     icon,
-                    label:    label,
-                    isActive: session.playMode != .shuffle
+                    icon:        icon,
+                    label:       label,
+                    isActive:    session.playMode != .shuffle,
+                    activeColor: session.playMode == .favorites ? .red : .lllbAccent
                 )
             }
             .buttonStyle(.plain)
@@ -558,21 +549,6 @@ struct ContentView: View {
                 withAnimation(.easeOut(duration: 0.18)) { showLibraryPicker = true }
             } label: {
                 controlCell(icon: "books.vertical", label: L("库", "Library", nativeLanguage: nl))
-            }
-            .buttonStyle(.plain)
-
-            // Favorites mode
-            Button {
-                Haptics.medium()
-                if session.isFavoriteMode { session.dismissVoiceBranch() }
-                else                      { session.enterFavoriteMode() }
-            } label: {
-                controlCell(
-                    icon:        session.isFavoriteMode ? "star.fill" : "star",
-                    label:       L("收藏", "Fav", nativeLanguage: nl),
-                    isActive:    session.isFavoriteMode,
-                    activeColor: .yellow
-                )
             }
             .buttonStyle(.plain)
 
@@ -693,46 +669,20 @@ struct ContentView: View {
             .buttonStyle(.plain)
 
             Button {
-                Haptics.light()
-                withAnimation(.spring(response: 0.28)) { archiveExpanded.toggle() }
+                Haptics.success()
+                session.archiveCurrentSentence(as: .mastered)
             } label: {
-                controlCell(icon: "archivebox", label: L("存档", "Archive", nativeLanguage: nl), showLabel: true, isActive: archiveExpanded)
+                controlCell(icon: "checkmark.seal", label: L("学会了", "Known", nativeLanguage: nl), showLabel: true)
             }
             .buttonStyle(.plain)
-            .frame(width: 56)
-            .overlay(alignment: .leading) {
-                if archiveExpanded {
-                    VStack(spacing: 6) {
-                        Button {
-                            Haptics.success()
-                            session.archiveCurrentSentence(as: .mastered)
-                            withAnimation(.spring(response: 0.28)) { archiveExpanded = false }
-                        } label: {
-                            controlCell(icon: "checkmark.seal", label: L("学会了", "Known", nativeLanguage: nl), showLabel: true)
-                        }
-                        .buttonStyle(.plain)
-                        .background(RoundedRectangle(cornerRadius: 10).fill(Color.lllbBackground))
-                        .contentShape(Rectangle())
 
-                        Button {
-                            Haptics.success()
-                            session.archiveCurrentSentence(as: .later)
-                            withAnimation(.spring(response: 0.28)) { archiveExpanded = false }
-                        } label: {
-                            controlCell(icon: "clock", label: L("稍后学", "Later", nativeLanguage: nl), showLabel: true)
-                        }
-                        .buttonStyle(.plain)
-                        .background(RoundedRectangle(cornerRadius: 10).fill(Color.lllbBackground))
-                        .contentShape(Rectangle())
-                    }
-                    .frame(width: 56)
-                    .offset(x: -(56 + 6))
-                    .transition(.move(edge: .trailing).combined(with: .opacity))
-                }
+            Button {
+                Haptics.success()
+                session.archiveCurrentSentence(as: .later)
+            } label: {
+                controlCell(icon: "clock", label: L("稍后学", "Later", nativeLanguage: nl), showLabel: true)
             }
-        }
-        .onChange(of: session.currentSentence.id) { _ in
-            withAnimation { archiveExpanded = false }
+            .buttonStyle(.plain)
         }
     }
 
@@ -993,7 +943,6 @@ struct ContentView: View {
             if session.config.id == "zh"
                 && session.writeMode
                 && !familiar
-                && !archiveExpanded
                 && session.currentSentence.tokens.count == 1
                 && StrokeWriterFeature.canRender(text: display, tokenCount: 1, isChinese: true) {
                 let trText = session.currentSentence.tokens
@@ -1363,38 +1312,83 @@ private struct UnlockPickerView: View {
                 ScrollView {
                     VStack(spacing: 10) {
                         ForEach(groups.indices, id: \.self) { i in
-                            Button {
-                                onPick(i)
-                            } label: {
-                                cardContent(group: groups[i])
-                            }
-                            .buttonStyle(.plain)
+                            CandidateCard(
+                                group: groups[i],
+                                nativeLanguage: nativeLanguage,
+                                onPick: { onPick(i) }
+                            )
                         }
                     }
                     .padding(.horizontal, 18)
                 }
-                .frame(maxHeight: 360)
+                .frame(maxHeight: 420)
                 .padding(.bottom, 22)
             }
             .background(.regularMaterial, in: RoundedRectangle(cornerRadius: 22))
             .padding(.horizontal, 28)
         }
     }
+}
 
+/// One row in the unlock picker. Renders either a single sentence or a tag group
+/// preview. For groups the first 3 sentences are shown by default and the rest
+/// can be revealed via an inline expand toggle (each card keeps its own state).
+/// Tapping anywhere on the card body adds the whole unit to the pool — the
+/// toggle is its own button so it doesn't trigger the add action.
+private struct CandidateCard: View {
+    let group:          [LessonSentence]
+    let nativeLanguage: String
+    let onPick:         () -> Void
+
+    @State private var expanded = false
+
+    private static let previewCount = 3
+
+    private var isGroup: Bool { group.count > 1 }
+    private var visibleCount: Int {
+        guard isGroup else { return 1 }
+        return expanded ? group.count : min(Self.previewCount, group.count)
+    }
+    private var hiddenCount: Int { max(0, group.count - Self.previewCount) }
+    private var tagName: String? {
+        group.first?.tags.first(where: { $0.index != nil })?.name
+    }
+    private var levelLabel: String { group.first?.cefr ?? "" }
+
+    var body: some View {
+        Button(action: onPick) {
+            Group {
+                if isGroup {
+                    groupBody
+                } else {
+                    singleBody
+                }
+            }
+            .padding(.horizontal, 14).padding(.vertical, 11)
+            .frame(maxWidth: .infinity, alignment: .leading)
+            .background(Color.primary.opacity(0.05),
+                        in: RoundedRectangle(cornerRadius: 12))
+            .overlay(
+                RoundedRectangle(cornerRadius: 12)
+                    .stroke(Color.lllbCellStroke, lineWidth: 0.5)
+            )
+        }
+        .buttonStyle(.plain)
+    }
+
+    /// Compact single-sentence card: original layout — text + level badge inline,
+    /// translation underneath. Kept tight so it doesn't waste vertical space.
     @ViewBuilder
-    private func cardContent(group: [LessonSentence]) -> some View {
-        let isGroup = group.count > 1
-        let head    = group.first
+    private var singleBody: some View {
+        let s = group[0]
         VStack(alignment: .leading, spacing: 4) {
             HStack(alignment: .top) {
-                if let s = head {
-                    Text(s.text)
-                        .font(.body.weight(.medium))
-                        .foregroundStyle(.primary)
-                }
+                Text(s.text)
+                    .font(.body.weight(.medium))
+                    .foregroundStyle(.primary)
                 Spacer()
-                if let s = head {
-                    Text(s.cefr)
+                if !levelLabel.isEmpty {
+                    Text(levelLabel)
                         .font(.caption2.weight(.semibold))
                         .foregroundStyle(.secondary)
                         .padding(.horizontal, 6).padding(.vertical, 2)
@@ -1402,32 +1396,96 @@ private struct UnlockPickerView: View {
                         .clipShape(Capsule())
                 }
             }
-            if let s = head {
-                let tr = s.translation.resolvedTranslation(nativeLanguage: nativeLanguage)
-                if !tr.isEmpty {
-                    Text(tr)
-                        .font(.caption)
-                        .foregroundStyle(.secondary)
-                }
-            }
-            if isGroup {
-                let tagName = head?.tags.first(where: { $0.index != nil })?.name
-                              ?? L("整组", "Group", nativeLanguage: nativeLanguage)
-                Text(L("\(tagName) · \(group.count) 句一组",
-                       "\(tagName) · \(group.count)-piece group",
-                       nativeLanguage: nativeLanguage))
-                    .font(.caption2.weight(.semibold))
-                    .foregroundStyle(Color.lllbAccent)
-                    .padding(.top, 2)
+            let tr = s.translation.resolvedTranslation(nativeLanguage: nativeLanguage)
+            if !tr.isEmpty {
+                Text(tr)
+                    .font(.caption)
+                    .foregroundStyle(.secondary)
             }
         }
-        .padding(.horizontal, 14).padding(.vertical, 11)
-        .frame(maxWidth: .infinity, alignment: .leading)
-        .background(Color.primary.opacity(0.05),
-                    in: RoundedRectangle(cornerRadius: 12))
-        .overlay(
-            RoundedRectangle(cornerRadius: 12)
-                .stroke(Color.lllbCellStroke, lineWidth: 0.5)
-        )
+    }
+
+    /// Group preview: tag header + first 3 sentences (numbered), with an expand
+    /// toggle to reveal the rest. The toggle is its own button so it doesn't
+    /// trigger the outer add tap.
+    @ViewBuilder
+    private var groupBody: some View {
+        VStack(alignment: .leading, spacing: 10) {
+            HStack(alignment: .center) {
+                if let tagName {
+                    Text(L("\(tagName) · \(group.count) 句一组",
+                           "\(tagName) · \(group.count)-piece group",
+                           nativeLanguage: nativeLanguage))
+                        .font(.caption.weight(.semibold))
+                        .foregroundStyle(Color.lllbAccent)
+                        .lineLimit(1)
+                }
+                Spacer(minLength: 8)
+                if !levelLabel.isEmpty {
+                    Text(levelLabel)
+                        .font(.caption2.weight(.semibold))
+                        .foregroundStyle(.secondary)
+                        .padding(.horizontal, 6).padding(.vertical, 2)
+                        .background(Color.lllbTagBg)
+                        .clipShape(Capsule())
+                }
+            }
+
+            VStack(alignment: .leading, spacing: 8) {
+                ForEach(0..<visibleCount, id: \.self) { idx in
+                    sentenceRow(group[idx], number: idx + 1)
+                }
+            }
+
+            if hiddenCount > 0 {
+                Button {
+                    Haptics.medium()
+                    withAnimation(.easeInOut(duration: 0.18)) {
+                        expanded.toggle()
+                    }
+                } label: {
+                    HStack(spacing: 4) {
+                        Text(expanded
+                             ? L("收起", "Collapse", nativeLanguage: nativeLanguage)
+                             : L("展开余下 \(hiddenCount) 句",
+                                 "Show \(hiddenCount) more",
+                                 nativeLanguage: nativeLanguage))
+                        Image(systemName: expanded ? "chevron.up" : "chevron.down")
+                            .font(.caption2.weight(.semibold))
+                    }
+                    .font(.caption.weight(.semibold))
+                    .foregroundStyle(Color.lllbAccent)
+                    .padding(.vertical, 4)
+                    .frame(maxWidth: .infinity)
+                    .contentShape(Rectangle())
+                }
+                .buttonStyle(.plain)
+            }
+        }
+    }
+
+    /// One numbered sentence row inside a group preview.
+    @ViewBuilder
+    private func sentenceRow(_ s: LessonSentence, number: Int) -> some View {
+        VStack(alignment: .leading, spacing: 2) {
+            HStack(alignment: .firstTextBaseline, spacing: 6) {
+                Text("\(number).")
+                    .font(.caption.weight(.semibold))
+                    .foregroundStyle(.secondary)
+                    .frame(minWidth: 18, alignment: .leading)
+                Text(s.text)
+                    .font(.body.weight(.medium))
+                    .foregroundStyle(.primary)
+                    .fixedSize(horizontal: false, vertical: true)
+            }
+            let tr = s.translation.resolvedTranslation(nativeLanguage: nativeLanguage)
+            if !tr.isEmpty {
+                Text(tr)
+                    .font(.caption)
+                    .foregroundStyle(.secondary)
+                    .padding(.leading, 24)
+                    .fixedSize(horizontal: false, vertical: true)
+            }
+        }
     }
 }

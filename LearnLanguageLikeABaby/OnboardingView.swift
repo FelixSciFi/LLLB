@@ -78,8 +78,10 @@ struct OnboardingView: View {
     // MARK: - Step 2: learning language
 
     private var learningStep: some View {
-        let nl       = appModel.candyStore.nativeLanguage
-        let choices  = LanguageConfig.releasedLearningLanguages.filter { $0.id != nl }
+        let nl      = appModel.candyStore.nativeLanguage
+        // Show full released-learning list; user's native language is greyed-out
+        // with a hint rather than hidden so the picker doesn't look truncated.
+        let choices = LanguageConfig.releasedLearningLanguages
         return VStack(spacing: 24) {
             Spacer().frame(height: 24)
 
@@ -99,7 +101,9 @@ struct OnboardingView: View {
             ScrollView {
                 VStack(spacing: 12) {
                     ForEach(choices) { lang in
+                        let disabled = lang.id == nl
                         Button {
+                            guard !disabled else { return }
                             Haptics.success()
                             appModel.selectedLearningLanguageID = lang.id
                             UserDefaults.standard.set(true, forKey: "onboardingCompleted_v1")
@@ -108,9 +112,16 @@ struct OnboardingView: View {
                             appModel.promoStore.grantOnboardingPromo()
                             onComplete()
                         } label: {
-                            languageCard(title: lang.displayName(for: nl))
+                            languageCard(
+                                title: lang.displayName(for: nl),
+                                subtitle: disabled
+                                    ? L("你的母语", "Your native language", nativeLanguage: nl)
+                                    : nil
+                            )
+                            .opacity(disabled ? 0.4 : 1)
                         }
                         .buttonStyle(.plain)
+                        .disabled(disabled)
                     }
                 }
                 .padding(.horizontal, 28)
@@ -122,16 +133,23 @@ struct OnboardingView: View {
     // MARK: - Shared card
 
     @ViewBuilder
-    private func languageCard(title: String) -> some View {
-        Text(title)
-            .font(.system(size: 20, weight: .semibold))
-            .foregroundStyle(Color.primary)
-            .frame(maxWidth: .infinity)
-            .padding(.vertical, 22)
-            .background(Color.lllbChipBg, in: RoundedRectangle(cornerRadius: 14))
-            .overlay(
-                RoundedRectangle(cornerRadius: 14)
-                    .stroke(Color.lllbChipStroke, lineWidth: 0.5)
-            )
+    private func languageCard(title: String, subtitle: String? = nil) -> some View {
+        VStack(spacing: 4) {
+            Text(title)
+                .font(.system(size: 20, weight: .semibold))
+                .foregroundStyle(Color.primary)
+            if let subtitle {
+                Text(subtitle)
+                    .font(.system(size: 13))
+                    .foregroundStyle(Color.lllbSecondaryText)
+            }
+        }
+        .frame(maxWidth: .infinity)
+        .padding(.vertical, subtitle != nil ? 16 : 22)
+        .background(Color.lllbChipBg, in: RoundedRectangle(cornerRadius: 14))
+        .overlay(
+            RoundedRectangle(cornerRadius: 14)
+                .stroke(Color.lllbChipStroke, lineWidth: 0.5)
+        )
     }
 }

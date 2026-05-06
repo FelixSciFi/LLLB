@@ -74,24 +74,18 @@ struct PlacementTestView: View {
                         }
                         .buttonStyle(.plain)
                     }
+
+                    Button {
+                        Haptics.soft()
+                        model.answer(.unknown)
+                    } label: {
+                        optionRow(text: L("不知道", "Don't know", nativeLanguage: nl))
+                    }
+                    .buttonStyle(.plain)
                 }
                 .padding(.horizontal, 22)
 
-                Spacer(minLength: 18)
-
-                Button {
-                    Haptics.soft()
-                    model.answer(.unknown)
-                } label: {
-                    Text(L("不知道", "Don't know", nativeLanguage: nl))
-                        .font(.subheadline.weight(.medium))
-                        .foregroundStyle(.secondary)
-                        .padding(.horizontal, 18).padding(.vertical, 9)
-                        .background(Color.primary.opacity(0.04),
-                                    in: Capsule())
-                }
-                .buttonStyle(.plain)
-                .padding(.bottom, 36)
+                Spacer(minLength: 36)
             }
         }
     }
