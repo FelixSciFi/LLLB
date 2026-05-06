@@ -11,6 +11,8 @@ struct ProfileView: View {
     /// stays oblivious to which sheet/cover the parent is using.
     var onOpenSubscribe: () -> Void = {}
 
+    @State private var showStreakShareSheet: Bool = false
+
     var body: some View {
         let candyStore = appModel.candyStore
         let sessions   = appModel.availableSessions
@@ -28,6 +30,32 @@ struct ProfileView: View {
                         nativeLanguage:      nl,
                         onOpenSubscribe:     onOpenSubscribe
                     )
+                    Button {
+                        Haptics.light()
+                        showStreakShareSheet = true
+                    } label: {
+                        HStack(spacing: 12) {
+                            Image(systemName: "square.and.arrow.up")
+                                .font(.system(size: 16, weight: .semibold))
+                                .foregroundStyle(Color.lllbAccent)
+                                .frame(width: 24)
+                            VStack(alignment: .leading, spacing: 2) {
+                                Text(L("分享我的连续学习", "Share my streak", nativeLanguage: nl))
+                                    .font(.system(size: 16, weight: .semibold))
+                                    .foregroundStyle(Color.primary)
+                                Text(L("🔥 \(appModel.usageTimeTracker.streakDays) 天 · 完成分享得 \(ShareTriggerStore.rewardPerShare) 🍬",
+                                       "🔥 \(appModel.usageTimeTracker.streakDays) days · earn \(ShareTriggerStore.rewardPerShare) 🍬",
+                                       nativeLanguage: nl))
+                                    .font(.caption)
+                                    .foregroundStyle(Color.secondary)
+                            }
+                            Spacer()
+                            Image(systemName: "chevron.right")
+                                .font(.system(size: 13, weight: .semibold))
+                                .foregroundStyle(Color.secondary)
+                        }
+                    }
+                    .buttonStyle(.plain)
                 }
 
                 // Stats moved to the 2×2 rings overlay (tap rings on home screen).
@@ -217,6 +245,20 @@ struct ProfileView: View {
             .navigationBarTitleDisplayMode(.inline)
         }
         .tint(Color.lllbAccent)
+        .sheet(isPresented: $showStreakShareSheet) {
+            // Manual share entry: trigger=nil so we don't accidentally
+            // mark a milestone as seen on dismiss.
+            StreakShareSheet(
+                trigger:           nil,
+                triggerStore:      appModel.shareTriggerStore,
+                candyStore:        appModel.candyStore,
+                streakDays:        appModel.usageTimeTracker.streakDays,
+                learningLanguage:  appModel.activeSession.config,
+                totalHours:        (appModel.usageTimeTracker.allTimeMinutes
+                                    + appModel.usageTimeTracker.allTimeBgMinutes / 3) / 60,
+                nativeLanguage:    appModel.candyStore.nativeLanguage
+            )
+        }
     }
 }
 
@@ -984,27 +1026,15 @@ private struct SubscriptionStatusRow: View {
     }
 
     private var subscribedSubtitle: String {
-        let plan: String
+        // Intentionally show only the plan — no renewal/expiry date. Reminding
+        // subscribed users of an upcoming bill encourages cancellation.
         if subscriptionManager.activeProductID == SubscriptionManager.yearlyProductID {
-            plan = L("年付", "Yearly", nativeLanguage: nativeLanguage)
-        } else if subscriptionManager.activeProductID == SubscriptionManager.monthlyProductID {
-            plan = L("月付", "Monthly", nativeLanguage: nativeLanguage)
-        } else {
-            plan = L("已订阅", "Active", nativeLanguage: nativeLanguage)
+            return L("年付", "Yearly", nativeLanguage: nativeLanguage)
         }
-        guard let expiry = subscriptionManager.expiresAt else { return plan }
-        let formatter = DateFormatter()
-        formatter.dateStyle = .medium
-        formatter.locale    = Locale(identifier: nativeLanguage == "zh" ? "zh_CN" : "en_US")
-        let dateStr = formatter.string(from: expiry)
-        if subscriptionManager.willRenew {
-            return plan + " · " + L("下次续订 \(dateStr)",
-                                     "Renews \(dateStr)",
-                                     nativeLanguage: nativeLanguage)
+        if subscriptionManager.activeProductID == SubscriptionManager.monthlyProductID {
+            return L("月付", "Monthly", nativeLanguage: nativeLanguage)
         }
-        return plan + " · " + L("到期 \(dateStr)",
-                                 "Expires \(dateStr)",
-                                 nativeLanguage: nativeLanguage)
+        return L("已订阅", "Active", nativeLanguage: nativeLanguage)
     }
 
     // MARK: upgrade
