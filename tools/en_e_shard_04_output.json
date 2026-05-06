@@ -1,0 +1,188 @@
+[
+  {
+    "input_word": "excellent",
+    "entries": [
+      {"text": "excellent", "ipa": "/ˈɛksələnt/", "cefr": "A2", "zh": "优秀的", "emoji": "⭐"}
+    ]
+  },
+  {
+    "input_word": "except",
+    "entries": [
+      {"text": "except", "ipa": "/ɪkˈsɛpt/", "cefr": "A2", "zh": "除了", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "exchange",
+    "entries": [
+      {"text": "exchange", "ipa": "/ɪksˈtʃeɪndʒ/", "cefr": "B1", "zh": "交换", "emoji": "🔄"},
+      {"text": "exchange", "ipa": "/ɪksˈtʃeɪndʒ/", "cefr": "B1", "zh": "交流", "emoji": "💬"}
+    ]
+  },
+  {
+    "input_word": "excited",
+    "entries": [
+      {"text": "excited", "ipa": "/ɪkˈsaɪtɪd/", "cefr": "A1", "zh": "兴奋的", "emoji": "🤩"}
+    ]
+  },
+  {
+    "input_word": "excitement",
+    "entries": [
+      {"text": "excitement", "ipa": "/ɪkˈsaɪtmənt/", "cefr": "B1", "zh": "兴奋", "emoji": "🎉"}
+    ]
+  },
+  {
+    "input_word": "exciting",
+    "entries": [
+      {"text": "exciting", "ipa": "/ɪkˈsaɪtɪŋ/", "cefr": "A1", "zh": "令人兴奋", "emoji": "🔥"}
+    ]
+  },
+  {
+    "input_word": "excuse",
+    "entries": [
+      {"text": "excuse", "ipa": "/ɪkˈskjuːs/", "cefr": "B2", "zh": "借口", "emoji": "🙄"},
+      {"text": "excuse", "ipa": "/ɪkˈskjuːz/", "cefr": "B2", "zh": "原谅", "emoji": "🙏"}
+    ]
+  },
+  {
+    "input_word": "executive",
+    "entries": [
+      {"text": "executive", "ipa": "/ɪɡˈzɛkjətɪv/", "cefr": "B2", "zh": "高管", "emoji": "💼"},
+      {"text": "executive", "ipa": "/ɪɡˈzɛkjətɪv/", "cefr": "B2", "zh": "行政的", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_word": "exercise",
+    "entries": [
+      {"text": "exercise", "ipa": "/ˈɛksərˌsaɪz/", "cefr": "A1", "zh": "锻炼", "emoji": "🏋️"},
+      {"text": "exercise", "ipa": "/ˈɛksərˌsaɪz/", "cefr": "A1", "zh": "练习", "emoji": "📝"}
+    ]
+  },
+  {
+    "input_word": "exhibition",
+    "entries": [
+      {"text": "exhibition", "ipa": "/ˌɛksɪˈbɪʃən/", "cefr": "B1", "zh": "展览", "emoji": "🖼️"}
+    ]
+  },
+  {
+    "input_word": "exist",
+    "entries": [
+      {"text": "exist", "ipa": "/ɪɡˈzɪst/", "cefr": "A2", "zh": "存在", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "existence",
+    "entries": [
+      {"text": "existence", "ipa": "/ɪɡˈzɪstəns/", "cefr": "B2", "zh": "存在", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "expand",
+    "entries": [
+      {"text": "expand", "ipa": "/ɪkˈspænd/", "cefr": "B1", "zh": "扩展", "emoji": "📈"}
+    ]
+  },
+  {
+    "input_word": "expect",
+    "entries": [
+      {"text": "expect", "ipa": "/ɪkˈspɛkt/", "cefr": "A2", "zh": "期待", "emoji": "🤞"}
+    ]
+  },
+  {
+    "input_word": "expectation",
+    "entries": [
+      {"text": "expectation", "ipa": "/ˌɛkspɛkˈteɪʃən/", "cefr": "B2", "zh": "期望", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_word": "expected",
+    "entries": [
+      {"text": "expected", "ipa": "/ɪkˈspɛktɪd/", "cefr": "B1", "zh": "预期的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "expedition",
+    "entries": [
+      {"text": "expedition", "ipa": "/ˌɛkspɪˈdɪʃən/", "cefr": "B1", "zh": "探险", "emoji": "🧭"}
+    ]
+  },
+  {
+    "input_word": "expense",
+    "entries": [
+      {"text": "expense", "ipa": "/ɪkˈspɛns/", "cefr": "B2", "zh": "费用", "emoji": "💸"}
+    ]
+  },
+  {
+    "input_word": "expensive",
+    "entries": [
+      {"text": "expensive", "ipa": "/ɪkˈspɛnsɪv/", "cefr": "A1", "zh": "昂贵的", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_word": "experience",
+    "entries": [
+      {"text": "experience", "ipa": "/ɪkˈspɪriəns/", "cefr": "A2", "zh": "经历", "emoji": "🌟"},
+      {"text": "experience", "ipa": "/ɪkˈspɪriəns/", "cefr": "A2", "zh": "经验", "emoji": "📚"}
+    ]
+  },
+  {
+    "input_word": "experienced",
+    "entries": [
+      {"text": "experienced", "ipa": "/ɪkˈspɪriənst/", "cefr": "B1", "zh": "有经验的", "emoji": "👨‍💼"}
+    ]
+  },
+  {
+    "input_word": "experiment",
+    "entries": [
+      {"text": "experiment", "ipa": "/ɪkˈspɛrɪmənt/", "cefr": "A2", "zh": "实验", "emoji": "🧪"}
+    ]
+  },
+  {
+    "input_word": "expert",
+    "entries": [
+      {"text": "expert", "ipa": "/ˈɛkspɜːrt/", "cefr": "A2", "zh": "专家", "emoji": "🎓"}
+    ]
+  },
+  {
+    "input_word": "explain",
+    "entries": [
+      {"text": "explain", "ipa": "/ɪkˈspleɪn/", "cefr": "A1", "zh": "解释", "emoji": "💡"}
+    ]
+  },
+  {
+    "input_word": "explanation",
+    "entries": [
+      {"text": "explanation", "ipa": "/ˌɛkspləˈneɪʃən/", "cefr": "A2", "zh": "解释", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_word": "explode",
+    "entries": [
+      {"text": "explode", "ipa": "/ɪkˈsploʊd/", "cefr": "B1", "zh": "爆炸", "emoji": "💥"}
+    ]
+  },
+  {
+    "input_word": "exploration",
+    "entries": [
+      {"text": "exploration", "ipa": "/ˌɛkspləˈreɪʃən/", "cefr": "B2", "zh": "探索", "emoji": "🔍"}
+    ]
+  },
+  {
+    "input_word": "explore",
+    "entries": [
+      {"text": "explore", "ipa": "/ɪkˈsplɔːr/", "cefr": "B1", "zh": "探索", "emoji": "🗺️"}
+    ]
+  },
+  {
+    "input_word": "explosion",
+    "entries": [
+      {"text": "explosion", "ipa": "/ɪkˈsploʊʒən/", "cefr": "B1", "zh": "爆炸", "emoji": "💥"}
+    ]
+  },
+  {
+    "input_word": "export",
+    "entries": [
+      {"text": "export", "ipa": "/ˈɛkspɔːrt/", "cefr": "B1", "zh": "出口", "emoji": "🚢"},
+      {"text": "export", "ipa": "/ɪkˈspɔːrt/", "cefr": "B1", "zh": "导出", "emoji": "📤"}
+    ]
+  }
+]

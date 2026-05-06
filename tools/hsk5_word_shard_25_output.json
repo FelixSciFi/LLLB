@@ -1,0 +1,183 @@
+[
+  {
+    "input_text": "青春",
+    "entries": [
+      {"text": "青春", "pinyin": "qīng chūn", "en": "youth", "emoji": "🌱"}
+    ]
+  },
+  {
+    "input_text": "青少年",
+    "entries": [
+      {"text": "青少年", "pinyin": "qīng shào nián", "en": "teenager", "emoji": "🧑"}
+    ]
+  },
+  {
+    "input_text": "轻视",
+    "entries": [
+      {"text": "轻视", "pinyin": "qīng shì", "en": "look down on", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "轻易",
+    "entries": [
+      {"text": "轻易", "pinyin": "qīng yì", "en": "easily; rashly", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "清淡",
+    "entries": [
+      {"text": "清淡", "pinyin": "qīng dàn", "en": "light; bland", "emoji": "🥗"}
+    ]
+  },
+  {
+    "input_text": "情景",
+    "entries": [
+      {"text": "情景", "pinyin": "qíng jǐng", "en": "scene; situation", "emoji": "🎬"}
+    ]
+  },
+  {
+    "input_text": "情绪",
+    "entries": [
+      {"text": "情绪", "pinyin": "qíng xù", "en": "emotion; mood", "emoji": "💭"}
+    ]
+  },
+  {
+    "input_text": "请求",
+    "entries": [
+      {"text": "请求", "pinyin": "qǐng qiú", "en": "request; ask for", "emoji": "🙏"}
+    ]
+  },
+  {
+    "input_text": "庆祝",
+    "entries": [
+      {"text": "庆祝", "pinyin": "qìng zhù", "en": "celebrate", "emoji": "🎉"}
+    ]
+  },
+  {
+    "input_text": "球迷",
+    "entries": [
+      {"text": "球迷", "pinyin": "qiú mí", "en": "sports fan", "emoji": "⚽"}
+    ]
+  },
+  {
+    "input_text": "趋势",
+    "entries": [
+      {"text": "趋势", "pinyin": "qū shì", "en": "trend; tendency", "emoji": "📈"}
+    ]
+  },
+  {
+    "input_text": "取消",
+    "entries": [
+      {"text": "取消", "pinyin": "qǔ xiāo", "en": "cancel", "emoji": "❌"}
+    ]
+  },
+  {
+    "input_text": "娶",
+    "entries": [
+      {"text": "娶", "pinyin": "qǔ", "en": "marry (a wife)", "emoji": "💍"}
+    ]
+  },
+  {
+    "input_text": "去世",
+    "entries": [
+      {"text": "去世", "pinyin": "qù shì", "en": "pass away", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "圈",
+    "entries": [
+      {"text": "圈", "pinyin": "quān", "en": "circle; ring", "emoji": "⭕"},
+      {"text": "圈", "pinyin": "quān", "en": "social circle", "emoji": "👥"}
+    ]
+  },
+  {
+    "input_text": "权力",
+    "entries": [
+      {"text": "权力", "pinyin": "quán lì", "en": "power; authority", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_text": "权利",
+    "entries": [
+      {"text": "权利", "pinyin": "quán lì", "en": "right; entitlement", "emoji": "✊"}
+    ]
+  },
+  {
+    "input_text": "全面",
+    "entries": [
+      {"text": "全面", "pinyin": "quán miàn", "en": "comprehensive; overall", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "劝",
+    "entries": [
+      {"text": "劝", "pinyin": "quàn", "en": "advise; persuade", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "缺乏",
+    "entries": [
+      {"text": "缺乏", "pinyin": "quē fá", "en": "lack; be short of", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "确定",
+    "entries": [
+      {"text": "确定", "pinyin": "què dìng", "en": "confirm; certain", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_text": "确认",
+    "entries": [
+      {"text": "确认", "pinyin": "què rèn", "en": "verify; confirm", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_text": "群",
+    "entries": [
+      {"text": "群", "pinyin": "qún", "en": "group; crowd", "emoji": "👥"}
+    ]
+  },
+  {
+    "input_text": "燃烧",
+    "entries": [
+      {"text": "燃烧", "pinyin": "rán shāo", "en": "burn; combust", "emoji": "🔥"}
+    ]
+  },
+  {
+    "input_text": "绕",
+    "entries": [
+      {"text": "绕", "pinyin": "rào", "en": "go around; wind", "emoji": "🔄"}
+    ]
+  },
+  {
+    "input_text": "热爱",
+    "entries": [
+      {"text": "热爱", "pinyin": "rè ài", "en": "love passionately", "emoji": "❤️"}
+    ]
+  },
+  {
+    "input_text": "热烈",
+    "entries": [
+      {"text": "热烈", "pinyin": "rè liè", "en": "warm; enthusiastic", "emoji": "🎊"}
+    ]
+  },
+  {
+    "input_text": "热心",
+    "entries": [
+      {"text": "热心", "pinyin": "rè xīn", "en": "warm-hearted; eager", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_text": "人才",
+    "entries": [
+      {"text": "人才", "pinyin": "rén cái", "en": "talent; gifted person", "emoji": "🌟"}
+    ]
+  },
+  {
+    "input_text": "人口",
+    "entries": [
+      {"text": "人口", "pinyin": "rén kǒu", "en": "population", "emoji": "👨‍👩‍👧‍👦"}
+    ]
+  }
+]

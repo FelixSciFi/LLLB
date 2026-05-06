@@ -1,0 +1,65 @@
+[
+  {
+    "text": "I went to the woods because I wished to live deliberately,",
+    "ipa": "aɪ wɛnt tə ðə wʊdz bɪˈkɔz aɪ wɪʃt tə lɪv dɪˈlɪbərətli",
+    "translation": {"zh": "我走进森林，因为我希望刻意地生活，"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "I went", "lemma": "go", "ipa": "aɪ wɛnt", "translation": {"zh": "我去了"}, "emoji": "🚶"},
+      {"text": "to the woods", "lemma": "woods", "ipa": "tə ðə wʊdz", "translation": {"zh": "森林里"}, "emoji": "🌲"},
+      {"text": "because I wished", "lemma": "wish", "ipa": "bɪˈkɔz aɪ wɪʃt", "translation": {"zh": "因为我希望"}, "emoji": "💭"},
+      {"text": "to live deliberately", "lemma": "deliberately", "ipa": "tə lɪv dɪˈlɪbərətli", "translation": {"zh": "刻意地生活"}, "emoji": "🎯"}
+    ],
+    "tags": [{"name": "Walden", "index": 1}]
+  },
+  {
+    "text": "to front only the essential facts of life,",
+    "ipa": "tə frʌnt ˈoʊnli ði ɪˈsɛnʃəl fækts əv laɪf",
+    "translation": {"zh": "去直面生活中唯一根本的事实，"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "to front", "lemma": "front", "ipa": "tə frʌnt", "translation": {"zh": "去直面"}, "emoji": "👁️"},
+      {"text": "only", "lemma": "only", "ipa": "ˈoʊnli", "translation": {"zh": "仅仅"}, "emoji": "☝️"},
+      {"text": "the essential facts", "lemma": "essential", "ipa": "ði ɪˈsɛnʃəl fækts", "translation": {"zh": "根本的事实"}, "emoji": "💎"},
+      {"text": "of life", "lemma": "life", "ipa": "əv laɪf", "translation": {"zh": "生活的"}, "emoji": "🌱"}
+    ],
+    "tags": [{"name": "Walden", "index": 2}]
+  },
+  {
+    "text": "and see if I could not learn what it had to teach,",
+    "ipa": "ənd si ɪf aɪ kʊd nɑt lɝn wʌt ɪt hæd tə titʃ",
+    "translation": {"zh": "看看能否学到它所要教导的，"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "and see", "lemma": "see", "ipa": "ənd si", "translation": {"zh": "看看"}, "emoji": "👀"},
+      {"text": "if I could not learn", "lemma": "learn", "ipa": "ɪf aɪ kʊd nɑt lɝn", "translation": {"zh": "我是否能学到"}, "emoji": "📚"},
+      {"text": "what it had to teach", "lemma": "teach", "ipa": "wʌt ɪt hæd tə titʃ", "translation": {"zh": "它所要教的"}, "emoji": "🎓"}
+    ],
+    "tags": [{"name": "Walden", "index": 3}]
+  },
+  {
+    "text": "and not, when I came to die, discover that I had not lived.",
+    "ipa": "ənd nɑt wɛn aɪ keɪm tə daɪ dɪˈskʌvər ðæt aɪ hæd nɑt lɪvd",
+    "translation": {"zh": "免得临终时才发现自己未曾真正活过。"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "and not discover", "lemma": "discover", "ipa": "ənd nɑt dɪˈskʌvər", "translation": {"zh": "而不是发现"}, "emoji": "🔍"},
+      {"text": "when I came to die", "lemma": "die", "ipa": "wɛn aɪ keɪm tə daɪ", "translation": {"zh": "临终时"}, "emoji": "⚰️"},
+      {"text": "that I had not lived", "lemma": "live", "ipa": "ðæt aɪ hæd nɑt lɪvd", "translation": {"zh": "我未曾活过"}, "emoji": "💔"}
+    ],
+    "tags": [{"name": "Walden", "index": 4}]
+  },
+  {
+    "text": "I did not wish to live what was not life, living is so dear.",
+    "ipa": "aɪ dɪd nɑt wɪʃ tə lɪv wʌt wəz nɑt laɪf ˈlɪvɪŋ ɪz soʊ dɪr",
+    "translation": {"zh": "我不愿过非生活的生活，活着如此珍贵。"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "I did not wish", "lemma": "wish", "ipa": "aɪ dɪd nɑt wɪʃ", "translation": {"zh": "我不愿"}, "emoji": "🙅"},
+      {"text": "to live", "lemma": "live", "ipa": "tə lɪv", "translation": {"zh": "去过"}, "emoji": "🌿"},
+      {"text": "what was not life", "lemma": "life", "ipa": "wʌt wəz nɑt laɪf", "translation": {"zh": "非生活之物"}, "emoji": "🚫"},
+      {"text": "living is so dear", "lemma": "dear", "ipa": "ˈlɪvɪŋ ɪz soʊ dɪr", "translation": {"zh": "生命如此珍贵"}, "emoji": "💖"}
+    ],
+    "tags": [{"name": "Walden", "index": 5}]
+  }
+]

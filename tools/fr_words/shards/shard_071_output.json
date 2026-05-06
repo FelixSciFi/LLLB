@@ -1,0 +1,277 @@
+[
+  {
+    "text": "la physique",
+    "ipa": "la fizik",
+    "translation": {"zh": "物理学", "en": "physics"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la physique", "lemma": "physique", "ipa": "la fizik", "translation": {"zh": "物理学", "en": "physics"}, "emoji": "⚛️"}
+    ]
+  },
+  {
+    "text": "décrocher le téléphone",
+    "ipa": "dekʁɔʃe lə telefɔn",
+    "translation": {"zh": "接起电话", "en": "pick up the phone"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "décrocher", "lemma": "décrocher", "ipa": "dekʁɔʃe", "translation": {"zh": "接起", "en": "pick up"}, "emoji": "📞"},
+      {"text": "le téléphone", "lemma": "téléphone", "ipa": "lə telefɔn", "translation": {"zh": "电话", "en": "phone"}, "emoji": "📱"}
+    ]
+  },
+  {
+    "text": "jouer au foot",
+    "ipa": "ʒwe o fut",
+    "translation": {"zh": "踢足球", "en": "play football"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "jouer au foot", "lemma": "jouer", "ipa": "ʒwe o fut", "translation": {"zh": "踢足球", "en": "play football"}, "emoji": "⚽"}
+    ]
+  },
+  {
+    "text": "une instance judiciaire",
+    "ipa": "yn ɛ̃stɑ̃s ʒydisjɛʁ",
+    "translation": {"zh": "司法机构", "en": "judicial body"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une instance judiciaire", "lemma": "instance", "ipa": "yn ɛ̃stɑ̃s ʒydisjɛʁ", "translation": {"zh": "司法机构", "en": "judicial body"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "le règne animal",
+    "ipa": "lə ʁɛɲ animal",
+    "translation": {"zh": "动物界", "en": "animal kingdom"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le règne animal", "lemma": "règne", "ipa": "lə ʁɛɲ animal", "translation": {"zh": "动物界", "en": "animal kingdom"}, "emoji": "🦁"}
+    ]
+  },
+  {
+    "text": "un chef autoritaire",
+    "ipa": "œ̃ ʃɛf otoʁitɛʁ",
+    "translation": {"zh": "威权领导者", "en": "authoritarian leader"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un chef autoritaire", "lemma": "autoritaire", "ipa": "œ̃ ʃɛf otoʁitɛʁ", "translation": {"zh": "威权领导者", "en": "authoritarian leader"}, "emoji": "👔"}
+    ]
+  },
+  {
+    "text": "le journalisme",
+    "ipa": "lə ʒuʁnalism",
+    "translation": {"zh": "新闻业", "en": "journalism"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le journalisme", "lemma": "journalisme", "ipa": "lə ʒuʁnalism", "translation": {"zh": "新闻业", "en": "journalism"}, "emoji": "📰"}
+    ]
+  },
+  {
+    "text": "la cuisine orientale",
+    "ipa": "la kɥizin ɔʁjɑ̃tal",
+    "translation": {"zh": "东方美食", "en": "Eastern cuisine"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la cuisine orientale", "lemma": "oriental", "ipa": "la kɥizin ɔʁjɑ̃tal", "translation": {"zh": "东方美食", "en": "Eastern cuisine"}, "emoji": "🍜"}
+    ]
+  },
+  {
+    "text": "une situation précaire",
+    "ipa": "yn sitɥasjɔ̃ pʁekɛʁ",
+    "translation": {"zh": "不稳定的处境", "en": "precarious situation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une situation précaire", "lemma": "précaire", "ipa": "yn sitɥasjɔ̃ pʁekɛʁ", "translation": {"zh": "不稳定的处境", "en": "precarious situation"}, "emoji": "⚠️"}
+    ]
+  },
+  {
+    "text": "être sélectif",
+    "ipa": "ɛtʁ selɛktif",
+    "translation": {"zh": "有选择性", "en": "be selective"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "être sélectif", "lemma": "sélectif", "ipa": "ɛtʁ selɛktif", "translation": {"zh": "有选择性", "en": "be selective"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "s'efforcer de réussir",
+    "ipa": "sefɔʁse də ʁeysiʁ",
+    "translation": {"zh": "努力取得成功", "en": "strive to succeed"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "s'efforcer", "lemma": "efforcer", "ipa": "sefɔʁse", "translation": {"zh": "努力", "en": "strive"}, "emoji": "💪"},
+      {"text": "de réussir", "lemma": "réussir", "ipa": "də ʁeysiʁ", "translation": {"zh": "取得成功", "en": "to succeed"}, "emoji": "🏆"}
+    ]
+  },
+  {
+    "text": "un écrit officiel",
+    "ipa": "œ̃ ekʁi ɔfisjɛl",
+    "translation": {"zh": "官方文件", "en": "official document"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un écrit officiel", "lemma": "écrit", "ipa": "œ̃ ekʁi ɔfisjɛl", "translation": {"zh": "官方文件", "en": "official document"}, "emoji": "📄"}
+    ]
+  },
+  {
+    "text": "faire un calcul",
+    "ipa": "fɛʁ œ̃ kalkyl",
+    "translation": {"zh": "做一道计算", "en": "do a calculation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "faire un calcul", "lemma": "faire", "ipa": "fɛʁ œ̃ kalkyl", "translation": {"zh": "做计算", "en": "do a calculation"}, "emoji": "🔢"}
+    ]
+  },
+  {
+    "text": "en vigueur",
+    "ipa": "ɑ̃ viɡœʁ",
+    "translation": {"zh": "有效；现行", "en": "in force"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "en vigueur", "lemma": "vigueur", "ipa": "ɑ̃ viɡœʁ", "translation": {"zh": "有效", "en": "in force"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un fusil de chasse",
+    "ipa": "œ̃ fyzi də ʃas",
+    "translation": {"zh": "猎枪", "en": "hunting rifle"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un fusil de chasse", "lemma": "fusil", "ipa": "œ̃ fyzi də ʃas", "translation": {"zh": "猎枪", "en": "hunting rifle"}, "emoji": "🔫"}
+    ]
+  },
+  {
+    "text": "l'aîné de la famille",
+    "ipa": "lene də la famij",
+    "translation": {"zh": "家里的长子女", "en": "the eldest in the family"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'aîné", "lemma": "aîné", "ipa": "lene", "translation": {"zh": "长子女", "en": "eldest"}, "emoji": "👶"},
+      {"text": "de la famille", "lemma": "famille", "ipa": "də la famij", "translation": {"zh": "家里的", "en": "of the family"}, "emoji": "👨‍👩‍👧"}
+    ]
+  },
+  {
+    "text": "dresser un constat",
+    "ipa": "dʁese œ̃ kɔ̃sta",
+    "translation": {"zh": "作出记录报告", "en": "draw up a report"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "dresser un constat", "lemma": "dresser", "ipa": "dʁese œ̃ kɔ̃sta", "translation": {"zh": "作出报告", "en": "draw up a report"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "un matelas confortable",
+    "ipa": "œ̃ matla kɔ̃fɔʁtabl",
+    "translation": {"zh": "舒适的床垫", "en": "comfortable mattress"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un matelas confortable", "lemma": "matelas", "ipa": "œ̃ matla kɔ̃fɔʁtabl", "translation": {"zh": "舒适的床垫", "en": "comfortable mattress"}, "emoji": "🛏️"}
+    ]
+  },
+  {
+    "text": "la restauration rapide",
+    "ipa": "la ʁɛstɔʁasjɔ̃ ʁapid",
+    "translation": {"zh": "快餐业", "en": "fast food"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la restauration rapide", "lemma": "restauration", "ipa": "la ʁɛstɔʁasjɔ̃ ʁapid", "translation": {"zh": "快餐业", "en": "fast food"}, "emoji": "🍔"}
+    ]
+  },
+  {
+    "text": "un libraire indépendant",
+    "ipa": "œ̃ libʁɛʁ ɛ̃depɑ̃dɑ̃",
+    "translation": {"zh": "独立书商", "en": "independent bookseller"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un libraire indépendant", "lemma": "libraire", "ipa": "œ̃ libʁɛʁ ɛ̃depɑ̃dɑ̃", "translation": {"zh": "独立书商", "en": "independent bookseller"}, "emoji": "📚"}
+    ]
+  },
+  {
+    "text": "trahir la confiance",
+    "ipa": "tʁaiʁ la kɔ̃fjɑ̃s",
+    "translation": {"zh": "背叛信任", "en": "betray trust"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "trahir", "lemma": "trahir", "ipa": "tʁaiʁ", "translation": {"zh": "背叛", "en": "betray"}, "emoji": "🗡️"},
+      {"text": "la confiance", "lemma": "confiance", "ipa": "la kɔ̃fjɑ̃s", "translation": {"zh": "信任", "en": "trust"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "être à l'aise",
+    "ipa": "ɛtʁ a lɛz",
+    "translation": {"zh": "感到自在", "en": "feel at ease"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "être à l'aise", "lemma": "aise", "ipa": "ɛtʁ a lɛz", "translation": {"zh": "自在舒适", "en": "at ease"}, "emoji": "😌"}
+    ]
+  },
+  {
+    "text": "faire du camping",
+    "ipa": "fɛʁ dy kɑ̃piŋ",
+    "translation": {"zh": "去露营", "en": "go camping"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "faire du camping", "lemma": "camping", "ipa": "fɛʁ dy kɑ̃piŋ", "translation": {"zh": "去露营", "en": "go camping"}, "emoji": "⛺"}
+    ]
+  },
+  {
+    "text": "bis !",
+    "ipa": "bis",
+    "translation": {"zh": "再来一次！", "en": "encore!"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "bis !", "lemma": "bis", "ipa": "bis", "translation": {"zh": "再来一次", "en": "encore"}, "emoji": "👏"}
+    ]
+  },
+  {
+    "text": "une descente rapide",
+    "ipa": "yn desɑ̃t ʁapid",
+    "translation": {"zh": "快速下降", "en": "rapid descent"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une descente rapide", "lemma": "descente", "ipa": "yn desɑ̃t ʁapid", "translation": {"zh": "快速下降", "en": "rapid descent"}, "emoji": "⬇️"}
+    ]
+  },
+  {
+    "text": "envelopper un cadeau",
+    "ipa": "ɑ̃vəlɔpe œ̃ kado",
+    "translation": {"zh": "包装礼物", "en": "wrap a gift"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "envelopper", "lemma": "envelopper", "ipa": "ɑ̃vəlɔpe", "translation": {"zh": "包裹", "en": "wrap"}, "emoji": "🎁"},
+      {"text": "un cadeau", "lemma": "cadeau", "ipa": "œ̃ kado", "translation": {"zh": "礼物", "en": "a gift"}, "emoji": "🎀"}
+    ]
+  },
+  {
+    "text": "un geste brutal",
+    "ipa": "œ̃ ʒɛst bʁytal",
+    "translation": {"zh": "粗暴的举动", "en": "brutal gesture"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un geste brutal", "lemma": "brutal", "ipa": "œ̃ ʒɛst bʁytal", "translation": {"zh": "粗暴的举动", "en": "brutal gesture"}, "emoji": "👊"}
+    ]
+  },
+  {
+    "text": "un vase de fleurs",
+    "ipa": "œ̃ vɑz də flœʁ",
+    "translation": {"zh": "一瓶插花", "en": "a vase of flowers"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un vase de fleurs", "lemma": "vase", "ipa": "œ̃ vɑz də flœʁ", "translation": {"zh": "花瓶", "en": "a vase of flowers"}, "emoji": "🌸"}
+    ]
+  },
+  {
+    "text": "un cycle de formation",
+    "ipa": "œ̃ sikl də fɔʁmasjɔ̃",
+    "translation": {"zh": "一轮培训周期", "en": "a training cycle"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un cycle de formation", "lemma": "cycle", "ipa": "œ̃ sikl də fɔʁmasjɔ̃", "translation": {"zh": "培训周期", "en": "a training cycle"}, "emoji": "🔄"}
+    ]
+  },
+  {
+    "text": "un rite de passage",
+    "ipa": "œ̃ ʁit də pasaʒ",
+    "translation": {"zh": "成年礼", "en": "rite of passage"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un rite de passage", "lemma": "rite", "ipa": "œ̃ ʁit də pasaʒ", "translation": {"zh": "成年礼", "en": "rite of passage"}, "emoji": "🕯️"}
+    ]
+  }
+]

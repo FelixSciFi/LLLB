@@ -1,0 +1,278 @@
+[
+  {
+    "text": "un squelette",
+    "ipa": "œ̃ skə.lɛt",
+    "translation": {"zh": "一副骷髅", "en": "a skeleton"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un squelette", "lemma": "squelette", "ipa": "œ̃ skə.lɛt", "translation": {"zh": "骷髅", "en": "skeleton"}, "emoji": "💀"}
+    ]
+  },
+  {
+    "text": "la pédagogie",
+    "ipa": "la pe.da.ɡɔ.ʒi",
+    "translation": {"zh": "教学法", "en": "pedagogy"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la pédagogie", "lemma": "pédagogie", "ipa": "la pe.da.ɡɔ.ʒi", "translation": {"zh": "教学法", "en": "pedagogy"}, "emoji": "🏫"}
+    ]
+  },
+  {
+    "text": "l'émancipation",
+    "ipa": "le.mɑ̃.si.pa.sjɔ̃",
+    "translation": {"zh": "解放", "en": "emancipation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'émancipation", "lemma": "émancipation", "ipa": "le.mɑ̃.si.pa.sjɔ̃", "translation": {"zh": "解放", "en": "emancipation"}, "emoji": "✊"}
+    ]
+  },
+  {
+    "text": "imprégner le tissu",
+    "ipa": "ɛ̃.pʁe.ɲe lə ti.sy",
+    "translation": {"zh": "浸透布料", "en": "soak the fabric"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "imprégner", "lemma": "imprégner", "ipa": "ɛ̃.pʁe.ɲe", "translation": {"zh": "浸透", "en": "to soak"}, "emoji": "💧"},
+      {"text": "le tissu", "lemma": "tissu", "ipa": "lə ti.sy", "translation": {"zh": "布料", "en": "fabric"}, "emoji": "🧵"}
+    ]
+  },
+  {
+    "text": "capter le signal",
+    "ipa": "kap.te lə si.ɲal",
+    "translation": {"zh": "接收信号", "en": "capture the signal"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "capter", "lemma": "capter", "ipa": "kap.te", "translation": {"zh": "接收", "en": "to capture"}, "emoji": "📡"},
+      {"text": "le signal", "lemma": "signal", "ipa": "lə si.ɲal", "translation": {"zh": "信号", "en": "signal"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le maquillage",
+    "ipa": "lə ma.ki.jaʒ",
+    "translation": {"zh": "化妆", "en": "makeup"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le maquillage", "lemma": "maquillage", "ipa": "lə ma.ki.jaʒ", "translation": {"zh": "化妆", "en": "makeup"}, "emoji": "💄"}
+    ]
+  },
+  {
+    "text": "une infection",
+    "ipa": "yn ɛ̃.fɛk.sjɔ̃",
+    "translation": {"zh": "一种感染", "en": "an infection"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une infection", "lemma": "infection", "ipa": "yn ɛ̃.fɛk.sjɔ̃", "translation": {"zh": "感染", "en": "infection"}, "emoji": "🦠"}
+    ]
+  },
+  {
+    "text": "bizarrement",
+    "ipa": "bi.zaʁ.mɑ̃",
+    "translation": {"zh": "奇怪地", "en": "strangely"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "bizarrement", "lemma": "bizarrement", "ipa": "bi.zaʁ.mɑ̃", "translation": {"zh": "奇怪地", "en": "strangely"}, "emoji": "🤔"}
+    ]
+  },
+  {
+    "text": "l'individualisme",
+    "ipa": "lɛ̃.di.vi.dɥa.lism",
+    "translation": {"zh": "个人主义", "en": "individualism"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'individualisme", "lemma": "individualisme", "ipa": "lɛ̃.di.vi.dɥa.lism", "translation": {"zh": "个人主义", "en": "individualism"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "conventionnel",
+    "ipa": "kɔ̃.vɑ̃.sjɔ.nɛl",
+    "translation": {"zh": "传统的", "en": "conventional"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "conventionnel", "lemma": "conventionnel", "ipa": "kɔ̃.vɑ̃.sjɔ.nɛl", "translation": {"zh": "传统的", "en": "conventional"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la panique",
+    "ipa": "la pa.nik",
+    "translation": {"zh": "恐慌", "en": "panic"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la panique", "lemma": "panique", "ipa": "la pa.nik", "translation": {"zh": "恐慌", "en": "panic"}, "emoji": "😱"}
+    ]
+  },
+  {
+    "text": "probable",
+    "ipa": "pʁɔ.babl",
+    "translation": {"zh": "可能的", "en": "probable"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "probable", "lemma": "probable", "ipa": "pʁɔ.babl", "translation": {"zh": "可能的", "en": "probable"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "c'est illégal",
+    "ipa": "sɛ i.le.ɡal",
+    "translation": {"zh": "这是违法的", "en": "it's illegal"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est illégal", "lemma": "être illégal", "ipa": "sɛ i.le.ɡal", "translation": {"zh": "违法的", "en": "illegal"}, "emoji": "🚫"}
+    ]
+  },
+  {
+    "text": "le protagoniste",
+    "ipa": "lə pʁɔ.ta.ɡɔ.nist",
+    "translation": {"zh": "主人公", "en": "protagonist"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le protagoniste", "lemma": "protagoniste", "ipa": "lə pʁɔ.ta.ɡɔ.nist", "translation": {"zh": "主人公", "en": "protagonist"}, "emoji": "🎭"}
+    ]
+  },
+  {
+    "text": "l'élimination",
+    "ipa": "le.li.mi.na.sjɔ̃",
+    "translation": {"zh": "淘汰", "en": "elimination"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'élimination", "lemma": "élimination", "ipa": "le.li.mi.na.sjɔ̃", "translation": {"zh": "淘汰", "en": "elimination"}, "emoji": "❌"}
+    ]
+  },
+  {
+    "text": "l'expérimentation",
+    "ipa": "lɛks.pe.ʁi.mɑ̃.ta.sjɔ̃",
+    "translation": {"zh": "实验", "en": "experimentation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'expérimentation", "lemma": "expérimentation", "ipa": "lɛks.pe.ʁi.mɑ̃.ta.sjɔ̃", "translation": {"zh": "实验", "en": "experimentation"}, "emoji": "🔬"}
+    ]
+  },
+  {
+    "text": "coincer la porte",
+    "ipa": "kwɛ̃.se la pɔʁt",
+    "translation": {"zh": "卡住门", "en": "jam the door"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "coincer", "lemma": "coincer", "ipa": "kwɛ̃.se", "translation": {"zh": "卡住", "en": "to jam"}, "emoji": "🚪"},
+      {"text": "la porte", "lemma": "porte", "ipa": "la pɔʁt", "translation": {"zh": "门", "en": "door"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le plancher",
+    "ipa": "lə plɑ̃.ʃe",
+    "translation": {"zh": "地板", "en": "floor"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le plancher", "lemma": "plancher", "ipa": "lə plɑ̃.ʃe", "translation": {"zh": "地板", "en": "floor"}, "emoji": "🪵"}
+    ]
+  },
+  {
+    "text": "se sentir impuissant",
+    "ipa": "sə sɑ̃.tiʁ ɛ̃.pɥi.sɑ̃",
+    "translation": {"zh": "感到无能为力", "en": "to feel powerless"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "se sentir", "lemma": "sentir", "ipa": "sə sɑ̃.tiʁ", "translation": {"zh": "感到", "en": "to feel"}, "emoji": ""},
+      {"text": "impuissant", "lemma": "impuissant", "ipa": "ɛ̃.pɥi.sɑ̃", "translation": {"zh": "无能为力", "en": "powerless"}, "emoji": "😔"}
+    ]
+  },
+  {
+    "text": "durcir",
+    "ipa": "dyʁ.siʁ",
+    "translation": {"zh": "变硬", "en": "to harden"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "durcir", "lemma": "durcir", "ipa": "dyʁ.siʁ", "translation": {"zh": "变硬", "en": "to harden"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un enseignant",
+    "ipa": "œ̃ ɑ̃.sɛ.ɲɑ̃",
+    "translation": {"zh": "一位教师", "en": "a teacher"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un enseignant", "lemma": "enseignant", "ipa": "œ̃ ɑ̃.sɛ.ɲɑ̃", "translation": {"zh": "教师", "en": "teacher"}, "emoji": "👨‍🏫"}
+    ]
+  },
+  {
+    "text": "atomique",
+    "ipa": "a.tɔ.mik",
+    "translation": {"zh": "原子的", "en": "atomic"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "atomique", "lemma": "atomique", "ipa": "a.tɔ.mik", "translation": {"zh": "原子的", "en": "atomic"}, "emoji": "⚛️"}
+    ]
+  },
+  {
+    "text": "sécuriser le réseau",
+    "ipa": "se.ky.ʁi.ze lə ʁe.zo",
+    "translation": {"zh": "保护网络安全", "en": "secure the network"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "sécuriser", "lemma": "sécuriser", "ipa": "se.ky.ʁi.ze", "translation": {"zh": "保护安全", "en": "to secure"}, "emoji": "🔒"},
+      {"text": "le réseau", "lemma": "réseau", "ipa": "lə ʁe.zo", "translation": {"zh": "网络", "en": "network"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "théorique",
+    "ipa": "te.ɔ.ʁik",
+    "translation": {"zh": "理论的", "en": "theoretical"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "théorique", "lemma": "théorique", "ipa": "te.ɔ.ʁik", "translation": {"zh": "理论的", "en": "theoretical"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "catastrophique",
+    "ipa": "ka.ta.stʁɔ.fik",
+    "translation": {"zh": "灾难性的", "en": "catastrophic"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "catastrophique", "lemma": "catastrophique", "ipa": "ka.ta.stʁɔ.fik", "translation": {"zh": "灾难性的", "en": "catastrophic"}, "emoji": "💥"}
+    ]
+  },
+  {
+    "text": "l'instabilité",
+    "ipa": "lɛ̃s.ta.bi.li.te",
+    "translation": {"zh": "不稳定性", "en": "instability"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'instabilité", "lemma": "instabilité", "ipa": "lɛ̃s.ta.bi.li.te", "translation": {"zh": "不稳定性", "en": "instability"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la déforestation",
+    "ipa": "la de.fɔ.ʁɛs.ta.sjɔ̃",
+    "translation": {"zh": "森林砍伐", "en": "deforestation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la déforestation", "lemma": "déforestation", "ipa": "la de.fɔ.ʁɛs.ta.sjɔ̃", "translation": {"zh": "森林砍伐", "en": "deforestation"}, "emoji": "🌳"}
+    ]
+  },
+  {
+    "text": "galoper",
+    "ipa": "ɡa.lɔ.pe",
+    "translation": {"zh": "奔驰", "en": "to gallop"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "galoper", "lemma": "galoper", "ipa": "ɡa.lɔ.pe", "translation": {"zh": "奔驰", "en": "to gallop"}, "emoji": "🐎"}
+    ]
+  },
+  {
+    "text": "virer à gauche",
+    "ipa": "vi.ʁe a ɡoʃ",
+    "translation": {"zh": "向左转", "en": "to turn left"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "virer", "lemma": "virer", "ipa": "vi.ʁe", "translation": {"zh": "转向", "en": "to turn"}, "emoji": "↩️"},
+      {"text": "à gauche", "lemma": "gauche", "ipa": "a ɡoʃ", "translation": {"zh": "向左", "en": "to the left"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la vitrine",
+    "ipa": "la vi.tʁin",
+    "translation": {"zh": "橱窗", "en": "shop window"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la vitrine", "lemma": "vitrine", "ipa": "la vi.tʁin", "translation": {"zh": "橱窗", "en": "shop window"}, "emoji": "🪟"}
+    ]
+  }
+]

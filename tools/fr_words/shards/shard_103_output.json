@@ -1,0 +1,286 @@
+[
+  {
+    "text": "une copie",
+    "ipa": "yn kɔpi",
+    "translation": {"zh": "一份副本", "en": "a copy"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une copie", "lemma": "copie", "ipa": "yn kɔpi", "translation": {"zh": "副本", "en": "copy"}, "emoji": "📄"}
+    ]
+  },
+  {
+    "text": "une erreur fatale",
+    "ipa": "yn ɛʁœʁ fatal",
+    "translation": {"zh": "一个致命错误", "en": "a fatal error"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une erreur", "lemma": "erreur", "ipa": "yn ɛʁœʁ", "translation": {"zh": "错误", "en": "error"}, "emoji": "❌"},
+      {"text": "fatale", "lemma": "fatal", "ipa": "fatal", "translation": {"zh": "致命的", "en": "fatal"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un village pittoresque",
+    "ipa": "œ̃ vilaʒ pitɔʁɛsk",
+    "translation": {"zh": "一个风景如画的村庄", "en": "a picturesque village"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un village", "lemma": "village", "ipa": "œ̃ vilaʒ", "translation": {"zh": "村庄", "en": "village"}, "emoji": "🏘️"},
+      {"text": "pittoresque", "lemma": "pittoresque", "ipa": "pitɔʁɛsk", "translation": {"zh": "风景如画的", "en": "picturesque"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "C'est gênant.",
+    "ipa": "sɛ ʒɛnɑ̃",
+    "translation": {"zh": "这很尴尬。", "en": "It's awkward."},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "C'est gênant", "lemma": "gênant", "ipa": "sɛ ʒɛnɑ̃", "translation": {"zh": "很尴尬", "en": "it's awkward"}, "emoji": "😬"}
+    ]
+  },
+  {
+    "text": "le fermier",
+    "ipa": "lə fɛʁmje",
+    "translation": {"zh": "农民", "en": "the farmer"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le fermier", "lemma": "fermier", "ipa": "lə fɛʁmje", "translation": {"zh": "农民", "en": "farmer"}, "emoji": "👨‍🌾"}
+    ]
+  },
+  {
+    "text": "une invite",
+    "ipa": "yn ɛ̃vit",
+    "translation": {"zh": "一个提示", "en": "a prompt"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une invite", "lemma": "invite", "ipa": "yn ɛ̃vit", "translation": {"zh": "提示", "en": "prompt"}, "emoji": "💬"}
+    ]
+  },
+  {
+    "text": "le dramaturge",
+    "ipa": "lə dʁamatyʁʒ",
+    "translation": {"zh": "剧作家", "en": "the playwright"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le dramaturge", "lemma": "dramaturge", "ipa": "lə dʁamatyʁʒ", "translation": {"zh": "剧作家", "en": "playwright"}, "emoji": "🎭"}
+    ]
+  },
+  {
+    "text": "repérer un endroit",
+    "ipa": "ʁəpeʁe œ̃ ɑ̃dʁwa",
+    "translation": {"zh": "找到一个地点", "en": "to spot a place"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "repérer", "lemma": "repérer", "ipa": "ʁəpeʁe", "translation": {"zh": "找到", "en": "to spot"}, "emoji": "🔍"},
+      {"text": "un endroit", "lemma": "endroit", "ipa": "œ̃ ɑ̃dʁwa", "translation": {"zh": "地点", "en": "a place"}, "emoji": "📍"}
+    ]
+  },
+  {
+    "text": "un gain de temps",
+    "ipa": "œ̃ ɡɛ̃ də tɑ̃",
+    "translation": {"zh": "节省时间", "en": "a time saving"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un gain", "lemma": "gain", "ipa": "œ̃ ɡɛ̃", "translation": {"zh": "收益", "en": "gain"}, "emoji": "📈"},
+      {"text": "de temps", "lemma": "temps", "ipa": "də tɑ̃", "translation": {"zh": "时间", "en": "of time"}, "emoji": "⏱️"}
+    ]
+  },
+  {
+    "text": "C'est extraordinaire.",
+    "ipa": "sɛt ɛkstʁaɔʁdinɛʁ",
+    "translation": {"zh": "这太不寻常了。", "en": "It's extraordinary."},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "C'est extraordinaire", "lemma": "extraordinaire", "ipa": "sɛt ɛkstʁaɔʁdinɛʁ", "translation": {"zh": "太不寻常了", "en": "it's extraordinary"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "la logique",
+    "ipa": "la lɔʒik",
+    "translation": {"zh": "逻辑", "en": "logic"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la logique", "lemma": "logique", "ipa": "la lɔʒik", "translation": {"zh": "逻辑", "en": "logic"}, "emoji": "🧠"}
+    ]
+  },
+  {
+    "text": "l'équipage",
+    "ipa": "lekipaʒ",
+    "translation": {"zh": "船员", "en": "the crew"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'équipage", "lemma": "équipage", "ipa": "lekipaʒ", "translation": {"zh": "船员", "en": "crew"}, "emoji": "⚓"}
+    ]
+  },
+  {
+    "text": "frissonner de froid",
+    "ipa": "fʁisɔne də fʁwa",
+    "translation": {"zh": "因寒冷而颤抖", "en": "to shiver from cold"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "frissonner", "lemma": "frissonner", "ipa": "fʁisɔne", "translation": {"zh": "颤抖", "en": "to shiver"}, "emoji": "🥶"},
+      {"text": "de froid", "lemma": "froid", "ipa": "də fʁwa", "translation": {"zh": "因寒冷", "en": "from cold"}, "emoji": "❄️"}
+    ]
+  },
+  {
+    "text": "le tabagisme",
+    "ipa": "lə tabaʒism",
+    "translation": {"zh": "吸烟成瘾", "en": "smoking addiction"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le tabagisme", "lemma": "tabagisme", "ipa": "lə tabaʒism", "translation": {"zh": "吸烟成瘾", "en": "smoking addiction"}, "emoji": "🚬"}
+    ]
+  },
+  {
+    "text": "une boucle",
+    "ipa": "yn bukl",
+    "translation": {"zh": "一个环", "en": "a loop"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une boucle", "lemma": "boucle", "ipa": "yn bukl", "translation": {"zh": "环", "en": "loop"}, "emoji": "🔄"}
+    ]
+  },
+  {
+    "text": "penser différemment",
+    "ipa": "pɑ̃se difeʁamɑ̃",
+    "translation": {"zh": "以不同方式思考", "en": "to think differently"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "penser", "lemma": "penser", "ipa": "pɑ̃se", "translation": {"zh": "思考", "en": "to think"}, "emoji": "💭"},
+      {"text": "différemment", "lemma": "différemment", "ipa": "difeʁamɑ̃", "translation": {"zh": "以不同方式", "en": "differently"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une célébrité",
+    "ipa": "yn selebʁite",
+    "translation": {"zh": "一位名人", "en": "a celebrity"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une célébrité", "lemma": "célébrité", "ipa": "yn selebʁite", "translation": {"zh": "名人", "en": "celebrity"}, "emoji": "⭐"}
+    ]
+  },
+  {
+    "text": "rentraire un tissu",
+    "ipa": "ʁɑ̃tʁɛʁ œ̃ tisy",
+    "translation": {"zh": "缝补织物", "en": "to darn a fabric"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "rentraire", "lemma": "rentraire", "ipa": "ʁɑ̃tʁɛʁ", "translation": {"zh": "缝补", "en": "to darn"}, "emoji": "🪡"},
+      {"text": "un tissu", "lemma": "tissu", "ipa": "œ̃ tisy", "translation": {"zh": "织物", "en": "a fabric"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "être célibataire",
+    "ipa": "ɛtʁ selibatɛʁ",
+    "translation": {"zh": "单身", "en": "to be single"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "être célibataire", "lemma": "célibataire", "ipa": "ɛtʁ selibatɛʁ", "translation": {"zh": "单身", "en": "to be single"}, "emoji": "🙋"}
+    ]
+  },
+  {
+    "text": "pêcher au lac",
+    "ipa": "pɛʃe o lak",
+    "translation": {"zh": "在湖里钓鱼", "en": "to fish at the lake"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "pêcher", "lemma": "pêcher", "ipa": "pɛʃe", "translation": {"zh": "钓鱼", "en": "to fish"}, "emoji": "🎣"},
+      {"text": "au lac", "lemma": "lac", "ipa": "o lak", "translation": {"zh": "在湖边", "en": "at the lake"}, "emoji": "🏞️"}
+    ]
+  },
+  {
+    "text": "s'acharner à réussir",
+    "ipa": "saʃaʁne a ʁeysiʁ",
+    "translation": {"zh": "拼命努力成功", "en": "to strive hard to succeed"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "s'acharner", "lemma": "acharner", "ipa": "saʃaʁne", "translation": {"zh": "拼命努力", "en": "to strive hard"}, "emoji": "💪"},
+      {"text": "à réussir", "lemma": "réussir", "ipa": "a ʁeysiʁ", "translation": {"zh": "去成功", "en": "to succeed"}, "emoji": "🏆"}
+    ]
+  },
+  {
+    "text": "un demi-siècle",
+    "ipa": "œ̃ dəmi sjɛkl",
+    "translation": {"zh": "半个世纪", "en": "half a century"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un demi-siècle", "lemma": "demi-siècle", "ipa": "œ̃ dəmi sjɛkl", "translation": {"zh": "半个世纪", "en": "half a century"}, "emoji": "🕰️"}
+    ]
+  },
+  {
+    "text": "une analyse superficielle",
+    "ipa": "yn analiz sypɛʁfisjɛl",
+    "translation": {"zh": "一个肤浅的分析", "en": "a superficial analysis"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une analyse", "lemma": "analyse", "ipa": "yn analiz", "translation": {"zh": "分析", "en": "analysis"}, "emoji": "🔬"},
+      {"text": "superficielle", "lemma": "superficiel", "ipa": "sypɛʁfisjɛl", "translation": {"zh": "肤浅的", "en": "superficial"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "C'est étrange.",
+    "ipa": "sɛt etʁɑ̃ʒ",
+    "translation": {"zh": "这很奇怪。", "en": "It's strange."},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "C'est étrange", "lemma": "étrange", "ipa": "sɛt etʁɑ̃ʒ", "translation": {"zh": "很奇怪", "en": "it's strange"}, "emoji": "🤔"}
+    ]
+  },
+  {
+    "text": "une aiguille",
+    "ipa": "yn ɛɡɥij",
+    "translation": {"zh": "一根针", "en": "a needle"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une aiguille", "lemma": "aiguille", "ipa": "yn ɛɡɥij", "translation": {"zh": "针", "en": "needle"}, "emoji": "🪡"}
+    ]
+  },
+  {
+    "text": "un acteur comique",
+    "ipa": "œ̃ aktœʁ kɔmik",
+    "translation": {"zh": "一位喜剧演员", "en": "a comic actor"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un acteur", "lemma": "acteur", "ipa": "œ̃ aktœʁ", "translation": {"zh": "演员", "en": "actor"}, "emoji": "🎬"},
+      {"text": "comique", "lemma": "comique", "ipa": "kɔmik", "translation": {"zh": "喜剧的", "en": "comic"}, "emoji": "😄"}
+    ]
+  },
+  {
+    "text": "accessible à tous",
+    "ipa": "aksɛsibl a tu",
+    "translation": {"zh": "对所有人开放", "en": "accessible to all"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "accessible", "lemma": "accessible", "ipa": "aksɛsibl", "translation": {"zh": "可进入的", "en": "accessible"}, "emoji": "♿"},
+      {"text": "à tous", "lemma": "tout", "ipa": "a tu", "translation": {"zh": "对所有人", "en": "to all"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la drogue",
+    "ipa": "la dʁɔɡ",
+    "translation": {"zh": "毒品", "en": "drug"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la drogue", "lemma": "drogue", "ipa": "la dʁɔɡ", "translation": {"zh": "毒品", "en": "drug"}, "emoji": "💊"}
+    ]
+  },
+  {
+    "text": "étaler du beurre",
+    "ipa": "etale dy bœʁ",
+    "translation": {"zh": "涂抹黄油", "en": "to spread butter"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "étaler", "lemma": "étaler", "ipa": "etale", "translation": {"zh": "涂抹", "en": "to spread"}, "emoji": "🧈"},
+      {"text": "du beurre", "lemma": "beurre", "ipa": "dy bœʁ", "translation": {"zh": "黄油", "en": "butter"}, "emoji": "🧈"}
+    ]
+  },
+  {
+    "text": "un forum en ligne",
+    "ipa": "œ̃ fɔʁɔm ɑ̃ liɲ",
+    "translation": {"zh": "一个在线论坛", "en": "an online forum"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un forum", "lemma": "forum", "ipa": "œ̃ fɔʁɔm", "translation": {"zh": "论坛", "en": "forum"}, "emoji": "💬"},
+      {"text": "en ligne", "lemma": "ligne", "ipa": "ɑ̃ liɲ", "translation": {"zh": "在线", "en": "online"}, "emoji": "🌐"}
+    ]
+  }
+]

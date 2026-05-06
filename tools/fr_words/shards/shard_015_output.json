@@ -1,0 +1,275 @@
+[
+  {
+    "text": "mise en place",
+    "ipa": "miz ɑ̃ plas",
+    "translation": {"zh": "准备工作", "en": "setup, preparation"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "mise en place", "lemma": "mise", "ipa": "miz ɑ̃ plas", "translation": {"zh": "准备就绪", "en": "setup"}, "emoji": "🔧"}
+    ]
+  },
+  {
+    "text": "c'est nécessaire",
+    "ipa": "sɛ nesɛsɛʁ",
+    "translation": {"zh": "这是必要的", "en": "it's necessary"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "c'est nécessaire", "lemma": "nécessaire", "ipa": "sɛ nesɛsɛʁ", "translation": {"zh": "必要的", "en": "necessary"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "je souris",
+    "ipa": "ʒə suʁi",
+    "translation": {"zh": "我在微笑", "en": "I smile"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je souris", "lemma": "sourire", "ipa": "ʒə suʁi", "translation": {"zh": "微笑", "en": "smile"}, "emoji": "😊"}
+    ]
+  },
+  {
+    "text": "je suis curieux",
+    "ipa": "ʒə sɥi kyʁjø",
+    "translation": {"zh": "我很好奇", "en": "I'm curious"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je suis curieux", "lemma": "curieux", "ipa": "ʒə sɥi kyʁjø", "translation": {"zh": "好奇的", "en": "curious"}, "emoji": "🤔"}
+    ]
+  },
+  {
+    "text": "ne t'inquiète pas",
+    "ipa": "nə tɛ̃kjɛt pa",
+    "translation": {"zh": "别担心", "en": "don't worry"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "ne t'inquiète pas", "lemma": "inquiéter", "ipa": "nə tɛ̃kjɛt pa", "translation": {"zh": "别担心", "en": "don't worry"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "construction",
+    "ipa": "kɔ̃stʁyкsjɔ̃",
+    "translation": {"zh": "建筑，建造", "en": "construction"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "construction", "lemma": "construction", "ipa": "kɔ̃stʁyksjɔ̃", "translation": {"zh": "建筑", "en": "construction"}, "emoji": "🏗️"}
+    ]
+  },
+  {
+    "text": "une pensée",
+    "ipa": "yn pɑ̃se",
+    "translation": {"zh": "一个想法", "en": "a thought"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une pensée", "lemma": "pensée", "ipa": "yn pɑ̃se", "translation": {"zh": "想法", "en": "thought"}, "emoji": "💭"}
+    ]
+  },
+  {
+    "text": "à la fin",
+    "ipa": "a la fɛ̃",
+    "translation": {"zh": "最终，到最后", "en": "in the end"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "à la fin", "lemma": "fin", "ipa": "a la fɛ̃", "translation": {"zh": "结尾", "en": "end"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "il est condamné",
+    "ipa": "il ɛ kɔ̃dane",
+    "translation": {"zh": "他被判了罪", "en": "he is condemned"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il est condamné", "lemma": "condamner", "ipa": "il ɛ kɔ̃dane", "translation": {"zh": "被判有罪", "en": "is condemned"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "c'est rare",
+    "ipa": "sɛ ʁaʁ",
+    "translation": {"zh": "这很罕见", "en": "it's rare"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "c'est rare", "lemma": "rare", "ipa": "sɛ ʁaʁ", "translation": {"zh": "罕见的", "en": "rare"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "sûrement",
+    "ipa": "syʁmɑ̃",
+    "translation": {"zh": "肯定，确实", "en": "surely"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "sûrement", "lemma": "sûrement", "ipa": "syʁmɑ̃", "translation": {"zh": "肯定", "en": "surely"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "elle saute",
+    "ipa": "ɛl sot",
+    "translation": {"zh": "她跳起来", "en": "she jumps"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "elle saute", "lemma": "sauter", "ipa": "ɛl sot", "translation": {"zh": "跳", "en": "jump"}, "emoji": "🦘"}
+    ]
+  },
+  {
+    "text": "du fer",
+    "ipa": "dy fɛʁ",
+    "translation": {"zh": "铁", "en": "iron"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "du fer", "lemma": "fer", "ipa": "dy fɛʁ", "translation": {"zh": "铁", "en": "iron"}, "emoji": "🔩"}
+    ]
+  },
+  {
+    "text": "une trace",
+    "ipa": "yn tʁas",
+    "translation": {"zh": "一道痕迹", "en": "a trace"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une trace", "lemma": "trace", "ipa": "yn tʁas", "translation": {"zh": "痕迹", "en": "trace"}, "emoji": "👣"}
+    ]
+  },
+  {
+    "text": "c'est profond",
+    "ipa": "sɛ pʁɔfɔ̃",
+    "translation": {"zh": "这很深刻", "en": "it's deep"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est profond", "lemma": "profond", "ipa": "sɛ pʁɔfɔ̃", "translation": {"zh": "深的", "en": "deep"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "je juge",
+    "ipa": "ʒə ʒyʒ",
+    "translation": {"zh": "我判断", "en": "I judge"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "je juge", "lemma": "juger", "ipa": "ʒə ʒyʒ", "translation": {"zh": "判断", "en": "judge"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "une centaine de personnes",
+    "ipa": "yn sɑ̃tɛn də pɛʁsɔn",
+    "translation": {"zh": "大约一百人", "en": "about a hundred people"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une centaine de personnes", "lemma": "centaine", "ipa": "yn sɑ̃tɛn də pɛʁsɔn", "translation": {"zh": "约百人", "en": "about a hundred"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "production",
+    "ipa": "pʁɔdyksjɔ̃",
+    "translation": {"zh": "生产，产量", "en": "production"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "production", "lemma": "production", "ipa": "pʁɔdyksjɔ̃", "translation": {"zh": "生产", "en": "production"}, "emoji": "🏭"}
+    ]
+  },
+  {
+    "text": "l'écriture",
+    "ipa": "lekʁityʁ",
+    "translation": {"zh": "书写，写作", "en": "writing"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'écriture", "lemma": "écriture", "ipa": "lekʁityʁ", "translation": {"zh": "写作", "en": "writing"}, "emoji": "✍️"}
+    ]
+  },
+  {
+    "text": "je regarde la télé",
+    "ipa": "ʒə ʁəɡaʁd la tele",
+    "translation": {"zh": "我在看电视", "en": "I watch TV"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je regarde", "lemma": "regarder", "ipa": "ʒə ʁəɡaʁd", "translation": {"zh": "看", "en": "watch"}, "emoji": ""},
+      {"text": "la télé", "lemma": "télé", "ipa": "la tele", "translation": {"zh": "电视", "en": "TV"}, "emoji": "📺"}
+    ]
+  },
+  {
+    "text": "elle souffre",
+    "ipa": "ɛl sufʁ",
+    "translation": {"zh": "她在受苦", "en": "she suffers"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "elle souffre", "lemma": "souffrir", "ipa": "ɛl sufʁ", "translation": {"zh": "受苦", "en": "suffer"}, "emoji": "😔"}
+    ]
+  },
+  {
+    "text": "l'honneur",
+    "ipa": "lɔnœʁ",
+    "translation": {"zh": "荣誉", "en": "honor"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "l'honneur", "lemma": "honneur", "ipa": "lɔnœʁ", "translation": {"zh": "荣誉", "en": "honor"}, "emoji": "🏅"}
+    ]
+  },
+  {
+    "text": "le peuple",
+    "ipa": "lə pœpl",
+    "translation": {"zh": "人民，民众", "en": "the people"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le peuple", "lemma": "peuple", "ipa": "lə pœpl", "translation": {"zh": "人民", "en": "people"}, "emoji": "👥"}
+    ]
+  },
+  {
+    "text": "secteur privé",
+    "ipa": "sɛktœʁ pʁive",
+    "translation": {"zh": "私营部门", "en": "private sector"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "secteur privé", "lemma": "privé", "ipa": "sɛktœʁ pʁive", "translation": {"zh": "私营的", "en": "private"}, "emoji": "🏢"}
+    ]
+  },
+  {
+    "text": "une salle sombre",
+    "ipa": "yn sal sɔ̃bʁ",
+    "translation": {"zh": "一间昏暗的房间", "en": "a dark room"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une salle sombre", "lemma": "sombre", "ipa": "yn sal sɔ̃bʁ", "translation": {"zh": "昏暗的", "en": "dark"}, "emoji": "🌑"}
+    ]
+  },
+  {
+    "text": "une émotion",
+    "ipa": "yn emosjɔ̃",
+    "translation": {"zh": "一种情感", "en": "an emotion"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une émotion", "lemma": "émotion", "ipa": "yn emosjɔ̃", "translation": {"zh": "情感", "en": "emotion"}, "emoji": "❤️"}
+    ]
+  },
+  {
+    "text": "le titre du livre",
+    "ipa": "lə titʁ dy livʁ",
+    "translation": {"zh": "书的标题", "en": "the book's title"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le titre", "lemma": "titre", "ipa": "lə titʁ", "translation": {"zh": "标题", "en": "title"}, "emoji": "📖"},
+      {"text": "du livre", "lemma": "livre", "ipa": "dy livʁ", "translation": {"zh": "书的", "en": "of the book"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le dîner est prêt",
+    "ipa": "lə dine ɛ pʁɛ",
+    "translation": {"zh": "晚饭好了", "en": "dinner is ready"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le dîner", "lemma": "dîner", "ipa": "lə dine", "translation": {"zh": "晚餐", "en": "dinner"}, "emoji": "🍽️"},
+      {"text": "est prêt", "lemma": "prêt", "ipa": "ɛ pʁɛ", "translation": {"zh": "准备好了", "en": "is ready"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la littérature française",
+    "ipa": "la liteʁatyʁ fʁɑ̃sɛz",
+    "translation": {"zh": "法国文学", "en": "French literature"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la littérature française", "lemma": "littérature", "ipa": "la liteʁatyʁ fʁɑ̃sɛz", "translation": {"zh": "文学", "en": "literature"}, "emoji": "📚"}
+    ]
+  },
+  {
+    "text": "nous discutons",
+    "ipa": "nu diskytɔ̃",
+    "translation": {"zh": "我们在讨论", "en": "we discuss"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "nous discutons", "lemma": "discuter", "ipa": "nu diskytɔ̃", "translation": {"zh": "讨论", "en": "discuss"}, "emoji": "💬"}
+    ]
+  }
+]

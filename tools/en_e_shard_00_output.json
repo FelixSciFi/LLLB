@@ -1,0 +1,182 @@
+[
+  {
+    "input_word": "each",
+    "entries": []
+  },
+  {
+    "input_word": "ear",
+    "entries": [
+      {"text": "ear", "ipa": "/ɪr/", "cefr": "A1", "zh": "耳朵", "emoji": "👂"}
+    ]
+  },
+  {
+    "input_word": "early",
+    "entries": [
+      {"text": "early", "ipa": "/ˈɜːrli/", "cefr": "A1", "zh": "早的", "emoji": "🌅"}
+    ]
+  },
+  {
+    "input_word": "earn",
+    "entries": [
+      {"text": "earn", "ipa": "/ɜːrn/", "cefr": "A2", "zh": "赚得", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_word": "earth",
+    "entries": [
+      {"text": "earth", "ipa": "/ɜːrθ/", "cefr": "A2", "zh": "地球", "emoji": "🌍"},
+      {"text": "earth", "ipa": "/ɜːrθ/", "cefr": "A2", "zh": "土壤", "emoji": "🪱"}
+    ]
+  },
+  {
+    "input_word": "earthquake",
+    "entries": [
+      {"text": "earthquake", "ipa": "/ˈɜːrθkweɪk/", "cefr": "B1", "zh": "地震", "emoji": "🌋"}
+    ]
+  },
+  {
+    "input_word": "easily",
+    "entries": [
+      {"text": "easily", "ipa": "/ˈiːzəli/", "cefr": "A2", "zh": "容易地", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "east",
+    "entries": [
+      {"text": "east", "ipa": "/iːst/", "cefr": "A1", "zh": "东方", "emoji": "🧭"}
+    ]
+  },
+  {
+    "input_word": "eastern",
+    "entries": [
+      {"text": "eastern", "ipa": "/ˈiːstərn/", "cefr": "B1", "zh": "东部的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "easy",
+    "entries": [
+      {"text": "easy", "ipa": "/ˈiːzi/", "cefr": "A1", "zh": "容易的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "eat",
+    "entries": [
+      {"text": "eat", "ipa": "/iːt/", "cefr": "A1", "zh": "吃", "emoji": "🍽️"}
+    ]
+  },
+  {
+    "input_word": "economic",
+    "entries": [
+      {"text": "economic", "ipa": "/ˌɛkəˈnɑːmɪk/", "cefr": "B1", "zh": "经济的", "emoji": "📈"}
+    ]
+  },
+  {
+    "input_word": "economy",
+    "entries": [
+      {"text": "economy", "ipa": "/ɪˈkɑːnəmi/", "cefr": "B1", "zh": "经济", "emoji": "💹"}
+    ]
+  },
+  {
+    "input_word": "edge",
+    "entries": [
+      {"text": "edge", "ipa": "/ɛdʒ/", "cefr": "B1", "zh": "边缘", "emoji": ""},
+      {"text": "edge", "ipa": "/ɛdʒ/", "cefr": "B1", "zh": "优势", "emoji": "🏆"}
+    ]
+  },
+  {
+    "input_word": "edit",
+    "entries": [
+      {"text": "edit", "ipa": "/ˈɛdɪt/", "cefr": "B2", "zh": "编辑", "emoji": "✏️"}
+    ]
+  },
+  {
+    "input_word": "edition",
+    "entries": [
+      {"text": "edition", "ipa": "/ɪˈdɪʃən/", "cefr": "B2", "zh": "版本", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_word": "editor",
+    "entries": [
+      {"text": "editor", "ipa": "/ˈɛdɪtər/", "cefr": "B1", "zh": "编辑者", "emoji": "📝"}
+    ]
+  },
+  {
+    "input_word": "educate",
+    "entries": [
+      {"text": "educate", "ipa": "/ˈɛdʒʊkeɪt/", "cefr": "B1", "zh": "教育", "emoji": "🎓"}
+    ]
+  },
+  {
+    "input_word": "educated",
+    "entries": [
+      {"text": "educated", "ipa": "/ˈɛdʒʊkeɪtɪd/", "cefr": "B1", "zh": "受过教育的", "emoji": "🎓"}
+    ]
+  },
+  {
+    "input_word": "education",
+    "entries": [
+      {"text": "education", "ipa": "/ˌɛdʒʊˈkeɪʃən/", "cefr": "A2", "zh": "教育", "emoji": "🏫"}
+    ]
+  },
+  {
+    "input_word": "educational",
+    "entries": [
+      {"text": "educational", "ipa": "/ˌɛdʒʊˈkeɪʃənəl/", "cefr": "B1", "zh": "教育性的", "emoji": "📚"}
+    ]
+  },
+  {
+    "input_word": "effect",
+    "entries": [
+      {"text": "effect", "ipa": "/ɪˈfɛkt/", "cefr": "A2", "zh": "效果", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "effective",
+    "entries": [
+      {"text": "effective", "ipa": "/ɪˈfɛktɪv/", "cefr": "B1", "zh": "有效的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "effectively",
+    "entries": [
+      {"text": "effectively", "ipa": "/ɪˈfɛktɪvli/", "cefr": "B1", "zh": "有效地", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "efficient",
+    "entries": [
+      {"text": "efficient", "ipa": "/ɪˈfɪʃənt/", "cefr": "B2", "zh": "高效的", "emoji": "⚡"}
+    ]
+  },
+  {
+    "input_word": "effort",
+    "entries": [
+      {"text": "effort", "ipa": "/ˈɛfərt/", "cefr": "B1", "zh": "努力", "emoji": "💪"}
+    ]
+  },
+  {
+    "input_word": "egg",
+    "entries": [
+      {"text": "egg", "ipa": "/ɛɡ/", "cefr": "A1", "zh": "鸡蛋", "emoji": "🥚"}
+    ]
+  },
+  {
+    "input_word": "eight",
+    "entries": [
+      {"text": "eight", "ipa": "/eɪt/", "cefr": "A1", "zh": "八", "emoji": "8️⃣"}
+    ]
+  },
+  {
+    "input_word": "eighteen",
+    "entries": [
+      {"text": "eighteen", "ipa": "/ˌeɪˈtiːn/", "cefr": "A1", "zh": "十八", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "eighty",
+    "entries": [
+      {"text": "eighty", "ipa": "/ˈeɪti/", "cefr": "A1", "zh": "八十", "emoji": ""}
+    ]
+  }
+]

@@ -1,0 +1,229 @@
+[
+  {
+    "input_word": "surround",
+    "entries": [
+      {
+        "text": "surround",
+        "ipa": "/səˈraʊnd/",
+        "cefr": "B2",
+        "zh": "包围",
+        "emoji": "🔄"
+      }
+    ]
+  },
+  {
+    "input_word": "surrounding",
+    "entries": [
+      {
+        "text": "surrounding",
+        "ipa": "/səˈraʊndɪŋ/",
+        "cefr": "B2",
+        "zh": "周围的",
+        "emoji": "🌐"
+      }
+    ]
+  },
+  {
+    "input_word": "survey",
+    "entries": [
+      {
+        "text": "survey",
+        "ipa": "/ˈsɜːrveɪ/",
+        "cefr": "A2",
+        "zh": "调查",
+        "emoji": "📋"
+      },
+      {
+        "text": "survey",
+        "ipa": "/ˈsɜːrveɪ/",
+        "cefr": "A2",
+        "zh": "勘测",
+        "emoji": "📐"
+      }
+    ]
+  },
+  {
+    "input_word": "survive",
+    "entries": [
+      {
+        "text": "survive",
+        "ipa": "/sərˈvaɪv/",
+        "cefr": "B1",
+        "zh": "幸存",
+        "emoji": "🌱"
+      }
+    ]
+  },
+  {
+    "input_word": "suspect",
+    "entries": [
+      {
+        "text": "suspect",
+        "ipa": "/səˈspɛkt/",
+        "cefr": "B2",
+        "zh": "怀疑",
+        "emoji": "🤔"
+      },
+      {
+        "text": "suspect",
+        "ipa": "/ˈsʌspɛkt/",
+        "cefr": "B2",
+        "zh": "嫌疑人",
+        "emoji": "🕵️"
+      }
+    ]
+  },
+  {
+    "input_word": "swear",
+    "entries": [
+      {
+        "text": "swear",
+        "ipa": "/swɛr/",
+        "cefr": "B2",
+        "zh": "发誓",
+        "emoji": "🤞"
+      },
+      {
+        "text": "swear",
+        "ipa": "/swɛr/",
+        "cefr": "B2",
+        "zh": "骂人",
+        "emoji": "🤬"
+      }
+    ]
+  },
+  {
+    "input_word": "sweater",
+    "entries": [
+      {
+        "text": "sweater",
+        "ipa": "/ˈswɛtər/",
+        "cefr": "A1",
+        "zh": "毛衣",
+        "emoji": "🧥"
+      }
+    ]
+  },
+  {
+    "input_word": "sweep",
+    "entries": [
+      {
+        "text": "sweep",
+        "ipa": "/swiːp/",
+        "cefr": "B2",
+        "zh": "扫除",
+        "emoji": "🧹"
+      }
+    ]
+  },
+  {
+    "input_word": "sweet",
+    "entries": [
+      {
+        "text": "sweet",
+        "ipa": "/swiːt/",
+        "cefr": "A2",
+        "zh": "甜的",
+        "emoji": "🍬"
+      },
+      {
+        "text": "sweet",
+        "ipa": "/swiːt/",
+        "cefr": "A2",
+        "zh": "可爱的",
+        "emoji": "😊"
+      }
+    ]
+  },
+  {
+    "input_word": "swim",
+    "entries": [
+      {
+        "text": "swim",
+        "ipa": "/swɪm/",
+        "cefr": "A1",
+        "zh": "游泳",
+        "emoji": "🏊"
+      }
+    ]
+  },
+  {
+    "input_word": "swimming",
+    "entries": [
+      {
+        "text": "swimming",
+        "ipa": "/ˈswɪmɪŋ/",
+        "cefr": "A1",
+        "zh": "游泳",
+        "emoji": "🏊"
+      }
+    ]
+  },
+  {
+    "input_word": "switch",
+    "entries": [
+      {
+        "text": "switch",
+        "ipa": "/swɪtʃ/",
+        "cefr": "B1",
+        "zh": "切换",
+        "emoji": "🔀"
+      },
+      {
+        "text": "switch",
+        "ipa": "/swɪtʃ/",
+        "cefr": "B1",
+        "zh": "开关",
+        "emoji": "🔌"
+      }
+    ]
+  },
+  {
+    "input_word": "symbol",
+    "entries": [
+      {
+        "text": "symbol",
+        "ipa": "/ˈsɪmbəl/",
+        "cefr": "A2",
+        "zh": "符号",
+        "emoji": "🔣"
+      }
+    ]
+  },
+  {
+    "input_word": "sympathy",
+    "entries": [
+      {
+        "text": "sympathy",
+        "ipa": "/ˈsɪmpəθi/",
+        "cefr": "B2",
+        "zh": "同情",
+        "emoji": "💙"
+      }
+    ]
+  },
+  {
+    "input_word": "symptom",
+    "entries": [
+      {
+        "text": "symptom",
+        "ipa": "/ˈsɪmptəm/",
+        "cefr": "B1",
+        "zh": "症状",
+        "emoji": "🤒"
+      }
+    ]
+  },
+  {
+    "input_word": "system",
+    "entries": [
+      {
+        "text": "system",
+        "ipa": "/ˈsɪstəm/",
+        "cefr": "A2",
+        "zh": "系统",
+        "emoji": "⚙️"
+      }
+    ]
+  }
+]

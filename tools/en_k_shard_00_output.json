@@ -1,0 +1,232 @@
+[
+  {
+    "input_word": "keen",
+    "entries": [
+      {
+        "text": "keen",
+        "ipa": "/kiːn/",
+        "cefr": "B1",
+        "zh": "热衷的",
+        "emoji": "🔥"
+      }
+    ]
+  },
+  {
+    "input_word": "keep",
+    "entries": [
+      {
+        "text": "keep",
+        "ipa": "/kiːp/",
+        "cefr": "A1",
+        "zh": "保持",
+        "emoji": "🤲"
+      }
+    ]
+  },
+  {
+    "input_word": "key",
+    "entries": [
+      {
+        "text": "key",
+        "ipa": "/kiː/",
+        "cefr": "A1",
+        "zh": "钥匙",
+        "emoji": "🔑"
+      },
+      {
+        "text": "key",
+        "ipa": "/kiː/",
+        "cefr": "A1",
+        "zh": "关键的",
+        "emoji": "⭐"
+      }
+    ]
+  },
+  {
+    "input_word": "keyboard",
+    "entries": [
+      {
+        "text": "keyboard",
+        "ipa": "/ˈkiːbɔːrd/",
+        "cefr": "B1",
+        "zh": "键盘",
+        "emoji": "⌨️"
+      }
+    ]
+  },
+  {
+    "input_word": "kick",
+    "entries": [
+      {
+        "text": "kick",
+        "ipa": "/kɪk/",
+        "cefr": "B1",
+        "zh": "踢",
+        "emoji": "🦵"
+      }
+    ]
+  },
+  {
+    "input_word": "kid",
+    "entries": [
+      {
+        "text": "kid",
+        "ipa": "/kɪd/",
+        "cefr": "A2",
+        "zh": "孩子",
+        "emoji": "👦"
+      }
+    ]
+  },
+  {
+    "input_word": "kill",
+    "entries": [
+      {
+        "text": "kill",
+        "ipa": "/kɪl/",
+        "cefr": "A2",
+        "zh": "杀死",
+        "emoji": "💀"
+      }
+    ]
+  },
+  {
+    "input_word": "killing",
+    "entries": [
+      {
+        "text": "killing",
+        "ipa": "/ˈkɪlɪŋ/",
+        "cefr": "B1",
+        "zh": "杀戮",
+        "emoji": "⚔️"
+      }
+    ]
+  },
+  {
+    "input_word": "kilometre",
+    "entries": [
+      {
+        "text": "kilometre",
+        "ipa": "/kɪˈlɑːmɪtər/",
+        "cefr": "A1",
+        "zh": "千米",
+        "emoji": "📏"
+      }
+    ]
+  },
+  {
+    "input_word": "kind",
+    "entries": [
+      {
+        "text": "kind",
+        "ipa": "/kaɪnd/",
+        "cefr": "A1",
+        "zh": "种类",
+        "emoji": "📂"
+      },
+      {
+        "text": "kind",
+        "ipa": "/kaɪnd/",
+        "cefr": "A1",
+        "zh": "善良的",
+        "emoji": "💛"
+      }
+    ]
+  },
+  {
+    "input_word": "king",
+    "entries": [
+      {
+        "text": "king",
+        "ipa": "/kɪŋ/",
+        "cefr": "A2",
+        "zh": "国王",
+        "emoji": "👑"
+      }
+    ]
+  },
+  {
+    "input_word": "kiss",
+    "entries": [
+      {
+        "text": "kiss",
+        "ipa": "/kɪs/",
+        "cefr": "B1",
+        "zh": "亲吻",
+        "emoji": "💋"
+      }
+    ]
+  },
+  {
+    "input_word": "kitchen",
+    "entries": [
+      {
+        "text": "kitchen",
+        "ipa": "/ˈkɪtʃən/",
+        "cefr": "A1",
+        "zh": "厨房",
+        "emoji": "🍳"
+      }
+    ]
+  },
+  {
+    "input_word": "knee",
+    "entries": [
+      {
+        "text": "knee",
+        "ipa": "/niː/",
+        "cefr": "A2",
+        "zh": "膝盖",
+        "emoji": "🦵"
+      }
+    ]
+  },
+  {
+    "input_word": "knife",
+    "entries": [
+      {
+        "text": "knife",
+        "ipa": "/naɪf/",
+        "cefr": "A2",
+        "zh": "刀",
+        "emoji": "🔪"
+      }
+    ]
+  },
+  {
+    "input_word": "knock",
+    "entries": [
+      {
+        "text": "knock",
+        "ipa": "/nɑːk/",
+        "cefr": "A2",
+        "zh": "敲击",
+        "emoji": "🚪"
+      }
+    ]
+  },
+  {
+    "input_word": "know",
+    "entries": [
+      {
+        "text": "know",
+        "ipa": "/noʊ/",
+        "cefr": "A1",
+        "zh": "知道",
+        "emoji": "💡"
+      }
+    ]
+  },
+  {
+    "input_word": "knowledge",
+    "entries": [
+      {
+        "text": "knowledge",
+        "ipa": "/ˈnɑːlɪdʒ/",
+        "cefr": "A2",
+        "zh": "知识",
+        "emoji": "📚"
+      }
+    ]
+  }
+]

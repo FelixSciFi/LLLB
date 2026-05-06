@@ -1,0 +1,115 @@
+[
+  {
+    "text": "我看见他戴着黑布小帽，穿着黑布大马褂，深青布棉袍。",
+    "ipa": "wǒ kàn jiàn tā dài zhe hēi bù xiǎo mào, chuān zhe hēi bù dà mǎ guà, shēn qīng bù mián páo.",
+    "translation": {
+      "zh": "我看见他戴着黑布小帽，穿着黑布大马褂，深青布棉袍。",
+      "en": "I saw him wearing a small black cloth cap, a large black cloth jacket, and a dark blue cotton-padded gown."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "我看见他",
+        "lemma": "看见",
+        "ipa": "wǒ kàn jiàn tā",
+        "translation": {"zh": "我瞧见他", "en": "I saw him"},
+        "emoji": "👀"
+      },
+      {
+        "text": "戴着黑布小帽",
+        "lemma": "戴",
+        "ipa": "dài zhe hēi bù xiǎo mào",
+        "translation": {"zh": "头上戴小黑布帽子", "en": "wearing black cloth cap"},
+        "emoji": "🎩"
+      },
+      {
+        "text": "穿着黑布大马褂",
+        "lemma": "穿",
+        "ipa": "chuān zhe hēi bù dà mǎ guà",
+        "translation": {"zh": "身上穿黑布马褂", "en": "wearing black cloth jacket"},
+        "emoji": "🧥"
+      },
+      {
+        "text": "深青布棉袍",
+        "lemma": "棉袍",
+        "ipa": "shēn qīng bù mián páo",
+        "translation": {"zh": "深青色的布棉袍子", "en": "dark blue cotton gown"},
+        "emoji": "👘"
+      }
+    ],
+    "tags": [{"name": "背影", "index": 1}]
+  },
+  {
+    "text": "蹒跚地走到铁道边，慢慢探身下去，尚不大难。",
+    "ipa": "pán shān de zǒu dào tiě dào biān, màn màn tàn shēn xià qù, shàng bù dà nán.",
+    "translation": {
+      "zh": "蹒跚地走到铁道边，慢慢探身下去，尚不大难。",
+      "en": "He walked unsteadily to the edge of the tracks and slowly leaned down — that was not too hard."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "蹒跚地走到铁道边",
+        "lemma": "走",
+        "ipa": "pán shān de zǒu dào tiě dào biān",
+        "translation": {"zh": "一瘸一拐走到铁轨旁", "en": "stagger to tracks"},
+        "emoji": "🚶"
+      },
+      {
+        "text": "慢慢探身下去",
+        "lemma": "探身",
+        "ipa": "màn màn tàn shēn xià qù",
+        "translation": {"zh": "慢慢俯身下去", "en": "slowly lean down"},
+        "emoji": "🙇"
+      },
+      {
+        "text": "尚不大难",
+        "lemma": "难",
+        "ipa": "shàng bù dà nán",
+        "translation": {"zh": "还不太难", "en": "still not too hard"},
+        "emoji": "🆗"
+      }
+    ],
+    "tags": [{"name": "背影", "index": 2}]
+  },
+  {
+    "text": "可是他穿过铁道，要爬上那边月台，就不容易了。",
+    "ipa": "kě shì tā chuān guò tiě dào, yào pá shàng nà biān yuè tái, jiù bù róng yì le.",
+    "translation": {
+      "zh": "可是他穿过铁道，要爬上那边月台，就不容易了。",
+      "en": "But for him to cross the tracks and climb onto the platform on the other side was not easy."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "可是",
+        "lemma": "可是",
+        "ipa": "kě shì",
+        "translation": {"zh": "但是", "en": "but"},
+        "emoji": ""
+      },
+      {
+        "text": "他穿过铁道",
+        "lemma": "穿过",
+        "ipa": "tā chuān guò tiě dào",
+        "translation": {"zh": "他越过铁轨", "en": "he crossed tracks"},
+        "emoji": "🛤️"
+      },
+      {
+        "text": "要爬上那边月台",
+        "lemma": "爬",
+        "ipa": "yào pá shàng nà biān yuè tái",
+        "translation": {"zh": "想爬上对面站台", "en": "climb onto platform"},
+        "emoji": "🧗"
+      },
+      {
+        "text": "就不容易了",
+        "lemma": "容易",
+        "ipa": "jiù bù róng yì le",
+        "translation": {"zh": "就难了", "en": "was not easy"},
+        "emoji": "😣"
+      }
+    ],
+    "tags": [{"name": "背影", "index": 3}]
+  }
+]

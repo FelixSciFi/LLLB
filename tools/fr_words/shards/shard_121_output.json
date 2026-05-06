@@ -1,0 +1,272 @@
+[
+  {
+    "text": "chefs-d'oeuvre",
+    "ipa": "ʃɛ dœvʁ",
+    "translation": {"zh": "杰作", "en": "masterpieces"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "chefs-d'oeuvre", "lemma": "chef-d'oeuvre", "ipa": "ʃɛ dœvʁ", "translation": {"zh": "杰作", "en": "masterpieces"}, "emoji": "🎨"}
+    ]
+  },
+  {
+    "text": "inclure",
+    "ipa": "ɛ̃klyʁ",
+    "translation": {"zh": "包含", "en": "to include"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "inclure", "lemma": "inclure", "ipa": "ɛ̃klyʁ", "translation": {"zh": "包含", "en": "to include"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "accoucher",
+    "ipa": "akuʃe",
+    "translation": {"zh": "分娩", "en": "to give birth"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "accoucher", "lemma": "accoucher", "ipa": "akuʃe", "translation": {"zh": "分娩", "en": "to give birth"}, "emoji": "👶"}
+    ]
+  },
+  {
+    "text": "citadin",
+    "ipa": "sitadɛ̃",
+    "translation": {"zh": "城市居民", "en": "city dweller"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "citadin", "lemma": "citadin", "ipa": "sitadɛ̃", "translation": {"zh": "城市居民", "en": "city dweller"}, "emoji": "🏙️"}
+    ]
+  },
+  {
+    "text": "propagation",
+    "ipa": "pʁɔpaɡasjɔ̃",
+    "translation": {"zh": "传播", "en": "propagation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "propagation", "lemma": "propagation", "ipa": "pʁɔpaɡasjɔ̃", "translation": {"zh": "传播", "en": "propagation"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "mou",
+    "ipa": "mu",
+    "translation": {"zh": "软的", "en": "soft"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "mou", "lemma": "mou", "ipa": "mu", "translation": {"zh": "软的", "en": "soft"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "fric",
+    "ipa": "fʁik",
+    "translation": {"zh": "钱（俚语）", "en": "dough"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "fric", "lemma": "fric", "ipa": "fʁik", "translation": {"zh": "钱（俚语）", "en": "dough"}, "emoji": "💵"}
+    ]
+  },
+  {
+    "text": "inspiration",
+    "ipa": "ɛ̃spiʁasjɔ̃",
+    "translation": {"zh": "灵感", "en": "inspiration"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "inspiration", "lemma": "inspiration", "ipa": "ɛ̃spiʁasjɔ̃", "translation": {"zh": "灵感", "en": "inspiration"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "gueule",
+    "ipa": "ɡœl",
+    "translation": {"zh": "嘴（俚语）", "en": "mouth (slang)"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "gueule", "lemma": "gueule", "ipa": "ɡœl", "translation": {"zh": "嘴（俚语）", "en": "mouth (slang)"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "redécouvrir",
+    "ipa": "ʁədekuvʁiʁ",
+    "translation": {"zh": "重新发现", "en": "to rediscover"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "redécouvrir", "lemma": "redécouvrir", "ipa": "ʁədekuvʁiʁ", "translation": {"zh": "重新发现", "en": "to rediscover"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "ancrer",
+    "ipa": "ɑ̃kʁe",
+    "translation": {"zh": "锚定", "en": "to anchor"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ancrer", "lemma": "ancrer", "ipa": "ɑ̃kʁe", "translation": {"zh": "锚定", "en": "to anchor"}, "emoji": "⚓"}
+    ]
+  },
+  {
+    "text": "qualification",
+    "ipa": "kalifikasjɔ̃",
+    "translation": {"zh": "资格", "en": "qualification"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "qualification", "lemma": "qualification", "ipa": "kalifikasjɔ̃", "translation": {"zh": "资格", "en": "qualification"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "indique",
+    "ipa": "ɛ̃dik",
+    "translation": {"zh": "表示", "en": "indicates"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "indique", "lemma": "indiquer", "ipa": "ɛ̃dik", "translation": {"zh": "表示", "en": "indicates"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "pigeon",
+    "ipa": "piʒɔ̃",
+    "translation": {"zh": "鸽子", "en": "pigeon"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "pigeon", "lemma": "pigeon", "ipa": "piʒɔ̃", "translation": {"zh": "鸽子", "en": "pigeon"}, "emoji": "🐦"}
+    ]
+  },
+  {
+    "text": "cinéaste",
+    "ipa": "sineast",
+    "translation": {"zh": "电影人", "en": "filmmaker"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "cinéaste", "lemma": "cinéaste", "ipa": "sineast", "translation": {"zh": "电影人", "en": "filmmaker"}, "emoji": "🎬"}
+    ]
+  },
+  {
+    "text": "look",
+    "ipa": "luk",
+    "translation": {"zh": "外观", "en": "look"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "look", "lemma": "look", "ipa": "luk", "translation": {"zh": "外观", "en": "look"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "errer",
+    "ipa": "eʁe",
+    "translation": {"zh": "漫游", "en": "to wander"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "errer", "lemma": "errer", "ipa": "eʁe", "translation": {"zh": "漫游", "en": "to wander"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "refroidissement",
+    "ipa": "ʁəfʁwadismɑ̃",
+    "translation": {"zh": "冷却", "en": "cooling"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "refroidissement", "lemma": "refroidissement", "ipa": "ʁəfʁwadismɑ̃", "translation": {"zh": "冷却", "en": "cooling"}, "emoji": "❄️"}
+    ]
+  },
+  {
+    "text": "constructeur",
+    "ipa": "kɔ̃stʁyktœʁ",
+    "translation": {"zh": "建造者", "en": "builder"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "constructeur", "lemma": "constructeur", "ipa": "kɔ̃stʁyktœʁ", "translation": {"zh": "建造者", "en": "builder"}, "emoji": "🏗️"}
+    ]
+  },
+  {
+    "text": "découler",
+    "ipa": "dekule",
+    "translation": {"zh": "源自", "en": "to stem from"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "découler", "lemma": "découler", "ipa": "dekule", "translation": {"zh": "源自", "en": "to stem from"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "rayonnement",
+    "ipa": "ʁɛjɔnmɑ̃",
+    "translation": {"zh": "辐射", "en": "radiation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "rayonnement", "lemma": "rayonnement", "ipa": "ʁɛjɔnmɑ̃", "translation": {"zh": "辐射", "en": "radiation"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "réacteur",
+    "ipa": "ʁeaktœʁ",
+    "translation": {"zh": "反应堆", "en": "reactor"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "réacteur", "lemma": "réacteur", "ipa": "ʁeaktœʁ", "translation": {"zh": "反应堆", "en": "reactor"}, "emoji": "⚛️"}
+    ]
+  },
+  {
+    "text": "inexorablement",
+    "ipa": "inɛɡzɔʁabləmɑ̃",
+    "translation": {"zh": "不可阻挡地", "en": "inexorably"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "inexorablement", "lemma": "inexorablement", "ipa": "inɛɡzɔʁabləmɑ̃", "translation": {"zh": "不可阻挡地", "en": "inexorably"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "ouest",
+    "ipa": "wɛst",
+    "translation": {"zh": "西方", "en": "west"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ouest", "lemma": "ouest", "ipa": "wɛst", "translation": {"zh": "西方", "en": "west"}, "emoji": "🧭"}
+    ]
+  },
+  {
+    "text": "épingle",
+    "ipa": "epɛ̃ɡl",
+    "translation": {"zh": "别针", "en": "pin"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "épingle", "lemma": "épingle", "ipa": "epɛ̃ɡl", "translation": {"zh": "别针", "en": "pin"}, "emoji": "📌"}
+    ]
+  },
+  {
+    "text": "tapis",
+    "ipa": "tapi",
+    "translation": {"zh": "地毯", "en": "carpet"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "tapis", "lemma": "tapis", "ipa": "tapi", "translation": {"zh": "地毯", "en": "carpet"}, "emoji": "🪞"}
+    ]
+  },
+  {
+    "text": "actionner",
+    "ipa": "aksjɔne",
+    "translation": {"zh": "启动", "en": "to activate"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "actionner", "lemma": "actionner", "ipa": "aksjɔne", "translation": {"zh": "启动", "en": "to activate"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "déformation",
+    "ipa": "defɔʁmasjɔ̃",
+    "translation": {"zh": "变形", "en": "deformation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "déformation", "lemma": "déformation", "ipa": "defɔʁmasjɔ̃", "translation": {"zh": "变形", "en": "deformation"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "regagner",
+    "ipa": "ʁəɡaɲe",
+    "translation": {"zh": "重新获得", "en": "to regain"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "regagner", "lemma": "regagner", "ipa": "ʁəɡaɲe", "translation": {"zh": "重新获得", "en": "to regain"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "collier",
+    "ipa": "kɔlje",
+    "translation": {"zh": "项链", "en": "necklace"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "collier", "lemma": "collier", "ipa": "kɔlje", "translation": {"zh": "项链", "en": "necklace"}, "emoji": "📿"}
+    ]
+  }
+]

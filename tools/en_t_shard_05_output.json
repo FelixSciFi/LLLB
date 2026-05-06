@@ -1,0 +1,102 @@
+[
+  {
+    "input_word": "try",
+    "entries": [
+      {"text": "try", "ipa": "/traɪ/", "cefr": "A1", "zh": "尝试", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_word": "tube",
+    "entries": [
+      {"text": "tube", "ipa": "/tjuːb/", "cefr": "B1", "zh": "管子", "emoji": "🧪"},
+      {"text": "tube", "ipa": "/tjuːb/", "cefr": "B1", "zh": "地铁", "emoji": "🚇"}
+    ]
+  },
+  {
+    "input_word": "tuesday",
+    "entries": [
+      {"text": "Tuesday", "ipa": "/ˈtuːzdeɪ/", "cefr": "A1", "zh": "星期二", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_word": "tune",
+    "entries": [
+      {"text": "tune", "ipa": "/tuːn/", "cefr": "B2", "zh": "曲调", "emoji": "🎵"},
+      {"text": "tune", "ipa": "/tuːn/", "cefr": "B2", "zh": "调音", "emoji": "🎸"}
+    ]
+  },
+  {
+    "input_word": "tunnel",
+    "entries": [
+      {"text": "tunnel", "ipa": "/ˈtʌnəl/", "cefr": "B2", "zh": "隧道", "emoji": "🚇"}
+    ]
+  },
+  {
+    "input_word": "turn",
+    "entries": [
+      {"text": "turn", "ipa": "/tɜːrn/", "cefr": "A1", "zh": "转弯", "emoji": "↩️"},
+      {"text": "turn", "ipa": "/tɜːrn/", "cefr": "A1", "zh": "轮次", "emoji": "🔄"}
+    ]
+  },
+  {
+    "input_word": "tv",
+    "entries": [
+      {"text": "TV", "ipa": "/ˌtiːˈviː/", "cefr": "A1", "zh": "电视", "emoji": "📺"}
+    ]
+  },
+  {
+    "input_word": "twelve",
+    "entries": [
+      {"text": "twelve", "ipa": "/twɛlv/", "cefr": "A1", "zh": "十二", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "twenty",
+    "entries": [
+      {"text": "twenty", "ipa": "/ˈtwɛnti/", "cefr": "A1", "zh": "二十", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "twice",
+    "entries": [
+      {"text": "twice", "ipa": "/twaɪs/", "cefr": "A1", "zh": "两次", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "twin",
+    "entries": [
+      {"text": "twin", "ipa": "/twɪn/", "cefr": "A2", "zh": "双胞胎", "emoji": "👯"}
+    ]
+  },
+  {
+    "input_word": "two",
+    "entries": [
+      {"text": "two", "ipa": "/tuː/", "cefr": "A1", "zh": "二", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "type",
+    "entries": [
+      {"text": "type", "ipa": "/taɪp/", "cefr": "A1", "zh": "类型", "emoji": "🗂️"},
+      {"text": "type", "ipa": "/taɪp/", "cefr": "A1", "zh": "打字", "emoji": "⌨️"}
+    ]
+  },
+  {
+    "input_word": "typical",
+    "entries": [
+      {"text": "typical", "ipa": "/ˈtɪpɪkəl/", "cefr": "A2", "zh": "典型的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "typically",
+    "entries": [
+      {"text": "typically", "ipa": "/ˈtɪpɪkli/", "cefr": "B1", "zh": "通常", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "tyre",
+    "entries": [
+      {"text": "tyre", "ipa": "/taɪər/", "cefr": "B1", "zh": "轮胎", "emoji": "🛞"}
+    ]
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "input_word": "place",
+    "entries": [
+      {"text": "place", "ipa": "/pleɪs/", "cefr": "A1", "zh": "地方", "emoji": "📍"},
+      {"text": "place", "ipa": "/pleɪs/", "cefr": "A1", "zh": "放置", "emoji": "🤲"}
+    ]
+  },
+  {
+    "input_word": "plain",
+    "entries": [
+      {"text": "plain", "ipa": "/pleɪn/", "cefr": "B2", "zh": "朴素的", "emoji": "⬜"},
+      {"text": "plain", "ipa": "/pleɪn/", "cefr": "B2", "zh": "平原", "emoji": "🌾"}
+    ]
+  },
+  {
+    "input_word": "plan",
+    "entries": [
+      {"text": "plan", "ipa": "/plæn/", "cefr": "A1", "zh": "计划", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_word": "plane",
+    "entries": [
+      {"text": "plane", "ipa": "/pleɪn/", "cefr": "A1", "zh": "飞机", "emoji": "✈️"}
+    ]
+  },
+  {
+    "input_word": "planet",
+    "entries": [
+      {"text": "planet", "ipa": "/ˈplænɪt/", "cefr": "A2", "zh": "行星", "emoji": "🪐"}
+    ]
+  },
+  {
+    "input_word": "planning",
+    "entries": [
+      {"text": "planning", "ipa": "/ˈplænɪŋ/", "cefr": "B1", "zh": "规划", "emoji": "🗺️"}
+    ]
+  },
+  {
+    "input_word": "plant",
+    "entries": [
+      {"text": "plant", "ipa": "/plænt/", "cefr": "A1", "zh": "植物", "emoji": "🌱"},
+      {"text": "plant", "ipa": "/plænt/", "cefr": "A1", "zh": "种植", "emoji": "🌿"}
+    ]
+  },
+  {
+    "input_word": "plastic",
+    "entries": [
+      {"text": "plastic", "ipa": "/ˈplæstɪk/", "cefr": "A2", "zh": "塑料", "emoji": "♻️"}
+    ]
+  },
+  {
+    "input_word": "plate",
+    "entries": [
+      {"text": "plate", "ipa": "/pleɪt/", "cefr": "A2", "zh": "盘子", "emoji": "🍽️"}
+    ]
+  },
+  {
+    "input_word": "platform",
+    "entries": [
+      {"text": "platform", "ipa": "/ˈplætfɔːrm/", "cefr": "A2", "zh": "平台", "emoji": "🖥️"}
+    ]
+  },
+  {
+    "input_word": "play",
+    "entries": [
+      {"text": "play", "ipa": "/pleɪ/", "cefr": "A1", "zh": "玩耍", "emoji": "🎮"},
+      {"text": "play", "ipa": "/pleɪ/", "cefr": "A1", "zh": "话剧", "emoji": "🎭"}
+    ]
+  },
+  {
+    "input_word": "player",
+    "entries": [
+      {"text": "player", "ipa": "/ˈpleɪər/", "cefr": "A1", "zh": "玩家", "emoji": "🎮"}
+    ]
+  },
+  {
+    "input_word": "pleasant",
+    "entries": [
+      {"text": "pleasant", "ipa": "/ˈplɛzənt/", "cefr": "B1", "zh": "令人愉快的", "emoji": "😊"}
+    ]
+  },
+  {
+    "input_word": "please",
+    "entries": [
+      {"text": "please", "ipa": "/pliːz/", "cefr": "A1", "zh": "请", "emoji": "🙏"},
+      {"text": "please", "ipa": "/pliːz/", "cefr": "A1", "zh": "使满意", "emoji": "😄"}
+    ]
+  },
+  {
+    "input_word": "pleased",
+    "entries": [
+      {"text": "pleased", "ipa": "/pliːzd/", "cefr": "A2", "zh": "高兴的", "emoji": "😀"}
+    ]
+  },
+  {
+    "input_word": "pleasure",
+    "entries": [
+      {"text": "pleasure", "ipa": "/ˈplɛʒər/", "cefr": "B1", "zh": "乐趣", "emoji": "😌"}
+    ]
+  },
+  {
+    "input_word": "plenty",
+    "entries": [
+      {"text": "plenty", "ipa": "/ˈplɛnti/", "cefr": "B1", "zh": "充足", "emoji": "🎉"}
+    ]
+  },
+  {
+    "input_word": "plot",
+    "entries": [
+      {"text": "plot", "ipa": "/plɑːt/", "cefr": "B1", "zh": "情节", "emoji": "📖"},
+      {"text": "plot", "ipa": "/plɑːt/", "cefr": "B1", "zh": "密谋", "emoji": "🤫"}
+    ]
+  },
+  {
+    "input_word": "plus",
+    "entries": [
+      {"text": "plus", "ipa": "/plʌs/", "cefr": "B1", "zh": "加号", "emoji": "➕"}
+    ]
+  },
+  {
+    "input_word": "pocket",
+    "entries": [
+      {"text": "pocket", "ipa": "/ˈpɑːkɪt/", "cefr": "A2", "zh": "口袋", "emoji": "👖"}
+    ]
+  },
+  {
+    "input_word": "poem",
+    "entries": [
+      {"text": "poem", "ipa": "/ˈpoʊɪm/", "cefr": "B1", "zh": "诗", "emoji": "📜"}
+    ]
+  },
+  {
+    "input_word": "poet",
+    "entries": [
+      {"text": "poet", "ipa": "/ˈpoʊɪt/", "cefr": "B1", "zh": "诗人", "emoji": "✍️"}
+    ]
+  },
+  {
+    "input_word": "poetry",
+    "entries": [
+      {"text": "poetry", "ipa": "/ˈpoʊɪtri/", "cefr": "B1", "zh": "诗歌", "emoji": "📝"}
+    ]
+  },
+  {
+    "input_word": "point",
+    "entries": [
+      {"text": "point", "ipa": "/pɔɪnt/", "cefr": "A1", "zh": "要点", "emoji": "☝️"},
+      {"text": "point", "ipa": "/pɔɪnt/", "cefr": "A1", "zh": "指向", "emoji": "👉"}
+    ]
+  },
+  {
+    "input_word": "pointed",
+    "entries": [
+      {"text": "pointed", "ipa": "/ˈpɔɪntɪd/", "cefr": "B2", "zh": "尖锐的", "emoji": "📌"}
+    ]
+  },
+  {
+    "input_word": "poison",
+    "entries": [
+      {"text": "poison", "ipa": "/ˈpɔɪzən/", "cefr": "B1", "zh": "毒药", "emoji": "☠️"}
+    ]
+  },
+  {
+    "input_word": "poisonous",
+    "entries": [
+      {"text": "poisonous", "ipa": "/ˈpɔɪzənəs/", "cefr": "B1", "zh": "有毒的", "emoji": "🐍"}
+    ]
+  },
+  {
+    "input_word": "police",
+    "entries": [
+      {"text": "police", "ipa": "/pəˈliːs/", "cefr": "A1", "zh": "警察", "emoji": "👮"}
+    ]
+  },
+  {
+    "input_word": "policeman",
+    "entries": [
+      {"text": "policeman", "ipa": "/pəˈliːsmən/", "cefr": "A1", "zh": "男警察", "emoji": "👮‍♂️"}
+    ]
+  },
+  {
+    "input_word": "policy",
+    "entries": [
+      {"text": "policy", "ipa": "/ˈpɑːləsi/", "cefr": "B1", "zh": "政策", "emoji": "📄"}
+    ]
+  }
+]

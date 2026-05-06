@@ -1,0 +1,273 @@
+[
+  {
+    "text": "sourd",
+    "ipa": "suʁ",
+    "translation": {"zh": "聋的", "en": "deaf"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "sourd", "lemma": "sourd", "ipa": "suʁ", "translation": {"zh": "聋的", "en": "deaf"}, "emoji": "🦻"}
+    ]
+  },
+  {
+    "text": "catholique",
+    "ipa": "katɔlik",
+    "translation": {"zh": "天主教的", "en": "Catholic"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "catholique", "lemma": "catholique", "ipa": "katɔlik", "translation": {"zh": "天主教的", "en": "Catholic"}, "emoji": "⛪"}
+    ]
+  },
+  {
+    "text": "courant",
+    "ipa": "kuʁɑ̃",
+    "translation": {"zh": "常见的；电流", "en": "common; current"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "courant", "lemma": "courant", "ipa": "kuʁɑ̃", "translation": {"zh": "常见的", "en": "common"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "je m'habitue",
+    "ipa": "ʒə m‿abitɥ",
+    "translation": {"zh": "我慢慢习惯", "en": "I get used to it"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "je m'habitue", "lemma": "habituer", "ipa": "ʒə m‿abitɥ", "translation": {"zh": "我习惯了", "en": "I get used to it"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "contacter",
+    "ipa": "kɔ̃takte",
+    "translation": {"zh": "联系", "en": "to contact"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "contacter", "lemma": "contacter", "ipa": "kɔ̃takte", "translation": {"zh": "联系", "en": "to contact"}, "emoji": "📞"}
+    ]
+  },
+  {
+    "text": "la manche",
+    "ipa": "la mɑ̃ʃ",
+    "translation": {"zh": "袖子", "en": "sleeve"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la manche", "lemma": "manche", "ipa": "la mɑ̃ʃ", "translation": {"zh": "袖子", "en": "sleeve"}, "emoji": "👕"}
+    ]
+  },
+  {
+    "text": "le volume",
+    "ipa": "lə vɔlym",
+    "translation": {"zh": "音量；体积", "en": "volume"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le volume", "lemma": "volume", "ipa": "lə vɔlym", "translation": {"zh": "音量；体积", "en": "volume"}, "emoji": "🔊"}
+    ]
+  },
+  {
+    "text": "un artisan",
+    "ipa": "œ̃n‿aʁtizɑ̃",
+    "translation": {"zh": "工匠", "en": "artisan"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un artisan", "lemma": "artisan", "ipa": "œ̃n‿aʁtizɑ̃", "translation": {"zh": "工匠", "en": "artisan"}, "emoji": "🔨"}
+    ]
+  },
+  {
+    "text": "ça m'énerve",
+    "ipa": "sa m‿enɛʁv",
+    "translation": {"zh": "这让我很烦", "en": "it annoys me"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ça m'énerve", "lemma": "énerver", "ipa": "sa m‿enɛʁv", "translation": {"zh": "这让我烦", "en": "it annoys me"}, "emoji": "😤"}
+    ]
+  },
+  {
+    "text": "la répétition",
+    "ipa": "la ʁepetisj ɔ̃",
+    "translation": {"zh": "重复；排练", "en": "repetition; rehearsal"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la répétition", "lemma": "répétition", "ipa": "la ʁepetisj ɔ̃", "translation": {"zh": "重复；排练", "en": "repetition"}, "emoji": "🔁"}
+    ]
+  },
+  {
+    "text": "l'interlocuteur",
+    "ipa": "l‿ɛ̃tɛʁlɔkytœʁ",
+    "translation": {"zh": "对话方", "en": "interlocutor"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'interlocuteur", "lemma": "interlocuteur", "ipa": "l‿ɛ̃tɛʁlɔkytœʁ", "translation": {"zh": "对话方", "en": "interlocutor"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "sportif",
+    "ipa": "spɔʁtif",
+    "translation": {"zh": "运动的；运动员", "en": "sporty; athlete"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "sportif", "lemma": "sportif", "ipa": "spɔʁtif", "translation": {"zh": "运动的", "en": "sporty"}, "emoji": "🏃"}
+    ]
+  },
+  {
+    "text": "le cimetière",
+    "ipa": "lə simtjɛʁ",
+    "translation": {"zh": "墓地", "en": "cemetery"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le cimetière", "lemma": "cimetière", "ipa": "lə simtjɛʁ", "translation": {"zh": "墓地", "en": "cemetery"}, "emoji": "⚰️"}
+    ]
+  },
+  {
+    "text": "masculin",
+    "ipa": "maskyɛ̃",
+    "translation": {"zh": "男性的；阳性的", "en": "masculine"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "masculin", "lemma": "masculin", "ipa": "maskyɛ̃", "translation": {"zh": "男性的", "en": "masculine"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le dispositif",
+    "ipa": "lə dispozitif",
+    "translation": {"zh": "装置；机制", "en": "device; mechanism"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le dispositif", "lemma": "dispositif", "ipa": "lə dispozitif", "translation": {"zh": "装置；机制", "en": "device"}, "emoji": "⚙️"}
+    ]
+  },
+  {
+    "text": "l'écart",
+    "ipa": "l‿ekaʁ",
+    "translation": {"zh": "差距；间距", "en": "gap; difference"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'écart", "lemma": "écart", "ipa": "l‿ekaʁ", "translation": {"zh": "差距", "en": "gap"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "multiple",
+    "ipa": "myltipl",
+    "translation": {"zh": "多种的", "en": "multiple"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "multiple", "lemma": "multiple", "ipa": "myltipl", "translation": {"zh": "多种的", "en": "multiple"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un carton",
+    "ipa": "œ̃ kaʁtɔ̃",
+    "translation": {"zh": "纸板箱", "en": "cardboard box"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un carton", "lemma": "carton", "ipa": "œ̃ kaʁtɔ̃", "translation": {"zh": "纸板箱", "en": "cardboard box"}, "emoji": "📦"}
+    ]
+  },
+  {
+    "text": "la silhouette",
+    "ipa": "la silwɛt",
+    "translation": {"zh": "轮廓；身影", "en": "silhouette; figure"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la silhouette", "lemma": "silhouette", "ipa": "la silwɛt", "translation": {"zh": "轮廓；身影", "en": "silhouette"}, "emoji": "🌑"}
+    ]
+  },
+  {
+    "text": "un éclair",
+    "ipa": "œ̃n‿eklɛʁ",
+    "translation": {"zh": "闪电", "en": "lightning bolt"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un éclair", "lemma": "éclair", "ipa": "œ̃n‿eklɛʁ", "translation": {"zh": "闪电", "en": "lightning bolt"}, "emoji": "⚡"}
+    ]
+  },
+  {
+    "text": "le souffle",
+    "ipa": "lə sufl",
+    "translation": {"zh": "气息；呼吸", "en": "breath; breeze"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le souffle", "lemma": "souffle", "ipa": "lə sufl", "translation": {"zh": "气息", "en": "breath"}, "emoji": "💨"}
+    ]
+  },
+  {
+    "text": "le test",
+    "ipa": "lə tɛst",
+    "translation": {"zh": "测试", "en": "test"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le test", "lemma": "test", "ipa": "lə tɛst", "translation": {"zh": "测试", "en": "test"}, "emoji": "📝"}
+    ]
+  },
+  {
+    "text": "le jugement",
+    "ipa": "lə ʒyʒmɑ̃",
+    "translation": {"zh": "判断；审判", "en": "judgment"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le jugement", "lemma": "jugement", "ipa": "lə ʒyʒmɑ̃", "translation": {"zh": "判断；审判", "en": "judgment"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "la signature",
+    "ipa": "la siɲatyʁ",
+    "translation": {"zh": "签名", "en": "signature"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la signature", "lemma": "signature", "ipa": "la siɲatyʁ", "translation": {"zh": "签名", "en": "signature"}, "emoji": "✍️"}
+    ]
+  },
+  {
+    "text": "la compétition",
+    "ipa": "la kɔ̃petisj ɔ̃",
+    "translation": {"zh": "竞赛；比赛", "en": "competition"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la compétition", "lemma": "compétition", "ipa": "la kɔ̃petisj ɔ̃", "translation": {"zh": "竞赛", "en": "competition"}, "emoji": "🏆"}
+    ]
+  },
+  {
+    "text": "le parlement",
+    "ipa": "lə paʁləmɑ̃",
+    "translation": {"zh": "议会", "en": "parliament"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le parlement", "lemma": "parlement", "ipa": "lə paʁləmɑ̃", "translation": {"zh": "议会", "en": "parliament"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "une bicyclette",
+    "ipa": "yn bisiklɛt",
+    "translation": {"zh": "自行车", "en": "bicycle"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une bicyclette", "lemma": "bicyclette", "ipa": "yn bisiklɛt", "translation": {"zh": "自行车", "en": "bicycle"}, "emoji": "🚲"}
+    ]
+  },
+  {
+    "text": "le mécanisme",
+    "ipa": "lə mekanizm",
+    "translation": {"zh": "机制；机构", "en": "mechanism"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le mécanisme", "lemma": "mécanisme", "ipa": "lə mekanizm", "translation": {"zh": "机制", "en": "mechanism"}, "emoji": "⚙️"}
+    ]
+  },
+  {
+    "text": "il s'empare du pouvoir",
+    "ipa": "il s‿ɑ̃paʁ dy puvwaʁ",
+    "translation": {"zh": "他夺取了权力", "en": "he seizes power"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il s'empare", "lemma": "emparer", "ipa": "il s‿ɑ̃paʁ", "translation": {"zh": "他夺取", "en": "he seizes"}, "emoji": ""},
+      {"text": "du pouvoir", "lemma": "pouvoir", "ipa": "dy puvwaʁ", "translation": {"zh": "权力", "en": "power"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une écharpe",
+    "ipa": "yn eʃaʁp",
+    "translation": {"zh": "围巾", "en": "scarf"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une écharpe", "lemma": "écharpe", "ipa": "yn eʃaʁp", "translation": {"zh": "围巾", "en": "scarf"}, "emoji": "🧣"}
+    ]
+  }
+]

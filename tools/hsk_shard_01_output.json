@@ -1,0 +1,182 @@
+[
+  {
+    "input_text": "高兴",
+    "entries": [
+      {"text": "高兴", "pinyin": "gāoxìng", "en": "happy", "emoji": "😊"}
+    ]
+  },
+  {
+    "input_text": "个",
+    "entries": [
+      {"text": "个", "pinyin": "ge", "en": "general M.W.", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "工作",
+    "entries": [
+      {"text": "工作", "pinyin": "gōngzuò", "en": "work / job", "emoji": "💼"}
+    ]
+  },
+  {
+    "input_text": "狗",
+    "entries": [
+      {"text": "狗", "pinyin": "gǒu", "en": "dog", "emoji": "🐕"}
+    ]
+  },
+  {
+    "input_text": "汉语",
+    "entries": [
+      {"text": "汉语", "pinyin": "Hànyǔ", "en": "Chinese language", "emoji": "🇨🇳"}
+    ]
+  },
+  {
+    "input_text": "好",
+    "entries": [
+      {"text": "好", "pinyin": "hǎo", "en": "good", "emoji": "👍"}
+    ]
+  },
+  {
+    "input_text": "号",
+    "entries": [
+      {"text": "号", "pinyin": "hào", "en": "number / day of month", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_text": "喝",
+    "entries": [
+      {"text": "喝", "pinyin": "hē", "en": "to drink", "emoji": "🥤"}
+    ]
+  },
+  {
+    "input_text": "和",
+    "entries": [
+      {"text": "和", "pinyin": "hé", "en": "and / with", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "很",
+    "entries": [
+      {"text": "很", "pinyin": "hěn", "en": "very", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "后面",
+    "entries": [
+      {"text": "后面", "pinyin": "hòumian", "en": "behind", "emoji": "⬅️"}
+    ]
+  },
+  {
+    "input_text": "回",
+    "entries": [
+      {"text": "回", "pinyin": "huí", "en": "to return", "emoji": "↩️"}
+    ]
+  },
+  {
+    "input_text": "会",
+    "entries": [
+      {"text": "会", "pinyin": "huì", "en": "know how to", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "几",
+    "entries": [
+      {"text": "几", "pinyin": "jǐ", "en": "how many", "emoji": "❓"}
+    ]
+  },
+  {
+    "input_text": "家",
+    "entries": [
+      {"text": "家", "pinyin": "jiā", "en": "home / family", "emoji": "🏠"}
+    ]
+  },
+  {
+    "input_text": "叫",
+    "entries": [
+      {"text": "叫", "pinyin": "jiào", "en": "to be called", "emoji": "🗣️"}
+    ]
+  },
+  {
+    "input_text": "今天",
+    "entries": [
+      {"text": "今天", "pinyin": "jīntiān", "en": "today", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_text": "九",
+    "entries": [
+      {"text": "九", "pinyin": "jiǔ", "en": "nine", "emoji": "9️⃣"}
+    ]
+  },
+  {
+    "input_text": "开",
+    "entries": [
+      {"text": "开", "pinyin": "kāi", "en": "to open / to start", "emoji": "🔓"}
+    ]
+  },
+  {
+    "input_text": "看",
+    "entries": [
+      {"text": "看", "pinyin": "kàn", "en": "to look / to watch", "emoji": "👀"}
+    ]
+  },
+  {
+    "input_text": "看见",
+    "entries": [
+      {"text": "看见", "pinyin": "kànjiàn", "en": "to see / catch sight of", "emoji": "👁️"}
+    ]
+  },
+  {
+    "input_text": "块",
+    "entries": [
+      {"text": "块", "pinyin": "kuài", "en": "M.W. for pieces / yuan", "emoji": "💴"}
+    ]
+  },
+  {
+    "input_text": "来",
+    "entries": [
+      {"text": "来", "pinyin": "lái", "en": "to come", "emoji": "➡️"}
+    ]
+  },
+  {
+    "input_text": "老师",
+    "entries": [
+      {"text": "老师", "pinyin": "lǎoshī", "en": "teacher", "emoji": "👨‍🏫"}
+    ]
+  },
+  {
+    "input_text": "了",
+    "entries": [
+      {"text": "了", "pinyin": "le", "en": "completed action particle", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "冷",
+    "entries": [
+      {"text": "冷", "pinyin": "lěng", "en": "cold", "emoji": "🥶"}
+    ]
+  },
+  {
+    "input_text": "里",
+    "entries": [
+      {"text": "里", "pinyin": "lǐ", "en": "inside", "emoji": "📥"}
+    ]
+  },
+  {
+    "input_text": "六",
+    "entries": [
+      {"text": "六", "pinyin": "liù", "en": "six", "emoji": "6️⃣"}
+    ]
+  },
+  {
+    "input_text": "妈妈",
+    "entries": [
+      {"text": "妈妈", "pinyin": "māma", "en": "mom", "emoji": "👩"}
+    ]
+  },
+  {
+    "input_text": "吗",
+    "entries": [
+      {"text": "吗", "pinyin": "ma", "en": "yes/no question particle", "emoji": ""}
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "input_text": "资助",
+    "entries": [
+      {"text": "资助", "pinyin": "zī zhù", "en": "fund, sponsor", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "滋润",
+    "entries": [
+      {"text": "滋润", "pinyin": "zī rùn", "en": "moist, nourishing", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "滋味",
+    "entries": [
+      {"text": "滋味", "pinyin": "zī wèi", "en": "taste, flavor", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "子弹",
+    "entries": [
+      {"text": "子弹", "pinyin": "zǐ dàn", "en": "bullet", "emoji": "🔫"}
+    ]
+  },
+  {
+    "input_text": "自卑",
+    "entries": [
+      {"text": "自卑", "pinyin": "zì bēi", "en": "inferiority complex", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "自发",
+    "entries": [
+      {"text": "自发", "pinyin": "zì fā", "en": "spontaneous", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "自力更生",
+    "entries": [
+      {"text": "自力更生", "pinyin": "zì lì gēng shēng", "en": "self-reliance", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "自满",
+    "entries": [
+      {"text": "自满", "pinyin": "zì mǎn", "en": "complacent, smug", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "自主",
+    "entries": [
+      {"text": "自主", "pinyin": "zì zhǔ", "en": "autonomous, independent", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "宗教",
+    "entries": [
+      {"text": "宗教", "pinyin": "zōng jiào", "en": "religion", "emoji": "⛪"}
+    ]
+  },
+  {
+    "input_text": "宗旨",
+    "entries": [
+      {"text": "宗旨", "pinyin": "zōng zhǐ", "en": "purpose, tenet", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "棕色",
+    "entries": [
+      {"text": "棕色", "pinyin": "zōng sè", "en": "brown", "emoji": "🟫"}
+    ]
+  },
+  {
+    "input_text": "踪迹",
+    "entries": [
+      {"text": "踪迹", "pinyin": "zōng jì", "en": "trace, tracks", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "总而言之",
+    "entries": [
+      {"text": "总而言之", "pinyin": "zǒng ér yán zhī", "en": "in summary", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "总和",
+    "entries": [
+      {"text": "总和", "pinyin": "zǒng hé", "en": "total sum", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "纵横",
+    "entries": [
+      {"text": "纵横", "pinyin": "zòng héng", "en": "crisscross, traverse", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "走廊",
+    "entries": [
+      {"text": "走廊", "pinyin": "zǒu láng", "en": "corridor, hallway", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "走漏",
+    "entries": [
+      {"text": "走漏", "pinyin": "zǒu lòu", "en": "leak, divulge", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "走私",
+    "entries": [
+      {"text": "走私", "pinyin": "zǒu sī", "en": "smuggle", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "揍",
+    "entries": [
+      {"text": "揍", "pinyin": "zòu", "en": "beat, hit", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "租赁",
+    "entries": [
+      {"text": "租赁", "pinyin": "zū lìn", "en": "lease, rent", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "足以",
+    "entries": [
+      {"text": "足以", "pinyin": "zú yǐ", "en": "sufficient to", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "阻碍",
+    "entries": [
+      {"text": "阻碍", "pinyin": "zǔ ài", "en": "obstruct, hinder", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "阻拦",
+    "entries": [
+      {"text": "阻拦", "pinyin": "zǔ lán", "en": "block, stop", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "阻挠",
+    "entries": [
+      {"text": "阻挠", "pinyin": "zǔ náo", "en": "obstruct, thwart", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "祖父",
+    "entries": [
+      {"text": "祖父", "pinyin": "zǔ fù", "en": "paternal grandfather", "emoji": "👴"}
+    ]
+  },
+  {
+    "input_text": "祖国",
+    "entries": [
+      {"text": "祖国", "pinyin": "zǔ guó", "en": "homeland, motherland", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "祖先",
+    "entries": [
+      {"text": "祖先", "pinyin": "zǔ xiān", "en": "ancestors", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "钻研",
+    "entries": [
+      {"text": "钻研", "pinyin": "zuān yán", "en": "study deeply", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "钻石",
+    "entries": [
+      {"text": "钻石", "pinyin": "zuān shí", "en": "diamond", "emoji": "💎"}
+    ]
+  }
+]

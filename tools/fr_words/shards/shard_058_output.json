@@ -1,0 +1,274 @@
+[
+  {
+    "text": "recenser",
+    "ipa": "ʁəsɑ̃se",
+    "translation": {"zh": "统计，列举", "en": "to census, to list"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "recenser", "lemma": "recenser", "ipa": "ʁəsɑ̃se", "translation": {"zh": "统计列举", "en": "to census"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "opérer",
+    "ipa": "ɔpeʁe",
+    "translation": {"zh": "手术，操作", "en": "to operate"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "opérer", "lemma": "opérer", "ipa": "ɔpeʁe", "translation": {"zh": "手术操作", "en": "to operate"}, "emoji": "🔧"}
+    ]
+  },
+  {
+    "text": "veiller sur les enfants",
+    "ipa": "veje syʁ lez‿ɑ̃fɑ̃",
+    "translation": {"zh": "照看孩子们", "en": "to watch over the children"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "veiller sur les enfants", "lemma": "veiller", "ipa": "veje syʁ lez‿ɑ̃fɑ̃", "translation": {"zh": "照看孩子们", "en": "watch over children"}, "emoji": "👀"}
+    ]
+  },
+  {
+    "text": "confronter ses idées",
+    "ipa": "kɔ̃fʁɔ̃te sez‿ide",
+    "translation": {"zh": "碰撞想法", "en": "to confront one's ideas"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "confronter ses idées", "lemma": "confronter", "ipa": "kɔ̃fʁɔ̃te sez‿ide", "translation": {"zh": "碰撞想法", "en": "confront ideas"}, "emoji": "💬"}
+    ]
+  },
+  {
+    "text": "c'est pénible",
+    "ipa": "se peniblə",
+    "translation": {"zh": "真烦人", "en": "it's annoying"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est pénible", "lemma": "pénible", "ipa": "se peniblə", "translation": {"zh": "真烦人", "en": "it's annoying"}, "emoji": "😤"}
+    ]
+  },
+  {
+    "text": "une perspective d'avenir",
+    "ipa": "yn pɛʁspɛktiv davniʁ",
+    "translation": {"zh": "未来的前景", "en": "a future perspective"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une perspective d'avenir", "lemma": "perspective", "ipa": "yn pɛʁspɛktiv davniʁ", "translation": {"zh": "未来前景", "en": "future prospect"}, "emoji": "🔭"}
+    ]
+  },
+  {
+    "text": "pardonner",
+    "ipa": "paʁdɔne",
+    "translation": {"zh": "原谅", "en": "to forgive"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "pardonner", "lemma": "pardonner", "ipa": "paʁdɔne", "translation": {"zh": "原谅", "en": "to forgive"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "des souliers neufs",
+    "ipa": "de sulje nœf",
+    "translation": {"zh": "新鞋子", "en": "new shoes"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "des souliers neufs", "lemma": "soulier", "ipa": "de sulje nœf", "translation": {"zh": "新皮鞋", "en": "new shoes"}, "emoji": "👞"}
+    ]
+  },
+  {
+    "text": "le dernier épisode",
+    "ipa": "lə dɛʁnje episɔd",
+    "translation": {"zh": "最后一集", "en": "the last episode"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le dernier épisode", "lemma": "épisode", "ipa": "lə dɛʁnje episɔd", "translation": {"zh": "最后一集", "en": "last episode"}, "emoji": "📺"}
+    ]
+  },
+  {
+    "text": "une belle demeure",
+    "ipa": "yn bɛl dəmœʁ",
+    "translation": {"zh": "一栋漂亮的宅邸", "en": "a beautiful residence"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une belle demeure", "lemma": "demeure", "ipa": "yn bɛl dəmœʁ", "translation": {"zh": "漂亮宅邸", "en": "beautiful residence"}, "emoji": "🏡"}
+    ]
+  },
+  {
+    "text": "le cancer du poumon",
+    "ipa": "lə kɑ̃sɛʁ dy pumɔ̃",
+    "translation": {"zh": "肺癌", "en": "lung cancer"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le cancer du poumon", "lemma": "cancer", "ipa": "lə kɑ̃sɛʁ dy pumɔ̃", "translation": {"zh": "肺癌", "en": "lung cancer"}, "emoji": "🎗️"}
+    ]
+  },
+  {
+    "text": "sincère",
+    "ipa": "sɛ̃sɛʁ",
+    "translation": {"zh": "真诚的", "en": "sincere"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "sincère", "lemma": "sincère", "ipa": "sɛ̃sɛʁ", "translation": {"zh": "真诚的", "en": "sincere"}, "emoji": "💛"}
+    ]
+  },
+  {
+    "text": "demander le divorce",
+    "ipa": "dəmɑ̃de lə divɔʁs",
+    "translation": {"zh": "申请离婚", "en": "to file for divorce"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "demander le divorce", "lemma": "demander", "ipa": "dəmɑ̃de lə divɔʁs", "translation": {"zh": "申请离婚", "en": "file for divorce"}, "emoji": "💔"}
+    ]
+  },
+  {
+    "text": "apparemment",
+    "ipa": "apaʁamɑ̃",
+    "translation": {"zh": "显然，表面上", "en": "apparently"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "apparemment", "lemma": "apparemment", "ipa": "apaʁamɑ̃", "translation": {"zh": "显然", "en": "apparently"}, "emoji": "🤔"}
+    ]
+  },
+  {
+    "text": "la façade de l'immeuble",
+    "ipa": "la fasad də limœblə",
+    "translation": {"zh": "大楼的外墙", "en": "the building's facade"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la façade de l'immeuble", "lemma": "façade", "ipa": "la fasad də limœblə", "translation": {"zh": "大楼外墙", "en": "building facade"}, "emoji": "🏢"}
+    ]
+  },
+  {
+    "text": "un procès en justice",
+    "ipa": "œ̃ pʁosɛ ɑ̃ ʒystis",
+    "translation": {"zh": "一场法律诉讼", "en": "a court trial"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un procès en justice", "lemma": "procès", "ipa": "œ̃ pʁosɛ ɑ̃ ʒystis", "translation": {"zh": "法律诉讼", "en": "court trial"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "à l'extérieur",
+    "ipa": "a lɛksteʁjœʁ",
+    "translation": {"zh": "在外面", "en": "outside"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "à l'extérieur", "lemma": "extérieur", "ipa": "a lɛksteʁjœʁ", "translation": {"zh": "在外面", "en": "outside"}, "emoji": "🌳"}
+    ]
+  },
+  {
+    "text": "se baser sur des faits",
+    "ipa": "sə baze syʁ de fɛ",
+    "translation": {"zh": "以事实为依据", "en": "to base oneself on facts"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "se baser sur des faits", "lemma": "baser", "ipa": "sə baze syʁ de fɛ", "translation": {"zh": "以事实为据", "en": "base on facts"}, "emoji": "📊"}
+    ]
+  },
+  {
+    "text": "le tiroir est fermé",
+    "ipa": "lə tiʁwaʁ ɛ fɛʁme",
+    "translation": {"zh": "抽屉关着", "en": "the drawer is closed"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le tiroir", "lemma": "tiroir", "ipa": "lə tiʁwaʁ", "translation": {"zh": "抽屉", "en": "drawer"}, "emoji": "🗄️"},
+      {"text": "est fermé", "lemma": "fermer", "ipa": "ɛ fɛʁme", "translation": {"zh": "是关着的", "en": "is closed"}, "emoji": "🔒"}
+    ]
+  },
+  {
+    "text": "la reproduction des espèces",
+    "ipa": "la ʁəpʁɔdyksj ɔ̃ dez‿ɛspɛs",
+    "translation": {"zh": "物种的繁殖", "en": "reproduction of species"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la reproduction des espèces", "lemma": "reproduction", "ipa": "la ʁəpʁɔdyksjɔ̃ dez‿ɛspɛs", "translation": {"zh": "物种繁殖", "en": "reproduction of species"}, "emoji": "🧬"}
+    ]
+  },
+  {
+    "text": "parer au danger",
+    "ipa": "paʁe o dɑ̃ʒe",
+    "translation": {"zh": "应对危险", "en": "to guard against danger"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "parer au danger", "lemma": "parer", "ipa": "paʁe o dɑ̃ʒe", "translation": {"zh": "应对危险", "en": "guard against danger"}, "emoji": "🛡️"}
+    ]
+  },
+  {
+    "text": "la forêt bruissait",
+    "ipa": "la fɔʁɛ bʁɥisɛ",
+    "translation": {"zh": "森林沙沙作响", "en": "the forest rustled"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la forêt", "lemma": "forêt", "ipa": "la fɔʁɛ", "translation": {"zh": "森林", "en": "forest"}, "emoji": "🌲"},
+      {"text": "bruissait", "lemma": "bruire", "ipa": "bʁɥisɛ", "translation": {"zh": "沙沙作响", "en": "rustled"}, "emoji": "🍃"}
+    ]
+  },
+  {
+    "text": "une idée révolutionnaire",
+    "ipa": "yn ide ʁevɔlysjɔnɛʁ",
+    "translation": {"zh": "一个革命性的想法", "en": "a revolutionary idea"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une idée révolutionnaire", "lemma": "révolutionnaire", "ipa": "yn ide ʁevɔlysjɔnɛʁ", "translation": {"zh": "革命性想法", "en": "revolutionary idea"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "faire le bilan",
+    "ipa": "fɛʁ lə bilɑ̃",
+    "translation": {"zh": "做总结", "en": "to take stock"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "faire le bilan", "lemma": "bilan", "ipa": "fɛʁ lə bilɑ̃", "translation": {"zh": "做总结", "en": "take stock"}, "emoji": "📝"}
+    ]
+  },
+  {
+    "text": "stimuler la croissance",
+    "ipa": "stimyle la kʁwasɑ̃s",
+    "translation": {"zh": "刺激增长", "en": "to stimulate growth"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "stimuler la croissance", "lemma": "stimuler", "ipa": "stimyle la kʁwasɑ̃s", "translation": {"zh": "刺激增长", "en": "stimulate growth"}, "emoji": "📈"}
+    ]
+  },
+  {
+    "text": "détailler le projet",
+    "ipa": "detaje lə pʁɔʒɛ",
+    "translation": {"zh": "详细说明项目", "en": "to detail the project"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "détailler le projet", "lemma": "détailler", "ipa": "detaje lə pʁɔʒɛ", "translation": {"zh": "详细说明", "en": "detail the project"}, "emoji": "🔍"}
+    ]
+  },
+  {
+    "text": "les mœurs de l'époque",
+    "ipa": "le mœʁs də lepɔk",
+    "translation": {"zh": "那个时代的风俗习惯", "en": "the customs of the era"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "les mœurs de l'époque", "lemma": "mœurs", "ipa": "le mœʁs də lepɔk", "translation": {"zh": "时代习俗", "en": "customs of era"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "claquer la porte",
+    "ipa": "klake la pɔʁt",
+    "translation": {"zh": "砰地关门", "en": "to slam the door"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "claquer la porte", "lemma": "claquer", "ipa": "klake la pɔʁt", "translation": {"zh": "砰地关门", "en": "slam the door"}, "emoji": "🚪"}
+    ]
+  },
+  {
+    "text": "fermer le volet",
+    "ipa": "fɛʁme lə vɔlɛ",
+    "translation": {"zh": "关上百叶窗", "en": "to close the shutter"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "fermer le volet", "lemma": "volet", "ipa": "fɛʁme lə vɔlɛ", "translation": {"zh": "关百叶窗", "en": "close the shutter"}, "emoji": "🪟"}
+    ]
+  },
+  {
+    "text": "l'exclusion sociale",
+    "ipa": "lɛksklyzjɔ̃ sɔsjal",
+    "translation": {"zh": "社会排斥", "en": "social exclusion"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'exclusion sociale", "lemma": "exclusion", "ipa": "lɛksklyzjɔ̃ sɔsjal", "translation": {"zh": "社会排斥", "en": "social exclusion"}, "emoji": "🚫"}
+    ]
+  }
+]

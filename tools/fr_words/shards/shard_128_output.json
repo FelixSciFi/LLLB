@@ -1,0 +1,74 @@
+[
+  {
+    "text": "redonner",
+    "ipa": "ʁədɔne",
+    "translation": {"zh": "重新给予", "en": "give back"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "redonner", "lemma": "redonner", "ipa": "ʁədɔne", "translation": {"zh": "重新给予", "en": "give back"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "salir",
+    "ipa": "saliʁ",
+    "translation": {"zh": "弄脏", "en": "to dirty"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "salir", "lemma": "salir", "ipa": "saliʁ", "translation": {"zh": "弄脏", "en": "to dirty"}, "emoji": "🧹"}
+    ]
+  },
+  {
+    "text": "extrémité",
+    "ipa": "ɛkstʁemite",
+    "translation": {"zh": "末端", "en": "extremity"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "extrémité", "lemma": "extrémité", "ipa": "ɛkstʁemite", "translation": {"zh": "末端", "en": "extremity"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "foudre",
+    "ipa": "fudʁ",
+    "translation": {"zh": "闪电", "en": "lightning"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "foudre", "lemma": "foudre", "ipa": "fudʁ", "translation": {"zh": "闪电", "en": "lightning"}, "emoji": "⚡"}
+    ]
+  },
+  {
+    "text": "visibilité",
+    "ipa": "vizibilite",
+    "translation": {"zh": "能见度", "en": "visibility"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "visibilité", "lemma": "visibilité", "ipa": "vizibilite", "translation": {"zh": "能见度", "en": "visibility"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "féministe",
+    "ipa": "feminist",
+    "translation": {"zh": "女权主义者", "en": "feminist"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "féministe", "lemma": "féministe", "ipa": "feminist", "translation": {"zh": "女权主义者", "en": "feminist"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "injure",
+    "ipa": "ɛ̃ʒyʁ",
+    "translation": {"zh": "侮辱", "en": "insult"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "injure", "lemma": "injure", "ipa": "ɛ̃ʒyʁ", "translation": {"zh": "侮辱", "en": "insult"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "high-tech",
+    "ipa": "ajtɛk",
+    "translation": {"zh": "高科技", "en": "high-tech"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "high-tech", "lemma": "high-tech", "ipa": "ajtɛk", "translation": {"zh": "高科技", "en": "high-tech"}, "emoji": "💻"}
+    ]
+  }
+]

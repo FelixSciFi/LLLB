@@ -1,0 +1,216 @@
+[
+  {
+    "text": "我翻开历史一查，这历史没有年代。",
+    "ipa": "wǒ fān kāi lì shǐ yī chá, zhè lì shǐ méi yǒu nián dài.",
+    "translation": {
+      "zh": "我翻开历史一查，这历史没有年代。",
+      "en": "I opened up history and looked: this history had no chronology."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "我翻开",
+        "lemma": "翻开",
+        "ipa": "wǒ fān kāi",
+        "translation": {"zh": "我打开", "en": "I opened"},
+        "emoji": "📖"
+      },
+      {
+        "text": "历史",
+        "lemma": "历史",
+        "ipa": "lì shǐ",
+        "translation": {"zh": "史书", "en": "history"},
+        "emoji": "📜"
+      },
+      {
+        "text": "一查",
+        "lemma": "查",
+        "ipa": "yī chá",
+        "translation": {"zh": "查看一下", "en": "took a look"},
+        "emoji": "🔍"
+      },
+      {
+        "text": "这历史",
+        "lemma": "历史",
+        "ipa": "zhè lì shǐ",
+        "translation": {"zh": "这部史书", "en": "this history"},
+        "emoji": "📚"
+      },
+      {
+        "text": "没有",
+        "lemma": "没有",
+        "ipa": "méi yǒu",
+        "translation": {"zh": "不存在", "en": "had no"},
+        "emoji": "❌"
+      },
+      {
+        "text": "年代",
+        "lemma": "年代",
+        "ipa": "nián dài",
+        "translation": {"zh": "年份纪年", "en": "chronology"},
+        "emoji": "📅"
+      }
+    ],
+    "tags": [{"name": "狂人日记", "index": 1}]
+  },
+  {
+    "text": "歪歪斜斜的每叶上都写着\"仁义道德\"几个字。",
+    "ipa": "wāi wāi xié xié de měi yè shàng dōu xiě zhe \"rén yì dào dé\" jǐ gè zì.",
+    "translation": {
+      "zh": "歪歪斜斜的每叶上都写着\"仁义道德\"几个字。",
+      "en": "On every page, scrawled crookedly, were the words \"benevolence, righteousness, and morality.\""
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "歪歪斜斜的每叶上都写着",
+        "lemma": "写",
+        "ipa": "wāi wāi xié xié de měi yè shàng dōu xiě zhe",
+        "translation": {"zh": "每页都歪斜地写着", "en": "every page crookedly bore"},
+        "emoji": "✍️"
+      },
+      {
+        "text": "\"仁义道德\"",
+        "lemma": "仁义道德",
+        "ipa": "rén yì dào dé",
+        "translation": {"zh": "仁义与道德", "en": "virtue and morality"},
+        "emoji": "☯️"
+      },
+      {
+        "text": "几个字",
+        "lemma": "字",
+        "ipa": "jǐ gè zì",
+        "translation": {"zh": "几个汉字", "en": "a few words"},
+        "emoji": "🔤"
+      }
+    ],
+    "tags": [{"name": "狂人日记", "index": 2}]
+  },
+  {
+    "text": "我横竖睡不着。",
+    "ipa": "wǒ héng shù shuì bù zháo.",
+    "translation": {
+      "zh": "我横竖睡不着。",
+      "en": "I simply could not sleep."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "我",
+        "lemma": "我",
+        "ipa": "wǒ",
+        "translation": {"zh": "我", "en": "I"},
+        "emoji": "🙋"
+      },
+      {
+        "text": "横竖",
+        "lemma": "横竖",
+        "ipa": "héng shù",
+        "translation": {"zh": "反正", "en": "anyway"},
+        "emoji": "🔁"
+      },
+      {
+        "text": "睡不着",
+        "lemma": "睡",
+        "ipa": "shuì bù zháo",
+        "translation": {"zh": "无法入睡", "en": "couldn't sleep"},
+        "emoji": "😵"
+      }
+    ],
+    "tags": [{"name": "狂人日记", "index": 3}]
+  },
+  {
+    "text": "仔细看了半夜，才从字缝里看出字来。",
+    "ipa": "zǐ xì kàn le bàn yè, cái cóng zì fèng lǐ kàn chū zì lái.",
+    "translation": {
+      "zh": "仔细看了半夜，才从字缝里看出字来。",
+      "en": "After staring half the night, I finally made out words between the lines."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "仔细看了",
+        "lemma": "看",
+        "ipa": "zǐ xì kàn le",
+        "translation": {"zh": "细细看着", "en": "stared carefully"},
+        "emoji": "👀"
+      },
+      {
+        "text": "半夜",
+        "lemma": "半夜",
+        "ipa": "bàn yè",
+        "translation": {"zh": "半个夜晚", "en": "half the night"},
+        "emoji": "🌙"
+      },
+      {
+        "text": "才",
+        "lemma": "才",
+        "ipa": "cái",
+        "translation": {"zh": "方才", "en": "only then"},
+        "emoji": "⏳"
+      },
+      {
+        "text": "从字缝里",
+        "lemma": "字缝",
+        "ipa": "cóng zì fèng lǐ",
+        "translation": {"zh": "在字与字之间", "en": "between the lines"},
+        "emoji": "📏"
+      },
+      {
+        "text": "看出字来",
+        "lemma": "看出",
+        "ipa": "kàn chū zì lái",
+        "translation": {"zh": "辨认出文字", "en": "made out words"},
+        "emoji": "🔎"
+      }
+    ],
+    "tags": [{"name": "狂人日记", "index": 4}]
+  },
+  {
+    "text": "满本都写着两个字是\"吃人\"！",
+    "ipa": "mǎn běn dōu xiě zhe liǎng gè zì shì \"chī rén\"!",
+    "translation": {
+      "zh": "满本都写着两个字是\"吃人\"！",
+      "en": "The whole book was written with the same two words: \"Eat people!\""
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "满本",
+        "lemma": "满本",
+        "ipa": "mǎn běn",
+        "translation": {"zh": "整本书", "en": "the whole book"},
+        "emoji": "📕"
+      },
+      {
+        "text": "都写着",
+        "lemma": "写",
+        "ipa": "dōu xiě zhe",
+        "translation": {"zh": "全写着", "en": "was filled with"},
+        "emoji": "✍️"
+      },
+      {
+        "text": "两个字",
+        "lemma": "字",
+        "ipa": "liǎng gè zì",
+        "translation": {"zh": "两个汉字", "en": "two words"},
+        "emoji": "🔤"
+      },
+      {
+        "text": "是",
+        "lemma": "是",
+        "ipa": "shì",
+        "translation": {"zh": "就是", "en": "are"},
+        "emoji": "➡️"
+      },
+      {
+        "text": "\"吃人\"",
+        "lemma": "吃人",
+        "ipa": "chī rén",
+        "translation": {"zh": "吞食他人", "en": "Eat people"},
+        "emoji": "🩸"
+      }
+    ],
+    "tags": [{"name": "狂人日记", "index": 5}]
+  }
+]

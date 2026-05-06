@@ -1,0 +1,272 @@
+[
+  {
+    "text": "la vie familiale",
+    "ipa": "la vi familjal",
+    "translation": {"zh": "家庭生活", "en": "family life"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la vie familiale", "lemma": "vie", "ipa": "la vi familjal", "translation": {"zh": "家庭生活", "en": "family life"}, "emoji": "👨‍👩‍👧"}
+    ]
+  },
+  {
+    "text": "notez votre nom",
+    "ipa": "note vɔtʁ nɔ̃",
+    "translation": {"zh": "写下您的名字", "en": "write down your name"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "notez votre nom", "lemma": "noter", "ipa": "note vɔtʁ nɔ̃", "translation": {"zh": "写下名字", "en": "note your name"}, "emoji": "✏️"}
+    ]
+  },
+  {
+    "text": "la zone",
+    "ipa": "la zon",
+    "translation": {"zh": "区域", "en": "zone"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la zone", "lemma": "zone", "ipa": "la zon", "translation": {"zh": "区域", "en": "zone"}, "emoji": "📍"}
+    ]
+  },
+  {
+    "text": "une longue période",
+    "ipa": "yn lɔ̃ɡ peʁjɔd",
+    "translation": {"zh": "一段很长的时期", "en": "a long period"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une longue période", "lemma": "période", "ipa": "yn lɔ̃ɡ peʁjɔd", "translation": {"zh": "漫长时期", "en": "long period"}, "emoji": "📅"}
+    ]
+  },
+  {
+    "text": "marquer un but",
+    "ipa": "maʁke œ̃ by",
+    "translation": {"zh": "进一个球", "en": "score a goal"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "marquer un but", "lemma": "marquer", "ipa": "maʁke œ̃ by", "translation": {"zh": "进球", "en": "score a goal"}, "emoji": "⚽"}
+    ]
+  },
+  {
+    "text": "une grande découverte",
+    "ipa": "yn ɡʁɑ̃d dekuvɛʁt",
+    "translation": {"zh": "一项重大发现", "en": "a great discovery"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une grande découverte", "lemma": "découverte", "ipa": "yn ɡʁɑ̃d dekuvɛʁt", "translation": {"zh": "重大发现", "en": "great discovery"}, "emoji": "🔭"}
+    ]
+  },
+  {
+    "text": "je tente ma chance",
+    "ipa": "ʒə tɑ̃t ma ʃɑ̃s",
+    "translation": {"zh": "我试试运气", "en": "I try my luck"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "je tente ma chance", "lemma": "tenter", "ipa": "ʒə tɑ̃t ma ʃɑ̃s", "translation": {"zh": "碰碰运气", "en": "try my luck"}, "emoji": "🎲"}
+    ]
+  },
+  {
+    "text": "le couloir",
+    "ipa": "lə kulwaʁ",
+    "translation": {"zh": "走廊", "en": "corridor"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le couloir", "lemma": "couloir", "ipa": "lə kulwaʁ", "translation": {"zh": "走廊", "en": "corridor"}, "emoji": "🚪"}
+    ]
+  },
+  {
+    "text": "rejoindre le groupe",
+    "ipa": "ʁəʒwɛ̃dʁ lə ɡʁup",
+    "translation": {"zh": "加入团队", "en": "join the group"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "rejoindre le groupe", "lemma": "rejoindre", "ipa": "ʁəʒwɛ̃dʁ lə ɡʁup", "translation": {"zh": "加入团队", "en": "join the group"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "une carte d'identité",
+    "ipa": "yn kaʁt didɑ̃tite",
+    "translation": {"zh": "身份证", "en": "identity card"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une carte d'identité", "lemma": "identité", "ipa": "yn kaʁt didɑ̃tite", "translation": {"zh": "身份证", "en": "identity card"}, "emoji": "🪪"}
+    ]
+  },
+  {
+    "text": "je constate un problème",
+    "ipa": "ʒə kɔ̃stat œ̃ pʁɔblɛm",
+    "translation": {"zh": "我注意到一个问题", "en": "I notice a problem"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "je constate un problème", "lemma": "constater", "ipa": "ʒə kɔ̃stat œ̃ pʁɔblɛm", "translation": {"zh": "发现问题", "en": "notice a problem"}, "emoji": "🔍"}
+    ]
+  },
+  {
+    "text": "je vous en prie",
+    "ipa": "ʒə vuz ɑ̃ pʁi",
+    "translation": {"zh": "不客气", "en": "you're welcome"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je vous en prie", "lemma": "prier", "ipa": "ʒə vuz ɑ̃ pʁi", "translation": {"zh": "不客气", "en": "you're welcome"}, "emoji": "🙏"}
+    ]
+  },
+  {
+    "text": "c'est intéressant",
+    "ipa": "sɛ tɛ̃teʁesɑ̃",
+    "translation": {"zh": "这很有趣", "en": "it's interesting"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "c'est intéressant", "lemma": "intéressant", "ipa": "sɛ tɛ̃teʁesɑ̃", "translation": {"zh": "有趣", "en": "interesting"}, "emoji": "🤔"}
+    ]
+  },
+  {
+    "text": "prévoir la pluie",
+    "ipa": "pʁevwaʁ la plɥi",
+    "translation": {"zh": "预报下雨", "en": "forecast rain"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "prévoir la pluie", "lemma": "prévoir", "ipa": "pʁevwaʁ la plɥi", "translation": {"zh": "预报雨", "en": "forecast rain"}, "emoji": "🌧️"}
+    ]
+  },
+  {
+    "text": "le doigt",
+    "ipa": "lə dwa",
+    "translation": {"zh": "手指", "en": "finger"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le doigt", "lemma": "doigt", "ipa": "lə dwa", "translation": {"zh": "手指", "en": "finger"}, "emoji": "☝️"}
+    ]
+  },
+  {
+    "text": "un bâtiment moderne",
+    "ipa": "œ̃ batimɑ̃ mɔdɛʁn",
+    "translation": {"zh": "一座现代建筑", "en": "a modern building"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un bâtiment moderne", "lemma": "moderne", "ipa": "œ̃ batimɑ̃ mɔdɛʁn", "translation": {"zh": "现代建筑", "en": "modern building"}, "emoji": "🏢"}
+    ]
+  },
+  {
+    "text": "la tendance actuelle",
+    "ipa": "la tɑ̃dɑ̃s aktɥɛl",
+    "translation": {"zh": "当前的趋势", "en": "the current trend"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la tendance actuelle", "lemma": "tendance", "ipa": "la tɑ̃dɑ̃s aktɥɛl", "translation": {"zh": "当前趋势", "en": "current trend"}, "emoji": "📈"}
+    ]
+  },
+  {
+    "text": "réunir la famille",
+    "ipa": "ʁeyniʁ la famij",
+    "translation": {"zh": "团聚家人", "en": "bring the family together"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "réunir la famille", "lemma": "réunir", "ipa": "ʁeyniʁ la famij", "translation": {"zh": "团聚家人", "en": "reunite the family"}, "emoji": "👨‍👩‍👧‍👦"}
+    ]
+  },
+  {
+    "text": "il affirme la vérité",
+    "ipa": "il afirm la veʁite",
+    "translation": {"zh": "他断言这是真相", "en": "he asserts the truth"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il affirme la vérité", "lemma": "affirmer", "ipa": "il afirm la veʁite", "translation": {"zh": "断言真相", "en": "assert the truth"}, "emoji": "💬"}
+    ]
+  },
+  {
+    "text": "le comportement",
+    "ipa": "lə kɔ̃pɔʁtəmɑ̃",
+    "translation": {"zh": "行为", "en": "behavior"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le comportement", "lemma": "comportement", "ipa": "lə kɔ̃pɔʁtəmɑ̃", "translation": {"zh": "行为", "en": "behavior"}, "emoji": "🧠"}
+    ]
+  },
+  {
+    "text": "la consommation d'eau",
+    "ipa": "la kɔ̃sɔmasjɔ̃ do",
+    "translation": {"zh": "用水量", "en": "water consumption"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la consommation d'eau", "lemma": "consommation", "ipa": "la kɔ̃sɔmasjɔ̃ do", "translation": {"zh": "用水量", "en": "water consumption"}, "emoji": "💧"}
+    ]
+  },
+  {
+    "text": "composer un numéro",
+    "ipa": "kɔ̃poze œ̃ nymeʁo",
+    "translation": {"zh": "拨一个号码", "en": "dial a number"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "composer un numéro", "lemma": "composer", "ipa": "kɔ̃poze œ̃ nymeʁo", "translation": {"zh": "拨号码", "en": "dial a number"}, "emoji": "📞"}
+    ]
+  },
+  {
+    "text": "un beau paysage",
+    "ipa": "œ̃ bo pejzaʒ",
+    "translation": {"zh": "一片美丽的风景", "en": "a beautiful landscape"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un beau paysage", "lemma": "paysage", "ipa": "œ̃ bo pejzaʒ", "translation": {"zh": "美丽风景", "en": "beautiful landscape"}, "emoji": "🏞️"}
+    ]
+  },
+  {
+    "text": "pratiquer le sport",
+    "ipa": "pʁatike lə spɔʁ",
+    "translation": {"zh": "锻炼运动", "en": "do sports"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "pratiquer le sport", "lemma": "pratiquer", "ipa": "pʁatike lə spɔʁ", "translation": {"zh": "锻炼运动", "en": "do sports"}, "emoji": "🏃"}
+    ]
+  },
+  {
+    "text": "rester en contact",
+    "ipa": "ʁɛste ɑ̃ kɔ̃takt",
+    "translation": {"zh": "保持联系", "en": "stay in touch"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "rester en contact", "lemma": "contact", "ipa": "ʁɛste ɑ̃ kɔ̃takt", "translation": {"zh": "保持联系", "en": "stay in touch"}, "emoji": "📱"}
+    ]
+  },
+  {
+    "text": "imposer une règle",
+    "ipa": "ɛ̃poze yn ʁɛɡl",
+    "translation": {"zh": "强制规定一条规则", "en": "impose a rule"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "imposer une règle", "lemma": "imposer", "ipa": "ɛ̃poze yn ʁɛɡl", "translation": {"zh": "强制规则", "en": "impose a rule"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "l'union fait la force",
+    "ipa": "lynjɔ̃ fɛ la fɔʁs",
+    "translation": {"zh": "团结就是力量", "en": "unity is strength"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "l'union fait la force", "lemma": "union", "ipa": "lynjɔ̃ fɛ la fɔʁs", "translation": {"zh": "团结力量", "en": "unity is strength"}, "emoji": "🤜"}
+    ]
+  },
+  {
+    "text": "saluer un ami",
+    "ipa": "salye œ̃ nami",
+    "translation": {"zh": "向朋友打招呼", "en": "greet a friend"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "saluer un ami", "lemma": "saluer", "ipa": "salye œ̃ nami", "translation": {"zh": "打招呼", "en": "greet a friend"}, "emoji": "👋"}
+    ]
+  },
+  {
+    "text": "un appareil photo",
+    "ipa": "œ̃ napaʁɛj fɔto",
+    "translation": {"zh": "一台相机", "en": "a camera"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un appareil photo", "lemma": "appareil", "ipa": "œ̃ napaʁɛj fɔto", "translation": {"zh": "相机", "en": "camera"}, "emoji": "📷"}
+    ]
+  },
+  {
+    "text": "un accident de voiture",
+    "ipa": "œ̃ naksidɑ̃ də vwatyʁ",
+    "translation": {"zh": "一起车祸", "en": "a car accident"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un accident de voiture", "lemma": "accident", "ipa": "œ̃ naksidɑ̃ də vwatyʁ", "translation": {"zh": "车祸", "en": "car accident"}, "emoji": "🚗"}
+    ]
+  }
+]

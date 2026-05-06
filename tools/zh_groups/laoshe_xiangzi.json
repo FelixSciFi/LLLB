@@ -1,0 +1,160 @@
+[
+  {
+    "text": "我们所要介绍的是祥子，不是骆驼。",
+    "ipa": "wǒ men suǒ yào jiè shào de shì xiáng zi, bù shì luò tuo.",
+    "translation": {
+      "zh": "我们所要介绍的是祥子，不是骆驼。",
+      "en": "Whom we are introducing is Xiangzi, not the camel."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "我们所要介绍的",
+        "lemma": "介绍",
+        "ipa": "wǒ men suǒ yào jiè shào de",
+        "translation": {"zh": "咱们要讲的", "en": "what we introduce"},
+        "emoji": "🗣️"
+      },
+      {
+        "text": "是祥子",
+        "lemma": "祥子",
+        "ipa": "shì xiáng zi",
+        "translation": {"zh": "是祥子", "en": "is Xiangzi"},
+        "emoji": "👤"
+      },
+      {
+        "text": "不是骆驼",
+        "lemma": "骆驼",
+        "ipa": "bù shì luò tuo",
+        "translation": {"zh": "不是骆驼", "en": "not the camel"},
+        "emoji": "🐪"
+      }
+    ],
+    "tags": [{"name": "骆驼祥子", "index": 1}]
+  },
+  {
+    "text": "因为\"骆驼\"只是个外号。",
+    "ipa": "yīn wèi \"luò tuo\" zhǐ shì gè wài hào.",
+    "translation": {
+      "zh": "因为\"骆驼\"只是个外号。",
+      "en": "Because \"Camel\" is merely a nickname."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "因为",
+        "lemma": "因为",
+        "ipa": "yīn wèi",
+        "translation": {"zh": "由于", "en": "because"},
+        "emoji": ""
+      },
+      {
+        "text": "\"骆驼\"",
+        "lemma": "骆驼",
+        "ipa": "luò tuo",
+        "translation": {"zh": "骆驼这名儿", "en": "Camel"},
+        "emoji": "🐪"
+      },
+      {
+        "text": "只是个外号",
+        "lemma": "外号",
+        "ipa": "zhǐ shì gè wài hào",
+        "translation": {"zh": "不过是绰号", "en": "just a nickname"},
+        "emoji": "🏷️"
+      }
+    ],
+    "tags": [{"name": "骆驼祥子", "index": 2}]
+  },
+  {
+    "text": "那么，我们就先说祥子。",
+    "ipa": "nà me, wǒ men jiù xiān shuō xiáng zi.",
+    "translation": {
+      "zh": "那么，我们就先说祥子。",
+      "en": "So, let's talk about Xiangzi first."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "那么",
+        "lemma": "那么",
+        "ipa": "nà me",
+        "translation": {"zh": "那", "en": "so then"},
+        "emoji": ""
+      },
+      {
+        "text": "我们就先说",
+        "lemma": "说",
+        "ipa": "wǒ men jiù xiān shuō",
+        "translation": {"zh": "咱们先讲", "en": "we first speak of"},
+        "emoji": "💬"
+      },
+      {
+        "text": "祥子",
+        "lemma": "祥子",
+        "ipa": "xiáng zi",
+        "translation": {"zh": "祥子", "en": "Xiangzi"},
+        "emoji": "👤"
+      }
+    ],
+    "tags": [{"name": "骆驼祥子", "index": 3}]
+  },
+  {
+    "text": "随手儿把骆驼与祥子那点关系说过去。",
+    "ipa": "suí shǒur bǎ luò tuo yǔ xiáng zi nà diǎn guān xi shuō guò qù.",
+    "translation": {
+      "zh": "随手儿把骆驼与祥子那点关系说过去。",
+      "en": "And along the way mention the small connection between the camel and Xiangzi."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "随手儿",
+        "lemma": "随手",
+        "ipa": "suí shǒur",
+        "translation": {"zh": "顺便", "en": "casually"},
+        "emoji": "✋"
+      },
+      {
+        "text": "把骆驼与祥子",
+        "lemma": "骆驼",
+        "ipa": "bǎ luò tuo yǔ xiáng zi",
+        "translation": {"zh": "拿骆驼跟祥子", "en": "the camel and Xiangzi"},
+        "emoji": "🐪"
+      },
+      {
+        "text": "那点关系",
+        "lemma": "关系",
+        "ipa": "nà diǎn guān xi",
+        "translation": {"zh": "那点儿干系", "en": "that bit of relation"},
+        "emoji": "🔗"
+      },
+      {
+        "text": "说过去",
+        "lemma": "说",
+        "ipa": "shuō guò qù",
+        "translation": {"zh": "讲一讲带过", "en": "mention in passing"},
+        "emoji": "💬"
+      }
+    ],
+    "tags": [{"name": "骆驼祥子", "index": 4}]
+  },
+  {
+    "text": "也就算了。",
+    "ipa": "yě jiù suàn le.",
+    "translation": {
+      "zh": "也就算了。",
+      "en": "And that will do."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "也就算了",
+        "lemma": "算",
+        "ipa": "yě jiù suàn le",
+        "translation": {"zh": "就这么着吧", "en": "that's enough"},
+        "emoji": "🤷"
+      }
+    ],
+    "tags": [{"name": "骆驼祥子", "index": 5}]
+  }
+]

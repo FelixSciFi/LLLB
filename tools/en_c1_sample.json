@@ -1,0 +1,250 @@
+[
+  {
+    "text": "Most people who bother with the matter at all would admit that the English language is in a bad way.",
+    "ipa": "moʊst ˈpipəl hu ˈbɑðər wɪð ðə ˈmætər æt ɔl wʊd ədˈmɪt ðæt ði ˈɪŋɡlɪʃ ˈlæŋɡwɪdʒ ɪz ɪn ə bæd weɪ",
+    "translation": {
+      "zh": "大多数关心此事的人都会承认，英语正处于糟糕的状态。"
+    },
+    "cefr": "C1",
+    "tokens": [
+      {
+        "text": "Most people",
+        "lemma": "people",
+        "ipa": "moʊst ˈpipəl",
+        "translation": {
+          "zh": "大多数人"
+        },
+        "emoji": "👥"
+      },
+      {
+        "text": "who bother",
+        "lemma": "bother",
+        "ipa": "hu ˈbɑðər",
+        "translation": {
+          "zh": "愿费心"
+        },
+        "emoji": "🤔"
+      },
+      {
+        "text": "with the matter at all",
+        "lemma": "matter",
+        "ipa": "wɪð ðə ˈmætər æt ɔl",
+        "translation": {
+          "zh": "于此事丝毫"
+        },
+        "emoji": "📌"
+      },
+      {
+        "text": "would admit",
+        "lemma": "admit",
+        "ipa": "wʊd ədˈmɪt",
+        "translation": {
+          "zh": "会承认"
+        },
+        "emoji": "✅"
+      },
+      {
+        "text": "that the English language",
+        "lemma": "language",
+        "ipa": "ðæt ði ˈɪŋɡlɪʃ ˈlæŋɡwɪdʒ",
+        "translation": {
+          "zh": "英语"
+        },
+        "emoji": "🇬🇧"
+      },
+      {
+        "text": "is in a bad way",
+        "lemma": "way",
+        "ipa": "ɪz ɪn ə bæd weɪ",
+        "translation": {
+          "zh": "状态糟糕"
+        },
+        "emoji": "📉"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Politics and the English Language",
+        "index": 1
+      }
+    ],
+    "id": "c36cc755-5d26-4890-a2d6-04aa9daa7559"
+  },
+  {
+    "text": "It is generally assumed that we cannot by conscious action do anything about it.",
+    "ipa": "ɪt ɪz ˈdʒɛnərəli əˈsumd ðæt wi ˈkænɑt baɪ ˈkɑnʃəs ˈækʃən du ˈɛniˌθɪŋ əˈbaʊt ɪt",
+    "translation": {
+      "zh": "人们普遍认为，我们无法通过有意识的行动对此做出任何改变。"
+    },
+    "cefr": "C1",
+    "tokens": [
+      {
+        "text": "It is generally assumed",
+        "lemma": "assume",
+        "ipa": "ɪt ɪz ˈdʒɛnərəli əˈsumd",
+        "translation": {
+          "zh": "普遍认为"
+        },
+        "emoji": "💭"
+      },
+      {
+        "text": "that we cannot",
+        "lemma": "cannot",
+        "ipa": "ðæt wi ˈkænɑt",
+        "translation": {
+          "zh": "我们无法"
+        },
+        "emoji": "🚫"
+      },
+      {
+        "text": "by conscious action",
+        "lemma": "action",
+        "ipa": "baɪ ˈkɑnʃəs ˈækʃən",
+        "translation": {
+          "zh": "靠主动作为"
+        },
+        "emoji": "🎯"
+      },
+      {
+        "text": "do anything",
+        "lemma": "do",
+        "ipa": "du ˈɛniˌθɪŋ",
+        "translation": {
+          "zh": "有所作为"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "about it",
+        "lemma": "it",
+        "ipa": "əˈbaʊt ɪt",
+        "translation": {
+          "zh": "对此"
+        },
+        "emoji": ""
+      }
+    ],
+    "tags": [
+      {
+        "name": "Politics and the English Language",
+        "index": 2
+      }
+    ],
+    "id": "c3d30d6f-c5f1-441d-89fd-d626fd1df687"
+  },
+  {
+    "text": "Our civilization is decadent, and our language must inevitably share in the general collapse.",
+    "ipa": "aʊər ˌsɪvələˈzeɪʃən ɪz ˈdɛkədənt ænd aʊər ˈlæŋɡwɪdʒ məst ɪnˈɛvətəbli ʃɛr ɪn ðə ˈdʒɛnərəl kəˈlæps",
+    "translation": {
+      "zh": "我们的文明已然衰颓，我们的语言也必然在这场全面崩溃中难以幸免。"
+    },
+    "cefr": "C1",
+    "tokens": [
+      {
+        "text": "Our civilization",
+        "lemma": "civilization",
+        "ipa": "aʊər ˌsɪvələˈzeɪʃən",
+        "translation": {
+          "zh": "我们的文明"
+        },
+        "emoji": "🏛️"
+      },
+      {
+        "text": "is decadent",
+        "lemma": "decadent",
+        "ipa": "ɪz ˈdɛkədənt",
+        "translation": {
+          "zh": "已颓废"
+        },
+        "emoji": "🥀"
+      },
+      {
+        "text": "and our language",
+        "lemma": "language",
+        "ipa": "ænd aʊər ˈlæŋɡwɪdʒ",
+        "translation": {
+          "zh": "而语言"
+        },
+        "emoji": "🗣️"
+      },
+      {
+        "text": "must inevitably share",
+        "lemma": "share",
+        "ipa": "məst ɪnˈɛvətəbli ʃɛr",
+        "translation": {
+          "zh": "必难逃同担"
+        },
+        "emoji": "⚖️"
+      },
+      {
+        "text": "in the general collapse",
+        "lemma": "collapse",
+        "ipa": "ɪn ðə ˈdʒɛnərəl kəˈlæps",
+        "translation": {
+          "zh": "全面崩溃"
+        },
+        "emoji": "💥"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Politics and the English Language",
+        "index": 3
+      }
+    ],
+    "id": "50896725-c931-49c5-bffb-8b31b1020b7c"
+  },
+  {
+    "text": "Any struggle against the abuse of language is a sentimental archaism.",
+    "ipa": "ˈɛni ˈstrʌɡəl əˈɡɛnst ði əˈbjus əv ˈlæŋɡwɪdʒ ɪz ə ˌsɛntəˈmɛntəl ɑrˈkeɪˌɪzəm",
+    "translation": {
+      "zh": "任何反对滥用语言的斗争，都是一种感伤的复古情怀。"
+    },
+    "cefr": "C1",
+    "tokens": [
+      {
+        "text": "Any struggle",
+        "lemma": "struggle",
+        "ipa": "ˈɛni ˈstrʌɡəl",
+        "translation": {
+          "zh": "任何抗争"
+        },
+        "emoji": "✊"
+      },
+      {
+        "text": "against the abuse",
+        "lemma": "abuse",
+        "ipa": "əˈɡɛnst ði əˈbjus",
+        "translation": {
+          "zh": "反对滥用"
+        },
+        "emoji": "🛑"
+      },
+      {
+        "text": "of language",
+        "lemma": "language",
+        "ipa": "əv ˈlæŋɡwɪdʒ",
+        "translation": {
+          "zh": "语言的"
+        },
+        "emoji": "🗣️"
+      },
+      {
+        "text": "is a sentimental archaism",
+        "lemma": "archaism",
+        "ipa": "ɪz ə ˌsɛntəˈmɛntəl ɑrˈkeɪˌɪzəm",
+        "translation": {
+          "zh": "感伤的旧调"
+        },
+        "emoji": "📜"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Politics and the English Language",
+        "index": 4
+      }
+    ],
+    "id": "0e52e464-183f-4f27-b5f6-07e5ce229e2e"
+  }
+]

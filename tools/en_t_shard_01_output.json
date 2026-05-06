@@ -1,0 +1,168 @@
+[
+  {
+    "input_word": "tell",
+    "entries": [
+      {"text": "tell", "ipa": "/tɛl/", "cefr": "A1", "zh": "告诉", "emoji": "🗣️"}
+    ]
+  },
+  {
+    "input_word": "temperature",
+    "entries": [
+      {"text": "temperature", "ipa": "/ˈtɛmpərətʃər/", "cefr": "A2", "zh": "温度", "emoji": "🌡️"}
+    ]
+  },
+  {
+    "input_word": "temporary",
+    "entries": [
+      {"text": "temporary", "ipa": "/ˈtɛmpəˌrɛri/", "cefr": "B2", "zh": "临时的", "emoji": "⏳"}
+    ]
+  },
+  {
+    "input_word": "ten",
+    "entries": [
+      {"text": "ten", "ipa": "/tɛn/", "cefr": "A1", "zh": "十", "emoji": "🔟"}
+    ]
+  },
+  {
+    "input_word": "tend",
+    "entries": [
+      {"text": "tend", "ipa": "/tɛnd/", "cefr": "B1", "zh": "倾向于", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "tennis",
+    "entries": [
+      {"text": "tennis", "ipa": "/ˈtɛnɪs/", "cefr": "A1", "zh": "网球", "emoji": "🎾"}
+    ]
+  },
+  {
+    "input_word": "tent",
+    "entries": [
+      {"text": "tent", "ipa": "/tɛnt/", "cefr": "B1", "zh": "帐篷", "emoji": "⛺"}
+    ]
+  },
+  {
+    "input_word": "term",
+    "entries": [
+      {"text": "term", "ipa": "/tɜːrm/", "cefr": "A2", "zh": "术语", "emoji": ""},
+      {"text": "term", "ipa": "/tɜːrm/", "cefr": "A2", "zh": "学期", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_word": "terrible",
+    "entries": [
+      {"text": "terrible", "ipa": "/ˈtɛrɪbəl/", "cefr": "A1", "zh": "糟糕的", "emoji": "😱"}
+    ]
+  },
+  {
+    "input_word": "test",
+    "entries": [
+      {"text": "test", "ipa": "/tɛst/", "cefr": "A1", "zh": "测试", "emoji": "📝"}
+    ]
+  },
+  {
+    "input_word": "text",
+    "entries": [
+      {"text": "text", "ipa": "/tɛkst/", "cefr": "A1", "zh": "文本", "emoji": "📄"},
+      {"text": "text", "ipa": "/tɛkst/", "cefr": "A1", "zh": "短信", "emoji": "💬"}
+    ]
+  },
+  {
+    "input_word": "than",
+    "entries": []
+  },
+  {
+    "input_word": "thank",
+    "entries": [
+      {"text": "thank", "ipa": "/θæŋk/", "cefr": "A1", "zh": "感谢", "emoji": "🙏"}
+    ]
+  },
+  {
+    "input_word": "thanks",
+    "entries": [
+      {"text": "thanks", "ipa": "/θæŋks/", "cefr": "A1", "zh": "谢谢", "emoji": "🙏"}
+    ]
+  },
+  {
+    "input_word": "that",
+    "entries": []
+  },
+  {
+    "input_word": "the",
+    "entries": []
+  },
+  {
+    "input_word": "theatre",
+    "entries": [
+      {"text": "theatre", "ipa": "/ˈθiːətər/", "cefr": "A1", "zh": "剧院", "emoji": "🎭"}
+    ]
+  },
+  {
+    "input_word": "their",
+    "entries": []
+  },
+  {
+    "input_word": "theirs",
+    "entries": []
+  },
+  {
+    "input_word": "them",
+    "entries": []
+  },
+  {
+    "input_word": "theme",
+    "entries": [
+      {"text": "theme", "ipa": "/θiːm/", "cefr": "B1", "zh": "主题", "emoji": "🎨"}
+    ]
+  },
+  {
+    "input_word": "themselves",
+    "entries": []
+  },
+  {
+    "input_word": "then",
+    "entries": [
+      {"text": "then", "ipa": "/ðɛn/", "cefr": "A1", "zh": "那时", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "theory",
+    "entries": [
+      {"text": "theory", "ipa": "/ˈθiːəri/", "cefr": "B1", "zh": "理论", "emoji": "💡"}
+    ]
+  },
+  {
+    "input_word": "therapy",
+    "entries": [
+      {"text": "therapy", "ipa": "/ˈθɛrəpi/", "cefr": "B2", "zh": "治疗", "emoji": "🛋️"}
+    ]
+  },
+  {
+    "input_word": "there",
+    "entries": [
+      {"text": "there", "ipa": "/ðɛr/", "cefr": "A1", "zh": "那里", "emoji": "📍"}
+    ]
+  },
+  {
+    "input_word": "therefore",
+    "entries": [
+      {"text": "therefore", "ipa": "/ˈðɛrˌfɔːr/", "cefr": "B1", "zh": "因此", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "they",
+    "entries": []
+  },
+  {
+    "input_word": "thick",
+    "entries": [
+      {"text": "thick", "ipa": "/θɪk/", "cefr": "A2", "zh": "厚的", "emoji": "📚"}
+    ]
+  },
+  {
+    "input_word": "thief",
+    "entries": [
+      {"text": "thief", "ipa": "/θiːf/", "cefr": "A2", "zh": "小偷", "emoji": "🦹"}
+    ]
+  }
+]

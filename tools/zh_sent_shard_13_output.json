@@ -1,0 +1,458 @@
+[
+  {
+    "input_word": "真",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567801",
+        "text": "真好吃！",
+        "ipa": "zhēn hǎo chī",
+        "translation": {
+          "zh": "真好吃！",
+          "en": "It's really delicious!"
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "真好吃",
+            "lemma": "好吃",
+            "ipa": "zhēn hǎo chī",
+            "translation": {
+              "zh": "真的很好吃",
+              "en": "really tasty"
+            },
+            "emoji": "😋"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567802",
+        "text": "这真好。",
+        "ipa": "zhè zhēn hǎo",
+        "translation": {
+          "zh": "这真的很好。",
+          "en": "This is really good."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "这",
+            "lemma": "这",
+            "ipa": "zhè",
+            "translation": {
+              "zh": "这个",
+              "en": "this"
+            },
+            "emoji": "👉"
+          },
+          {
+            "text": "真好",
+            "lemma": "好",
+            "ipa": "zhēn hǎo",
+            "translation": {
+              "zh": "真的好",
+              "en": "really good"
+            },
+            "emoji": "👍"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567803",
+        "text": "你真棒！",
+        "ipa": "nǐ zhēn bàng",
+        "translation": {
+          "zh": "你真厉害！",
+          "en": "You're really great!"
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "你真棒",
+            "lemma": "棒",
+            "ipa": "nǐ zhēn bàng",
+            "translation": {
+              "zh": "你真厉害",
+              "en": "you're really great"
+            },
+            "emoji": "🌟"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "正在",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567804",
+        "text": "我正在吃饭。",
+        "ipa": "wǒ zhèng zài chī fàn",
+        "translation": {
+          "zh": "我正在吃饭。",
+          "en": "I'm eating right now."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我正在吃饭",
+            "lemma": "吃饭",
+            "ipa": "wǒ zhèng zài chī fàn",
+            "translation": {
+              "zh": "我在吃饭",
+              "en": "I'm eating"
+            },
+            "emoji": "🍚"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567805",
+        "text": "她正在学习。",
+        "ipa": "tā zhèng zài xué xí",
+        "translation": {
+          "zh": "她正在学习。",
+          "en": "She is studying right now."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "她正在学习",
+            "lemma": "学习",
+            "ipa": "tā zhèng zài xué xí",
+            "translation": {
+              "zh": "她在学习",
+              "en": "she is studying"
+            },
+            "emoji": "📚"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567806",
+        "text": "他正在睡觉。",
+        "ipa": "tā zhèng zài shuì jiào",
+        "translation": {
+          "zh": "他正在睡觉。",
+          "en": "He is sleeping right now."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "他正在睡觉",
+            "lemma": "睡觉",
+            "ipa": "tā zhèng zài shuì jiào",
+            "translation": {
+              "zh": "他在睡觉",
+              "en": "he is sleeping"
+            },
+            "emoji": "😴"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "知道",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567807",
+        "text": "我知道了。",
+        "ipa": "wǒ zhī dào le",
+        "translation": {
+          "zh": "我知道了。",
+          "en": "I see. / I got it."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我知道了",
+            "lemma": "知道",
+            "ipa": "wǒ zhī dào le",
+            "translation": {
+              "zh": "我明白了",
+              "en": "I understand now"
+            },
+            "emoji": "💡"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567808",
+        "text": "你知道吗？",
+        "ipa": "nǐ zhī dào ma",
+        "translation": {
+          "zh": "你知道吗？",
+          "en": "Do you know?"
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "你知道吗",
+            "lemma": "知道",
+            "ipa": "nǐ zhī dào ma",
+            "translation": {
+              "zh": "你知道吗",
+              "en": "do you know"
+            },
+            "emoji": "🤔"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567809",
+        "text": "他不知道。",
+        "ipa": "tā bù zhī dào",
+        "translation": {
+          "zh": "他不知道。",
+          "en": "He doesn't know."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "他不知道",
+            "lemma": "知道",
+            "ipa": "tā bù zhī dào",
+            "translation": {
+              "zh": "他不知道",
+              "en": "he doesn't know"
+            },
+            "emoji": "🤷"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "准备",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567810",
+        "text": "我准备好了。",
+        "ipa": "wǒ zhǔn bèi hǎo le",
+        "translation": {
+          "zh": "我准备好了。",
+          "en": "I'm ready."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我准备好了",
+            "lemma": "准备",
+            "ipa": "wǒ zhǔn bèi hǎo le",
+            "translation": {
+              "zh": "我已经准备好",
+              "en": "I'm ready"
+            },
+            "emoji": "✅"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567811",
+        "text": "她在准备饭。",
+        "ipa": "tā zài zhǔn bèi fàn",
+        "translation": {
+          "zh": "她在准备饭。",
+          "en": "She is preparing food."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "她在准备饭",
+            "lemma": "准备",
+            "ipa": "tā zài zhǔn bèi fàn",
+            "translation": {
+              "zh": "她在做饭",
+              "en": "she's preparing food"
+            },
+            "emoji": "🍳"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567812",
+        "text": "准备出发吧。",
+        "ipa": "zhǔn bèi chū fā ba",
+        "translation": {
+          "zh": "准备出发吧。",
+          "en": "Let's get ready to go."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "准备出发吧",
+            "lemma": "出发",
+            "ipa": "zhǔn bèi chū fā ba",
+            "translation": {
+              "zh": "准备好出发",
+              "en": "get ready to set off"
+            },
+            "emoji": "🚀"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "走",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567813",
+        "text": "我们走吧。",
+        "ipa": "wǒ men zǒu ba",
+        "translation": {
+          "zh": "我们走吧。",
+          "en": "Let's go."
+        },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "我们走吧",
+            "lemma": "走",
+            "ipa": "wǒ men zǒu ba",
+            "translation": {
+              "zh": "咱们走吧",
+              "en": "let's go"
+            },
+            "emoji": "🚶"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567814",
+        "text": "他走了。",
+        "ipa": "tā zǒu le",
+        "translation": {
+          "zh": "他走了。",
+          "en": "He left."
+        },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "他走了",
+            "lemma": "走",
+            "ipa": "tā zǒu le",
+            "translation": {
+              "zh": "他离开了",
+              "en": "he left"
+            },
+            "emoji": "🚶"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567815",
+        "text": "快走！",
+        "ipa": "kuài zǒu",
+        "translation": {
+          "zh": "快点走！",
+          "en": "Walk faster! / Hurry up!"
+        },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "快走",
+            "lemma": "走",
+            "ipa": "kuài zǒu",
+            "translation": {
+              "zh": "快点走",
+              "en": "hurry up"
+            },
+            "emoji": "🏃"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "左边",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567816",
+        "text": "在左边。",
+        "ipa": "zài zuǒ biān",
+        "translation": {
+          "zh": "在左边。",
+          "en": "It's on the left."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "在左边",
+            "lemma": "左边",
+            "ipa": "zài zuǒ biān",
+            "translation": {
+              "zh": "在左侧",
+              "en": "on the left"
+            },
+            "emoji": "⬅️"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567817",
+        "text": "左边是银行。",
+        "ipa": "zuǒ biān shì yín háng",
+        "translation": {
+          "zh": "左边是银行。",
+          "en": "The bank is on the left."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "左边",
+            "lemma": "左边",
+            "ipa": "zuǒ biān",
+            "translation": {
+              "zh": "左侧",
+              "en": "the left side"
+            },
+            "emoji": "⬅️"
+          },
+          {
+            "text": "是银行",
+            "lemma": "银行",
+            "ipa": "shì yín háng",
+            "translation": {
+              "zh": "是银行",
+              "en": "is the bank"
+            },
+            "emoji": "🏦"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567818",
+        "text": "往左边走。",
+        "ipa": "wǎng zuǒ biān zǒu",
+        "translation": {
+          "zh": "往左边走。",
+          "en": "Walk to the left."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "往左边",
+            "lemma": "左边",
+            "ipa": "wǎng zuǒ biān",
+            "translation": {
+              "zh": "向左边",
+              "en": "toward the left"
+            },
+            "emoji": "⬅️"
+          },
+          {
+            "text": "走",
+            "lemma": "走",
+            "ipa": "zǒu",
+            "translation": {
+              "zh": "走",
+              "en": "walk"
+            },
+            "emoji": "🚶"
+          }
+        ]
+      }
+    ]
+  }
+]

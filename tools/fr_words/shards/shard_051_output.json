@@ -1,0 +1,272 @@
+[
+  {
+    "text": "mon neveu",
+    "ipa": "mɔ̃ nəvø",
+    "translation": {"zh": "我的侄子", "en": "my nephew"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "mon neveu", "lemma": "neveu", "ipa": "mɔ̃ nəvø", "translation": {"zh": "我的侄子", "en": "my nephew"}, "emoji": "👦"}
+    ]
+  },
+  {
+    "text": "jouer au tennis",
+    "ipa": "ʒwe o tɛnis",
+    "translation": {"zh": "打网球", "en": "play tennis"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "jouer au tennis", "lemma": "jouer", "ipa": "ʒwe o tɛnis", "translation": {"zh": "打网球", "en": "play tennis"}, "emoji": "🎾"}
+    ]
+  },
+  {
+    "text": "la langue maternelle",
+    "ipa": "la lɑ̃ɡ matɛʁnɛl",
+    "translation": {"zh": "母语", "en": "mother tongue"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "la langue maternelle", "lemma": "langue maternelle", "ipa": "la lɑ̃ɡ matɛʁnɛl", "translation": {"zh": "母语", "en": "mother tongue"}, "emoji": "🗣️"}
+    ]
+  },
+  {
+    "text": "se loger en ville",
+    "ipa": "sə lɔʒe ɑ̃ vil",
+    "translation": {"zh": "在城里住下", "en": "find housing in the city"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "se loger en ville", "lemma": "loger", "ipa": "sə lɔʒe ɑ̃ vil", "translation": {"zh": "在城里找住所", "en": "find housing in town"}, "emoji": "🏠"}
+    ]
+  },
+  {
+    "text": "chiffres romains",
+    "ipa": "ʃifʁ ʁɔmɛ̃",
+    "translation": {"zh": "罗马数字", "en": "Roman numerals"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "chiffres romains", "lemma": "chiffre romain", "ipa": "ʃifʁ ʁɔmɛ̃", "translation": {"zh": "罗马数字", "en": "Roman numerals"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "lumière artificielle",
+    "ipa": "lymjɛʁ aʁtifisjɛl",
+    "translation": {"zh": "人造光", "en": "artificial light"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "lumière artificielle", "lemma": "lumière artificielle", "ipa": "lymjɛʁ aʁtifisjɛl", "translation": {"zh": "人造光", "en": "artificial light"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "une jupe",
+    "ipa": "yn ʒyp",
+    "translation": {"zh": "一条裙子", "en": "a skirt"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une jupe", "lemma": "jupe", "ipa": "yn ʒyp", "translation": {"zh": "裙子", "en": "skirt"}, "emoji": "👗"}
+    ]
+  },
+  {
+    "text": "un processus lent",
+    "ipa": "œ̃ pʁɔsesys lɑ̃",
+    "translation": {"zh": "一个缓慢的过程", "en": "a slow process"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un processus lent", "lemma": "processus", "ipa": "œ̃ pʁɔsesys lɑ̃", "translation": {"zh": "缓慢的过程", "en": "slow process"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "rester muet",
+    "ipa": "ʁɛste mɥɛ",
+    "translation": {"zh": "保持沉默", "en": "stay silent"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "rester muet", "lemma": "muet", "ipa": "ʁɛste mɥɛ", "translation": {"zh": "保持沉默", "en": "stay silent"}, "emoji": "🤐"}
+    ]
+  },
+  {
+    "text": "explorer la ville",
+    "ipa": "ɛksplɔʁe la vil",
+    "translation": {"zh": "探索城市", "en": "explore the city"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "explorer la ville", "lemma": "explorer", "ipa": "ɛksplɔʁe la vil", "translation": {"zh": "探索城市", "en": "explore the city"}, "emoji": "🗺️"}
+    ]
+  },
+  {
+    "text": "empreinte digitale",
+    "ipa": "ɑ̃pʁɛ̃t diʒital",
+    "translation": {"zh": "指纹", "en": "fingerprint"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "empreinte digitale", "lemma": "empreinte digitale", "ipa": "ɑ̃pʁɛ̃t diʒital", "translation": {"zh": "指纹", "en": "fingerprint"}, "emoji": "👆"}
+    ]
+  },
+  {
+    "text": "effectivement",
+    "ipa": "efɛktivmɑ̃",
+    "translation": {"zh": "确实", "en": "indeed"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "effectivement", "lemma": "effectivement", "ipa": "efɛktivmɑ̃", "translation": {"zh": "确实", "en": "indeed"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un essai",
+    "ipa": "œ̃n‿esɛ",
+    "translation": {"zh": "一篇文章", "en": "an essay"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un essai", "lemma": "essai", "ipa": "œ̃n‿esɛ", "translation": {"zh": "文章", "en": "essay"}, "emoji": "📝"}
+    ]
+  },
+  {
+    "text": "une adaptation au cinéma",
+    "ipa": "yn adaptasjɔ̃ o sinema",
+    "translation": {"zh": "一部电影改编", "en": "a film adaptation"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une adaptation au cinéma", "lemma": "adaptation", "ipa": "yn adaptasjɔ̃ o sinema", "translation": {"zh": "电影改编", "en": "film adaptation"}, "emoji": "🎬"}
+    ]
+  },
+  {
+    "text": "la poésie",
+    "ipa": "la poezi",
+    "translation": {"zh": "诗歌", "en": "poetry"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "la poésie", "lemma": "poésie", "ipa": "la poezi", "translation": {"zh": "诗歌", "en": "poetry"}, "emoji": "📜"}
+    ]
+  },
+  {
+    "text": "perdre du poids",
+    "ipa": "pɛʁdʁ dy pwa",
+    "translation": {"zh": "减肥", "en": "lose weight"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "perdre du poids", "lemma": "poids", "ipa": "pɛʁdʁ dy pwa", "translation": {"zh": "减肥", "en": "lose weight"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "attribuer un prix",
+    "ipa": "atʁibɥe œ̃ pʁi",
+    "translation": {"zh": "颁发奖项", "en": "award a prize"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "attribuer un prix", "lemma": "attribuer", "ipa": "atʁibɥe œ̃ pʁi", "translation": {"zh": "颁奖", "en": "award a prize"}, "emoji": "🏆"}
+    ]
+  },
+  {
+    "text": "un trouble du sommeil",
+    "ipa": "œ̃ tʁubl dy sɔmɛj",
+    "translation": {"zh": "睡眠障碍", "en": "a sleep disorder"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un trouble du sommeil", "lemma": "trouble", "ipa": "œ̃ tʁubl dy sɔmɛj", "translation": {"zh": "睡眠障碍", "en": "sleep disorder"}, "emoji": "😴"}
+    ]
+  },
+  {
+    "text": "la solitude",
+    "ipa": "la sɔlityd",
+    "translation": {"zh": "孤独", "en": "solitude"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la solitude", "lemma": "solitude", "ipa": "la sɔlityd", "translation": {"zh": "孤独", "en": "solitude"}, "emoji": "🌑"}
+    ]
+  },
+  {
+    "text": "énergie nucléaire",
+    "ipa": "eneʁʒi nykleɛʁ",
+    "translation": {"zh": "核能", "en": "nuclear energy"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "énergie nucléaire", "lemma": "énergie nucléaire", "ipa": "eneʁʒi nykleɛʁ", "translation": {"zh": "核能", "en": "nuclear energy"}, "emoji": "⚛️"}
+    ]
+  },
+  {
+    "text": "une branche d'arbre",
+    "ipa": "yn bʁɑ̃ʃ daʁbʁ",
+    "translation": {"zh": "一根树枝", "en": "a tree branch"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une branche d'arbre", "lemma": "branche", "ipa": "yn bʁɑ̃ʃ daʁbʁ", "translation": {"zh": "树枝", "en": "tree branch"}, "emoji": "🌿"}
+    ]
+  },
+  {
+    "text": "justifier sa décision",
+    "ipa": "ʒystifje sa desizjɔ̃",
+    "translation": {"zh": "为决定辩护", "en": "justify one's decision"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "justifier sa décision", "lemma": "justifier", "ipa": "ʒystifje sa desizjɔ̃", "translation": {"zh": "为决定辩护", "en": "justify a decision"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "unir les forces",
+    "ipa": "yniʁ le fɔʁs",
+    "translation": {"zh": "团结力量", "en": "unite forces"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "unir les forces", "lemma": "unir", "ipa": "yniʁ le fɔʁs", "translation": {"zh": "团结力量", "en": "unite forces"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "une grande ambition",
+    "ipa": "yn ɡʁɑ̃d ɑ̃bisjɔ̃",
+    "translation": {"zh": "远大抱负", "en": "great ambition"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une grande ambition", "lemma": "ambition", "ipa": "yn ɡʁɑ̃d ɑ̃bisjɔ̃", "translation": {"zh": "远大抱负", "en": "great ambition"}, "emoji": "🌟"}
+    ]
+  },
+  {
+    "text": "un représentant commercial",
+    "ipa": "œ̃ ʁəpʁezɑ̃tɑ̃ kɔmɛʁsjal",
+    "translation": {"zh": "一名销售代表", "en": "a sales representative"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un représentant commercial", "lemma": "représentant", "ipa": "œ̃ ʁəpʁezɑ̃tɑ̃ kɔmɛʁsjal", "translation": {"zh": "销售代表", "en": "sales representative"}, "emoji": "💼"}
+    ]
+  },
+  {
+    "text": "le chauffeur de taxi",
+    "ipa": "lə ʃofœʁ də taksi",
+    "translation": {"zh": "出租车司机", "en": "the taxi driver"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le chauffeur de taxi", "lemma": "chauffeur", "ipa": "lə ʃofœʁ də taksi", "translation": {"zh": "出租车司机", "en": "taxi driver"}, "emoji": "🚕"}
+    ]
+  },
+  {
+    "text": "le personnel soignant",
+    "ipa": "lə pɛʁsɔnɛl swanɑ̃",
+    "translation": {"zh": "护理人员", "en": "nursing staff"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le personnel soignant", "lemma": "personnel", "ipa": "lə pɛʁsɔnɛl swanɑ̃", "translation": {"zh": "护理人员", "en": "nursing staff"}, "emoji": "👩‍⚕️"}
+    ]
+  },
+  {
+    "text": "un cas spécifique",
+    "ipa": "œ̃ kɑ spesifik",
+    "translation": {"zh": "一个具体案例", "en": "a specific case"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un cas spécifique", "lemma": "spécifique", "ipa": "œ̃ kɑ spesifik", "translation": {"zh": "具体案例", "en": "specific case"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un plateau de fromages",
+    "ipa": "œ̃ plato də fʁɔmaʒ",
+    "translation": {"zh": "一盘奶酪", "en": "a cheese board"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un plateau de fromages", "lemma": "plateau", "ipa": "œ̃ plato də fʁɔmaʒ", "translation": {"zh": "奶酪拼盘", "en": "cheese board"}, "emoji": "🧀"}
+    ]
+  },
+  {
+    "text": "avoir de l'allure",
+    "ipa": "avwaʁ də lalyʁ",
+    "translation": {"zh": "仪态出众", "en": "have style"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "avoir de l'allure", "lemma": "allure", "ipa": "avwaʁ də lalyʁ", "translation": {"zh": "风度翩翩", "en": "have style"}, "emoji": "✨"}
+    ]
+  }
+]

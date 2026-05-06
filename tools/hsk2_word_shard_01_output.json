@@ -1,0 +1,318 @@
+[
+  {
+    "input_text": "给",
+    "entries": [
+      {
+        "text": "给",
+        "pinyin": "gěi",
+        "en": "give; for",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "公共汽车",
+    "entries": [
+      {
+        "text": "公共汽车",
+        "pinyin": "gōng gòng qì chē",
+        "en": "bus",
+        "emoji": "🚌"
+      }
+    ]
+  },
+  {
+    "input_text": "公司",
+    "entries": [
+      {
+        "text": "公司",
+        "pinyin": "gōng sī",
+        "en": "company",
+        "emoji": "🏢"
+      }
+    ]
+  },
+  {
+    "input_text": "贵",
+    "entries": [
+      {
+        "text": "贵",
+        "pinyin": "guì",
+        "en": "expensive",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "过",
+    "entries": [
+      {
+        "text": "过",
+        "pinyin": "guò",
+        "en": "pass; cross",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "还",
+    "entries": []
+  },
+  {
+    "input_text": "孩子",
+    "entries": [
+      {
+        "text": "孩子",
+        "pinyin": "hái zi",
+        "en": "child",
+        "emoji": "🧒"
+      }
+    ]
+  },
+  {
+    "input_text": "好吃",
+    "entries": [
+      {
+        "text": "好吃",
+        "pinyin": "hǎo chī",
+        "en": "delicious",
+        "emoji": "😋"
+      }
+    ]
+  },
+  {
+    "input_text": "黑",
+    "entries": [
+      {
+        "text": "黑",
+        "pinyin": "hēi",
+        "en": "black",
+        "emoji": "⚫"
+      }
+    ]
+  },
+  {
+    "input_text": "红",
+    "entries": [
+      {
+        "text": "红",
+        "pinyin": "hóng",
+        "en": "red",
+        "emoji": "🔴"
+      }
+    ]
+  },
+  {
+    "input_text": "火车站",
+    "entries": [
+      {
+        "text": "火车站",
+        "pinyin": "huǒ chē zhàn",
+        "en": "train station",
+        "emoji": "🚉"
+      }
+    ]
+  },
+  {
+    "input_text": "机场",
+    "entries": [
+      {
+        "text": "机场",
+        "pinyin": "jī chǎng",
+        "en": "airport",
+        "emoji": "✈️"
+      }
+    ]
+  },
+  {
+    "input_text": "鸡蛋",
+    "entries": [
+      {
+        "text": "鸡蛋",
+        "pinyin": "jī dàn",
+        "en": "egg",
+        "emoji": "🥚"
+      }
+    ]
+  },
+  {
+    "input_text": "件",
+    "entries": []
+  },
+  {
+    "input_text": "教室",
+    "entries": [
+      {
+        "text": "教室",
+        "pinyin": "jiào shì",
+        "en": "classroom",
+        "emoji": "🏫"
+      }
+    ]
+  },
+  {
+    "input_text": "姐姐",
+    "entries": [
+      {
+        "text": "姐姐",
+        "pinyin": "jiě jie",
+        "en": "older sister",
+        "emoji": "👩"
+      }
+    ]
+  },
+  {
+    "input_text": "介绍",
+    "entries": [
+      {
+        "text": "介绍",
+        "pinyin": "jiè shào",
+        "en": "introduce",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "进",
+    "entries": [
+      {
+        "text": "进",
+        "pinyin": "jìn",
+        "en": "enter; go in",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "近",
+    "entries": [
+      {
+        "text": "近",
+        "pinyin": "jìn",
+        "en": "near; close",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "就",
+    "entries": [
+      {
+        "text": "就",
+        "pinyin": "jiù",
+        "en": "then; right away",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "觉得",
+    "entries": [
+      {
+        "text": "觉得",
+        "pinyin": "jué de",
+        "en": "feel; think",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "咖啡",
+    "entries": [
+      {
+        "text": "咖啡",
+        "pinyin": "kā fēi",
+        "en": "coffee",
+        "emoji": "☕"
+      }
+    ]
+  },
+  {
+    "input_text": "开始",
+    "entries": [
+      {
+        "text": "开始",
+        "pinyin": "kāi shǐ",
+        "en": "begin; start",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "考试",
+    "entries": [
+      {
+        "text": "考试",
+        "pinyin": "kǎo shì",
+        "en": "exam; test",
+        "emoji": "📝"
+      }
+    ]
+  },
+  {
+    "input_text": "可能",
+    "entries": [
+      {
+        "text": "可能",
+        "pinyin": "kě néng",
+        "en": "maybe; possible",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "可以",
+    "entries": [
+      {
+        "text": "可以",
+        "pinyin": "kě yǐ",
+        "en": "can; may",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "课",
+    "entries": [
+      {
+        "text": "课",
+        "pinyin": "kè",
+        "en": "lesson; class",
+        "emoji": "📖"
+      }
+    ]
+  },
+  {
+    "input_text": "快",
+    "entries": [
+      {
+        "text": "快",
+        "pinyin": "kuài",
+        "en": "fast; quick",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "快乐",
+    "entries": [
+      {
+        "text": "快乐",
+        "pinyin": "kuài lè",
+        "en": "happy; joyful",
+        "emoji": "😊"
+      }
+    ]
+  },
+  {
+    "input_text": "累",
+    "entries": [
+      {
+        "text": "累",
+        "pinyin": "lèi",
+        "en": "tired",
+        "emoji": "😴"
+      }
+    ]
+  }
+]

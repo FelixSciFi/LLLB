@@ -1,0 +1,732 @@
+[
+  {
+    "id": "dcd5473f-6dcf-488c-afb1-931ae3cf172b",
+    "text": "今晚的月亮真漂亮。",
+    "ipa": "jīn wǎn de yuè liàng zhēn piào liàng",
+    "translation": {
+      "zh": "今晚的月亮真漂亮。",
+      "en": "The moon tonight is really beautiful."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "今晚的",
+        "lemma": "今晚的",
+        "ipa": "jīn wǎn de",
+        "translation": {
+          "zh": "今晚的",
+          "en": "tonight's"
+        },
+        "emoji": "🌙"
+      },
+      {
+        "text": "月亮",
+        "lemma": "月亮",
+        "ipa": "yuè liàng",
+        "translation": {
+          "zh": "月亮",
+          "en": "moon"
+        },
+        "emoji": "🌕"
+      },
+      {
+        "text": "真漂亮",
+        "lemma": "真漂亮",
+        "ipa": "zhēn piào liàng",
+        "translation": {
+          "zh": "真漂亮",
+          "en": "really beautiful"
+        },
+        "emoji": "✨"
+      }
+    ]
+  },
+  {
+    "id": "c2a9acd3-ca0e-40eb-99f2-9a304654371b",
+    "text": "我们坐在外面看月亮。",
+    "ipa": "wǒ men zuò zài wài miàn kàn yuè liàng",
+    "translation": {
+      "zh": "我们坐在外面看月亮。",
+      "en": "We sit outside and look at the moon."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我们",
+        "lemma": "我们",
+        "ipa": "wǒ men",
+        "translation": {
+          "zh": "我们",
+          "en": "we"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "坐在外面",
+        "lemma": "坐在外面",
+        "ipa": "zuò zài wài miàn",
+        "translation": {
+          "zh": "坐在外面",
+          "en": "sit outside"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "看月亮",
+        "lemma": "看月亮",
+        "ipa": "kàn yuè liàng",
+        "translation": {
+          "zh": "看月亮",
+          "en": "watch the moon"
+        },
+        "emoji": "🌕"
+      }
+    ]
+  },
+  {
+    "id": "c5519f2c-c1ef-4165-929a-b613c0b292f3",
+    "text": "他站在门口等你。",
+    "ipa": "tā zhàn zài mén kǒu děng nǐ",
+    "translation": {
+      "zh": "他站在门口等你。",
+      "en": "He is standing at the door waiting for you."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他站在门口",
+        "lemma": "他站在门口",
+        "ipa": "tā zhàn zài mén kǒu",
+        "translation": {
+          "zh": "他站在门口",
+          "en": "he is standing at the door"
+        },
+        "emoji": "🚪"
+      },
+      {
+        "text": "等你",
+        "lemma": "等你",
+        "ipa": "děng nǐ",
+        "translation": {
+          "zh": "等你",
+          "en": "waiting for you"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "5cb3e45b-3b1f-4c8f-8660-a5fa19f639b1",
+    "text": "请不要站在椅子上。",
+    "ipa": "qǐng bù yào zhàn zài yǐ zi shàng",
+    "translation": {
+      "zh": "请不要站在椅子上。",
+      "en": "Please don't stand on the chair."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "请",
+        "lemma": "请",
+        "ipa": "qǐng",
+        "translation": {
+          "zh": "请",
+          "en": "please"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "不要站在椅子上",
+        "lemma": "不要站在椅子上",
+        "ipa": "bù yào zhàn zài yǐ zi shàng",
+        "translation": {
+          "zh": "不要站在椅子上",
+          "en": "don't stand on the chair"
+        },
+        "emoji": "🪑"
+      }
+    ]
+  },
+  {
+    "id": "1231309f-3dfd-4bb5-a12c-5636026862f3",
+    "text": "别着急，还有时间。",
+    "ipa": "bié zháo jí hái yǒu shí jiān",
+    "translation": {
+      "zh": "别着急，还有时间。",
+      "en": "Don't worry, there's still time."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "别着急",
+        "lemma": "别着急",
+        "ipa": "bié zháo jí",
+        "translation": {
+          "zh": "别着急",
+          "en": "don't worry"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "还有时间",
+        "lemma": "还有时间",
+        "ipa": "hái yǒu shí jiān",
+        "translation": {
+          "zh": "还有时间",
+          "en": "there's still time"
+        },
+        "emoji": "⏰"
+      }
+    ]
+  },
+  {
+    "id": "c6f259da-6913-4fbb-af9c-7f7a90eaab41",
+    "text": "她着急地找手机。",
+    "ipa": "tā zháo jí de zhǎo shǒu jī",
+    "translation": {
+      "zh": "她着急地找手机。",
+      "en": "She is anxiously looking for her phone."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "她着急地",
+        "lemma": "她着急地",
+        "ipa": "tā zháo jí de",
+        "translation": {
+          "zh": "她着急地",
+          "en": "she anxiously"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "找手机",
+        "lemma": "找手机",
+        "ipa": "zhǎo shǒu jī",
+        "translation": {
+          "zh": "找手机",
+          "en": "looks for her phone"
+        },
+        "emoji": "📱"
+      }
+    ]
+  },
+  {
+    "id": "8fde5ec5-7402-4bea-b605-5f96cf28297b",
+    "text": "妈妈照顾生病的我。",
+    "ipa": "mā ma zhào gù shēng bìng de wǒ",
+    "translation": {
+      "zh": "妈妈照顾生病的我。",
+      "en": "Mom takes care of me when I'm sick."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "妈妈",
+        "lemma": "妈妈",
+        "ipa": "mā ma",
+        "translation": {
+          "zh": "妈妈",
+          "en": "mom"
+        },
+        "emoji": "👩"
+      },
+      {
+        "text": "照顾",
+        "lemma": "照顾",
+        "ipa": "zhào gù",
+        "translation": {
+          "zh": "照顾",
+          "en": "takes care of"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "生病的",
+        "lemma": "生病的",
+        "ipa": "shēng bìng de",
+        "translation": {
+          "zh": "生病的",
+          "en": "sick"
+        },
+        "emoji": "🤒"
+      },
+      {
+        "text": "我",
+        "lemma": "我",
+        "ipa": "wǒ",
+        "translation": {
+          "zh": "我",
+          "en": "me"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "0926e1c7-09f5-4e96-9f4a-d0aac46a8712",
+    "text": "他照顾奶奶很多年了。",
+    "ipa": "tā zhào gù nǎi nai hěn duō nián le",
+    "translation": {
+      "zh": "他照顾奶奶很多年了。",
+      "en": "He has been taking care of his grandmother for many years."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他",
+        "lemma": "他",
+        "ipa": "tā",
+        "translation": {
+          "zh": "他",
+          "en": "he"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "照顾奶奶",
+        "lemma": "照顾奶奶",
+        "ipa": "zhào gù nǎi nai",
+        "translation": {
+          "zh": "照顾奶奶",
+          "en": "takes care of his grandmother"
+        },
+        "emoji": "👵"
+      },
+      {
+        "text": "很多年了",
+        "lemma": "很多年了",
+        "ipa": "hěn duō nián le",
+        "translation": {
+          "zh": "很多年了",
+          "en": "for many years"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "1c15cc37-78c5-49dd-a17b-d0e64b008300",
+    "text": "这张照片拍得很好。",
+    "ipa": "zhè zhāng zhào piàn pāi de hěn hǎo",
+    "translation": {
+      "zh": "这张照片拍得很好。",
+      "en": "This photo was taken very well."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这张照片",
+        "lemma": "这张照片",
+        "ipa": "zhè zhāng zhào piàn",
+        "translation": {
+          "zh": "这张照片",
+          "en": "this photo"
+        },
+        "emoji": "📷"
+      },
+      {
+        "text": "拍得很好",
+        "lemma": "拍得很好",
+        "ipa": "pāi de hěn hǎo",
+        "translation": {
+          "zh": "拍得很好",
+          "en": "was taken very well"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "a7f11c86-ef1f-4580-a01f-2ec0c7ee02be",
+    "text": "我想把照片打印出来。",
+    "ipa": "wǒ xiǎng bǎ zhào piàn dǎ yìn chū lái",
+    "translation": {
+      "zh": "我想把照片打印出来。",
+      "en": "I want to print the photos out."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我想",
+        "lemma": "我想",
+        "ipa": "wǒ xiǎng",
+        "translation": {
+          "zh": "我想",
+          "en": "I want to"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "把照片",
+        "lemma": "把照片",
+        "ipa": "bǎ zhào piàn",
+        "translation": {
+          "zh": "把照片",
+          "en": "the photos"
+        },
+        "emoji": "📷"
+      },
+      {
+        "text": "打印出来",
+        "lemma": "打印出来",
+        "ipa": "dǎ yìn chū lái",
+        "translation": {
+          "zh": "打印出来",
+          "en": "print out"
+        },
+        "emoji": "🖨️"
+      }
+    ]
+  },
+  {
+    "id": "723bd548-e889-43d1-bca7-d991dd97423d",
+    "text": "他带着照相机去旅行。",
+    "ipa": "tā dài zhe zhào xiàng jī qù lǚ xíng",
+    "translation": {
+      "zh": "他带着照相机去旅行。",
+      "en": "He takes his camera along when he travels."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他",
+        "lemma": "他",
+        "ipa": "tā",
+        "translation": {
+          "zh": "他",
+          "en": "he"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "带着照相机",
+        "lemma": "带着照相机",
+        "ipa": "dài zhe zhào xiàng jī",
+        "translation": {
+          "zh": "带着照相机",
+          "en": "brings his camera"
+        },
+        "emoji": "📷"
+      },
+      {
+        "text": "去旅行",
+        "lemma": "去旅行",
+        "ipa": "qù lǚ xíng",
+        "translation": {
+          "zh": "去旅行",
+          "en": "to travel"
+        },
+        "emoji": "✈️"
+      }
+    ]
+  },
+  {
+    "id": "f603fc02-dff3-48df-86bb-b0d1d89724fb",
+    "text": "这台照相机有点贵。",
+    "ipa": "zhè tái zhào xiàng jī yǒu diǎn guì",
+    "translation": {
+      "zh": "这台照相机有点贵。",
+      "en": "This camera is a bit expensive."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这台照相机",
+        "lemma": "这台照相机",
+        "ipa": "zhè tái zhào xiàng jī",
+        "translation": {
+          "zh": "这台照相机",
+          "en": "this camera"
+        },
+        "emoji": "📷"
+      },
+      {
+        "text": "有点贵",
+        "lemma": "有点贵",
+        "ipa": "yǒu diǎn guì",
+        "translation": {
+          "zh": "有点贵",
+          "en": "a bit expensive"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "e5bffb6c-5910-47d9-9115-132e5adf588f",
+    "text": "我只喝了一杯水。",
+    "ipa": "wǒ zhǐ hē le yī bēi shuǐ",
+    "translation": {
+      "zh": "我只喝了一杯水。",
+      "en": "I only drank one glass of water."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我只喝了",
+        "lemma": "我只喝了",
+        "ipa": "wǒ zhǐ hē le",
+        "translation": {
+          "zh": "我只喝了",
+          "en": "I only drank"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "一杯水",
+        "lemma": "一杯水",
+        "ipa": "yī bēi shuǐ",
+        "translation": {
+          "zh": "一杯水",
+          "en": "one glass of water"
+        },
+        "emoji": "🥛"
+      }
+    ]
+  },
+  {
+    "id": "1527c9de-2696-4f85-91dc-f88ccc629913",
+    "text": "他只有一个朋友。",
+    "ipa": "tā zhǐ yǒu yī gè péng yǒu",
+    "translation": {
+      "zh": "他只有一个朋友。",
+      "en": "He only has one friend."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他只有",
+        "lemma": "他只有",
+        "ipa": "tā zhǐ yǒu",
+        "translation": {
+          "zh": "他只有",
+          "en": "he only has"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "一个朋友",
+        "lemma": "一个朋友",
+        "ipa": "yī gè péng yǒu",
+        "translation": {
+          "zh": "一个朋友",
+          "en": "one friend"
+        },
+        "emoji": "👫"
+      }
+    ]
+  },
+  {
+    "id": "7ce9d85e-afac-4dad-86c4-6fbbb389b1d3",
+    "text": "只有努力才能成功。",
+    "ipa": "zhǐ yǒu nǔ lì cái néng chéng gōng",
+    "translation": {
+      "zh": "只有努力才能成功。",
+      "en": "Only by working hard can you succeed."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "只有",
+        "lemma": "只有",
+        "ipa": "zhǐ yǒu",
+        "translation": {
+          "zh": "只有",
+          "en": "only by"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "努力",
+        "lemma": "努力",
+        "ipa": "nǔ lì",
+        "translation": {
+          "zh": "努力",
+          "en": "working hard"
+        },
+        "emoji": "💪"
+      },
+      {
+        "text": "才能成功",
+        "lemma": "才能成功",
+        "ipa": "cái néng chéng gōng",
+        "translation": {
+          "zh": "才能成功",
+          "en": "can you succeed"
+        },
+        "emoji": "🏆"
+      }
+    ]
+  },
+  {
+    "id": "0a8ab6df-506e-459f-8bdf-465d775fd22a",
+    "text": "只有她一个人在家。",
+    "ipa": "zhǐ yǒu tā yī gè rén zài jiā",
+    "translation": {
+      "zh": "只有她一个人在家。",
+      "en": "Only she is at home alone."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "只有",
+        "lemma": "只有",
+        "ipa": "zhǐ yǒu",
+        "translation": {
+          "zh": "只有",
+          "en": "only"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "她一个人",
+        "lemma": "她一个人",
+        "ipa": "tā yī gè rén",
+        "translation": {
+          "zh": "她一个人",
+          "en": "she alone"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "在家",
+        "lemma": "在家",
+        "ipa": "zài jiā",
+        "translation": {
+          "zh": "在家",
+          "en": "at home"
+        },
+        "emoji": "🏠"
+      }
+    ]
+  },
+  {
+    "id": "2260bde3-79bf-49ca-b48a-04199714909a",
+    "text": "他坐在我们中间。",
+    "ipa": "tā zuò zài wǒ men zhōng jiān",
+    "translation": {
+      "zh": "他坐在我们中间。",
+      "en": "He is sitting in the middle of us."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他坐在",
+        "lemma": "他坐在",
+        "ipa": "tā zuò zài",
+        "translation": {
+          "zh": "他坐在",
+          "en": "he is sitting"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "我们中间",
+        "lemma": "我们中间",
+        "ipa": "wǒ men zhōng jiān",
+        "translation": {
+          "zh": "我们中间",
+          "en": "in the middle of us"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "21308f64-bb90-406c-ac06-0b684d501164",
+    "text": "书放在桌子中间。",
+    "ipa": "shū fàng zài zhuō zi zhōng jiān",
+    "translation": {
+      "zh": "书放在桌子中间。",
+      "en": "The book is placed in the middle of the table."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "书",
+        "lemma": "书",
+        "ipa": "shū",
+        "translation": {
+          "zh": "书",
+          "en": "book"
+        },
+        "emoji": "📚"
+      },
+      {
+        "text": "放在桌子中间",
+        "lemma": "放在桌子中间",
+        "ipa": "fàng zài zhuō zi zhōng jiān",
+        "translation": {
+          "zh": "放在桌子中间",
+          "en": "is placed in the middle of the table"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "c46c48ac-b8f4-411a-93d5-fddd01e5655f",
+    "text": "他的中文说得很好。",
+    "ipa": "tā de zhōng wén shuō de hěn hǎo",
+    "translation": {
+      "zh": "他的中文说得很好。",
+      "en": "His Chinese is very good."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他的中文",
+        "lemma": "他的中文",
+        "ipa": "tā de zhōng wén",
+        "translation": {
+          "zh": "他的中文",
+          "en": "his Chinese"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "说得很好",
+        "lemma": "说得很好",
+        "ipa": "shuō de hěn hǎo",
+        "translation": {
+          "zh": "说得很好",
+          "en": "is spoken very well"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "02a021ea-3eb8-4c5f-bdd0-e00a51579eb4",
+    "text": "我每天学一点中文。",
+    "ipa": "wǒ měi tiān xué yī diǎn zhōng wén",
+    "translation": {
+      "zh": "我每天学一点中文。",
+      "en": "I study a little Chinese every day."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我每天",
+        "lemma": "我每天",
+        "ipa": "wǒ měi tiān",
+        "translation": {
+          "zh": "我每天",
+          "en": "every day I"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "学一点中文",
+        "lemma": "学一点中文",
+        "ipa": "xué yī diǎn zhōng wén",
+        "translation": {
+          "zh": "学一点中文",
+          "en": "study a little Chinese"
+        },
+        "emoji": "📖"
+      }
+    ]
+  }
+]

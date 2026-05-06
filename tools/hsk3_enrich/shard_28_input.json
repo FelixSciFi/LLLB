@@ -1,0 +1,168 @@
+[
+  {
+    "id": "64a914a2-e62c-43cf-bdbe-a566072d8ebb",
+    "text": "最后他还是回来了。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "最后",
+        "lemma": "最后",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "他还是",
+        "lemma": "他还是",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "回来了",
+        "lemma": "回来了",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "c04fcee8-e168-4b14-a9df-ed4c2e069e8b",
+    "text": "她是班里最后离开的。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "她是",
+        "lemma": "她是",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "班里",
+        "lemma": "班里",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "最后离开的",
+        "lemma": "最后离开的",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "33ae7a05-f25a-4a19-8eb5-754399d3e05f",
+    "text": "最近天气越来越热了。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "最近",
+        "lemma": "最近",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "天气",
+        "lemma": "天气",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "越来越热了",
+        "lemma": "越来越热了",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "066547b3-3758-48b4-b64b-bf6656cf36b7",
+    "text": "他最近工作很忙。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他最近",
+        "lemma": "他最近",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "工作很忙",
+        "lemma": "工作很忙",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "e07e9f8d-0dd0-419f-b4bf-56e1fe213052",
+    "text": "我还没做完作业。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我还没做完",
+        "lemma": "我还没做完",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "作业",
+        "lemma": "作业",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "f7eb5879-6c45-4399-aec2-3c04a59332bd",
+    "text": "老师今天留了很多作业。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "老师",
+        "lemma": "老师",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "今天",
+        "lemma": "今天",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "留了很多作业",
+        "lemma": "留了很多作业",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  }
+]

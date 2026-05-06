@@ -1,0 +1,872 @@
+[
+  {
+    "id": "5ab6029f-aa6c-4ea4-adfd-451177cea60d",
+    "text": "他已经离开公司了。",
+    "ipa": "tā yǐ jīng lí kāi gōng sī le",
+    "translation": {
+      "zh": "他已经离开公司了。",
+      "en": "He has already left the company."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他已经",
+        "lemma": "他已经",
+        "ipa": "tā yǐ jīng",
+        "translation": {
+          "zh": "他已经",
+          "en": "he already"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "离开",
+        "lemma": "离开",
+        "ipa": "lí kāi",
+        "translation": {
+          "zh": "离开",
+          "en": "leave"
+        },
+        "emoji": "🚶"
+      },
+      {
+        "text": "公司了",
+        "lemma": "公司了",
+        "ipa": "gōng sī le",
+        "translation": {
+          "zh": "公司了",
+          "en": "the company (completed)"
+        },
+        "emoji": "🏢"
+      }
+    ]
+  },
+  {
+    "id": "9a82e29f-087b-46db-8661-49b8aee36680",
+    "text": "我不想离开这个城市。",
+    "ipa": "wǒ bù xiǎng lí kāi zhè ge chéng shì",
+    "translation": {
+      "zh": "我不想离开这个城市。",
+      "en": "I don't want to leave this city."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我不想",
+        "lemma": "我不想",
+        "ipa": "wǒ bù xiǎng",
+        "translation": {
+          "zh": "我不想",
+          "en": "I don't want to"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "离开",
+        "lemma": "离开",
+        "ipa": "lí kāi",
+        "translation": {
+          "zh": "离开",
+          "en": "leave"
+        },
+        "emoji": "🚶"
+      },
+      {
+        "text": "这个城市",
+        "lemma": "这个城市",
+        "ipa": "zhè ge chéng shì",
+        "translation": {
+          "zh": "这个城市",
+          "en": "this city"
+        },
+        "emoji": "🏙️"
+      }
+    ]
+  },
+  {
+    "id": "9eaf2836-3e9a-4b84-a3df-6fe45d29d631",
+    "text": "生日那天她收到很多礼物。",
+    "ipa": "shēng rì nà tiān tā shōu dào hěn duō lǐ wù",
+    "translation": {
+      "zh": "生日那天她收到很多礼物。",
+      "en": "On her birthday she received many gifts."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "生日那天",
+        "lemma": "生日那天",
+        "ipa": "shēng rì nà tiān",
+        "translation": {
+          "zh": "生日那天",
+          "en": "on her birthday"
+        },
+        "emoji": "🎂"
+      },
+      {
+        "text": "她收到",
+        "lemma": "她收到",
+        "ipa": "tā shōu dào",
+        "translation": {
+          "zh": "她收到",
+          "en": "she received"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "很多礼物",
+        "lemma": "很多礼物",
+        "ipa": "hěn duō lǐ wù",
+        "translation": {
+          "zh": "很多礼物",
+          "en": "many gifts"
+        },
+        "emoji": "🎁"
+      }
+    ]
+  },
+  {
+    "id": "6d405661-3b6a-4afc-ab24-1bc5e0517f20",
+    "text": "我给你带了一个礼物。",
+    "ipa": "wǒ gěi nǐ dài le yī ge lǐ wù",
+    "translation": {
+      "zh": "我给你带了一个礼物。",
+      "en": "I brought you a gift."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我给你",
+        "lemma": "我给你",
+        "ipa": "wǒ gěi nǐ",
+        "translation": {
+          "zh": "我给你",
+          "en": "I for you"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "带了",
+        "lemma": "带了",
+        "ipa": "dài le",
+        "translation": {
+          "zh": "带了",
+          "en": "brought"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "一个礼物",
+        "lemma": "一个礼物",
+        "ipa": "yī ge lǐ wù",
+        "translation": {
+          "zh": "一个礼物",
+          "en": "a gift"
+        },
+        "emoji": "🎁"
+      }
+    ]
+  },
+  {
+    "id": "26a9ea9f-8527-42ac-b572-8ba3e3aaaa47",
+    "text": "这座城市有很长的历史。",
+    "ipa": "zhè zuò chéng shì yǒu hěn cháng de lì shǐ",
+    "translation": {
+      "zh": "这座城市有很长的历史。",
+      "en": "This city has a very long history."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这座城市",
+        "lemma": "这座城市",
+        "ipa": "zhè zuò chéng shì",
+        "translation": {
+          "zh": "这座城市",
+          "en": "this city"
+        },
+        "emoji": "🏙️"
+      },
+      {
+        "text": "有",
+        "lemma": "有",
+        "ipa": "yǒu",
+        "translation": {
+          "zh": "有",
+          "en": "has"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "很长的",
+        "lemma": "很长的",
+        "ipa": "hěn cháng de",
+        "translation": {
+          "zh": "很长的",
+          "en": "very long"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "历史",
+        "lemma": "历史",
+        "ipa": "lì shǐ",
+        "translation": {
+          "zh": "历史",
+          "en": "history"
+        },
+        "emoji": "📜"
+      }
+    ]
+  },
+  {
+    "id": "208370df-a899-4a0a-9e3f-be5d4b164ef4",
+    "text": "他的脸被太阳晒红了。",
+    "ipa": "tā de liǎn bèi tài yáng shài hóng le",
+    "translation": {
+      "zh": "他的脸被太阳晒红了。",
+      "en": "His face was sunburned red by the sun."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他的脸",
+        "lemma": "他的脸",
+        "ipa": "tā de liǎn",
+        "translation": {
+          "zh": "他的脸",
+          "en": "his face"
+        },
+        "emoji": "😊"
+      },
+      {
+        "text": "被太阳",
+        "lemma": "被太阳",
+        "ipa": "bèi tài yáng",
+        "translation": {
+          "zh": "被太阳",
+          "en": "by the sun"
+        },
+        "emoji": "☀️"
+      },
+      {
+        "text": "晒红了",
+        "lemma": "晒红了",
+        "ipa": "shài hóng le",
+        "translation": {
+          "zh": "晒红了",
+          "en": "was tanned red"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "dd2ce0ab-01c5-485c-a83e-66ce0cd56cc5",
+    "text": "她笑起来脸很好看。",
+    "ipa": "tā xiào qǐ lái liǎn hěn hǎo kàn",
+    "translation": {
+      "zh": "她笑起来脸很好看。",
+      "en": "When she smiles, her face looks beautiful."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "她笑起来",
+        "lemma": "她笑起来",
+        "ipa": "tā xiào qǐ lái",
+        "translation": {
+          "zh": "她笑起来",
+          "en": "when she smiles"
+        },
+        "emoji": "😄"
+      },
+      {
+        "text": "脸",
+        "lemma": "脸",
+        "ipa": "liǎn",
+        "translation": {
+          "zh": "脸",
+          "en": "face"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "很好看",
+        "lemma": "很好看",
+        "ipa": "hěn hǎo kàn",
+        "translation": {
+          "zh": "很好看",
+          "en": "very beautiful"
+        },
+        "emoji": "✨"
+      }
+    ]
+  },
+  {
+    "id": "362f5346-7911-4a2d-8492-110a38ab8abf",
+    "text": "每天练习口语很重要。",
+    "ipa": "měi tiān liàn xí kǒu yǔ hěn zhòng yào",
+    "translation": {
+      "zh": "每天练习口语很重要。",
+      "en": "Practising spoken language every day is very important."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "每天",
+        "lemma": "每天",
+        "ipa": "měi tiān",
+        "translation": {
+          "zh": "每天",
+          "en": "every day"
+        },
+        "emoji": "📅"
+      },
+      {
+        "text": "练习",
+        "lemma": "练习",
+        "ipa": "liàn xí",
+        "translation": {
+          "zh": "练习",
+          "en": "practise"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "口语",
+        "lemma": "口语",
+        "ipa": "kǒu yǔ",
+        "translation": {
+          "zh": "口语",
+          "en": "spoken language"
+        },
+        "emoji": "🗣️"
+      },
+      {
+        "text": "很重要",
+        "lemma": "很重要",
+        "ipa": "hěn zhòng yào",
+        "translation": {
+          "zh": "很重要",
+          "en": "very important"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "0044c9a4-1b09-4de0-a933-7e9d435aeb51",
+    "text": "老师让我们做练习。",
+    "ipa": "lǎo shī ràng wǒ men zuò liàn xí",
+    "translation": {
+      "zh": "老师让我们做练习。",
+      "en": "The teacher told us to do exercises."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "老师让",
+        "lemma": "老师让",
+        "ipa": "lǎo shī ràng",
+        "translation": {
+          "zh": "老师让",
+          "en": "the teacher told"
+        },
+        "emoji": "👩‍🏫"
+      },
+      {
+        "text": "我们",
+        "lemma": "我们",
+        "ipa": "wǒ men",
+        "translation": {
+          "zh": "我们",
+          "en": "us"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "做练习",
+        "lemma": "做练习",
+        "ipa": "zuò liàn xí",
+        "translation": {
+          "zh": "做练习",
+          "en": "do exercises"
+        },
+        "emoji": "📝"
+      }
+    ]
+  },
+  {
+    "id": "1620bc90-8282-4f81-a7a0-efb65ff67bd0",
+    "text": "我们边喝茶边聊天。",
+    "ipa": "wǒ men biān hē chá biān liáo tiān",
+    "translation": {
+      "zh": "我们边喝茶边聊天。",
+      "en": "We chatted while drinking tea."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我们",
+        "lemma": "我们",
+        "ipa": "wǒ men",
+        "translation": {
+          "zh": "我们",
+          "en": "we"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "边喝茶",
+        "lemma": "边喝茶",
+        "ipa": "biān hē chá",
+        "translation": {
+          "zh": "边喝茶",
+          "en": "while drinking tea"
+        },
+        "emoji": "🍵"
+      },
+      {
+        "text": "边聊天",
+        "lemma": "边聊天",
+        "ipa": "biān liáo tiān",
+        "translation": {
+          "zh": "边聊天",
+          "en": "while chatting"
+        },
+        "emoji": "💬"
+      }
+    ]
+  },
+  {
+    "id": "30e1fd50-4eca-42a3-bb9e-bd71d5c53f6f",
+    "text": "她喜欢和朋友聊天。",
+    "ipa": "tā xǐ huān hé péng yǒu liáo tiān",
+    "translation": {
+      "zh": "她喜欢和朋友聊天。",
+      "en": "She likes to chat with friends."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "她喜欢",
+        "lemma": "她喜欢",
+        "ipa": "tā xǐ huān",
+        "translation": {
+          "zh": "她喜欢",
+          "en": "she likes"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "和朋友",
+        "lemma": "和朋友",
+        "ipa": "hé péng yǒu",
+        "translation": {
+          "zh": "和朋友",
+          "en": "with friends"
+        },
+        "emoji": "👫"
+      },
+      {
+        "text": "聊天",
+        "lemma": "聊天",
+        "ipa": "liáo tiān",
+        "translation": {
+          "zh": "聊天",
+          "en": "chat"
+        },
+        "emoji": "💬"
+      }
+    ]
+  },
+  {
+    "id": "3bbb7d86-ad64-42d9-abcf-a61f07c6183e",
+    "text": "我想了解这个城市的历史。",
+    "ipa": "wǒ xiǎng liǎo jiě zhè ge chéng shì de lì shǐ",
+    "translation": {
+      "zh": "我想了解这个城市的历史。",
+      "en": "I want to learn about the history of this city."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我想了解",
+        "lemma": "我想了解",
+        "ipa": "wǒ xiǎng liǎo jiě",
+        "translation": {
+          "zh": "我想了解",
+          "en": "I want to learn about"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "这个城市的",
+        "lemma": "这个城市的",
+        "ipa": "zhè ge chéng shì de",
+        "translation": {
+          "zh": "这个城市的",
+          "en": "this city's"
+        },
+        "emoji": "🏙️"
+      },
+      {
+        "text": "历史",
+        "lemma": "历史",
+        "ipa": "lì shǐ",
+        "translation": {
+          "zh": "历史",
+          "en": "history"
+        },
+        "emoji": "📜"
+      }
+    ]
+  },
+  {
+    "id": "63be6f77-5d1c-42c3-901c-c405c22cb0dd",
+    "text": "他对中国文化很了解。",
+    "ipa": "tā duì zhōng guó wén huà hěn liǎo jiě",
+    "translation": {
+      "zh": "他对中国文化很了解。",
+      "en": "He knows Chinese culture very well."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他",
+        "lemma": "他",
+        "ipa": "tā",
+        "translation": {
+          "zh": "他",
+          "en": "he"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "对中国文化",
+        "lemma": "对中国文化",
+        "ipa": "duì zhōng guó wén huà",
+        "translation": {
+          "zh": "对中国文化",
+          "en": "about Chinese culture"
+        },
+        "emoji": "🇨🇳"
+      },
+      {
+        "text": "很了解",
+        "lemma": "很了解",
+        "ipa": "hěn liǎo jiě",
+        "translation": {
+          "zh": "很了解",
+          "en": "knows very well"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "2d9bc54b-187f-4f9b-99c3-3168bd71cf60",
+    "text": "我的邻居每天早起跑步。",
+    "ipa": "wǒ de lín jū měi tiān zǎo qǐ pǎo bù",
+    "translation": {
+      "zh": "我的邻居每天早起跑步。",
+      "en": "My neighbour gets up early to run every day."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我的",
+        "lemma": "我的",
+        "ipa": "wǒ de",
+        "translation": {
+          "zh": "我的",
+          "en": "my"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "邻居",
+        "lemma": "邻居",
+        "ipa": "lín jū",
+        "translation": {
+          "zh": "邻居",
+          "en": "neighbour"
+        },
+        "emoji": "🏘️"
+      },
+      {
+        "text": "每天",
+        "lemma": "每天",
+        "ipa": "měi tiān",
+        "translation": {
+          "zh": "每天",
+          "en": "every day"
+        },
+        "emoji": "📅"
+      },
+      {
+        "text": "早起",
+        "lemma": "早起",
+        "ipa": "zǎo qǐ",
+        "translation": {
+          "zh": "早起",
+          "en": "get up early"
+        },
+        "emoji": "🌅"
+      },
+      {
+        "text": "跑步",
+        "lemma": "跑步",
+        "ipa": "pǎo bù",
+        "translation": {
+          "zh": "跑步",
+          "en": "run / jog"
+        },
+        "emoji": "🏃"
+      }
+    ]
+  },
+  {
+    "id": "436e72e3-69da-47cb-8d71-7b719704c9f5",
+    "text": "邻居借了我一把椅子。",
+    "ipa": "lín jū jiè le wǒ yī bǎ yǐ zi",
+    "translation": {
+      "zh": "邻居借了我一把椅子。",
+      "en": "My neighbour lent me a chair."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "邻居",
+        "lemma": "邻居",
+        "ipa": "lín jū",
+        "translation": {
+          "zh": "邻居",
+          "en": "neighbour"
+        },
+        "emoji": "🏘️"
+      },
+      {
+        "text": "借了",
+        "lemma": "借了",
+        "ipa": "jiè le",
+        "translation": {
+          "zh": "借了",
+          "en": "lent"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "我",
+        "lemma": "我",
+        "ipa": "wǒ",
+        "translation": {
+          "zh": "我",
+          "en": "me"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "一把椅子",
+        "lemma": "一把椅子",
+        "ipa": "yī bǎ yǐ zi",
+        "translation": {
+          "zh": "一把椅子",
+          "en": "a chair"
+        },
+        "emoji": "🪑"
+      }
+    ]
+  },
+  {
+    "id": "a9d45bca-8035-4c7f-bbc0-60117f731224",
+    "text": "她去法国留学了两年。",
+    "ipa": "tā qù fǎ guó liú xué le liǎng nián",
+    "translation": {
+      "zh": "她去法国留学了两年。",
+      "en": "She went to France to study abroad for two years."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "她去法国",
+        "lemma": "她去法国",
+        "ipa": "tā qù fǎ guó",
+        "translation": {
+          "zh": "她去法国",
+          "en": "she went to France"
+        },
+        "emoji": "🇫🇷"
+      },
+      {
+        "text": "留学了",
+        "lemma": "留学了",
+        "ipa": "liú xué le",
+        "translation": {
+          "zh": "留学了",
+          "en": "studied abroad"
+        },
+        "emoji": "🎓"
+      },
+      {
+        "text": "两年",
+        "lemma": "两年",
+        "ipa": "liǎng nián",
+        "translation": {
+          "zh": "两年",
+          "en": "two years"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "a44360d2-6a22-43f6-80fa-8b56a497f815",
+    "text": "他打算去日本留学。",
+    "ipa": "tā dǎ suàn qù rì běn liú xué",
+    "translation": {
+      "zh": "他打算去日本留学。",
+      "en": "He plans to go to Japan to study abroad."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他打算",
+        "lemma": "他打算",
+        "ipa": "tā dǎ suàn",
+        "translation": {
+          "zh": "他打算",
+          "en": "he plans to"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "去日本",
+        "lemma": "去日本",
+        "ipa": "qù rì běn",
+        "translation": {
+          "zh": "去日本",
+          "en": "go to Japan"
+        },
+        "emoji": "🇯🇵"
+      },
+      {
+        "text": "留学",
+        "lemma": "留学",
+        "ipa": "liú xué",
+        "translation": {
+          "zh": "留学",
+          "en": "study abroad"
+        },
+        "emoji": "🎓"
+      }
+    ]
+  },
+  {
+    "id": "c20e9525-4e96-42cd-af48-0a8beb46158e",
+    "text": "他们住在五楼。",
+    "ipa": "tā men zhù zài wǔ lóu",
+    "translation": {
+      "zh": "他们住在五楼。",
+      "en": "They live on the fifth floor."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他们住在",
+        "lemma": "他们住在",
+        "ipa": "tā men zhù zài",
+        "translation": {
+          "zh": "他们住在",
+          "en": "they live on"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "五楼",
+        "lemma": "五楼",
+        "ipa": "wǔ lóu",
+        "translation": {
+          "zh": "五楼",
+          "en": "the fifth floor"
+        },
+        "emoji": "🏢"
+      }
+    ]
+  },
+  {
+    "id": "9b6f8583-e9ea-40fa-9652-111ba4417085",
+    "text": "这栋楼有十层。",
+    "ipa": "zhè dòng lóu yǒu shí céng",
+    "translation": {
+      "zh": "这栋楼有十层。",
+      "en": "This building has ten floors."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这栋楼",
+        "lemma": "这栋楼",
+        "ipa": "zhè dòng lóu",
+        "translation": {
+          "zh": "这栋楼",
+          "en": "this building"
+        },
+        "emoji": "🏢"
+      },
+      {
+        "text": "有十层",
+        "lemma": "有十层",
+        "ipa": "yǒu shí céng",
+        "translation": {
+          "zh": "有十层",
+          "en": "has ten floors"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "ef5cfb30-afa7-444f-8b45-d95d05706944",
+    "text": "春天树叶变绿了。",
+    "ipa": "chūn tiān shù yè biàn lǜ le",
+    "translation": {
+      "zh": "春天树叶变绿了。",
+      "en": "In spring the leaves turn green."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "春天",
+        "lemma": "春天",
+        "ipa": "chūn tiān",
+        "translation": {
+          "zh": "春天",
+          "en": "spring"
+        },
+        "emoji": "🌸"
+      },
+      {
+        "text": "树叶",
+        "lemma": "树叶",
+        "ipa": "shù yè",
+        "translation": {
+          "zh": "树叶",
+          "en": "leaves"
+        },
+        "emoji": "🍃"
+      },
+      {
+        "text": "变绿了",
+        "lemma": "变绿了",
+        "ipa": "biàn lǜ le",
+        "translation": {
+          "zh": "变绿了",
+          "en": "turn green"
+        },
+        "emoji": "💚"
+      }
+    ]
+  }
+]

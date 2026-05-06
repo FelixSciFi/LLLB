@@ -1,0 +1,272 @@
+[
+  {
+    "text": "une cellule",
+    "ipa": "yn sɛlyl",
+    "translation": {"zh": "一个细胞", "en": "a cell"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une cellule", "lemma": "cellule", "ipa": "yn sɛlyl", "translation": {"zh": "细胞", "en": "cell"}, "emoji": "🔬"}
+    ]
+  },
+  {
+    "text": "un emploi permanent",
+    "ipa": "œ̃ ɑ̃plwa pɛʁmanɑ̃",
+    "translation": {"zh": "一份固定工作", "en": "a permanent job"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un emploi permanent", "lemma": "emploi", "ipa": "œ̃ ɑ̃plwa pɛʁmanɑ̃", "translation": {"zh": "固定工作", "en": "permanent job"}, "emoji": "💼"}
+    ]
+  },
+  {
+    "text": "un lieu sacré",
+    "ipa": "œ̃ ljø sakʁe",
+    "translation": {"zh": "一个神圣的地方", "en": "a sacred place"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un lieu sacré", "lemma": "lieu", "ipa": "œ̃ ljø sakʁe", "translation": {"zh": "神圣的地方", "en": "sacred place"}, "emoji": "⛪"}
+    ]
+  },
+  {
+    "text": "l'autorité",
+    "ipa": "lɔtɔʁite",
+    "translation": {"zh": "权威", "en": "authority"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'autorité", "lemma": "autorité", "ipa": "lɔtɔʁite", "translation": {"zh": "权威", "en": "authority"}, "emoji": "👮"}
+    ]
+  },
+  {
+    "text": "l'intégration sociale",
+    "ipa": "lɛ̃teɡʁasjɔ̃ sɔsjal",
+    "translation": {"zh": "社会融合", "en": "social integration"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'intégration sociale", "lemma": "intégration", "ipa": "lɛ̃teɡʁasjɔ̃ sɔsjal", "translation": {"zh": "社会融合", "en": "social integration"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "la haine",
+    "ipa": "la ɛn",
+    "translation": {"zh": "仇恨", "en": "hatred"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la haine", "lemma": "haine", "ipa": "la ɛn", "translation": {"zh": "仇恨", "en": "hatred"}, "emoji": "😡"}
+    ]
+  },
+  {
+    "text": "légèrement blessé",
+    "ipa": "leʒɛʁmɑ̃ blɛse",
+    "translation": {"zh": "轻伤的", "en": "slightly injured"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "légèrement blessé", "lemma": "blessé", "ipa": "leʒɛʁmɑ̃ blɛse", "translation": {"zh": "轻微受伤", "en": "slightly injured"}, "emoji": "🩹"}
+    ]
+  },
+  {
+    "text": "le système judiciaire",
+    "ipa": "lə sistɛm ʒydisjɛʁ",
+    "translation": {"zh": "司法体系", "en": "the judicial system"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le système judiciaire", "lemma": "système", "ipa": "lə sistɛm ʒydisjɛʁ", "translation": {"zh": "司法体系", "en": "judicial system"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "la croissance économique",
+    "ipa": "la kʁwasɑ̃s ekɔnɔmik",
+    "translation": {"zh": "经济增长", "en": "economic growth"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la croissance économique", "lemma": "croissance", "ipa": "la kʁwasɑ̃s ekɔnɔmik", "translation": {"zh": "经济增长", "en": "economic growth"}, "emoji": "📈"}
+    ]
+  },
+  {
+    "text": "faire la queue",
+    "ipa": "fɛʁ la kø",
+    "translation": {"zh": "排队", "en": "to queue up"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "faire la queue", "lemma": "faire", "ipa": "fɛʁ la kø", "translation": {"zh": "排队", "en": "queue up"}, "emoji": "🧍"}
+    ]
+  },
+  {
+    "text": "creuser un trou",
+    "ipa": "kʁøze œ̃ tʁu",
+    "translation": {"zh": "挖一个洞", "en": "to dig a hole"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "creuser un trou", "lemma": "creuser", "ipa": "kʁøze œ̃ tʁu", "translation": {"zh": "挖洞", "en": "dig a hole"}, "emoji": "⛏️"}
+    ]
+  },
+  {
+    "text": "il s'est arrêté brusquement",
+    "ipa": "il sɛ taʁɛte bʁyskəmɑ̃",
+    "translation": {"zh": "他突然停下来", "en": "he stopped abruptly"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il s'est arrêté brusquement", "lemma": "s'arrêter", "ipa": "il sɛ taʁɛte bʁyskəmɑ̃", "translation": {"zh": "突然停下", "en": "stopped abruptly"}, "emoji": "🛑"}
+    ]
+  },
+  {
+    "text": "c'est étonnant",
+    "ipa": "sɛ etɔnɑ̃",
+    "translation": {"zh": "真令人惊讶", "en": "that's surprising"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est étonnant", "lemma": "étonnant", "ipa": "sɛ etɔnɑ̃", "translation": {"zh": "令人惊讶", "en": "surprising"}, "emoji": "😲"}
+    ]
+  },
+  {
+    "text": "user de patience",
+    "ipa": "yze də pasjɑ̃s",
+    "translation": {"zh": "运用耐心", "en": "to use patience"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "user de patience", "lemma": "user", "ipa": "yze də pasjɑ̃s", "translation": {"zh": "运用耐心", "en": "use patience"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "dépêchez-vous",
+    "ipa": "depeʃe vu",
+    "translation": {"zh": "快点", "en": "hurry up"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "dépêchez-vous", "lemma": "dépêcher", "ipa": "depeʃe vu", "translation": {"zh": "快点", "en": "hurry up"}, "emoji": "🏃"}
+    ]
+  },
+  {
+    "text": "soyez honnête",
+    "ipa": "swaje ɔnɛt",
+    "translation": {"zh": "请诚实", "en": "be honest"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "soyez honnête", "lemma": "honnête", "ipa": "swaje ɔnɛt", "translation": {"zh": "诚实", "en": "honest"}, "emoji": "🤍"}
+    ]
+  },
+  {
+    "text": "doter d'un budget",
+    "ipa": "dɔte dœ̃ byʒɛ",
+    "translation": {"zh": "配备预算", "en": "to provide a budget"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "doter d'un budget", "lemma": "doter", "ipa": "dɔte dœ̃ byʒɛ", "translation": {"zh": "配备预算", "en": "provide a budget"}, "emoji": "💰"}
+    ]
+  },
+  {
+    "text": "de toute évidence",
+    "ipa": "də tut evidɑ̃s",
+    "translation": {"zh": "显然", "en": "obviously"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "de toute évidence", "lemma": "évidence", "ipa": "də tut evidɑ̃s", "translation": {"zh": "显然", "en": "obviously"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "garder un secret",
+    "ipa": "ɡaʁde œ̃ səkʁɛ",
+    "translation": {"zh": "保守秘密", "en": "to keep a secret"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "garder un secret", "lemma": "garder", "ipa": "ɡaʁde œ̃ səkʁɛ", "translation": {"zh": "保守秘密", "en": "keep a secret"}, "emoji": "🤫"}
+    ]
+  },
+  {
+    "text": "l'immigration clandestine",
+    "ipa": "limigʁasjɔ̃ klɑ̃dɛstin",
+    "translation": {"zh": "非法移民", "en": "illegal immigration"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'immigration clandestine", "lemma": "immigration", "ipa": "limigʁasjɔ̃ klɑ̃dɛstin", "translation": {"zh": "非法移民", "en": "illegal immigration"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "se contenter de peu",
+    "ipa": "sə kɔ̃tɑ̃te də pø",
+    "translation": {"zh": "满足于少许", "en": "to be content with little"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "se contenter de peu", "lemma": "contenter", "ipa": "sə kɔ̃tɑ̃te də pø", "translation": {"zh": "满足于少", "en": "content with little"}, "emoji": "😌"}
+    ]
+  },
+  {
+    "text": "la chaleur de l'été",
+    "ipa": "la ʃalœʁ də lete",
+    "translation": {"zh": "夏天的热度", "en": "the summer heat"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la chaleur de l'été", "lemma": "chaleur", "ipa": "la ʃalœʁ də lete", "translation": {"zh": "夏日热浪", "en": "summer heat"}, "emoji": "☀️"}
+    ]
+  },
+  {
+    "text": "calmer les nerfs",
+    "ipa": "kalme le nɛʁ",
+    "translation": {"zh": "平复情绪", "en": "to calm one's nerves"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "calmer les nerfs", "lemma": "calmer", "ipa": "kalme le nɛʁ", "translation": {"zh": "平复情绪", "en": "calm nerves"}, "emoji": "😮‍💨"}
+    ]
+  },
+  {
+    "text": "gérer une crise",
+    "ipa": "ʒeʁe yn kʁiz",
+    "translation": {"zh": "处理危机", "en": "to manage a crisis"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "gérer une crise", "lemma": "gérer", "ipa": "ʒeʁe yn kʁiz", "translation": {"zh": "处理危机", "en": "manage a crisis"}, "emoji": "🔧"}
+    ]
+  },
+  {
+    "text": "une légende",
+    "ipa": "yn leʒɑ̃d",
+    "translation": {"zh": "一个传说", "en": "a legend"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une légende", "lemma": "légende", "ipa": "yn leʒɑ̃d", "translation": {"zh": "传说", "en": "legend"}, "emoji": "📖"}
+    ]
+  },
+  {
+    "text": "le commissariat de police",
+    "ipa": "lə kɔmisaʁja də pɔlis",
+    "translation": {"zh": "警察局", "en": "the police station"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le commissariat de police", "lemma": "commissariat", "ipa": "lə kɔmisaʁja də pɔlis", "translation": {"zh": "警察局", "en": "police station"}, "emoji": "🚔"}
+    ]
+  },
+  {
+    "text": "renforcer la sécurité",
+    "ipa": "ʁɑ̃fɔʁse la sekyʁite",
+    "translation": {"zh": "加强安全", "en": "to reinforce security"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "renforcer la sécurité", "lemma": "renforcer", "ipa": "ʁɑ̃fɔʁse la sekyʁite", "translation": {"zh": "加强安全", "en": "reinforce security"}, "emoji": "🔒"}
+    ]
+  },
+  {
+    "text": "selon les circonstances",
+    "ipa": "səlɔ̃ le siʁkɔ̃stɑ̃s",
+    "translation": {"zh": "视情况而定", "en": "depending on the circumstances"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "selon les circonstances", "lemma": "circonstance", "ipa": "səlɔ̃ le siʁkɔ̃stɑ̃s", "translation": {"zh": "视情况而定", "en": "depending on circumstances"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une nouvelle approche",
+    "ipa": "yn nuvɛl apʁɔʃ",
+    "translation": {"zh": "一种新方法", "en": "a new approach"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une nouvelle approche", "lemma": "approche", "ipa": "yn nuvɛl apʁɔʃ", "translation": {"zh": "新方法", "en": "new approach"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "combattre la maladie",
+    "ipa": "kɔ̃batʁ la maladi",
+    "translation": {"zh": "对抗疾病", "en": "to fight the disease"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "combattre la maladie", "lemma": "combattre", "ipa": "kɔ̃batʁ la maladi", "translation": {"zh": "对抗疾病", "en": "fight the disease"}, "emoji": "💊"}
+    ]
+  }
+]

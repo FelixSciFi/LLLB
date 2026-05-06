@@ -1,0 +1,287 @@
+[
+  {
+    "text": "notamment",
+    "ipa": "nɔtamɑ̃",
+    "translation": {"zh": "尤其，特别是", "en": "notably, in particular"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "notamment", "lemma": "notamment", "ipa": "nɔtamɑ̃", "translation": {"zh": "尤其", "en": "notably"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le numéro",
+    "ipa": "lə nymeʁo",
+    "translation": {"zh": "号码，数字", "en": "the number"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le numéro", "lemma": "numéro", "ipa": "lə nymeʁo", "translation": {"zh": "号码", "en": "number"}, "emoji": "🔢"}
+    ]
+  },
+  {
+    "text": "l'église",
+    "ipa": "leɡliz",
+    "translation": {"zh": "教堂", "en": "the church"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "l'église", "lemma": "église", "ipa": "leɡliz", "translation": {"zh": "教堂", "en": "church"}, "emoji": "⛪"}
+    ]
+  },
+  {
+    "text": "mademoiselle",
+    "ipa": "madmwazɛl",
+    "translation": {"zh": "小姐", "en": "miss"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "mademoiselle", "lemma": "mademoiselle", "ipa": "madmwazɛl", "translation": {"zh": "小姐", "en": "miss"}, "emoji": "👩"}
+    ]
+  },
+  {
+    "text": "un individu",
+    "ipa": "œ̃ ɛ̃dividy",
+    "translation": {"zh": "一个人，个体", "en": "an individual"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un individu", "lemma": "individu", "ipa": "œ̃ ɛ̃dividy", "translation": {"zh": "个体", "en": "individual"}, "emoji": "🧍"}
+    ]
+  },
+  {
+    "text": "sans difficulté",
+    "ipa": "sɑ̃ difikylte",
+    "translation": {"zh": "毫无困难地", "en": "without difficulty"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "sans difficulté", "lemma": "difficulté", "ipa": "sɑ̃ difikylte", "translation": {"zh": "毫无困难", "en": "without difficulty"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "remplir un formulaire",
+    "ipa": "ʁɑ̃pliʁ œ̃ fɔʁmylɛʁ",
+    "translation": {"zh": "填写一份表格", "en": "fill out a form"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "remplir", "lemma": "remplir", "ipa": "ʁɑ̃pliʁ", "translation": {"zh": "填写", "en": "fill out"}, "emoji": "✍️"},
+      {"text": "un formulaire", "lemma": "formulaire", "ipa": "œ̃ fɔʁmylɛʁ", "translation": {"zh": "表格", "en": "form"}, "emoji": "📄"}
+    ]
+  },
+  {
+    "text": "n'hésitez pas",
+    "ipa": "nezite pa",
+    "translation": {"zh": "请不要犹豫", "en": "don't hesitate"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "n'hésitez pas", "lemma": "hésiter", "ipa": "nezite pa", "translation": {"zh": "不要犹豫", "en": "don't hesitate"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "les prix augmentent",
+    "ipa": "le pʁi oɡmɑ̃t",
+    "translation": {"zh": "价格在上涨", "en": "prices are rising"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "les prix", "lemma": "prix", "ipa": "le pʁi", "translation": {"zh": "价格", "en": "prices"}, "emoji": "💰"},
+      {"text": "augmentent", "lemma": "augmenter", "ipa": "oɡmɑ̃t", "translation": {"zh": "上涨", "en": "rise"}, "emoji": "📈"}
+    ]
+  },
+  {
+    "text": "couvrir la table",
+    "ipa": "kuvʁiʁ la tabl",
+    "translation": {"zh": "盖住桌子", "en": "cover the table"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "couvrir", "lemma": "couvrir", "ipa": "kuvʁiʁ", "translation": {"zh": "盖住", "en": "cover"}, "emoji": ""},
+      {"text": "la table", "lemma": "table", "ipa": "la tabl", "translation": {"zh": "桌子", "en": "table"}, "emoji": "🪑"}
+    ]
+  },
+  {
+    "text": "c'est énorme",
+    "ipa": "se enɔʁm",
+    "translation": {"zh": "这太大了", "en": "it's enormous"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "c'est énorme", "lemma": "énorme", "ipa": "se enɔʁm", "translation": {"zh": "太大了", "en": "it's enormous"}, "emoji": "😲"}
+    ]
+  },
+  {
+    "text": "un événement important",
+    "ipa": "œ̃ evɛnmɑ̃ ɛ̃pɔʁtɑ̃",
+    "translation": {"zh": "一个重要的事件", "en": "an important event"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un événement", "lemma": "événement", "ipa": "œ̃ evɛnmɑ̃", "translation": {"zh": "事件", "en": "event"}, "emoji": "📅"},
+      {"text": "important", "lemma": "important", "ipa": "ɛ̃pɔʁtɑ̃", "translation": {"zh": "重要的", "en": "important"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la communication",
+    "ipa": "la kɔmynikasjɔ̃",
+    "translation": {"zh": "沟通，交流", "en": "communication"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la communication", "lemma": "communication", "ipa": "la kɔmynikasjɔ̃", "translation": {"zh": "沟通", "en": "communication"}, "emoji": "💬"}
+    ]
+  },
+  {
+    "text": "j'estime qu'il a raison",
+    "ipa": "ʒɛstim kil a ʁɛzɔ̃",
+    "translation": {"zh": "我认为他是对的", "en": "I think he is right"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "j'estime", "lemma": "estimer", "ipa": "ʒɛstim", "translation": {"zh": "我认为", "en": "I think"}, "emoji": ""},
+      {"text": "qu'il a raison", "lemma": "raison", "ipa": "kil a ʁɛzɔ̃", "translation": {"zh": "他是对的", "en": "he is right"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une relation amicale",
+    "ipa": "yn ʁəlasjɔ̃ amikal",
+    "translation": {"zh": "一段友好的关系", "en": "a friendly relationship"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une relation", "lemma": "relation", "ipa": "yn ʁəlasjɔ̃", "translation": {"zh": "关系", "en": "relationship"}, "emoji": "🤝"},
+      {"text": "amicale", "lemma": "amical", "ipa": "amikal", "translation": {"zh": "友好的", "en": "friendly"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "appartenir à un club",
+    "ipa": "apaʁtəniʁ a œ̃ klœb",
+    "translation": {"zh": "属于一个俱乐部", "en": "belong to a club"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "appartenir à un club", "lemma": "appartenir", "ipa": "apaʁtəniʁ a œ̃ klœb", "translation": {"zh": "属于俱乐部", "en": "belong to a club"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "éviter les erreurs",
+    "ipa": "evite lez eʁœʁ",
+    "translation": {"zh": "避免错误", "en": "avoid mistakes"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "éviter", "lemma": "éviter", "ipa": "evite", "translation": {"zh": "避免", "en": "avoid"}, "emoji": ""},
+      {"text": "les erreurs", "lemma": "erreur", "ipa": "lez eʁœʁ", "translation": {"zh": "错误", "en": "mistakes"}, "emoji": "❌"}
+    ]
+  },
+  {
+    "text": "la nouvelle édition",
+    "ipa": "la nuvɛl edisjɔ̃",
+    "translation": {"zh": "新版本", "en": "the new edition"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la nouvelle édition", "lemma": "édition", "ipa": "la nuvɛl edisjɔ̃", "translation": {"zh": "新版本", "en": "new edition"}, "emoji": "📖"}
+    ]
+  },
+  {
+    "text": "adresser la parole",
+    "ipa": "adʁese la paʁɔl",
+    "translation": {"zh": "向……说话", "en": "address, speak to"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "adresser", "lemma": "adresser", "ipa": "adʁese", "translation": {"zh": "说话", "en": "address"}, "emoji": ""},
+      {"text": "la parole", "lemma": "parole", "ipa": "la paʁɔl", "translation": {"zh": "话语", "en": "word"}, "emoji": "💬"}
+    ]
+  },
+  {
+    "text": "à l'est",
+    "ipa": "a lɛst",
+    "translation": {"zh": "在东部", "en": "in the east"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "à l'est", "lemma": "est", "ipa": "a lɛst", "translation": {"zh": "东部", "en": "east"}, "emoji": "🧭"}
+    ]
+  },
+  {
+    "text": "terminer le travail",
+    "ipa": "tɛʁmine lə tʁavaj",
+    "translation": {"zh": "完成工作", "en": "finish the work"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "terminer", "lemma": "terminer", "ipa": "tɛʁmine", "translation": {"zh": "完成", "en": "finish"}, "emoji": "✅"},
+      {"text": "le travail", "lemma": "travail", "ipa": "lə tʁavaj", "translation": {"zh": "工作", "en": "work"}, "emoji": "💼"}
+    ]
+  },
+  {
+    "text": "un terrain de sport",
+    "ipa": "œ̃ tɛʁɛ̃ də spɔʁ",
+    "translation": {"zh": "一块运动场地", "en": "a sports field"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un terrain", "lemma": "terrain", "ipa": "œ̃ tɛʁɛ̃", "translation": {"zh": "场地", "en": "field"}, "emoji": "🏟️"},
+      {"text": "de sport", "lemma": "sport", "ipa": "də spɔʁ", "translation": {"zh": "运动", "en": "sport"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une bonne occasion",
+    "ipa": "yn bɔn ɔkazjɔ̃",
+    "translation": {"zh": "一个好机会", "en": "a good opportunity"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une bonne occasion", "lemma": "occasion", "ipa": "yn bɔn ɔkazjɔ̃", "translation": {"zh": "好机会", "en": "good opportunity"}, "emoji": "🌟"}
+    ]
+  },
+  {
+    "text": "je vous remercie",
+    "ipa": "ʒə vu ʁəmɛʁsi",
+    "translation": {"zh": "谢谢您", "en": "thank you"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je vous remercie", "lemma": "remercier", "ipa": "ʒə vu ʁəmɛʁsi", "translation": {"zh": "谢谢您", "en": "thank you"}, "emoji": "🙏"}
+    ]
+  },
+  {
+    "text": "prendre un risque",
+    "ipa": "pʁɑ̃dʁ œ̃ ʁisk",
+    "translation": {"zh": "冒一个风险", "en": "take a risk"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "prendre", "lemma": "prendre", "ipa": "pʁɑ̃dʁ", "translation": {"zh": "承担", "en": "take"}, "emoji": ""},
+      {"text": "un risque", "lemma": "risque", "ipa": "œ̃ ʁisk", "translation": {"zh": "风险", "en": "risk"}, "emoji": "⚠️"}
+    ]
+  },
+  {
+    "text": "une chaîne de télévision",
+    "ipa": "yn ʃɛn də televizjɔ̃",
+    "translation": {"zh": "一个电视频道", "en": "a television channel"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une chaîne", "lemma": "chaîne", "ipa": "yn ʃɛn", "translation": {"zh": "频道", "en": "channel"}, "emoji": "📺"},
+      {"text": "de télévision", "lemma": "télévision", "ipa": "də televizjɔ̃", "translation": {"zh": "电视", "en": "television"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "abandonner le projet",
+    "ipa": "abɑ̃dɔne lə pʁɔʒɛ",
+    "translation": {"zh": "放弃这个项目", "en": "abandon the project"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "abandonner", "lemma": "abandonner", "ipa": "abɑ̃dɔne", "translation": {"zh": "放弃", "en": "abandon"}, "emoji": ""},
+      {"text": "le projet", "lemma": "projet", "ipa": "lə pʁɔʒɛ", "translation": {"zh": "项目", "en": "project"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "un espace immense",
+    "ipa": "œ̃ ɛspas imɑ̃s",
+    "translation": {"zh": "一片广阔的空间", "en": "an immense space"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un espace", "lemma": "espace", "ipa": "œ̃ ɛspas", "translation": {"zh": "空间", "en": "space"}, "emoji": ""},
+      {"text": "immense", "lemma": "immense", "ipa": "imɑ̃s", "translation": {"zh": "广阔的", "en": "immense"}, "emoji": "🌌"}
+    ]
+  },
+  {
+    "text": "la place publique",
+    "ipa": "la plas pyblik",
+    "translation": {"zh": "公共广场", "en": "the public square"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "la place", "lemma": "place", "ipa": "la plas", "translation": {"zh": "广场", "en": "square"}, "emoji": "🏛️"},
+      {"text": "publique", "lemma": "public", "ipa": "pyblik", "translation": {"zh": "公共的", "en": "public"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "être à l'écoute",
+    "ipa": "ɛtʁ a lekut",
+    "translation": {"zh": "认真倾听", "en": "be attentive, listen"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "être à l'écoute", "lemma": "écoute", "ipa": "ɛtʁ a lekut", "translation": {"zh": "认真倾听", "en": "be attentive"}, "emoji": "👂"}
+    ]
+  }
+]

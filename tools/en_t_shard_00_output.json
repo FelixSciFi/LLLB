@@ -1,0 +1,188 @@
+[
+  {
+    "input_word": "t-shirt",
+    "entries": [
+      {"text": "t-shirt", "ipa": "/ˈtiːʃɜːrt/", "cefr": "A1", "zh": "T恤衫", "emoji": "👕"}
+    ]
+  },
+  {
+    "input_word": "table",
+    "entries": [
+      {"text": "table", "ipa": "/ˈteɪbəl/", "cefr": "A1", "zh": "桌子", "emoji": "🪑"},
+      {"text": "table", "ipa": "/ˈteɪbəl/", "cefr": "A1", "zh": "表格", "emoji": "📊"}
+    ]
+  },
+  {
+    "input_word": "tablet",
+    "entries": [
+      {"text": "tablet", "ipa": "/ˈtæblɪt/", "cefr": "A2", "zh": "平板电脑", "emoji": "📱"},
+      {"text": "tablet", "ipa": "/ˈtæblɪt/", "cefr": "A2", "zh": "药片", "emoji": "💊"}
+    ]
+  },
+  {
+    "input_word": "tail",
+    "entries": [
+      {"text": "tail", "ipa": "/teɪl/", "cefr": "B1", "zh": "尾巴", "emoji": "🐾"}
+    ]
+  },
+  {
+    "input_word": "take",
+    "entries": [
+      {"text": "take", "ipa": "/teɪk/", "cefr": "A1", "zh": "拿取", "emoji": "✋"}
+    ]
+  },
+  {
+    "input_word": "tale",
+    "entries": [
+      {"text": "tale", "ipa": "/teɪl/", "cefr": "B2", "zh": "故事", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_word": "talent",
+    "entries": [
+      {"text": "talent", "ipa": "/ˈtælənt/", "cefr": "B1", "zh": "才能", "emoji": "🌟"}
+    ]
+  },
+  {
+    "input_word": "talented",
+    "entries": [
+      {"text": "talented", "ipa": "/ˈtæləntɪd/", "cefr": "B1", "zh": "有才华的", "emoji": "🌟"}
+    ]
+  },
+  {
+    "input_word": "talk",
+    "entries": [
+      {"text": "talk", "ipa": "/tɔːk/", "cefr": "A1", "zh": "说话", "emoji": "💬"}
+    ]
+  },
+  {
+    "input_word": "tall",
+    "entries": [
+      {"text": "tall", "ipa": "/tɔːl/", "cefr": "A1", "zh": "高的", "emoji": "📏"}
+    ]
+  },
+  {
+    "input_word": "tank",
+    "entries": [
+      {"text": "tank", "ipa": "/tæŋk/", "cefr": "B2", "zh": "水箱", "emoji": "🪣"},
+      {"text": "tank", "ipa": "/tæŋk/", "cefr": "B2", "zh": "坦克", "emoji": "🪖"}
+    ]
+  },
+  {
+    "input_word": "tape",
+    "entries": [
+      {"text": "tape", "ipa": "/teɪp/", "cefr": "B1", "zh": "胶带", "emoji": "📼"},
+      {"text": "tape", "ipa": "/teɪp/", "cefr": "B1", "zh": "录音带", "emoji": "📼"}
+    ]
+  },
+  {
+    "input_word": "target",
+    "entries": [
+      {"text": "target", "ipa": "/ˈtɑːrɡɪt/", "cefr": "A2", "zh": "目标", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_word": "task",
+    "entries": [
+      {"text": "task", "ipa": "/tæsk/", "cefr": "A2", "zh": "任务", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_word": "taste",
+    "entries": [
+      {"text": "taste", "ipa": "/teɪst/", "cefr": "A2", "zh": "味道", "emoji": "👅"},
+      {"text": "taste", "ipa": "/teɪst/", "cefr": "A2", "zh": "品味", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_word": "tax",
+    "entries": [
+      {"text": "tax", "ipa": "/tæks/", "cefr": "B1", "zh": "税", "emoji": "🧾"}
+    ]
+  },
+  {
+    "input_word": "taxi",
+    "entries": [
+      {"text": "taxi", "ipa": "/ˈtæksi/", "cefr": "A1", "zh": "出租车", "emoji": "🚕"}
+    ]
+  },
+  {
+    "input_word": "tea",
+    "entries": [
+      {"text": "tea", "ipa": "/tiː/", "cefr": "A1", "zh": "茶", "emoji": "🍵"}
+    ]
+  },
+  {
+    "input_word": "teach",
+    "entries": [
+      {"text": "teach", "ipa": "/tiːtʃ/", "cefr": "A1", "zh": "教导", "emoji": "🏫"}
+    ]
+  },
+  {
+    "input_word": "teacher",
+    "entries": [
+      {"text": "teacher", "ipa": "/ˈtiːtʃər/", "cefr": "A1", "zh": "老师", "emoji": "👩‍🏫"}
+    ]
+  },
+  {
+    "input_word": "teaching",
+    "entries": [
+      {"text": "teaching", "ipa": "/ˈtiːtʃɪŋ/", "cefr": "A2", "zh": "教学", "emoji": "📚"}
+    ]
+  },
+  {
+    "input_word": "team",
+    "entries": [
+      {"text": "team", "ipa": "/tiːm/", "cefr": "A1", "zh": "团队", "emoji": "👥"}
+    ]
+  },
+  {
+    "input_word": "tear",
+    "entries": [
+      {"text": "tear", "ipa": "/tɪr/", "cefr": "B2", "zh": "眼泪", "emoji": "😢"},
+      {"text": "tear", "ipa": "/tɛr/", "cefr": "B2", "zh": "撕裂", "emoji": "✂️"}
+    ]
+  },
+  {
+    "input_word": "technical",
+    "entries": [
+      {"text": "technical", "ipa": "/ˈtɛknɪkəl/", "cefr": "B1", "zh": "技术的", "emoji": "⚙️"}
+    ]
+  },
+  {
+    "input_word": "technique",
+    "entries": [
+      {"text": "technique", "ipa": "/tɛkˈniːk/", "cefr": "B1", "zh": "技巧", "emoji": "🎨"}
+    ]
+  },
+  {
+    "input_word": "technology",
+    "entries": [
+      {"text": "technology", "ipa": "/tɛkˈnɑːlədʒi/", "cefr": "A2", "zh": "技术", "emoji": "💻"}
+    ]
+  },
+  {
+    "input_word": "teenage",
+    "entries": [
+      {"text": "teenage", "ipa": "/ˈtiːneɪdʒ/", "cefr": "A2", "zh": "青少年的", "emoji": "🧑"}
+    ]
+  },
+  {
+    "input_word": "teenager",
+    "entries": [
+      {"text": "teenager", "ipa": "/ˈtiːneɪdʒər/", "cefr": "A1", "zh": "青少年", "emoji": "🧑"}
+    ]
+  },
+  {
+    "input_word": "telephone",
+    "entries": [
+      {"text": "telephone", "ipa": "/ˈtɛlɪfoʊn/", "cefr": "A1", "zh": "电话", "emoji": "📞"}
+    ]
+  },
+  {
+    "input_word": "television",
+    "entries": [
+      {"text": "television", "ipa": "/ˈtɛlɪvɪʒən/", "cefr": "A1", "zh": "电视机", "emoji": "📺"}
+    ]
+  }
+]

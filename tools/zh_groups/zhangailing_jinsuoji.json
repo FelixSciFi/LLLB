@@ -1,0 +1,214 @@
+[
+  {
+    "text": "三十年前的上海，一个有月亮的晚上。",
+    "ipa": "sān shí nián qián de shàng hǎi, yí gè yǒu yuè liang de wǎn shang.",
+    "translation": {
+      "zh": "三十年前的上海，一个有月亮的晚上。",
+      "en": "Shanghai, thirty years ago, on a moonlit night."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "三十年前的上海",
+        "lemma": "上海",
+        "ipa": "sān shí nián qián de shàng hǎi",
+        "translation": {"zh": "三十年前的上海", "en": "Shanghai thirty years ago"},
+        "emoji": "🏙️"
+      },
+      {
+        "text": "一个",
+        "lemma": "一个",
+        "ipa": "yí gè",
+        "translation": {"zh": "一个", "en": "one"},
+        "emoji": "1️⃣"
+      },
+      {
+        "text": "有月亮的晚上",
+        "lemma": "晚上",
+        "ipa": "yǒu yuè liang de wǎn shang",
+        "translation": {"zh": "有月光的夜晚", "en": "moonlit evening"},
+        "emoji": "🌕"
+      }
+    ],
+    "tags": [{"name": "金锁记", "index": 1}]
+  },
+  {
+    "text": "我们也许没赶上看见三十年前的月亮。",
+    "ipa": "wǒ men yě xǔ méi gǎn shàng kàn jiàn sān shí nián qián de yuè liang.",
+    "translation": {
+      "zh": "我们也许没赶上看见三十年前的月亮。",
+      "en": "We may not have been in time to see the moon of thirty years ago."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "我们",
+        "lemma": "我们",
+        "ipa": "wǒ men",
+        "translation": {"zh": "我们", "en": "we"},
+        "emoji": "👥"
+      },
+      {
+        "text": "也许",
+        "lemma": "也许",
+        "ipa": "yě xǔ",
+        "translation": {"zh": "或许", "en": "perhaps"},
+        "emoji": "🤔"
+      },
+      {
+        "text": "没赶上",
+        "lemma": "赶上",
+        "ipa": "méi gǎn shàng",
+        "translation": {"zh": "没来得及", "en": "didn't catch"},
+        "emoji": "⏰"
+      },
+      {
+        "text": "看见",
+        "lemma": "看见",
+        "ipa": "kàn jiàn",
+        "translation": {"zh": "看到", "en": "see"},
+        "emoji": "👀"
+      },
+      {
+        "text": "三十年前的月亮",
+        "lemma": "月亮",
+        "ipa": "sān shí nián qián de yuè liang",
+        "translation": {"zh": "三十年前的月亮", "en": "the moon of thirty years ago"},
+        "emoji": "🌙"
+      }
+    ],
+    "tags": [{"name": "金锁记", "index": 2}]
+  },
+  {
+    "text": "年轻的人想着三十年前的月亮。",
+    "ipa": "nián qīng de rén xiǎng zhe sān shí nián qián de yuè liang.",
+    "translation": {
+      "zh": "年轻的人想着三十年前的月亮。",
+      "en": "Young people imagine the moon of thirty years ago."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "年轻的人",
+        "lemma": "年轻人",
+        "ipa": "nián qīng de rén",
+        "translation": {"zh": "年轻人", "en": "young people"},
+        "emoji": "🧑"
+      },
+      {
+        "text": "想着",
+        "lemma": "想",
+        "ipa": "xiǎng zhe",
+        "translation": {"zh": "想象着", "en": "imagine"},
+        "emoji": "💭"
+      },
+      {
+        "text": "三十年前的月亮",
+        "lemma": "月亮",
+        "ipa": "sān shí nián qián de yuè liang",
+        "translation": {"zh": "三十年前的月亮", "en": "the moon of thirty years ago"},
+        "emoji": "🌙"
+      }
+    ],
+    "tags": [{"name": "金锁记", "index": 3}]
+  },
+  {
+    "text": "该是铜钱大的一个红黄的湿晕。",
+    "ipa": "gāi shì tóng qián dà de yí gè hóng huáng de shī yùn.",
+    "translation": {
+      "zh": "该是铜钱大小的一个红黄色湿润的光晕。",
+      "en": "It must be a damp halo of reddish yellow, the size of a copper coin."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "该是",
+        "lemma": "该",
+        "ipa": "gāi shì",
+        "translation": {"zh": "应该是", "en": "should be"},
+        "emoji": "💡"
+      },
+      {
+        "text": "铜钱大的一个红黄的湿晕",
+        "lemma": "湿晕",
+        "ipa": "tóng qián dà de yí gè hóng huáng de shī yùn",
+        "translation": {"zh": "铜钱大小红黄色的湿光晕", "en": "a coin-sized reddish-yellow damp halo"},
+        "emoji": "🟡"
+      }
+    ],
+    "tags": [{"name": "金锁记", "index": 4}]
+  },
+  {
+    "text": "像朵云轩信笺上落了一滴泪珠。",
+    "ipa": "xiàng duǒ yún xuān xìn jiān shàng luò le yì dī lèi zhū.",
+    "translation": {
+      "zh": "像朵云轩信纸上落下了一滴泪珠。",
+      "en": "Like a teardrop fallen on Duoyun Xuan letter paper."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "像",
+        "lemma": "像",
+        "ipa": "xiàng",
+        "translation": {"zh": "好像", "en": "like"},
+        "emoji": "🔗"
+      },
+      {
+        "text": "朵云轩信笺上",
+        "lemma": "信笺",
+        "ipa": "duǒ yún xuān xìn jiān shàng",
+        "translation": {"zh": "朵云轩的信纸上", "en": "on Duoyun Xuan letter paper"},
+        "emoji": "📜"
+      },
+      {
+        "text": "落了",
+        "lemma": "落",
+        "ipa": "luò le",
+        "translation": {"zh": "落下了", "en": "fell"},
+        "emoji": "⬇️"
+      },
+      {
+        "text": "一滴泪珠",
+        "lemma": "泪珠",
+        "ipa": "yì dī lèi zhū",
+        "translation": {"zh": "一滴眼泪", "en": "a teardrop"},
+        "emoji": "💧"
+      }
+    ],
+    "tags": [{"name": "金锁记", "index": 5}]
+  },
+  {
+    "text": "陈旧而迷糊。",
+    "ipa": "chén jiù ér mí hu.",
+    "translation": {
+      "zh": "陈旧而模糊。",
+      "en": "Faded and blurred."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "陈旧",
+        "lemma": "陈旧",
+        "ipa": "chén jiù",
+        "translation": {"zh": "古旧", "en": "old, faded"},
+        "emoji": "📜"
+      },
+      {
+        "text": "而",
+        "lemma": "而",
+        "ipa": "ér",
+        "translation": {"zh": "并且", "en": "and"},
+        "emoji": "➕"
+      },
+      {
+        "text": "迷糊",
+        "lemma": "迷糊",
+        "ipa": "mí hu",
+        "translation": {"zh": "模糊", "en": "blurred"},
+        "emoji": "🌫️"
+      }
+    ],
+    "tags": [{"name": "金锁记", "index": 6}]
+  }
+]

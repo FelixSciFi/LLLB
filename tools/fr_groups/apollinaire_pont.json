@@ -1,0 +1,70 @@
+[
+  {
+    "text": "Sous le pont Mirabeau coule la Seine",
+    "ipa": "su lə pɔ̃ miʁabo kul la sɛn",
+    "translation": {"zh": "米拉波桥下塞纳河流淌", "en": "Under the Mirabeau bridge flows the Seine"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Sous le pont Mirabeau", "lemma": "pont Mirabeau", "ipa": "su lə pɔ̃ miʁabo", "translation": {"zh": "米拉波桥下", "en": "under Mirabeau bridge"}, "emoji": "🌉"},
+      {"text": "coule", "lemma": "couler", "ipa": "kul", "translation": {"zh": "流淌", "en": "flows"}, "emoji": "🌊"},
+      {"text": "la Seine", "lemma": "Seine", "ipa": "la sɛn", "translation": {"zh": "塞纳河", "en": "the Seine"}, "emoji": ""}
+    ],
+    "tags": [{"name": "Le Pont Mirabeau", "index": 1}]
+  },
+  {
+    "text": "Et nos amours",
+    "ipa": "e no z‿amuʁ",
+    "translation": {"zh": "还有我们的爱情", "en": "And our loves"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Et nos amours", "lemma": "amour", "ipa": "e no z‿amuʁ", "translation": {"zh": "还有我们的爱情", "en": "and our loves"}, "emoji": "💞"}
+    ],
+    "tags": [{"name": "Le Pont Mirabeau", "index": 2}]
+  },
+  {
+    "text": "Faut-il qu'il m'en souvienne",
+    "ipa": "fo til kil m‿ɑ̃ suvjɛn",
+    "translation": {"zh": "我必须将它记起吗", "en": "Must I remember it"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Faut-il", "lemma": "falloir", "ipa": "fo til", "translation": {"zh": "必须吗", "en": "must"}, "emoji": ""},
+      {"text": "qu'il m'en souvienne", "lemma": "se souvenir", "ipa": "kil m‿ɑ̃ suvjɛn", "translation": {"zh": "我记起它", "en": "I remember it"}, "emoji": "💭"}
+    ],
+    "tags": [{"name": "Le Pont Mirabeau", "index": 3}]
+  },
+  {
+    "text": "La joie venait toujours après la peine",
+    "ipa": "la ʒwa vənɛ tuʒuʁ apʁɛ la pɛn",
+    "translation": {"zh": "欢乐总在痛苦之后到来", "en": "Joy always came after sorrow"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "La joie", "lemma": "joie", "ipa": "la ʒwa", "translation": {"zh": "欢乐", "en": "joy"}, "emoji": "😊"},
+      {"text": "venait toujours", "lemma": "venir", "ipa": "vənɛ tuʒuʁ", "translation": {"zh": "总是到来", "en": "always came"}, "emoji": ""},
+      {"text": "après la peine", "lemma": "peine", "ipa": "apʁɛ la pɛn", "translation": {"zh": "痛苦之后", "en": "after sorrow"}, "emoji": "😢"}
+    ],
+    "tags": [{"name": "Le Pont Mirabeau", "index": 4}]
+  },
+  {
+    "text": "Vienne la nuit sonne l'heure",
+    "ipa": "vjɛn la nɥi sɔn lœʁ",
+    "translation": {"zh": "夜幕降临钟声敲响", "en": "Let night come let the hour chime"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Vienne la nuit", "lemma": "nuit", "ipa": "vjɛn la nɥi", "translation": {"zh": "夜幕降临", "en": "let night come"}, "emoji": "🌙"},
+      {"text": "sonne l'heure", "lemma": "heure", "ipa": "sɔn lœʁ", "translation": {"zh": "钟声敲响", "en": "the hour chimes"}, "emoji": "🔔"}
+    ],
+    "tags": [{"name": "Le Pont Mirabeau", "index": 5}]
+  },
+  {
+    "text": "Les jours s'en vont je demeure",
+    "ipa": "le ʒuʁ s‿ɑ̃ vɔ̃ ʒə dəmœʁ",
+    "translation": {"zh": "时光流逝我却留下", "en": "The days go by I remain"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Les jours", "lemma": "jour", "ipa": "le ʒuʁ", "translation": {"zh": "时光", "en": "the days"}, "emoji": "📅"},
+      {"text": "s'en vont", "lemma": "s'en aller", "ipa": "s‿ɑ̃ vɔ̃", "translation": {"zh": "流逝", "en": "go away"}, "emoji": ""},
+      {"text": "je demeure", "lemma": "demeurer", "ipa": "ʒə dəmœʁ", "translation": {"zh": "我留下", "en": "I remain"}, "emoji": "🧍"}
+    ],
+    "tags": [{"name": "Le Pont Mirabeau", "index": 6}]
+  }
+]

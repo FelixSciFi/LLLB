@@ -1,0 +1,705 @@
+[
+  {
+    "input_word": "颜色",
+    "sentences": [
+      {
+        "text": "这是什么颜色？",
+        "ipa": "zhè shì shén me yán sè",
+        "translation": { "zh": "这是什么颜色？", "en": "What color is this?" },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "这是",
+            "lemma": "是",
+            "ipa": "zhè shì",
+            "translation": { "zh": "这是", "en": "this is" },
+            "emoji": ""
+          },
+          {
+            "text": "什么颜色",
+            "lemma": "颜色",
+            "ipa": "shén me yán sè",
+            "translation": { "zh": "什么颜色", "en": "what color" },
+            "emoji": "🎨"
+          }
+        ]
+      },
+      {
+        "text": "你喜欢什么颜色？",
+        "ipa": "nǐ xǐ huān shén me yán sè",
+        "translation": { "zh": "你喜欢什么颜色？", "en": "What color do you like?" },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "你喜欢",
+            "lemma": "喜欢",
+            "ipa": "nǐ xǐ huān",
+            "translation": { "zh": "你喜欢", "en": "you like" },
+            "emoji": "❤️"
+          },
+          {
+            "text": "什么颜色",
+            "lemma": "颜色",
+            "ipa": "shén me yán sè",
+            "translation": { "zh": "什么颜色", "en": "what color" },
+            "emoji": "🎨"
+          }
+        ]
+      },
+      {
+        "text": "这个颜色很好看。",
+        "ipa": "zhè ge yán sè hěn hǎo kàn",
+        "translation": { "zh": "这个颜色很好看。", "en": "This color looks great." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "这个",
+            "lemma": "这个",
+            "ipa": "zhè ge",
+            "translation": { "zh": "这个", "en": "this" },
+            "emoji": ""
+          },
+          {
+            "text": "颜色",
+            "lemma": "颜色",
+            "ipa": "yán sè",
+            "translation": { "zh": "颜色", "en": "color" },
+            "emoji": "🎨"
+          },
+          {
+            "text": "很好看",
+            "lemma": "好看",
+            "ipa": "hěn hǎo kàn",
+            "translation": { "zh": "很好看", "en": "very nice-looking" },
+            "emoji": "✨"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "眼睛",
+    "sentences": [
+      {
+        "text": "她的眼睛很大。",
+        "ipa": "tā de yǎn jīng hěn dà",
+        "translation": { "zh": "她的眼睛很大。", "en": "Her eyes are very big." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "她的眼睛",
+            "lemma": "眼睛",
+            "ipa": "tā de yǎn jīng",
+            "translation": { "zh": "她的眼睛", "en": "her eyes" },
+            "emoji": "👁️"
+          },
+          {
+            "text": "很大",
+            "lemma": "大",
+            "ipa": "hěn dà",
+            "translation": { "zh": "很大", "en": "very big" },
+            "emoji": "🔆"
+          }
+        ]
+      },
+      {
+        "text": "闭上眼睛。",
+        "ipa": "bì shàng yǎn jīng",
+        "translation": { "zh": "闭上眼睛。", "en": "Close your eyes." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "闭上",
+            "lemma": "闭上",
+            "ipa": "bì shàng",
+            "translation": { "zh": "闭上", "en": "close" },
+            "emoji": ""
+          },
+          {
+            "text": "眼睛",
+            "lemma": "眼睛",
+            "ipa": "yǎn jīng",
+            "translation": { "zh": "眼睛", "en": "eyes" },
+            "emoji": "👁️"
+          }
+        ]
+      },
+      {
+        "text": "你的眼睛很漂亮。",
+        "ipa": "nǐ de yǎn jīng hěn piào liàng",
+        "translation": { "zh": "你的眼睛很漂亮。", "en": "Your eyes are very beautiful." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "你的眼睛",
+            "lemma": "眼睛",
+            "ipa": "nǐ de yǎn jīng",
+            "translation": { "zh": "你的眼睛", "en": "your eyes" },
+            "emoji": "👁️"
+          },
+          {
+            "text": "很漂亮",
+            "lemma": "漂亮",
+            "ipa": "hěn piào liàng",
+            "translation": { "zh": "很漂亮", "en": "very beautiful" },
+            "emoji": "💛"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "羊肉",
+    "sentences": [
+      {
+        "text": "我喜欢吃羊肉。",
+        "ipa": "wǒ xǐ huān chī yáng ròu",
+        "translation": { "zh": "我喜欢吃羊肉。", "en": "I like eating lamb." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我喜欢",
+            "lemma": "喜欢",
+            "ipa": "wǒ xǐ huān",
+            "translation": { "zh": "我喜欢", "en": "I like" },
+            "emoji": "❤️"
+          },
+          {
+            "text": "吃",
+            "lemma": "吃",
+            "ipa": "chī",
+            "translation": { "zh": "吃", "en": "eat" },
+            "emoji": "🍽️"
+          },
+          {
+            "text": "羊肉",
+            "lemma": "羊肉",
+            "ipa": "yáng ròu",
+            "translation": { "zh": "羊肉", "en": "lamb/mutton" },
+            "emoji": "🥩"
+          }
+        ]
+      },
+      {
+        "text": "这个羊肉很好吃。",
+        "ipa": "zhè ge yáng ròu hěn hǎo chī",
+        "translation": { "zh": "这个羊肉很好吃。", "en": "This lamb is delicious." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "这个",
+            "lemma": "这个",
+            "ipa": "zhè ge",
+            "translation": { "zh": "这个", "en": "this" },
+            "emoji": ""
+          },
+          {
+            "text": "羊肉",
+            "lemma": "羊肉",
+            "ipa": "yáng ròu",
+            "translation": { "zh": "羊肉", "en": "lamb/mutton" },
+            "emoji": "🥩"
+          },
+          {
+            "text": "很好吃",
+            "lemma": "好吃",
+            "ipa": "hěn hǎo chī",
+            "translation": { "zh": "很好吃", "en": "very tasty" },
+            "emoji": "😋"
+          }
+        ]
+      },
+      {
+        "text": "羊肉多少钱？",
+        "ipa": "yáng ròu duō shǎo qián",
+        "translation": { "zh": "羊肉多少钱？", "en": "How much is the lamb?" },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "羊肉",
+            "lemma": "羊肉",
+            "ipa": "yáng ròu",
+            "translation": { "zh": "羊肉", "en": "lamb/mutton" },
+            "emoji": "🥩"
+          },
+          {
+            "text": "多少钱",
+            "lemma": "钱",
+            "ipa": "duō shǎo qián",
+            "translation": { "zh": "多少钱", "en": "how much" },
+            "emoji": "💰"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "药",
+    "sentences": [
+      {
+        "text": "你吃药了吗？",
+        "ipa": "nǐ chī yào le ma",
+        "translation": { "zh": "你吃药了吗？", "en": "Did you take your medicine?" },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "你吃",
+            "lemma": "吃",
+            "ipa": "nǐ chī",
+            "translation": { "zh": "你吃", "en": "did you take" },
+            "emoji": ""
+          },
+          {
+            "text": "药了吗",
+            "lemma": "药",
+            "ipa": "yào le ma",
+            "translation": { "zh": "药了吗", "en": "medicine?" },
+            "emoji": "💊"
+          }
+        ]
+      },
+      {
+        "text": "这是感冒药。",
+        "ipa": "zhè shì gǎn mào yào",
+        "translation": { "zh": "这是感冒药。", "en": "This is cold medicine." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "这是",
+            "lemma": "是",
+            "ipa": "zhè shì",
+            "translation": { "zh": "这是", "en": "this is" },
+            "emoji": ""
+          },
+          {
+            "text": "感冒药",
+            "lemma": "药",
+            "ipa": "gǎn mào yào",
+            "translation": { "zh": "感冒药", "en": "cold medicine" },
+            "emoji": "💊"
+          }
+        ]
+      },
+      {
+        "text": "我要吃药。",
+        "ipa": "wǒ yào chī yào",
+        "translation": { "zh": "我要吃药。", "en": "I need to take medicine." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我要",
+            "lemma": "要",
+            "ipa": "wǒ yào",
+            "translation": { "zh": "我要", "en": "I need to" },
+            "emoji": ""
+          },
+          {
+            "text": "吃",
+            "lemma": "吃",
+            "ipa": "chī",
+            "translation": { "zh": "吃", "en": "take" },
+            "emoji": "🍽️"
+          },
+          {
+            "text": "药",
+            "lemma": "药",
+            "ipa": "yào",
+            "translation": { "zh": "药", "en": "medicine" },
+            "emoji": "💊"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "要",
+    "sentences": [
+      {
+        "text": "你要什么？",
+        "ipa": "nǐ yào shén me",
+        "translation": { "zh": "你要什么？", "en": "What do you want?" },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "你要",
+            "lemma": "要",
+            "ipa": "nǐ yào",
+            "translation": { "zh": "你要", "en": "do you want" },
+            "emoji": ""
+          },
+          {
+            "text": "什么",
+            "lemma": "什么",
+            "ipa": "shén me",
+            "translation": { "zh": "什么", "en": "what" },
+            "emoji": ""
+          }
+        ]
+      },
+      {
+        "text": "我要回家。",
+        "ipa": "wǒ yào huí jiā",
+        "translation": { "zh": "我要回家。", "en": "I want to go home." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我要",
+            "lemma": "要",
+            "ipa": "wǒ yào",
+            "translation": { "zh": "我要", "en": "I want to" },
+            "emoji": ""
+          },
+          {
+            "text": "回家",
+            "lemma": "回家",
+            "ipa": "huí jiā",
+            "translation": { "zh": "回家", "en": "go home" },
+            "emoji": "🏠"
+          }
+        ]
+      },
+      {
+        "text": "我不要了。",
+        "ipa": "wǒ bù yào le",
+        "translation": { "zh": "我不要了。", "en": "I don't want it anymore." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我不要了",
+            "lemma": "要",
+            "ipa": "wǒ bù yào le",
+            "translation": { "zh": "我不要了", "en": "I don't want it anymore" },
+            "emoji": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "一起",
+    "sentences": [
+      {
+        "text": "我们一起去。",
+        "ipa": "wǒ men yì qǐ qù",
+        "translation": { "zh": "我们一起去。", "en": "Let's go together." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我们",
+            "lemma": "我们",
+            "ipa": "wǒ men",
+            "translation": { "zh": "我们", "en": "we" },
+            "emoji": ""
+          },
+          {
+            "text": "一起去",
+            "lemma": "去",
+            "ipa": "yì qǐ qù",
+            "translation": { "zh": "一起去", "en": "go together" },
+            "emoji": "🚶"
+          }
+        ]
+      },
+      {
+        "text": "一起吃饭吧。",
+        "ipa": "yì qǐ chī fàn ba",
+        "translation": { "zh": "一起吃饭吧。", "en": "Let's eat together." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "一起吃",
+            "lemma": "吃",
+            "ipa": "yì qǐ chī",
+            "translation": { "zh": "一起吃", "en": "eat together" },
+            "emoji": "🍽️"
+          },
+          {
+            "text": "饭吧",
+            "lemma": "饭",
+            "ipa": "fàn ba",
+            "translation": { "zh": "饭吧", "en": "a meal" },
+            "emoji": "🍚"
+          }
+        ]
+      },
+      {
+        "text": "我们一起学习。",
+        "ipa": "wǒ men yì qǐ xué xí",
+        "translation": { "zh": "我们一起学习。", "en": "Let's study together." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我们",
+            "lemma": "我们",
+            "ipa": "wǒ men",
+            "translation": { "zh": "我们", "en": "we" },
+            "emoji": ""
+          },
+          {
+            "text": "一起学习",
+            "lemma": "学习",
+            "ipa": "yì qǐ xué xí",
+            "translation": { "zh": "一起学习", "en": "study together" },
+            "emoji": "📚"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "一下",
+    "sentences": [
+      {
+        "text": "等一下。",
+        "ipa": "děng yī xià",
+        "translation": { "zh": "等一下。", "en": "Wait a moment." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "等一下",
+            "lemma": "等",
+            "ipa": "děng yī xià",
+            "translation": { "zh": "等一下", "en": "wait a moment" },
+            "emoji": "⏳"
+          }
+        ]
+      },
+      {
+        "text": "我看一下。",
+        "ipa": "wǒ kàn yī xià",
+        "translation": { "zh": "我看一下。", "en": "Let me have a look." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我看一下",
+            "lemma": "看",
+            "ipa": "wǒ kàn yī xià",
+            "translation": { "zh": "我看一下", "en": "let me look" },
+            "emoji": "👀"
+          }
+        ]
+      },
+      {
+        "text": "你试一下吧。",
+        "ipa": "nǐ shì yī xià ba",
+        "translation": { "zh": "你试一下吧。", "en": "Give it a try." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "你试一下吧",
+            "lemma": "试",
+            "ipa": "nǐ shì yī xià ba",
+            "translation": { "zh": "你试一下吧", "en": "give it a try" },
+            "emoji": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "意思",
+    "sentences": [
+      {
+        "text": "这是什么意思？",
+        "ipa": "zhè shì shén me yì si",
+        "translation": { "zh": "这是什么意思？", "en": "What does this mean?" },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "这是",
+            "lemma": "是",
+            "ipa": "zhè shì",
+            "translation": { "zh": "这是", "en": "this is" },
+            "emoji": ""
+          },
+          {
+            "text": "什么意思",
+            "lemma": "意思",
+            "ipa": "shén me yì si",
+            "translation": { "zh": "什么意思", "en": "what meaning" },
+            "emoji": "❓"
+          }
+        ]
+      },
+      {
+        "text": "没意思。",
+        "ipa": "méi yì si",
+        "translation": { "zh": "没意思。", "en": "Boring / Not interesting." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "没意思",
+            "lemma": "意思",
+            "ipa": "méi yì si",
+            "translation": { "zh": "没意思", "en": "boring / meaningless" },
+            "emoji": "😑"
+          }
+        ]
+      },
+      {
+        "text": "他的意思是对的。",
+        "ipa": "tā de yì si shì duì de",
+        "translation": { "zh": "他的意思是对的。", "en": "His meaning is correct." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "他的意思",
+            "lemma": "意思",
+            "ipa": "tā de yì si",
+            "translation": { "zh": "他的意思", "en": "his meaning" },
+            "emoji": ""
+          },
+          {
+            "text": "是对的",
+            "lemma": "对",
+            "ipa": "shì duì de",
+            "translation": { "zh": "是对的", "en": "is correct" },
+            "emoji": "✅"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "因为",
+    "sentences": [
+      {
+        "text": "因为我累了。",
+        "ipa": "yīn wèi wǒ lèi le",
+        "translation": { "zh": "因为我累了。", "en": "Because I'm tired." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "因为",
+            "lemma": "因为",
+            "ipa": "yīn wèi",
+            "translation": { "zh": "因为", "en": "because" },
+            "emoji": ""
+          },
+          {
+            "text": "我累了",
+            "lemma": "累",
+            "ipa": "wǒ lèi le",
+            "translation": { "zh": "我累了", "en": "I'm tired" },
+            "emoji": "😴"
+          }
+        ]
+      },
+      {
+        "text": "因为天气冷。",
+        "ipa": "yīn wèi tiān qì lěng",
+        "translation": { "zh": "因为天气冷。", "en": "Because the weather is cold." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "因为",
+            "lemma": "因为",
+            "ipa": "yīn wèi",
+            "translation": { "zh": "因为", "en": "because" },
+            "emoji": ""
+          },
+          {
+            "text": "天气",
+            "lemma": "天气",
+            "ipa": "tiān qì",
+            "translation": { "zh": "天气", "en": "weather" },
+            "emoji": "🌤️"
+          },
+          {
+            "text": "冷",
+            "lemma": "冷",
+            "ipa": "lěng",
+            "translation": { "zh": "冷", "en": "cold" },
+            "emoji": "🥶"
+          }
+        ]
+      },
+      {
+        "text": "因为我生病了。",
+        "ipa": "yīn wèi wǒ shēng bìng le",
+        "translation": { "zh": "因为我生病了。", "en": "Because I'm sick." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "因为",
+            "lemma": "因为",
+            "ipa": "yīn wèi",
+            "translation": { "zh": "因为", "en": "because" },
+            "emoji": ""
+          },
+          {
+            "text": "我生病了",
+            "lemma": "生病",
+            "ipa": "wǒ shēng bìng le",
+            "translation": { "zh": "我生病了", "en": "I'm sick" },
+            "emoji": "🤒"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "所以",
+    "sentences": [
+      {
+        "text": "所以我来了。",
+        "ipa": "suǒ yǐ wǒ lái le",
+        "translation": { "zh": "所以我来了。", "en": "So that's why I came." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "所以",
+            "lemma": "所以",
+            "ipa": "suǒ yǐ",
+            "translation": { "zh": "所以", "en": "so / therefore" },
+            "emoji": ""
+          },
+          {
+            "text": "我来了",
+            "lemma": "来",
+            "ipa": "wǒ lái le",
+            "translation": { "zh": "我来了", "en": "I came" },
+            "emoji": "🚶"
+          }
+        ]
+      },
+      {
+        "text": "所以呢？",
+        "ipa": "suǒ yǐ ne",
+        "translation": { "zh": "所以呢？", "en": "So? / And then?" },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "所以呢",
+            "lemma": "所以",
+            "ipa": "suǒ yǐ ne",
+            "translation": { "zh": "所以呢", "en": "so then?" },
+            "emoji": ""
+          }
+        ]
+      },
+      {
+        "text": "所以你知道了。",
+        "ipa": "suǒ yǐ nǐ zhī dào le",
+        "translation": { "zh": "所以你知道了。", "en": "So now you know." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "所以",
+            "lemma": "所以",
+            "ipa": "suǒ yǐ",
+            "translation": { "zh": "所以", "en": "so / therefore" },
+            "emoji": ""
+          },
+          {
+            "text": "你知道了",
+            "lemma": "知道",
+            "ipa": "nǐ zhī dào le",
+            "translation": { "zh": "你知道了", "en": "you know now" },
+            "emoji": "💡"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "input_word": "rubbish",
+    "entries": [
+      {
+        "text": "rubbish",
+        "ipa": "/ˈrʌbɪʃ/",
+        "cefr": "A2",
+        "zh": "垃圾",
+        "emoji": "🗑️"
+      }
+    ]
+  },
+  {
+    "input_word": "rude",
+    "entries": [
+      {
+        "text": "rude",
+        "ipa": "/ruːd/",
+        "cefr": "A2",
+        "zh": "粗鲁的",
+        "emoji": "😤"
+      }
+    ]
+  },
+  {
+    "input_word": "rugby",
+    "entries": [
+      {
+        "text": "rugby",
+        "ipa": "/ˈrʌɡbi/",
+        "cefr": "B1",
+        "zh": "橄榄球",
+        "emoji": "🏉"
+      }
+    ]
+  },
+  {
+    "input_word": "rule",
+    "entries": [
+      {
+        "text": "rule",
+        "ipa": "/ruːl/",
+        "cefr": "A1",
+        "zh": "规则",
+        "emoji": "📋"
+      },
+      {
+        "text": "rule",
+        "ipa": "/ruːl/",
+        "cefr": "A1",
+        "zh": "统治",
+        "emoji": "👑"
+      }
+    ]
+  },
+  {
+    "input_word": "run",
+    "entries": [
+      {
+        "text": "run",
+        "ipa": "/rʌn/",
+        "cefr": "A1",
+        "zh": "跑步",
+        "emoji": "🏃"
+      },
+      {
+        "text": "run",
+        "ipa": "/rʌn/",
+        "cefr": "A1",
+        "zh": "运营",
+        "emoji": "⚙️"
+      }
+    ]
+  },
+  {
+    "input_word": "runner",
+    "entries": [
+      {
+        "text": "runner",
+        "ipa": "/ˈrʌnər/",
+        "cefr": "A2",
+        "zh": "跑步者",
+        "emoji": "🏃"
+      }
+    ]
+  },
+  {
+    "input_word": "running",
+    "entries": [
+      {
+        "text": "running",
+        "ipa": "/ˈrʌnɪŋ/",
+        "cefr": "A2",
+        "zh": "跑步",
+        "emoji": "🏃"
+      }
+    ]
+  },
+  {
+    "input_word": "rural",
+    "entries": [
+      {
+        "text": "rural",
+        "ipa": "/ˈrʊrəl/",
+        "cefr": "B2",
+        "zh": "农村的",
+        "emoji": "🌾"
+      }
+    ]
+  },
+  {
+    "input_word": "rush",
+    "entries": [
+      {
+        "text": "rush",
+        "ipa": "/rʌʃ/",
+        "cefr": "B2",
+        "zh": "急忙",
+        "emoji": "💨"
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "text": "M. Seguin n'avait jamais eu de bonheur avec ses chèvres.",
+    "ipa": "məsjø səɡɛ̃ navɛ ʒamɛ y də bɔnœʁ avɛk se ʃɛvʁ",
+    "translation": {"zh": "塞甘先生养山羊从来没有走过运。", "en": "Mr. Seguin had never had any luck with his goats."},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "M. Seguin", "lemma": "Seguin", "ipa": "məsjø səɡɛ̃", "translation": {"zh": "塞甘先生", "en": "Mr. Seguin"}, "emoji": "👨‍🌾"},
+      {"text": "n'avait jamais eu", "lemma": "avoir", "ipa": "navɛ ʒamɛ y", "translation": {"zh": "从未有过", "en": "had never had"}, "emoji": "🚫"},
+      {"text": "de bonheur", "lemma": "bonheur", "ipa": "də bɔnœʁ", "translation": {"zh": "好运", "en": "luck"}, "emoji": "🍀"},
+      {"text": "avec ses chèvres", "lemma": "chèvre", "ipa": "avɛk se ʃɛvʁ", "translation": {"zh": "和他的山羊", "en": "with his goats"}, "emoji": "🐐"}
+    ],
+    "tags": [{"name": "La Chèvre de M. Seguin", "index": 0}]
+  },
+  {
+    "text": "Il les perdait toutes de la même façon :",
+    "ipa": "il le pɛʁdɛ tut də la mɛm fasɔ̃",
+    "translation": {"zh": "他都是以同样的方式失去它们：", "en": "He lost them all in the same way:"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Il les perdait", "lemma": "perdre", "ipa": "il le pɛʁdɛ", "translation": {"zh": "他失去它们", "en": "he lost them"}, "emoji": "💔"},
+      {"text": "toutes", "lemma": "tout", "ipa": "tut", "translation": {"zh": "全部", "en": "all"}, "emoji": "💯"},
+      {"text": "de la même façon", "lemma": "façon", "ipa": "də la mɛm fasɔ̃", "translation": {"zh": "以同样的方式", "en": "in the same way"}, "emoji": "🔁"}
+    ],
+    "tags": [{"name": "La Chèvre de M. Seguin", "index": 0}]
+  },
+  {
+    "text": "un beau matin, elles cassaient leur corde,",
+    "ipa": "œ̃ bo matɛ̃ ɛl kasɛ lœʁ kɔʁd",
+    "translation": {"zh": "某个清晨，它们挣断绳子，", "en": "one fine morning, they would break their rope,"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "un beau matin", "lemma": "matin", "ipa": "œ̃ bo matɛ̃", "translation": {"zh": "某个清晨", "en": "one fine morning"}, "emoji": "🌅"},
+      {"text": "elles cassaient", "lemma": "casser", "ipa": "ɛl kasɛ", "translation": {"zh": "它们挣断", "en": "they broke"}, "emoji": "💥"},
+      {"text": "leur corde", "lemma": "corde", "ipa": "lœʁ kɔʁd", "translation": {"zh": "它们的绳子", "en": "their rope"}, "emoji": "🪢"}
+    ],
+    "tags": [{"name": "La Chèvre de M. Seguin", "index": 0}]
+  },
+  {
+    "text": "s'en allaient dans la montagne,",
+    "ipa": "sɑ̃n alɛ dɑ̃ la mɔ̃taɲ",
+    "translation": {"zh": "跑进山里，", "en": "went off into the mountain,"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "s'en allaient", "lemma": "s'en aller", "ipa": "sɑ̃n alɛ", "translation": {"zh": "它们离去", "en": "went off"}, "emoji": "🏃"},
+      {"text": "dans la montagne", "lemma": "montagne", "ipa": "dɑ̃ la mɔ̃taɲ", "translation": {"zh": "在山里", "en": "into the mountain"}, "emoji": "⛰️"}
+    ],
+    "tags": [{"name": "La Chèvre de M. Seguin", "index": 0}]
+  },
+  {
+    "text": "et là-haut le loup les mangeait.",
+    "ipa": "e lao lə lu le mɑ̃ʒɛ",
+    "translation": {"zh": "在那上面，狼就把它们吃掉。", "en": "and up there the wolf ate them."},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "et là-haut", "lemma": "là-haut", "ipa": "e lao", "translation": {"zh": "在那上面", "en": "and up there"}, "emoji": "⬆️"},
+      {"text": "le loup", "lemma": "loup", "ipa": "lə lu", "translation": {"zh": "狼", "en": "the wolf"}, "emoji": "🐺"},
+      {"text": "les mangeait", "lemma": "manger", "ipa": "le mɑ̃ʒɛ", "translation": {"zh": "把它们吃掉", "en": "ate them"}, "emoji": "🍴"}
+    ],
+    "tags": [{"name": "La Chèvre de M. Seguin", "index": 0}]
+  }
+]

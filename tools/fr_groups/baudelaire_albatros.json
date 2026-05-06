@@ -1,0 +1,134 @@
+[
+  {
+    "text": "Souvent, pour s'amuser, les hommes d'équipage",
+    "ipa": "suvɑ̃ puʁ samyze le ɔm dekipaʒ",
+    "translation": {
+      "zh": "水手们常常为了取乐",
+      "en": "Often, for amusement, the crewmen"
+    },
+    "cefr": "C2",
+    "tokens": [
+      {
+        "text": "Souvent",
+        "lemma": "souvent",
+        "ipa": "suvɑ̃",
+        "translation": {"zh": "经常", "en": "often"},
+        "emoji": "🔁"
+      },
+      {
+        "text": "pour s'amuser",
+        "lemma": "s'amuser",
+        "ipa": "puʁ samyze",
+        "translation": {"zh": "为了取乐", "en": "to amuse themselves"},
+        "emoji": "😄"
+      },
+      {
+        "text": "les hommes d'équipage",
+        "lemma": "homme d'équipage",
+        "ipa": "le ɔm dekipaʒ",
+        "translation": {"zh": "船员们", "en": "the crewmen"},
+        "emoji": "⚓"
+      }
+    ],
+    "tags": [{"name": "L'Albatros", "index": 0}]
+  },
+  {
+    "text": "Prennent des albatros, vastes oiseaux des mers,",
+    "ipa": "pʁɛn dez‿albatʁos vastə zwazo de mɛʁ",
+    "translation": {
+      "zh": "捉来信天翁，那海上的巨鸟，",
+      "en": "Catch albatrosses, vast birds of the seas,"
+    },
+    "cefr": "C2",
+    "tokens": [
+      {
+        "text": "Prennent",
+        "lemma": "prendre",
+        "ipa": "pʁɛn",
+        "translation": {"zh": "捕捉", "en": "catch"},
+        "emoji": "🪤"
+      },
+      {
+        "text": "des albatros",
+        "lemma": "albatros",
+        "ipa": "dez‿albatʁos",
+        "translation": {"zh": "信天翁", "en": "albatrosses"},
+        "emoji": "🕊️"
+      },
+      {
+        "text": "vastes oiseaux des mers",
+        "lemma": "oiseau des mers",
+        "ipa": "vastə zwazo de mɛʁ",
+        "translation": {"zh": "海上巨鸟", "en": "vast sea birds"},
+        "emoji": "🌊"
+      }
+    ],
+    "tags": [{"name": "L'Albatros", "index": 1}]
+  },
+  {
+    "text": "Qui suivent, indolents compagnons de voyage,",
+    "ipa": "ki sɥiv ɛ̃dɔlɑ̃ kɔ̃paɲɔ̃ də vwajaʒ",
+    "translation": {
+      "zh": "懒散的旅伴，紧紧跟随",
+      "en": "Which follow, indolent travel companions,"
+    },
+    "cefr": "C2",
+    "tokens": [
+      {
+        "text": "Qui suivent",
+        "lemma": "suivre",
+        "ipa": "ki sɥiv",
+        "translation": {"zh": "跟随", "en": "which follow"},
+        "emoji": "➡️"
+      },
+      {
+        "text": "indolents",
+        "lemma": "indolent",
+        "ipa": "ɛ̃dɔlɑ̃",
+        "translation": {"zh": "懒散的", "en": "indolent"},
+        "emoji": "😴"
+      },
+      {
+        "text": "compagnons de voyage",
+        "lemma": "compagnon de voyage",
+        "ipa": "kɔ̃paɲɔ̃ də vwajaʒ",
+        "translation": {"zh": "旅伴", "en": "travel companions"},
+        "emoji": "🧳"
+      }
+    ],
+    "tags": [{"name": "L'Albatros", "index": 2}]
+  },
+  {
+    "text": "Le navire glissant sur les gouffres amers.",
+    "ipa": "lə naviʁ ɡlisɑ̃ syʁ le ɡufʁ‿amɛʁ",
+    "translation": {
+      "zh": "在苦涩深渊上滑行的船只。",
+      "en": "The ship gliding over the bitter chasms."
+    },
+    "cefr": "C2",
+    "tokens": [
+      {
+        "text": "Le navire glissant",
+        "lemma": "navire",
+        "ipa": "lə naviʁ ɡlisɑ̃",
+        "translation": {"zh": "滑行的船", "en": "the gliding ship"},
+        "emoji": "🚢"
+      },
+      {
+        "text": "sur",
+        "lemma": "sur",
+        "ipa": "syʁ",
+        "translation": {"zh": "在……上", "en": "over"},
+        "emoji": "⬆️"
+      },
+      {
+        "text": "les gouffres amers",
+        "lemma": "gouffre amer",
+        "ipa": "le ɡufʁ‿amɛʁ",
+        "translation": {"zh": "苦涩深渊", "en": "bitter chasms"},
+        "emoji": "🌀"
+      }
+    ],
+    "tags": [{"name": "L'Albatros", "index": 3}]
+  }
+]

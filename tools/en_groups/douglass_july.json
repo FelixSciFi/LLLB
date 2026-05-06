@@ -1,0 +1,62 @@
+[
+  {
+    "text": "What, to the American slave, is your 4th of July?",
+    "ipa": "wʌt tə ði əˈmɛɹɪkən sleɪv ɪz jɔːɹ fɔːɹθ əv dʒəˈlaɪ",
+    "translation": {"zh": "对美国奴隶而言，你们的七月四日算什么？"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "What", "lemma": "what", "ipa": "wʌt", "translation": {"zh": "什么", "en": "what"}, "emoji": "❓"},
+      {"text": "to the American slave", "lemma": "slave", "ipa": "tə ði əˈmɛɹɪkən sleɪv", "translation": {"zh": "对美国奴隶", "en": "to the slave"}, "emoji": "⛓️"},
+      {"text": "is your fourth of July", "lemma": "fourth of July", "ipa": "ɪz jɔːɹ fɔːɹθ əv dʒəˈlaɪ", "translation": {"zh": "你们独立日", "en": "your fourth of July"}, "emoji": "🎆"}
+    ],
+    "tags": [{"name": "What to the Slave is the Fourth of July", "index": 1}]
+  },
+  {
+    "text": "I answer; a day that reveals to him,",
+    "ipa": "aɪ ˈænsɚ ə deɪ ðət ɹɪˈviːlz tə hɪm",
+    "translation": {"zh": "我回答：那是向他揭示的一天，"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "I answer", "lemma": "answer", "ipa": "aɪ ˈænsɚ", "translation": {"zh": "我回答", "en": "I answer"}, "emoji": "💬"},
+      {"text": "a day", "lemma": "day", "ipa": "ə deɪ", "translation": {"zh": "一天", "en": "a day"}, "emoji": "📅"},
+      {"text": "that reveals", "lemma": "reveal", "ipa": "ðət ɹɪˈviːlz", "translation": {"zh": "揭示出", "en": "that reveals"}, "emoji": "🔍"},
+      {"text": "to him", "lemma": "him", "ipa": "tə hɪm", "translation": {"zh": "向他", "en": "to him"}, "emoji": ""}
+    ],
+    "tags": [{"name": "What to the Slave is the Fourth of July", "index": 2}]
+  },
+  {
+    "text": "more than all other days in the year,",
+    "ipa": "mɔːɹ ðən ɔːl ˈʌðɚ deɪz ɪn ðə jɪɹ",
+    "translation": {"zh": "比一年中其他任何日子都更甚，"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "more than", "lemma": "more", "ipa": "mɔːɹ ðən", "translation": {"zh": "更甚于", "en": "more than"}, "emoji": "⬆️"},
+      {"text": "all other days", "lemma": "day", "ipa": "ɔːl ˈʌðɚ deɪz", "translation": {"zh": "其他日子", "en": "all other days"}, "emoji": "📆"},
+      {"text": "in the year", "lemma": "year", "ipa": "ɪn ðə jɪɹ", "translation": {"zh": "一年中", "en": "in the year"}, "emoji": "🗓️"}
+    ],
+    "tags": [{"name": "What to the Slave is the Fourth of July", "index": 3}]
+  },
+  {
+    "text": "the gross injustice and cruelty",
+    "ipa": "ðə ɡɹoʊs ɪnˈdʒʌstɪs ənd ˈkɹuːəlti",
+    "translation": {"zh": "那滔天的不公与残酷，"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "the gross injustice", "lemma": "injustice", "ipa": "ðə ɡɹoʊs ɪnˈdʒʌstɪs", "translation": {"zh": "滔天不公", "en": "gross injustice"}, "emoji": "⚖️"},
+      {"text": "and cruelty", "lemma": "cruelty", "ipa": "ənd ˈkɹuːəlti", "translation": {"zh": "与残酷", "en": "and cruelty"}, "emoji": "💔"}
+    ],
+    "tags": [{"name": "What to the Slave is the Fourth of July", "index": 4}]
+  },
+  {
+    "text": "to which he is the constant victim.",
+    "ipa": "tə wɪtʃ hiː ɪz ðə ˈkɑnstənt ˈvɪktɪm",
+    "translation": {"zh": "他是其中长期的受害者。"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "to which", "lemma": "which", "ipa": "tə wɪtʃ", "translation": {"zh": "对此", "en": "to which"}, "emoji": ""},
+      {"text": "he is", "lemma": "be", "ipa": "hiː ɪz", "translation": {"zh": "他是", "en": "he is"}, "emoji": ""},
+      {"text": "the constant victim", "lemma": "victim", "ipa": "ðə ˈkɑnstənt ˈvɪktɪm", "translation": {"zh": "长期受害者", "en": "constant victim"}, "emoji": "😢"}
+    ],
+    "tags": [{"name": "What to the Slave is the Fourth of July", "index": 5}]
+  }
+]

@@ -1,0 +1,318 @@
+[
+  {
+    "input_text": "举办",
+    "entries": [
+      {
+        "text": "举办",
+        "pinyin": "jǔ bàn",
+        "en": "host, organize",
+        "emoji": "🎪"
+      }
+    ]
+  },
+  {
+    "input_text": "举行",
+    "entries": [
+      {
+        "text": "举行",
+        "pinyin": "jǔ xíng",
+        "en": "hold, conduct",
+        "emoji": "🎗️"
+      }
+    ]
+  },
+  {
+    "input_text": "拒绝",
+    "entries": [
+      {
+        "text": "拒绝",
+        "pinyin": "jù jué",
+        "en": "refuse, reject",
+        "emoji": "🚫"
+      }
+    ]
+  },
+  {
+    "input_text": "距离",
+    "entries": [
+      {
+        "text": "距离",
+        "pinyin": "jù lí",
+        "en": "distance",
+        "emoji": "📏"
+      }
+    ]
+  },
+  {
+    "input_text": "聚会",
+    "entries": [
+      {
+        "text": "聚会",
+        "pinyin": "jù huì",
+        "en": "gathering, party",
+        "emoji": "🎉"
+      }
+    ]
+  },
+  {
+    "input_text": "开玩笑",
+    "entries": [
+      {
+        "text": "开玩笑",
+        "pinyin": "kāi wán xiào",
+        "en": "joke, kid around",
+        "emoji": "😄"
+      }
+    ]
+  },
+  {
+    "input_text": "开心",
+    "entries": [
+      {
+        "text": "开心",
+        "pinyin": "kāi xīn",
+        "en": "happy, joyful",
+        "emoji": "😊"
+      }
+    ]
+  },
+  {
+    "input_text": "看法",
+    "entries": [
+      {
+        "text": "看法",
+        "pinyin": "kàn fǎ",
+        "en": "view, opinion",
+        "emoji": "💭"
+      }
+    ]
+  },
+  {
+    "input_text": "考虑",
+    "entries": [
+      {
+        "text": "考虑",
+        "pinyin": "kǎo lǜ",
+        "en": "consider, think over",
+        "emoji": "🤔"
+      }
+    ]
+  },
+  {
+    "input_text": "烤鸭",
+    "entries": [
+      {
+        "text": "烤鸭",
+        "pinyin": "kǎo yā",
+        "en": "roast duck",
+        "emoji": "🦆"
+      }
+    ]
+  },
+  {
+    "input_text": "科学",
+    "entries": [
+      {
+        "text": "科学",
+        "pinyin": "kē xué",
+        "en": "science",
+        "emoji": "🔬"
+      }
+    ]
+  },
+  {
+    "input_text": "棵",
+    "entries": []
+  },
+  {
+    "input_text": "咳嗽",
+    "entries": [
+      {
+        "text": "咳嗽",
+        "pinyin": "ké sou",
+        "en": "cough",
+        "emoji": "🤧"
+      }
+    ]
+  },
+  {
+    "input_text": "可怜",
+    "entries": [
+      {
+        "text": "可怜",
+        "pinyin": "kě lián",
+        "en": "pitiful, poor",
+        "emoji": "😢"
+      }
+    ]
+  },
+  {
+    "input_text": "可是",
+    "entries": []
+  },
+  {
+    "input_text": "可惜",
+    "entries": [
+      {
+        "text": "可惜",
+        "pinyin": "kě xī",
+        "en": "it's a pity",
+        "emoji": "😞"
+      }
+    ]
+  },
+  {
+    "input_text": "客厅",
+    "entries": [
+      {
+        "text": "客厅",
+        "pinyin": "kè tīng",
+        "en": "living room",
+        "emoji": "🛋️"
+      }
+    ]
+  },
+  {
+    "input_text": "肯定",
+    "entries": [
+      {
+        "text": "肯定",
+        "pinyin": "kěn dìng",
+        "en": "certain, definitely",
+        "emoji": "✅"
+      }
+    ]
+  },
+  {
+    "input_text": "空",
+    "entries": [
+      {
+        "text": "空",
+        "pinyin": "kōng",
+        "en": "empty, free time",
+        "emoji": "🕳️"
+      }
+    ]
+  },
+  {
+    "input_text": "空气",
+    "entries": [
+      {
+        "text": "空气",
+        "pinyin": "kōng qì",
+        "en": "air",
+        "emoji": "💨"
+      }
+    ]
+  },
+  {
+    "input_text": "恐怕",
+    "entries": [
+      {
+        "text": "恐怕",
+        "pinyin": "kǒng pà",
+        "en": "I'm afraid, probably",
+        "emoji": "😰"
+      }
+    ]
+  },
+  {
+    "input_text": "苦",
+    "entries": [
+      {
+        "text": "苦",
+        "pinyin": "kǔ",
+        "en": "bitter, hard",
+        "emoji": "😣"
+      }
+    ]
+  },
+  {
+    "input_text": "矿泉水",
+    "entries": [
+      {
+        "text": "矿泉水",
+        "pinyin": "kuàng quán shuǐ",
+        "en": "mineral water",
+        "emoji": "💧"
+      }
+    ]
+  },
+  {
+    "input_text": "困",
+    "entries": [
+      {
+        "text": "困",
+        "pinyin": "kùn",
+        "en": "sleepy, tired",
+        "emoji": "😴"
+      }
+    ]
+  },
+  {
+    "input_text": "困难",
+    "entries": [
+      {
+        "text": "困难",
+        "pinyin": "kùn nán",
+        "en": "difficulty, hardship",
+        "emoji": "😓"
+      }
+    ]
+  },
+  {
+    "input_text": "垃圾桶",
+    "entries": [
+      {
+        "text": "垃圾桶",
+        "pinyin": "lā jī tǒng",
+        "en": "trash can",
+        "emoji": "🗑️"
+      }
+    ]
+  },
+  {
+    "input_text": "拉",
+    "entries": [
+      {
+        "text": "拉",
+        "pinyin": "lā",
+        "en": "pull, drag",
+        "emoji": "💪"
+      }
+    ]
+  },
+  {
+    "input_text": "辣",
+    "entries": [
+      {
+        "text": "辣",
+        "pinyin": "là",
+        "en": "spicy, hot",
+        "emoji": "🌶️"
+      }
+    ]
+  },
+  {
+    "input_text": "来不及",
+    "entries": [
+      {
+        "text": "来不及",
+        "pinyin": "lái bu jí",
+        "en": "too late, no time",
+        "emoji": "⏰"
+      }
+    ]
+  },
+  {
+    "input_text": "来得及",
+    "entries": [
+      {
+        "text": "来得及",
+        "pinyin": "lái de jí",
+        "en": "still in time",
+        "emoji": "⏱️"
+      }
+    ]
+  }
+]

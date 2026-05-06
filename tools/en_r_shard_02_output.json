@@ -1,0 +1,187 @@
+[
+  {
+    "input_word": "related",
+    "entries": [
+      {"text": "related", "ipa": "/rɪˈleɪtɪd/", "cefr": "B1", "zh": "相关的", "emoji": "🔗"}
+    ]
+  },
+  {
+    "input_word": "relation",
+    "entries": [
+      {"text": "relation", "ipa": "/rɪˈleɪʃən/", "cefr": "B1", "zh": "关系", "emoji": "🔗"}
+    ]
+  },
+  {
+    "input_word": "relationship",
+    "entries": [
+      {"text": "relationship", "ipa": "/rɪˈleɪʃənʃɪp/", "cefr": "A2", "zh": "关系", "emoji": "❤️"}
+    ]
+  },
+  {
+    "input_word": "relative",
+    "entries": [
+      {"text": "relative", "ipa": "/ˈrɛlətɪv/", "cefr": "B1", "zh": "亲戚", "emoji": "👨‍👩‍👧"},
+      {"text": "relative", "ipa": "/ˈrɛlətɪv/", "cefr": "B1", "zh": "相对的", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "relatively",
+    "entries": [
+      {"text": "relatively", "ipa": "/ˈrɛlətɪvli/", "cefr": "B2", "zh": "相对地", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "relax",
+    "entries": [
+      {"text": "relax", "ipa": "/rɪˈlæks/", "cefr": "A1", "zh": "放松", "emoji": "😌"}
+    ]
+  },
+  {
+    "input_word": "relaxed",
+    "entries": [
+      {"text": "relaxed", "ipa": "/rɪˈlækst/", "cefr": "B1", "zh": "放松的", "emoji": "😌"}
+    ]
+  },
+  {
+    "input_word": "relaxing",
+    "entries": [
+      {"text": "relaxing", "ipa": "/rɪˈlæksɪŋ/", "cefr": "B1", "zh": "令人放松", "emoji": "🛁"}
+    ]
+  },
+  {
+    "input_word": "release",
+    "entries": [
+      {"text": "release", "ipa": "/rɪˈliːs/", "cefr": "B1", "zh": "释放", "emoji": "🕊️"},
+      {"text": "release", "ipa": "/rɪˈliːs/", "cefr": "B1", "zh": "发布", "emoji": "📢"}
+    ]
+  },
+  {
+    "input_word": "relevant",
+    "entries": [
+      {"text": "relevant", "ipa": "/ˈrɛləvənt/", "cefr": "B2", "zh": "相关的", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_word": "reliable",
+    "entries": [
+      {"text": "reliable", "ipa": "/rɪˈlaɪəbəl/", "cefr": "B1", "zh": "可靠的", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_word": "relief",
+    "entries": [
+      {"text": "relief", "ipa": "/rɪˈliːf/", "cefr": "B2", "zh": "宽慰", "emoji": "😮‍💨"}
+    ]
+  },
+  {
+    "input_word": "religion",
+    "entries": [
+      {"text": "religion", "ipa": "/rɪˈlɪdʒən/", "cefr": "B1", "zh": "宗教", "emoji": "🙏"}
+    ]
+  },
+  {
+    "input_word": "religious",
+    "entries": [
+      {"text": "religious", "ipa": "/rɪˈlɪdʒəs/", "cefr": "B1", "zh": "宗教的", "emoji": "⛪"}
+    ]
+  },
+  {
+    "input_word": "rely",
+    "entries": [
+      {"text": "rely", "ipa": "/rɪˈlaɪ/", "cefr": "B2", "zh": "依赖", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "remain",
+    "entries": [
+      {"text": "remain", "ipa": "/rɪˈmeɪn/", "cefr": "B1", "zh": "保持", "emoji": "⏳"}
+    ]
+  },
+  {
+    "input_word": "remark",
+    "entries": [
+      {"text": "remark", "ipa": "/rɪˈmɑːrk/", "cefr": "B2", "zh": "评论", "emoji": "💬"}
+    ]
+  },
+  {
+    "input_word": "remember",
+    "entries": [
+      {"text": "remember", "ipa": "/rɪˈmɛmbər/", "cefr": "A1", "zh": "记得", "emoji": "🧠"}
+    ]
+  },
+  {
+    "input_word": "remind",
+    "entries": [
+      {"text": "remind", "ipa": "/rɪˈmaɪnd/", "cefr": "B1", "zh": "提醒", "emoji": "🔔"}
+    ]
+  },
+  {
+    "input_word": "remote",
+    "entries": [
+      {"text": "remote", "ipa": "/rɪˈmoʊt/", "cefr": "B1", "zh": "偏远的", "emoji": "🏔️"},
+      {"text": "remote", "ipa": "/rɪˈmoʊt/", "cefr": "B1", "zh": "遥控器", "emoji": "📺"}
+    ]
+  },
+  {
+    "input_word": "remove",
+    "entries": [
+      {"text": "remove", "ipa": "/rɪˈmuːv/", "cefr": "A2", "zh": "移除", "emoji": "🗑️"}
+    ]
+  },
+  {
+    "input_word": "rent",
+    "entries": [
+      {"text": "rent", "ipa": "/rɛnt/", "cefr": "B1", "zh": "租金", "emoji": "🏠"},
+      {"text": "rent", "ipa": "/rɛnt/", "cefr": "B1", "zh": "租用", "emoji": "🔑"}
+    ]
+  },
+  {
+    "input_word": "repair",
+    "entries": [
+      {"text": "repair", "ipa": "/rɪˈpɛr/", "cefr": "A2", "zh": "修理", "emoji": "🔧"}
+    ]
+  },
+  {
+    "input_word": "repeat",
+    "entries": [
+      {"text": "repeat", "ipa": "/rɪˈpiːt/", "cefr": "A1", "zh": "重复", "emoji": "🔁"}
+    ]
+  },
+  {
+    "input_word": "repeated",
+    "entries": [
+      {"text": "repeated", "ipa": "/rɪˈpiːtɪd/", "cefr": "B1", "zh": "反复的", "emoji": "🔁"}
+    ]
+  },
+  {
+    "input_word": "replace",
+    "entries": [
+      {"text": "replace", "ipa": "/rɪˈpleɪs/", "cefr": "A2", "zh": "替换", "emoji": "🔄"}
+    ]
+  },
+  {
+    "input_word": "reply",
+    "entries": [
+      {"text": "reply", "ipa": "/rɪˈplaɪ/", "cefr": "A2", "zh": "回复", "emoji": "↩️"}
+    ]
+  },
+  {
+    "input_word": "report",
+    "entries": [
+      {"text": "report", "ipa": "/rɪˈpɔːrt/", "cefr": "A1", "zh": "报告", "emoji": "📄"},
+      {"text": "report", "ipa": "/rɪˈpɔːrt/", "cefr": "A1", "zh": "报道", "emoji": "📰"}
+    ]
+  },
+  {
+    "input_word": "reporter",
+    "entries": [
+      {"text": "reporter", "ipa": "/rɪˈpɔːrtər/", "cefr": "A2", "zh": "记者", "emoji": "🎤"}
+    ]
+  },
+  {
+    "input_word": "represent",
+    "entries": [
+      {"text": "represent", "ipa": "/ˌrɛprɪˈzɛnt/", "cefr": "B1", "zh": "代表", "emoji": "🏛️"}
+    ]
+  }
+]

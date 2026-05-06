@@ -1,0 +1,275 @@
+[
+  {
+    "text": "le col",
+    "ipa": "lə kɔl",
+    "translation": {"zh": "山口；衣领", "en": "mountain pass; collar"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le col", "lemma": "col", "ipa": "lə kɔl", "translation": {"zh": "山口；衣领", "en": "collar / pass"}, "emoji": "🏔️"}
+    ]
+  },
+  {
+    "text": "un auditeur",
+    "ipa": "œ̃ oditœʁ",
+    "translation": {"zh": "听众；审计员", "en": "listener; auditor"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un auditeur", "lemma": "auditeur", "ipa": "œ̃ oditœʁ", "translation": {"zh": "听众", "en": "listener"}, "emoji": "👂"}
+    ]
+  },
+  {
+    "text": "débarrasse la table",
+    "ipa": "debaʁas la tabl",
+    "translation": {"zh": "收拾桌子", "en": "clear the table"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "débarrasse la table", "lemma": "débarrasser", "ipa": "debaʁas la tabl", "translation": {"zh": "收拾桌子", "en": "clear the table"}, "emoji": "🍽️"}
+    ]
+  },
+  {
+    "text": "au présent",
+    "ipa": "o pʁezɑ̃",
+    "translation": {"zh": "在现在时；在当下", "en": "in the present"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "au présent", "lemma": "présent", "ipa": "o pʁezɑ̃", "translation": {"zh": "现在时", "en": "present tense"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une croix",
+    "ipa": "yn kʁwa",
+    "translation": {"zh": "十字形；十字架", "en": "cross"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une croix", "lemma": "croix", "ipa": "yn kʁwa", "translation": {"zh": "十字架", "en": "cross"}, "emoji": "✝️"}
+    ]
+  },
+  {
+    "text": "une obligation",
+    "ipa": "yn ɔbliɡasjɔ̃",
+    "translation": {"zh": "义务；责任", "en": "obligation"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une obligation", "lemma": "obligation", "ipa": "yn ɔbliɡasjɔ̃", "translation": {"zh": "义务", "en": "obligation"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "ça s'arrange",
+    "ipa": "sa saʁɑ̃ʒ",
+    "translation": {"zh": "会好起来的", "en": "it'll work out"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ça s'arrange", "lemma": "arranger", "ipa": "sa saʁɑ̃ʒ", "translation": {"zh": "会好起来", "en": "it works out"}, "emoji": "👍"}
+    ]
+  },
+  {
+    "text": "néanmoins",
+    "ipa": "neɑ̃mwɛ̃",
+    "translation": {"zh": "尽管如此", "en": "nevertheless"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "néanmoins", "lemma": "néanmoins", "ipa": "neɑ̃mwɛ̃", "translation": {"zh": "尽管如此", "en": "nevertheless"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un local",
+    "ipa": "œ̃ lɔkal",
+    "translation": {"zh": "场所；本地的", "en": "premises; local"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un local", "lemma": "local", "ipa": "œ̃ lɔkal", "translation": {"zh": "场所", "en": "premises"}, "emoji": "🏠"}
+    ]
+  },
+  {
+    "text": "un empire",
+    "ipa": "œ̃ ɑ̃piʁ",
+    "translation": {"zh": "帝国", "en": "empire"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un empire", "lemma": "empire", "ipa": "œ̃ ɑ̃piʁ", "translation": {"zh": "帝国", "en": "empire"}, "emoji": "👑"}
+    ]
+  },
+  {
+    "text": "une poignée de sel",
+    "ipa": "yn pwaɲe də sɛl",
+    "translation": {"zh": "一把盐", "en": "a handful of salt"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une poignée de sel", "lemma": "poignée", "ipa": "yn pwaɲe də sɛl", "translation": {"zh": "一把盐", "en": "a handful of salt"}, "emoji": "🤏"}
+    ]
+  },
+  {
+    "text": "il lui reproche son retard",
+    "ipa": "il lɥi ʁəpʁɔʃ sɔ̃ ʁətaʁ",
+    "translation": {"zh": "他责备他迟到", "en": "he blames him for being late"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "il lui reproche", "lemma": "reprocher", "ipa": "il lɥi ʁəpʁɔʃ", "translation": {"zh": "责备他", "en": "blames him"}, "emoji": ""},
+      {"text": "son retard", "lemma": "retard", "ipa": "sɔ̃ ʁətaʁ", "translation": {"zh": "他的迟到", "en": "his lateness"}, "emoji": "⏰"}
+    ]
+  },
+  {
+    "text": "grimper à l'arbre",
+    "ipa": "ɡʁɛ̃pe a laʁbʁ",
+    "translation": {"zh": "爬树", "en": "climb the tree"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "grimper à l'arbre", "lemma": "grimper", "ipa": "ɡʁɛ̃pe a laʁbʁ", "translation": {"zh": "爬树", "en": "climb the tree"}, "emoji": "🌳"}
+    ]
+  },
+  {
+    "text": "de la colle",
+    "ipa": "də la kɔl",
+    "translation": {"zh": "胶水", "en": "glue"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "de la colle", "lemma": "colle", "ipa": "də la kɔl", "translation": {"zh": "胶水", "en": "glue"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "l'oiseau s'est envolé",
+    "ipa": "lwazo sɛ ɑ̃vɔle",
+    "translation": {"zh": "鸟飞走了", "en": "the bird flew away"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'oiseau", "lemma": "oiseau", "ipa": "lwazo", "translation": {"zh": "鸟", "en": "bird"}, "emoji": "🐦"},
+      {"text": "s'est envolé", "lemma": "envoler", "ipa": "sɛ ɑ̃vɔle", "translation": {"zh": "飞走了", "en": "flew away"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un groupe ethnique",
+    "ipa": "œ̃ ɡʁup ɛtnik",
+    "translation": {"zh": "民族群体", "en": "an ethnic group"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un groupe ethnique", "lemma": "ethnique", "ipa": "œ̃ ɡʁup ɛtnik", "translation": {"zh": "民族群体", "en": "ethnic group"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "véritablement",
+    "ipa": "veʁitabləmɑ̃",
+    "translation": {"zh": "真正地", "en": "truly"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "véritablement", "lemma": "véritablement", "ipa": "veʁitabləmɑ̃", "translation": {"zh": "真正地", "en": "truly"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "enfoncer un clou",
+    "ipa": "ɑ̃fɔ̃se œ̃ klu",
+    "translation": {"zh": "钉一颗钉子", "en": "drive in a nail"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "enfoncer un clou", "lemma": "enfoncer", "ipa": "ɑ̃fɔ̃se œ̃ klu", "translation": {"zh": "钉钉子", "en": "drive in a nail"}, "emoji": "🔨"}
+    ]
+  },
+  {
+    "text": "en vain",
+    "ipa": "ɑ̃ vɛ̃",
+    "translation": {"zh": "徒劳地", "en": "in vain"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "en vain", "lemma": "vain", "ipa": "ɑ̃ vɛ̃", "translation": {"zh": "徒劳地", "en": "in vain"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un rythme régulier",
+    "ipa": "œ̃ ʁitm ʁeɡylje",
+    "translation": {"zh": "规律的节奏", "en": "a regular rhythm"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un rythme régulier", "lemma": "régulier", "ipa": "œ̃ ʁitm ʁeɡylje", "translation": {"zh": "规律节奏", "en": "regular rhythm"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un inconnu",
+    "ipa": "œ̃ ɛ̃kɔny",
+    "translation": {"zh": "陌生人；未知数", "en": "a stranger; an unknown"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un inconnu", "lemma": "inconnu", "ipa": "œ̃ ɛ̃kɔny", "translation": {"zh": "陌生人", "en": "stranger"}, "emoji": "🕵️"}
+    ]
+  },
+  {
+    "text": "tu plaisantes",
+    "ipa": "ty plɛzɑ̃t",
+    "translation": {"zh": "你在开玩笑", "en": "you're joking"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "tu plaisantes", "lemma": "plaisanter", "ipa": "ty plɛzɑ̃t", "translation": {"zh": "你在开玩笑", "en": "you're joking"}, "emoji": "😄"}
+    ]
+  },
+  {
+    "text": "nettoyer la cuisine",
+    "ipa": "netwaje la kɥizin",
+    "translation": {"zh": "打扫厨房", "en": "clean the kitchen"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "nettoyer la cuisine", "lemma": "nettoyer", "ipa": "netwaje la kɥizin", "translation": {"zh": "打扫厨房", "en": "clean the kitchen"}, "emoji": "🧹"}
+    ]
+  },
+  {
+    "text": "adieu",
+    "ipa": "adjø",
+    "translation": {"zh": "永别；再见", "en": "farewell"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "adieu", "lemma": "adieu", "ipa": "adjø", "translation": {"zh": "永别", "en": "farewell"}, "emoji": "👋"}
+    ]
+  },
+  {
+    "text": "une pousse de bambou",
+    "ipa": "yn pus də bɑ̃bu",
+    "translation": {"zh": "竹笋", "en": "a bamboo shoot"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une pousse de bambou", "lemma": "pousse", "ipa": "yn pus də bɑ̃bu", "translation": {"zh": "竹笋", "en": "bamboo shoot"}, "emoji": "🌱"}
+    ]
+  },
+  {
+    "text": "tantôt chaud tantôt froid",
+    "ipa": "tɑ̃to ʃo tɑ̃to fʁwa",
+    "translation": {"zh": "时而热时而冷", "en": "sometimes hot, sometimes cold"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "tantôt chaud", "lemma": "tantôt", "ipa": "tɑ̃to ʃo", "translation": {"zh": "时而热", "en": "sometimes hot"}, "emoji": ""},
+      {"text": "tantôt froid", "lemma": "tantôt", "ipa": "tɑ̃to fʁwa", "translation": {"zh": "时而冷", "en": "sometimes cold"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une réponse immédiate",
+    "ipa": "yn ʁepɔ̃s imedjat",
+    "translation": {"zh": "立即的回应", "en": "an immediate response"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une réponse immédiate", "lemma": "immédiat", "ipa": "yn ʁepɔ̃s imedjat", "translation": {"zh": "立即回应", "en": "immediate response"}, "emoji": "⚡"}
+    ]
+  },
+  {
+    "text": "commenter l'actualité",
+    "ipa": "kɔmɑ̃te laktyalite",
+    "translation": {"zh": "评论时事", "en": "comment on current events"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "commenter l'actualité", "lemma": "commenter", "ipa": "kɔmɑ̃te laktyalite", "translation": {"zh": "评论时事", "en": "comment on news"}, "emoji": "💬"}
+    ]
+  },
+  {
+    "text": "passer une commande",
+    "ipa": "pase yn kɔmɑ̃d",
+    "translation": {"zh": "下一个订单", "en": "place an order"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "passer une commande", "lemma": "commande", "ipa": "pase yn kɔmɑ̃d", "translation": {"zh": "下订单", "en": "place an order"}, "emoji": "🛒"}
+    ]
+  },
+  {
+    "text": "c'est délicieux",
+    "ipa": "se delisjø",
+    "translation": {"zh": "这很好吃", "en": "it's delicious"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "c'est délicieux", "lemma": "délicieux", "ipa": "se delisjø", "translation": {"zh": "这很美味", "en": "it's delicious"}, "emoji": "😋"}
+    ]
+  }
+]

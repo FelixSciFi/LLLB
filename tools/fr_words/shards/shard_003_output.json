@@ -1,0 +1,283 @@
+[
+  {
+    "text": "en face",
+    "ipa": "ɑ̃ fas",
+    "translation": {"zh": "对面", "en": "opposite, across"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "en face", "lemma": "face", "ipa": "ɑ̃ fas", "translation": {"zh": "对面", "en": "opposite"}, "emoji": "↔️"}
+    ]
+  },
+  {
+    "text": "plutôt",
+    "ipa": "ply.to",
+    "translation": {"zh": "宁可，倒是", "en": "rather, instead"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "plutôt", "lemma": "plutôt", "ipa": "ply.to", "translation": {"zh": "宁可", "en": "rather"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "je préfère le thé",
+    "ipa": "ʒə pʁe.fɛʁ lə te",
+    "translation": {"zh": "我更喜欢茶", "en": "I prefer tea"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je préfère", "lemma": "préférer", "ipa": "ʒə pʁe.fɛʁ", "translation": {"zh": "我更喜欢", "en": "I prefer"}, "emoji": ""},
+      {"text": "le thé", "lemma": "thé", "ipa": "lə te", "translation": {"zh": "茶", "en": "tea"}, "emoji": "🍵"}
+    ]
+  },
+  {
+    "text": "le corps",
+    "ipa": "lə kɔʁ",
+    "translation": {"zh": "身体", "en": "the body"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le corps", "lemma": "corps", "ipa": "lə kɔʁ", "translation": {"zh": "身体", "en": "body"}, "emoji": "🧍"}
+    ]
+  },
+  {
+    "text": "le cœur",
+    "ipa": "lə kœʁ",
+    "translation": {"zh": "心脏，内心", "en": "the heart"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le cœur", "lemma": "coeur", "ipa": "lə kœʁ", "translation": {"zh": "心脏", "en": "heart"}, "emoji": "❤️"}
+    ]
+  },
+  {
+    "text": "une demande",
+    "ipa": "yn də.mɑ̃d",
+    "translation": {"zh": "一个请求", "en": "a request"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une demande", "lemma": "demande", "ipa": "yn də.mɑ̃d", "translation": {"zh": "请求", "en": "request"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "jeter un œil",
+    "ipa": "ʒə.te œ̃ œj",
+    "translation": {"zh": "看一眼", "en": "take a look"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "jeter", "lemma": "jeter", "ipa": "ʒə.te", "translation": {"zh": "扔，投", "en": "to throw"}, "emoji": ""},
+      {"text": "un œil", "lemma": "œil", "ipa": "œ̃ œj", "translation": {"zh": "一眼", "en": "a look"}, "emoji": "👁️"}
+    ]
+  },
+  {
+    "text": "un château",
+    "ipa": "œ̃ ʃa.to",
+    "translation": {"zh": "一座城堡", "en": "a castle"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un château", "lemma": "château", "ipa": "œ̃ ʃa.to", "translation": {"zh": "城堡", "en": "castle"}, "emoji": "🏰"}
+    ]
+  },
+  {
+    "text": "une information",
+    "ipa": "yn ɛ̃.fɔʁ.ma.sjɔ̃",
+    "translation": {"zh": "一条信息", "en": "a piece of information"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une information", "lemma": "information", "ipa": "yn ɛ̃.fɔʁ.ma.sjɔ̃", "translation": {"zh": "信息", "en": "information"}, "emoji": "ℹ️"}
+    ]
+  },
+  {
+    "text": "reprendre le travail",
+    "ipa": "ʁə.pʁɑ̃dʁ lə tʁa.vaj",
+    "translation": {"zh": "重新开始工作", "en": "resume work"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "reprendre", "lemma": "reprendre", "ipa": "ʁə.pʁɑ̃dʁ", "translation": {"zh": "重新开始", "en": "to resume"}, "emoji": ""},
+      {"text": "le travail", "lemma": "travail", "ipa": "lə tʁa.vaj", "translation": {"zh": "工作", "en": "work"}, "emoji": "💼"}
+    ]
+  },
+  {
+    "text": "à cause de toi",
+    "ipa": "a koz də twa",
+    "translation": {"zh": "因为你", "en": "because of you"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "à cause de toi", "lemma": "cause", "ipa": "a koz də twa", "translation": {"zh": "因为你", "en": "because of you"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "au bout de la rue",
+    "ipa": "o bu də la ʁy",
+    "translation": {"zh": "在街道尽头", "en": "at the end of the street"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "au bout de", "lemma": "bout", "ipa": "o bu də", "translation": {"zh": "在…尽头", "en": "at the end of"}, "emoji": ""},
+      {"text": "la rue", "lemma": "rue", "ipa": "la ʁy", "translation": {"zh": "街道", "en": "street"}, "emoji": "🛣️"}
+    ]
+  },
+  {
+    "text": "celui-ci",
+    "ipa": "sə.lɥi.si",
+    "translation": {"zh": "这个（人/物）", "en": "this one"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "celui-ci", "lemma": "-ci", "ipa": "sə.lɥi.si", "translation": {"zh": "这个", "en": "this one"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "d'origine française",
+    "ipa": "dɔ.ʁi.ʒin fʁɑ̃.sɛz",
+    "translation": {"zh": "法国起源的", "en": "of French origin"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "d'origine", "lemma": "origine", "ipa": "dɔ.ʁi.ʒin", "translation": {"zh": "起源", "en": "origin"}, "emoji": ""},
+      {"text": "française", "lemma": "français", "ipa": "fʁɑ̃.sɛz", "translation": {"zh": "法国的", "en": "French"}, "emoji": "🇫🇷"}
+    ]
+  },
+  {
+    "text": "la montagne",
+    "ipa": "la mɔ̃.taɲ",
+    "translation": {"zh": "山，山脉", "en": "the mountain"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la montagne", "lemma": "montagne", "ipa": "la mɔ̃.taɲ", "translation": {"zh": "山", "en": "mountain"}, "emoji": "⛰️"}
+    ]
+  },
+  {
+    "text": "un endroit calme",
+    "ipa": "œ̃ ɑ̃.dʁwa kalm",
+    "translation": {"zh": "一个安静的地方", "en": "a quiet place"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un endroit", "lemma": "endroit", "ipa": "œ̃ ɑ̃.dʁwa", "translation": {"zh": "地方", "en": "place"}, "emoji": "📍"},
+      {"text": "calme", "lemma": "calme", "ipa": "kalm", "translation": {"zh": "安静的", "en": "quiet"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "ils se marient",
+    "ipa": "il sə ma.ʁi",
+    "translation": {"zh": "他们结婚了", "en": "they get married"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "ils se marient", "lemma": "marier", "ipa": "il sə ma.ʁi", "translation": {"zh": "他们结婚", "en": "they get married"}, "emoji": "💍"}
+    ]
+  },
+  {
+    "text": "le chemin",
+    "ipa": "lə ʃə.mɛ̃",
+    "translation": {"zh": "小路，途径", "en": "the path"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le chemin", "lemma": "chemin", "ipa": "lə ʃə.mɛ̃", "translation": {"zh": "小路", "en": "path"}, "emoji": "🛤️"}
+    ]
+  },
+  {
+    "text": "un grand succès",
+    "ipa": "œ̃ ɡʁɑ̃ syk.sɛ",
+    "translation": {"zh": "巨大的成功", "en": "a great success"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un grand", "lemma": "grand", "ipa": "œ̃ ɡʁɑ̃", "translation": {"zh": "巨大的", "en": "great"}, "emoji": ""},
+      {"text": "succès", "lemma": "succès", "ipa": "syk.sɛ", "translation": {"zh": "成功", "en": "success"}, "emoji": "🏆"}
+    ]
+  },
+  {
+    "text": "une association",
+    "ipa": "yn a.sɔ.sja.sjɔ̃",
+    "translation": {"zh": "一个协会", "en": "an association"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une association", "lemma": "association", "ipa": "yn a.sɔ.sja.sjɔ̃", "translation": {"zh": "协会", "en": "association"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "ma sœur",
+    "ipa": "ma sœʁ",
+    "translation": {"zh": "我的姐妹", "en": "my sister"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "ma sœur", "lemma": "soeur", "ipa": "ma sœʁ", "translation": {"zh": "姐妹", "en": "sister"}, "emoji": "👧"}
+    ]
+  },
+  {
+    "text": "en ordre",
+    "ipa": "ɑ̃ ɔʁdʁ",
+    "translation": {"zh": "井然有序", "en": "in order"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "en ordre", "lemma": "ordre", "ipa": "ɑ̃ ɔʁdʁ", "translation": {"zh": "有序", "en": "in order"}, "emoji": "✅"}
+    ]
+  },
+  {
+    "text": "organiser une fête",
+    "ipa": "ɔʁ.ɡa.ni.ze yn fɛt",
+    "translation": {"zh": "组织一场派对", "en": "organize a party"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "organiser", "lemma": "organiser", "ipa": "ɔʁ.ɡa.ni.ze", "translation": {"zh": "组织", "en": "to organize"}, "emoji": ""},
+      {"text": "une fête", "lemma": "fête", "ipa": "yn fɛt", "translation": {"zh": "派对", "en": "party"}, "emoji": "🎉"}
+    ]
+  },
+  {
+    "text": "une longue journée",
+    "ipa": "yn lɔ̃ɡ ʒuʁ.ne",
+    "translation": {"zh": "漫长的一天", "en": "a long day"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une longue", "lemma": "long", "ipa": "yn lɔ̃ɡ", "translation": {"zh": "漫长的", "en": "long"}, "emoji": ""},
+      {"text": "journée", "lemma": "journée", "ipa": "ʒuʁ.ne", "translation": {"zh": "一天", "en": "day"}, "emoji": "📅"}
+    ]
+  },
+  {
+    "text": "cet après-midi",
+    "ipa": "sɛt a.pʁɛ.mi.di",
+    "translation": {"zh": "今天下午", "en": "this afternoon"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "cet après-midi", "lemma": "après-midi", "ipa": "sɛt a.pʁɛ.mi.di", "translation": {"zh": "今天下午", "en": "this afternoon"}, "emoji": "🌤️"}
+    ]
+  },
+  {
+    "text": "je suis libre",
+    "ipa": "ʒə sɥi libʁ",
+    "translation": {"zh": "我有空", "en": "I am free"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je suis libre", "lemma": "libre", "ipa": "ʒə sɥi libʁ", "translation": {"zh": "我有空", "en": "I am free"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "vendre des fruits",
+    "ipa": "vɑ̃dʁ de fʁɥi",
+    "translation": {"zh": "卖水果", "en": "sell fruits"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "vendre", "lemma": "vendre", "ipa": "vɑ̃dʁ", "translation": {"zh": "卖", "en": "to sell"}, "emoji": ""},
+      {"text": "des fruits", "lemma": "fruit", "ipa": "de fʁɥi", "translation": {"zh": "水果", "en": "fruits"}, "emoji": "🍎"}
+    ]
+  },
+  {
+    "text": "un acteur célèbre",
+    "ipa": "œ̃ ak.tœʁ se.lɛbʁ",
+    "translation": {"zh": "一位著名演员", "en": "a famous actor"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un acteur", "lemma": "acteur", "ipa": "œ̃ ak.tœʁ", "translation": {"zh": "演员", "en": "actor"}, "emoji": "🎭"},
+      {"text": "célèbre", "lemma": "célèbre", "ipa": "se.lɛbʁ", "translation": {"zh": "著名的", "en": "famous"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la mode",
+    "ipa": "la mɔd",
+    "translation": {"zh": "时尚，流行", "en": "fashion, trend"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la mode", "lemma": "mode", "ipa": "la mɔd", "translation": {"zh": "时尚", "en": "fashion"}, "emoji": "👗"}
+    ]
+  },
+  {
+    "text": "elle pleure",
+    "ipa": "ɛl plœʁ",
+    "translation": {"zh": "她在哭", "en": "she is crying"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "elle pleure", "lemma": "pleurer", "ipa": "ɛl plœʁ", "translation": {"zh": "她哭泣", "en": "she cries"}, "emoji": "😢"}
+    ]
+  }
+]

@@ -1,0 +1,183 @@
+[
+  {
+    "input_word": "newspaper",
+    "entries": [
+      {"text": "newspaper", "ipa": "/ˈnjuːzˌpeɪpər/", "cefr": "A1", "zh": "报纸", "emoji": "📰"}
+    ]
+  },
+  {
+    "input_word": "next",
+    "entries": [
+      {"text": "next", "ipa": "/nɛkst/", "cefr": "A1", "zh": "下一个", "emoji": "➡️"}
+    ]
+  },
+  {
+    "input_word": "next to",
+    "entries": [
+      {"text": "next to", "ipa": "/nɛkst tuː/", "cefr": "A1", "zh": "紧挨着", "emoji": "↔️"}
+    ]
+  },
+  {
+    "input_word": "nice",
+    "entries": [
+      {"text": "nice", "ipa": "/naɪs/", "cefr": "A1", "zh": "好的", "emoji": "😊"}
+    ]
+  },
+  {
+    "input_word": "night",
+    "entries": [
+      {"text": "night", "ipa": "/naɪt/", "cefr": "A1", "zh": "夜晚", "emoji": "🌙"}
+    ]
+  },
+  {
+    "input_word": "nightmare",
+    "entries": [
+      {"text": "nightmare", "ipa": "/ˈnaɪtˌmɛr/", "cefr": "B2", "zh": "噩梦", "emoji": "😨"}
+    ]
+  },
+  {
+    "input_word": "nine",
+    "entries": [
+      {"text": "nine", "ipa": "/naɪn/", "cefr": "A1", "zh": "九", "emoji": "9️⃣"}
+    ]
+  },
+  {
+    "input_word": "nineteen",
+    "entries": [
+      {"text": "nineteen", "ipa": "/ˌnaɪnˈtiːn/", "cefr": "A1", "zh": "十九", "emoji": "🔢"}
+    ]
+  },
+  {
+    "input_word": "ninety",
+    "entries": [
+      {"text": "ninety", "ipa": "/ˈnaɪnti/", "cefr": "A1", "zh": "九十", "emoji": "🔢"}
+    ]
+  },
+  {
+    "input_word": "no",
+    "entries": [
+      {"text": "no", "ipa": "/noʊ/", "cefr": "A1", "zh": "不", "emoji": "❌"}
+    ]
+  },
+  {
+    "input_word": "no one",
+    "entries": [
+      {"text": "no one", "ipa": "/noʊ wʌn/", "cefr": "A1", "zh": "没有人", "emoji": "🚫"}
+    ]
+  },
+  {
+    "input_word": "nobody",
+    "entries": [
+      {"text": "nobody", "ipa": "/ˈnoʊˌbɑːdi/", "cefr": "A1", "zh": "没有人", "emoji": "🚫"}
+    ]
+  },
+  {
+    "input_word": "noise",
+    "entries": [
+      {"text": "noise", "ipa": "/nɔɪz/", "cefr": "A2", "zh": "噪音", "emoji": "🔊"}
+    ]
+  },
+  {
+    "input_word": "noisy",
+    "entries": [
+      {"text": "noisy", "ipa": "/ˈnɔɪzi/", "cefr": "A2", "zh": "嘈杂的", "emoji": "📢"}
+    ]
+  },
+  {
+    "input_word": "none",
+    "entries": [
+      {"text": "none", "ipa": "/nʌn/", "cefr": "A2", "zh": "没有", "emoji": "0️⃣"}
+    ]
+  },
+  {
+    "input_word": "nor",
+    "entries": []
+  },
+  {
+    "input_word": "normal",
+    "entries": [
+      {"text": "normal", "ipa": "/ˈnɔːrməl/", "cefr": "A2", "zh": "正常的", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_word": "normally",
+    "entries": [
+      {"text": "normally", "ipa": "/ˈnɔːrməli/", "cefr": "A2", "zh": "通常", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "north",
+    "entries": [
+      {"text": "north", "ipa": "/nɔːrθ/", "cefr": "A1", "zh": "北方", "emoji": "🧭"}
+    ]
+  },
+  {
+    "input_word": "northern",
+    "entries": [
+      {"text": "northern", "ipa": "/ˈnɔːrðərn/", "cefr": "B1", "zh": "北方的", "emoji": "🧭"}
+    ]
+  },
+  {
+    "input_word": "nose",
+    "entries": [
+      {"text": "nose", "ipa": "/noʊz/", "cefr": "A1", "zh": "鼻子", "emoji": "👃"}
+    ]
+  },
+  {
+    "input_word": "not",
+    "entries": [
+      {"text": "not", "ipa": "/nɑːt/", "cefr": "A1", "zh": "不", "emoji": "❌"}
+    ]
+  },
+  {
+    "input_word": "note",
+    "entries": [
+      {"text": "note", "ipa": "/noʊt/", "cefr": "A1", "zh": "笔记", "emoji": "📝"},
+      {"text": "note", "ipa": "/noʊt/", "cefr": "A1", "zh": "音符", "emoji": "🎵"}
+    ]
+  },
+  {
+    "input_word": "nothing",
+    "entries": [
+      {"text": "nothing", "ipa": "/ˈnʌθɪŋ/", "cefr": "A1", "zh": "没有什么", "emoji": "🚫"}
+    ]
+  },
+  {
+    "input_word": "notice",
+    "entries": [
+      {"text": "notice", "ipa": "/ˈnoʊtɪs/", "cefr": "A2", "zh": "注意到", "emoji": "👀"},
+      {"text": "notice", "ipa": "/ˈnoʊtɪs/", "cefr": "A2", "zh": "通知", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_word": "notion",
+    "entries": [
+      {"text": "notion", "ipa": "/ˈnoʊʃən/", "cefr": "B2", "zh": "概念", "emoji": "💡"}
+    ]
+  },
+  {
+    "input_word": "novel",
+    "entries": [
+      {"text": "novel", "ipa": "/ˈnɑːvəl/", "cefr": "A2", "zh": "小说", "emoji": "📖"},
+      {"text": "novel", "ipa": "/ˈnɑːvəl/", "cefr": "A2", "zh": "新颖的", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_word": "november",
+    "entries": [
+      {"text": "November", "ipa": "/noʊˈvɛmbər/", "cefr": "A1", "zh": "十一月", "emoji": "🍂"}
+    ]
+  },
+  {
+    "input_word": "now",
+    "entries": [
+      {"text": "now", "ipa": "/naʊ/", "cefr": "A1", "zh": "现在", "emoji": "⏰"}
+    ]
+  },
+  {
+    "input_word": "nowhere",
+    "entries": [
+      {"text": "nowhere", "ipa": "/ˈnoʊˌwɛr/", "cefr": "A2", "zh": "哪里都不", "emoji": "🚫"}
+    ]
+  }
+]

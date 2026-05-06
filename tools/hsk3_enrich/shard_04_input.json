@@ -1,0 +1,749 @@
+[
+  {
+    "id": "a30f1ba5-c571-40ce-a282-d39ac6b69a88",
+    "text": "周末我帮妈妈打扫房间。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "周末",
+        "lemma": "周末",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "我帮",
+        "lemma": "我帮",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "妈妈",
+        "lemma": "妈妈",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "打扫",
+        "lemma": "打扫",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "房间",
+        "lemma": "房间",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "8412c7db-6704-4ca7-8c53-e7241f107a47",
+    "text": "教室还没打扫，很脏。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "教室",
+        "lemma": "教室",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "还没打扫，",
+        "lemma": "还没打扫，",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "很脏",
+        "lemma": "很脏",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "6edb354a-563a-47d2-9ddb-35a8b98dde39",
+    "text": "你暑假打算去哪儿？",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "你",
+        "lemma": "你",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "暑假",
+        "lemma": "暑假",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "打算去",
+        "lemma": "打算去",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "哪儿？",
+        "lemma": "哪儿？",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "38288c0e-4345-4b38-ab67-a62ee242ae8a",
+    "text": "他打算明年去中国留学。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他打算",
+        "lemma": "他打算",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "明年",
+        "lemma": "明年",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "去中国",
+        "lemma": "去中国",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "留学",
+        "lemma": "留学",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "b46d229c-516e-4b66-a4de-11d5877ac1dd",
+    "text": "出门别忘了带雨伞。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "出门",
+        "lemma": "出门",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "别忘了",
+        "lemma": "别忘了",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "带",
+        "lemma": "带",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "雨伞",
+        "lemma": "雨伞",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "5b4888ca-d48f-4517-ab93-cdb71c8e7ce4",
+    "text": "她带了很多东西来学校。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "她带了",
+        "lemma": "她带了",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "很多",
+        "lemma": "很多",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "东西",
+        "lemma": "东西",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "来学校",
+        "lemma": "来学校",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "c04d705b-da37-4a1d-83c2-59fd20c4f352",
+    "text": "妈妈很担心我一个人出门。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "妈妈",
+        "lemma": "妈妈",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "很担心",
+        "lemma": "很担心",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "我",
+        "lemma": "我",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "一个人",
+        "lemma": "一个人",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "出门",
+        "lemma": "出门",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "8a85dd85-fb06-4e5d-8681-0e7b86f27166",
+    "text": "不用担心，他已经到家了。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "不用担心，",
+        "lemma": "不用担心，",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "他",
+        "lemma": "他",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "已经",
+        "lemma": "已经",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "到家了",
+        "lemma": "到家了",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "1cd9c77b-2e3d-48e9-9cee-196de27f4241",
+    "text": "她给我买了一个生日蛋糕。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "她",
+        "lemma": "她",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "给我",
+        "lemma": "给我",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "买了",
+        "lemma": "买了",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "一个",
+        "lemma": "一个",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "生日蛋糕",
+        "lemma": "生日蛋糕",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "4246f183-7e13-47c0-a806-891c7dddb57b",
+    "text": "这个蛋糕太甜了，不好吃。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这个",
+        "lemma": "这个",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "蛋糕",
+        "lemma": "蛋糕",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "太甜了，",
+        "lemma": "太甜了，",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "不好吃",
+        "lemma": "不好吃",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "9a075a0c-cfe7-4e88-94ab-c9a074ce6679",
+    "text": "当然，你可以来我家吃饭。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "当然，",
+        "lemma": "当然，",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "你",
+        "lemma": "你",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "可以来",
+        "lemma": "可以来",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "我家",
+        "lemma": "我家",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "吃饭",
+        "lemma": "吃饭",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "dec5e7a0-359d-4665-a8a2-75ec3d79e971",
+    "text": "他当然知道这件事。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他",
+        "lemma": "他",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "当然",
+        "lemma": "当然",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "知道",
+        "lemma": "知道",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "这件事",
+        "lemma": "这件事",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "06bac9d4-7bdf-4e11-a3a0-b9f659f88bdc",
+    "text": "睡觉前记得关灯。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "睡觉前",
+        "lemma": "睡觉前",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "记得",
+        "lemma": "记得",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "关灯",
+        "lemma": "关灯",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "bb4e58fd-32af-46e6-83db-9f66ab5b19ec",
+    "text": "这盏灯太暗了，看不清楚。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这盏灯",
+        "lemma": "这盏灯",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "太暗了，",
+        "lemma": "太暗了，",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "看不清楚",
+        "lemma": "看不清楚",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "77265eaf-b0dd-4816-99c8-5a2540389b48",
+    "text": "这个地方的风景真美。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这个",
+        "lemma": "这个",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "地方的",
+        "lemma": "地方的",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "风景",
+        "lemma": "风景",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "真美",
+        "lemma": "真美",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "ca3317a6-7357-49be-830c-b537643263b2",
+    "text": "你知道一个好吃的地方吗？",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "你知道",
+        "lemma": "你知道",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "一个",
+        "lemma": "一个",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "好吃的",
+        "lemma": "好吃的",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "地方吗？",
+        "lemma": "地方吗？",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "a316e637-bd0c-4db3-89c6-b1f66d686770",
+    "text": "坐地铁去比较快。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "坐地铁",
+        "lemma": "坐地铁",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "去",
+        "lemma": "去",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "比较快",
+        "lemma": "比较快",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "23e586ae-ce7a-42ed-ac01-cfc46c4b23be",
+    "text": "早上地铁里人非常多。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "早上",
+        "lemma": "早上",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "地铁里",
+        "lemma": "地铁里",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "人",
+        "lemma": "人",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "非常多",
+        "lemma": "非常多",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "a6e0342f-167d-4c0f-bb58-5f154a2863d4",
+    "text": "我用手机地图找到了那条街。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我用",
+        "lemma": "我用",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "手机地图",
+        "lemma": "手机地图",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "找到了",
+        "lemma": "找到了",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "那条街",
+        "lemma": "那条街",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "6861a904-8a5b-496d-b379-f113ce8e34f2",
+    "text": "他看了半天地图还是迷路了。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他",
+        "lemma": "他",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "看了半天",
+        "lemma": "看了半天",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "地图",
+        "lemma": "地图",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "还是",
+        "lemma": "还是",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "迷路了",
+        "lemma": "迷路了",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  }
+]

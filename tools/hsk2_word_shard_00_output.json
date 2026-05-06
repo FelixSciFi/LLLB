@@ -1,0 +1,180 @@
+[
+  {
+    "input_text": "吧",
+    "entries": []
+  },
+  {
+    "input_text": "白",
+    "entries": [
+      {"text": "白", "pinyin": "bái", "en": "white", "emoji": "⚪"}
+    ]
+  },
+  {
+    "input_text": "百",
+    "entries": [
+      {"text": "百", "pinyin": "bǎi", "en": "hundred", "emoji": "💯"}
+    ]
+  },
+  {
+    "input_text": "帮助",
+    "entries": [
+      {"text": "帮助", "pinyin": "bāng zhù", "en": "help, assist", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_text": "报纸",
+    "entries": [
+      {"text": "报纸", "pinyin": "bào zhǐ", "en": "newspaper", "emoji": "📰"}
+    ]
+  },
+  {
+    "input_text": "比",
+    "entries": [
+      {"text": "比", "pinyin": "bǐ", "en": "compare, than", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "别",
+    "entries": [
+      {"text": "别", "pinyin": "bié", "en": "don't", "emoji": "🚫"}
+    ]
+  },
+  {
+    "input_text": "宾馆",
+    "entries": [
+      {"text": "宾馆", "pinyin": "bīn guǎn", "en": "hotel", "emoji": "🏨"}
+    ]
+  },
+  {
+    "input_text": "长",
+    "entries": [
+      {"text": "长", "pinyin": "cháng", "en": "long", "emoji": "📏"}
+    ]
+  },
+  {
+    "input_text": "唱歌",
+    "entries": [
+      {"text": "唱歌", "pinyin": "chàng gē", "en": "sing (a song)", "emoji": "🎤"}
+    ]
+  },
+  {
+    "input_text": "出",
+    "entries": [
+      {"text": "出", "pinyin": "chū", "en": "go out, exit", "emoji": "🚪"}
+    ]
+  },
+  {
+    "input_text": "穿",
+    "entries": [
+      {"text": "穿", "pinyin": "chuān", "en": "wear, put on", "emoji": "👗"}
+    ]
+  },
+  {
+    "input_text": "次",
+    "entries": [
+      {"text": "次", "pinyin": "cì", "en": "time, occurrence", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "从",
+    "entries": [
+      {"text": "从", "pinyin": "cóng", "en": "from, since", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "错",
+    "entries": [
+      {"text": "错", "pinyin": "cuò", "en": "wrong, mistake", "emoji": "❌"}
+    ]
+  },
+  {
+    "input_text": "打篮球",
+    "entries": [
+      {"text": "打篮球", "pinyin": "dǎ lán qiú", "en": "play basketball", "emoji": "🏀"}
+    ]
+  },
+  {
+    "input_text": "大家",
+    "entries": [
+      {"text": "大家", "pinyin": "dà jiā", "en": "everyone", "emoji": "👥"}
+    ]
+  },
+  {
+    "input_text": "到",
+    "entries": [
+      {"text": "到", "pinyin": "dào", "en": "arrive, to", "emoji": "📍"}
+    ]
+  },
+  {
+    "input_text": "得",
+    "entries": [
+      {"text": "得", "pinyin": "de", "en": "structural particle (result/degree)", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "等",
+    "entries": [
+      {"text": "等", "pinyin": "děng", "en": "wait", "emoji": "⏳"}
+    ]
+  },
+  {
+    "input_text": "弟弟",
+    "entries": [
+      {"text": "弟弟", "pinyin": "dì di", "en": "younger brother", "emoji": "👦"}
+    ]
+  },
+  {
+    "input_text": "第一",
+    "entries": [
+      {"text": "第一", "pinyin": "dì yī", "en": "first", "emoji": "🥇"}
+    ]
+  },
+  {
+    "input_text": "懂",
+    "entries": [
+      {"text": "懂", "pinyin": "dǒng", "en": "understand", "emoji": "💡"}
+    ]
+  },
+  {
+    "input_text": "对",
+    "entries": [
+      {"text": "对", "pinyin": "duì", "en": "correct, right", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_text": "房间",
+    "entries": [
+      {"text": "房间", "pinyin": "fáng jiān", "en": "room", "emoji": "🛏️"}
+    ]
+  },
+  {
+    "input_text": "非常",
+    "entries": [
+      {"text": "非常", "pinyin": "fēi cháng", "en": "very, extremely", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "服务员",
+    "entries": [
+      {"text": "服务员", "pinyin": "fú wù yuán", "en": "waiter, staff", "emoji": "🧑‍💼"}
+    ]
+  },
+  {
+    "input_text": "高",
+    "entries": [
+      {"text": "高", "pinyin": "gāo", "en": "tall, high", "emoji": "📶"}
+    ]
+  },
+  {
+    "input_text": "告诉",
+    "entries": [
+      {"text": "告诉", "pinyin": "gào su", "en": "tell, inform", "emoji": "💬"}
+    ]
+  },
+  {
+    "input_text": "哥哥",
+    "entries": [
+      {"text": "哥哥", "pinyin": "gē ge", "en": "older brother", "emoji": "👨"}
+    ]
+  }
+]

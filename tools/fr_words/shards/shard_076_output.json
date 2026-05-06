@@ -1,0 +1,282 @@
+[
+  {
+    "text": "gène",
+    "ipa": "ʒɛn",
+    "translation": {"zh": "基因", "en": "gene"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "gène", "lemma": "gène", "ipa": "ʒɛn", "translation": {"zh": "基因", "en": "gene"}, "emoji": "🧬"}
+    ]
+  },
+  {
+    "text": "suspect",
+    "ipa": "sys.pɛkt",
+    "translation": {"zh": "嫌疑人", "en": "suspect"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "suspect", "lemma": "suspect", "ipa": "sys.pɛkt", "translation": {"zh": "嫌疑人", "en": "suspect"}, "emoji": "🔍"}
+    ]
+  },
+  {
+    "text": "imbécile",
+    "ipa": "ɛ̃.be.sil",
+    "translation": {"zh": "蠢货", "en": "idiot"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "imbécile", "lemma": "imbécile", "ipa": "ɛ̃.be.sil", "translation": {"zh": "蠢货", "en": "idiot"}, "emoji": "🤦"}
+    ]
+  },
+  {
+    "text": "poignet",
+    "ipa": "pwa.ɲɛ",
+    "translation": {"zh": "手腕", "en": "wrist"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "poignet", "lemma": "poignet", "ipa": "pwa.ɲɛ", "translation": {"zh": "手腕", "en": "wrist"}, "emoji": "✋"}
+    ]
+  },
+  {
+    "text": "équilibrer le budget",
+    "ipa": "e.ki.li.bʁe lə by.ʒɛ",
+    "translation": {"zh": "平衡预算", "en": "balance the budget"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "équilibrer", "lemma": "équilibrer", "ipa": "e.ki.li.bʁe", "translation": {"zh": "平衡", "en": "balance"}, "emoji": "⚖️"},
+      {"text": "le budget", "lemma": "budget", "ipa": "lə by.ʒɛ", "translation": {"zh": "预算", "en": "the budget"}, "emoji": "💰"}
+    ]
+  },
+  {
+    "text": "cerner le problème",
+    "ipa": "sɛʁ.ne lə pʁɔ.blɛm",
+    "translation": {"zh": "找准问题所在", "en": "identify the problem"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "cerner", "lemma": "cerner", "ipa": "sɛʁ.ne", "translation": {"zh": "找准", "en": "identify"}, "emoji": "🎯"},
+      {"text": "le problème", "lemma": "problème", "ipa": "lə pʁɔ.blɛm", "translation": {"zh": "问题", "en": "the problem"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "assassin",
+    "ipa": "a.sa.sɛ̃",
+    "translation": {"zh": "杀手", "en": "assassin"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "assassin", "lemma": "assassin", "ipa": "a.sa.sɛ̃", "translation": {"zh": "杀手", "en": "assassin"}, "emoji": "🗡️"}
+    ]
+  },
+  {
+    "text": "insecte",
+    "ipa": "ɛ̃.sɛkt",
+    "translation": {"zh": "昆虫", "en": "insect"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "insecte", "lemma": "insecte", "ipa": "ɛ̃.sɛkt", "translation": {"zh": "昆虫", "en": "insect"}, "emoji": "🐛"}
+    ]
+  },
+  {
+    "text": "ordinaire",
+    "ipa": "ɔʁ.di.nɛʁ",
+    "translation": {"zh": "普通的", "en": "ordinary"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ordinaire", "lemma": "ordinaire", "ipa": "ɔʁ.di.nɛʁ", "translation": {"zh": "普通的", "en": "ordinary"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "poétique",
+    "ipa": "pɔ.e.tik",
+    "translation": {"zh": "诗意的", "en": "poetic"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "poétique", "lemma": "poétique", "ipa": "pɔ.e.tik", "translation": {"zh": "诗意的", "en": "poetic"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "école primaire",
+    "ipa": "e.kɔl pʁi.mɛʁ",
+    "translation": {"zh": "小学", "en": "primary school"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "école", "lemma": "école", "ipa": "e.kɔl", "translation": {"zh": "学校", "en": "school"}, "emoji": "🏫"},
+      {"text": "primaire", "lemma": "primaire", "ipa": "pʁi.mɛʁ", "translation": {"zh": "小学的", "en": "primary"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "frappe",
+    "ipa": "fʁap",
+    "translation": {"zh": "打击", "en": "strike"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "frappe", "lemma": "frappe", "ipa": "fʁap", "translation": {"zh": "打击", "en": "strike"}, "emoji": "👊"}
+    ]
+  },
+  {
+    "text": "elle est enceinte",
+    "ipa": "ɛl ɛ ɑ̃.sɛ̃t",
+    "translation": {"zh": "她怀孕了", "en": "she is pregnant"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "elle est", "lemma": "être", "ipa": "ɛl ɛ", "translation": {"zh": "她是", "en": "she is"}, "emoji": ""},
+      {"text": "enceinte", "lemma": "enceinte", "ipa": "ɑ̃.sɛ̃t", "translation": {"zh": "怀孕", "en": "pregnant"}, "emoji": "🤰"}
+    ]
+  },
+  {
+    "text": "répartir les tâches",
+    "ipa": "ʁe.paʁ.tiʁ le taʃ",
+    "translation": {"zh": "分配任务", "en": "distribute the tasks"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "répartir", "lemma": "répartir", "ipa": "ʁe.paʁ.tiʁ", "translation": {"zh": "分配", "en": "distribute"}, "emoji": ""},
+      {"text": "les tâches", "lemma": "tâche", "ipa": "le taʃ", "translation": {"zh": "任务", "en": "the tasks"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "tournoi",
+    "ipa": "tuʁ.nwa",
+    "translation": {"zh": "锦标赛", "en": "tournament"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "tournoi", "lemma": "tournoi", "ipa": "tuʁ.nwa", "translation": {"zh": "锦标赛", "en": "tournament"}, "emoji": "🏆"}
+    ]
+  },
+  {
+    "text": "chapelle",
+    "ipa": "ʃa.pɛl",
+    "translation": {"zh": "小礼拜堂", "en": "chapel"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "chapelle", "lemma": "chapelle", "ipa": "ʃa.pɛl", "translation": {"zh": "小礼拜堂", "en": "chapel"}, "emoji": "⛪"}
+    ]
+  },
+  {
+    "text": "garer la voiture",
+    "ipa": "ɡa.ʁe la vwa.tyʁ",
+    "translation": {"zh": "停车", "en": "park the car"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "garer", "lemma": "garer", "ipa": "ɡa.ʁe", "translation": {"zh": "停放", "en": "park"}, "emoji": "🅿️"},
+      {"text": "la voiture", "lemma": "voiture", "ipa": "la vwa.tyʁ", "translation": {"zh": "汽车", "en": "the car"}, "emoji": "🚗"}
+    ]
+  },
+  {
+    "text": "soulager la douleur",
+    "ipa": "su.la.ʒe la du.lœʁ",
+    "translation": {"zh": "缓解疼痛", "en": "relieve the pain"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "soulager", "lemma": "soulager", "ipa": "su.la.ʒe", "translation": {"zh": "缓解", "en": "relieve"}, "emoji": ""},
+      {"text": "la douleur", "lemma": "douleur", "ipa": "la du.lœʁ", "translation": {"zh": "疼痛", "en": "the pain"}, "emoji": "😣"}
+    ]
+  },
+  {
+    "text": "magie",
+    "ipa": "ma.ʒi",
+    "translation": {"zh": "魔法", "en": "magic"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "magie", "lemma": "magie", "ipa": "ma.ʒi", "translation": {"zh": "魔法", "en": "magic"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "parfaire son style",
+    "ipa": "paʁ.fɛʁ sɔ̃ stil",
+    "translation": {"zh": "完善自己的风格", "en": "perfect one's style"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "parfaire", "lemma": "parfaire", "ipa": "paʁ.fɛʁ", "translation": {"zh": "完善", "en": "perfect"}, "emoji": ""},
+      {"text": "son style", "lemma": "style", "ipa": "sɔ̃ stil", "translation": {"zh": "风格", "en": "one's style"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "illustration",
+    "ipa": "i.lys.tʁa.sjɔ̃",
+    "translation": {"zh": "插图", "en": "illustration"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "illustration", "lemma": "illustration", "ipa": "i.lys.tʁa.sjɔ̃", "translation": {"zh": "插图", "en": "illustration"}, "emoji": "🖼️"}
+    ]
+  },
+  {
+    "text": "orgueil",
+    "ipa": "ɔʁ.ɡœj",
+    "translation": {"zh": "骄傲", "en": "pride"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "orgueil", "lemma": "orgueil", "ipa": "ɔʁ.ɡœj", "translation": {"zh": "骄傲", "en": "pride"}, "emoji": "😤"}
+    ]
+  },
+  {
+    "text": "heurter un mur",
+    "ipa": "œʁ.te ɛ̃ myʁ",
+    "translation": {"zh": "撞上一堵墙", "en": "hit a wall"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "heurter", "lemma": "heurter", "ipa": "œʁ.te", "translation": {"zh": "撞上", "en": "hit"}, "emoji": "💥"},
+      {"text": "un mur", "lemma": "mur", "ipa": "ɛ̃ myʁ", "translation": {"zh": "墙", "en": "a wall"}, "emoji": "🧱"}
+    ]
+  },
+  {
+    "text": "label",
+    "ipa": "la.bɛl",
+    "translation": {"zh": "标签", "en": "label"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "label", "lemma": "label", "ipa": "la.bɛl", "translation": {"zh": "标签", "en": "label"}, "emoji": "🏷️"}
+    ]
+  },
+  {
+    "text": "jalousie",
+    "ipa": "ʒa.lu.zi",
+    "translation": {"zh": "嫉妒", "en": "jealousy"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "jalousie", "lemma": "jalousie", "ipa": "ʒa.lu.zi", "translation": {"zh": "嫉妒", "en": "jealousy"}, "emoji": "😒"}
+    ]
+  },
+  {
+    "text": "exotisme",
+    "ipa": "ɛɡ.zɔ.tism",
+    "translation": {"zh": "异域风情", "en": "exoticism"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "exotisme", "lemma": "exotisme", "ipa": "ɛɡ.zɔ.tism", "translation": {"zh": "异域风情", "en": "exoticism"}, "emoji": "🌴"}
+    ]
+  },
+  {
+    "text": "substituer un mot",
+    "ipa": "syb.sti.tɥe ɛ̃ mo",
+    "translation": {"zh": "替换一个词", "en": "substitute a word"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "substituer", "lemma": "substituer", "ipa": "syb.sti.tɥe", "translation": {"zh": "替换", "en": "substitute"}, "emoji": ""},
+      {"text": "un mot", "lemma": "mot", "ipa": "ɛ̃ mo", "translation": {"zh": "一个词", "en": "a word"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "initiation",
+    "ipa": "i.ni.sja.sjɔ̃",
+    "translation": {"zh": "入门", "en": "initiation"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "initiation", "lemma": "initiation", "ipa": "i.ni.sja.sjɔ̃", "translation": {"zh": "入门", "en": "initiation"}, "emoji": "🔑"}
+    ]
+  },
+  {
+    "text": "considération",
+    "ipa": "kɔ̃.si.de.ʁa.sjɔ̃",
+    "translation": {"zh": "考虑", "en": "consideration"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "considération", "lemma": "considération", "ipa": "kɔ̃.si.de.ʁa.sjɔ̃", "translation": {"zh": "考虑", "en": "consideration"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "poète",
+    "ipa": "pɔ.ɛt",
+    "translation": {"zh": "诗人", "en": "poet"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "poète", "lemma": "poète", "ipa": "pɔ.ɛt", "translation": {"zh": "诗人", "en": "poet"}, "emoji": "✍️"}
+    ]
+  }
+]

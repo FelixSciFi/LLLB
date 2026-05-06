@@ -1,0 +1,189 @@
+[
+  {
+    "input_word": "cable",
+    "entries": [
+      {"text": "cable", "ipa": "/ˈkeɪbəl/", "cefr": "B2", "zh": "电缆", "emoji": "🔌"}
+    ]
+  },
+  {
+    "input_word": "cafe",
+    "entries": [
+      {"text": "cafe", "ipa": "/kæˈfeɪ/", "cefr": "A1", "zh": "咖啡馆", "emoji": "☕"}
+    ]
+  },
+  {
+    "input_word": "cake",
+    "entries": [
+      {"text": "cake", "ipa": "/keɪk/", "cefr": "A1", "zh": "蛋糕", "emoji": "🎂"}
+    ]
+  },
+  {
+    "input_word": "calculate",
+    "entries": [
+      {"text": "calculate", "ipa": "/ˈkælkjəleɪt/", "cefr": "B2", "zh": "计算", "emoji": "🧮"}
+    ]
+  },
+  {
+    "input_word": "call",
+    "entries": [
+      {"text": "call", "ipa": "/kɔːl/", "cefr": "A1", "zh": "打电话", "emoji": "📞"},
+      {"text": "call", "ipa": "/kɔːl/", "cefr": "A1", "zh": "呼喊", "emoji": "📣"}
+    ]
+  },
+  {
+    "input_word": "calm",
+    "entries": [
+      {"text": "calm", "ipa": "/kɑːm/", "cefr": "B1", "zh": "平静的", "emoji": "😌"}
+    ]
+  },
+  {
+    "input_word": "camera",
+    "entries": [
+      {"text": "camera", "ipa": "/ˈkæmərə/", "cefr": "A1", "zh": "相机", "emoji": "📷"}
+    ]
+  },
+  {
+    "input_word": "camp",
+    "entries": [
+      {"text": "camp", "ipa": "/kæmp/", "cefr": "A2", "zh": "营地", "emoji": "🏕️"},
+      {"text": "camp", "ipa": "/kæmp/", "cefr": "A2", "zh": "露营", "emoji": "⛺"}
+    ]
+  },
+  {
+    "input_word": "campaign",
+    "entries": [
+      {"text": "campaign", "ipa": "/kæmˈpeɪn/", "cefr": "B1", "zh": "运动", "emoji": "📢"}
+    ]
+  },
+  {
+    "input_word": "camping",
+    "entries": [
+      {"text": "camping", "ipa": "/ˈkæmpɪŋ/", "cefr": "A2", "zh": "露营", "emoji": "⛺"}
+    ]
+  },
+  {
+    "input_word": "campus",
+    "entries": [
+      {"text": "campus", "ipa": "/ˈkæmpəs/", "cefr": "B1", "zh": "校园", "emoji": "🏫"}
+    ]
+  },
+  {
+    "input_word": "can",
+    "entries": [
+      {"text": "can", "ipa": "/kæn/", "cefr": "A1", "zh": "能够", "emoji": "💪"},
+      {"text": "can", "ipa": "/kæn/", "cefr": "A1", "zh": "罐头", "emoji": "🥫"}
+    ]
+  },
+  {
+    "input_word": "cancel",
+    "entries": [
+      {"text": "cancel", "ipa": "/ˈkænsəl/", "cefr": "B2", "zh": "取消", "emoji": "❌"}
+    ]
+  },
+  {
+    "input_word": "cancer",
+    "entries": [
+      {"text": "cancer", "ipa": "/ˈkænsər/", "cefr": "B2", "zh": "癌症", "emoji": "🎗️"}
+    ]
+  },
+  {
+    "input_word": "candidate",
+    "entries": [
+      {"text": "candidate", "ipa": "/ˈkændɪdeɪt/", "cefr": "B1", "zh": "候选人", "emoji": "🗳️"}
+    ]
+  },
+  {
+    "input_word": "cannot",
+    "entries": [
+      {"text": "cannot", "ipa": "/ˈkænɑːt/", "cefr": "A1", "zh": "不能", "emoji": "🚫"}
+    ]
+  },
+  {
+    "input_word": "cap",
+    "entries": [
+      {"text": "cap", "ipa": "/kæp/", "cefr": "B1", "zh": "帽子", "emoji": "🧢"},
+      {"text": "cap", "ipa": "/kæp/", "cefr": "B1", "zh": "上限", "emoji": "📊"}
+    ]
+  },
+  {
+    "input_word": "capable",
+    "entries": [
+      {"text": "capable", "ipa": "/ˈkeɪpəbəl/", "cefr": "B2", "zh": "有能力的", "emoji": "💪"}
+    ]
+  },
+  {
+    "input_word": "capacity",
+    "entries": [
+      {"text": "capacity", "ipa": "/kəˈpæsɪti/", "cefr": "B2", "zh": "容量", "emoji": "📦"},
+      {"text": "capacity", "ipa": "/kəˈpæsɪti/", "cefr": "B2", "zh": "能力", "emoji": "🧠"}
+    ]
+  },
+  {
+    "input_word": "capital",
+    "entries": [
+      {"text": "capital", "ipa": "/ˈkæpɪtəl/", "cefr": "A1", "zh": "首都", "emoji": "🏛️"},
+      {"text": "capital", "ipa": "/ˈkæpɪtəl/", "cefr": "A1", "zh": "资本", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_word": "captain",
+    "entries": [
+      {"text": "captain", "ipa": "/ˈkæptɪn/", "cefr": "B1", "zh": "队长", "emoji": "⚓"}
+    ]
+  },
+  {
+    "input_word": "capture",
+    "entries": [
+      {"text": "capture", "ipa": "/ˈkæptʃər/", "cefr": "B2", "zh": "捕获", "emoji": "📸"}
+    ]
+  },
+  {
+    "input_word": "car",
+    "entries": [
+      {"text": "car", "ipa": "/kɑːr/", "cefr": "A1", "zh": "汽车", "emoji": "🚗"}
+    ]
+  },
+  {
+    "input_word": "card",
+    "entries": [
+      {"text": "card", "ipa": "/kɑːrd/", "cefr": "A1", "zh": "卡片", "emoji": "🃏"}
+    ]
+  },
+  {
+    "input_word": "care",
+    "entries": [
+      {"text": "care", "ipa": "/kɛr/", "cefr": "A2", "zh": "关心", "emoji": "❤️"},
+      {"text": "care", "ipa": "/kɛr/", "cefr": "A2", "zh": "照顾", "emoji": "🤲"}
+    ]
+  },
+  {
+    "input_word": "career",
+    "entries": [
+      {"text": "career", "ipa": "/kəˈrɪr/", "cefr": "A1", "zh": "职业", "emoji": "💼"}
+    ]
+  },
+  {
+    "input_word": "careful",
+    "entries": [
+      {"text": "careful", "ipa": "/ˈkɛrfəl/", "cefr": "A2", "zh": "小心的", "emoji": "⚠️"}
+    ]
+  },
+  {
+    "input_word": "carefully",
+    "entries": [
+      {"text": "carefully", "ipa": "/ˈkɛrfəli/", "cefr": "A2", "zh": "小心地", "emoji": "⚠️"}
+    ]
+  },
+  {
+    "input_word": "careless",
+    "entries": [
+      {"text": "careless", "ipa": "/ˈkɛrləs/", "cefr": "B1", "zh": "粗心的", "emoji": "🤦"}
+    ]
+  },
+  {
+    "input_word": "carpet",
+    "entries": [
+      {"text": "carpet", "ipa": "/ˈkɑːrpɪt/", "cefr": "A2", "zh": "地毯", "emoji": "🏠"}
+    ]
+  }
+]

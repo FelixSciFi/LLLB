@@ -1,0 +1,272 @@
+[
+  {
+    "text": "pleinement",
+    "ipa": "plɛnmɑ̃",
+    "translation": {"zh": "完全地", "en": "fully"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "pleinement", "lemma": "pleinement", "ipa": "plɛnmɑ̃", "translation": {"zh": "完全地", "en": "fully"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "présumer",
+    "ipa": "pʁezymeʁ",
+    "translation": {"zh": "推定", "en": "to presume"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "présumer", "lemma": "présumer", "ipa": "pʁezymeʁ", "translation": {"zh": "推定", "en": "presume"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "arrestation",
+    "ipa": "aʁɛstasjɔ̃",
+    "translation": {"zh": "逮捕", "en": "arrest"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "arrestation", "lemma": "arrestation", "ipa": "aʁɛstasjɔ̃", "translation": {"zh": "逮捕", "en": "arrest"}, "emoji": "🚔"}
+    ]
+  },
+  {
+    "text": "tulipe",
+    "ipa": "tylip",
+    "translation": {"zh": "郁金香", "en": "tulip"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "tulipe", "lemma": "tulipe", "ipa": "tylip", "translation": {"zh": "郁金香", "en": "tulip"}, "emoji": "🌷"}
+    ]
+  },
+  {
+    "text": "ambre",
+    "ipa": "ɑ̃bʁ",
+    "translation": {"zh": "琥珀", "en": "amber"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ambre", "lemma": "ambre", "ipa": "ɑ̃bʁ", "translation": {"zh": "琥珀", "en": "amber"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "belle-mère",
+    "ipa": "bɛlmɛʁ",
+    "translation": {"zh": "婆婆/岳母", "en": "mother-in-law"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "belle-mère", "lemma": "belle-mère", "ipa": "bɛlmɛʁ", "translation": {"zh": "婆婆", "en": "mother-in-law"}, "emoji": "👩‍👦"}
+    ]
+  },
+  {
+    "text": "fascinant",
+    "ipa": "fasinɑ̃",
+    "translation": {"zh": "迷人的", "en": "fascinating"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "fascinant", "lemma": "fascinant", "ipa": "fasinɑ̃", "translation": {"zh": "迷人的", "en": "fascinating"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "stock",
+    "ipa": "stɔk",
+    "translation": {"zh": "库存", "en": "stock"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "stock", "lemma": "stock", "ipa": "stɔk", "translation": {"zh": "库存", "en": "stock"}, "emoji": "📦"}
+    ]
+  },
+  {
+    "text": "naturel",
+    "ipa": "natyʁɛl",
+    "translation": {"zh": "天然的", "en": "natural"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "naturel", "lemma": "naturel", "ipa": "natyʁɛl", "translation": {"zh": "天然的", "en": "natural"}, "emoji": "🌿"}
+    ]
+  },
+  {
+    "text": "doctorat",
+    "ipa": "dɔktɔʁa",
+    "translation": {"zh": "博士学位", "en": "doctorate"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "doctorat", "lemma": "doctorat", "ipa": "dɔktɔʁa", "translation": {"zh": "博士学位", "en": "doctorate"}, "emoji": "🎓"}
+    ]
+  },
+  {
+    "text": "brûlant",
+    "ipa": "bʁylɑ̃",
+    "translation": {"zh": "灼热的", "en": "burning"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "brûlant", "lemma": "brûlant", "ipa": "bʁylɑ̃", "translation": {"zh": "灼热的", "en": "burning"}, "emoji": "🔥"}
+    ]
+  },
+  {
+    "text": "décharge",
+    "ipa": "deʃaʁʒ",
+    "translation": {"zh": "放电/垃圾场", "en": "discharge / dump"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "décharge", "lemma": "décharge", "ipa": "deʃaʁʒ", "translation": {"zh": "放电", "en": "discharge"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "stabilité",
+    "ipa": "stabilite",
+    "translation": {"zh": "稳定性", "en": "stability"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "stabilité", "lemma": "stabilité", "ipa": "stabilite", "translation": {"zh": "稳定性", "en": "stability"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "renforcement",
+    "ipa": "ʁɑ̃fɔʁsmɑ̃",
+    "translation": {"zh": "强化", "en": "reinforcement"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "renforcement", "lemma": "renforcement", "ipa": "ʁɑ̃fɔʁsmɑ̃", "translation": {"zh": "强化", "en": "reinforcement"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "berge",
+    "ipa": "bɛʁʒ",
+    "translation": {"zh": "河岸", "en": "riverbank"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "berge", "lemma": "berge", "ipa": "bɛʁʒ", "translation": {"zh": "河岸", "en": "riverbank"}, "emoji": "🏞️"}
+    ]
+  },
+  {
+    "text": "enrager",
+    "ipa": "ɑ̃ʁaʒe",
+    "translation": {"zh": "激怒", "en": "to enrage"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "enrager", "lemma": "enrager", "ipa": "ɑ̃ʁaʒe", "translation": {"zh": "激怒", "en": "enrage"}, "emoji": "😡"}
+    ]
+  },
+  {
+    "text": "coude",
+    "ipa": "kud",
+    "translation": {"zh": "肘部", "en": "elbow"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "coude", "lemma": "coude", "ipa": "kud", "translation": {"zh": "肘部", "en": "elbow"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "scandaleux",
+    "ipa": "skɑ̃dalø",
+    "translation": {"zh": "丑闻性的", "en": "scandalous"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "scandaleux", "lemma": "scandaleux", "ipa": "skɑ̃dalø", "translation": {"zh": "丑闻性的", "en": "scandalous"}, "emoji": "😱"}
+    ]
+  },
+  {
+    "text": "rêverie",
+    "ipa": "ʁɛvʁi",
+    "translation": {"zh": "白日梦", "en": "daydream"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "rêverie", "lemma": "rêverie", "ipa": "ʁɛvʁi", "translation": {"zh": "白日梦", "en": "daydream"}, "emoji": "💭"}
+    ]
+  },
+  {
+    "text": "oeuvrer",
+    "ipa": "œvʁe",
+    "translation": {"zh": "努力工作", "en": "to work / strive"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "oeuvrer", "lemma": "oeuvrer", "ipa": "œvʁe", "translation": {"zh": "努力工作", "en": "strive"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "tisser",
+    "ipa": "tise",
+    "translation": {"zh": "编织", "en": "to weave"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "tisser", "lemma": "tisser", "ipa": "tise", "translation": {"zh": "编织", "en": "weave"}, "emoji": "🧵"}
+    ]
+  },
+  {
+    "text": "chrétien",
+    "ipa": "kʁetjɛ̃",
+    "translation": {"zh": "基督徒", "en": "Christian"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "chrétien", "lemma": "chrétien", "ipa": "kʁetjɛ̃", "translation": {"zh": "基督徒", "en": "Christian"}, "emoji": "✝️"}
+    ]
+  },
+  {
+    "text": "se soucier",
+    "ipa": "sə susje",
+    "translation": {"zh": "担心/在意", "en": "to worry about"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "se soucier", "lemma": "soucier", "ipa": "sə susje", "translation": {"zh": "担心在意", "en": "worry about"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "copier",
+    "ipa": "kɔpje",
+    "translation": {"zh": "复制/抄写", "en": "to copy"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "copier", "lemma": "copier", "ipa": "kɔpje", "translation": {"zh": "复制", "en": "copy"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "caissier",
+    "ipa": "kesje",
+    "translation": {"zh": "收银员", "en": "cashier"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "caissier", "lemma": "caissier", "ipa": "kesje", "translation": {"zh": "收银员", "en": "cashier"}, "emoji": "🏧"}
+    ]
+  },
+  {
+    "text": "civique",
+    "ipa": "sivik",
+    "translation": {"zh": "公民的", "en": "civic"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "civique", "lemma": "civique", "ipa": "sivik", "translation": {"zh": "公民的", "en": "civic"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "prairie",
+    "ipa": "pʁɛʁi",
+    "translation": {"zh": "草地", "en": "meadow"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "prairie", "lemma": "prairie", "ipa": "pʁɛʁi", "translation": {"zh": "草地", "en": "meadow"}, "emoji": "🌾"}
+    ]
+  },
+  {
+    "text": "exposé",
+    "ipa": "ɛkspoze",
+    "translation": {"zh": "报告/演讲", "en": "presentation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "exposé", "lemma": "exposé", "ipa": "ɛkspoze", "translation": {"zh": "报告", "en": "presentation"}, "emoji": "📊"}
+    ]
+  },
+  {
+    "text": "appelant",
+    "ipa": "aplɑ̃",
+    "translation": {"zh": "上诉人/呼唤者", "en": "appellant / caller"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "appelant", "lemma": "appelant", "ipa": "aplɑ̃", "translation": {"zh": "上诉人", "en": "appellant"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "stupéfaire",
+    "ipa": "stypefɛʁ",
+    "translation": {"zh": "使震惊", "en": "to astound"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "stupéfaire", "lemma": "stupéfaire", "ipa": "stypefɛʁ", "translation": {"zh": "使震惊", "en": "astound"}, "emoji": "😲"}
+    ]
+  }
+]

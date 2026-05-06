@@ -1,0 +1,191 @@
+[
+  {
+    "input_word": "send",
+    "entries": [
+      {"text": "send", "ipa": "/sɛnd/", "cefr": "A1", "zh": "发送", "emoji": "📤"}
+    ]
+  },
+  {
+    "input_word": "senior",
+    "entries": [
+      {"text": "senior", "ipa": "/ˈsiːnjər/", "cefr": "B2", "zh": "年长者", "emoji": "👴"},
+      {"text": "senior", "ipa": "/ˈsiːnjər/", "cefr": "B2", "zh": "高级的", "emoji": "🏅"}
+    ]
+  },
+  {
+    "input_word": "sense",
+    "entries": [
+      {"text": "sense", "ipa": "/sɛns/", "cefr": "A2", "zh": "感觉", "emoji": "🧠"},
+      {"text": "sense", "ipa": "/sɛns/", "cefr": "A2", "zh": "意义", "emoji": "💡"}
+    ]
+  },
+  {
+    "input_word": "sensible",
+    "entries": [
+      {"text": "sensible", "ipa": "/ˈsɛnsɪbəl/", "cefr": "B1", "zh": "明智的", "emoji": "🤔"}
+    ]
+  },
+  {
+    "input_word": "sensitive",
+    "entries": [
+      {"text": "sensitive", "ipa": "/ˈsɛnsɪtɪv/", "cefr": "B2", "zh": "敏感的", "emoji": "🌡️"}
+    ]
+  },
+  {
+    "input_word": "sentence",
+    "entries": [
+      {"text": "sentence", "ipa": "/ˈsɛntəns/", "cefr": "A1", "zh": "句子", "emoji": "📝"},
+      {"text": "sentence", "ipa": "/ˈsɛntəns/", "cefr": "A1", "zh": "判决", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "separate",
+    "entries": [
+      {"text": "separate", "ipa": "/ˈsɛpəreɪt/", "cefr": "A2", "zh": "分开", "emoji": "✂️"},
+      {"text": "separate", "ipa": "/ˈsɛpərɪt/", "cefr": "A2", "zh": "分开的", "emoji": "🔀"}
+    ]
+  },
+  {
+    "input_word": "september",
+    "entries": [
+      {"text": "September", "ipa": "/sɛpˈtɛmbər/", "cefr": "A1", "zh": "九月", "emoji": "🍂"}
+    ]
+  },
+  {
+    "input_word": "sequence",
+    "entries": [
+      {"text": "sequence", "ipa": "/ˈsiːkwəns/", "cefr": "B2", "zh": "顺序", "emoji": "🔢"}
+    ]
+  },
+  {
+    "input_word": "series",
+    "entries": [
+      {"text": "series", "ipa": "/ˈsɪriz/", "cefr": "A2", "zh": "系列", "emoji": "📺"}
+    ]
+  },
+  {
+    "input_word": "serious",
+    "entries": [
+      {"text": "serious", "ipa": "/ˈsɪriəs/", "cefr": "A2", "zh": "严肃的", "emoji": "😐"}
+    ]
+  },
+  {
+    "input_word": "seriously",
+    "entries": [
+      {"text": "seriously", "ipa": "/ˈsɪriəsli/", "cefr": "B1", "zh": "严肃地", "emoji": "😶"}
+    ]
+  },
+  {
+    "input_word": "servant",
+    "entries": [
+      {"text": "servant", "ipa": "/ˈsɜːrvənt/", "cefr": "B1", "zh": "仆人", "emoji": "🧹"}
+    ]
+  },
+  {
+    "input_word": "serve",
+    "entries": [
+      {"text": "serve", "ipa": "/sɜːrv/", "cefr": "A2", "zh": "服务", "emoji": "🍽️"}
+    ]
+  },
+  {
+    "input_word": "service",
+    "entries": [
+      {"text": "service", "ipa": "/ˈsɜːrvɪs/", "cefr": "A2", "zh": "服务", "emoji": "🛎️"}
+    ]
+  },
+  {
+    "input_word": "session",
+    "entries": [
+      {"text": "session", "ipa": "/ˈsɛʃən/", "cefr": "B2", "zh": "会议", "emoji": "🗓️"}
+    ]
+  },
+  {
+    "input_word": "set",
+    "entries": [
+      {"text": "set", "ipa": "/sɛt/", "cefr": "B1", "zh": "设置", "emoji": "⚙️"},
+      {"text": "set", "ipa": "/sɛt/", "cefr": "B1", "zh": "一套", "emoji": "📦"}
+    ]
+  },
+  {
+    "input_word": "setting",
+    "entries": [
+      {"text": "setting", "ipa": "/ˈsɛtɪŋ/", "cefr": "B1", "zh": "环境", "emoji": "🏞️"},
+      {"text": "setting", "ipa": "/ˈsɛtɪŋ/", "cefr": "B1", "zh": "设置", "emoji": "⚙️"}
+    ]
+  },
+  {
+    "input_word": "settle",
+    "entries": [
+      {"text": "settle", "ipa": "/ˈsɛtəl/", "cefr": "B2", "zh": "定居", "emoji": "🏠"},
+      {"text": "settle", "ipa": "/ˈsɛtəl/", "cefr": "B2", "zh": "解决", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "seven",
+    "entries": [
+      {"text": "seven", "ipa": "/ˈsɛvən/", "cefr": "A1", "zh": "七", "emoji": "7️⃣"}
+    ]
+  },
+  {
+    "input_word": "seventeen",
+    "entries": [
+      {"text": "seventeen", "ipa": "/ˌsɛvənˈtiːn/", "cefr": "A1", "zh": "十七", "emoji": "🔢"}
+    ]
+  },
+  {
+    "input_word": "seventy",
+    "entries": [
+      {"text": "seventy", "ipa": "/ˈsɛvənti/", "cefr": "A1", "zh": "七十", "emoji": "🔢"}
+    ]
+  },
+  {
+    "input_word": "several",
+    "entries": [
+      {"text": "several", "ipa": "/ˈsɛvərəl/", "cefr": "A2", "zh": "几个", "emoji": "🔢"}
+    ]
+  },
+  {
+    "input_word": "severe",
+    "entries": [
+      {"text": "severe", "ipa": "/sɪˈvɪr/", "cefr": "B2", "zh": "严重的", "emoji": "⚠️"}
+    ]
+  },
+  {
+    "input_word": "sex",
+    "entries": [
+      {"text": "sex", "ipa": "/sɛks/", "cefr": "B1", "zh": "性别", "emoji": "⚧️"},
+      {"text": "sex", "ipa": "/sɛks/", "cefr": "B1", "zh": "性行为", "emoji": "❤️"}
+    ]
+  },
+  {
+    "input_word": "sexual",
+    "entries": [
+      {"text": "sexual", "ipa": "/ˈsɛkʃuəl/", "cefr": "B1", "zh": "性的", "emoji": "❤️"}
+    ]
+  },
+  {
+    "input_word": "shade",
+    "entries": [
+      {"text": "shade", "ipa": "/ʃeɪd/", "cefr": "B2", "zh": "阴影", "emoji": "🌫️"},
+      {"text": "shade", "ipa": "/ʃeɪd/", "cefr": "B2", "zh": "色调", "emoji": "🎨"}
+    ]
+  },
+  {
+    "input_word": "shadow",
+    "entries": [
+      {"text": "shadow", "ipa": "/ˈʃædoʊ/", "cefr": "B2", "zh": "影子", "emoji": "🌑"}
+    ]
+  },
+  {
+    "input_word": "shake",
+    "entries": [
+      {"text": "shake", "ipa": "/ʃeɪk/", "cefr": "A2", "zh": "摇动", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "shall",
+    "entries": [
+      {"text": "shall", "ipa": "/ʃæl/", "cefr": "A2", "zh": "将要", "emoji": ""}
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "text": "Mrs Dalloway said she would buy the flowers herself.",
+    "ipa": "ˈmɪsɪz ˈdæləweɪ sɛd ʃiː wʊd baɪ ðə ˈflaʊəz hɜːˈsɛlf.",
+    "translation": {"zh": "达洛维夫人说她要亲自去买花。"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "Mrs Dalloway", "lemma": "Mrs Dalloway", "ipa": "ˈmɪsɪz ˈdæləweɪ", "translation": {"zh": "达洛维夫人"}, "emoji": "👒"},
+      {"text": "said", "lemma": "say", "ipa": "sɛd", "translation": {"zh": "说道"}, "emoji": "💬"},
+      {"text": "she would buy", "lemma": "buy", "ipa": "ʃiː wʊd baɪ", "translation": {"zh": "她要买"}, "emoji": "🛍️"},
+      {"text": "the flowers", "lemma": "flower", "ipa": "ðə ˈflaʊəz", "translation": {"zh": "花"}, "emoji": "💐"},
+      {"text": "herself", "lemma": "herself", "ipa": "hɜːˈsɛlf", "translation": {"zh": "亲自"}, "emoji": "🙋‍♀️"}
+    ],
+    "tags": [{"name": "Mrs Dalloway", "index": 1}]
+  },
+  {
+    "text": "For Lucy had her work cut out for her.",
+    "ipa": "fɔː ˈluːsi hæd hɜː wɜːk kʌt aʊt fɔː hɜː.",
+    "translation": {"zh": "因为露西已经够忙的了。"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "For Lucy", "lemma": "Lucy", "ipa": "fɔː ˈluːsi", "translation": {"zh": "露西"}, "emoji": "👩‍🍳"},
+      {"text": "had her work", "lemma": "work", "ipa": "hæd hɜː wɜːk", "translation": {"zh": "活儿"}, "emoji": "🧹"},
+      {"text": "cut out for her", "lemma": "cut out", "ipa": "kʌt aʊt fɔː hɜː", "translation": {"zh": "够她忙的"}, "emoji": "😓"}
+    ],
+    "tags": [{"name": "Mrs Dalloway", "index": 2}]
+  },
+  {
+    "text": "The doors would be taken off their hinges; Rumpelmayer's men were coming.",
+    "ipa": "ðə dɔːz wʊd biː ˈteɪkən ɒf ðɛə ˈhɪndʒɪz; ˈɹʌmpəlmaɪəz mɛn wɜː ˈkʌmɪŋ.",
+    "translation": {"zh": "门要从合页上卸下来；伦佩尔迈耶店里的工人就要来了。"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "The doors", "lemma": "door", "ipa": "ðə dɔːz", "translation": {"zh": "门"}, "emoji": "🚪"},
+      {"text": "would be taken off", "lemma": "take off", "ipa": "wʊd biː ˈteɪkən ɒf", "translation": {"zh": "要卸下"}, "emoji": "🔧"},
+      {"text": "their hinges", "lemma": "hinge", "ipa": "ðɛə ˈhɪndʒɪz", "translation": {"zh": "合页"}, "emoji": "⚙️"},
+      {"text": "Rumpelmayer's men", "lemma": "Rumpelmayer's men", "ipa": "ˈɹʌmpəlmaɪəz mɛn", "translation": {"zh": "伦佩尔迈耶的工人"}, "emoji": "👷"},
+      {"text": "were coming", "lemma": "come", "ipa": "wɜː ˈkʌmɪŋ", "translation": {"zh": "就要来"}, "emoji": "🚶"}
+    ],
+    "tags": [{"name": "Mrs Dalloway", "index": 3}]
+  },
+  {
+    "text": "And then, thought Clarissa Dalloway, what a morning—",
+    "ipa": "ænd ðɛn, θɔːt kləˈɹɪsə ˈdæləweɪ, wɒt ə ˈmɔːnɪŋ—",
+    "translation": {"zh": "然后，克拉丽莎·达洛维心想，多么美的一个清晨——"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "And then", "lemma": "then", "ipa": "ænd ðɛn", "translation": {"zh": "然后"}, "emoji": "⏭️"},
+      {"text": "thought", "lemma": "think", "ipa": "θɔːt", "translation": {"zh": "心想"}, "emoji": "💭"},
+      {"text": "Clarissa Dalloway", "lemma": "Clarissa Dalloway", "ipa": "kləˈɹɪsə ˈdæləweɪ", "translation": {"zh": "克拉丽莎"}, "emoji": "👒"},
+      {"text": "what a morning", "lemma": "morning", "ipa": "wɒt ə ˈmɔːnɪŋ", "translation": {"zh": "多美的清晨"}, "emoji": "🌅"}
+    ],
+    "tags": [{"name": "Mrs Dalloway", "index": 4}]
+  },
+  {
+    "text": "fresh as if issued to children on a beach.",
+    "ipa": "fɹɛʃ æz ɪf ˈɪʃuːd tuː ˈtʃɪldɹən ɒn ə biːtʃ.",
+    "translation": {"zh": "清新得仿佛是发给海滩上孩子们的。"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "fresh", "lemma": "fresh", "ipa": "fɹɛʃ", "translation": {"zh": "清新"}, "emoji": "🌬️"},
+      {"text": "as if issued", "lemma": "issue", "ipa": "æz ɪf ˈɪʃuːd", "translation": {"zh": "仿佛发给"}, "emoji": "🎁"},
+      {"text": "to children", "lemma": "child", "ipa": "tuː ˈtʃɪldɹən", "translation": {"zh": "孩子们"}, "emoji": "🧒"},
+      {"text": "on a beach", "lemma": "beach", "ipa": "ɒn ə biːtʃ", "translation": {"zh": "在海滩上"}, "emoji": "🏖️"}
+    ],
+    "tags": [{"name": "Mrs Dalloway", "index": 5}]
+  }
+]

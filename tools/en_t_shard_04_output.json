@@ -1,0 +1,191 @@
+[
+  {
+    "input_word": "trade",
+    "entries": [
+      {"text": "trade", "ipa": "/treɪd/", "cefr": "B1", "zh": "贸易", "emoji": "🤝"},
+      {"text": "trade", "ipa": "/treɪd/", "cefr": "B1", "zh": "交换", "emoji": "🔄"}
+    ]
+  },
+  {
+    "input_word": "tradition",
+    "entries": [
+      {"text": "tradition", "ipa": "/trəˈdɪʃən/", "cefr": "A2", "zh": "传统", "emoji": "🎎"}
+    ]
+  },
+  {
+    "input_word": "traditional",
+    "entries": [
+      {"text": "traditional", "ipa": "/trəˈdɪʃənəl/", "cefr": "A2", "zh": "传统的", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_word": "traffic",
+    "entries": [
+      {"text": "traffic", "ipa": "/ˈtræfɪk/", "cefr": "A1", "zh": "交通", "emoji": "🚦"}
+    ]
+  },
+  {
+    "input_word": "train",
+    "entries": [
+      {"text": "train", "ipa": "/treɪn/", "cefr": "A1", "zh": "火车", "emoji": "🚂"},
+      {"text": "train", "ipa": "/treɪn/", "cefr": "A1", "zh": "训练", "emoji": "💪"}
+    ]
+  },
+  {
+    "input_word": "trainer",
+    "entries": [
+      {"text": "trainer", "ipa": "/ˈtreɪnər/", "cefr": "A2", "zh": "教练", "emoji": "🏋️"}
+    ]
+  },
+  {
+    "input_word": "training",
+    "entries": [
+      {"text": "training", "ipa": "/ˈtreɪnɪŋ/", "cefr": "A2", "zh": "培训", "emoji": "📚"}
+    ]
+  },
+  {
+    "input_word": "transfer",
+    "entries": [
+      {"text": "transfer", "ipa": "/ˈtrænsfɜːr/", "cefr": "B2", "zh": "转移", "emoji": "↗️"},
+      {"text": "transfer", "ipa": "/ˈtrænsfɜːr/", "cefr": "B2", "zh": "转账", "emoji": "💸"}
+    ]
+  },
+  {
+    "input_word": "transform",
+    "entries": [
+      {"text": "transform", "ipa": "/trænsˈfɔːrm/", "cefr": "B2", "zh": "转变", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_word": "transition",
+    "entries": [
+      {"text": "transition", "ipa": "/trænˈzɪʃən/", "cefr": "B2", "zh": "过渡", "emoji": "🔀"}
+    ]
+  },
+  {
+    "input_word": "translate",
+    "entries": [
+      {"text": "translate", "ipa": "/trænsˈleɪt/", "cefr": "B1", "zh": "翻译", "emoji": "🌐"}
+    ]
+  },
+  {
+    "input_word": "translation",
+    "entries": [
+      {"text": "translation", "ipa": "/trænsˈleɪʃən/", "cefr": "B1", "zh": "译文", "emoji": "📝"}
+    ]
+  },
+  {
+    "input_word": "transport",
+    "entries": [
+      {"text": "transport", "ipa": "/ˈtrænspɔːrt/", "cefr": "A2", "zh": "交通运输", "emoji": "🚌"},
+      {"text": "transport", "ipa": "/trænsˈpɔːrt/", "cefr": "A2", "zh": "运输", "emoji": "🚚"}
+    ]
+  },
+  {
+    "input_word": "travel",
+    "entries": [
+      {"text": "travel", "ipa": "/ˈtrævəl/", "cefr": "A1", "zh": "旅行", "emoji": "✈️"}
+    ]
+  },
+  {
+    "input_word": "traveller",
+    "entries": [
+      {"text": "traveller", "ipa": "/ˈtrævələr/", "cefr": "A2", "zh": "旅行者", "emoji": "🧳"}
+    ]
+  },
+  {
+    "input_word": "treat",
+    "entries": [
+      {"text": "treat", "ipa": "/triːt/", "cefr": "B1", "zh": "对待", "emoji": "🤲"},
+      {"text": "treat", "ipa": "/triːt/", "cefr": "B1", "zh": "零食惊喜", "emoji": "🍬"}
+    ]
+  },
+  {
+    "input_word": "treatment",
+    "entries": [
+      {"text": "treatment", "ipa": "/ˈtriːtmənt/", "cefr": "B1", "zh": "治疗", "emoji": "💊"},
+      {"text": "treatment", "ipa": "/ˈtriːtmənt/", "cefr": "B1", "zh": "待遇", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "tree",
+    "entries": [
+      {"text": "tree", "ipa": "/triː/", "cefr": "A1", "zh": "树木", "emoji": "🌳"}
+    ]
+  },
+  {
+    "input_word": "trend",
+    "entries": [
+      {"text": "trend", "ipa": "/trɛnd/", "cefr": "B1", "zh": "趋势", "emoji": "📈"}
+    ]
+  },
+  {
+    "input_word": "trial",
+    "entries": [
+      {"text": "trial", "ipa": "/ˈtraɪəl/", "cefr": "B2", "zh": "审判", "emoji": "⚖️"},
+      {"text": "trial", "ipa": "/ˈtraɪəl/", "cefr": "B2", "zh": "试验", "emoji": "🧪"}
+    ]
+  },
+  {
+    "input_word": "trick",
+    "entries": [
+      {"text": "trick", "ipa": "/trɪk/", "cefr": "B1", "zh": "把戏", "emoji": "🎩"},
+      {"text": "trick", "ipa": "/trɪk/", "cefr": "B1", "zh": "欺骗", "emoji": "😏"}
+    ]
+  },
+  {
+    "input_word": "trip",
+    "entries": [
+      {"text": "trip", "ipa": "/trɪp/", "cefr": "A1", "zh": "短途旅行", "emoji": "🗺️"},
+      {"text": "trip", "ipa": "/trɪp/", "cefr": "A1", "zh": "绊倒", "emoji": "🤸"}
+    ]
+  },
+  {
+    "input_word": "tropical",
+    "entries": [
+      {"text": "tropical", "ipa": "/ˈtrɒpɪkəl/", "cefr": "B2", "zh": "热带的", "emoji": "🌴"}
+    ]
+  },
+  {
+    "input_word": "trouble",
+    "entries": [
+      {"text": "trouble", "ipa": "/ˈtrʌbəl/", "cefr": "A2", "zh": "麻烦", "emoji": "😰"}
+    ]
+  },
+  {
+    "input_word": "trousers",
+    "entries": [
+      {"text": "trousers", "ipa": "/ˈtraʊzərz/", "cefr": "A1", "zh": "长裤", "emoji": "👖"}
+    ]
+  },
+  {
+    "input_word": "truck",
+    "entries": [
+      {"text": "truck", "ipa": "/trʌk/", "cefr": "A2", "zh": "卡车", "emoji": "🚛"}
+    ]
+  },
+  {
+    "input_word": "true",
+    "entries": [
+      {"text": "true", "ipa": "/truː/", "cefr": "A1", "zh": "真实的", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_word": "truly",
+    "entries": [
+      {"text": "truly", "ipa": "/ˈtruːli/", "cefr": "B2", "zh": "真正地", "emoji": "💯"}
+    ]
+  },
+  {
+    "input_word": "trust",
+    "entries": [
+      {"text": "trust", "ipa": "/trʌst/", "cefr": "B2", "zh": "信任", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "truth",
+    "entries": [
+      {"text": "truth", "ipa": "/truːθ/", "cefr": "B1", "zh": "真相", "emoji": "🔍"}
+    ]
+  }
+]

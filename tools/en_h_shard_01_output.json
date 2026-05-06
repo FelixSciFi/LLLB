@@ -1,0 +1,184 @@
+[
+  {
+    "input_word": "heaven",
+    "entries": [
+      {"text": "heaven", "ipa": "/ˈhɛvən/", "cefr": "B2", "zh": "天堂", "emoji": "☁️"}
+    ]
+  },
+  {
+    "input_word": "heavily",
+    "entries": [
+      {"text": "heavily", "ipa": "/ˈhɛvɪli/", "cefr": "B1", "zh": "沉重地", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "heavy",
+    "entries": [
+      {"text": "heavy", "ipa": "/ˈhɛvi/", "cefr": "A2", "zh": "沉重的", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "heel",
+    "entries": [
+      {"text": "heel", "ipa": "/hiːl/", "cefr": "B2", "zh": "脚跟", "emoji": "👠"}
+    ]
+  },
+  {
+    "input_word": "height",
+    "entries": [
+      {"text": "height", "ipa": "/haɪt/", "cefr": "A2", "zh": "高度", "emoji": "📏"}
+    ]
+  },
+  {
+    "input_word": "helicopter",
+    "entries": [
+      {"text": "helicopter", "ipa": "/ˈhɛlɪˌkɑptər/", "cefr": "B1", "zh": "直升机", "emoji": "🚁"}
+    ]
+  },
+  {
+    "input_word": "hell",
+    "entries": [
+      {"text": "hell", "ipa": "/hɛl/", "cefr": "B2", "zh": "地狱", "emoji": "🔥"}
+    ]
+  },
+  {
+    "input_word": "hello",
+    "entries": [
+      {"text": "hello", "ipa": "/həˈloʊ/", "cefr": "A1", "zh": "你好", "emoji": "👋"}
+    ]
+  },
+  {
+    "input_word": "help",
+    "entries": [
+      {"text": "help", "ipa": "/hɛlp/", "cefr": "A1", "zh": "帮助", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "helpful",
+    "entries": [
+      {"text": "helpful", "ipa": "/ˈhɛlpfəl/", "cefr": "A2", "zh": "有帮助的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "her",
+    "entries": [
+      {"text": "her", "ipa": "/hɜːr/", "cefr": "A1", "zh": "她的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "here",
+    "entries": [
+      {"text": "here", "ipa": "/hɪr/", "cefr": "A1", "zh": "这里", "emoji": "📍"}
+    ]
+  },
+  {
+    "input_word": "hero",
+    "entries": [
+      {"text": "hero", "ipa": "/ˈhɪroʊ/", "cefr": "A2", "zh": "英雄", "emoji": "🦸"}
+    ]
+  },
+  {
+    "input_word": "hers",
+    "entries": [
+      {"text": "hers", "ipa": "/hɜːrz/", "cefr": "A2", "zh": "她的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "herself",
+    "entries": [
+      {"text": "herself", "ipa": "/hɜːrˈsɛlf/", "cefr": "A2", "zh": "她自己", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "hesitate",
+    "entries": [
+      {"text": "hesitate", "ipa": "/ˈhɛzɪteɪt/", "cefr": "B2", "zh": "犹豫", "emoji": "🤔"}
+    ]
+  },
+  {
+    "input_word": "hey",
+    "entries": [
+      {"text": "hey", "ipa": "/heɪ/", "cefr": "A1", "zh": "嘿", "emoji": "👋"}
+    ]
+  },
+  {
+    "input_word": "hi",
+    "entries": [
+      {"text": "hi", "ipa": "/haɪ/", "cefr": "A1", "zh": "嗨", "emoji": "👋"}
+    ]
+  },
+  {
+    "input_word": "hide",
+    "entries": [
+      {"text": "hide", "ipa": "/haɪd/", "cefr": "A2", "zh": "躲藏", "emoji": "🙈"},
+      {"text": "hide", "ipa": "/haɪd/", "cefr": "A2", "zh": "兽皮", "emoji": "🐄"}
+    ]
+  },
+  {
+    "input_word": "high",
+    "entries": [
+      {"text": "high", "ipa": "/haɪ/", "cefr": "A1", "zh": "高的", "emoji": "⬆️"}
+    ]
+  },
+  {
+    "input_word": "highlight",
+    "entries": [
+      {"text": "highlight", "ipa": "/ˈhaɪlaɪt/", "cefr": "B1", "zh": "突出显示", "emoji": "🖊️"},
+      {"text": "highlight", "ipa": "/ˈhaɪlaɪt/", "cefr": "B1", "zh": "精彩部分", "emoji": "⭐"}
+    ]
+  },
+  {
+    "input_word": "highly",
+    "entries": [
+      {"text": "highly", "ipa": "/ˈhaɪli/", "cefr": "B1", "zh": "高度地", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "hill",
+    "entries": [
+      {"text": "hill", "ipa": "/hɪl/", "cefr": "A2", "zh": "小山", "emoji": "⛰️"}
+    ]
+  },
+  {
+    "input_word": "him",
+    "entries": [
+      {"text": "him", "ipa": "/hɪm/", "cefr": "A1", "zh": "他", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "himself",
+    "entries": [
+      {"text": "himself", "ipa": "/hɪmˈsɛlf/", "cefr": "A2", "zh": "他自己", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "hire",
+    "entries": [
+      {"text": "hire", "ipa": "/haɪr/", "cefr": "B1", "zh": "雇用", "emoji": "💼"}
+    ]
+  },
+  {
+    "input_word": "his",
+    "entries": [
+      {"text": "his", "ipa": "/hɪz/", "cefr": "A1", "zh": "他的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "historic",
+    "entries": [
+      {"text": "historic", "ipa": "/hɪˈstɔːrɪk/", "cefr": "B1", "zh": "历史性的", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_word": "historical",
+    "entries": [
+      {"text": "historical", "ipa": "/hɪˈstɔːrɪkəl/", "cefr": "B1", "zh": "历史的", "emoji": "📜"}
+    ]
+  },
+  {
+    "input_word": "history",
+    "entries": [
+      {"text": "history", "ipa": "/ˈhɪstəri/", "cefr": "A1", "zh": "历史", "emoji": "📜"}
+    ]
+  }
+]

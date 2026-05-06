@@ -1,0 +1,346 @@
+[
+  {
+    "input_word": "impressed",
+    "entries": [
+      {
+        "text": "impressed",
+        "ipa": "/ɪmˈprɛst/",
+        "cefr": "B2",
+        "zh": "印象深刻",
+        "emoji": "😲"
+      }
+    ]
+  },
+  {
+    "input_word": "impression",
+    "entries": [
+      {
+        "text": "impression",
+        "ipa": "/ɪmˈprɛʃən/",
+        "cefr": "B1",
+        "zh": "印象",
+        "emoji": "💭"
+      }
+    ]
+  },
+  {
+    "input_word": "impressive",
+    "entries": [
+      {
+        "text": "impressive",
+        "ipa": "/ɪmˈprɛsɪv/",
+        "cefr": "B1",
+        "zh": "令人印象深刻",
+        "emoji": "🌟"
+      }
+    ]
+  },
+  {
+    "input_word": "improve",
+    "entries": [
+      {
+        "text": "improve",
+        "ipa": "/ɪmˈpruːv/",
+        "cefr": "A1",
+        "zh": "改善",
+        "emoji": "📈"
+      }
+    ]
+  },
+  {
+    "input_word": "improvement",
+    "entries": [
+      {
+        "text": "improvement",
+        "ipa": "/ɪmˈpruːvmənt/",
+        "cefr": "B1",
+        "zh": "改进",
+        "emoji": "📈"
+      }
+    ]
+  },
+  {
+    "input_word": "in",
+    "entries": []
+  },
+  {
+    "input_word": "inch",
+    "entries": [
+      {
+        "text": "inch",
+        "ipa": "/ɪntʃ/",
+        "cefr": "B2",
+        "zh": "英寸",
+        "emoji": "📏"
+      }
+    ]
+  },
+  {
+    "input_word": "incident",
+    "entries": [
+      {
+        "text": "incident",
+        "ipa": "/ˈɪnsɪdənt/",
+        "cefr": "B2",
+        "zh": "事件",
+        "emoji": "⚠️"
+      }
+    ]
+  },
+  {
+    "input_word": "include",
+    "entries": [
+      {
+        "text": "include",
+        "ipa": "/ɪnˈkluːd/",
+        "cefr": "A1",
+        "zh": "包含",
+        "emoji": "📦"
+      }
+    ]
+  },
+  {
+    "input_word": "included",
+    "entries": [
+      {
+        "text": "included",
+        "ipa": "/ɪnˈkluːdɪd/",
+        "cefr": "A2",
+        "zh": "包含在内",
+        "emoji": "✅"
+      }
+    ]
+  },
+  {
+    "input_word": "including",
+    "entries": []
+  },
+  {
+    "input_word": "income",
+    "entries": [
+      {
+        "text": "income",
+        "ipa": "/ˈɪnkʌm/",
+        "cefr": "B2",
+        "zh": "收入",
+        "emoji": "💰"
+      }
+    ]
+  },
+  {
+    "input_word": "increase",
+    "entries": [
+      {
+        "text": "increase",
+        "ipa": "/ɪnˈkriːs/",
+        "cefr": "A2",
+        "zh": "增加",
+        "emoji": "📈"
+      }
+    ]
+  },
+  {
+    "input_word": "increasingly",
+    "entries": [
+      {
+        "text": "increasingly",
+        "ipa": "/ɪnˈkriːsɪŋli/",
+        "cefr": "B2",
+        "zh": "越来越",
+        "emoji": "📈"
+      }
+    ]
+  },
+  {
+    "input_word": "incredible",
+    "entries": [
+      {
+        "text": "incredible",
+        "ipa": "/ɪnˈkrɛdɪbəl/",
+        "cefr": "A2",
+        "zh": "难以置信",
+        "emoji": "🤩"
+      }
+    ]
+  },
+  {
+    "input_word": "incredibly",
+    "entries": [
+      {
+        "text": "incredibly",
+        "ipa": "/ɪnˈkrɛdɪbli/",
+        "cefr": "B1",
+        "zh": "难以置信地",
+        "emoji": "😮"
+      }
+    ]
+  },
+  {
+    "input_word": "indeed",
+    "entries": [
+      {
+        "text": "indeed",
+        "ipa": "/ɪnˈdiːd/",
+        "cefr": "B1",
+        "zh": "确实",
+        "emoji": "👍"
+      }
+    ]
+  },
+  {
+    "input_word": "independent",
+    "entries": [
+      {
+        "text": "independent",
+        "ipa": "/ˌɪndɪˈpɛndənt/",
+        "cefr": "A2",
+        "zh": "独立的",
+        "emoji": "🦅"
+      }
+    ]
+  },
+  {
+    "input_word": "indicate",
+    "entries": [
+      {
+        "text": "indicate",
+        "ipa": "/ˈɪndɪkeɪt/",
+        "cefr": "B1",
+        "zh": "表明",
+        "emoji": "👉"
+      }
+    ]
+  },
+  {
+    "input_word": "indirect",
+    "entries": [
+      {
+        "text": "indirect",
+        "ipa": "/ˌɪndɪˈrɛkt/",
+        "cefr": "B1",
+        "zh": "间接的",
+        "emoji": "↪️"
+      }
+    ]
+  },
+  {
+    "input_word": "individual",
+    "entries": [
+      {
+        "text": "individual",
+        "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+        "cefr": "A2",
+        "zh": "个人",
+        "emoji": "🧍"
+      }
+    ]
+  },
+  {
+    "input_word": "indoor",
+    "entries": [
+      {
+        "text": "indoor",
+        "ipa": "/ˈɪndɔːr/",
+        "cefr": "B1",
+        "zh": "室内的",
+        "emoji": "🏠"
+      }
+    ]
+  },
+  {
+    "input_word": "indoors",
+    "entries": [
+      {
+        "text": "indoors",
+        "ipa": "/ˌɪnˈdɔːrz/",
+        "cefr": "B1",
+        "zh": "在室内",
+        "emoji": "🏠"
+      }
+    ]
+  },
+  {
+    "input_word": "industrial",
+    "entries": [
+      {
+        "text": "industrial",
+        "ipa": "/ɪnˈdʌstriəl/",
+        "cefr": "B2",
+        "zh": "工业的",
+        "emoji": "🏭"
+      }
+    ]
+  },
+  {
+    "input_word": "industry",
+    "entries": [
+      {
+        "text": "industry",
+        "ipa": "/ˈɪndəstri/",
+        "cefr": "A2",
+        "zh": "行业",
+        "emoji": "🏭"
+      }
+    ]
+  },
+  {
+    "input_word": "infection",
+    "entries": [
+      {
+        "text": "infection",
+        "ipa": "/ɪnˈfɛkʃən/",
+        "cefr": "B2",
+        "zh": "感染",
+        "emoji": "🦠"
+      }
+    ]
+  },
+  {
+    "input_word": "influence",
+    "entries": [
+      {
+        "text": "influence",
+        "ipa": "/ˈɪnfluəns/",
+        "cefr": "B1",
+        "zh": "影响",
+        "emoji": "💡"
+      }
+    ]
+  },
+  {
+    "input_word": "inform",
+    "entries": [
+      {
+        "text": "inform",
+        "ipa": "/ɪnˈfɔːrm/",
+        "cefr": "B2",
+        "zh": "通知",
+        "emoji": "📢"
+      }
+    ]
+  },
+  {
+    "input_word": "informal",
+    "entries": [
+      {
+        "text": "informal",
+        "ipa": "/ɪnˈfɔːrməl/",
+        "cefr": "A2",
+        "zh": "非正式的",
+        "emoji": "👕"
+      }
+    ]
+  },
+  {
+    "input_word": "information",
+    "entries": [
+      {
+        "text": "information",
+        "ipa": "/ˌɪnfərˈmeɪʃən/",
+        "cefr": "A1",
+        "zh": "信息",
+        "emoji": "ℹ️"
+      }
+    ]
+  }
+]

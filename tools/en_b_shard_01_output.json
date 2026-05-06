@@ -1,0 +1,361 @@
+[
+  {
+    "input_word": "bean",
+    "entries": [
+      {
+        "text": "bean",
+        "ipa": "/biːn/",
+        "cefr": "A2",
+        "zh": "豆子",
+        "emoji": "🫘"
+      }
+    ]
+  },
+  {
+    "input_word": "bear",
+    "entries": [
+      {
+        "text": "bear",
+        "ipa": "/bɛr/",
+        "cefr": "A2",
+        "zh": "熊",
+        "emoji": "🐻"
+      },
+      {
+        "text": "bear",
+        "ipa": "/bɛr/",
+        "cefr": "A2",
+        "zh": "承受；忍受",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "beat",
+    "entries": [
+      {
+        "text": "beat",
+        "ipa": "/biːt/",
+        "cefr": "A2",
+        "zh": "击打；打败",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "beautiful",
+    "entries": [
+      {
+        "text": "beautiful",
+        "ipa": "/ˈbjuːtɪfəl/",
+        "cefr": "A1",
+        "zh": "美丽的",
+        "emoji": "✨"
+      }
+    ]
+  },
+  {
+    "input_word": "beauty",
+    "entries": [
+      {
+        "text": "beauty",
+        "ipa": "/ˈbjuːti/",
+        "cefr": "B1",
+        "zh": "美；美丽",
+        "emoji": "💄"
+      }
+    ]
+  },
+  {
+    "input_word": "because",
+    "entries": []
+  },
+  {
+    "input_word": "become",
+    "entries": [
+      {
+        "text": "become",
+        "ipa": "/bɪˈkʌm/",
+        "cefr": "A1",
+        "zh": "变成；成为",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "bed",
+    "entries": [
+      {
+        "text": "bed",
+        "ipa": "/bɛd/",
+        "cefr": "A1",
+        "zh": "床",
+        "emoji": "🛏️"
+      }
+    ]
+  },
+  {
+    "input_word": "bedroom",
+    "entries": [
+      {
+        "text": "bedroom",
+        "ipa": "/ˈbɛdruːm/",
+        "cefr": "A1",
+        "zh": "卧室",
+        "emoji": "🛏️"
+      }
+    ]
+  },
+  {
+    "input_word": "bee",
+    "entries": [
+      {
+        "text": "bee",
+        "ipa": "/biː/",
+        "cefr": "B1",
+        "zh": "蜜蜂",
+        "emoji": "🐝"
+      }
+    ]
+  },
+  {
+    "input_word": "beef",
+    "entries": [
+      {
+        "text": "beef",
+        "ipa": "/biːf/",
+        "cefr": "A2",
+        "zh": "牛肉",
+        "emoji": "🥩"
+      }
+    ]
+  },
+  {
+    "input_word": "beer",
+    "entries": [
+      {
+        "text": "beer",
+        "ipa": "/bɪr/",
+        "cefr": "A1",
+        "zh": "啤酒",
+        "emoji": "🍺"
+      }
+    ]
+  },
+  {
+    "input_word": "before",
+    "entries": [
+      {
+        "text": "before",
+        "ipa": "/bɪˈfɔːr/",
+        "cefr": "A1",
+        "zh": "在…之前",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "beg",
+    "entries": [
+      {
+        "text": "beg",
+        "ipa": "/bɛɡ/",
+        "cefr": "B2",
+        "zh": "乞讨；恳求",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "begin",
+    "entries": [
+      {
+        "text": "begin",
+        "ipa": "/bɪˈɡɪn/",
+        "cefr": "A1",
+        "zh": "开始",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "beginning",
+    "entries": [
+      {
+        "text": "beginning",
+        "ipa": "/bɪˈɡɪnɪŋ/",
+        "cefr": "A1",
+        "zh": "开始；起初",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "behave",
+    "entries": [
+      {
+        "text": "behave",
+        "ipa": "/bɪˈheɪv/",
+        "cefr": "A2",
+        "zh": "表现；举止",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "behaviour",
+    "entries": [
+      {
+        "text": "behaviour",
+        "ipa": "/bɪˈheɪvjər/",
+        "cefr": "A2",
+        "zh": "行为；举止",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "behind",
+    "entries": [
+      {
+        "text": "behind",
+        "ipa": "/bɪˈhaɪnd/",
+        "cefr": "A1",
+        "zh": "在…后面",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "being",
+    "entries": [
+      {
+        "text": "being",
+        "ipa": "/ˈbiːɪŋ/",
+        "cefr": "B2",
+        "zh": "存在；生命体",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "belief",
+    "entries": [
+      {
+        "text": "belief",
+        "ipa": "/bɪˈliːf/",
+        "cefr": "B1",
+        "zh": "信念；信仰",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "believe",
+    "entries": [
+      {
+        "text": "believe",
+        "ipa": "/bɪˈliːv/",
+        "cefr": "A1",
+        "zh": "相信；认为",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "bell",
+    "entries": [
+      {
+        "text": "bell",
+        "ipa": "/bɛl/",
+        "cefr": "B1",
+        "zh": "铃；钟",
+        "emoji": "🔔"
+      }
+    ]
+  },
+  {
+    "input_word": "belong",
+    "entries": [
+      {
+        "text": "belong",
+        "ipa": "/bɪˈlɔːŋ/",
+        "cefr": "A2",
+        "zh": "属于",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "below",
+    "entries": [
+      {
+        "text": "below",
+        "ipa": "/bɪˈloʊ/",
+        "cefr": "A1",
+        "zh": "在…下方",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "belt",
+    "entries": [
+      {
+        "text": "belt",
+        "ipa": "/bɛlt/",
+        "cefr": "A2",
+        "zh": "腰带",
+        "emoji": "👙"
+      }
+    ]
+  },
+  {
+    "input_word": "bend",
+    "entries": [
+      {
+        "text": "bend",
+        "ipa": "/bɛnd/",
+        "cefr": "B1",
+        "zh": "弯曲",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "benefit",
+    "entries": [
+      {
+        "text": "benefit",
+        "ipa": "/ˈbɛnɪfɪt/",
+        "cefr": "A2",
+        "zh": "好处；益处",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "bent",
+    "entries": [
+      {
+        "text": "bent",
+        "ipa": "/bɛnt/",
+        "cefr": "B2",
+        "zh": "弯曲的",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "best",
+    "entries": [
+      {
+        "text": "best",
+        "ipa": "/bɛst/",
+        "cefr": "A1",
+        "zh": "最好的",
+        "emoji": "🏆"
+      }
+    ]
+  }
+]

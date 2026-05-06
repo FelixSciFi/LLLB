@@ -1,0 +1,187 @@
+[
+  {
+    "input_word": "person",
+    "entries": [
+      {"text": "person", "ipa": "/ˈpɜːrsən/", "cefr": "A1", "zh": "人", "emoji": "🧑"}
+    ]
+  },
+  {
+    "input_word": "personal",
+    "entries": [
+      {"text": "personal", "ipa": "/ˈpɜːrsənəl/", "cefr": "A1", "zh": "个人的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "personality",
+    "entries": [
+      {"text": "personality", "ipa": "/ˌpɜːrsəˈnæləti/", "cefr": "A2", "zh": "个性", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_word": "personally",
+    "entries": [
+      {"text": "personally", "ipa": "/ˈpɜːrsənəli/", "cefr": "B1", "zh": "亲自", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "perspective",
+    "entries": [
+      {"text": "perspective", "ipa": "/pərˈspektɪv/", "cefr": "B2", "zh": "观点", "emoji": "🔭"}
+    ]
+  },
+  {
+    "input_word": "persuade",
+    "entries": [
+      {"text": "persuade", "ipa": "/pərˈsweɪd/", "cefr": "B1", "zh": "说服", "emoji": "🗣️"}
+    ]
+  },
+  {
+    "input_word": "pet",
+    "entries": [
+      {"text": "pet", "ipa": "/pɛt/", "cefr": "A2", "zh": "宠物", "emoji": "🐾"},
+      {"text": "pet", "ipa": "/pɛt/", "cefr": "A2", "zh": "爱抚", "emoji": "🤲"}
+    ]
+  },
+  {
+    "input_word": "petrol",
+    "entries": [
+      {"text": "petrol", "ipa": "/ˈpɛtrəl/", "cefr": "A2", "zh": "汽油", "emoji": "⛽"}
+    ]
+  },
+  {
+    "input_word": "phase",
+    "entries": [
+      {"text": "phase", "ipa": "/feɪz/", "cefr": "B2", "zh": "阶段", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_word": "phenomenon",
+    "entries": [
+      {"text": "phenomenon", "ipa": "/fɪˈnɒmɪnən/", "cefr": "B2", "zh": "现象", "emoji": "🌪️"}
+    ]
+  },
+  {
+    "input_word": "philosophy",
+    "entries": [
+      {"text": "philosophy", "ipa": "/fɪˈlɒsəfi/", "cefr": "B2", "zh": "哲学", "emoji": "🧠"}
+    ]
+  },
+  {
+    "input_word": "phone",
+    "entries": [
+      {"text": "phone", "ipa": "/foʊn/", "cefr": "A1", "zh": "电话", "emoji": "📱"}
+    ]
+  },
+  {
+    "input_word": "photo",
+    "entries": [
+      {"text": "photo", "ipa": "/ˈfoʊtoʊ/", "cefr": "A1", "zh": "照片", "emoji": "📷"}
+    ]
+  },
+  {
+    "input_word": "photograph",
+    "entries": [
+      {"text": "photograph", "ipa": "/ˈfoʊtəɡræf/", "cefr": "A1", "zh": "照片", "emoji": "🖼️"}
+    ]
+  },
+  {
+    "input_word": "photographer",
+    "entries": [
+      {"text": "photographer", "ipa": "/fəˈtɒɡrəfər/", "cefr": "B1", "zh": "摄影师", "emoji": "📸"}
+    ]
+  },
+  {
+    "input_word": "photography",
+    "entries": [
+      {"text": "photography", "ipa": "/fəˈtɒɡrəfi/", "cefr": "B1", "zh": "摄影", "emoji": "📸"}
+    ]
+  },
+  {
+    "input_word": "phrase",
+    "entries": [
+      {"text": "phrase", "ipa": "/freɪz/", "cefr": "A1", "zh": "短语", "emoji": "💬"}
+    ]
+  },
+  {
+    "input_word": "physical",
+    "entries": [
+      {"text": "physical", "ipa": "/ˈfɪzɪkəl/", "cefr": "A2", "zh": "身体的", "emoji": "💪"}
+    ]
+  },
+  {
+    "input_word": "physics",
+    "entries": [
+      {"text": "physics", "ipa": "/ˈfɪzɪks/", "cefr": "A2", "zh": "物理学", "emoji": "⚛️"}
+    ]
+  },
+  {
+    "input_word": "piano",
+    "entries": [
+      {"text": "piano", "ipa": "/piˈænoʊ/", "cefr": "A1", "zh": "钢琴", "emoji": "🎹"}
+    ]
+  },
+  {
+    "input_word": "pick",
+    "entries": [
+      {"text": "pick", "ipa": "/pɪk/", "cefr": "A2", "zh": "挑选", "emoji": "👆"},
+      {"text": "pick", "ipa": "/pɪk/", "cefr": "A2", "zh": "采摘", "emoji": "🌸"}
+    ]
+  },
+  {
+    "input_word": "picture",
+    "entries": [
+      {"text": "picture", "ipa": "/ˈpɪktʃər/", "cefr": "A1", "zh": "图片", "emoji": "🖼️"}
+    ]
+  },
+  {
+    "input_word": "piece",
+    "entries": [
+      {"text": "piece", "ipa": "/piːs/", "cefr": "A1", "zh": "一块", "emoji": "🧩"}
+    ]
+  },
+  {
+    "input_word": "pig",
+    "entries": [
+      {"text": "pig", "ipa": "/pɪɡ/", "cefr": "A1", "zh": "猪", "emoji": "🐷"}
+    ]
+  },
+  {
+    "input_word": "pile",
+    "entries": [
+      {"text": "pile", "ipa": "/paɪl/", "cefr": "B2", "zh": "堆", "emoji": "📚"}
+    ]
+  },
+  {
+    "input_word": "pilot",
+    "entries": [
+      {"text": "pilot", "ipa": "/ˈpaɪlət/", "cefr": "A2", "zh": "飞行员", "emoji": "✈️"}
+    ]
+  },
+  {
+    "input_word": "pin",
+    "entries": [
+      {"text": "pin", "ipa": "/pɪn/", "cefr": "B1", "zh": "大头针", "emoji": "📌"},
+      {"text": "pin", "ipa": "/pɪn/", "cefr": "B1", "zh": "固定", "emoji": "📍"}
+    ]
+  },
+  {
+    "input_word": "pink",
+    "entries": [
+      {"text": "pink", "ipa": "/pɪŋk/", "cefr": "A1", "zh": "粉红色", "emoji": "🌸"}
+    ]
+  },
+  {
+    "input_word": "pipe",
+    "entries": [
+      {"text": "pipe", "ipa": "/paɪp/", "cefr": "B1", "zh": "管道", "emoji": "🔧"}
+    ]
+  },
+  {
+    "input_word": "pitch",
+    "entries": [
+      {"text": "pitch", "ipa": "/pɪtʃ/", "cefr": "B2", "zh": "音调", "emoji": "🎵"},
+      {"text": "pitch", "ipa": "/pɪtʃ/", "cefr": "B2", "zh": "球场", "emoji": "⚽"},
+      {"text": "pitch", "ipa": "/pɪtʃ/", "cefr": "B2", "zh": "推销", "emoji": "💼"}
+    ]
+  }
+]

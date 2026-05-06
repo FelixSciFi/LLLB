@@ -1,0 +1,193 @@
+[
+  {
+    "input_word": "favour",
+    "entries": [
+      {"text": "favour", "ipa": "/ˈfeɪvər/", "cefr": "B1", "zh": "帮助", "emoji": "🤝"},
+      {"text": "favour", "ipa": "/ˈfeɪvər/", "cefr": "B1", "zh": "支持", "emoji": "👍"}
+    ]
+  },
+  {
+    "input_word": "favourite",
+    "entries": [
+      {"text": "favourite", "ipa": "/ˈfeɪvərɪt/", "cefr": "A1", "zh": "最喜欢的", "emoji": "⭐"}
+    ]
+  },
+  {
+    "input_word": "fear",
+    "entries": [
+      {"text": "fear", "ipa": "/fɪr/", "cefr": "A2", "zh": "恐惧", "emoji": "😨"}
+    ]
+  },
+  {
+    "input_word": "feather",
+    "entries": [
+      {"text": "feather", "ipa": "/ˈfɛðər/", "cefr": "B2", "zh": "羽毛", "emoji": "🪶"}
+    ]
+  },
+  {
+    "input_word": "feature",
+    "entries": [
+      {"text": "feature", "ipa": "/ˈfiːtʃər/", "cefr": "A2", "zh": "特征", "emoji": "✨"},
+      {"text": "feature", "ipa": "/ˈfiːtʃər/", "cefr": "A2", "zh": "特写", "emoji": "🎬"}
+    ]
+  },
+  {
+    "input_word": "february",
+    "entries": [
+      {"text": "February", "ipa": "/ˈfɛbruˌɛri/", "cefr": "A1", "zh": "二月", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_word": "fee",
+    "entries": [
+      {"text": "fee", "ipa": "/fiː/", "cefr": "B2", "zh": "费用", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_word": "feed",
+    "entries": [
+      {"text": "feed", "ipa": "/fiːd/", "cefr": "A2", "zh": "喂食", "emoji": "🍼"},
+      {"text": "feed", "ipa": "/fiːd/", "cefr": "A2", "zh": "动态", "emoji": "📱"}
+    ]
+  },
+  {
+    "input_word": "feedback",
+    "entries": [
+      {"text": "feedback", "ipa": "/ˈfiːdbæk/", "cefr": "B2", "zh": "反馈", "emoji": "💬"}
+    ]
+  },
+  {
+    "input_word": "feel",
+    "entries": [
+      {"text": "feel", "ipa": "/fiːl/", "cefr": "A1", "zh": "感觉", "emoji": "🫀"}
+    ]
+  },
+  {
+    "input_word": "feeling",
+    "entries": [
+      {"text": "feeling", "ipa": "/ˈfiːlɪŋ/", "cefr": "A1", "zh": "感受", "emoji": "💭"}
+    ]
+  },
+  {
+    "input_word": "fellow",
+    "entries": [
+      {"text": "fellow", "ipa": "/ˈfɛloʊ/", "cefr": "B2", "zh": "伙伴", "emoji": "🙋"},
+      {"text": "fellow", "ipa": "/ˈfɛloʊ/", "cefr": "B2", "zh": "研究员", "emoji": "🎓"}
+    ]
+  },
+  {
+    "input_word": "female",
+    "entries": [
+      {"text": "female", "ipa": "/ˈfiːmeɪl/", "cefr": "A2", "zh": "女性", "emoji": "♀️"}
+    ]
+  },
+  {
+    "input_word": "fence",
+    "entries": [
+      {"text": "fence", "ipa": "/fɛns/", "cefr": "B1", "zh": "围栏", "emoji": "🪵"}
+    ]
+  },
+  {
+    "input_word": "festival",
+    "entries": [
+      {"text": "festival", "ipa": "/ˈfɛstɪvəl/", "cefr": "A1", "zh": "节日", "emoji": "🎉"}
+    ]
+  },
+  {
+    "input_word": "few",
+    "entries": [
+      {"text": "few", "ipa": "/fjuː/", "cefr": "A1", "zh": "几个", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "fiction",
+    "entries": [
+      {"text": "fiction", "ipa": "/ˈfɪkʃən/", "cefr": "A2", "zh": "小说", "emoji": "📚"}
+    ]
+  },
+  {
+    "input_word": "field",
+    "entries": [
+      {"text": "field", "ipa": "/fiːld/", "cefr": "A2", "zh": "田野", "emoji": "🌾"},
+      {"text": "field", "ipa": "/fiːld/", "cefr": "A2", "zh": "领域", "emoji": "🔬"}
+    ]
+  },
+  {
+    "input_word": "fifteen",
+    "entries": [
+      {"text": "fifteen", "ipa": "/ˌfɪfˈtiːn/", "cefr": "A1", "zh": "十五", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "fifth",
+    "entries": [
+      {"text": "fifth", "ipa": "/fɪfθ/", "cefr": "A1", "zh": "第五", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "fifty",
+    "entries": [
+      {"text": "fifty", "ipa": "/ˈfɪfti/", "cefr": "A1", "zh": "五十", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "fight",
+    "entries": [
+      {"text": "fight", "ipa": "/faɪt/", "cefr": "A2", "zh": "打架", "emoji": "🥊"},
+      {"text": "fight", "ipa": "/faɪt/", "cefr": "A2", "zh": "奋斗", "emoji": "💪"}
+    ]
+  },
+  {
+    "input_word": "fighting",
+    "entries": [
+      {"text": "fighting", "ipa": "/ˈfaɪtɪŋ/", "cefr": "B1", "zh": "战斗", "emoji": "⚔️"}
+    ]
+  },
+  {
+    "input_word": "figure",
+    "entries": [
+      {"text": "figure", "ipa": "/ˈfɪɡjər/", "cefr": "A2", "zh": "数字", "emoji": "🔢"},
+      {"text": "figure", "ipa": "/ˈfɪɡjər/", "cefr": "A2", "zh": "人物", "emoji": "🧍"}
+    ]
+  },
+  {
+    "input_word": "file",
+    "entries": [
+      {"text": "file", "ipa": "/faɪl/", "cefr": "B1", "zh": "文件", "emoji": "📄"},
+      {"text": "file", "ipa": "/faɪl/", "cefr": "B1", "zh": "锉刀", "emoji": "🔧"}
+    ]
+  },
+  {
+    "input_word": "fill",
+    "entries": [
+      {"text": "fill", "ipa": "/fɪl/", "cefr": "A1", "zh": "填充", "emoji": "🫙"}
+    ]
+  },
+  {
+    "input_word": "film",
+    "entries": [
+      {"text": "film", "ipa": "/fɪlm/", "cefr": "A1", "zh": "电影", "emoji": "🎬"},
+      {"text": "film", "ipa": "/fɪlm/", "cefr": "A1", "zh": "薄膜", "emoji": "🎞️"}
+    ]
+  },
+  {
+    "input_word": "final",
+    "entries": [
+      {"text": "final", "ipa": "/ˈfaɪnəl/", "cefr": "A1", "zh": "最终的", "emoji": "🏁"},
+      {"text": "final", "ipa": "/ˈfaɪnəl/", "cefr": "A1", "zh": "决赛", "emoji": "🏆"}
+    ]
+  },
+  {
+    "input_word": "finally",
+    "entries": [
+      {"text": "finally", "ipa": "/ˈfaɪnəli/", "cefr": "A2", "zh": "终于", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_word": "finance",
+    "entries": [
+      {"text": "finance", "ipa": "/ˈfaɪnæns/", "cefr": "B2", "zh": "金融", "emoji": "💹"},
+      {"text": "finance", "ipa": "/ˈfaɪnæns/", "cefr": "B2", "zh": "资助", "emoji": "💰"}
+    ]
+  }
+]

@@ -1,0 +1,279 @@
+[
+  {
+    "text": "une occupation",
+    "ipa": "yn ɔkypasjɔ̃",
+    "translation": {"zh": "一项职业", "en": "an occupation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une occupation", "lemma": "occupation", "ipa": "yn ɔkypasjɔ̃", "translation": {"zh": "职业", "en": "occupation"}, "emoji": "💼"}
+    ]
+  },
+  {
+    "text": "de la poudre",
+    "ipa": "də la pudʁ",
+    "translation": {"zh": "粉末", "en": "powder"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "de la poudre", "lemma": "poudre", "ipa": "də la pudʁ", "translation": {"zh": "粉末", "en": "powder"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une alliance",
+    "ipa": "yn aljɑ̃s",
+    "translation": {"zh": "一个联盟", "en": "an alliance"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une alliance", "lemma": "alliance", "ipa": "yn aljɑ̃s", "translation": {"zh": "联盟", "en": "alliance"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "il émerge de l'eau",
+    "ipa": "il emeʁʒ də lo",
+    "translation": {"zh": "他从水中浮现", "en": "he emerges from the water"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "il émerge(émerger)", "lemma": "émerger", "ipa": "il emeʁʒ", "translation": {"zh": "浮现", "en": "emerge"}, "emoji": ""},
+      {"text": "de l'eau", "lemma": "eau", "ipa": "də lo", "translation": {"zh": "从水中", "en": "from the water"}, "emoji": "💧"}
+    ]
+  },
+  {
+    "text": "la fécondité",
+    "ipa": "la fekɔ̃dite",
+    "translation": {"zh": "生育率", "en": "fertility"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la fécondité", "lemma": "fécondité", "ipa": "la fekɔ̃dite", "translation": {"zh": "生育率", "en": "fertility"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "s'apparenter à",
+    "ipa": "sapaʁɑ̃te a",
+    "translation": {"zh": "与……相似", "en": "to be similar to"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "s'apparenter à", "lemma": "apparenter", "ipa": "sapaʁɑ̃te a", "translation": {"zh": "相似于", "en": "be similar to"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une soixantaine de personnes",
+    "ipa": "yn swasɑ̃tɛn də pɛʁsɔn",
+    "translation": {"zh": "大约六十个人", "en": "about sixty people"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une soixantaine de personnes", "lemma": "soixantaine", "ipa": "yn swasɑ̃tɛn də pɛʁsɔn", "translation": {"zh": "约六十人", "en": "about sixty people"}, "emoji": "👥"}
+    ]
+  },
+  {
+    "text": "il porte une cravate",
+    "ipa": "il pɔʁt yn kʁavat",
+    "translation": {"zh": "他戴着一条领带", "en": "he is wearing a tie"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il porte(porter)", "lemma": "porter", "ipa": "il pɔʁt", "translation": {"zh": "戴着", "en": "wears"}, "emoji": ""},
+      {"text": "une cravate", "lemma": "cravate", "ipa": "yn kʁavat", "translation": {"zh": "领带", "en": "tie"}, "emoji": "👔"}
+    ]
+  },
+  {
+    "text": "le classement",
+    "ipa": "lə klasmɑ̃",
+    "translation": {"zh": "排名", "en": "ranking"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le classement", "lemma": "classement", "ipa": "lə klasmɑ̃", "translation": {"zh": "排名", "en": "ranking"}, "emoji": "🏆"}
+    ]
+  },
+  {
+    "text": "en panne",
+    "ipa": "ɑ̃ pan",
+    "translation": {"zh": "出故障", "en": "broken down"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "en panne", "lemma": "panne", "ipa": "ɑ̃ pan", "translation": {"zh": "故障", "en": "breakdown"}, "emoji": "🔧"}
+    ]
+  },
+  {
+    "text": "il milite pour la paix",
+    "ipa": "il milit puʁ la pɛ",
+    "translation": {"zh": "他为和平而奔走", "en": "he campaigns for peace"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "il milite(militer)", "lemma": "militer", "ipa": "il milit", "translation": {"zh": "倡导", "en": "campaign"}, "emoji": ""},
+      {"text": "pour la paix", "lemma": "paix", "ipa": "puʁ la pɛ", "translation": {"zh": "为和平", "en": "for peace"}, "emoji": "☮️"}
+    ]
+  },
+  {
+    "text": "une fantaisie",
+    "ipa": "yn fɑ̃tezi",
+    "translation": {"zh": "一种幻想", "en": "a fantasy"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une fantaisie", "lemma": "fantaisie", "ipa": "yn fɑ̃tezi", "translation": {"zh": "幻想", "en": "fantasy"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "un millénaire",
+    "ipa": "œ̃ mileneʁ",
+    "translation": {"zh": "一千年", "en": "a millennium"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un millénaire", "lemma": "millénaire", "ipa": "œ̃ mileneʁ", "translation": {"zh": "千年", "en": "millennium"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une attitude hostile",
+    "ipa": "yn atityd ɔstil",
+    "translation": {"zh": "一种敌对态度", "en": "a hostile attitude"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une attitude", "lemma": "attitude", "ipa": "yn atityd", "translation": {"zh": "态度", "en": "attitude"}, "emoji": ""},
+      {"text": "hostile", "lemma": "hostile", "ipa": "ɔstil", "translation": {"zh": "敌对的", "en": "hostile"}, "emoji": "😠"}
+    ]
+  },
+  {
+    "text": "naviguer sur internet",
+    "ipa": "naviɡe syʁ ɛ̃tɛʁnɛt",
+    "translation": {"zh": "上网浏览", "en": "browse the internet"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "naviguer sur internet", "lemma": "naviguer", "ipa": "naviɡe syʁ ɛ̃tɛʁnɛt", "translation": {"zh": "上网浏览", "en": "browse the internet"}, "emoji": "🌐"}
+    ]
+  },
+  {
+    "text": "la vitre",
+    "ipa": "la vitʁ",
+    "translation": {"zh": "玻璃窗", "en": "window pane"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la vitre", "lemma": "vitre", "ipa": "la vitʁ", "translation": {"zh": "玻璃窗", "en": "window pane"}, "emoji": "🪟"}
+    ]
+  },
+  {
+    "text": "une maladie génétique",
+    "ipa": "yn maladi ʒenetik",
+    "translation": {"zh": "一种遗传病", "en": "a genetic disease"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une maladie", "lemma": "maladie", "ipa": "yn maladi", "translation": {"zh": "疾病", "en": "disease"}, "emoji": ""},
+      {"text": "génétique", "lemma": "génétique", "ipa": "ʒenetik", "translation": {"zh": "遗传的", "en": "genetic"}, "emoji": "🧬"}
+    ]
+  },
+  {
+    "text": "c'est sublime",
+    "ipa": "se syblim",
+    "translation": {"zh": "这太美了", "en": "it's sublime"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "c'est sublime", "lemma": "sublime", "ipa": "se syblim", "translation": {"zh": "太美了", "en": "it's sublime"}, "emoji": "😍"}
+    ]
+  },
+  {
+    "text": "un atout majeur",
+    "ipa": "œ̃ atu maʒœʁ",
+    "translation": {"zh": "一大优势", "en": "a major asset"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un atout", "lemma": "atout", "ipa": "œ̃ atu", "translation": {"zh": "优势", "en": "asset"}, "emoji": ""},
+      {"text": "majeur", "lemma": "majeur", "ipa": "maʒœʁ", "translation": {"zh": "主要的", "en": "major"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "en auto",
+    "ipa": "ɑ̃ oto",
+    "translation": {"zh": "开车", "en": "by car"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "en auto", "lemma": "auto", "ipa": "ɑ̃ oto", "translation": {"zh": "开车", "en": "by car"}, "emoji": "🚗"}
+    ]
+  },
+  {
+    "text": "c'est insupportable",
+    "ipa": "se ɛ̃sypɔʁtabl",
+    "translation": {"zh": "这令人无法忍受", "en": "it's unbearable"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "c'est insupportable", "lemma": "insupportable", "ipa": "se ɛ̃sypɔʁtabl", "translation": {"zh": "无法忍受", "en": "unbearable"}, "emoji": "😤"}
+    ]
+  },
+  {
+    "text": "une incertitude",
+    "ipa": "yn ɛ̃sɛʁtityd",
+    "translation": {"zh": "一种不确定性", "en": "an uncertainty"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une incertitude", "lemma": "incertitude", "ipa": "yn ɛ̃sɛʁtityd", "translation": {"zh": "不确定性", "en": "uncertainty"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "de façon systématique",
+    "ipa": "də fasɔ̃ sistematik",
+    "translation": {"zh": "系统地", "en": "systematically"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "de façon systématique", "lemma": "systématique", "ipa": "də fasɔ̃ sistematik", "translation": {"zh": "系统地", "en": "systematically"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "se distraire",
+    "ipa": "sə distʁɛʁ",
+    "translation": {"zh": "消遣放松", "en": "to distract oneself"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "se distraire", "lemma": "distraire", "ipa": "sə distʁɛʁ", "translation": {"zh": "消遣", "en": "distract oneself"}, "emoji": "🎮"}
+    ]
+  },
+  {
+    "text": "il dévoile la vérité",
+    "ipa": "il devwal la veʁite",
+    "translation": {"zh": "他揭示了真相", "en": "he reveals the truth"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "il dévoile(dévoiler)", "lemma": "dévoiler", "ipa": "il devwal", "translation": {"zh": "揭示", "en": "reveal"}, "emoji": ""},
+      {"text": "la vérité", "lemma": "vérité", "ipa": "la veʁite", "translation": {"zh": "真相", "en": "truth"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une substance",
+    "ipa": "yn sybstɑ̃s",
+    "translation": {"zh": "一种物质", "en": "a substance"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une substance", "lemma": "substance", "ipa": "yn sybstɑ̃s", "translation": {"zh": "物质", "en": "substance"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "de la boue",
+    "ipa": "də la bu",
+    "translation": {"zh": "泥巴", "en": "mud"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "de la boue", "lemma": "boue", "ipa": "də la bu", "translation": {"zh": "泥巴", "en": "mud"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "c'est paradoxal",
+    "ipa": "se paʁadɔksal",
+    "translation": {"zh": "这很矛盾", "en": "it's paradoxical"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "c'est paradoxal", "lemma": "paradoxal", "ipa": "se paʁadɔksal", "translation": {"zh": "矛盾的", "en": "paradoxical"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la chair",
+    "ipa": "la ʃɛʁ",
+    "translation": {"zh": "肉体", "en": "flesh"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la chair", "lemma": "chair", "ipa": "la ʃɛʁ", "translation": {"zh": "肉体", "en": "flesh"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "c'est chic",
+    "ipa": "se ʃik",
+    "translation": {"zh": "这很时髦", "en": "it's chic"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "c'est chic", "lemma": "chic", "ipa": "se ʃik", "translation": {"zh": "时髦", "en": "chic"}, "emoji": "💅"}
+    ]
+  }
+]

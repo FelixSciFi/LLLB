@@ -1,0 +1,822 @@
+[
+  {
+    "id": "127cb4bd-10a4-4f88-a834-0d29fbfe1ffa",
+    "text": "校长今天给全校学生讲话。",
+    "ipa": "xiào zhǎng jīn tiān gěi quán xiào xué shēng jiǎng huà",
+    "translation": {
+      "zh": "校长今天给全校学生讲话。",
+      "en": "The principal gave a speech to all the students today."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "校长",
+        "lemma": "校长",
+        "ipa": "xiào zhǎng",
+        "translation": {
+          "zh": "校长",
+          "en": "principal; headmaster"
+        },
+        "emoji": "🏫"
+      },
+      {
+        "text": "今天",
+        "lemma": "今天",
+        "ipa": "jīn tiān",
+        "translation": {
+          "zh": "今天",
+          "en": "today"
+        },
+        "emoji": "📅"
+      },
+      {
+        "text": "给全校学生",
+        "lemma": "给全校学生",
+        "ipa": "gěi quán xiào xué shēng",
+        "translation": {
+          "zh": "给全校学生",
+          "en": "to all the students in the school"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "讲话",
+        "lemma": "讲话",
+        "ipa": "jiǎng huà",
+        "translation": {
+          "zh": "讲话",
+          "en": "to give a speech; to speak"
+        },
+        "emoji": "🎤"
+      }
+    ]
+  },
+  {
+    "id": "8ba1a419-94cb-4de8-83e4-e3c6f14818ff",
+    "text": "我们的校长是一位女老师。",
+    "ipa": "wǒ men de xiào zhǎng shì yī wèi nǚ lǎo shī",
+    "translation": {
+      "zh": "我们的校长是一位女老师。",
+      "en": "Our principal is a female teacher."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我们的",
+        "lemma": "我们的",
+        "ipa": "wǒ men de",
+        "translation": {
+          "zh": "我们的",
+          "en": "our"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "校长",
+        "lemma": "校长",
+        "ipa": "xiào zhǎng",
+        "translation": {
+          "zh": "校长",
+          "en": "principal; headmaster"
+        },
+        "emoji": "🏫"
+      },
+      {
+        "text": "是",
+        "lemma": "是",
+        "ipa": "shì",
+        "translation": {
+          "zh": "是",
+          "en": "is; am; are"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "一位女老师",
+        "lemma": "一位女老师",
+        "ipa": "yī wèi nǚ lǎo shī",
+        "translation": {
+          "zh": "一位女老师",
+          "en": "a female teacher"
+        },
+        "emoji": "👩‍🏫"
+      }
+    ]
+  },
+  {
+    "id": "0af22f55-dc09-418e-88b6-4cbd881e672a",
+    "text": "我每天早上看新闻。",
+    "ipa": "wǒ měi tiān zǎo shàng kàn xīn wén",
+    "translation": {
+      "zh": "我每天早上看新闻。",
+      "en": "I watch the news every morning."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我每天早上",
+        "lemma": "我每天早上",
+        "ipa": "wǒ měi tiān zǎo shàng",
+        "translation": {
+          "zh": "我每天早上",
+          "en": "every morning I"
+        },
+        "emoji": "🌅"
+      },
+      {
+        "text": "看新闻",
+        "lemma": "看新闻",
+        "ipa": "kàn xīn wén",
+        "translation": {
+          "zh": "看新闻",
+          "en": "watch the news"
+        },
+        "emoji": "📰"
+      }
+    ]
+  },
+  {
+    "id": "50bf76bd-b3f4-4c75-b220-a5d5ff66d782",
+    "text": "这条新闻让我很惊讶。",
+    "ipa": "zhè tiáo xīn wén ràng wǒ hěn jīng yà",
+    "translation": {
+      "zh": "这条新闻让我很惊讶。",
+      "en": "This piece of news surprised me very much."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这条新闻",
+        "lemma": "这条新闻",
+        "ipa": "zhè tiáo xīn wén",
+        "translation": {
+          "zh": "这条新闻",
+          "en": "this piece of news"
+        },
+        "emoji": "📰"
+      },
+      {
+        "text": "让我",
+        "lemma": "让我",
+        "ipa": "ràng wǒ",
+        "translation": {
+          "zh": "让我",
+          "en": "made me"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "很惊讶",
+        "lemma": "很惊讶",
+        "ipa": "hěn jīng yà",
+        "translation": {
+          "zh": "很惊讶",
+          "en": "very surprised"
+        },
+        "emoji": "😲"
+      }
+    ]
+  },
+  {
+    "id": "29b1bc43-2647-422f-b18b-7b87ddd54973",
+    "text": "这里的空气很新鲜。",
+    "ipa": "zhè lǐ de kōng qì hěn xīn xiān",
+    "translation": {
+      "zh": "这里的空气很新鲜。",
+      "en": "The air here is very fresh."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这里的",
+        "lemma": "这里的",
+        "ipa": "zhè lǐ de",
+        "translation": {
+          "zh": "这里的",
+          "en": "here's; of this place"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "空气",
+        "lemma": "空气",
+        "ipa": "kōng qì",
+        "translation": {
+          "zh": "空气",
+          "en": "air"
+        },
+        "emoji": "💨"
+      },
+      {
+        "text": "很新鲜",
+        "lemma": "很新鲜",
+        "ipa": "hěn xīn xiān",
+        "translation": {
+          "zh": "很新鲜",
+          "en": "very fresh"
+        },
+        "emoji": "🌿"
+      }
+    ]
+  },
+  {
+    "id": "9d2f07b6-83af-43d1-ab80-570d465be6b0",
+    "text": "我喜欢吃新鲜的水果。",
+    "ipa": "wǒ xǐ huān chī xīn xiān de shuǐ guǒ",
+    "translation": {
+      "zh": "我喜欢吃新鲜的水果。",
+      "en": "I like eating fresh fruit."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我喜欢吃",
+        "lemma": "我喜欢吃",
+        "ipa": "wǒ xǐ huān chī",
+        "translation": {
+          "zh": "我喜欢吃",
+          "en": "I like to eat"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "新鲜的",
+        "lemma": "新鲜的",
+        "ipa": "xīn xiān de",
+        "translation": {
+          "zh": "新鲜的",
+          "en": "fresh"
+        },
+        "emoji": "🌿"
+      },
+      {
+        "text": "水果",
+        "lemma": "水果",
+        "ipa": "shuǐ guǒ",
+        "translation": {
+          "zh": "水果",
+          "en": "fruit"
+        },
+        "emoji": "🍎"
+      }
+    ]
+  },
+  {
+    "id": "589d2de0-d0a5-4bb1-93db-5cf64c6517c8",
+    "text": "我用信用卡付钱了。",
+    "ipa": "wǒ yòng xìn yòng kǎ fù qián le",
+    "translation": {
+      "zh": "我用信用卡付钱了。",
+      "en": "I paid with a credit card."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我",
+        "lemma": "我",
+        "ipa": "wǒ",
+        "translation": {
+          "zh": "我",
+          "en": "I; me"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "用信用卡",
+        "lemma": "用信用卡",
+        "ipa": "yòng xìn yòng kǎ",
+        "translation": {
+          "zh": "用信用卡",
+          "en": "using a credit card"
+        },
+        "emoji": "💳"
+      },
+      {
+        "text": "付钱了",
+        "lemma": "付钱了",
+        "ipa": "fù qián le",
+        "translation": {
+          "zh": "付钱了",
+          "en": "paid"
+        },
+        "emoji": "💰"
+      }
+    ]
+  },
+  {
+    "id": "5f1cd874-2e9e-4052-87c4-8f54bc40142d",
+    "text": "这里可以刷信用卡吗？",
+    "ipa": "zhè lǐ kě yǐ shuā xìn yòng kǎ ma",
+    "translation": {
+      "zh": "这里可以刷信用卡吗？",
+      "en": "Can I pay by credit card here?"
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这里",
+        "lemma": "这里",
+        "ipa": "zhè lǐ",
+        "translation": {
+          "zh": "这里",
+          "en": "here"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "可以刷信用卡吗",
+        "lemma": "可以刷信用卡吗",
+        "ipa": "kě yǐ shuā xìn yòng kǎ ma",
+        "translation": {
+          "zh": "可以刷信用卡吗",
+          "en": "can one pay by credit card"
+        },
+        "emoji": "💳"
+      }
+    ]
+  },
+  {
+    "id": "f2bfee07-a672-48a3-8d66-eb81b046462b",
+    "text": "我的行李箱太重了。",
+    "ipa": "wǒ de xíng lǐ xiāng tài zhòng le",
+    "translation": {
+      "zh": "我的行李箱太重了。",
+      "en": "My suitcase is too heavy."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我的",
+        "lemma": "我的",
+        "ipa": "wǒ de",
+        "translation": {
+          "zh": "我的",
+          "en": "my"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "行李箱",
+        "lemma": "行李箱",
+        "ipa": "xíng lǐ xiāng",
+        "translation": {
+          "zh": "行李箱",
+          "en": "suitcase; luggage bag"
+        },
+        "emoji": "🧳"
+      },
+      {
+        "text": "太重了",
+        "lemma": "太重了",
+        "ipa": "tài zhòng le",
+        "translation": {
+          "zh": "太重了",
+          "en": "too heavy"
+        },
+        "emoji": "⚖️"
+      }
+    ]
+  },
+  {
+    "id": "4bc376b6-9c24-4598-934b-3d4889cbfacb",
+    "text": "她把行李箱放在床下。",
+    "ipa": "tā bǎ xíng lǐ xiāng fàng zài chuáng xià",
+    "translation": {
+      "zh": "她把行李箱放在床下。",
+      "en": "She put the suitcase under the bed."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "她",
+        "lemma": "她",
+        "ipa": "tā",
+        "translation": {
+          "zh": "她",
+          "en": "she; her"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "把行李箱",
+        "lemma": "把行李箱",
+        "ipa": "bǎ xíng lǐ xiāng",
+        "translation": {
+          "zh": "把行李箱",
+          "en": "the suitcase (object marker)"
+        },
+        "emoji": "🧳"
+      },
+      {
+        "text": "放在床下",
+        "lemma": "放在床下",
+        "ipa": "fàng zài chuáng xià",
+        "translation": {
+          "zh": "放在床下",
+          "en": "put under the bed"
+        },
+        "emoji": "🛏️"
+      }
+    ]
+  },
+  {
+    "id": "75c0c90c-538c-4b9b-9610-31bf4807ea12",
+    "text": "熊猫是中国的国宝。",
+    "ipa": "xióng māo shì zhōng guó de guó bǎo",
+    "translation": {
+      "zh": "熊猫是中国的国宝。",
+      "en": "The panda is China's national treasure."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "熊猫",
+        "lemma": "熊猫",
+        "ipa": "xióng māo",
+        "translation": {
+          "zh": "熊猫",
+          "en": "panda"
+        },
+        "emoji": "🐼"
+      },
+      {
+        "text": "是",
+        "lemma": "是",
+        "ipa": "shì",
+        "translation": {
+          "zh": "是",
+          "en": "is"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "中国的",
+        "lemma": "中国的",
+        "ipa": "zhōng guó de",
+        "translation": {
+          "zh": "中国的",
+          "en": "China's"
+        },
+        "emoji": "🇨🇳"
+      },
+      {
+        "text": "国宝",
+        "lemma": "国宝",
+        "ipa": "guó bǎo",
+        "translation": {
+          "zh": "国宝",
+          "en": "national treasure"
+        },
+        "emoji": "🏆"
+      }
+    ]
+  },
+  {
+    "id": "ef4a2b62-594c-4599-8761-114fe650f431",
+    "text": "我们去动物园看熊猫吧。",
+    "ipa": "wǒ men qù dòng wù yuán kàn xióng māo ba",
+    "translation": {
+      "zh": "我们去动物园看熊猫吧。",
+      "en": "Let's go to the zoo to see the pandas."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我们",
+        "lemma": "我们",
+        "ipa": "wǒ men",
+        "translation": {
+          "zh": "我们",
+          "en": "we; us"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "去动物园",
+        "lemma": "去动物园",
+        "ipa": "qù dòng wù yuán",
+        "translation": {
+          "zh": "去动物园",
+          "en": "go to the zoo"
+        },
+        "emoji": "🦁"
+      },
+      {
+        "text": "看熊猫吧",
+        "lemma": "看熊猫吧",
+        "ipa": "kàn xióng māo ba",
+        "translation": {
+          "zh": "看熊猫吧",
+          "en": "see the pandas (suggestion)"
+        },
+        "emoji": "🐼"
+      }
+    ]
+  },
+  {
+    "id": "f9d2bb5a-b40b-4409-bbc5-07d2c8895306",
+    "text": "你需要帮忙吗？",
+    "ipa": "nǐ xū yào bāng máng ma",
+    "translation": {
+      "zh": "你需要帮忙吗？",
+      "en": "Do you need help?"
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "你需要",
+        "lemma": "你需要",
+        "ipa": "nǐ xū yào",
+        "translation": {
+          "zh": "你需要",
+          "en": "do you need"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "帮忙吗",
+        "lemma": "帮忙吗",
+        "ipa": "bāng máng ma",
+        "translation": {
+          "zh": "帮忙吗",
+          "en": "help (question)"
+        },
+        "emoji": "🤝"
+      }
+    ]
+  },
+  {
+    "id": "dd96ff7f-9a32-4ce2-9cfa-5b2155fd2a83",
+    "text": "学中文需要多练习。",
+    "ipa": "xué zhōng wén xū yào duō liàn xí",
+    "translation": {
+      "zh": "学中文需要多练习。",
+      "en": "Learning Chinese requires a lot of practice."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "学中文",
+        "lemma": "学中文",
+        "ipa": "xué zhōng wén",
+        "translation": {
+          "zh": "学中文",
+          "en": "learning Chinese"
+        },
+        "emoji": "📖"
+      },
+      {
+        "text": "需要",
+        "lemma": "需要",
+        "ipa": "xū yào",
+        "translation": {
+          "zh": "需要",
+          "en": "need; require"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "多练习",
+        "lemma": "多练习",
+        "ipa": "duō liàn xí",
+        "translation": {
+          "zh": "多练习",
+          "en": "practice more"
+        },
+        "emoji": "✏️"
+      }
+    ]
+  },
+  {
+    "id": "86f0f579-9ce8-4c0b-b8a7-0a98825e7fb6",
+    "text": "你选择哪个？",
+    "ipa": "nǐ xuǎn zé nǎ ge",
+    "translation": {
+      "zh": "你选择哪个？",
+      "en": "Which one do you choose?"
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "你选择",
+        "lemma": "你选择",
+        "ipa": "nǐ xuǎn zé",
+        "translation": {
+          "zh": "你选择",
+          "en": "you choose"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "哪个",
+        "lemma": "哪个",
+        "ipa": "nǎ ge",
+        "translation": {
+          "zh": "哪个",
+          "en": "which one"
+        },
+        "emoji": "❓"
+      }
+    ]
+  },
+  {
+    "id": "3f775f2a-8d3b-407a-97d7-db2a10cd4865",
+    "text": "这个选择很难做。",
+    "ipa": "zhè ge xuǎn zé hěn nán zuò",
+    "translation": {
+      "zh": "这个选择很难做。",
+      "en": "This choice is very hard to make."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这个",
+        "lemma": "这个",
+        "ipa": "zhè ge",
+        "translation": {
+          "zh": "这个",
+          "en": "this"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "选择",
+        "lemma": "选择",
+        "ipa": "xuǎn zé",
+        "translation": {
+          "zh": "选择",
+          "en": "choice; to choose"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "很难做",
+        "lemma": "很难做",
+        "ipa": "hěn nán zuò",
+        "translation": {
+          "zh": "很难做",
+          "en": "very hard to make"
+        },
+        "emoji": "😰"
+      }
+    ]
+  },
+  {
+    "id": "20e21b4d-52de-4ebf-b67a-699f61c94eb0",
+    "text": "老师的要求很严格。",
+    "ipa": "lǎo shī de yāo qiú hěn yán gé",
+    "translation": {
+      "zh": "老师的要求很严格。",
+      "en": "The teacher's requirements are very strict."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "老师的",
+        "lemma": "老师的",
+        "ipa": "lǎo shī de",
+        "translation": {
+          "zh": "老师的",
+          "en": "the teacher's"
+        },
+        "emoji": "👩‍🏫"
+      },
+      {
+        "text": "要求",
+        "lemma": "要求",
+        "ipa": "yāo qiú",
+        "translation": {
+          "zh": "要求",
+          "en": "requirement; demand"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "很严格",
+        "lemma": "很严格",
+        "ipa": "hěn yán gé",
+        "translation": {
+          "zh": "很严格",
+          "en": "very strict"
+        },
+        "emoji": "📏"
+      }
+    ]
+  },
+  {
+    "id": "9a83daa9-bb10-494d-8506-200e2f701e1b",
+    "text": "他要求我早点来。",
+    "ipa": "tā yāo qiú wǒ zǎo diǎn lái",
+    "translation": {
+      "zh": "他要求我早点来。",
+      "en": "He asked me to come earlier."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他要求我",
+        "lemma": "他要求我",
+        "ipa": "tā yāo qiú wǒ",
+        "translation": {
+          "zh": "他要求我",
+          "en": "he asked me to"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "早点来",
+        "lemma": "早点来",
+        "ipa": "zǎo diǎn lái",
+        "translation": {
+          "zh": "早点来",
+          "en": "come earlier"
+        },
+        "emoji": "⏰"
+      }
+    ]
+  },
+  {
+    "id": "730dd32d-ab69-45c5-86ca-f632f5e97118",
+    "text": "爷爷每天早上打太极。",
+    "ipa": "yé ye měi tiān zǎo shàng dǎ tài jí",
+    "translation": {
+      "zh": "爷爷每天早上打太极。",
+      "en": "Grandpa practices tai chi every morning."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "爷爷",
+        "lemma": "爷爷",
+        "ipa": "yé ye",
+        "translation": {
+          "zh": "爷爷",
+          "en": "grandpa (paternal)"
+        },
+        "emoji": "👴"
+      },
+      {
+        "text": "每天早上",
+        "lemma": "每天早上",
+        "ipa": "měi tiān zǎo shàng",
+        "translation": {
+          "zh": "每天早上",
+          "en": "every morning"
+        },
+        "emoji": "🌅"
+      },
+      {
+        "text": "打太极",
+        "lemma": "打太极",
+        "ipa": "dǎ tài jí",
+        "translation": {
+          "zh": "打太极",
+          "en": "practice tai chi"
+        },
+        "emoji": "🥋"
+      }
+    ]
+  },
+  {
+    "id": "986ab94f-8f11-4c19-95fa-6cbc77b50fc4",
+    "text": "我爷爷今年七十岁了。",
+    "ipa": "wǒ yé ye jīn nián qī shí suì le",
+    "translation": {
+      "zh": "我爷爷今年七十岁了。",
+      "en": "My grandpa is seventy years old this year."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我爷爷",
+        "lemma": "我爷爷",
+        "ipa": "wǒ yé ye",
+        "translation": {
+          "zh": "我爷爷",
+          "en": "my grandpa"
+        },
+        "emoji": "👴"
+      },
+      {
+        "text": "今年",
+        "lemma": "今年",
+        "ipa": "jīn nián",
+        "translation": {
+          "zh": "今年",
+          "en": "this year"
+        },
+        "emoji": "📅"
+      },
+      {
+        "text": "七十岁了",
+        "lemma": "七十岁了",
+        "ipa": "qī shí suì le",
+        "translation": {
+          "zh": "七十岁了",
+          "en": "is seventy years old"
+        },
+        "emoji": "🎂"
+      }
+    ]
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "input_word": "school",
+    "entries": [
+      {"text": "school", "ipa": "/skuːl/", "cefr": "A1", "zh": "学校", "emoji": "🏫"}
+    ]
+  },
+  {
+    "input_word": "science",
+    "entries": [
+      {"text": "science", "ipa": "/ˈsaɪəns/", "cefr": "A1", "zh": "科学", "emoji": "🔬"}
+    ]
+  },
+  {
+    "input_word": "scientific",
+    "entries": [
+      {"text": "scientific", "ipa": "/ˌsaɪənˈtɪfɪk/", "cefr": "B1", "zh": "科学的", "emoji": "🔬"}
+    ]
+  },
+  {
+    "input_word": "scientist",
+    "entries": [
+      {"text": "scientist", "ipa": "/ˈsaɪəntɪst/", "cefr": "A1", "zh": "科学家", "emoji": "👩‍🔬"}
+    ]
+  },
+  {
+    "input_word": "score",
+    "entries": [
+      {"text": "score", "ipa": "/skɔːr/", "cefr": "A2", "zh": "分数", "emoji": "🏆"},
+      {"text": "score", "ipa": "/skɔːr/", "cefr": "A2", "zh": "得分", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_word": "scream",
+    "entries": [
+      {"text": "scream", "ipa": "/skriːm/", "cefr": "B2", "zh": "尖叫", "emoji": "😱"}
+    ]
+  },
+  {
+    "input_word": "screen",
+    "entries": [
+      {"text": "screen", "ipa": "/skriːn/", "cefr": "A2", "zh": "屏幕", "emoji": "🖥️"}
+    ]
+  },
+  {
+    "input_word": "script",
+    "entries": [
+      {"text": "script", "ipa": "/skrɪpt/", "cefr": "B1", "zh": "剧本", "emoji": "📜"},
+      {"text": "script", "ipa": "/skrɪpt/", "cefr": "B1", "zh": "脚本", "emoji": "💻"}
+    ]
+  },
+  {
+    "input_word": "sculpture",
+    "entries": [
+      {"text": "sculpture", "ipa": "/ˈskʌlptʃər/", "cefr": "B1", "zh": "雕塑", "emoji": "🗿"}
+    ]
+  },
+  {
+    "input_word": "sea",
+    "entries": [
+      {"text": "sea", "ipa": "/siː/", "cefr": "A1", "zh": "海洋", "emoji": "🌊"}
+    ]
+  },
+  {
+    "input_word": "search",
+    "entries": [
+      {"text": "search", "ipa": "/sɜːrtʃ/", "cefr": "A2", "zh": "搜索", "emoji": "🔍"}
+    ]
+  },
+  {
+    "input_word": "season",
+    "entries": [
+      {"text": "season", "ipa": "/ˈsiːzən/", "cefr": "A2", "zh": "季节", "emoji": "🍂"},
+      {"text": "season", "ipa": "/ˈsiːzən/", "cefr": "A2", "zh": "赛季", "emoji": "🏅"}
+    ]
+  },
+  {
+    "input_word": "seat",
+    "entries": [
+      {"text": "seat", "ipa": "/siːt/", "cefr": "A2", "zh": "座位", "emoji": "💺"}
+    ]
+  },
+  {
+    "input_word": "second",
+    "entries": [
+      {"text": "second", "ipa": "/ˈsɛkənd/", "cefr": "A1", "zh": "秒", "emoji": "⏱️"},
+      {"text": "second", "ipa": "/ˈsɛkənd/", "cefr": "A1", "zh": "第二", "emoji": "2️⃣"}
+    ]
+  },
+  {
+    "input_word": "secondary",
+    "entries": [
+      {"text": "secondary", "ipa": "/ˈsɛkənˌdɛri/", "cefr": "B1", "zh": "次要的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "secondly",
+    "entries": [
+      {"text": "secondly", "ipa": "/ˈsɛkəndli/", "cefr": "A2", "zh": "其次", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "secret",
+    "entries": [
+      {"text": "secret", "ipa": "/ˈsiːkrɪt/", "cefr": "A2", "zh": "秘密", "emoji": "🤫"}
+    ]
+  },
+  {
+    "input_word": "secretary",
+    "entries": [
+      {"text": "secretary", "ipa": "/ˈsɛkrɪˌtɛri/", "cefr": "A2", "zh": "秘书", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_word": "section",
+    "entries": [
+      {"text": "section", "ipa": "/ˈsɛkʃən/", "cefr": "A1", "zh": "部分", "emoji": "📑"}
+    ]
+  },
+  {
+    "input_word": "sector",
+    "entries": [
+      {"text": "sector", "ipa": "/ˈsɛktər/", "cefr": "B2", "zh": "行业", "emoji": "🏢"}
+    ]
+  },
+  {
+    "input_word": "secure",
+    "entries": [
+      {"text": "secure", "ipa": "/sɪˈkjʊr/", "cefr": "B2", "zh": "安全的", "emoji": "🔒"},
+      {"text": "secure", "ipa": "/sɪˈkjʊr/", "cefr": "B2", "zh": "获得", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_word": "security",
+    "entries": [
+      {"text": "security", "ipa": "/sɪˈkjʊrɪti/", "cefr": "B1", "zh": "安全", "emoji": "🔐"}
+    ]
+  },
+  {
+    "input_word": "see",
+    "entries": [
+      {"text": "see", "ipa": "/siː/", "cefr": "A1", "zh": "看见", "emoji": "👁️"}
+    ]
+  },
+  {
+    "input_word": "seed",
+    "entries": [
+      {"text": "seed", "ipa": "/siːd/", "cefr": "B1", "zh": "种子", "emoji": "🌱"}
+    ]
+  },
+  {
+    "input_word": "seek",
+    "entries": [
+      {"text": "seek", "ipa": "/siːk/", "cefr": "B2", "zh": "寻求", "emoji": "🔍"}
+    ]
+  },
+  {
+    "input_word": "seem",
+    "entries": [
+      {"text": "seem", "ipa": "/siːm/", "cefr": "A2", "zh": "似乎", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "select",
+    "entries": [
+      {"text": "select", "ipa": "/sɪˈlɛkt/", "cefr": "B2", "zh": "选择", "emoji": "☑️"}
+    ]
+  },
+  {
+    "input_word": "selection",
+    "entries": [
+      {"text": "selection", "ipa": "/sɪˈlɛkʃən/", "cefr": "B2", "zh": "选择", "emoji": "🗂️"}
+    ]
+  },
+  {
+    "input_word": "self",
+    "entries": [
+      {"text": "self", "ipa": "/sɛlf/", "cefr": "B2", "zh": "自我", "emoji": "🪞"}
+    ]
+  },
+  {
+    "input_word": "sell",
+    "entries": [
+      {"text": "sell", "ipa": "/sɛl/", "cefr": "A1", "zh": "出售", "emoji": "💰"}
+    ]
+  }
+]

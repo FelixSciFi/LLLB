@@ -1,0 +1,180 @@
+[
+  {
+    "input_word": "deserve",
+    "entries": [
+      {"text": "deserve", "ipa": "/dɪˈzɜːrv/", "cefr": "B2", "zh": "值得", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "design",
+    "entries": [
+      {"text": "design", "ipa": "/dɪˈzaɪn/", "cefr": "A1", "zh": "设计", "emoji": "✏️"}
+    ]
+  },
+  {
+    "input_word": "designer",
+    "entries": [
+      {"text": "designer", "ipa": "/dɪˈzaɪnər/", "cefr": "A2", "zh": "设计师", "emoji": "🎨"}
+    ]
+  },
+  {
+    "input_word": "desire",
+    "entries": [
+      {"text": "desire", "ipa": "/dɪˈzaɪər/", "cefr": "B2", "zh": "渴望", "emoji": "💫"}
+    ]
+  },
+  {
+    "input_word": "desk",
+    "entries": [
+      {"text": "desk", "ipa": "/dɛsk/", "cefr": "A1", "zh": "书桌", "emoji": "🪑"}
+    ]
+  },
+  {
+    "input_word": "desperate",
+    "entries": [
+      {"text": "desperate", "ipa": "/ˈdɛspərɪt/", "cefr": "B2", "zh": "绝望的", "emoji": "😰"}
+    ]
+  },
+  {
+    "input_word": "despite",
+    "entries": []
+  },
+  {
+    "input_word": "destination",
+    "entries": [
+      {"text": "destination", "ipa": "/ˌdɛstɪˈneɪʃən/", "cefr": "B1", "zh": "目的地", "emoji": "📍"}
+    ]
+  },
+  {
+    "input_word": "destroy",
+    "entries": [
+      {"text": "destroy", "ipa": "/dɪˈstrɔɪ/", "cefr": "A2", "zh": "破坏", "emoji": "💥"}
+    ]
+  },
+  {
+    "input_word": "detail",
+    "entries": [
+      {"text": "detail", "ipa": "/ˈdiːteɪl/", "cefr": "A1", "zh": "细节", "emoji": "🔍"}
+    ]
+  },
+  {
+    "input_word": "detailed",
+    "entries": [
+      {"text": "detailed", "ipa": "/ˈdiːteɪld/", "cefr": "B2", "zh": "详细的", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_word": "detect",
+    "entries": [
+      {"text": "detect", "ipa": "/dɪˈtɛkt/", "cefr": "B2", "zh": "检测", "emoji": "🔎"}
+    ]
+  },
+  {
+    "input_word": "detective",
+    "entries": [
+      {"text": "detective", "ipa": "/dɪˈtɛktɪv/", "cefr": "A2", "zh": "侦探", "emoji": "🕵️"}
+    ]
+  },
+  {
+    "input_word": "determine",
+    "entries": [
+      {"text": "determine", "ipa": "/dɪˈtɜːrmɪn/", "cefr": "B1", "zh": "确定", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_word": "determined",
+    "entries": [
+      {"text": "determined", "ipa": "/dɪˈtɜːrmɪnd/", "cefr": "B1", "zh": "坚定的", "emoji": "💪"}
+    ]
+  },
+  {
+    "input_word": "develop",
+    "entries": [
+      {"text": "develop", "ipa": "/dɪˈvɛləp/", "cefr": "A2", "zh": "发展", "emoji": "📈"}
+    ]
+  },
+  {
+    "input_word": "development",
+    "entries": [
+      {"text": "development", "ipa": "/dɪˈvɛləpmənt/", "cefr": "B1", "zh": "发展", "emoji": "🏗️"}
+    ]
+  },
+  {
+    "input_word": "device",
+    "entries": [
+      {"text": "device", "ipa": "/dɪˈvaɪs/", "cefr": "A2", "zh": "设备", "emoji": "📱"}
+    ]
+  },
+  {
+    "input_word": "diagram",
+    "entries": [
+      {"text": "diagram", "ipa": "/ˈdaɪəɡræm/", "cefr": "B1", "zh": "图表", "emoji": "📊"}
+    ]
+  },
+  {
+    "input_word": "dialogue",
+    "entries": [
+      {"text": "dialogue", "ipa": "/ˈdaɪəlɔːɡ/", "cefr": "A1", "zh": "对话", "emoji": "💬"}
+    ]
+  },
+  {
+    "input_word": "diamond",
+    "entries": [
+      {"text": "diamond", "ipa": "/ˈdaɪəmənd/", "cefr": "B1", "zh": "钻石", "emoji": "💎"}
+    ]
+  },
+  {
+    "input_word": "diary",
+    "entries": [
+      {"text": "diary", "ipa": "/ˈdaɪəri/", "cefr": "A2", "zh": "日记本", "emoji": "📔"}
+    ]
+  },
+  {
+    "input_word": "dictionary",
+    "entries": [
+      {"text": "dictionary", "ipa": "/ˈdɪkʃəˌnɛri/", "cefr": "A1", "zh": "词典", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_word": "die",
+    "entries": [
+      {"text": "die", "ipa": "/daɪ/", "cefr": "A1", "zh": "死亡", "emoji": "💀"}
+    ]
+  },
+  {
+    "input_word": "diet",
+    "entries": [
+      {"text": "diet", "ipa": "/ˈdaɪət/", "cefr": "A1", "zh": "饮食", "emoji": "🥗"}
+    ]
+  },
+  {
+    "input_word": "difference",
+    "entries": [
+      {"text": "difference", "ipa": "/ˈdɪfərəns/", "cefr": "A1", "zh": "差异", "emoji": "🔄"}
+    ]
+  },
+  {
+    "input_word": "different",
+    "entries": [
+      {"text": "different", "ipa": "/ˈdɪfərənt/", "cefr": "A1", "zh": "不同的", "emoji": "🔀"}
+    ]
+  },
+  {
+    "input_word": "differently",
+    "entries": [
+      {"text": "differently", "ipa": "/ˈdɪfərəntli/", "cefr": "A2", "zh": "以不同方式", "emoji": "↔️"}
+    ]
+  },
+  {
+    "input_word": "difficult",
+    "entries": [
+      {"text": "difficult", "ipa": "/ˈdɪfɪkəlt/", "cefr": "A1", "zh": "困难的", "emoji": "😓"}
+    ]
+  },
+  {
+    "input_word": "difficulty",
+    "entries": [
+      {"text": "difficulty", "ipa": "/ˈdɪfɪkəlti/", "cefr": "B1", "zh": "困难", "emoji": "🧗"}
+    ]
+  }
+]

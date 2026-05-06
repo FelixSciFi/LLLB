@@ -1,0 +1,160 @@
+[
+  {
+    "text": "我冒了严寒，回到相隔二千余里。",
+    "ipa": "wǒ mào le yán hán, huí dào xiāng gé èr qiān yú lǐ.",
+    "translation": {
+      "zh": "我冒了严寒，回到相隔二千余里。",
+      "en": "Braving the bitter cold, I returned across more than two thousand li."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "我冒了严寒",
+        "lemma": "冒",
+        "ipa": "wǒ mào le yán hán",
+        "translation": {"zh": "我顶着严寒", "en": "I braved the cold"},
+        "emoji": "🥶"
+      },
+      {
+        "text": "回到",
+        "lemma": "回",
+        "ipa": "huí dào",
+        "translation": {"zh": "返回到", "en": "returned to"},
+        "emoji": "↩️"
+      },
+      {
+        "text": "相隔二千余里",
+        "lemma": "相隔",
+        "ipa": "xiāng gé èr qiān yú lǐ",
+        "translation": {"zh": "相距两千多里", "en": "over two thousand li away"},
+        "emoji": "📏"
+      }
+    ],
+    "tags": [{"name": "故乡", "index": 1}]
+  },
+  {
+    "text": "别了二十余年的故乡去。",
+    "ipa": "bié le èr shí yú nián de gù xiāng qù.",
+    "translation": {
+      "zh": "别了二十余年的故乡去。",
+      "en": "back to the hometown I had been parted from for over twenty years."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "别了二十余年",
+        "lemma": "别",
+        "ipa": "bié le èr shí yú nián",
+        "translation": {"zh": "离别了二十多年", "en": "parted for twenty+ years"},
+        "emoji": "👋"
+      },
+      {
+        "text": "的故乡去",
+        "lemma": "故乡",
+        "ipa": "de gù xiāng qù",
+        "translation": {"zh": "的老家", "en": "to hometown"},
+        "emoji": "🏡"
+      }
+    ],
+    "tags": [{"name": "故乡", "index": 2}]
+  },
+  {
+    "text": "时候既然是深冬。",
+    "ipa": "shí hòu jì rán shì shēn dōng.",
+    "translation": {
+      "zh": "时候既然是深冬。",
+      "en": "The season, after all, was deep winter."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "时候",
+        "lemma": "时候",
+        "ipa": "shí hòu",
+        "translation": {"zh": "时节", "en": "the time"},
+        "emoji": "🕰️"
+      },
+      {
+        "text": "既然",
+        "lemma": "既然",
+        "ipa": "jì rán",
+        "translation": {"zh": "本来就", "en": "since"},
+        "emoji": ""
+      },
+      {
+        "text": "是深冬",
+        "lemma": "深冬",
+        "ipa": "shì shēn dōng",
+        "translation": {"zh": "是寒冬", "en": "was deep winter"},
+        "emoji": "❄️"
+      }
+    ],
+    "tags": [{"name": "故乡", "index": 3}]
+  },
+  {
+    "text": "渐近故乡时，天气又阴晦了。",
+    "ipa": "jiàn jìn gù xiāng shí, tiān qì yòu yīn huì le.",
+    "translation": {
+      "zh": "渐近故乡时，天气又阴晦了。",
+      "en": "As I drew near my hometown, the sky once again turned gloomy."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "渐近故乡时",
+        "lemma": "近",
+        "ipa": "jiàn jìn gù xiāng shí",
+        "translation": {"zh": "快到老家时", "en": "nearing hometown"},
+        "emoji": "🛤️"
+      },
+      {
+        "text": "天气",
+        "lemma": "天气",
+        "ipa": "tiān qì",
+        "translation": {"zh": "天色", "en": "the weather"},
+        "emoji": "🌥️"
+      },
+      {
+        "text": "又阴晦了",
+        "lemma": "阴晦",
+        "ipa": "yòu yīn huì le",
+        "translation": {"zh": "又阴沉了", "en": "turned gloomy again"},
+        "emoji": "☁️"
+      }
+    ],
+    "tags": [{"name": "故乡", "index": 4}]
+  },
+  {
+    "text": "冷风吹进船舱中，呜呜的响。",
+    "ipa": "lěng fēng chuī jìn chuán cāng zhōng, wū wū de xiǎng.",
+    "translation": {
+      "zh": "冷风吹进船舱中，呜呜的响。",
+      "en": "A cold wind blew into the cabin, moaning with a low howl."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "冷风",
+        "lemma": "冷风",
+        "ipa": "lěng fēng",
+        "translation": {"zh": "寒风", "en": "cold wind"},
+        "emoji": "🌬️"
+      },
+      {
+        "text": "吹进船舱中",
+        "lemma": "吹",
+        "ipa": "chuī jìn chuán cāng zhōng",
+        "translation": {"zh": "灌进船舱里", "en": "blew into the cabin"},
+        "emoji": "⛵"
+      },
+      {
+        "text": "呜呜的响",
+        "lemma": "响",
+        "ipa": "wū wū de xiǎng",
+        "translation": {"zh": "呜呜地作响", "en": "howled wuu-wuu"},
+        "emoji": "🔊"
+      }
+    ],
+    "tags": [{"name": "故乡", "index": 5}]
+  }
+]

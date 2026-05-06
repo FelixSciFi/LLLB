@@ -1,0 +1,272 @@
+[
+  {
+    "text": "à la retraite",
+    "ipa": "a la ʁətʁɛt",
+    "translation": {"zh": "退休了", "en": "retired"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "à la retraite", "lemma": "retraite", "ipa": "a la ʁətʁɛt", "translation": {"zh": "退休", "en": "retirement"}, "emoji": "👴"}
+    ]
+  },
+  {
+    "text": "sympa",
+    "ipa": "sɛ̃pa",
+    "translation": {"zh": "友好的", "en": "friendly"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "sympa", "lemma": "sympa", "ipa": "sɛ̃pa", "translation": {"zh": "友好的", "en": "friendly"}, "emoji": "😊"}
+    ]
+  },
+  {
+    "text": "inventer une histoire",
+    "ipa": "ɛ̃vɑ̃te yn istwaʁ",
+    "translation": {"zh": "编一个故事", "en": "make up a story"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "inventer une histoire", "lemma": "inventer", "ipa": "ɛ̃vɑ̃te yn istwaʁ", "translation": {"zh": "编造故事", "en": "make up a story"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "les médias",
+    "ipa": "le medja",
+    "translation": {"zh": "媒体", "en": "the media"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "les médias", "lemma": "médias", "ipa": "le medja", "translation": {"zh": "媒体", "en": "media"}, "emoji": "📺"}
+    ]
+  },
+  {
+    "text": "entouré d'amis",
+    "ipa": "ɑ̃tuʁe damis",
+    "translation": {"zh": "被朋友围绕", "en": "surrounded by friends"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "entouré d'amis", "lemma": "entourer", "ipa": "ɑ̃tuʁe damis", "translation": {"zh": "被朋友围绕", "en": "surrounded by friends"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "un texte littéraire",
+    "ipa": "œ̃ tɛkst liteʁɛʁ",
+    "translation": {"zh": "一篇文学文本", "en": "a literary text"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un texte littéraire", "lemma": "littéraire", "ipa": "œ̃ tɛkst liteʁɛʁ", "translation": {"zh": "文学的", "en": "literary"}, "emoji": "📖"}
+    ]
+  },
+  {
+    "text": "auprès de lui",
+    "ipa": "opʁɛ də lɥi",
+    "translation": {"zh": "在他旁边", "en": "near him"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "auprès de lui", "lemma": "auprès", "ipa": "opʁɛ də lɥi", "translation": {"zh": "在旁边", "en": "near"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "les transports en commun",
+    "ipa": "le tʁɑ̃spɔʁ ɑ̃ kɔmœ̃",
+    "translation": {"zh": "公共交通", "en": "public transport"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "les transports en commun", "lemma": "transport", "ipa": "le tʁɑ̃spɔʁ ɑ̃ kɔmœ̃", "translation": {"zh": "公共交通", "en": "public transport"}, "emoji": "🚌"}
+    ]
+  },
+  {
+    "text": "par hasard",
+    "ipa": "paʁ azaʁ",
+    "translation": {"zh": "偶然", "en": "by chance"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "par hasard", "lemma": "hasard", "ipa": "paʁ azaʁ", "translation": {"zh": "偶然", "en": "by chance"}, "emoji": "🎲"}
+    ]
+  },
+  {
+    "text": "mon enfance",
+    "ipa": "mɔ̃n ɑ̃fɑ̃s",
+    "translation": {"zh": "我的童年", "en": "my childhood"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "mon enfance", "lemma": "enfance", "ipa": "mɔ̃n ɑ̃fɑ̃s", "translation": {"zh": "童年", "en": "childhood"}, "emoji": "👶"}
+    ]
+  },
+  {
+    "text": "assister à un concert",
+    "ipa": "asiste a œ̃ kɔ̃sɛʁ",
+    "translation": {"zh": "参加一场音乐会", "en": "attend a concert"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "assister à un concert", "lemma": "assister", "ipa": "asiste a œ̃ kɔ̃sɛʁ", "translation": {"zh": "参加音乐会", "en": "attend a concert"}, "emoji": "🎵"}
+    ]
+  },
+  {
+    "text": "oser parler",
+    "ipa": "oze paʁle",
+    "translation": {"zh": "敢于说话", "en": "dare to speak"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "oser parler", "lemma": "oser", "ipa": "oze paʁle", "translation": {"zh": "敢于开口", "en": "dare to speak"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "se taire",
+    "ipa": "sə tɛʁ",
+    "translation": {"zh": "保持沉默", "en": "keep quiet"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "se taire", "lemma": "taire", "ipa": "sə tɛʁ", "translation": {"zh": "沉默", "en": "keep quiet"}, "emoji": "🤫"}
+    ]
+  },
+  {
+    "text": "désormais",
+    "ipa": "dezɔʁmɛ",
+    "translation": {"zh": "从今以后", "en": "from now on"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "désormais", "lemma": "désormais", "ipa": "dezɔʁmɛ", "translation": {"zh": "从今以后", "en": "from now on"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une auberge de jeunesse",
+    "ipa": "yn obɛʁʒ də ʒœnɛs",
+    "translation": {"zh": "一家青年旅舍", "en": "a youth hostel"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une auberge de jeunesse", "lemma": "auberge", "ipa": "yn obɛʁʒ də ʒœnɛs", "translation": {"zh": "青年旅舍", "en": "hostel"}, "emoji": "🏨"}
+    ]
+  },
+  {
+    "text": "pendre son manteau",
+    "ipa": "pɑ̃dʁ sɔ̃ mɑ̃to",
+    "translation": {"zh": "挂上外套", "en": "hang up one's coat"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "pendre son manteau", "lemma": "pendre", "ipa": "pɑ̃dʁ sɔ̃ mɑ̃to", "translation": {"zh": "挂外套", "en": "hang up coat"}, "emoji": "🧥"}
+    ]
+  },
+  {
+    "text": "défendre ses droits",
+    "ipa": "defɑ̃dʁ se dʁwa",
+    "translation": {"zh": "捍卫自己的权利", "en": "defend one's rights"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "défendre ses droits", "lemma": "défendre", "ipa": "defɑ̃dʁ se dʁwa", "translation": {"zh": "捍卫权利", "en": "defend one's rights"}, "emoji": "✊"}
+    ]
+  },
+  {
+    "text": "une expression idiomatique",
+    "ipa": "yn ɛkspʁɛsjɔ̃ idjɔmatik",
+    "translation": {"zh": "一个习惯用语", "en": "an idiomatic expression"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une expression idiomatique", "lemma": "expression", "ipa": "yn ɛkspʁɛsjɔ̃ idjɔmatik", "translation": {"zh": "习惯表达", "en": "idiomatic expression"}, "emoji": "💬"}
+    ]
+  },
+  {
+    "text": "un ciel gris",
+    "ipa": "œ̃ sjɛl ɡʁi",
+    "translation": {"zh": "灰色的天空", "en": "a grey sky"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un ciel gris", "lemma": "gris", "ipa": "œ̃ sjɛl ɡʁi", "translation": {"zh": "灰色的", "en": "grey"}, "emoji": "🌫️"}
+    ]
+  },
+  {
+    "text": "relever un défi",
+    "ipa": "ʁəlve œ̃ defi",
+    "translation": {"zh": "接受挑战", "en": "take up a challenge"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "relever un défi", "lemma": "relever", "ipa": "ʁəlve œ̃ defi", "translation": {"zh": "接受挑战", "en": "take up a challenge"}, "emoji": "🏆"}
+    ]
+  },
+  {
+    "text": "une personne âgée",
+    "ipa": "yn pɛʁsɔn aʒe",
+    "translation": {"zh": "一位老人", "en": "an elderly person"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une personne âgée", "lemma": "âgé", "ipa": "yn pɛʁsɔn aʒe", "translation": {"zh": "年老的", "en": "elderly"}, "emoji": "👴"}
+    ]
+  },
+  {
+    "text": "au bar",
+    "ipa": "o baʁ",
+    "translation": {"zh": "在酒吧", "en": "at the bar"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "au bar", "lemma": "bar", "ipa": "o baʁ", "translation": {"zh": "酒吧", "en": "bar"}, "emoji": "🍺"}
+    ]
+  },
+  {
+    "text": "se moquer de moi",
+    "ipa": "sə mɔke də mwa",
+    "translation": {"zh": "嘲笑我", "en": "make fun of me"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "se moquer de moi", "lemma": "moquer", "ipa": "sə mɔke də mwa", "translation": {"zh": "嘲笑", "en": "make fun of"}, "emoji": "😆"}
+    ]
+  },
+  {
+    "text": "une bouteille d'eau",
+    "ipa": "yn butɛj do",
+    "translation": {"zh": "一瓶水", "en": "a bottle of water"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une bouteille d'eau", "lemma": "bouteille", "ipa": "yn butɛj do", "translation": {"zh": "一瓶水", "en": "bottle of water"}, "emoji": "🍶"}
+    ]
+  },
+  {
+    "text": "un usage courant",
+    "ipa": "œ̃yzaʒ kuʁɑ̃",
+    "translation": {"zh": "一种常见用法", "en": "a common usage"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un usage courant", "lemma": "usage", "ipa": "œ̃yzaʒ kuʁɑ̃", "translation": {"zh": "常见用法", "en": "common usage"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "poursuivre ses études",
+    "ipa": "puʁsɥivʁ sez etyd",
+    "translation": {"zh": "继续学业", "en": "continue one's studies"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "poursuivre ses études", "lemma": "poursuivre", "ipa": "puʁsɥivʁ sez etyd", "translation": {"zh": "继续学业", "en": "continue studies"}, "emoji": "📚"}
+    ]
+  },
+  {
+    "text": "s'endormir",
+    "ipa": "sɑ̃dɔʁmiʁ",
+    "translation": {"zh": "入睡", "en": "fall asleep"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "s'endormir", "lemma": "endormir", "ipa": "sɑ̃dɔʁmiʁ", "translation": {"zh": "入睡", "en": "fall asleep"}, "emoji": "😴"}
+    ]
+  },
+  {
+    "text": "serrer la main",
+    "ipa": "seʁe la mɛ̃",
+    "translation": {"zh": "握手", "en": "shake hands"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "serrer la main", "lemma": "serrer", "ipa": "seʁe la mɛ̃", "translation": {"zh": "握手", "en": "shake hands"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "un geste de politesse",
+    "ipa": "œ̃ ʒɛst də pɔlitɛs",
+    "translation": {"zh": "一个礼貌的举动", "en": "a polite gesture"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un geste de politesse", "lemma": "geste", "ipa": "œ̃ ʒɛst də pɔlitɛs", "translation": {"zh": "礼貌举动", "en": "polite gesture"}, "emoji": "🙏"}
+    ]
+  },
+  {
+    "text": "s'opposer à une idée",
+    "ipa": "sopɔze a yn ide",
+    "translation": {"zh": "反对一个想法", "en": "oppose an idea"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "s'opposer à une idée", "lemma": "opposer", "ipa": "sopɔze a yn ide", "translation": {"zh": "反对想法", "en": "oppose an idea"}, "emoji": "🚫"}
+    ]
+  }
+]

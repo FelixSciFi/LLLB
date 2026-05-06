@@ -1,0 +1,183 @@
+[
+  {
+    "input_text": "悲观",
+    "entries": [
+      {"text": "悲观", "pinyin": "bēi guān", "en": "pessimistic", "emoji": "😔"}
+    ]
+  },
+  {
+    "input_text": "背景",
+    "entries": [
+      {"text": "背景", "pinyin": "bèi jǐng", "en": "background; context", "emoji": "🖼️"}
+    ]
+  },
+  {
+    "input_text": "被子",
+    "entries": [
+      {"text": "被子", "pinyin": "bèi zi", "en": "quilt; duvet", "emoji": "🛏️"}
+    ]
+  },
+  {
+    "input_text": "本科",
+    "entries": [
+      {"text": "本科", "pinyin": "běn kē", "en": "undergraduate degree", "emoji": "🎓"}
+    ]
+  },
+  {
+    "input_text": "本领",
+    "entries": [
+      {"text": "本领", "pinyin": "běn lǐng", "en": "skill; ability", "emoji": "💪"}
+    ]
+  },
+  {
+    "input_text": "本质",
+    "entries": [
+      {"text": "本质", "pinyin": "běn zhì", "en": "essence; nature", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "比例",
+    "entries": [
+      {"text": "比例", "pinyin": "bǐ lì", "en": "ratio; proportion", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "彼此",
+    "entries": [
+      {"text": "彼此", "pinyin": "bǐ cǐ", "en": "each other", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_text": "必然",
+    "entries": [
+      {"text": "必然", "pinyin": "bì rán", "en": "inevitable; certain", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "必要",
+    "entries": [
+      {"text": "必要", "pinyin": "bì yào", "en": "necessary", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "毕竟",
+    "entries": [
+      {"text": "毕竟", "pinyin": "bì jìng", "en": "after all", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "避免",
+    "entries": [
+      {"text": "避免", "pinyin": "bì miǎn", "en": "avoid", "emoji": "🚫"}
+    ]
+  },
+  {
+    "input_text": "编辑",
+    "entries": [
+      {"text": "编辑", "pinyin": "biān jí", "en": "edit; editing", "emoji": "✏️"},
+      {"text": "编辑", "pinyin": "biān jí", "en": "editor (person)", "emoji": "👤"}
+    ]
+  },
+  {
+    "input_text": "鞭炮",
+    "entries": [
+      {"text": "鞭炮", "pinyin": "biān pào", "en": "firecracker", "emoji": "🧨"}
+    ]
+  },
+  {
+    "input_text": "便",
+    "entries": [
+      {"text": "便", "pinyin": "biàn", "en": "convenient; then", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "辩论",
+    "entries": [
+      {"text": "辩论", "pinyin": "biàn lùn", "en": "debate; argue", "emoji": "🗣️"}
+    ]
+  },
+  {
+    "input_text": "标点",
+    "entries": [
+      {"text": "标点", "pinyin": "biāo diǎn", "en": "punctuation", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "标志",
+    "entries": [
+      {"text": "标志", "pinyin": "biāo zhì", "en": "sign; symbol; mark", "emoji": "🔖"}
+    ]
+  },
+  {
+    "input_text": "表达",
+    "entries": [
+      {"text": "表达", "pinyin": "biǎo dá", "en": "express; convey", "emoji": "💬"}
+    ]
+  },
+  {
+    "input_text": "表面",
+    "entries": [
+      {"text": "表面", "pinyin": "biǎo miàn", "en": "surface; appearance", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "表明",
+    "entries": [
+      {"text": "表明", "pinyin": "biǎo míng", "en": "indicate; make clear", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "表情",
+    "entries": [
+      {"text": "表情", "pinyin": "biǎo qíng", "en": "facial expression", "emoji": "😊"}
+    ]
+  },
+  {
+    "input_text": "表现",
+    "entries": [
+      {"text": "表现", "pinyin": "biǎo xiàn", "en": "performance; show", "emoji": "🌟"}
+    ]
+  },
+  {
+    "input_text": "冰激凌",
+    "entries": [
+      {"text": "冰激凌", "pinyin": "bīng jī líng", "en": "ice cream", "emoji": "🍦"}
+    ]
+  },
+  {
+    "input_text": "病毒",
+    "entries": [
+      {"text": "病毒", "pinyin": "bìng dú", "en": "virus", "emoji": "🦠"}
+    ]
+  },
+  {
+    "input_text": "玻璃",
+    "entries": [
+      {"text": "玻璃", "pinyin": "bō li", "en": "glass (material)", "emoji": "🪟"}
+    ]
+  },
+  {
+    "input_text": "播放",
+    "entries": [
+      {"text": "播放", "pinyin": "bō fàng", "en": "play (media)", "emoji": "▶️"}
+    ]
+  },
+  {
+    "input_text": "脖子",
+    "entries": [
+      {"text": "脖子", "pinyin": "bó zi", "en": "neck", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "博物馆",
+    "entries": [
+      {"text": "博物馆", "pinyin": "bó wù guǎn", "en": "museum", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_text": "补充",
+    "entries": [
+      {"text": "补充", "pinyin": "bǔ chōng", "en": "supplement; add", "emoji": "➕"}
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "input_word": "vitamin",
+    "entries": [
+      {
+        "text": "vitamin",
+        "ipa": "/ˈvaɪtəmɪn/",
+        "cefr": "B2",
+        "zh": "维生素",
+        "emoji": "💊"
+      }
+    ]
+  },
+  {
+    "input_word": "voice",
+    "entries": [
+      {
+        "text": "voice",
+        "ipa": "/vɔɪs/",
+        "cefr": "A2",
+        "zh": "声音",
+        "emoji": "🎤"
+      }
+    ]
+  },
+  {
+    "input_word": "volume",
+    "entries": [
+      {
+        "text": "volume",
+        "ipa": "/ˈvɑːljuːm/",
+        "cefr": "B2",
+        "zh": "音量",
+        "emoji": "🔊"
+      },
+      {
+        "text": "volume",
+        "ipa": "/ˈvɑːljuːm/",
+        "cefr": "B2",
+        "zh": "体积",
+        "emoji": "📦"
+      }
+    ]
+  },
+  {
+    "input_word": "volunteer",
+    "entries": [
+      {
+        "text": "volunteer",
+        "ipa": "/ˌvɑːlənˈtɪr/",
+        "cefr": "B1",
+        "zh": "志愿者",
+        "emoji": "🙋"
+      }
+    ]
+  },
+  {
+    "input_word": "vote",
+    "entries": [
+      {
+        "text": "vote",
+        "ipa": "/voʊt/",
+        "cefr": "B1",
+        "zh": "投票",
+        "emoji": "🗳️"
+      }
+    ]
+  }
+]

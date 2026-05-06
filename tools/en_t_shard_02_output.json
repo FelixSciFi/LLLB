@@ -1,0 +1,177 @@
+[
+  {
+    "input_word": "thin",
+    "entries": [
+      {"text": "thin", "ipa": "/θɪn/", "cefr": "A2", "zh": "瘦的", "emoji": "📏"}
+    ]
+  },
+  {
+    "input_word": "thing",
+    "entries": [
+      {"text": "thing", "ipa": "/θɪŋ/", "cefr": "A1", "zh": "事物", "emoji": "📦"}
+    ]
+  },
+  {
+    "input_word": "think",
+    "entries": [
+      {"text": "think", "ipa": "/θɪŋk/", "cefr": "A1", "zh": "思考", "emoji": "💭"}
+    ]
+  },
+  {
+    "input_word": "thinking",
+    "entries": [
+      {"text": "thinking", "ipa": "/ˈθɪŋkɪŋ/", "cefr": "A2", "zh": "思考", "emoji": "🤔"}
+    ]
+  },
+  {
+    "input_word": "third",
+    "entries": [
+      {"text": "third", "ipa": "/θɜːrd/", "cefr": "A1", "zh": "第三", "emoji": "3️⃣"}
+    ]
+  },
+  {
+    "input_word": "thirsty",
+    "entries": [
+      {"text": "thirsty", "ipa": "/ˈθɜːrsti/", "cefr": "A1", "zh": "口渴的", "emoji": "🥤"}
+    ]
+  },
+  {
+    "input_word": "thirteen",
+    "entries": [
+      {"text": "thirteen", "ipa": "/ˌθɜːrˈtiːn/", "cefr": "A1", "zh": "十三", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "thirty",
+    "entries": [
+      {"text": "thirty", "ipa": "/ˈθɜːrti/", "cefr": "A1", "zh": "三十", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "this",
+    "entries": [
+      {"text": "this", "ipa": "/ðɪs/", "cefr": "A1", "zh": "这个", "emoji": "👆"}
+    ]
+  },
+  {
+    "input_word": "though",
+    "entries": []
+  },
+  {
+    "input_word": "thought",
+    "entries": [
+      {"text": "thought", "ipa": "/θɔːt/", "cefr": "A2", "zh": "想法", "emoji": "💭"}
+    ]
+  },
+  {
+    "input_word": "thousand",
+    "entries": [
+      {"text": "thousand", "ipa": "/ˈθaʊzənd/", "cefr": "A1", "zh": "一千", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "threat",
+    "entries": [
+      {"text": "threat", "ipa": "/θrɛt/", "cefr": "B2", "zh": "威胁", "emoji": "⚠️"}
+    ]
+  },
+  {
+    "input_word": "threaten",
+    "entries": [
+      {"text": "threaten", "ipa": "/ˈθrɛtən/", "cefr": "B2", "zh": "威胁", "emoji": "😡"}
+    ]
+  },
+  {
+    "input_word": "three",
+    "entries": [
+      {"text": "three", "ipa": "/θriː/", "cefr": "A1", "zh": "三", "emoji": "3️⃣"}
+    ]
+  },
+  {
+    "input_word": "throat",
+    "entries": [
+      {"text": "throat", "ipa": "/θroʊt/", "cefr": "B1", "zh": "喉咙", "emoji": "🗣️"}
+    ]
+  },
+  {
+    "input_word": "through",
+    "entries": []
+  },
+  {
+    "input_word": "throughout",
+    "entries": []
+  },
+  {
+    "input_word": "throw",
+    "entries": [
+      {"text": "throw", "ipa": "/θroʊ/", "cefr": "A2", "zh": "扔", "emoji": "🥏"}
+    ]
+  },
+  {
+    "input_word": "thursday",
+    "entries": [
+      {"text": "Thursday", "ipa": "/ˈθɜːrzdeɪ/", "cefr": "A1", "zh": "星期四", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_word": "thus",
+    "entries": []
+  },
+  {
+    "input_word": "ticket",
+    "entries": [
+      {"text": "ticket", "ipa": "/ˈtɪkɪt/", "cefr": "A1", "zh": "票", "emoji": "🎟️"}
+    ]
+  },
+  {
+    "input_word": "tidy",
+    "entries": [
+      {"text": "tidy", "ipa": "/ˈtaɪdi/", "cefr": "A2", "zh": "整洁的", "emoji": "🧹"}
+    ]
+  },
+  {
+    "input_word": "tie",
+    "entries": [
+      {"text": "tie", "ipa": "/taɪ/", "cefr": "A2", "zh": "领带", "emoji": "👔"},
+      {"text": "tie", "ipa": "/taɪ/", "cefr": "A2", "zh": "绑", "emoji": "🪢"}
+    ]
+  },
+  {
+    "input_word": "tight",
+    "entries": [
+      {"text": "tight", "ipa": "/taɪt/", "cefr": "B1", "zh": "紧的", "emoji": "🤏"}
+    ]
+  },
+  {
+    "input_word": "till",
+    "entries": [
+      {"text": "till", "ipa": "/tɪl/", "cefr": "B1", "zh": "收银台", "emoji": "🏧"}
+    ]
+  },
+  {
+    "input_word": "time",
+    "entries": [
+      {"text": "time", "ipa": "/taɪm/", "cefr": "A1", "zh": "时间", "emoji": "⏰"}
+    ]
+  },
+  {
+    "input_word": "tin",
+    "entries": [
+      {"text": "tin", "ipa": "/tɪn/", "cefr": "B1", "zh": "锡罐", "emoji": "🥫"}
+    ]
+  },
+  {
+    "input_word": "tiny",
+    "entries": [
+      {"text": "tiny", "ipa": "/ˈtaɪni/", "cefr": "B1", "zh": "极小的", "emoji": "🔬"}
+    ]
+  },
+  {
+    "input_word": "tip",
+    "entries": [
+      {"text": "tip", "ipa": "/tɪp/", "cefr": "A2", "zh": "尖端", "emoji": "📍"},
+      {"text": "tip", "ipa": "/tɪp/", "cefr": "A2", "zh": "小费", "emoji": "💵"},
+      {"text": "tip", "ipa": "/tɪp/", "cefr": "A2", "zh": "建议", "emoji": "💡"}
+    ]
+  }
+]

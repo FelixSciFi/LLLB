@@ -1,0 +1,272 @@
+[
+  {
+    "text": "un fauteuil",
+    "ipa": "œ̃ fo.tœj",
+    "translation": {"zh": "扶手椅", "en": "an armchair"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un fauteuil", "lemma": "fauteuil", "ipa": "œ̃ fo.tœj", "translation": {"zh": "扶手椅", "en": "armchair"}, "emoji": "🪑"}
+    ]
+  },
+  {
+    "text": "avoir la foi",
+    "ipa": "a.vwaʁ la fwa",
+    "translation": {"zh": "有信仰", "en": "to have faith"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "avoir la foi", "lemma": "avoir", "ipa": "a.vwaʁ la fwa", "translation": {"zh": "有信仰", "en": "have faith"}, "emoji": "🙏"}
+    ]
+  },
+  {
+    "text": "se méfier",
+    "ipa": "sə me.fje",
+    "translation": {"zh": "小心提防", "en": "to be wary"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "se méfier", "lemma": "méfier", "ipa": "sə me.fje", "translation": {"zh": "小心提防", "en": "be wary"}, "emoji": "⚠️"}
+    ]
+  },
+  {
+    "text": "la composition",
+    "ipa": "la kɔ̃.po.zi.sjɔ̃",
+    "translation": {"zh": "构成；作文", "en": "composition"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la composition", "lemma": "composition", "ipa": "la kɔ̃.po.zi.sjɔ̃", "translation": {"zh": "构成；作文", "en": "composition"}, "emoji": "📝"}
+    ]
+  },
+  {
+    "text": "cracher par terre",
+    "ipa": "kʁa.ʃe paʁ tɛʁ",
+    "translation": {"zh": "往地上吐口水", "en": "to spit on the ground"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "cracher par terre", "lemma": "cracher", "ipa": "kʁa.ʃe paʁ tɛʁ", "translation": {"zh": "吐口水", "en": "spit on the ground"}, "emoji": "🤢"}
+    ]
+  },
+  {
+    "text": "forcer la porte",
+    "ipa": "fɔʁ.se la pɔʁt",
+    "translation": {"zh": "强行开门", "en": "to force the door"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "forcer la porte", "lemma": "forcer", "ipa": "fɔʁ.se la pɔʁt", "translation": {"zh": "强行开门", "en": "force the door"}, "emoji": "🚪"}
+    ]
+  },
+  {
+    "text": "relier les pages",
+    "ipa": "ʁə.lje le paʒ",
+    "translation": {"zh": "装订页面", "en": "to bind the pages"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "relier les pages", "lemma": "relier", "ipa": "ʁə.lje le paʒ", "translation": {"zh": "装订页面", "en": "bind the pages"}, "emoji": "📖"}
+    ]
+  },
+  {
+    "text": "une cage",
+    "ipa": "yn kaʒ",
+    "translation": {"zh": "一个笼子", "en": "a cage"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une cage", "lemma": "cage", "ipa": "yn kaʒ", "translation": {"zh": "笼子", "en": "cage"}, "emoji": "🐦"}
+    ]
+  },
+  {
+    "text": "une statistique",
+    "ipa": "yn sta.tis.tik",
+    "translation": {"zh": "一项统计数据", "en": "a statistic"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une statistique", "lemma": "statistique", "ipa": "yn sta.tis.tik", "translation": {"zh": "统计数据", "en": "statistic"}, "emoji": "📊"}
+    ]
+  },
+  {
+    "text": "un bulletin scolaire",
+    "ipa": "œ̃ byl.tɛ̃ skɔ.lɛʁ",
+    "translation": {"zh": "成绩单", "en": "a school report"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un bulletin scolaire", "lemma": "bulletin", "ipa": "œ̃ byl.tɛ̃ skɔ.lɛʁ", "translation": {"zh": "成绩单", "en": "school report"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "le propriétaire",
+    "ipa": "lə pʁɔ.pʁje.tɛʁ",
+    "translation": {"zh": "业主；房东", "en": "the owner"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le propriétaire", "lemma": "propriétaire", "ipa": "lə pʁɔ.pʁje.tɛʁ", "translation": {"zh": "业主；房东", "en": "owner"}, "emoji": "🏠"}
+    ]
+  },
+  {
+    "text": "un héritage",
+    "ipa": "œ̃ e.ʁi.taʒ",
+    "translation": {"zh": "遗产", "en": "an inheritance"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un héritage", "lemma": "héritage", "ipa": "œ̃ e.ʁi.taʒ", "translation": {"zh": "遗产", "en": "inheritance"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "le Pays basque",
+    "ipa": "lə pe.i bask",
+    "translation": {"zh": "巴斯克地区", "en": "the Basque Country"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le Pays basque", "lemma": "basque", "ipa": "lə pe.i bask", "translation": {"zh": "巴斯克地区", "en": "Basque Country"}, "emoji": "🗺️"}
+    ]
+  },
+  {
+    "text": "une cloche",
+    "ipa": "yn klɔʃ",
+    "translation": {"zh": "一口钟", "en": "a bell"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une cloche", "lemma": "cloche", "ipa": "yn klɔʃ", "translation": {"zh": "钟", "en": "bell"}, "emoji": "🔔"}
+    ]
+  },
+  {
+    "text": "la sensibilité",
+    "ipa": "la sɑ̃.si.bi.li.te",
+    "translation": {"zh": "敏感性；感受力", "en": "sensitivity"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la sensibilité", "lemma": "sensibilité", "ipa": "la sɑ̃.si.bi.li.te", "translation": {"zh": "敏感性", "en": "sensitivity"}, "emoji": "💗"}
+    ]
+  },
+  {
+    "text": "c'est inquiétant",
+    "ipa": "sɛ t‿ɛ̃.kjɛ.tɑ̃",
+    "translation": {"zh": "这令人担忧", "en": "it's worrying"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est inquiétant", "lemma": "inquiétant", "ipa": "sɛ t‿ɛ̃.kjɛ.tɑ̃", "translation": {"zh": "令人担忧的", "en": "worrying"}, "emoji": "😟"}
+    ]
+  },
+  {
+    "text": "une liaison",
+    "ipa": "yn ljɛ.zɔ̃",
+    "translation": {"zh": "联系；（语音）连音", "en": "a connection"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une liaison", "lemma": "liaison", "ipa": "yn ljɛ.zɔ̃", "translation": {"zh": "联系", "en": "connection"}, "emoji": "🔗"}
+    ]
+  },
+  {
+    "text": "un souhait",
+    "ipa": "œ̃ swɛ",
+    "translation": {"zh": "一个心愿", "en": "a wish"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un souhait", "lemma": "souhait", "ipa": "œ̃ swɛ", "translation": {"zh": "心愿", "en": "wish"}, "emoji": "🌟"}
+    ]
+  },
+  {
+    "text": "avec admiration",
+    "ipa": "a.vɛk ad.mi.ʁa.sjɔ̃",
+    "translation": {"zh": "满怀钦佩地", "en": "with admiration"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "avec admiration", "lemma": "admiration", "ipa": "a.vɛk ad.mi.ʁa.sjɔ̃", "translation": {"zh": "钦佩", "en": "admiration"}, "emoji": "😍"}
+    ]
+  },
+  {
+    "text": "ne pas se décourager",
+    "ipa": "nə pa sə de.ku.ʁa.ʒe",
+    "translation": {"zh": "不要气馁", "en": "not to get discouraged"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ne pas se décourager", "lemma": "décourager", "ipa": "nə pa sə de.ku.ʁa.ʒe", "translation": {"zh": "不气馁", "en": "not get discouraged"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "l'accent britannique",
+    "ipa": "lak.sɑ̃ bʁi.ta.nik",
+    "translation": {"zh": "英国口音", "en": "British accent"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'accent britannique", "lemma": "britannique", "ipa": "lak.sɑ̃ bʁi.ta.nik", "translation": {"zh": "英国口音", "en": "British accent"}, "emoji": "🇬🇧"}
+    ]
+  },
+  {
+    "text": "la spécialité du chef",
+    "ipa": "la spe.sja.li.te dy ʃɛf",
+    "translation": {"zh": "厨师招牌菜", "en": "the chef's specialty"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la spécialité du chef", "lemma": "spécialité", "ipa": "la spe.sja.li.te dy ʃɛf", "translation": {"zh": "招牌菜", "en": "chef's specialty"}, "emoji": "🍽️"}
+    ]
+  },
+  {
+    "text": "éveiller la curiosité",
+    "ipa": "e.vɛ.je la ky.ʁjɔ.zi.te",
+    "translation": {"zh": "唤起好奇心", "en": "to arouse curiosity"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "éveiller la curiosité", "lemma": "éveiller", "ipa": "e.vɛ.je la ky.ʁjɔ.zi.te", "translation": {"zh": "唤起好奇心", "en": "arouse curiosity"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "s'émerveiller",
+    "ipa": "se.mɛʁ.vɛ.je",
+    "translation": {"zh": "感到惊叹", "en": "to be amazed"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "s'émerveiller", "lemma": "émerveiller", "ipa": "se.mɛʁ.vɛ.je", "translation": {"zh": "感到惊叹", "en": "be amazed"}, "emoji": "🤩"}
+    ]
+  },
+  {
+    "text": "parler sérieusement",
+    "ipa": "paʁ.le se.ʁjøz.mɑ̃",
+    "translation": {"zh": "认真地说", "en": "to speak seriously"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "parler sérieusement", "lemma": "sérieusement", "ipa": "paʁ.le se.ʁjøz.mɑ̃", "translation": {"zh": "认真地", "en": "seriously"}, "emoji": "😐"}
+    ]
+  },
+  {
+    "text": "parler polonais",
+    "ipa": "paʁ.le pɔ.lɔ.nɛ",
+    "translation": {"zh": "说波兰语", "en": "to speak Polish"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "parler polonais", "lemma": "polonais", "ipa": "paʁ.le pɔ.lɔ.nɛ", "translation": {"zh": "波兰语", "en": "Polish"}, "emoji": "🇵🇱"}
+    ]
+  },
+  {
+    "text": "une nouveauté",
+    "ipa": "yn nu.vo.te",
+    "translation": {"zh": "一项新事物", "en": "a novelty"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une nouveauté", "lemma": "nouveauté", "ipa": "yn nu.vo.te", "translation": {"zh": "新事物", "en": "novelty"}, "emoji": "🆕"}
+    ]
+  },
+  {
+    "text": "à l'échelle globale",
+    "ipa": "a le.ʃɛl ɡlɔ.bal",
+    "translation": {"zh": "在全球范围内", "en": "on a global scale"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "à l'échelle globale", "lemma": "global", "ipa": "a le.ʃɛl ɡlɔ.bal", "translation": {"zh": "全球性的", "en": "global"}, "emoji": "🌍"}
+    ]
+  },
+  {
+    "text": "se sentir coupable",
+    "ipa": "sə sɑ̃.tiʁ ku.pabl",
+    "translation": {"zh": "感到有罪", "en": "to feel guilty"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "se sentir coupable", "lemma": "coupable", "ipa": "sə sɑ̃.tiʁ ku.pabl", "translation": {"zh": "有罪的", "en": "guilty"}, "emoji": "😔"}
+    ]
+  },
+  {
+    "text": "une clef",
+    "ipa": "yn kle",
+    "translation": {"zh": "一把钥匙", "en": "a key"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une clef", "lemma": "clef", "ipa": "yn kle", "translation": {"zh": "钥匙", "en": "key"}, "emoji": "🔑"}
+    ]
+  }
+]

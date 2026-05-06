@@ -1,0 +1,283 @@
+[
+  {
+    "text": "la marchandise",
+    "ipa": "la maʁʃɑ̃diz",
+    "translation": {"zh": "商品", "en": "merchandise"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la marchandise", "lemma": "marchandise", "ipa": "la maʁʃɑ̃diz", "translation": {"zh": "商品", "en": "merchandise"}, "emoji": "🛍️"}
+    ]
+  },
+  {
+    "text": "c'est très brave",
+    "ipa": "sɛ tʁɛ bʁav",
+    "translation": {"zh": "很勇敢", "en": "very brave"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "c'est très brave", "lemma": "brave", "ipa": "sɛ tʁɛ bʁav", "translation": {"zh": "很勇敢", "en": "very brave"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "une balade en forêt",
+    "ipa": "yn balad ɑ̃ fɔʁɛ",
+    "translation": {"zh": "森林里的散步", "en": "a walk in the forest"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une balade", "lemma": "balade", "ipa": "yn balad", "translation": {"zh": "散步", "en": "a walk"}, "emoji": "🚶"},
+      {"text": "en forêt", "lemma": "forêt", "ipa": "ɑ̃ fɔʁɛ", "translation": {"zh": "在森林", "en": "in the forest"}, "emoji": "🌲"}
+    ]
+  },
+  {
+    "text": "une interview",
+    "ipa": "yn ɛ̃tɛʁvju",
+    "translation": {"zh": "采访", "en": "an interview"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une interview", "lemma": "interview", "ipa": "yn ɛ̃tɛʁvju", "translation": {"zh": "采访", "en": "an interview"}, "emoji": "🎤"}
+    ]
+  },
+  {
+    "text": "il réside à Paris",
+    "ipa": "il ʁezid a paʁi",
+    "translation": {"zh": "他住在巴黎", "en": "he lives in Paris"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il réside", "lemma": "résider", "ipa": "il ʁezid", "translation": {"zh": "他居住", "en": "he lives"}, "emoji": "🏠"},
+      {"text": "à Paris", "lemma": "Paris", "ipa": "a paʁi", "translation": {"zh": "在巴黎", "en": "in Paris"}, "emoji": "🗼"}
+    ]
+  },
+  {
+    "text": "un drame",
+    "ipa": "œ̃ dʁam",
+    "translation": {"zh": "戏剧", "en": "a drama"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un drame", "lemma": "drame", "ipa": "œ̃ dʁam", "translation": {"zh": "戏剧", "en": "a drama"}, "emoji": "🎭"}
+    ]
+  },
+  {
+    "text": "le pétrole",
+    "ipa": "lə petʁɔl",
+    "translation": {"zh": "石油", "en": "oil"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le pétrole", "lemma": "pétrole", "ipa": "lə petʁɔl", "translation": {"zh": "石油", "en": "oil"}, "emoji": "🛢️"}
+    ]
+  },
+  {
+    "text": "l'humanité",
+    "ipa": "lymanite",
+    "translation": {"zh": "人类", "en": "humanity"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'humanité", "lemma": "humanité", "ipa": "lymanite", "translation": {"zh": "人类", "en": "humanity"}, "emoji": "🌍"}
+    ]
+  },
+  {
+    "text": "le livre s'intitule",
+    "ipa": "lə livʁ sɛ̃tityl",
+    "translation": {"zh": "这本书叫做", "en": "the book is titled"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le livre", "lemma": "livre", "ipa": "lə livʁ", "translation": {"zh": "这本书", "en": "the book"}, "emoji": "📖"},
+      {"text": "s'intitule", "lemma": "intituler", "ipa": "sɛ̃tityl", "translation": {"zh": "名叫", "en": "is titled"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le conducteur",
+    "ipa": "lə kɔ̃dyktœʁ",
+    "translation": {"zh": "司机", "en": "the driver"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le conducteur", "lemma": "conducteur", "ipa": "lə kɔ̃dyktœʁ", "translation": {"zh": "司机", "en": "the driver"}, "emoji": "🚗"}
+    ]
+  },
+  {
+    "text": "à l'horizon",
+    "ipa": "a lɔʁizɔ̃",
+    "translation": {"zh": "在地平线上", "en": "on the horizon"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "à l'horizon", "lemma": "horizon", "ipa": "a lɔʁizɔ̃", "translation": {"zh": "在地平线", "en": "on the horizon"}, "emoji": "🌅"}
+    ]
+  },
+  {
+    "text": "une issue de secours",
+    "ipa": "yn issy də səkuʁ",
+    "translation": {"zh": "紧急出口", "en": "an emergency exit"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une issue", "lemma": "issue", "ipa": "yn issy", "translation": {"zh": "出口", "en": "an exit"}, "emoji": "🚪"},
+      {"text": "de secours", "lemma": "secours", "ipa": "də səkuʁ", "translation": {"zh": "紧急的", "en": "emergency"}, "emoji": "🆘"}
+    ]
+  },
+  {
+    "text": "une vaste plaine",
+    "ipa": "yn vast plɛn",
+    "translation": {"zh": "广阔的平原", "en": "a vast plain"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une vaste plaine", "lemma": "plaine", "ipa": "yn vast plɛn", "translation": {"zh": "广阔平原", "en": "a vast plain"}, "emoji": "🌾"}
+    ]
+  },
+  {
+    "text": "la volaille",
+    "ipa": "la vɔlaj",
+    "translation": {"zh": "禽肉", "en": "poultry"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la volaille", "lemma": "volaille", "ipa": "la vɔlaj", "translation": {"zh": "禽肉", "en": "poultry"}, "emoji": "🍗"}
+    ]
+  },
+  {
+    "text": "une compagnie aérienne",
+    "ipa": "yn kɔ̃paɲi aeʁjɛn",
+    "translation": {"zh": "航空公司", "en": "an airline"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une compagnie aérienne", "lemma": "aérien", "ipa": "yn kɔ̃paɲi aeʁjɛn", "translation": {"zh": "航空公司", "en": "an airline"}, "emoji": "✈️"}
+    ]
+  },
+  {
+    "text": "c'est très aimable",
+    "ipa": "sɛ tʁɛ ɛmabl",
+    "translation": {"zh": "非常和蔼", "en": "very kind"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est très aimable", "lemma": "aimable", "ipa": "sɛ tʁɛ ɛmabl", "translation": {"zh": "非常和蔼", "en": "very kind"}, "emoji": "😊"}
+    ]
+  },
+  {
+    "text": "un mélange de couleurs",
+    "ipa": "œ̃ melɑ̃ʒ də kulœʁ",
+    "translation": {"zh": "颜色的混合", "en": "a mix of colors"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un mélange", "lemma": "mélange", "ipa": "œ̃ melɑ̃ʒ", "translation": {"zh": "混合", "en": "a mix"}, "emoji": "🎨"},
+      {"text": "de couleurs", "lemma": "couleur", "ipa": "də kulœʁ", "translation": {"zh": "颜色", "en": "of colors"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "c'est laid",
+    "ipa": "sɛ lɛ",
+    "translation": {"zh": "真丑", "en": "it's ugly"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est laid", "lemma": "laid", "ipa": "sɛ lɛ", "translation": {"zh": "真丑", "en": "it's ugly"}, "emoji": "😬"}
+    ]
+  },
+  {
+    "text": "une tension",
+    "ipa": "yn tɑ̃sjɔ̃",
+    "translation": {"zh": "紧张", "en": "tension"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une tension", "lemma": "tension", "ipa": "yn tɑ̃sjɔ̃", "translation": {"zh": "紧张", "en": "tension"}, "emoji": "😤"}
+    ]
+  },
+  {
+    "text": "l'horloge sonne",
+    "ipa": "lɔʁlɔʒ sɔn",
+    "translation": {"zh": "时钟响了", "en": "the clock chimes"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'horloge", "lemma": "horloge", "ipa": "lɔʁlɔʒ", "translation": {"zh": "时钟", "en": "the clock"}, "emoji": "🕰️"},
+      {"text": "sonne", "lemma": "sonner", "ipa": "sɔn", "translation": {"zh": "响", "en": "chimes"}, "emoji": "🔔"}
+    ]
+  },
+  {
+    "text": "sélectionner un fichier",
+    "ipa": "selɛksjɔne œ̃ fiʃje",
+    "translation": {"zh": "选择一个文件", "en": "to select a file"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "sélectionner", "lemma": "sélectionner", "ipa": "selɛksjɔne", "translation": {"zh": "选择", "en": "to select"}, "emoji": "☑️"},
+      {"text": "un fichier", "lemma": "fichier", "ipa": "œ̃ fiʃje", "translation": {"zh": "一个文件", "en": "a file"}, "emoji": "📄"}
+    ]
+  },
+  {
+    "text": "payer une amende",
+    "ipa": "peje yn amɑ̃d",
+    "translation": {"zh": "缴纳罚款", "en": "to pay a fine"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "payer", "lemma": "payer", "ipa": "peje", "translation": {"zh": "缴纳", "en": "to pay"}, "emoji": "💸"},
+      {"text": "une amende", "lemma": "amende", "ipa": "yn amɑ̃d", "translation": {"zh": "罚款", "en": "a fine"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "immigrer en France",
+    "ipa": "imiɡʁe ɑ̃ fʁɑ̃s",
+    "translation": {"zh": "移民到法国", "en": "to immigrate to France"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "immigrer", "lemma": "immigrer", "ipa": "imiɡʁe", "translation": {"zh": "移民", "en": "to immigrate"}, "emoji": "✈️"},
+      {"text": "en France", "lemma": "France", "ipa": "ɑ̃ fʁɑ̃s", "translation": {"zh": "到法国", "en": "to France"}, "emoji": "🇫🇷"}
+    ]
+  },
+  {
+    "text": "un jeu éducatif",
+    "ipa": "œ̃ ʒø edykatif",
+    "translation": {"zh": "教育游戏", "en": "an educational game"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un jeu éducatif", "lemma": "éducatif", "ipa": "œ̃ ʒø edykatif", "translation": {"zh": "教育游戏", "en": "an educational game"}, "emoji": "🎮"}
+    ]
+  },
+  {
+    "text": "la convivialité",
+    "ipa": "la kɔ̃vivjalite",
+    "translation": {"zh": "友好氛围", "en": "friendliness"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la convivialité", "lemma": "convivialité", "ipa": "la kɔ̃vivjalite", "translation": {"zh": "友好氛围", "en": "friendliness"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "éliminer les déchets",
+    "ipa": "elimine le deʃɛ",
+    "translation": {"zh": "消除废物", "en": "to eliminate waste"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "éliminer", "lemma": "éliminer", "ipa": "elimine", "translation": {"zh": "消除", "en": "to eliminate"}, "emoji": ""},
+      {"text": "les déchets", "lemma": "déchet", "ipa": "le deʃɛ", "translation": {"zh": "废物", "en": "waste"}, "emoji": "🗑️"}
+    ]
+  },
+  {
+    "text": "en dernier recours",
+    "ipa": "ɑ̃ dɛʁnje ʁəkuʁ",
+    "translation": {"zh": "作为最后手段", "en": "as a last resort"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "en dernier recours", "lemma": "recours", "ipa": "ɑ̃ dɛʁnje ʁəkuʁ", "translation": {"zh": "最后手段", "en": "last resort"}, "emoji": "⚠️"}
+    ]
+  },
+  {
+    "text": "il faut trancher",
+    "ipa": "il fo tʁɑ̃ʃe",
+    "translation": {"zh": "必须做出决断", "en": "we must decide"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "il faut trancher", "lemma": "trancher", "ipa": "il fo tʁɑ̃ʃe", "translation": {"zh": "必须决断", "en": "we must decide"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "un diamant",
+    "ipa": "œ̃ djamɑ̃",
+    "translation": {"zh": "钻石", "en": "a diamond"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un diamant", "lemma": "diamant", "ipa": "œ̃ djamɑ̃", "translation": {"zh": "钻石", "en": "a diamond"}, "emoji": "💎"}
+    ]
+  },
+  {
+    "text": "l'éclat de la lumière",
+    "ipa": "lekla də la lymjɛʁ",
+    "translation": {"zh": "光芒", "en": "the brightness of the light"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'éclat", "lemma": "éclat", "ipa": "lekla", "translation": {"zh": "光芒", "en": "brightness"}, "emoji": "✨"},
+      {"text": "de la lumière", "lemma": "lumière", "ipa": "də la lymjɛʁ", "translation": {"zh": "光", "en": "of the light"}, "emoji": "💡"}
+    ]
+  }
+]

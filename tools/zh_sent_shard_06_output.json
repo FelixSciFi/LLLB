@@ -1,0 +1,351 @@
+[
+  {
+    "input_word": "门",
+    "sentences": [
+      {
+        "text": "门开着。",
+        "ipa": "mén kāi zhe",
+        "translation": {"zh": "门开着。", "en": "The door is open."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "门", "lemma": "门", "ipa": "mén", "translation": {"zh": "门", "en": "door"}, "emoji": "🚪"},
+          {"text": "开着", "lemma": "开", "ipa": "kāi zhe", "translation": {"zh": "开着", "en": "is open"}, "emoji": ""}
+        ]
+      },
+      {
+        "text": "关门。",
+        "ipa": "guān mén",
+        "translation": {"zh": "关门。", "en": "Close the door."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "关门", "lemma": "关", "ipa": "guān mén", "translation": {"zh": "关门", "en": "close the door"}, "emoji": "🚪"}
+        ]
+      },
+      {
+        "text": "门在哪里？",
+        "ipa": "mén zài nǎ lǐ",
+        "translation": {"zh": "门在哪里？", "en": "Where is the door?"},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "门", "lemma": "门", "ipa": "mén", "translation": {"zh": "门", "en": "door"}, "emoji": "🚪"},
+          {"text": "在哪里", "lemma": "哪里", "ipa": "zài nǎ lǐ", "translation": {"zh": "在哪里", "en": "where is"}, "emoji": ""}
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "面条",
+    "sentences": [
+      {
+        "text": "我喜欢面条。",
+        "ipa": "wǒ xǐ huān miàn tiáo",
+        "translation": {"zh": "我喜欢面条。", "en": "I like noodles."},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "我喜欢", "lemma": "喜欢", "ipa": "wǒ xǐ huān", "translation": {"zh": "我喜欢", "en": "I like"}, "emoji": ""},
+          {"text": "面条", "lemma": "面条", "ipa": "miàn tiáo", "translation": {"zh": "面条", "en": "noodles"}, "emoji": "🍜"}
+        ]
+      },
+      {
+        "text": "面条很好吃。",
+        "ipa": "miàn tiáo hěn hǎo chī",
+        "translation": {"zh": "面条很好吃。", "en": "The noodles are delicious."},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "面条", "lemma": "面条", "ipa": "miàn tiáo", "translation": {"zh": "面条", "en": "noodles"}, "emoji": "🍜"},
+          {"text": "很好吃", "lemma": "好吃", "ipa": "hěn hǎo chī", "translation": {"zh": "很好吃", "en": "very delicious"}, "emoji": "😋"}
+        ]
+      },
+      {
+        "text": "我吃面条。",
+        "ipa": "wǒ chī miàn tiáo",
+        "translation": {"zh": "我吃面条。", "en": "I eat noodles."},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "我吃", "lemma": "吃", "ipa": "wǒ chī", "translation": {"zh": "我吃", "en": "I eat"}, "emoji": "🍽️"},
+          {"text": "面条", "lemma": "面条", "ipa": "miàn tiáo", "translation": {"zh": "面条", "en": "noodles"}, "emoji": "🍜"}
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "男",
+    "sentences": [
+      {
+        "text": "他是男生。",
+        "ipa": "tā shì nán shēng",
+        "translation": {"zh": "他是男生。", "en": "He is a boy."},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "他是男生", "lemma": "男生", "ipa": "tā shì nán shēng", "translation": {"zh": "他是男生", "en": "he is a boy"}, "emoji": "👦"}
+        ]
+      },
+      {
+        "text": "那个男人很高。",
+        "ipa": "nà gè nán rén hěn gāo",
+        "translation": {"zh": "那个男人很高。", "en": "That man is very tall."},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "那个", "lemma": "那", "ipa": "nà gè", "translation": {"zh": "那个", "en": "that"}, "emoji": ""},
+          {"text": "男人", "lemma": "男人", "ipa": "nán rén", "translation": {"zh": "男人", "en": "man"}, "emoji": "👨"},
+          {"text": "很高", "lemma": "高", "ipa": "hěn gāo", "translation": {"zh": "很高", "en": "very tall"}, "emoji": ""}
+        ]
+      },
+      {
+        "text": "男厕所在哪里？",
+        "ipa": "nán cè suǒ zài nǎ lǐ",
+        "translation": {"zh": "男厕所在哪里？", "en": "Where is the men's restroom?"},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "男厕所", "lemma": "厕所", "ipa": "nán cè suǒ", "translation": {"zh": "男厕所", "en": "men's restroom"}, "emoji": "🚹"},
+          {"text": "在哪里", "lemma": "哪里", "ipa": "zài nǎ lǐ", "translation": {"zh": "在哪里", "en": "where is"}, "emoji": ""}
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "您",
+    "sentences": [
+      {
+        "text": "您好！",
+        "ipa": "nín hǎo",
+        "translation": {"zh": "您好！", "en": "How do you do!"},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "您好", "lemma": "好", "ipa": "nín hǎo", "translation": {"zh": "您好", "en": "hello / how do you do"}, "emoji": "👋"}
+        ]
+      },
+      {
+        "text": "这是您的。",
+        "ipa": "zhè shì nín de",
+        "translation": {"zh": "这是您的。", "en": "This is yours."},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "这", "lemma": "这", "ipa": "zhè", "translation": {"zh": "这", "en": "this"}, "emoji": ""},
+          {"text": "是您的", "lemma": "是", "ipa": "shì nín de", "translation": {"zh": "是您的", "en": "is yours"}, "emoji": ""}
+        ]
+      },
+      {
+        "text": "您吃了吗？",
+        "ipa": "nín chī le ma",
+        "translation": {"zh": "您吃了吗？", "en": "Have you eaten?"},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "您吃了吗", "lemma": "吃", "ipa": "nín chī le ma", "translation": {"zh": "您吃了吗", "en": "have you eaten"}, "emoji": "🍽️"}
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "牛奶",
+    "sentences": [
+      {
+        "text": "我喝牛奶。",
+        "ipa": "wǒ hē niú nǎi",
+        "translation": {"zh": "我喝牛奶。", "en": "I drink milk."},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "我喝", "lemma": "喝", "ipa": "wǒ hē", "translation": {"zh": "我喝", "en": "I drink"}, "emoji": "🥛"},
+          {"text": "牛奶", "lemma": "牛奶", "ipa": "niú nǎi", "translation": {"zh": "牛奶", "en": "milk"}, "emoji": "🥛"}
+        ]
+      },
+      {
+        "text": "牛奶很贵。",
+        "ipa": "niú nǎi hěn guì",
+        "translation": {"zh": "牛奶很贵。", "en": "Milk is expensive."},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "牛奶", "lemma": "牛奶", "ipa": "niú nǎi", "translation": {"zh": "牛奶", "en": "milk"}, "emoji": "🥛"},
+          {"text": "很贵", "lemma": "贵", "ipa": "hěn guì", "translation": {"zh": "很贵", "en": "very expensive"}, "emoji": ""}
+        ]
+      },
+      {
+        "text": "牛奶在哪里？",
+        "ipa": "niú nǎi zài nǎ lǐ",
+        "translation": {"zh": "牛奶在哪里？", "en": "Where is the milk?"},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "牛奶", "lemma": "牛奶", "ipa": "niú nǎi", "translation": {"zh": "牛奶", "en": "milk"}, "emoji": "🥛"},
+          {"text": "在哪里", "lemma": "哪里", "ipa": "zài nǎ lǐ", "translation": {"zh": "在哪里", "en": "where is"}, "emoji": ""}
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "女",
+    "sentences": [
+      {
+        "text": "她是女生。",
+        "ipa": "tā shì nǚ shēng",
+        "translation": {"zh": "她是女生。", "en": "She is a girl."},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "她是女生", "lemma": "女生", "ipa": "tā shì nǚ shēng", "translation": {"zh": "她是女生", "en": "she is a girl"}, "emoji": "👧"}
+        ]
+      },
+      {
+        "text": "那个女人很漂亮。",
+        "ipa": "nà gè nǚ rén hěn piào liàng",
+        "translation": {"zh": "那个女人很漂亮。", "en": "That woman is very beautiful."},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "那个", "lemma": "那", "ipa": "nà gè", "translation": {"zh": "那个", "en": "that"}, "emoji": ""},
+          {"text": "女人", "lemma": "女人", "ipa": "nǚ rén", "translation": {"zh": "女人", "en": "woman"}, "emoji": "👩"},
+          {"text": "很漂亮", "lemma": "漂亮", "ipa": "hěn piào liàng", "translation": {"zh": "很漂亮", "en": "very beautiful"}, "emoji": "✨"}
+        ]
+      },
+      {
+        "text": "女厕所在右边。",
+        "ipa": "nǚ cè suǒ zài yòu biān",
+        "translation": {"zh": "女厕所在右边。", "en": "The women's restroom is on the right."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "女厕所", "lemma": "厕所", "ipa": "nǚ cè suǒ", "translation": {"zh": "女厕所", "en": "women's restroom"}, "emoji": "🚺"},
+          {"text": "在右边", "lemma": "右边", "ipa": "zài yòu biān", "translation": {"zh": "在右边", "en": "on the right"}, "emoji": ""}
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "旁边",
+    "sentences": [
+      {
+        "text": "银行在旁边。",
+        "ipa": "yín háng zài páng biān",
+        "translation": {"zh": "银行在旁边。", "en": "The bank is next to it."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "银行", "lemma": "银行", "ipa": "yín háng", "translation": {"zh": "银行", "en": "bank"}, "emoji": "🏦"},
+          {"text": "在旁边", "lemma": "旁边", "ipa": "zài páng biān", "translation": {"zh": "在旁边", "en": "is next to it"}, "emoji": ""}
+        ]
+      },
+      {
+        "text": "我坐在你旁边。",
+        "ipa": "wǒ zuò zài nǐ páng biān",
+        "translation": {"zh": "我坐在你旁边。", "en": "I sit next to you."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "我坐", "lemma": "坐", "ipa": "wǒ zuò", "translation": {"zh": "我坐", "en": "I sit"}, "emoji": "🪑"},
+          {"text": "在你旁边", "lemma": "旁边", "ipa": "zài nǐ páng biān", "translation": {"zh": "在你旁边", "en": "next to you"}, "emoji": ""}
+        ]
+      },
+      {
+        "text": "旁边有人吗？",
+        "ipa": "páng biān yǒu rén ma",
+        "translation": {"zh": "旁边有人吗？", "en": "Is someone sitting here?"},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "旁边", "lemma": "旁边", "ipa": "páng biān", "translation": {"zh": "旁边", "en": "here / next to"}, "emoji": ""},
+          {"text": "有人吗", "lemma": "有", "ipa": "yǒu rén ma", "translation": {"zh": "有人吗", "en": "is someone here"}, "emoji": "🧑"}
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "跑步",
+    "sentences": [
+      {
+        "text": "我喜欢跑步。",
+        "ipa": "wǒ xǐ huān pǎo bù",
+        "translation": {"zh": "我喜欢跑步。", "en": "I like running."},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "我喜欢", "lemma": "喜欢", "ipa": "wǒ xǐ huān", "translation": {"zh": "我喜欢", "en": "I like"}, "emoji": ""},
+          {"text": "跑步", "lemma": "跑步", "ipa": "pǎo bù", "translation": {"zh": "跑步", "en": "running"}, "emoji": "🏃"}
+        ]
+      },
+      {
+        "text": "他每天跑步。",
+        "ipa": "tā měi tiān pǎo bù",
+        "translation": {"zh": "他每天跑步。", "en": "He runs every day."},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "他", "lemma": "他", "ipa": "tā", "translation": {"zh": "他", "en": "he"}, "emoji": ""},
+          {"text": "每天", "lemma": "天", "ipa": "měi tiān", "translation": {"zh": "每天", "en": "every day"}, "emoji": "📅"},
+          {"text": "跑步", "lemma": "跑步", "ipa": "pǎo bù", "translation": {"zh": "跑步", "en": "runs / jogs"}, "emoji": "🏃"}
+        ]
+      },
+      {
+        "text": "我们去跑步。",
+        "ipa": "wǒ men qù pǎo bù",
+        "translation": {"zh": "我们去跑步。", "en": "Let's go running."},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "我们去", "lemma": "去", "ipa": "wǒ men qù", "translation": {"zh": "我们去", "en": "let's go"}, "emoji": ""},
+          {"text": "跑步", "lemma": "跑步", "ipa": "pǎo bù", "translation": {"zh": "跑步", "en": "running"}, "emoji": "🏃"}
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "便宜",
+    "sentences": [
+      {
+        "text": "这个很便宜。",
+        "ipa": "zhè gè hěn pián yí",
+        "translation": {"zh": "这个很便宜。", "en": "This is very cheap."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "这个", "lemma": "这", "ipa": "zhè gè", "translation": {"zh": "这个", "en": "this"}, "emoji": ""},
+          {"text": "很便宜", "lemma": "便宜", "ipa": "hěn pián yí", "translation": {"zh": "很便宜", "en": "very cheap"}, "emoji": "💰"}
+        ]
+      },
+      {
+        "text": "有没有便宜的？",
+        "ipa": "yǒu méi yǒu pián yí de",
+        "translation": {"zh": "有没有便宜的？", "en": "Do you have a cheaper one?"},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "有没有", "lemma": "有", "ipa": "yǒu méi yǒu", "translation": {"zh": "有没有", "en": "do you have"}, "emoji": ""},
+          {"text": "便宜的", "lemma": "便宜", "ipa": "pián yí de", "translation": {"zh": "便宜的", "en": "a cheaper one"}, "emoji": "💰"}
+        ]
+      },
+      {
+        "text": "这里东西便宜。",
+        "ipa": "zhè lǐ dōng xi pián yí",
+        "translation": {"zh": "这里东西便宜。", "en": "Things here are cheap."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "这里", "lemma": "这里", "ipa": "zhè lǐ", "translation": {"zh": "这里", "en": "here"}, "emoji": ""},
+          {"text": "东西", "lemma": "东西", "ipa": "dōng xi", "translation": {"zh": "东西", "en": "things"}, "emoji": "🛍️"},
+          {"text": "便宜", "lemma": "便宜", "ipa": "pián yí", "translation": {"zh": "便宜", "en": "cheap"}, "emoji": "💰"}
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "票",
+    "sentences": [
+      {
+        "text": "我买了票。",
+        "ipa": "wǒ mǎi le piào",
+        "translation": {"zh": "我买了票。", "en": "I bought a ticket."},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "我买了", "lemma": "买", "ipa": "wǒ mǎi le", "translation": {"zh": "我买了", "en": "I bought"}, "emoji": "🛒"},
+          {"text": "票", "lemma": "票", "ipa": "piào", "translation": {"zh": "票", "en": "ticket"}, "emoji": "🎫"}
+        ]
+      },
+      {
+        "text": "票多少钱？",
+        "ipa": "piào duō shǎo qián",
+        "translation": {"zh": "票多少钱？", "en": "How much is the ticket?"},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "票", "lemma": "票", "ipa": "piào", "translation": {"zh": "票", "en": "ticket"}, "emoji": "🎫"},
+          {"text": "多少钱", "lemma": "钱", "ipa": "duō shǎo qián", "translation": {"zh": "多少钱", "en": "how much"}, "emoji": "💵"}
+        ]
+      },
+      {
+        "text": "没有票。",
+        "ipa": "méi yǒu piào",
+        "translation": {"zh": "没有票。", "en": "There are no tickets."},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "没有", "lemma": "有", "ipa": "méi yǒu", "translation": {"zh": "没有", "en": "there are no"}, "emoji": ""},
+          {"text": "票", "lemma": "票", "ipa": "piào", "translation": {"zh": "票", "en": "ticket"}, "emoji": "🎫"}
+        ]
+      }
+    ]
+  }
+]

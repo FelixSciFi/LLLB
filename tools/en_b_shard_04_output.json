@@ -1,0 +1,354 @@
+[
+  {
+    "input_word": "breathe",
+    "entries": [
+      {
+        "text": "breathe",
+        "ipa": "/briːð/",
+        "cefr": "B1",
+        "zh": "呼吸",
+        "emoji": "💨"
+      }
+    ]
+  },
+  {
+    "input_word": "breathing",
+    "entries": [
+      {
+        "text": "breathing",
+        "ipa": "/ˈbriːðɪŋ/",
+        "cefr": "B1",
+        "zh": "呼吸",
+        "emoji": "💨"
+      }
+    ]
+  },
+  {
+    "input_word": "bride",
+    "entries": [
+      {
+        "text": "bride",
+        "ipa": "/braɪd/",
+        "cefr": "B1",
+        "zh": "新娘",
+        "emoji": "👰"
+      }
+    ]
+  },
+  {
+    "input_word": "bridge",
+    "entries": [
+      {
+        "text": "bridge",
+        "ipa": "/brɪdʒ/",
+        "cefr": "A2",
+        "zh": "桥梁",
+        "emoji": "🌉"
+      }
+    ]
+  },
+  {
+    "input_word": "brief",
+    "entries": [
+      {
+        "text": "brief",
+        "ipa": "/briːf/",
+        "cefr": "B2",
+        "zh": "简短的",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "bright",
+    "entries": [
+      {
+        "text": "bright",
+        "ipa": "/braɪt/",
+        "cefr": "A2",
+        "zh": "明亮的",
+        "emoji": "✨"
+      }
+    ]
+  },
+  {
+    "input_word": "brilliant",
+    "entries": [
+      {
+        "text": "brilliant",
+        "ipa": "/ˈbrɪljənt/",
+        "cefr": "A2",
+        "zh": "聪明的",
+        "emoji": "💡"
+      }
+    ]
+  },
+  {
+    "input_word": "bring",
+    "entries": [
+      {
+        "text": "bring",
+        "ipa": "/brɪŋ/",
+        "cefr": "A1",
+        "zh": "带来",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "broad",
+    "entries": [
+      {
+        "text": "broad",
+        "ipa": "/brɔːd/",
+        "cefr": "B2",
+        "zh": "宽阔的",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "broadcast",
+    "entries": [
+      {
+        "text": "broadcast",
+        "ipa": "/ˈbrɔːdkæst/",
+        "cefr": "B2",
+        "zh": "广播",
+        "emoji": "📡"
+      }
+    ]
+  },
+  {
+    "input_word": "broken",
+    "entries": [
+      {
+        "text": "broken",
+        "ipa": "/ˈbroʊkən/",
+        "cefr": "A2",
+        "zh": "破损的",
+        "emoji": "💔"
+      }
+    ]
+  },
+  {
+    "input_word": "brother",
+    "entries": [
+      {
+        "text": "brother",
+        "ipa": "/ˈbrʌðər/",
+        "cefr": "A1",
+        "zh": "兄弟",
+        "emoji": "👦"
+      }
+    ]
+  },
+  {
+    "input_word": "brown",
+    "entries": [
+      {
+        "text": "brown",
+        "ipa": "/braʊn/",
+        "cefr": "A1",
+        "zh": "棕色",
+        "emoji": "🟤"
+      }
+    ]
+  },
+  {
+    "input_word": "brush",
+    "entries": [
+      {
+        "text": "brush",
+        "ipa": "/brʌʃ/",
+        "cefr": "A2",
+        "zh": "刷子；刷",
+        "emoji": "🪥"
+      }
+    ]
+  },
+  {
+    "input_word": "bubble",
+    "entries": [
+      {
+        "text": "bubble",
+        "ipa": "/ˈbʌbəl/",
+        "cefr": "B1",
+        "zh": "泡泡",
+        "emoji": "🫧"
+      }
+    ]
+  },
+  {
+    "input_word": "budget",
+    "entries": [
+      {
+        "text": "budget",
+        "ipa": "/ˈbʌdʒɪt/",
+        "cefr": "B2",
+        "zh": "预算",
+        "emoji": "💰"
+      }
+    ]
+  },
+  {
+    "input_word": "build",
+    "entries": [
+      {
+        "text": "build",
+        "ipa": "/bɪld/",
+        "cefr": "A1",
+        "zh": "建造",
+        "emoji": "🏗️"
+      }
+    ]
+  },
+  {
+    "input_word": "building",
+    "entries": [
+      {
+        "text": "building",
+        "ipa": "/ˈbɪldɪŋ/",
+        "cefr": "A1",
+        "zh": "建筑物",
+        "emoji": "🏢"
+      }
+    ]
+  },
+  {
+    "input_word": "bullet",
+    "entries": [
+      {
+        "text": "bullet",
+        "ipa": "/ˈbʊlɪt/",
+        "cefr": "B2",
+        "zh": "子弹",
+        "emoji": "🔫"
+      }
+    ]
+  },
+  {
+    "input_word": "bunch",
+    "entries": [
+      {
+        "text": "bunch",
+        "ipa": "/bʌntʃ/",
+        "cefr": "B2",
+        "zh": "一束；一群",
+        "emoji": "🍇"
+      }
+    ]
+  },
+  {
+    "input_word": "burn",
+    "entries": [
+      {
+        "text": "burn",
+        "ipa": "/bɜːrn/",
+        "cefr": "A2",
+        "zh": "燃烧",
+        "emoji": "🔥"
+      }
+    ]
+  },
+  {
+    "input_word": "bury",
+    "entries": [
+      {
+        "text": "bury",
+        "ipa": "/ˈbɛri/",
+        "cefr": "B1",
+        "zh": "埋葬",
+        "emoji": "⚰️"
+      }
+    ]
+  },
+  {
+    "input_word": "bus",
+    "entries": [
+      {
+        "text": "bus",
+        "ipa": "/bʌs/",
+        "cefr": "A1",
+        "zh": "公共汽车",
+        "emoji": "🚌"
+      }
+    ]
+  },
+  {
+    "input_word": "bush",
+    "entries": [
+      {
+        "text": "bush",
+        "ipa": "/bʊʃ/",
+        "cefr": "B2",
+        "zh": "灌木丛",
+        "emoji": "🌿"
+      }
+    ]
+  },
+  {
+    "input_word": "business",
+    "entries": [
+      {
+        "text": "business",
+        "ipa": "/ˈbɪznɪs/",
+        "cefr": "A1",
+        "zh": "商业；生意",
+        "emoji": "💼"
+      }
+    ]
+  },
+  {
+    "input_word": "businessman",
+    "entries": [
+      {
+        "text": "businessman",
+        "ipa": "/ˈbɪznɪsmæn/",
+        "cefr": "A2",
+        "zh": "商人",
+        "emoji": "👔"
+      }
+    ]
+  },
+  {
+    "input_word": "busy",
+    "entries": [
+      {
+        "text": "busy",
+        "ipa": "/ˈbɪzi/",
+        "cefr": "A1",
+        "zh": "忙碌的",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "but",
+    "entries": []
+  },
+  {
+    "input_word": "butter",
+    "entries": [
+      {
+        "text": "butter",
+        "ipa": "/ˈbʌtər/",
+        "cefr": "A1",
+        "zh": "黄油",
+        "emoji": "🧈"
+      }
+    ]
+  },
+  {
+    "input_word": "button",
+    "entries": [
+      {
+        "text": "button",
+        "ipa": "/ˈbʌtən/",
+        "cefr": "A2",
+        "zh": "按钮；纽扣",
+        "emoji": "🔘"
+      }
+    ]
+  }
+]

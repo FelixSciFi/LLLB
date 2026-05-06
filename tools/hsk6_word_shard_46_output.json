@@ -1,0 +1,183 @@
+[
+  {
+    "input_text": "屏幕",
+    "entries": [
+      {"text": "屏幕", "pinyin": "píng mù", "en": "screen", "emoji": "📱"}
+    ]
+  },
+  {
+    "input_text": "屏障",
+    "entries": [
+      {"text": "屏障", "pinyin": "píng zhàng", "en": "barrier; shield", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "坡",
+    "entries": [
+      {"text": "坡", "pinyin": "pō", "en": "slope; hillside", "emoji": "⛰️"}
+    ]
+  },
+  {
+    "input_text": "泼",
+    "entries": [
+      {"text": "泼", "pinyin": "pō", "en": "splash; pour", "emoji": "💦"}
+    ]
+  },
+  {
+    "input_text": "颇",
+    "entries": [
+      {"text": "颇", "pinyin": "pō", "en": "quite; rather", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "迫不及待",
+    "entries": [
+      {"text": "迫不及待", "pinyin": "pò bù jí dài", "en": "can't wait; eager", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "迫害",
+    "entries": [
+      {"text": "迫害", "pinyin": "pò hài", "en": "persecute", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "破例",
+    "entries": [
+      {"text": "破例", "pinyin": "pò lì", "en": "make an exception", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "魄力",
+    "entries": [
+      {"text": "魄力", "pinyin": "pò lì", "en": "boldness; drive", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "扑",
+    "entries": [
+      {"text": "扑", "pinyin": "pū", "en": "pounce; rush at", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "铺",
+    "entries": [
+      {"text": "铺", "pinyin": "pū", "en": "spread; lay out", "emoji": ""},
+      {"text": "铺", "pinyin": "pù", "en": "shop; store", "emoji": "🏪"}
+    ]
+  },
+  {
+    "input_text": "朴实",
+    "entries": [
+      {"text": "朴实", "pinyin": "pǔ shí", "en": "simple; plain", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "朴素",
+    "entries": [
+      {"text": "朴素", "pinyin": "pǔ sù", "en": "plain; modest", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "普及",
+    "entries": [
+      {"text": "普及", "pinyin": "pǔ jí", "en": "popularize; widespread", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "瀑布",
+    "entries": [
+      {"text": "瀑布", "pinyin": "pù bù", "en": "waterfall", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "凄凉",
+    "entries": [
+      {"text": "凄凉", "pinyin": "qī liáng", "en": "desolate; bleak", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "期望",
+    "entries": [
+      {"text": "期望", "pinyin": "qī wàng", "en": "hope; expectation", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "期限",
+    "entries": [
+      {"text": "期限", "pinyin": "qī xiàn", "en": "deadline; time limit", "emoji": "⏰"}
+    ]
+  },
+  {
+    "input_text": "欺负",
+    "entries": [
+      {"text": "欺负", "pinyin": "qī fù", "en": "bully; pick on", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "欺骗",
+    "entries": [
+      {"text": "欺骗", "pinyin": "qī piàn", "en": "deceive; cheat", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "齐全",
+    "entries": [
+      {"text": "齐全", "pinyin": "qí quán", "en": "complete; well-stocked", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "齐心协力",
+    "entries": [
+      {"text": "齐心协力", "pinyin": "qí xīn xié lì", "en": "work together", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_text": "奇妙",
+    "entries": [
+      {"text": "奇妙", "pinyin": "qí miào", "en": "wonderful; marvelous", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_text": "歧视",
+    "entries": [
+      {"text": "歧视", "pinyin": "qí shì", "en": "discriminate; prejudice", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "旗袍",
+    "entries": [
+      {"text": "旗袍", "pinyin": "qí páo", "en": "cheongsam; qipao", "emoji": "👗"}
+    ]
+  },
+  {
+    "input_text": "旗帜",
+    "entries": [
+      {"text": "旗帜", "pinyin": "qí zhì", "en": "flag; banner", "emoji": "🚩"}
+    ]
+  },
+  {
+    "input_text": "乞丐",
+    "entries": [
+      {"text": "乞丐", "pinyin": "qǐ gài", "en": "beggar", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "岂有此理",
+    "entries": [
+      {"text": "岂有此理", "pinyin": "qǐ yǒu cǐ lǐ", "en": "outrageous; preposterous", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "企图",
+    "entries": [
+      {"text": "企图", "pinyin": "qǐ tú", "en": "attempt; scheme", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "启程",
+    "entries": [
+      {"text": "启程", "pinyin": "qǐ chéng", "en": "set out; depart", "emoji": "🛫"}
+    ]
+  }
+]

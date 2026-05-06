@@ -1,0 +1,272 @@
+[
+  {
+    "text": "un ballon",
+    "ipa": "œ̃ ba.lɔ̃",
+    "translation": {"zh": "一个球", "en": "a ball"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un ballon", "lemma": "ballon", "ipa": "œ̃ ba.lɔ̃", "translation": {"zh": "球", "en": "ball"}, "emoji": "🎈"}
+    ]
+  },
+  {
+    "text": "décorer la salle",
+    "ipa": "de.kɔ.ʁe la sal",
+    "translation": {"zh": "装饰房间", "en": "decorate the room"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "décorer la salle", "lemma": "décorer", "ipa": "de.kɔ.ʁe la sal", "translation": {"zh": "装饰房间", "en": "decorate the room"}, "emoji": "🎨"}
+    ]
+  },
+  {
+    "text": "un artiste",
+    "ipa": "œ̃ naʁ.tist",
+    "translation": {"zh": "一位艺术家", "en": "an artist"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un artiste", "lemma": "artiste", "ipa": "œ̃ naʁ.tist", "translation": {"zh": "艺术家", "en": "artist"}, "emoji": "🎭"}
+    ]
+  },
+  {
+    "text": "un animateur",
+    "ipa": "œ̃ na.ni.ma.tœʁ",
+    "translation": {"zh": "一位主持人", "en": "a host"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un animateur", "lemma": "animateur", "ipa": "œ̃ na.ni.ma.tœʁ", "translation": {"zh": "主持人", "en": "host"}, "emoji": "🎤"}
+    ]
+  },
+  {
+    "text": "un empereur",
+    "ipa": "œ̃ ɑ̃.pʁœʁ",
+    "translation": {"zh": "一位皇帝", "en": "an emperor"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un empereur", "lemma": "empereur", "ipa": "œ̃ ɑ̃.pʁœʁ", "translation": {"zh": "皇帝", "en": "emperor"}, "emoji": "👑"}
+    ]
+  },
+  {
+    "text": "se concentrer",
+    "ipa": "sə kɔ̃.sɑ̃.tʁe",
+    "translation": {"zh": "集中注意力", "en": "concentrate"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "se concentrer", "lemma": "concentrer", "ipa": "sə kɔ̃.sɑ̃.tʁe", "translation": {"zh": "集中注意力", "en": "concentrate"}, "emoji": "🧠"}
+    ]
+  },
+  {
+    "text": "une coutume",
+    "ipa": "yn ku.tym",
+    "translation": {"zh": "一种习俗", "en": "a custom"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une coutume", "lemma": "coutume", "ipa": "yn ku.tym", "translation": {"zh": "习俗", "en": "custom"}, "emoji": "🏮"}
+    ]
+  },
+  {
+    "text": "conquérir un territoire",
+    "ipa": "kɔ̃.ke.ʁiʁ œ̃ tɛ.ʁi.twaʁ",
+    "translation": {"zh": "征服一片领土", "en": "conquer a territory"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "conquérir un territoire", "lemma": "conquérir", "ipa": "kɔ̃.ke.ʁiʁ œ̃ tɛ.ʁi.twaʁ", "translation": {"zh": "征服领土", "en": "conquer territory"}, "emoji": "⚔️"}
+    ]
+  },
+  {
+    "text": "une mine",
+    "ipa": "yn min",
+    "translation": {"zh": "一座矿", "en": "a mine"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une mine", "lemma": "mine", "ipa": "yn min", "translation": {"zh": "矿", "en": "mine"}, "emoji": "⛏️"}
+    ]
+  },
+  {
+    "text": "un fumeur",
+    "ipa": "œ̃ fy.mœʁ",
+    "translation": {"zh": "一位吸烟者", "en": "a smoker"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un fumeur", "lemma": "fumeur", "ipa": "œ̃ fy.mœʁ", "translation": {"zh": "吸烟者", "en": "smoker"}, "emoji": "🚬"}
+    ]
+  },
+  {
+    "text": "un passager",
+    "ipa": "œ̃ pa.sa.ʒe",
+    "translation": {"zh": "一位乘客", "en": "a passenger"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un passager", "lemma": "passager", "ipa": "œ̃ pa.sa.ʒe", "translation": {"zh": "乘客", "en": "passenger"}, "emoji": "🧳"}
+    ]
+  },
+  {
+    "text": "une boisson",
+    "ipa": "yn bwa.sɔ̃",
+    "translation": {"zh": "一种饮料", "en": "a drink"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une boisson", "lemma": "boisson", "ipa": "yn bwa.sɔ̃", "translation": {"zh": "饮料", "en": "drink"}, "emoji": "🥤"}
+    ]
+  },
+  {
+    "text": "le paradis",
+    "ipa": "lə pa.ʁa.di",
+    "translation": {"zh": "天堂", "en": "paradise"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le paradis", "lemma": "paradis", "ipa": "lə pa.ʁa.di", "translation": {"zh": "天堂", "en": "paradise"}, "emoji": "😇"}
+    ]
+  },
+  {
+    "text": "un poème",
+    "ipa": "œ̃ pɔ.ɛm",
+    "translation": {"zh": "一首诗", "en": "a poem"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un poème", "lemma": "poème", "ipa": "œ̃ pɔ.ɛm", "translation": {"zh": "诗", "en": "poem"}, "emoji": "📜"}
+    ]
+  },
+  {
+    "text": "se venger",
+    "ipa": "sə vɑ̃.ʒe",
+    "translation": {"zh": "报仇", "en": "take revenge"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "se venger", "lemma": "venger", "ipa": "sə vɑ̃.ʒe", "translation": {"zh": "报仇", "en": "take revenge"}, "emoji": "😤"}
+    ]
+  },
+  {
+    "text": "un adversaire",
+    "ipa": "œ̃ nad.vɛʁ.sɛʁ",
+    "translation": {"zh": "一位对手", "en": "an opponent"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un adversaire", "lemma": "adversaire", "ipa": "œ̃ nad.vɛʁ.sɛʁ", "translation": {"zh": "对手", "en": "opponent"}, "emoji": "🥊"}
+    ]
+  },
+  {
+    "text": "un concept",
+    "ipa": "œ̃ kɔ̃.sɛpt",
+    "translation": {"zh": "一个概念", "en": "a concept"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un concept", "lemma": "concept", "ipa": "œ̃ kɔ̃.sɛpt", "translation": {"zh": "概念", "en": "concept"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "un bijou",
+    "ipa": "œ̃ bi.ʒu",
+    "translation": {"zh": "一件珠宝", "en": "a jewel"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un bijou", "lemma": "bijou", "ipa": "œ̃ bi.ʒu", "translation": {"zh": "珠宝", "en": "jewel"}, "emoji": "💎"}
+    ]
+  },
+  {
+    "text": "un génie",
+    "ipa": "œ̃ ʒe.ni",
+    "translation": {"zh": "一位天才", "en": "a genius"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un génie", "lemma": "génie", "ipa": "œ̃ ʒe.ni", "translation": {"zh": "天才", "en": "genius"}, "emoji": "🌟"}
+    ]
+  },
+  {
+    "text": "joindre les mains",
+    "ipa": "ʒwɛ̃dʁ le mɛ̃",
+    "translation": {"zh": "双手合拢", "en": "join hands"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "joindre les mains", "lemma": "joindre", "ipa": "ʒwɛ̃dʁ le mɛ̃", "translation": {"zh": "合拢双手", "en": "join hands"}, "emoji": "🙏"}
+    ]
+  },
+  {
+    "text": "se qualifier",
+    "ipa": "sə ka.li.fje",
+    "translation": {"zh": "取得资格", "en": "qualify"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "se qualifier", "lemma": "qualifier", "ipa": "sə ka.li.fje", "translation": {"zh": "取得资格", "en": "qualify"}, "emoji": "🏅"}
+    ]
+  },
+  {
+    "text": "une aile",
+    "ipa": "yn ɛl",
+    "translation": {"zh": "一只翅膀", "en": "a wing"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une aile", "lemma": "aile", "ipa": "yn ɛl", "translation": {"zh": "翅膀", "en": "wing"}, "emoji": "🪶"}
+    ]
+  },
+  {
+    "text": "revendiquer ses droits",
+    "ipa": "ʁə.vɑ̃.di.ke se dʁwa",
+    "translation": {"zh": "主张自己的权利", "en": "claim one's rights"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "revendiquer ses droits", "lemma": "revendiquer", "ipa": "ʁə.vɑ̃.di.ke se dʁwa", "translation": {"zh": "主张权利", "en": "claim rights"}, "emoji": "✊"}
+    ]
+  },
+  {
+    "text": "le curé du village",
+    "ipa": "lə ky.ʁe dy vi.laʒ",
+    "translation": {"zh": "村里的神父", "en": "the village priest"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le curé du village", "lemma": "curé", "ipa": "lə ky.ʁe dy vi.laʒ", "translation": {"zh": "村庄神父", "en": "village priest"}, "emoji": "⛪"}
+    ]
+  },
+  {
+    "text": "un fruit exotique",
+    "ipa": "œ̃ fʁɥi ɛɡ.zɔ.tik",
+    "translation": {"zh": "一种热带水果", "en": "an exotic fruit"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un fruit exotique", "lemma": "exotique", "ipa": "œ̃ fʁɥi ɛɡ.zɔ.tik", "translation": {"zh": "热带水果", "en": "exotic fruit"}, "emoji": "🍍"}
+    ]
+  },
+  {
+    "text": "une amélioration",
+    "ipa": "yn a.me.ljɔ.ʁa.sjɔ̃",
+    "translation": {"zh": "一项改进", "en": "an improvement"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une amélioration", "lemma": "amélioration", "ipa": "yn a.me.ljɔ.ʁa.sjɔ̃", "translation": {"zh": "改进", "en": "improvement"}, "emoji": "📈"}
+    ]
+  },
+  {
+    "text": "un amour éternel",
+    "ipa": "œ̃ na.muʁ e.tɛʁ.nɛl",
+    "translation": {"zh": "永恒的爱", "en": "eternal love"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un amour éternel", "lemma": "éternel", "ipa": "œ̃ na.muʁ e.tɛʁ.nɛl", "translation": {"zh": "永恒的爱", "en": "eternal love"}, "emoji": "♾️"}
+    ]
+  },
+  {
+    "text": "baptiser un enfant",
+    "ipa": "ba.ti.ze œ̃ nɑ̃.fɑ̃",
+    "translation": {"zh": "给孩子施洗", "en": "baptize a child"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "baptiser un enfant", "lemma": "baptiser", "ipa": "ba.ti.ze œ̃ nɑ̃.fɑ̃", "translation": {"zh": "给孩子施洗", "en": "baptize a child"}, "emoji": "💧"}
+    ]
+  },
+  {
+    "text": "la distribution des prix",
+    "ipa": "la dis.tʁi.by.sjɔ̃ de pʁi",
+    "translation": {"zh": "颁奖典礼", "en": "the prize-giving"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la distribution des prix", "lemma": "distribution", "ipa": "la dis.tʁi.by.sjɔ̃ de pʁi", "translation": {"zh": "颁奖典礼", "en": "prize-giving"}, "emoji": "🏆"}
+    ]
+  },
+  {
+    "text": "une fédération",
+    "ipa": "yn fe.de.ʁa.sjɔ̃",
+    "translation": {"zh": "一个联合会", "en": "a federation"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une fédération", "lemma": "fédération", "ipa": "yn fe.de.ʁa.sjɔ̃", "translation": {"zh": "联合会", "en": "federation"}, "emoji": "🤝"}
+    ]
+  }
+]

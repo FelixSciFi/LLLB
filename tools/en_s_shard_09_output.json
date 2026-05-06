@@ -1,0 +1,189 @@
+[
+  {
+    "input_word": "stop",
+    "entries": [
+      {"text": "stop", "ipa": "/stɑp/", "cefr": "A1", "zh": "停止", "emoji": "🛑"}
+    ]
+  },
+  {
+    "input_word": "store",
+    "entries": [
+      {"text": "store", "ipa": "/stɔːr/", "cefr": "A2", "zh": "商店", "emoji": "🏪"},
+      {"text": "store", "ipa": "/stɔːr/", "cefr": "A2", "zh": "储存", "emoji": "📦"}
+    ]
+  },
+  {
+    "input_word": "storm",
+    "entries": [
+      {"text": "storm", "ipa": "/stɔːrm/", "cefr": "A2", "zh": "暴风雨", "emoji": "⛈️"}
+    ]
+  },
+  {
+    "input_word": "story",
+    "entries": [
+      {"text": "story", "ipa": "/ˈstɔːri/", "cefr": "A1", "zh": "故事", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_word": "straight",
+    "entries": [
+      {"text": "straight", "ipa": "/streɪt/", "cefr": "A2", "zh": "笔直的", "emoji": "➡️"}
+    ]
+  },
+  {
+    "input_word": "strange",
+    "entries": [
+      {"text": "strange", "ipa": "/streɪndʒ/", "cefr": "A2", "zh": "奇怪的", "emoji": "🤨"}
+    ]
+  },
+  {
+    "input_word": "stranger",
+    "entries": [
+      {"text": "stranger", "ipa": "/ˈstreɪndʒər/", "cefr": "B1", "zh": "陌生人", "emoji": "🧑"}
+    ]
+  },
+  {
+    "input_word": "strategy",
+    "entries": [
+      {"text": "strategy", "ipa": "/ˈstrætədʒi/", "cefr": "A2", "zh": "策略", "emoji": "♟️"}
+    ]
+  },
+  {
+    "input_word": "stream",
+    "entries": [
+      {"text": "stream", "ipa": "/striːm/", "cefr": "B2", "zh": "小溪", "emoji": "🏞️"},
+      {"text": "stream", "ipa": "/striːm/", "cefr": "B2", "zh": "流媒体", "emoji": "📡"}
+    ]
+  },
+  {
+    "input_word": "street",
+    "entries": [
+      {"text": "street", "ipa": "/striːt/", "cefr": "A1", "zh": "街道", "emoji": "🛣️"}
+    ]
+  },
+  {
+    "input_word": "strength",
+    "entries": [
+      {"text": "strength", "ipa": "/strɛŋkθ/", "cefr": "B1", "zh": "力量", "emoji": "💪"}
+    ]
+  },
+  {
+    "input_word": "stress",
+    "entries": [
+      {"text": "stress", "ipa": "/strɛs/", "cefr": "A2", "zh": "压力", "emoji": "😰"},
+      {"text": "stress", "ipa": "/strɛs/", "cefr": "A2", "zh": "重音", "emoji": "🗣️"}
+    ]
+  },
+  {
+    "input_word": "stretch",
+    "entries": [
+      {"text": "stretch", "ipa": "/strɛtʃ/", "cefr": "B2", "zh": "伸展", "emoji": "🧘"}
+    ]
+  },
+  {
+    "input_word": "strict",
+    "entries": [
+      {"text": "strict", "ipa": "/strɪkt/", "cefr": "B2", "zh": "严格的", "emoji": "👮"}
+    ]
+  },
+  {
+    "input_word": "strike",
+    "entries": [
+      {"text": "strike", "ipa": "/straɪk/", "cefr": "B2", "zh": "罢工", "emoji": "✊"},
+      {"text": "strike", "ipa": "/straɪk/", "cefr": "B2", "zh": "打击", "emoji": "👊"}
+    ]
+  },
+  {
+    "input_word": "string",
+    "entries": [
+      {"text": "string", "ipa": "/strɪŋ/", "cefr": "B1", "zh": "细绳", "emoji": "🧵"},
+      {"text": "string", "ipa": "/strɪŋ/", "cefr": "B1", "zh": "字符串", "emoji": "💻"}
+    ]
+  },
+  {
+    "input_word": "strong",
+    "entries": [
+      {"text": "strong", "ipa": "/strɔŋ/", "cefr": "A1", "zh": "强壮的", "emoji": "💪"}
+    ]
+  },
+  {
+    "input_word": "strongly",
+    "entries": [
+      {"text": "strongly", "ipa": "/ˈstrɔŋli/", "cefr": "B1", "zh": "强烈地", "emoji": "❗"}
+    ]
+  },
+  {
+    "input_word": "structure",
+    "entries": [
+      {"text": "structure", "ipa": "/ˈstrʌktʃər/", "cefr": "A2", "zh": "结构", "emoji": "🏗️"}
+    ]
+  },
+  {
+    "input_word": "struggle",
+    "entries": [
+      {"text": "struggle", "ipa": "/ˈstrʌɡəl/", "cefr": "B2", "zh": "挣扎", "emoji": "😤"}
+    ]
+  },
+  {
+    "input_word": "student",
+    "entries": [
+      {"text": "student", "ipa": "/ˈstuːdənt/", "cefr": "A1", "zh": "学生", "emoji": "🎓"}
+    ]
+  },
+  {
+    "input_word": "studio",
+    "entries": [
+      {"text": "studio", "ipa": "/ˈstuːdioʊ/", "cefr": "B1", "zh": "工作室", "emoji": "🎙️"}
+    ]
+  },
+  {
+    "input_word": "study",
+    "entries": [
+      {"text": "study", "ipa": "/ˈstʌdi/", "cefr": "A1", "zh": "学习", "emoji": "📚"},
+      {"text": "study", "ipa": "/ˈstʌdi/", "cefr": "A1", "zh": "研究", "emoji": "🔬"}
+    ]
+  },
+  {
+    "input_word": "stuff",
+    "entries": [
+      {"text": "stuff", "ipa": "/stʌf/", "cefr": "B1", "zh": "东西", "emoji": "📦"}
+    ]
+  },
+  {
+    "input_word": "stupid",
+    "entries": [
+      {"text": "stupid", "ipa": "/ˈstuːpɪd/", "cefr": "A2", "zh": "愚蠢的", "emoji": "🤦"}
+    ]
+  },
+  {
+    "input_word": "style",
+    "entries": [
+      {"text": "style", "ipa": "/staɪl/", "cefr": "A1", "zh": "风格", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_word": "subject",
+    "entries": [
+      {"text": "subject", "ipa": "/ˈsʌbdʒɪkt/", "cefr": "A1", "zh": "科目", "emoji": "📋"},
+      {"text": "subject", "ipa": "/ˈsʌbdʒɪkt/", "cefr": "A1", "zh": "话题", "emoji": "💬"}
+    ]
+  },
+  {
+    "input_word": "submit",
+    "entries": [
+      {"text": "submit", "ipa": "/səbˈmɪt/", "cefr": "B2", "zh": "提交", "emoji": "📤"}
+    ]
+  },
+  {
+    "input_word": "substance",
+    "entries": [
+      {"text": "substance", "ipa": "/ˈsʌbstəns/", "cefr": "B1", "zh": "物质", "emoji": "🧪"}
+    ]
+  },
+  {
+    "input_word": "succeed",
+    "entries": [
+      {"text": "succeed", "ipa": "/səkˈsiːd/", "cefr": "A2", "zh": "成功", "emoji": "🏆"}
+    ]
+  }
+]

@@ -1,0 +1,183 @@
+[
+  {
+    "input_text": "爱",
+    "entries": [
+      {"text": "爱", "pinyin": "ài", "en": "love", "emoji": "❤️"}
+    ]
+  },
+  {
+    "input_text": "八",
+    "entries": [
+      {"text": "八", "pinyin": "bā", "en": "eight", "emoji": "8️⃣"}
+    ]
+  },
+  {
+    "input_text": "爸爸",
+    "entries": [
+      {"text": "爸爸", "pinyin": "bàba", "en": "dad", "emoji": "👨"}
+    ]
+  },
+  {
+    "input_text": "杯子",
+    "entries": [
+      {"text": "杯子", "pinyin": "bēizi", "en": "cup", "emoji": "🥛"}
+    ]
+  },
+  {
+    "input_text": "北京",
+    "entries": [
+      {"text": "北京", "pinyin": "Běijīng", "en": "Beijing", "emoji": "🏯"}
+    ]
+  },
+  {
+    "input_text": "本",
+    "entries": [
+      {"text": "本", "pinyin": "běn", "en": "M.W. for books", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_text": "不客气",
+    "entries": [
+      {"text": "不客气", "pinyin": "bú kèqi", "en": "you're welcome", "emoji": "🙏"}
+    ]
+  },
+  {
+    "input_text": "不",
+    "entries": [
+      {"text": "不", "pinyin": "bù", "en": "not", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "菜",
+    "entries": [
+      {"text": "菜", "pinyin": "cài", "en": "dish / vegetable", "emoji": "🥬"}
+    ]
+  },
+  {
+    "input_text": "茶",
+    "entries": [
+      {"text": "茶", "pinyin": "chá", "en": "tea", "emoji": "🍵"}
+    ]
+  },
+  {
+    "input_text": "吃",
+    "entries": [
+      {"text": "吃", "pinyin": "chī", "en": "eat", "emoji": "🍽️"}
+    ]
+  },
+  {
+    "input_text": "出租车",
+    "entries": [
+      {"text": "出租车", "pinyin": "chūzūchē", "en": "taxi", "emoji": "🚕"}
+    ]
+  },
+  {
+    "input_text": "打电话",
+    "entries": [
+      {"text": "打电话", "pinyin": "dǎ diànhuà", "en": "make a phone call", "emoji": "📞"}
+    ]
+  },
+  {
+    "input_text": "大",
+    "entries": [
+      {"text": "大", "pinyin": "dà", "en": "big", "emoji": "📏"}
+    ]
+  },
+  {
+    "input_text": "的",
+    "entries": [
+      {"text": "的", "pinyin": "de", "en": "possessive particle", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "点",
+    "entries": [
+      {"text": "点", "pinyin": "diǎn", "en": "o'clock", "emoji": "🕐"},
+      {"text": "点", "pinyin": "diǎn", "en": "a little / dot", "emoji": "🔘"}
+    ]
+  },
+  {
+    "input_text": "电脑",
+    "entries": [
+      {"text": "电脑", "pinyin": "diànnǎo", "en": "computer", "emoji": "💻"}
+    ]
+  },
+  {
+    "input_text": "电视",
+    "entries": [
+      {"text": "电视", "pinyin": "diànshì", "en": "television", "emoji": "📺"}
+    ]
+  },
+  {
+    "input_text": "电影",
+    "entries": [
+      {"text": "电影", "pinyin": "diànyǐng", "en": "movie", "emoji": "🎬"}
+    ]
+  },
+  {
+    "input_text": "东西",
+    "entries": [
+      {"text": "东西", "pinyin": "dōngxi", "en": "things / stuff", "emoji": "📦"}
+    ]
+  },
+  {
+    "input_text": "都",
+    "entries": [
+      {"text": "都", "pinyin": "dōu", "en": "all / both", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "读",
+    "entries": [
+      {"text": "读", "pinyin": "dú", "en": "to read", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_text": "对不起",
+    "entries": [
+      {"text": "对不起", "pinyin": "duìbuqǐ", "en": "sorry", "emoji": "🙇"}
+    ]
+  },
+  {
+    "input_text": "多",
+    "entries": [
+      {"text": "多", "pinyin": "duō", "en": "many", "emoji": "➕"}
+    ]
+  },
+  {
+    "input_text": "多少",
+    "entries": [
+      {"text": "多少", "pinyin": "duōshao", "en": "how many", "emoji": "❓"}
+    ]
+  },
+  {
+    "input_text": "儿子",
+    "entries": [
+      {"text": "儿子", "pinyin": "érzi", "en": "son", "emoji": "👦"}
+    ]
+  },
+  {
+    "input_text": "二",
+    "entries": [
+      {"text": "二", "pinyin": "èr", "en": "two", "emoji": "2️⃣"}
+    ]
+  },
+  {
+    "input_text": "饭店",
+    "entries": [
+      {"text": "饭店", "pinyin": "fàndiàn", "en": "restaurant", "emoji": "🍴"}
+    ]
+  },
+  {
+    "input_text": "飞机",
+    "entries": [
+      {"text": "飞机", "pinyin": "fēijī", "en": "airplane", "emoji": "✈️"}
+    ]
+  },
+  {
+    "input_text": "分钟",
+    "entries": [
+      {"text": "分钟", "pinyin": "fēnzhōng", "en": "minute", "emoji": "⏱️"}
+    ]
+  }
+]

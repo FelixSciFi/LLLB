@@ -1,0 +1,180 @@
+[
+  {
+    "input_word": "wild",
+    "entries": [
+      {"text": "wild", "ipa": "/waɪld/", "cefr": "A2", "zh": "野生的", "emoji": "🌿"}
+    ]
+  },
+  {
+    "input_word": "wildlife",
+    "entries": [
+      {"text": "wildlife", "ipa": "/ˈwaɪldlaɪf/", "cefr": "B2", "zh": "野生动物", "emoji": "🦁"}
+    ]
+  },
+  {
+    "input_word": "will",
+    "entries": [
+      {"text": "will", "ipa": "/wɪl/", "cefr": "A1", "zh": "意志", "emoji": "💪"},
+      {"text": "will", "ipa": "/wɪl/", "cefr": "A1", "zh": "遗嘱", "emoji": "📜"}
+    ]
+  },
+  {
+    "input_word": "willing",
+    "entries": [
+      {"text": "willing", "ipa": "/ˈwɪlɪŋ/", "cefr": "B2", "zh": "愿意的", "emoji": "🙋"}
+    ]
+  },
+  {
+    "input_word": "win",
+    "entries": [
+      {"text": "win", "ipa": "/wɪn/", "cefr": "A1", "zh": "赢得", "emoji": "🏆"}
+    ]
+  },
+  {
+    "input_word": "wind",
+    "entries": [
+      {"text": "wind", "ipa": "/wɪnd/", "cefr": "A2", "zh": "风", "emoji": "💨"},
+      {"text": "wind", "ipa": "/waɪnd/", "cefr": "A2", "zh": "缠绕", "emoji": "🔄"}
+    ]
+  },
+  {
+    "input_word": "window",
+    "entries": [
+      {"text": "window", "ipa": "/ˈwɪndoʊ/", "cefr": "A1", "zh": "窗户", "emoji": "🪟"}
+    ]
+  },
+  {
+    "input_word": "wine",
+    "entries": [
+      {"text": "wine", "ipa": "/waɪn/", "cefr": "A1", "zh": "葡萄酒", "emoji": "🍷"}
+    ]
+  },
+  {
+    "input_word": "wing",
+    "entries": [
+      {"text": "wing", "ipa": "/wɪŋ/", "cefr": "B1", "zh": "翅膀", "emoji": "🦋"}
+    ]
+  },
+  {
+    "input_word": "winner",
+    "entries": [
+      {"text": "winner", "ipa": "/ˈwɪnər/", "cefr": "A2", "zh": "获胜者", "emoji": "🥇"}
+    ]
+  },
+  {
+    "input_word": "winter",
+    "entries": [
+      {"text": "winter", "ipa": "/ˈwɪntər/", "cefr": "A1", "zh": "冬天", "emoji": "❄️"}
+    ]
+  },
+  {
+    "input_word": "wire",
+    "entries": [
+      {"text": "wire", "ipa": "/waɪər/", "cefr": "B2", "zh": "电线", "emoji": "🔌"}
+    ]
+  },
+  {
+    "input_word": "wise",
+    "entries": [
+      {"text": "wise", "ipa": "/waɪz/", "cefr": "B2", "zh": "睿智的", "emoji": "🦉"}
+    ]
+  },
+  {
+    "input_word": "wish",
+    "entries": [
+      {"text": "wish", "ipa": "/wɪʃ/", "cefr": "A2", "zh": "愿望", "emoji": "🌠"}
+    ]
+  },
+  {
+    "input_word": "with",
+    "entries": []
+  },
+  {
+    "input_word": "within",
+    "entries": []
+  },
+  {
+    "input_word": "without",
+    "entries": []
+  },
+  {
+    "input_word": "witness",
+    "entries": [
+      {"text": "witness", "ipa": "/ˈwɪtnəs/", "cefr": "B2", "zh": "目击者", "emoji": "👁️"},
+      {"text": "witness", "ipa": "/ˈwɪtnəs/", "cefr": "B2", "zh": "目击", "emoji": "👀"}
+    ]
+  },
+  {
+    "input_word": "woman",
+    "entries": [
+      {"text": "woman", "ipa": "/ˈwʊmən/", "cefr": "A1", "zh": "女人", "emoji": "👩"}
+    ]
+  },
+  {
+    "input_word": "wonder",
+    "entries": [
+      {"text": "wonder", "ipa": "/ˈwʌndər/", "cefr": "B1", "zh": "奇迹", "emoji": "✨"},
+      {"text": "wonder", "ipa": "/ˈwʌndər/", "cefr": "B1", "zh": "想知道", "emoji": "🤔"}
+    ]
+  },
+  {
+    "input_word": "wonderful",
+    "entries": [
+      {"text": "wonderful", "ipa": "/ˈwʌndərfəl/", "cefr": "A1", "zh": "极好的", "emoji": "🌟"}
+    ]
+  },
+  {
+    "input_word": "wood",
+    "entries": [
+      {"text": "wood", "ipa": "/wʊd/", "cefr": "A2", "zh": "木头", "emoji": "🪵"}
+    ]
+  },
+  {
+    "input_word": "wooden",
+    "entries": [
+      {"text": "wooden", "ipa": "/ˈwʊdən/", "cefr": "A2", "zh": "木制的", "emoji": "🪵"}
+    ]
+  },
+  {
+    "input_word": "wool",
+    "entries": [
+      {"text": "wool", "ipa": "/wʊl/", "cefr": "B1", "zh": "羊毛", "emoji": "🐑"}
+    ]
+  },
+  {
+    "input_word": "word",
+    "entries": [
+      {"text": "word", "ipa": "/wɜːrd/", "cefr": "A1", "zh": "词语", "emoji": "📝"}
+    ]
+  },
+  {
+    "input_word": "work",
+    "entries": [
+      {"text": "work", "ipa": "/wɜːrk/", "cefr": "A1", "zh": "工作", "emoji": "💼"}
+    ]
+  },
+  {
+    "input_word": "worker",
+    "entries": [
+      {"text": "worker", "ipa": "/ˈwɜːrkər/", "cefr": "A1", "zh": "工人", "emoji": "👷"}
+    ]
+  },
+  {
+    "input_word": "working",
+    "entries": [
+      {"text": "working", "ipa": "/ˈwɜːrkɪŋ/", "cefr": "A2", "zh": "工作的", "emoji": "⚙️"}
+    ]
+  },
+  {
+    "input_word": "world",
+    "entries": [
+      {"text": "world", "ipa": "/wɜːrld/", "cefr": "A1", "zh": "世界", "emoji": "🌍"}
+    ]
+  },
+  {
+    "input_word": "worldwide",
+    "entries": [
+      {"text": "worldwide", "ipa": "/ˈwɜːrldwaɪd/", "cefr": "B1", "zh": "全球的", "emoji": "🌐"}
+    ]
+  }
+]

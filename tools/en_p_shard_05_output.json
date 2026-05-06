@@ -1,0 +1,190 @@
+[
+  {
+    "input_word": "power",
+    "entries": [
+      {"text": "power", "ipa": "/ˈpaʊər/", "cefr": "A2", "zh": "权力", "emoji": "⚡"},
+      {"text": "power", "ipa": "/ˈpaʊər/", "cefr": "A2", "zh": "电力", "emoji": "🔌"},
+      {"text": "power", "ipa": "/ˈpaʊər/", "cefr": "A2", "zh": "力量", "emoji": "💪"}
+    ]
+  },
+  {
+    "input_word": "powerful",
+    "entries": [
+      {"text": "powerful", "ipa": "/ˈpaʊərfəl/", "cefr": "B1", "zh": "强大的", "emoji": "💪"}
+    ]
+  },
+  {
+    "input_word": "practical",
+    "entries": [
+      {"text": "practical", "ipa": "/ˈpræktɪkəl/", "cefr": "B1", "zh": "实用的", "emoji": "🔧"}
+    ]
+  },
+  {
+    "input_word": "practice",
+    "entries": [
+      {"text": "practice", "ipa": "/ˈpræktɪs/", "cefr": "A1", "zh": "练习", "emoji": "📝"},
+      {"text": "practice", "ipa": "/ˈpræktɪs/", "cefr": "A1", "zh": "惯例", "emoji": "🔄"}
+    ]
+  },
+  {
+    "input_word": "practise",
+    "entries": [
+      {"text": "practise", "ipa": "/ˈpræktɪs/", "cefr": "A1", "zh": "练习", "emoji": "📝"}
+    ]
+  },
+  {
+    "input_word": "praise",
+    "entries": [
+      {"text": "praise", "ipa": "/preɪz/", "cefr": "B2", "zh": "称赞", "emoji": "👏"}
+    ]
+  },
+  {
+    "input_word": "pray",
+    "entries": [
+      {"text": "pray", "ipa": "/preɪ/", "cefr": "B1", "zh": "祈祷", "emoji": "🙏"}
+    ]
+  },
+  {
+    "input_word": "prayer",
+    "entries": [
+      {"text": "prayer", "ipa": "/prɛr/", "cefr": "B1", "zh": "祈祷", "emoji": "🙏"}
+    ]
+  },
+  {
+    "input_word": "predict",
+    "entries": [
+      {"text": "predict", "ipa": "/prɪˈdɪkt/", "cefr": "A2", "zh": "预测", "emoji": "🔮"}
+    ]
+  },
+  {
+    "input_word": "prediction",
+    "entries": [
+      {"text": "prediction", "ipa": "/prɪˈdɪkʃən/", "cefr": "B1", "zh": "预测", "emoji": "🔮"}
+    ]
+  },
+  {
+    "input_word": "prefer",
+    "entries": [
+      {"text": "prefer", "ipa": "/prɪˈfɜːr/", "cefr": "A1", "zh": "更喜欢", "emoji": "❤️"}
+    ]
+  },
+  {
+    "input_word": "pregnant",
+    "entries": [
+      {"text": "pregnant", "ipa": "/ˈprɛɡnənt/", "cefr": "B2", "zh": "怀孕的", "emoji": "🤰"}
+    ]
+  },
+  {
+    "input_word": "preparation",
+    "entries": [
+      {"text": "preparation", "ipa": "/ˌprɛpəˈreɪʃən/", "cefr": "B2", "zh": "准备", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_word": "prepare",
+    "entries": [
+      {"text": "prepare", "ipa": "/prɪˈpɛr/", "cefr": "A1", "zh": "准备", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_word": "prepared",
+    "entries": [
+      {"text": "prepared", "ipa": "/prɪˈpɛrd/", "cefr": "B1", "zh": "有准备的", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_word": "presence",
+    "entries": [
+      {"text": "presence", "ipa": "/ˈprɛzəns/", "cefr": "B2", "zh": "存在", "emoji": "👤"}
+    ]
+  },
+  {
+    "input_word": "present",
+    "entries": [
+      {"text": "present", "ipa": "/ˈprɛzənt/", "cefr": "A1", "zh": "礼物", "emoji": "🎁"},
+      {"text": "present", "ipa": "/ˈprɛzənt/", "cefr": "A1", "zh": "现在", "emoji": "⏱️"},
+      {"text": "present", "ipa": "/prɪˈzɛnt/", "cefr": "A1", "zh": "呈现", "emoji": "🎤"}
+    ]
+  },
+  {
+    "input_word": "presentation",
+    "entries": [
+      {"text": "presentation", "ipa": "/ˌprɛzənˈteɪʃən/", "cefr": "B1", "zh": "演示", "emoji": "📊"}
+    ]
+  },
+  {
+    "input_word": "preserve",
+    "entries": [
+      {"text": "preserve", "ipa": "/prɪˈzɜːrv/", "cefr": "B2", "zh": "保护", "emoji": "🛡️"}
+    ]
+  },
+  {
+    "input_word": "president",
+    "entries": [
+      {"text": "president", "ipa": "/ˈprɛzɪdənt/", "cefr": "A2", "zh": "总统", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_word": "press",
+    "entries": [
+      {"text": "press", "ipa": "/prɛs/", "cefr": "B1", "zh": "按压", "emoji": "👆"},
+      {"text": "press", "ipa": "/prɛs/", "cefr": "B1", "zh": "新闻界", "emoji": "📰"}
+    ]
+  },
+  {
+    "input_word": "pressure",
+    "entries": [
+      {"text": "pressure", "ipa": "/ˈprɛʃər/", "cefr": "B1", "zh": "压力", "emoji": "😤"}
+    ]
+  },
+  {
+    "input_word": "pretend",
+    "entries": [
+      {"text": "pretend", "ipa": "/prɪˈtɛnd/", "cefr": "B1", "zh": "假装", "emoji": "🎭"}
+    ]
+  },
+  {
+    "input_word": "pretty",
+    "entries": [
+      {"text": "pretty", "ipa": "/ˈprɪti/", "cefr": "A1", "zh": "漂亮的", "emoji": "🌸"},
+      {"text": "pretty", "ipa": "/ˈprɪti/", "cefr": "A1", "zh": "相当", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "prevent",
+    "entries": [
+      {"text": "prevent", "ipa": "/prɪˈvɛnt/", "cefr": "A2", "zh": "预防", "emoji": "🚫"}
+    ]
+  },
+  {
+    "input_word": "previous",
+    "entries": [
+      {"text": "previous", "ipa": "/ˈpriːviəs/", "cefr": "B1", "zh": "之前的", "emoji": "⬅️"}
+    ]
+  },
+  {
+    "input_word": "previously",
+    "entries": [
+      {"text": "previously", "ipa": "/ˈpriːviəsli/", "cefr": "B1", "zh": "以前", "emoji": "⬅️"}
+    ]
+  },
+  {
+    "input_word": "price",
+    "entries": [
+      {"text": "price", "ipa": "/praɪs/", "cefr": "A1", "zh": "价格", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_word": "priest",
+    "entries": [
+      {"text": "priest", "ipa": "/priːst/", "cefr": "B1", "zh": "神父", "emoji": "⛪"}
+    ]
+  },
+  {
+    "input_word": "primary",
+    "entries": [
+      {"text": "primary", "ipa": "/ˈpraɪmɛri/", "cefr": "B1", "zh": "主要的", "emoji": "1️⃣"},
+      {"text": "primary", "ipa": "/ˈpraɪmɛri/", "cefr": "B1", "zh": "小学的", "emoji": "🏫"}
+    ]
+  }
+]

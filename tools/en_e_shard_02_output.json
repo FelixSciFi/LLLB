@@ -1,0 +1,186 @@
+[
+  {
+    "input_word": "end",
+    "entries": [
+      {"text": "end", "ipa": "/ɛnd/", "cefr": "A1", "zh": "结尾", "emoji": "🔚"},
+      {"text": "end", "ipa": "/ɛnd/", "cefr": "A1", "zh": "结束", "emoji": "🏁"}
+    ]
+  },
+  {
+    "input_word": "ending",
+    "entries": [
+      {"text": "ending", "ipa": "/ˈɛndɪŋ/", "cefr": "A2", "zh": "结局", "emoji": "🎬"}
+    ]
+  },
+  {
+    "input_word": "enemy",
+    "entries": [
+      {"text": "enemy", "ipa": "/ˈɛnəmi/", "cefr": "B1", "zh": "敌人", "emoji": "⚔️"}
+    ]
+  },
+  {
+    "input_word": "energy",
+    "entries": [
+      {"text": "energy", "ipa": "/ˈɛnərdʒi/", "cefr": "A2", "zh": "能量", "emoji": "⚡"}
+    ]
+  },
+  {
+    "input_word": "engage",
+    "entries": [
+      {"text": "engage", "ipa": "/ɪnˈɡeɪdʒ/", "cefr": "B2", "zh": "参与", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "engaged",
+    "entries": [
+      {"text": "engaged", "ipa": "/ɪnˈɡeɪdʒd/", "cefr": "B1", "zh": "订婚的", "emoji": "💍"},
+      {"text": "engaged", "ipa": "/ɪnˈɡeɪdʒd/", "cefr": "B1", "zh": "忙碌的", "emoji": "📵"}
+    ]
+  },
+  {
+    "input_word": "engine",
+    "entries": [
+      {"text": "engine", "ipa": "/ˈɛndʒɪn/", "cefr": "A2", "zh": "发动机", "emoji": "🔧"}
+    ]
+  },
+  {
+    "input_word": "engineer",
+    "entries": [
+      {"text": "engineer", "ipa": "/ˌɛndʒɪˈnɪr/", "cefr": "A2", "zh": "工程师", "emoji": "👷"}
+    ]
+  },
+  {
+    "input_word": "engineering",
+    "entries": [
+      {"text": "engineering", "ipa": "/ˌɛndʒɪˈnɪrɪŋ/", "cefr": "B1", "zh": "工程学", "emoji": "⚙️"}
+    ]
+  },
+  {
+    "input_word": "enhance",
+    "entries": [
+      {"text": "enhance", "ipa": "/ɪnˈhæns/", "cefr": "B2", "zh": "增强", "emoji": "📈"}
+    ]
+  },
+  {
+    "input_word": "enjoy",
+    "entries": [
+      {"text": "enjoy", "ipa": "/ɪnˈdʒɔɪ/", "cefr": "A1", "zh": "享受", "emoji": "😊"}
+    ]
+  },
+  {
+    "input_word": "enormous",
+    "entries": [
+      {"text": "enormous", "ipa": "/ɪˈnɔːrməs/", "cefr": "A2", "zh": "巨大的", "emoji": "🐘"}
+    ]
+  },
+  {
+    "input_word": "enough",
+    "entries": [
+      {"text": "enough", "ipa": "/ɪˈnʌf/", "cefr": "A1", "zh": "足够", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_word": "enquiry",
+    "entries": [
+      {"text": "enquiry", "ipa": "/ɪnˈkwaɪri/", "cefr": "B2", "zh": "询问", "emoji": "❓"}
+    ]
+  },
+  {
+    "input_word": "ensure",
+    "entries": [
+      {"text": "ensure", "ipa": "/ɪnˈʃʊr/", "cefr": "B2", "zh": "确保", "emoji": "🛡️"}
+    ]
+  },
+  {
+    "input_word": "enter",
+    "entries": [
+      {"text": "enter", "ipa": "/ˈɛntər/", "cefr": "A2", "zh": "进入", "emoji": "🚪"}
+    ]
+  },
+  {
+    "input_word": "entertain",
+    "entries": [
+      {"text": "entertain", "ipa": "/ˌɛntərˈteɪn/", "cefr": "B1", "zh": "娱乐", "emoji": "🎭"}
+    ]
+  },
+  {
+    "input_word": "entertainment",
+    "entries": [
+      {"text": "entertainment", "ipa": "/ˌɛntərˈteɪnmənt/", "cefr": "B1", "zh": "娱乐活动", "emoji": "🎉"}
+    ]
+  },
+  {
+    "input_word": "enthusiasm",
+    "entries": [
+      {"text": "enthusiasm", "ipa": "/ɪnˈθuːziæzəm/", "cefr": "B2", "zh": "热情", "emoji": "🔥"}
+    ]
+  },
+  {
+    "input_word": "enthusiastic",
+    "entries": [
+      {"text": "enthusiastic", "ipa": "/ɪnˌθuːziˈæstɪk/", "cefr": "B2", "zh": "热情的", "emoji": "🙌"}
+    ]
+  },
+  {
+    "input_word": "entire",
+    "entries": [
+      {"text": "entire", "ipa": "/ɪnˈtaɪər/", "cefr": "B2", "zh": "整个的", "emoji": "🌐"}
+    ]
+  },
+  {
+    "input_word": "entirely",
+    "entries": [
+      {"text": "entirely", "ipa": "/ɪnˈtaɪərli/", "cefr": "B2", "zh": "完全地", "emoji": "💯"}
+    ]
+  },
+  {
+    "input_word": "entrance",
+    "entries": [
+      {"text": "entrance", "ipa": "/ˈɛntrəns/", "cefr": "B1", "zh": "入口", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_word": "entry",
+    "entries": [
+      {"text": "entry", "ipa": "/ˈɛntri/", "cefr": "B1", "zh": "入口", "emoji": "🚪"},
+      {"text": "entry", "ipa": "/ˈɛntri/", "cefr": "B1", "zh": "参赛作品", "emoji": "📝"}
+    ]
+  },
+  {
+    "input_word": "environment",
+    "entries": [
+      {"text": "environment", "ipa": "/ɪnˈvaɪrənmənt/", "cefr": "A2", "zh": "环境", "emoji": "🌿"}
+    ]
+  },
+  {
+    "input_word": "environmental",
+    "entries": [
+      {"text": "environmental", "ipa": "/ɪnˌvaɪrənˈmɛntl/", "cefr": "B1", "zh": "环境的", "emoji": "♻️"}
+    ]
+  },
+  {
+    "input_word": "episode",
+    "entries": [
+      {"text": "episode", "ipa": "/ˈɛpɪsoʊd/", "cefr": "B1", "zh": "集", "emoji": "📺"},
+      {"text": "episode", "ipa": "/ˈɛpɪsoʊd/", "cefr": "B1", "zh": "事件", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_word": "equal",
+    "entries": [
+      {"text": "equal", "ipa": "/ˈiːkwəl/", "cefr": "B1", "zh": "平等的", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "equally",
+    "entries": [
+      {"text": "equally", "ipa": "/ˈiːkwəli/", "cefr": "B1", "zh": "同样地", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "equipment",
+    "entries": [
+      {"text": "equipment", "ipa": "/ɪˈkwɪpmənt/", "cefr": "A2", "zh": "设备", "emoji": "🔧"}
+    ]
+  }
+]

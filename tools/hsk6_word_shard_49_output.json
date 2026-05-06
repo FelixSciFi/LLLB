@@ -1,0 +1,182 @@
+[
+  {
+    "input_text": "清晨",
+    "entries": [
+      {"text": "清晨", "pinyin": "qīng chén", "en": "early morning", "emoji": "🌅"}
+    ]
+  },
+  {
+    "input_text": "清除",
+    "entries": [
+      {"text": "清除", "pinyin": "qīng chú", "en": "clear away", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "清洁",
+    "entries": [
+      {"text": "清洁", "pinyin": "qīng jié", "en": "clean", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "清理",
+    "entries": [
+      {"text": "清理", "pinyin": "qīng lǐ", "en": "clean up", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "清晰",
+    "entries": [
+      {"text": "清晰", "pinyin": "qīng xī", "en": "clear, distinct", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "清醒",
+    "entries": [
+      {"text": "清醒", "pinyin": "qīng xǐng", "en": "clear-headed", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "清真",
+    "entries": [
+      {"text": "清真", "pinyin": "qīng zhēn", "en": "halal, Islamic", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "情报",
+    "entries": [
+      {"text": "情报", "pinyin": "qíng bào", "en": "intelligence", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "情节",
+    "entries": [
+      {"text": "情节", "pinyin": "qíng jié", "en": "plot, episode", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "情理",
+    "entries": [
+      {"text": "情理", "pinyin": "qíng lǐ", "en": "reason and feeling", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "情形",
+    "entries": [
+      {"text": "情形", "pinyin": "qíng xíng", "en": "situation", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "晴朗",
+    "entries": [
+      {"text": "晴朗", "pinyin": "qíng lǎng", "en": "sunny and clear", "emoji": "☀️"}
+    ]
+  },
+  {
+    "input_text": "请柬",
+    "entries": [
+      {"text": "请柬", "pinyin": "qǐng jiǎn", "en": "invitation card", "emoji": "✉️"}
+    ]
+  },
+  {
+    "input_text": "请教",
+    "entries": [
+      {"text": "请教", "pinyin": "qǐng jiào", "en": "seek advice", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "请示",
+    "entries": [
+      {"text": "请示", "pinyin": "qǐng shì", "en": "request instructions", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "请帖",
+    "entries": [
+      {"text": "请帖", "pinyin": "qǐng tiě", "en": "invitation card", "emoji": "✉️"}
+    ]
+  },
+  {
+    "input_text": "丘陵",
+    "entries": [
+      {"text": "丘陵", "pinyin": "qiū líng", "en": "hills", "emoji": "⛰️"}
+    ]
+  },
+  {
+    "input_text": "区分",
+    "entries": [
+      {"text": "区分", "pinyin": "qū fēn", "en": "distinguish", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "区域",
+    "entries": [
+      {"text": "区域", "pinyin": "qū yù", "en": "region, area", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "曲折",
+    "entries": [
+      {"text": "曲折", "pinyin": "qū zhé", "en": "winding, tortuous", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "驱逐",
+    "entries": [
+      {"text": "驱逐", "pinyin": "qū zhú", "en": "expel, drive out", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "屈服",
+    "entries": [
+      {"text": "屈服", "pinyin": "qū fú", "en": "yield, submit", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "渠道",
+    "entries": [
+      {"text": "渠道", "pinyin": "qú dào", "en": "channel", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "曲子",
+    "entries": [
+      {"text": "曲子", "pinyin": "qǔ zi", "en": "musical piece", "emoji": "🎵"}
+    ]
+  },
+  {
+    "input_text": "取缔",
+    "entries": [
+      {"text": "取缔", "pinyin": "qǔ dì", "en": "ban, suppress", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "趣味",
+    "entries": [
+      {"text": "趣味", "pinyin": "qù wèi", "en": "interest, taste", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "圈套",
+    "entries": [
+      {"text": "圈套", "pinyin": "quān tào", "en": "trap, snare", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "权衡",
+    "entries": [
+      {"text": "权衡", "pinyin": "quán héng", "en": "weigh, balance", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_text": "权威",
+    "entries": [
+      {"text": "权威", "pinyin": "quán wēi", "en": "authority", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "全局",
+    "entries": [
+      {"text": "全局", "pinyin": "quán jú", "en": "overall situation", "emoji": ""}
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "input_word": "hundred",
+    "entries": [
+      {
+        "text": "hundred",
+        "ipa": "/ˈhʌndrəd/",
+        "cefr": "A1",
+        "zh": "百",
+        "emoji": "💯"
+      }
+    ]
+  },
+  {
+    "input_word": "hungry",
+    "entries": [
+      {
+        "text": "hungry",
+        "ipa": "/ˈhʌŋɡri/",
+        "cefr": "A1",
+        "zh": "饥饿的",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "input_word": "hunt",
+    "entries": [
+      {
+        "text": "hunt",
+        "ipa": "/hʌnt/",
+        "cefr": "B1",
+        "zh": "狩猎",
+        "emoji": "🏹"
+      },
+      {
+        "text": "hunt",
+        "ipa": "/hʌnt/",
+        "cefr": "B1",
+        "zh": "搜寻",
+        "emoji": "🔍"
+      }
+    ]
+  },
+  {
+    "input_word": "hunting",
+    "entries": [
+      {
+        "text": "hunting",
+        "ipa": "/ˈhʌntɪŋ/",
+        "cefr": "B2",
+        "zh": "打猎",
+        "emoji": "🏹"
+      }
+    ]
+  },
+  {
+    "input_word": "hurricane",
+    "entries": [
+      {
+        "text": "hurricane",
+        "ipa": "/ˈhɜːrɪkeɪn/",
+        "cefr": "B1",
+        "zh": "飓风",
+        "emoji": "🌀"
+      }
+    ]
+  },
+  {
+    "input_word": "hurry",
+    "entries": [
+      {
+        "text": "hurry",
+        "ipa": "/ˈhɜːri/",
+        "cefr": "B1",
+        "zh": "匆忙",
+        "emoji": "🏃"
+      }
+    ]
+  },
+  {
+    "input_word": "hurt",
+    "entries": [
+      {
+        "text": "hurt",
+        "ipa": "/hɜːrt/",
+        "cefr": "A2",
+        "zh": "受伤",
+        "emoji": "🤕"
+      },
+      {
+        "text": "hurt",
+        "ipa": "/hɜːrt/",
+        "cefr": "A2",
+        "zh": "伤害感情",
+        "emoji": "💔"
+      }
+    ]
+  },
+  {
+    "input_word": "husband",
+    "entries": [
+      {
+        "text": "husband",
+        "ipa": "/ˈhʌzbənd/",
+        "cefr": "A1",
+        "zh": "丈夫",
+        "emoji": "👨"
+      }
+    ]
+  }
+]

@@ -1,0 +1,263 @@
+[
+  {
+    "text": "abandon",
+    "ipa": "a.bɑ̃.dɔ̃",
+    "translation": {"zh": "放弃", "en": "abandonment"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "abandon", "lemma": "abandon", "ipa": "a.bɑ̃.dɔ̃", "translation": {"zh": "放弃", "en": "abandonment"}, "emoji": "🏳️"}
+    ]
+  },
+  {
+    "text": "une offre d'embauche",
+    "ipa": "yn ɔfʁ dɑ̃.boʃ",
+    "translation": {"zh": "一份工作邀约", "en": "a job offer"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une offre d'embauche", "lemma": "embauche", "ipa": "yn ɔfʁ dɑ̃.boʃ", "translation": {"zh": "工作邀约", "en": "job offer"}, "emoji": "📄"}
+    ]
+  },
+  {
+    "text": "sous prétexte de travailler",
+    "ipa": "su pʁe.tɛk.sə də tʁa.va.je",
+    "translation": {"zh": "以工作为借口", "en": "under the pretext of working"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "sous prétexte de travailler", "lemma": "prétexte", "ipa": "su pʁe.tɛk.sə də tʁa.va.je", "translation": {"zh": "借口", "en": "pretext"}, "emoji": "🎭"}
+    ]
+  },
+  {
+    "text": "en cachette",
+    "ipa": "ɑ̃ ka.ʃɛt",
+    "translation": {"zh": "偷偷地", "en": "in secret"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "en cachette", "lemma": "cachette", "ipa": "ɑ̃ ka.ʃɛt", "translation": {"zh": "秘密地", "en": "in secret"}, "emoji": "🤫"}
+    ]
+  },
+  {
+    "text": "au bistrot",
+    "ipa": "o bis.tʁo",
+    "translation": {"zh": "在小酒馆", "en": "at the bistro"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "au bistrot", "lemma": "bistrot", "ipa": "o bis.tʁo", "translation": {"zh": "小酒馆", "en": "bistro"}, "emoji": "🍺"}
+    ]
+  },
+  {
+    "text": "une quarantaine de personnes",
+    "ipa": "yn ka.ʁɑ̃.tɛn də pɛʁ.sɔn",
+    "translation": {"zh": "大约四十个人", "en": "about forty people"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une quarantaine de personnes", "lemma": "quarantaine", "ipa": "yn ka.ʁɑ̃.tɛn də pɛʁ.sɔn", "translation": {"zh": "约四十人", "en": "about forty people"}, "emoji": "👥"}
+    ]
+  },
+  {
+    "text": "faire un vœu",
+    "ipa": "fɛʁ œ̃ vø",
+    "translation": {"zh": "许一个愿望", "en": "make a wish"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "faire un vœu", "lemma": "faire", "ipa": "fɛʁ œ̃ vø", "translation": {"zh": "许愿", "en": "make a wish"}, "emoji": "🌠"}
+    ]
+  },
+  {
+    "text": "adhérer à un club",
+    "ipa": "a.de.ʁe a œ̃ klœb",
+    "translation": {"zh": "加入一个俱乐部", "en": "join a club"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "adhérer à un club", "lemma": "adhérer", "ipa": "a.de.ʁe a œ̃ klœb", "translation": {"zh": "加入俱乐部", "en": "join a club"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "une villa avec piscine",
+    "ipa": "yn vil.la a.vɛk pi.sin",
+    "translation": {"zh": "一栋带游泳池的别墅", "en": "a villa with a pool"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une villa avec piscine", "lemma": "villa", "ipa": "yn vil.la a.vɛk pi.sin", "translation": {"zh": "别墅带泳池", "en": "villa with a pool"}, "emoji": "🏡"}
+    ]
+  },
+  {
+    "text": "inoubliable",
+    "ipa": "i.nu.bli.jabl",
+    "translation": {"zh": "难忘的", "en": "unforgettable"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "inoubliable", "lemma": "inoubliable", "ipa": "i.nu.bli.jabl", "translation": {"zh": "难忘的", "en": "unforgettable"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "un geste noble",
+    "ipa": "œ̃ ʒɛst nɔbl",
+    "translation": {"zh": "一个高尚的举动", "en": "a noble gesture"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un geste noble", "lemma": "noble", "ipa": "œ̃ ʒɛst nɔbl", "translation": {"zh": "高尚的举动", "en": "noble gesture"}, "emoji": "🎖️"}
+    ]
+  },
+  {
+    "text": "champagne",
+    "ipa": "ʃɑ̃.paɲ",
+    "translation": {"zh": "香槟", "en": "champagne"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "champagne", "lemma": "champagne", "ipa": "ʃɑ̃.paɲ", "translation": {"zh": "香槟", "en": "champagne"}, "emoji": "🍾"}
+    ]
+  },
+  {
+    "text": "un cercle d'amis",
+    "ipa": "œ̃ sɛʁkl da.mi",
+    "translation": {"zh": "一个朋友圈", "en": "a circle of friends"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un cercle d'amis", "lemma": "cercle", "ipa": "œ̃ sɛʁkl da.mi", "translation": {"zh": "朋友圈", "en": "circle of friends"}, "emoji": "👫"}
+    ]
+  },
+  {
+    "text": "du pâté",
+    "ipa": "dy pɑ.te",
+    "translation": {"zh": "肉酱", "en": "pâté"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "du pâté", "lemma": "pâté", "ipa": "dy pɑ.te", "translation": {"zh": "肉酱", "en": "pâté"}, "emoji": "🥩"}
+    ]
+  },
+  {
+    "text": "des ondes radio",
+    "ipa": "de zɔ̃d ʁa.djo",
+    "translation": {"zh": "无线电波", "en": "radio waves"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "des ondes radio", "lemma": "onde", "ipa": "de zɔ̃d ʁa.djo", "translation": {"zh": "无线电波", "en": "radio waves"}, "emoji": "📡"}
+    ]
+  },
+  {
+    "text": "une tranche de pain",
+    "ipa": "yn tʁɑ̃ʃ də pɛ̃",
+    "translation": {"zh": "一片面包", "en": "a slice of bread"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une tranche de pain", "lemma": "tranche", "ipa": "yn tʁɑ̃ʃ də pɛ̃", "translation": {"zh": "一片面包", "en": "a slice of bread"}, "emoji": "🍞"}
+    ]
+  },
+  {
+    "text": "mort de fatigue",
+    "ipa": "mɔʁ də fa.tiɡ",
+    "translation": {"zh": "累得要死", "en": "dead tired"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "mort de fatigue", "lemma": "mort", "ipa": "mɔʁ də fa.tiɡ", "translation": {"zh": "精疲力竭", "en": "dead tired"}, "emoji": "😴"}
+    ]
+  },
+  {
+    "text": "un char d'assaut",
+    "ipa": "œ̃ ʃaʁ da.so",
+    "translation": {"zh": "一辆坦克", "en": "a tank"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un char d'assaut", "lemma": "char", "ipa": "œ̃ ʃaʁ da.so", "translation": {"zh": "坦克", "en": "tank"}, "emoji": "🪖"}
+    ]
+  },
+  {
+    "text": "les dégâts sont importants",
+    "ipa": "le de.ɡɑ sɔ̃ tɛ̃.pɔʁ.tɑ̃",
+    "translation": {"zh": "损失很严重", "en": "the damage is significant"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "les dégâts sont importants", "lemma": "dégât", "ipa": "le de.ɡɑ sɔ̃ tɛ̃.pɔʁ.tɑ̃", "translation": {"zh": "损失严重", "en": "significant damage"}, "emoji": "💥"}
+    ]
+  },
+  {
+    "text": "bloquer la route",
+    "ipa": "blɔ.ke la ʁut",
+    "translation": {"zh": "封锁道路", "en": "block the road"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "bloquer la route", "lemma": "bloquer", "ipa": "blɔ.ke la ʁut", "translation": {"zh": "封锁道路", "en": "block the road"}, "emoji": "🚧"}
+    ]
+  },
+  {
+    "text": "un bouleversement total",
+    "ipa": "œ̃ bul.vɛʁ.sə.mɑ̃ tɔ.tal",
+    "translation": {"zh": "一场彻底的动荡", "en": "a total upheaval"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un bouleversement total", "lemma": "bouleversement", "ipa": "œ̃ bul.vɛʁ.sə.mɑ̃ tɔ.tal", "translation": {"zh": "彻底动荡", "en": "total upheaval"}, "emoji": "🌀"}
+    ]
+  },
+  {
+    "text": "payer à crédit",
+    "ipa": "pe.je a kʁe.di",
+    "translation": {"zh": "分期付款", "en": "pay on credit"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "payer à crédit", "lemma": "crédit", "ipa": "pe.je a kʁe.di", "translation": {"zh": "赊账付款", "en": "pay on credit"}, "emoji": "💳"}
+    ]
+  },
+  {
+    "text": "déboucher une bouteille",
+    "ipa": "de.bu.ʃe yn bu.tɛj",
+    "translation": {"zh": "开一瓶酒", "en": "uncork a bottle"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "déboucher une bouteille", "lemma": "déboucher", "ipa": "de.bu.ʃe yn bu.tɛj", "translation": {"zh": "开瓶", "en": "uncork a bottle"}, "emoji": "🍷"}
+    ]
+  },
+  {
+    "text": "un avis de décès",
+    "ipa": "œ̃ na.vi də de.sɛ",
+    "translation": {"zh": "一份死亡通知", "en": "a death notice"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un avis de décès", "lemma": "décès", "ipa": "œ̃ na.vi də de.sɛ", "translation": {"zh": "死亡通知", "en": "death notice"}, "emoji": "🪦"}
+    ]
+  },
+  {
+    "text": "un quartier bourgeois",
+    "ipa": "œ̃ kaʁ.tje buʁ.ʒwa",
+    "translation": {"zh": "一个中产阶级街区", "en": "an affluent neighborhood"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un quartier bourgeois", "lemma": "bourgeois", "ipa": "œ̃ kaʁ.tje buʁ.ʒwa", "translation": {"zh": "富裕街区", "en": "affluent neighborhood"}, "emoji": "🏘️"}
+    ]
+  },
+  {
+    "text": "relever un défi",
+    "ipa": "ʁə.lə.ve œ̃ de.fi",
+    "translation": {"zh": "迎接挑战", "en": "take up a challenge"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "relever un défi", "lemma": "défi", "ipa": "ʁə.lə.ve œ̃ de.fi", "translation": {"zh": "迎接挑战", "en": "take up a challenge"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "l'originalité de son style",
+    "ipa": "lɔ.ʁi.ʒi.na.li.te də sɔ̃ stil",
+    "translation": {"zh": "他风格的独特性", "en": "the originality of his style"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'originalité de son style", "lemma": "originalité", "ipa": "lɔ.ʁi.ʒi.na.li.te də sɔ̃ stil", "translation": {"zh": "风格独特性", "en": "originality of style"}, "emoji": "🎨"}
+    ]
+  },
+  {
+    "text": "une puce électronique",
+    "ipa": "yn pys e.lɛk.tʁɔ.nik",
+    "translation": {"zh": "一块电子芯片", "en": "an electronic chip"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une puce électronique", "lemma": "puce", "ipa": "yn pys e.lɛk.tʁɔ.nik", "translation": {"zh": "电子芯片", "en": "electronic chip"}, "emoji": "💾"}
+    ]
+  },
+  {
+    "text": "les poumons",
+    "ipa": "le pu.mɔ̃",
+    "translation": {"zh": "肺", "en": "the lungs"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "les poumons", "lemma": "poumon", "ipa": "le pu.mɔ̃", "translation": {"zh": "肺", "en": "lungs"}, "emoji": "🫁"}
+    ]
+  }
+]

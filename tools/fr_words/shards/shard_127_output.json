@@ -1,0 +1,263 @@
+[
+  {
+    "text": "ficelle",
+    "ipa": "fi.sɛl",
+    "translation": {"zh": "细绳", "en": "string, twine"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ficelle", "lemma": "ficelle", "ipa": "fi.sɛl", "translation": {"zh": "细绳", "en": "string"}, "emoji": "🧵"}
+    ]
+  },
+  {
+    "text": "magistrat",
+    "ipa": "ma.ʒis.tʁa",
+    "translation": {"zh": "法官", "en": "magistrate"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "magistrat", "lemma": "magistrat", "ipa": "ma.ʒis.tʁa", "translation": {"zh": "法官", "en": "magistrate"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "colloque",
+    "ipa": "kɔ.lɔk",
+    "translation": {"zh": "学术研讨会", "en": "conference, symposium"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "colloque", "lemma": "colloque", "ipa": "kɔ.lɔk", "translation": {"zh": "研讨会", "en": "symposium"}, "emoji": "🎙️"}
+    ]
+  },
+  {
+    "text": "biologie",
+    "ipa": "bjɔ.lɔ.ʒi",
+    "translation": {"zh": "生物学", "en": "biology"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "biologie", "lemma": "biologie", "ipa": "bjɔ.lɔ.ʒi", "translation": {"zh": "生物学", "en": "biology"}, "emoji": "🔬"}
+    ]
+  },
+  {
+    "text": "respiratoire",
+    "ipa": "ʁɛs.pi.ʁa.twaʁ",
+    "translation": {"zh": "呼吸的", "en": "respiratory"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "respiratoire", "lemma": "respiratoire", "ipa": "ʁɛs.pi.ʁa.twaʁ", "translation": {"zh": "呼吸的", "en": "respiratory"}, "emoji": "🫁"}
+    ]
+  },
+  {
+    "text": "durablement",
+    "ipa": "dy.ʁa.blə.mɑ̃",
+    "translation": {"zh": "持久地", "en": "durably, lastingly"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "durablement", "lemma": "durablement", "ipa": "dy.ʁa.blə.mɑ̃", "translation": {"zh": "持久地", "en": "lastingly"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "accentuer",
+    "ipa": "ak.sɑ̃.tɥe",
+    "translation": {"zh": "加重，强调", "en": "to accentuate, emphasize"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "accentuer", "lemma": "accentuer", "ipa": "ak.sɑ̃.tɥe", "translation": {"zh": "强调加重", "en": "to accentuate"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "respectable",
+    "ipa": "ʁɛs.pɛk.tabl",
+    "translation": {"zh": "值得尊敬的", "en": "respectable"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "respectable", "lemma": "respectable", "ipa": "ʁɛs.pɛk.tabl", "translation": {"zh": "可敬的", "en": "respectable"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "bouillir",
+    "ipa": "bu.jiʁ",
+    "translation": {"zh": "煮沸，沸腾", "en": "to boil"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "bouillir", "lemma": "bouillir", "ipa": "bu.jiʁ", "translation": {"zh": "煮沸", "en": "to boil"}, "emoji": "♨️"}
+    ]
+  },
+  {
+    "text": "éthique",
+    "ipa": "e.tik",
+    "translation": {"zh": "道德，伦理", "en": "ethics, ethical"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "éthique", "lemma": "éthique", "ipa": "e.tik", "translation": {"zh": "伦理道德", "en": "ethics"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "cordon",
+    "ipa": "kɔʁ.dɔ̃",
+    "translation": {"zh": "绳子，带子", "en": "cord, ribbon"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "cordon", "lemma": "cordon", "ipa": "kɔʁ.dɔ̃", "translation": {"zh": "绳带", "en": "cord"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "malicieux",
+    "ipa": "ma.li.sjø",
+    "translation": {"zh": "调皮的，恶作剧的", "en": "mischievous, malicious"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "malicieux", "lemma": "malicieux", "ipa": "ma.li.sjø", "translation": {"zh": "调皮的", "en": "mischievous"}, "emoji": "😏"}
+    ]
+  },
+  {
+    "text": "faiblement",
+    "ipa": "fɛ.blə.mɑ̃",
+    "translation": {"zh": "微弱地", "en": "weakly, faintly"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "faiblement", "lemma": "faiblement", "ipa": "fɛ.blə.mɑ̃", "translation": {"zh": "微弱地", "en": "weakly"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "audacieux",
+    "ipa": "o.da.sjø",
+    "translation": {"zh": "大胆的", "en": "bold, daring"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "audacieux", "lemma": "audacieux", "ipa": "o.da.sjø", "translation": {"zh": "大胆的", "en": "bold"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "sculpter",
+    "ipa": "skyl.te",
+    "translation": {"zh": "雕刻", "en": "to sculpt, carve"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "sculpter", "lemma": "sculpter", "ipa": "skyl.te", "translation": {"zh": "雕刻", "en": "to sculpt"}, "emoji": "🗿"}
+    ]
+  },
+  {
+    "text": "citoyenneté",
+    "ipa": "si.twa.jɛn.te",
+    "translation": {"zh": "公民身份", "en": "citizenship"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "citoyenneté", "lemma": "citoyenneté", "ipa": "si.twa.jɛn.te", "translation": {"zh": "公民身份", "en": "citizenship"}, "emoji": "🪪"}
+    ]
+  },
+  {
+    "text": "perfectionner",
+    "ipa": "pɛʁ.fɛk.sjɔ.ne",
+    "translation": {"zh": "完善，精进", "en": "to perfect, improve"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "perfectionner", "lemma": "perfectionner", "ipa": "pɛʁ.fɛk.sjɔ.ne", "translation": {"zh": "完善精进", "en": "to perfect"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "selle",
+    "ipa": "sɛl",
+    "translation": {"zh": "马鞍，车座", "en": "saddle"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "selle", "lemma": "selle", "ipa": "sɛl", "translation": {"zh": "马鞍", "en": "saddle"}, "emoji": "🐴"}
+    ]
+  },
+  {
+    "text": "mi-temps",
+    "ipa": "mi.tɑ̃",
+    "translation": {"zh": "半场；半职", "en": "half-time; part-time"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "mi-temps", "lemma": "mi-temps", "ipa": "mi.tɑ̃", "translation": {"zh": "半场半职", "en": "half-time"}, "emoji": "⏱️"}
+    ]
+  },
+  {
+    "text": "mauve",
+    "ipa": "mov",
+    "translation": {"zh": "淡紫色", "en": "mauve, purple"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "mauve", "lemma": "mauve", "ipa": "mov", "translation": {"zh": "淡紫色", "en": "mauve"}, "emoji": "💜"}
+    ]
+  },
+  {
+    "text": "fiable",
+    "ipa": "fjabl",
+    "translation": {"zh": "可靠的", "en": "reliable, dependable"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "fiable", "lemma": "fiable", "ipa": "fjabl", "translation": {"zh": "可靠的", "en": "reliable"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "flash",
+    "ipa": "flaʃ",
+    "translation": {"zh": "闪光灯；闪光", "en": "flash"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "flash", "lemma": "flash", "ipa": "flaʃ", "translation": {"zh": "闪光灯", "en": "flash"}, "emoji": "⚡"}
+    ]
+  },
+  {
+    "text": "anesthésie",
+    "ipa": "a.nɛs.te.zi",
+    "translation": {"zh": "麻醉", "en": "anesthesia"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "anesthésie", "lemma": "anesthésie", "ipa": "a.nɛs.te.zi", "translation": {"zh": "麻醉", "en": "anesthesia"}, "emoji": "💉"}
+    ]
+  },
+  {
+    "text": "dépouiller",
+    "ipa": "de.pu.je",
+    "translation": {"zh": "剥夺，清点（选票）", "en": "to strip, to tally votes"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "dépouiller", "lemma": "dépouiller", "ipa": "de.pu.je", "translation": {"zh": "剥夺清点", "en": "to strip, tally"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "glacé",
+    "ipa": "ɡla.se",
+    "translation": {"zh": "冰冷的；结冰的", "en": "iced, frozen"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "glacé", "lemma": "glacé", "ipa": "ɡla.se", "translation": {"zh": "冰冷的", "en": "iced"}, "emoji": "🧊"}
+    ]
+  },
+  {
+    "text": "en avoir marre",
+    "ipa": "ɑ̃ a.vwaʁ maʁ",
+    "translation": {"zh": "受够了，厌烦", "en": "to be fed up"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "en avoir marre", "lemma": "marre", "ipa": "ɑ̃ a.vwaʁ maʁ", "translation": {"zh": "受够了厌烦", "en": "to be fed up"}, "emoji": "😤"}
+    ]
+  },
+  {
+    "text": "déprimer",
+    "ipa": "de.pʁi.me",
+    "translation": {"zh": "使沮丧，抑郁", "en": "to depress, feel depressed"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "déprimer", "lemma": "déprimer", "ipa": "de.pʁi.me", "translation": {"zh": "使沮丧", "en": "to depress"}, "emoji": "😔"}
+    ]
+  },
+  {
+    "text": "lucide",
+    "ipa": "ly.sid",
+    "translation": {"zh": "清醒的，头脑清晰的", "en": "lucid, clear-headed"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "lucide", "lemma": "lucide", "ipa": "ly.sid", "translation": {"zh": "头脑清醒", "en": "lucid"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "raccrocher",
+    "ipa": "ʁa.kʁɔ.ʃe",
+    "translation": {"zh": "挂断电话；重新挂上", "en": "to hang up, rehang"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "raccrocher", "lemma": "raccrocher", "ipa": "ʁa.kʁɔ.ʃe", "translation": {"zh": "挂断电话", "en": "to hang up"}, "emoji": "📵"}
+    ]
+  }
+]

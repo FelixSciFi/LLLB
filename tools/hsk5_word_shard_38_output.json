@@ -1,0 +1,182 @@
+[
+  {
+    "input_text": "优惠",
+    "entries": [
+      {"text": "优惠", "pinyin": "yōu huì", "en": "discount, preferential", "emoji": "🏷️"}
+    ]
+  },
+  {
+    "input_text": "优美",
+    "entries": [
+      {"text": "优美", "pinyin": "yōu měi", "en": "graceful, elegant", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "优势",
+    "entries": [
+      {"text": "优势", "pinyin": "yōu shì", "en": "advantage", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "悠久",
+    "entries": [
+      {"text": "悠久", "pinyin": "yōu jiǔ", "en": "long-standing", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "犹豫",
+    "entries": [
+      {"text": "犹豫", "pinyin": "yóu yù", "en": "hesitate", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "油炸",
+    "entries": [
+      {"text": "油炸", "pinyin": "yóu zhá", "en": "deep-fry", "emoji": "🍳"}
+    ]
+  },
+  {
+    "input_text": "游览",
+    "entries": [
+      {"text": "游览", "pinyin": "yóu lǎn", "en": "tour, sightsee", "emoji": "🗺️"}
+    ]
+  },
+  {
+    "input_text": "有利",
+    "entries": [
+      {"text": "有利", "pinyin": "yǒu lì", "en": "advantageous, favorable", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "幼儿园",
+    "entries": [
+      {"text": "幼儿园", "pinyin": "yòu ér yuán", "en": "kindergarten", "emoji": "🏫"}
+    ]
+  },
+  {
+    "input_text": "娱乐",
+    "entries": [
+      {"text": "娱乐", "pinyin": "yú lè", "en": "entertainment", "emoji": "🎭"}
+    ]
+  },
+  {
+    "input_text": "与其",
+    "entries": [
+      {"text": "与其", "pinyin": "yǔ qí", "en": "rather than", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "语气",
+    "entries": [
+      {"text": "语气", "pinyin": "yǔ qì", "en": "tone, manner", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "玉米",
+    "entries": [
+      {"text": "玉米", "pinyin": "yù mǐ", "en": "corn, maize", "emoji": "🌽"}
+    ]
+  },
+  {
+    "input_text": "预报",
+    "entries": [
+      {"text": "预报", "pinyin": "yù bào", "en": "forecast", "emoji": "🌤️"}
+    ]
+  },
+  {
+    "input_text": "预订",
+    "entries": [
+      {"text": "预订", "pinyin": "yù dìng", "en": "reserve, book", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_text": "预防",
+    "entries": [
+      {"text": "预防", "pinyin": "yù fáng", "en": "prevent", "emoji": "🛡️"}
+    ]
+  },
+  {
+    "input_text": "元旦",
+    "entries": [
+      {"text": "元旦", "pinyin": "yuán dàn", "en": "New Year's Day", "emoji": "🎆"}
+    ]
+  },
+  {
+    "input_text": "员工",
+    "entries": [
+      {"text": "员工", "pinyin": "yuán gōng", "en": "employee, staff", "emoji": "👤"}
+    ]
+  },
+  {
+    "input_text": "原料",
+    "entries": [
+      {"text": "原料", "pinyin": "yuán liào", "en": "raw material", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "原则",
+    "entries": [
+      {"text": "原则", "pinyin": "yuán zé", "en": "principle", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "圆",
+    "entries": [
+      {"text": "圆", "pinyin": "yuán", "en": "round, circle", "emoji": "⭕"}
+    ]
+  },
+  {
+    "input_text": "愿望",
+    "entries": [
+      {"text": "愿望", "pinyin": "yuàn wàng", "en": "wish, desire", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_text": "乐器",
+    "entries": [
+      {"text": "乐器", "pinyin": "yuè qì", "en": "musical instrument", "emoji": "🎵"}
+    ]
+  },
+  {
+    "input_text": "晕",
+    "entries": [
+      {"text": "晕", "pinyin": "yūn", "en": "dizzy, faint", "emoji": "😵"}
+    ]
+  },
+  {
+    "input_text": "运气",
+    "entries": [
+      {"text": "运气", "pinyin": "yùn qì", "en": "luck", "emoji": "🍀"}
+    ]
+  },
+  {
+    "input_text": "运输",
+    "entries": [
+      {"text": "运输", "pinyin": "yùn shū", "en": "transport", "emoji": "🚚"}
+    ]
+  },
+  {
+    "input_text": "运用",
+    "entries": [
+      {"text": "运用", "pinyin": "yùn yòng", "en": "apply, make use of", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "灾害",
+    "entries": [
+      {"text": "灾害", "pinyin": "zāi hài", "en": "disaster", "emoji": "⚠️"}
+    ]
+  },
+  {
+    "input_text": "再三",
+    "entries": [
+      {"text": "再三", "pinyin": "zài sān", "en": "repeatedly", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "在乎",
+    "entries": [
+      {"text": "在乎", "pinyin": "zài hū", "en": "care about", "emoji": "❤️"}
+    ]
+  }
+]

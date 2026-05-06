@@ -1,0 +1,361 @@
+[
+  {
+    "input_word": "baby",
+    "entries": [
+      {
+        "text": "baby",
+        "ipa": "/ˈbeɪ.bi/",
+        "cefr": "A1",
+        "zh": "婴儿",
+        "emoji": "👶"
+      }
+    ]
+  },
+  {
+    "input_word": "back",
+    "entries": [
+      {
+        "text": "back",
+        "ipa": "/bæk/",
+        "cefr": "A1",
+        "zh": "背部；后面",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "background",
+    "entries": [
+      {
+        "text": "background",
+        "ipa": "/ˈbæk.ɡraʊnd/",
+        "cefr": "A2",
+        "zh": "背景",
+        "emoji": "🖼️"
+      }
+    ]
+  },
+  {
+    "input_word": "backwards",
+    "entries": [
+      {
+        "text": "backwards",
+        "ipa": "/ˈbæk.wɚdz/",
+        "cefr": "B1",
+        "zh": "向后",
+        "emoji": "⬅️"
+      }
+    ]
+  },
+  {
+    "input_word": "bacteria",
+    "entries": [
+      {
+        "text": "bacteria",
+        "ipa": "/bækˈtɪr.i.ə/",
+        "cefr": "B2",
+        "zh": "细菌",
+        "emoji": "🦠"
+      }
+    ]
+  },
+  {
+    "input_word": "bad",
+    "entries": [
+      {
+        "text": "bad",
+        "ipa": "/bæd/",
+        "cefr": "A1",
+        "zh": "坏的",
+        "emoji": "👎"
+      }
+    ]
+  },
+  {
+    "input_word": "badly",
+    "entries": [
+      {
+        "text": "badly",
+        "ipa": "/ˈbæd.li/",
+        "cefr": "A2",
+        "zh": "糟糕地",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "bag",
+    "entries": [
+      {
+        "text": "bag",
+        "ipa": "/bæɡ/",
+        "cefr": "A1",
+        "zh": "包；袋子",
+        "emoji": "👜"
+      }
+    ]
+  },
+  {
+    "input_word": "bake",
+    "entries": [
+      {
+        "text": "bake",
+        "ipa": "/beɪk/",
+        "cefr": "B1",
+        "zh": "烘焙",
+        "emoji": "🥐"
+      }
+    ]
+  },
+  {
+    "input_word": "balance",
+    "entries": [
+      {
+        "text": "balance",
+        "ipa": "/ˈbæl.əns/",
+        "cefr": "B1",
+        "zh": "平衡；余额",
+        "emoji": "⚖️"
+      }
+    ]
+  },
+  {
+    "input_word": "ball",
+    "entries": [
+      {
+        "text": "ball",
+        "ipa": "/bɔːl/",
+        "cefr": "A1",
+        "zh": "球",
+        "emoji": "⚽"
+      }
+    ]
+  },
+  {
+    "input_word": "ban",
+    "entries": [
+      {
+        "text": "ban",
+        "ipa": "/bæn/",
+        "cefr": "B1",
+        "zh": "禁止",
+        "emoji": "🚫"
+      }
+    ]
+  },
+  {
+    "input_word": "banana",
+    "entries": [
+      {
+        "text": "banana",
+        "ipa": "/bəˈnæn.ə/",
+        "cefr": "A1",
+        "zh": "香蕉",
+        "emoji": "🍌"
+      }
+    ]
+  },
+  {
+    "input_word": "band",
+    "entries": [
+      {
+        "text": "band",
+        "ipa": "/bænd/",
+        "cefr": "A1",
+        "zh": "乐队；条带",
+        "emoji": "🎸"
+      }
+    ]
+  },
+  {
+    "input_word": "bank",
+    "entries": [
+      {
+        "text": "bank",
+        "ipa": "/bæŋk/",
+        "cefr": "A1",
+        "zh": "银行",
+        "emoji": "🏦"
+      },
+      {
+        "text": "bank",
+        "ipa": "/bæŋk/",
+        "cefr": "A1",
+        "zh": "河岸",
+        "emoji": "🏞️"
+      }
+    ]
+  },
+  {
+    "input_word": "bar",
+    "entries": [
+      {
+        "text": "bar",
+        "ipa": "/bɑːr/",
+        "cefr": "A2",
+        "zh": "酒吧；横杆",
+        "emoji": "🍺"
+      }
+    ]
+  },
+  {
+    "input_word": "barrier",
+    "entries": [
+      {
+        "text": "barrier",
+        "ipa": "/ˈbær.i.ɚ/",
+        "cefr": "B2",
+        "zh": "障碍；屏障",
+        "emoji": "🚧"
+      }
+    ]
+  },
+  {
+    "input_word": "base",
+    "entries": [
+      {
+        "text": "base",
+        "ipa": "/beɪs/",
+        "cefr": "B1",
+        "zh": "基础；基地",
+        "emoji": "🏕️"
+      }
+    ]
+  },
+  {
+    "input_word": "baseball",
+    "entries": [
+      {
+        "text": "baseball",
+        "ipa": "/ˈbeɪs.bɔːl/",
+        "cefr": "A2",
+        "zh": "棒球",
+        "emoji": "⚾"
+      }
+    ]
+  },
+  {
+    "input_word": "based",
+    "entries": [
+      {
+        "text": "based",
+        "ipa": "/beɪst/",
+        "cefr": "A2",
+        "zh": "基于",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "basic",
+    "entries": [
+      {
+        "text": "basic",
+        "ipa": "/ˈbeɪ.sɪk/",
+        "cefr": "B1",
+        "zh": "基本的",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "basically",
+    "entries": [
+      {
+        "text": "basically",
+        "ipa": "/ˈbeɪ.sɪk.li/",
+        "cefr": "B2",
+        "zh": "基本上",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "basis",
+    "entries": [
+      {
+        "text": "basis",
+        "ipa": "/ˈbeɪ.sɪs/",
+        "cefr": "B1",
+        "zh": "基础；依据",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "basketball",
+    "entries": [
+      {
+        "text": "basketball",
+        "ipa": "/ˈbæs.kɪt.bɔːl/",
+        "cefr": "A2",
+        "zh": "篮球",
+        "emoji": "🏀"
+      }
+    ]
+  },
+  {
+    "input_word": "bath",
+    "entries": [
+      {
+        "text": "bath",
+        "ipa": "/bæθ/",
+        "cefr": "A1",
+        "zh": "洗澡；浴缸",
+        "emoji": "🛁"
+      }
+    ]
+  },
+  {
+    "input_word": "bathroom",
+    "entries": [
+      {
+        "text": "bathroom",
+        "ipa": "/ˈbæθ.ruːm/",
+        "cefr": "A1",
+        "zh": "浴室；卫生间",
+        "emoji": "🚿"
+      }
+    ]
+  },
+  {
+    "input_word": "battery",
+    "entries": [
+      {
+        "text": "battery",
+        "ipa": "/ˈbæt.ɚ.i/",
+        "cefr": "B1",
+        "zh": "电池",
+        "emoji": "🔋"
+      }
+    ]
+  },
+  {
+    "input_word": "battle",
+    "entries": [
+      {
+        "text": "battle",
+        "ipa": "/ˈbæt̬.əl/",
+        "cefr": "B1",
+        "zh": "战役；斗争",
+        "emoji": "⚔️"
+      }
+    ]
+  },
+  {
+    "input_word": "be",
+    "entries": []
+  },
+  {
+    "input_word": "beach",
+    "entries": [
+      {
+        "text": "beach",
+        "ipa": "/biːtʃ/",
+        "cefr": "A1",
+        "zh": "海滩",
+        "emoji": "🏖️"
+      }
+    ]
+  }
+]

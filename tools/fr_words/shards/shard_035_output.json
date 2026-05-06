@@ -1,0 +1,293 @@
+[
+  {
+    "text": "imagination",
+    "ipa": "imaʒinasjɔ̃",
+    "translation": {"zh": "想象力", "en": "imagination"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "imagination", "lemma": "imagination", "ipa": "imaʒinasjɔ̃", "translation": {"zh": "想象力", "en": "imagination"}, "emoji": "💭"}
+    ]
+  },
+  {
+    "text": "sans exception",
+    "ipa": "sɑ̃ ɛksɛpsjɔ̃",
+    "translation": {"zh": "无一例外", "en": "without exception"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "sans exception", "lemma": "exception", "ipa": "sɑ̃ ɛksɛpsjɔ̃", "translation": {"zh": "无一例外", "en": "without exception"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "zéro degré",
+    "ipa": "zeʁo dəɡʁe",
+    "translation": {"zh": "零度", "en": "zero degrees"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "zéro", "lemma": "zéro", "ipa": "zeʁo", "translation": {"zh": "零", "en": "zero"}, "emoji": "0️⃣"},
+      {"text": "degré", "lemma": "degré", "ipa": "dəɡʁe", "translation": {"zh": "度", "en": "degree"}, "emoji": "🌡️"}
+    ]
+  },
+  {
+    "text": "traitement médical",
+    "ipa": "tʁɛtmɑ̃ medikal",
+    "translation": {"zh": "医疗治疗", "en": "medical treatment"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "traitement", "lemma": "traitement", "ipa": "tʁɛtmɑ̃", "translation": {"zh": "治疗", "en": "treatment"}, "emoji": "💊"},
+      {"text": "médical", "lemma": "médical", "ipa": "medikal", "translation": {"zh": "医疗的", "en": "medical"}, "emoji": "🏥"}
+    ]
+  },
+  {
+    "text": "il interrompt la réunion",
+    "ipa": "il ɛ̃tɛʁɔ̃ la ʁeynjɔ̃",
+    "translation": {"zh": "他打断了会议", "en": "he interrupts the meeting"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il interrompt", "lemma": "interrompre", "ipa": "il ɛ̃tɛʁɔ̃", "translation": {"zh": "他打断", "en": "he interrupts"}, "emoji": "✋"},
+      {"text": "la réunion", "lemma": "réunion", "ipa": "la ʁeynjɔ̃", "translation": {"zh": "会议", "en": "meeting"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "figure",
+    "ipa": "fiɡyʁ",
+    "translation": {"zh": "面孔；图形", "en": "face; figure"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "figure", "lemma": "figure", "ipa": "fiɡyʁ", "translation": {"zh": "面孔", "en": "face"}, "emoji": "🧑"}
+    ]
+  },
+  {
+    "text": "vivre dans la misère",
+    "ipa": "vivʁ dɑ̃ la mizɛʁ",
+    "translation": {"zh": "生活在贫困中", "en": "to live in poverty"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "vivre", "lemma": "vivre", "ipa": "vivʁ", "translation": {"zh": "生活", "en": "to live"}, "emoji": "🏠"},
+      {"text": "dans la misère", "lemma": "misère", "ipa": "dɑ̃ la mizɛʁ", "translation": {"zh": "贫困中", "en": "in poverty"}, "emoji": "😔"}
+    ]
+  },
+  {
+    "text": "percevoir un bruit",
+    "ipa": "pɛʁsəvwaʁ œ̃ bʁɥi",
+    "translation": {"zh": "感知到一个声音", "en": "to perceive a sound"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "percevoir", "lemma": "percevoir", "ipa": "pɛʁsəvwaʁ", "translation": {"zh": "感知", "en": "to perceive"}, "emoji": "👂"},
+      {"text": "un bruit", "lemma": "bruit", "ipa": "œ̃ bʁɥi", "translation": {"zh": "一个声音", "en": "a sound"}, "emoji": "🔊"}
+    ]
+  },
+  {
+    "text": "soutien psychologique",
+    "ipa": "sutjɛ̃ psikolɔʒik",
+    "translation": {"zh": "心理支持", "en": "psychological support"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "soutien", "lemma": "soutien", "ipa": "sutjɛ̃", "translation": {"zh": "支持", "en": "support"}, "emoji": "🤝"},
+      {"text": "psychologique", "lemma": "psychologique", "ipa": "psikolɔʒik", "translation": {"zh": "心理的", "en": "psychological"}, "emoji": "🧠"}
+    ]
+  },
+  {
+    "text": "l'électricité",
+    "ipa": "lelɛktʁisite",
+    "translation": {"zh": "电", "en": "electricity"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "l'électricité", "lemma": "électricité", "ipa": "lelɛktʁisite", "translation": {"zh": "电", "en": "electricity"}, "emoji": "⚡"}
+    ]
+  },
+  {
+    "text": "parcours scolaire",
+    "ipa": "paʁkuʁ skɔlɛʁ",
+    "translation": {"zh": "学业历程", "en": "academic path"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "parcours", "lemma": "parcours", "ipa": "paʁkuʁ", "translation": {"zh": "历程", "en": "path"}, "emoji": "🛤️"},
+      {"text": "scolaire", "lemma": "scolaire", "ipa": "skɔlɛʁ", "translation": {"zh": "学业的", "en": "academic"}, "emoji": "🏫"}
+    ]
+  },
+  {
+    "text": "science-fiction",
+    "ipa": "sjɑ̃sfɪksjɔ̃",
+    "translation": {"zh": "科幻小说", "en": "science fiction"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "science-fiction", "lemma": "fiction", "ipa": "sjɑ̃sfɪksjɔ̃", "translation": {"zh": "科幻", "en": "science fiction"}, "emoji": "🚀"}
+    ]
+  },
+  {
+    "text": "ce film m'émeut",
+    "ipa": "sə film memø",
+    "translation": {"zh": "这部电影让我感动", "en": "this film moves me"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ce film", "lemma": "film", "ipa": "sə film", "translation": {"zh": "这部电影", "en": "this film"}, "emoji": "🎬"},
+      {"text": "m'émeut", "lemma": "émouvoir", "ipa": "memø", "translation": {"zh": "让我感动", "en": "moves me"}, "emoji": "😢"}
+    ]
+  },
+  {
+    "text": "rayon de soleil",
+    "ipa": "ʁɛjɔ̃ də sɔlɛj",
+    "translation": {"zh": "阳光光线", "en": "ray of sunlight"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "rayon", "lemma": "rayon", "ipa": "ʁɛjɔ̃", "translation": {"zh": "光线", "en": "ray"}, "emoji": "☀️"},
+      {"text": "de soleil", "lemma": "soleil", "ipa": "də sɔlɛj", "translation": {"zh": "阳光", "en": "sunlight"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le deuxième arrondissement",
+    "ipa": "lə døzjɛm aʁɔ̃dismɑ̃",
+    "translation": {"zh": "第二区", "en": "the second arrondissement"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le deuxième", "lemma": "deuxième", "ipa": "lə døzjɛm", "translation": {"zh": "第二", "en": "the second"}, "emoji": "2️⃣"},
+      {"text": "arrondissement", "lemma": "arrondissement", "ipa": "aʁɔ̃dismɑ̃", "translation": {"zh": "区", "en": "arrondissement"}, "emoji": "🗺️"}
+    ]
+  },
+  {
+    "text": "ma chère amie",
+    "ipa": "ma ʃɛʁ ami",
+    "translation": {"zh": "我亲爱的朋友", "en": "my dear friend"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "ma chère", "lemma": "chère", "ipa": "ma ʃɛʁ", "translation": {"zh": "亲爱的", "en": "my dear"}, "emoji": "💛"},
+      {"text": "amie", "lemma": "ami", "ipa": "ami", "translation": {"zh": "朋友", "en": "friend"}, "emoji": "👩"}
+    ]
+  },
+  {
+    "text": "unité de mesure",
+    "ipa": "ynite də məzyʁ",
+    "translation": {"zh": "度量单位", "en": "unit of measure"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "unité", "lemma": "unité", "ipa": "ynite", "translation": {"zh": "单位", "en": "unit"}, "emoji": "📏"},
+      {"text": "de mesure", "lemma": "mesure", "ipa": "də məzyʁ", "translation": {"zh": "度量", "en": "measure"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "à l'extrême",
+    "ipa": "a lɛkstʁɛm",
+    "translation": {"zh": "到极端", "en": "to the extreme"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "à l'extrême", "lemma": "extrême", "ipa": "a lɛkstʁɛm", "translation": {"zh": "极端", "en": "extreme"}, "emoji": "⚠️"}
+    ]
+  },
+  {
+    "text": "il est sympathique",
+    "ipa": "il ɛ sɛ̃patik",
+    "translation": {"zh": "他很友好", "en": "he is friendly"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "il est sympathique", "lemma": "sympathique", "ipa": "il ɛ sɛ̃patik", "translation": {"zh": "他很友好", "en": "he is friendly"}, "emoji": "😊"}
+    ]
+  },
+  {
+    "text": "il prétend être malade",
+    "ipa": "il pʁetɑ̃ ɛtʁ malad",
+    "translation": {"zh": "他声称自己病了", "en": "he claims to be sick"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il prétend", "lemma": "prétendre", "ipa": "il pʁetɑ̃", "translation": {"zh": "他声称", "en": "he claims"}, "emoji": "🤥"},
+      {"text": "être malade", "lemma": "malade", "ipa": "ɛtʁ malad", "translation": {"zh": "生病", "en": "to be sick"}, "emoji": "🤒"}
+    ]
+  },
+  {
+    "text": "une affiche de cinéma",
+    "ipa": "yn afiʃ də sinema",
+    "translation": {"zh": "一张电影海报", "en": "a cinema poster"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une affiche", "lemma": "affiche", "ipa": "yn afiʃ", "translation": {"zh": "海报", "en": "poster"}, "emoji": "🎬"},
+      {"text": "de cinéma", "lemma": "cinéma", "ipa": "də sinema", "translation": {"zh": "电影院", "en": "cinema"}, "emoji": "🎥"}
+    ]
+  },
+  {
+    "text": "influence",
+    "ipa": "ɛ̃flyɑ̃s",
+    "translation": {"zh": "影响", "en": "influence"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "influence", "lemma": "influence", "ipa": "ɛ̃flyɑ̃s", "translation": {"zh": "影响", "en": "influence"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "parti politique",
+    "ipa": "paʁti politik",
+    "translation": {"zh": "政党", "en": "political party"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "parti", "lemma": "parti", "ipa": "paʁti", "translation": {"zh": "政党", "en": "party"}, "emoji": "🗳️"},
+      {"text": "politique", "lemma": "politique", "ipa": "politik", "translation": {"zh": "政治的", "en": "political"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "vision du monde",
+    "ipa": "vizjɔ̃ dy mɔ̃d",
+    "translation": {"zh": "世界观", "en": "worldview"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "vision", "lemma": "vision", "ipa": "vizjɔ̃", "translation": {"zh": "视角", "en": "vision"}, "emoji": "👁️"},
+      {"text": "du monde", "lemma": "monde", "ipa": "dy mɔ̃d", "translation": {"zh": "世界", "en": "world"}, "emoji": "🌍"}
+    ]
+  },
+  {
+    "text": "elle insiste",
+    "ipa": "ɛl ɛ̃sist",
+    "translation": {"zh": "她坚持", "en": "she insists"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "elle insiste", "lemma": "insister", "ipa": "ɛl ɛ̃sist", "translation": {"zh": "她坚持", "en": "she insists"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "régler la facture",
+    "ipa": "ʁeɡle la faktyʁ",
+    "translation": {"zh": "支付账单", "en": "to pay the bill"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "régler", "lemma": "régler", "ipa": "ʁeɡle", "translation": {"zh": "支付", "en": "to pay"}, "emoji": "💳"},
+      {"text": "la facture", "lemma": "facture", "ipa": "la faktyʁ", "translation": {"zh": "账单", "en": "bill"}, "emoji": "🧾"}
+    ]
+  },
+  {
+    "text": "tâche difficile",
+    "ipa": "taʃ difisil",
+    "translation": {"zh": "艰难的任务", "en": "difficult task"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "tâche", "lemma": "tâche", "ipa": "taʃ", "translation": {"zh": "任务", "en": "task"}, "emoji": "📝"},
+      {"text": "difficile", "lemma": "difficile", "ipa": "difisil", "translation": {"zh": "困难的", "en": "difficult"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "démarche administrative",
+    "ipa": "demaʁʃ administʁativ",
+    "translation": {"zh": "行政手续", "en": "administrative procedure"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "démarche", "lemma": "démarche", "ipa": "demaʁʃ", "translation": {"zh": "手续", "en": "procedure"}, "emoji": "📄"},
+      {"text": "administrative", "lemma": "administratif", "ipa": "administʁativ", "translation": {"zh": "行政的", "en": "administrative"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "suivre l'actualité",
+    "ipa": "sɥivʁ laktyalite",
+    "translation": {"zh": "关注时事", "en": "to follow the news"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "suivre", "lemma": "suivre", "ipa": "sɥivʁ", "translation": {"zh": "关注", "en": "to follow"}, "emoji": "📰"},
+      {"text": "l'actualité", "lemma": "actualité", "ipa": "laktyalite", "translation": {"zh": "时事", "en": "current news"}, "emoji": "📺"}
+    ]
+  },
+  {
+    "text": "produit alimentaire",
+    "ipa": "pʁodɥi alimɑ̃tɛʁ",
+    "translation": {"zh": "食品", "en": "food product"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "produit", "lemma": "produit", "ipa": "pʁodɥi", "translation": {"zh": "产品", "en": "product"}, "emoji": "🛒"},
+      {"text": "alimentaire", "lemma": "alimentaire", "ipa": "alimɑ̃tɛʁ", "translation": {"zh": "食品的", "en": "food"}, "emoji": "🍎"}
+    ]
+  }
+]

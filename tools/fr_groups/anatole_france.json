@@ -1,0 +1,60 @@
+[
+  {
+    "text": "J'avais mis mes pantoufles",
+    "ipa": "ʒavɛ mi me pɑ̃tufl",
+    "translation": {"zh": "我穿上了拖鞋", "en": "I had put on my slippers"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "J'avais mis", "lemma": "mettre", "ipa": "ʒavɛ mi", "translation": {"zh": "我穿上了", "en": "I had put on"}, "emoji": "👞"},
+      {"text": "mes pantoufles", "lemma": "pantoufle", "ipa": "me pɑ̃tufl", "translation": {"zh": "我的拖鞋", "en": "my slippers"}, "emoji": "🥿"}
+    ],
+    "tags": [{"name": "Sylvestre Bonnard", "index": 1}]
+  },
+  {
+    "text": "et ma robe de chambre.",
+    "ipa": "e ma ʁɔb də ʃɑ̃bʁ",
+    "translation": {"zh": "和我的睡袍", "en": "and my dressing gown"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "et ma robe de chambre", "lemma": "robe de chambre", "ipa": "e ma ʁɔb də ʃɑ̃bʁ", "translation": {"zh": "和睡袍", "en": "and dressing gown"}, "emoji": "🥼"}
+    ],
+    "tags": [{"name": "Sylvestre Bonnard", "index": 2}]
+  },
+  {
+    "text": "J'essuyai une larme",
+    "ipa": "ʒesɥije yn laʁm",
+    "translation": {"zh": "我擦去一滴泪", "en": "I wiped away a tear"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "J'essuyai", "lemma": "essuyer", "ipa": "ʒesɥije", "translation": {"zh": "我擦去", "en": "I wiped"}, "emoji": "🤚"},
+      {"text": "une larme", "lemma": "larme", "ipa": "yn laʁm", "translation": {"zh": "一滴泪", "en": "a tear"}, "emoji": "💧"}
+    ],
+    "tags": [{"name": "Sylvestre Bonnard", "index": 3}]
+  },
+  {
+    "text": "que le vent du quai avait fait perler à ma paupière.",
+    "ipa": "kə lə vɑ̃ dy ke avɛ fɛ pɛʁle a ma popjɛʁ",
+    "translation": {"zh": "码头的风让它在我眼睑上凝成", "en": "that the wind off the quay had brought to my eyelid"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "que le vent", "lemma": "vent", "ipa": "kə lə vɑ̃", "translation": {"zh": "那风", "en": "that the wind"}, "emoji": "💨"},
+      {"text": "du quai", "lemma": "quai", "ipa": "dy ke", "translation": {"zh": "码头的", "en": "off the quay"}, "emoji": "⚓"},
+      {"text": "avait fait perler", "lemma": "perler", "ipa": "avɛ fɛ pɛʁle", "translation": {"zh": "曾让凝成珠", "en": "had made bead"}, "emoji": "💧"},
+      {"text": "à ma paupière", "lemma": "paupière", "ipa": "a ma popjɛʁ", "translation": {"zh": "在我眼睑上", "en": "on my eyelid"}, "emoji": "👁️"}
+    ],
+    "tags": [{"name": "Sylvestre Bonnard", "index": 4}]
+  },
+  {
+    "text": "Un beau feu flambait dans la cheminée de mon cabinet de travail.",
+    "ipa": "œ̃ bo fø flɑ̃bɛ dɑ̃ la ʃəmine də mɔ̃ kabinɛ də tʁavaj",
+    "translation": {"zh": "我书房的壁炉里燃着一炉好火", "en": "A fine fire was blazing in the fireplace of my study"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Un beau feu", "lemma": "feu", "ipa": "œ̃ bo fø", "translation": {"zh": "一炉好火", "en": "a fine fire"}, "emoji": "🔥"},
+      {"text": "flambait", "lemma": "flamber", "ipa": "flɑ̃bɛ", "translation": {"zh": "燃烧着", "en": "was blazing"}, "emoji": "🔥"},
+      {"text": "dans la cheminée", "lemma": "cheminée", "ipa": "dɑ̃ la ʃəmine", "translation": {"zh": "在壁炉里", "en": "in the fireplace"}, "emoji": "🏠"},
+      {"text": "de mon cabinet de travail", "lemma": "cabinet de travail", "ipa": "də mɔ̃ kabinɛ də tʁavaj", "translation": {"zh": "我书房的", "en": "of my study"}, "emoji": "📚"}
+    ],
+    "tags": [{"name": "Sylvestre Bonnard", "index": 5}]
+  }
+]

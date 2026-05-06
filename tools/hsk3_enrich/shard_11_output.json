@@ -1,0 +1,892 @@
+[
+  {
+    "id": "845e61c4-7da4-4b67-9e43-00dc7b98db51",
+    "text": "老师讲得很清楚，大家都懂了。",
+    "ipa": "lǎo shī jiǎng de hěn qīng chǔ dà jiā dōu dǒng le",
+    "translation": {
+      "zh": "老师讲得很清楚，大家都懂了。",
+      "en": "The teacher explained it very clearly, and everyone understood."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "老师",
+        "lemma": "老师",
+        "ipa": "lǎo shī",
+        "translation": {
+          "zh": "老师",
+          "en": "teacher"
+        },
+        "emoji": "👨‍🏫"
+      },
+      {
+        "text": "讲得",
+        "lemma": "讲得",
+        "ipa": "jiǎng de",
+        "translation": {
+          "zh": "讲得",
+          "en": "explained (in such a way)"
+        },
+        "emoji": "🗣️"
+      },
+      {
+        "text": "很清楚",
+        "lemma": "很清楚",
+        "ipa": "hěn qīng chǔ",
+        "translation": {
+          "zh": "很清楚",
+          "en": "very clearly"
+        },
+        "emoji": "✅"
+      },
+      {
+        "text": "大家都懂了",
+        "lemma": "大家都懂了",
+        "ipa": "dà jiā dōu dǒng le",
+        "translation": {
+          "zh": "大家都懂了",
+          "en": "everyone understood"
+        },
+        "emoji": "💡"
+      }
+    ]
+  },
+  {
+    "id": "e00a8c87-e398-4c79-8b0f-bb1a8e937b4e",
+    "text": "他给孩子讲了个故事。",
+    "ipa": "tā gěi hái zi jiǎng le ge gù shi",
+    "translation": {
+      "zh": "他给孩子讲了个故事。",
+      "en": "He told the child a story."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他",
+        "lemma": "他",
+        "ipa": "tā",
+        "translation": {
+          "zh": "他",
+          "en": "he"
+        },
+        "emoji": "🧑"
+      },
+      {
+        "text": "给孩子",
+        "lemma": "给孩子",
+        "ipa": "gěi hái zi",
+        "translation": {
+          "zh": "给孩子",
+          "en": "to the child"
+        },
+        "emoji": "👦"
+      },
+      {
+        "text": "讲了",
+        "lemma": "讲了",
+        "ipa": "jiǎng le",
+        "translation": {
+          "zh": "讲了",
+          "en": "told"
+        },
+        "emoji": "🗣️"
+      },
+      {
+        "text": "个故事",
+        "lemma": "个故事",
+        "ipa": "ge gù shi",
+        "translation": {
+          "zh": "个故事",
+          "en": "a story"
+        },
+        "emoji": "📖"
+      }
+    ]
+  },
+  {
+    "id": "01b4b4e0-0f86-47cb-ac90-94b280abfea9",
+    "text": "他教我怎么用筷子。",
+    "ipa": "tā jiāo wǒ zěn me yòng kuài zi",
+    "translation": {
+      "zh": "他教我怎么用筷子。",
+      "en": "He taught me how to use chopsticks."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他教我",
+        "lemma": "他教我",
+        "ipa": "tā jiāo wǒ",
+        "translation": {
+          "zh": "他教我",
+          "en": "he taught me"
+        },
+        "emoji": "👨‍🏫"
+      },
+      {
+        "text": "怎么",
+        "lemma": "怎么",
+        "ipa": "zěn me",
+        "translation": {
+          "zh": "怎么",
+          "en": "how"
+        },
+        "emoji": "❓"
+      },
+      {
+        "text": "用筷子",
+        "lemma": "用筷子",
+        "ipa": "yòng kuài zi",
+        "translation": {
+          "zh": "用筷子",
+          "en": "use chopsticks"
+        },
+        "emoji": "🥢"
+      }
+    ]
+  },
+  {
+    "id": "a187559f-920c-4d45-aff8-262e273134f4",
+    "text": "妈妈教我做了红烧肉。",
+    "ipa": "mā ma jiāo wǒ zuò le hóng shāo ròu",
+    "translation": {
+      "zh": "妈妈教我做了红烧肉。",
+      "en": "Mom taught me how to make braised pork belly."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "妈妈",
+        "lemma": "妈妈",
+        "ipa": "mā ma",
+        "translation": {
+          "zh": "妈妈",
+          "en": "mom"
+        },
+        "emoji": "👩"
+      },
+      {
+        "text": "教我",
+        "lemma": "教我",
+        "ipa": "jiāo wǒ",
+        "translation": {
+          "zh": "教我",
+          "en": "taught me"
+        },
+        "emoji": "👨‍🏫"
+      },
+      {
+        "text": "做了",
+        "lemma": "做了",
+        "ipa": "zuò le",
+        "translation": {
+          "zh": "做了",
+          "en": "made"
+        },
+        "emoji": "🍳"
+      },
+      {
+        "text": "红烧肉",
+        "lemma": "红烧肉",
+        "ipa": "hóng shāo ròu",
+        "translation": {
+          "zh": "红烧肉",
+          "en": "braised pork belly"
+        },
+        "emoji": "🥩"
+      }
+    ]
+  },
+  {
+    "id": "e122fbe4-e641-49af-a634-cd3dad43ffb1",
+    "text": "这个东西只要一块五角钱。",
+    "ipa": "zhè ge dōng xi zhǐ yào yī kuài wǔ jiǎo qián",
+    "translation": {
+      "zh": "这个东西只要一块五角钱。",
+      "en": "This thing costs only one yuan and fifty cents."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这个东西",
+        "lemma": "这个东西",
+        "ipa": "zhè ge dōng xi",
+        "translation": {
+          "zh": "这个东西",
+          "en": "this thing"
+        },
+        "emoji": "📦"
+      },
+      {
+        "text": "只要",
+        "lemma": "只要",
+        "ipa": "zhǐ yào",
+        "translation": {
+          "zh": "只要",
+          "en": "costs only"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "一块五角钱",
+        "lemma": "一块五角钱",
+        "ipa": "yī kuài wǔ jiǎo qián",
+        "translation": {
+          "zh": "一块五角钱",
+          "en": "one yuan and fifty cents"
+        },
+        "emoji": "💰"
+      }
+    ]
+  },
+  {
+    "id": "5ea35b20-1160-43bd-807d-dd3e8d56ebea",
+    "text": "桌子角太尖了，小心撞到。",
+    "ipa": "zhuō zi jiǎo tài jiān le xiǎo xīn zhuàng dào",
+    "translation": {
+      "zh": "桌子角太尖了，小心撞到。",
+      "en": "The corner of the table is too sharp — watch out or you'll bump into it."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "桌子角",
+        "lemma": "桌子角",
+        "ipa": "zhuō zi jiǎo",
+        "translation": {
+          "zh": "桌子角",
+          "en": "table corner"
+        },
+        "emoji": "🪑"
+      },
+      {
+        "text": "太尖了",
+        "lemma": "太尖了",
+        "ipa": "tài jiān le",
+        "translation": {
+          "zh": "太尖了",
+          "en": "too sharp"
+        },
+        "emoji": "⚠️"
+      },
+      {
+        "text": "小心撞到",
+        "lemma": "小心撞到",
+        "ipa": "xiǎo xīn zhuàng dào",
+        "translation": {
+          "zh": "小心撞到",
+          "en": "be careful not to bump into it"
+        },
+        "emoji": "🤕"
+      }
+    ]
+  },
+  {
+    "id": "34683382-f9bb-4276-847c-ba75520d6cf1",
+    "text": "他走了太久，脚很疼。",
+    "ipa": "tā zǒu le tài jiǔ jiǎo hěn téng",
+    "translation": {
+      "zh": "他走了太久，脚很疼。",
+      "en": "He walked for too long and his feet hurt a lot."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他走了太久",
+        "lemma": "他走了太久",
+        "ipa": "tā zǒu le tài jiǔ",
+        "translation": {
+          "zh": "他走了太久",
+          "en": "he walked for too long"
+        },
+        "emoji": "🚶"
+      },
+      {
+        "text": "脚",
+        "lemma": "脚",
+        "ipa": "jiǎo",
+        "translation": {
+          "zh": "脚",
+          "en": "feet"
+        },
+        "emoji": "🦶"
+      },
+      {
+        "text": "很疼",
+        "lemma": "很疼",
+        "ipa": "hěn téng",
+        "translation": {
+          "zh": "很疼",
+          "en": "hurt a lot"
+        },
+        "emoji": "😣"
+      }
+    ]
+  },
+  {
+    "id": "f35ff65d-86a8-4e74-ac77-522ff631ba6d",
+    "text": "进屋前请把脚擦干净。",
+    "ipa": "jìn wū qián qǐng bǎ jiǎo cā gān jìng",
+    "translation": {
+      "zh": "进屋前请把脚擦干净。",
+      "en": "Please wipe your feet clean before entering the room."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "进屋前",
+        "lemma": "进屋前",
+        "ipa": "jìn wū qián",
+        "translation": {
+          "zh": "进屋前",
+          "en": "before entering the room"
+        },
+        "emoji": "🚪"
+      },
+      {
+        "text": "请把脚",
+        "lemma": "请把脚",
+        "ipa": "qǐng bǎ jiǎo",
+        "translation": {
+          "zh": "请把脚",
+          "en": "please (wipe) your feet"
+        },
+        "emoji": "🦶"
+      },
+      {
+        "text": "擦干净",
+        "lemma": "擦干净",
+        "ipa": "cā gān jìng",
+        "translation": {
+          "zh": "擦干净",
+          "en": "wipe clean"
+        },
+        "emoji": "🧹"
+      }
+    ]
+  },
+  {
+    "id": "b685ee15-714c-40ec-b20b-9977fe8d8af8",
+    "text": "我去机场接你吧。",
+    "ipa": "wǒ qù jī chǎng jiē nǐ ba",
+    "translation": {
+      "zh": "我去机场接你吧。",
+      "en": "Let me pick you up at the airport."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我去机场",
+        "lemma": "我去机场",
+        "ipa": "wǒ qù jī chǎng",
+        "translation": {
+          "zh": "我去机场",
+          "en": "I'll go to the airport"
+        },
+        "emoji": "✈️"
+      },
+      {
+        "text": "接你吧",
+        "lemma": "接你吧",
+        "ipa": "jiē nǐ ba",
+        "translation": {
+          "zh": "接你吧",
+          "en": "to pick you up"
+        },
+        "emoji": "🤝"
+      }
+    ]
+  },
+  {
+    "id": "97094323-ec68-4a01-84c3-5839fe73758c",
+    "text": "她接了一个电话就走了。",
+    "ipa": "tā jiē le yī ge diàn huà jiù zǒu le",
+    "translation": {
+      "zh": "她接了一个电话就走了。",
+      "en": "She took a phone call and then left."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "她接了",
+        "lemma": "她接了",
+        "ipa": "tā jiē le",
+        "translation": {
+          "zh": "她接了",
+          "en": "she answered / took"
+        },
+        "emoji": "📞"
+      },
+      {
+        "text": "一个电话",
+        "lemma": "一个电话",
+        "ipa": "yī ge diàn huà",
+        "translation": {
+          "zh": "一个电话",
+          "en": "a phone call"
+        },
+        "emoji": "📱"
+      },
+      {
+        "text": "就走了",
+        "lemma": "就走了",
+        "ipa": "jiù zǒu le",
+        "translation": {
+          "zh": "就走了",
+          "en": "then left"
+        },
+        "emoji": "🚶"
+      }
+    ]
+  },
+  {
+    "id": "7d16bec4-df18-4967-b346-9a88aedf5dcb",
+    "text": "这条街道上有很多小吃店。",
+    "ipa": "zhè tiáo jiē dào shàng yǒu hěn duō xiǎo chī diàn",
+    "translation": {
+      "zh": "这条街道上有很多小吃店。",
+      "en": "There are many snack shops on this street."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这条街道上",
+        "lemma": "这条街道上",
+        "ipa": "zhè tiáo jiē dào shàng",
+        "translation": {
+          "zh": "这条街道上",
+          "en": "on this street"
+        },
+        "emoji": "🛣️"
+      },
+      {
+        "text": "有",
+        "lemma": "有",
+        "ipa": "yǒu",
+        "translation": {
+          "zh": "有",
+          "en": "there are"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "很多",
+        "lemma": "很多",
+        "ipa": "hěn duō",
+        "translation": {
+          "zh": "很多",
+          "en": "many"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "小吃店",
+        "lemma": "小吃店",
+        "ipa": "xiǎo chī diàn",
+        "translation": {
+          "zh": "小吃店",
+          "en": "snack shop"
+        },
+        "emoji": "🍜"
+      }
+    ]
+  },
+  {
+    "id": "2615fea3-263a-42d4-8609-a6039ed63e53",
+    "text": "节日里街道上人很多。",
+    "ipa": "jié rì lǐ jiē dào shàng rén hěn duō",
+    "translation": {
+      "zh": "节日里街道上人很多。",
+      "en": "During the holidays, the streets are very crowded."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "节日里",
+        "lemma": "节日里",
+        "ipa": "jié rì lǐ",
+        "translation": {
+          "zh": "节日里",
+          "en": "during the holidays"
+        },
+        "emoji": "🎉"
+      },
+      {
+        "text": "街道上",
+        "lemma": "街道上",
+        "ipa": "jiē dào shàng",
+        "translation": {
+          "zh": "街道上",
+          "en": "on the street"
+        },
+        "emoji": "🛣️"
+      },
+      {
+        "text": "人很多",
+        "lemma": "人很多",
+        "ipa": "rén hěn duō",
+        "translation": {
+          "zh": "人很多",
+          "en": "many people / very crowded"
+        },
+        "emoji": "👥"
+      }
+    ]
+  },
+  {
+    "id": "ab35e715-3a47-4745-aa05-5f9f8a733fef",
+    "text": "这个节目我每周都看。",
+    "ipa": "zhè ge jié mù wǒ měi zhōu dōu kàn",
+    "translation": {
+      "zh": "这个节目我每周都看。",
+      "en": "I watch this program every week."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这个节目",
+        "lemma": "这个节目",
+        "ipa": "zhè ge jié mù",
+        "translation": {
+          "zh": "这个节目",
+          "en": "this program"
+        },
+        "emoji": "📺"
+      },
+      {
+        "text": "我每周",
+        "lemma": "我每周",
+        "ipa": "wǒ měi zhōu",
+        "translation": {
+          "zh": "我每周",
+          "en": "I every week"
+        },
+        "emoji": "📅"
+      },
+      {
+        "text": "都看",
+        "lemma": "都看",
+        "ipa": "dōu kàn",
+        "translation": {
+          "zh": "都看",
+          "en": "always watch"
+        },
+        "emoji": "👀"
+      }
+    ]
+  },
+  {
+    "id": "e9f25ffb-c7a8-4482-8738-a49c107331d6",
+    "text": "今晚的节目很精彩。",
+    "ipa": "jīn wǎn de jié mù hěn jīng cǎi",
+    "translation": {
+      "zh": "今晚的节目很精彩。",
+      "en": "Tonight's program is excellent."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "今晚的",
+        "lemma": "今晚的",
+        "ipa": "jīn wǎn de",
+        "translation": {
+          "zh": "今晚的",
+          "en": "tonight's"
+        },
+        "emoji": "🌙"
+      },
+      {
+        "text": "节目",
+        "lemma": "节目",
+        "ipa": "jié mù",
+        "translation": {
+          "zh": "节目",
+          "en": "program / show"
+        },
+        "emoji": "📺"
+      },
+      {
+        "text": "很精彩",
+        "lemma": "很精彩",
+        "ipa": "hěn jīng cǎi",
+        "translation": {
+          "zh": "很精彩",
+          "en": "very wonderful / excellent"
+        },
+        "emoji": "🌟"
+      }
+    ]
+  },
+  {
+    "id": "b127d122-65b3-4a9a-b0b3-b8578b04f5cd",
+    "text": "春节是中国最重要的节日。",
+    "ipa": "chūn jié shì zhōng guó zuì zhòng yào de jié rì",
+    "translation": {
+      "zh": "春节是中国最重要的节日。",
+      "en": "Spring Festival is the most important holiday in China."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "春节",
+        "lemma": "春节",
+        "ipa": "chūn jié",
+        "translation": {
+          "zh": "春节",
+          "en": "Spring Festival / Chinese New Year"
+        },
+        "emoji": "🧧"
+      },
+      {
+        "text": "是",
+        "lemma": "是",
+        "ipa": "shì",
+        "translation": {
+          "zh": "是",
+          "en": "is"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "中国",
+        "lemma": "中国",
+        "ipa": "zhōng guó",
+        "translation": {
+          "zh": "中国",
+          "en": "China"
+        },
+        "emoji": "🇨🇳"
+      },
+      {
+        "text": "最重要的",
+        "lemma": "最重要的",
+        "ipa": "zuì zhòng yào de",
+        "translation": {
+          "zh": "最重要的",
+          "en": "the most important"
+        },
+        "emoji": "⭐"
+      },
+      {
+        "text": "节日",
+        "lemma": "节日",
+        "ipa": "jié rì",
+        "translation": {
+          "zh": "节日",
+          "en": "holiday / festival"
+        },
+        "emoji": "🎊"
+      }
+    ]
+  },
+  {
+    "id": "3758f148-c893-46ba-b674-1a76b0ed7ec0",
+    "text": "每个节日我都回家。",
+    "ipa": "měi ge jié rì wǒ dōu huí jiā",
+    "translation": {
+      "zh": "每个节日我都回家。",
+      "en": "I go home for every holiday."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "每个节日",
+        "lemma": "每个节日",
+        "ipa": "měi ge jié rì",
+        "translation": {
+          "zh": "每个节日",
+          "en": "every holiday"
+        },
+        "emoji": "🎊"
+      },
+      {
+        "text": "我都",
+        "lemma": "我都",
+        "ipa": "wǒ dōu",
+        "translation": {
+          "zh": "我都",
+          "en": "I always"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "回家",
+        "lemma": "回家",
+        "ipa": "huí jiā",
+        "translation": {
+          "zh": "回家",
+          "en": "go home"
+        },
+        "emoji": "🏠"
+      }
+    ]
+  },
+  {
+    "id": "3e12f351-d458-4a64-9507-a0a85e702d82",
+    "text": "他们下个月要结婚了。",
+    "ipa": "tā men xià ge yuè yào jié hūn le",
+    "translation": {
+      "zh": "他们下个月要结婚了。",
+      "en": "They are getting married next month."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他们",
+        "lemma": "他们",
+        "ipa": "tā men",
+        "translation": {
+          "zh": "他们",
+          "en": "they"
+        },
+        "emoji": "👫"
+      },
+      {
+        "text": "下个月",
+        "lemma": "下个月",
+        "ipa": "xià ge yuè",
+        "translation": {
+          "zh": "下个月",
+          "en": "next month"
+        },
+        "emoji": "📅"
+      },
+      {
+        "text": "要结婚了",
+        "lemma": "要结婚了",
+        "ipa": "yào jié hūn le",
+        "translation": {
+          "zh": "要结婚了",
+          "en": "are going to get married"
+        },
+        "emoji": "💍"
+      }
+    ]
+  },
+  {
+    "id": "dda840bc-dc8a-44d0-b439-0ad47287d53f",
+    "text": "她结婚的时候我在场。",
+    "ipa": "tā jié hūn de shí hòu wǒ zài chǎng",
+    "translation": {
+      "zh": "她结婚的时候我在场。",
+      "en": "I was present at her wedding."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "她结婚的",
+        "lemma": "她结婚的",
+        "ipa": "tā jié hūn de",
+        "translation": {
+          "zh": "她结婚的",
+          "en": "her wedding"
+        },
+        "emoji": "👰"
+      },
+      {
+        "text": "时候",
+        "lemma": "时候",
+        "ipa": "shí hòu",
+        "translation": {
+          "zh": "时候",
+          "en": "when / at the time"
+        },
+        "emoji": "⏰"
+      },
+      {
+        "text": "我在场",
+        "lemma": "我在场",
+        "ipa": "wǒ zài chǎng",
+        "translation": {
+          "zh": "我在场",
+          "en": "I was present"
+        },
+        "emoji": "🙋"
+      }
+    ]
+  },
+  {
+    "id": "5aa93a8f-618d-4b1a-a161-388910b4d4f1",
+    "text": "会议快结束了。",
+    "ipa": "huì yì kuài jié shù le",
+    "translation": {
+      "zh": "会议快结束了。",
+      "en": "The meeting is almost over."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "会议",
+        "lemma": "会议",
+        "ipa": "huì yì",
+        "translation": {
+          "zh": "会议",
+          "en": "meeting"
+        },
+        "emoji": "📋"
+      },
+      {
+        "text": "快结束了",
+        "lemma": "快结束了",
+        "ipa": "kuài jié shù le",
+        "translation": {
+          "zh": "快结束了",
+          "en": "almost over / about to end"
+        },
+        "emoji": "⏳"
+      }
+    ]
+  },
+  {
+    "id": "cbddfae3-a8dd-4232-bb6b-a42072e0dcf8",
+    "text": "电影结束以后我们去吃饭。",
+    "ipa": "diàn yǐng jié shù yǐ hòu wǒ men qù chī fàn",
+    "translation": {
+      "zh": "电影结束以后我们去吃饭。",
+      "en": "After the movie ends, let's go eat."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "电影结束",
+        "lemma": "电影结束",
+        "ipa": "diàn yǐng jié shù",
+        "translation": {
+          "zh": "电影结束",
+          "en": "the movie ends"
+        },
+        "emoji": "🎬"
+      },
+      {
+        "text": "以后",
+        "lemma": "以后",
+        "ipa": "yǐ hòu",
+        "translation": {
+          "zh": "以后",
+          "en": "after / afterwards"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "我们去",
+        "lemma": "我们去",
+        "ipa": "wǒ men qù",
+        "translation": {
+          "zh": "我们去",
+          "en": "let's go"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "吃饭",
+        "lemma": "吃饭",
+        "ipa": "chī fàn",
+        "translation": {
+          "zh": "吃饭",
+          "en": "eat a meal"
+        },
+        "emoji": "🍽️"
+      }
+    ]
+  }
+]

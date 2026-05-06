@@ -1,0 +1,186 @@
+[
+  {
+    "input_word": "anxious",
+    "entries": [
+      {"text": "anxious", "ipa": "/ˈæŋk.ʃəs/", "cefr": "B2", "zh": "焦虑的", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "any",
+    "entries": [
+      {"text": "any", "ipa": "/ˈen.i/", "cefr": "A1", "zh": "任何", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "any more",
+    "entries": [
+      {"text": "any more", "ipa": "/ˌen.i ˈmɔːr/", "cefr": "A2", "zh": "再也", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "anybody",
+    "entries": [
+      {"text": "anybody", "ipa": "/ˈen.i.bɑːd.i/", "cefr": "A2", "zh": "任何人", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "anyone",
+    "entries": [
+      {"text": "anyone", "ipa": "/ˈen.i.wʌn/", "cefr": "A1", "zh": "任何人", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "anything",
+    "entries": [
+      {"text": "anything", "ipa": "/ˈen.i.θɪŋ/", "cefr": "A1", "zh": "任何事", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "anyway",
+    "entries": [
+      {"text": "anyway", "ipa": "/ˈen.i.weɪ/", "cefr": "A2", "zh": "不管怎样", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "anywhere",
+    "entries": [
+      {"text": "anywhere", "ipa": "/ˈen.i.wer/", "cefr": "A2", "zh": "任何地方", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "apart",
+    "entries": [
+      {"text": "apart", "ipa": "/əˈpɑːrt/", "cefr": "B1", "zh": "分开", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "apartment",
+    "entries": [
+      {"text": "apartment", "ipa": "/əˈpɑːrt.mənt/", "cefr": "A1", "zh": "公寓", "emoji": "🏢"}
+    ]
+  },
+  {
+    "input_word": "apologize",
+    "entries": [
+      {"text": "apologize", "ipa": "/əˈpɑːl.ə.dʒaɪz/", "cefr": "B1", "zh": "道歉", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "app",
+    "entries": [
+      {"text": "app", "ipa": "/æp/", "cefr": "A2", "zh": "应用", "emoji": "📱"}
+    ]
+  },
+  {
+    "input_word": "apparent",
+    "entries": [
+      {"text": "apparent", "ipa": "/əˈper.ənt/", "cefr": "B2", "zh": "明显的", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "apparently",
+    "entries": [
+      {"text": "apparently", "ipa": "/əˈper.ənt.li/", "cefr": "B2", "zh": "显然", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "appeal",
+    "entries": [
+      {"text": "appeal", "ipa": "/əˈpiːl/", "cefr": "B2", "zh": "吸引力", "emoji": null},
+      {"text": "appeal", "ipa": "/əˈpiːl/", "cefr": "B2", "zh": "上诉", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "appear",
+    "entries": [
+      {"text": "appear", "ipa": "/əˈpɪr/", "cefr": "A2", "zh": "出现", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "appearance",
+    "entries": [
+      {"text": "appearance", "ipa": "/əˈpɪr.əns/", "cefr": "A2", "zh": "外貌", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "apple",
+    "entries": [
+      {"text": "apple", "ipa": "/ˈæp.əl/", "cefr": "A1", "zh": "苹果", "emoji": "🍎"}
+    ]
+  },
+  {
+    "input_word": "application",
+    "entries": [
+      {"text": "application", "ipa": "/ˌæp.lɪˈkeɪ.ʃən/", "cefr": "B1", "zh": "申请", "emoji": null},
+      {"text": "application", "ipa": "/ˌæp.lɪˈkeɪ.ʃən/", "cefr": "B1", "zh": "应用程序", "emoji": "📱"}
+    ]
+  },
+  {
+    "input_word": "apply",
+    "entries": [
+      {"text": "apply", "ipa": "/əˈplaɪ/", "cefr": "A2", "zh": "申请", "emoji": null},
+      {"text": "apply", "ipa": "/əˈplaɪ/", "cefr": "A2", "zh": "适用", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "appointment",
+    "entries": [
+      {"text": "appointment", "ipa": "/əˈpɔɪnt.mənt/", "cefr": "B1", "zh": "预约", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_word": "appreciate",
+    "entries": [
+      {"text": "appreciate", "ipa": "/əˈpriː.ʃi.eɪt/", "cefr": "B1", "zh": "感激", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "approach",
+    "entries": [
+      {"text": "approach", "ipa": "/əˈproʊtʃ/", "cefr": "B2", "zh": "接近", "emoji": null},
+      {"text": "approach", "ipa": "/əˈproʊtʃ/", "cefr": "B2", "zh": "方法", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "appropriate",
+    "entries": [
+      {"text": "appropriate", "ipa": "/əˈproʊ.pri.ət/", "cefr": "B2", "zh": "适当的", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "approval",
+    "entries": [
+      {"text": "approval", "ipa": "/əˈpruː.vəl/", "cefr": "B2", "zh": "批准", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "approve",
+    "entries": [
+      {"text": "approve", "ipa": "/əˈpruːv/", "cefr": "B2", "zh": "批准", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "approximately",
+    "entries": [
+      {"text": "approximately", "ipa": "/əˈprɑːk.sɪ.mət.li/", "cefr": "B1", "zh": "大约", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "april",
+    "entries": [
+      {"text": "April", "ipa": "/ˈeɪ.prəl/", "cefr": "A1", "zh": "四月", "emoji": "🌸"}
+    ]
+  },
+  {
+    "input_word": "architect",
+    "entries": [
+      {"text": "architect", "ipa": "/ˈɑːr.kɪ.tekt/", "cefr": "A2", "zh": "建筑师", "emoji": null}
+    ]
+  },
+  {
+    "input_word": "architecture",
+    "entries": [
+      {"text": "architecture", "ipa": "/ˈɑːr.kɪ.tek.tʃər/", "cefr": "A2", "zh": "建筑", "emoji": "🏛️"}
+    ]
+  }
+]

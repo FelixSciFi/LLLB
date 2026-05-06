@@ -1,0 +1,282 @@
+[
+  {
+    "text": "la gravité",
+    "ipa": "la ɡʁavite",
+    "translation": {"zh": "严重性；重力", "en": "gravity; seriousness"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la gravité", "lemma": "gravité", "ipa": "la ɡʁavite", "translation": {"zh": "严重性；重力", "en": "gravity; seriousness"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "Internet a révolutionné nos vies.",
+    "ipa": "ɛ̃tɛʁnɛt a ʁevɔlysjɔne no vi",
+    "translation": {"zh": "互联网彻底改变了我们的生活。", "en": "The internet revolutionized our lives."},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "Internet", "lemma": "Internet", "ipa": "ɛ̃tɛʁnɛt", "translation": {"zh": "互联网", "en": "the internet"}, "emoji": "🌐"},
+      {"text": "a révolutionné", "lemma": "révolutionner", "ipa": "a ʁevɔlysjɔne", "translation": {"zh": "彻底改变了", "en": "revolutionized"}, "emoji": "🔄"},
+      {"text": "nos vies", "lemma": "vie", "ipa": "no vi", "translation": {"zh": "我们的生活", "en": "our lives"}, "emoji": "🌱"}
+    ]
+  },
+  {
+    "text": "la conduite",
+    "ipa": "la kɔ̃dɥit",
+    "translation": {"zh": "驾驶；行为", "en": "driving; conduct"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la conduite", "lemma": "conduite", "ipa": "la kɔ̃dɥit", "translation": {"zh": "驾驶；行为", "en": "driving; conduct"}, "emoji": "🚗"}
+    ]
+  },
+  {
+    "text": "faire un reproche",
+    "ipa": "fɛʁ œ̃ ʁəpʁɔʃ",
+    "translation": {"zh": "提出责备", "en": "to make a reproach"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "faire un reproche", "lemma": "reproche", "ipa": "fɛʁ œ̃ ʁəpʁɔʃ", "translation": {"zh": "提出责备", "en": "make a reproach"}, "emoji": "😤"}
+    ]
+  },
+  {
+    "text": "La pluie inonde les rues.",
+    "ipa": "la plɥi inɔ̃d le ʁy",
+    "translation": {"zh": "雨水淹没了街道。", "en": "The rain floods the streets."},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la pluie", "lemma": "pluie", "ipa": "la plɥi", "translation": {"zh": "雨", "en": "the rain"}, "emoji": "🌧️"},
+      {"text": "inonde", "lemma": "inonder", "ipa": "inɔ̃d", "translation": {"zh": "淹没", "en": "floods"}, "emoji": "🌊"},
+      {"text": "les rues", "lemma": "rue", "ipa": "le ʁy", "translation": {"zh": "街道", "en": "the streets"}, "emoji": "🛣️"}
+    ]
+  },
+  {
+    "text": "un accompagnement musical",
+    "ipa": "œ̃ akɔ̃paɲmɑ̃ myzikal",
+    "translation": {"zh": "音乐伴奏", "en": "musical accompaniment"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un accompagnement musical", "lemma": "accompagnement", "ipa": "œ̃ akɔ̃paɲmɑ̃ myzikal", "translation": {"zh": "音乐伴奏", "en": "musical accompaniment"}, "emoji": "🎵"}
+    ]
+  },
+  {
+    "text": "une couleur complémentaire",
+    "ipa": "yn kulœʁ kɔ̃plemɑ̃tɛʁ",
+    "translation": {"zh": "互补色", "en": "a complementary color"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une couleur complémentaire", "lemma": "complémentaire", "ipa": "yn kulœʁ kɔ̃plemɑ̃tɛʁ", "translation": {"zh": "互补色", "en": "complementary color"}, "emoji": "🎨"}
+    ]
+  },
+  {
+    "text": "un cocktail de fruits",
+    "ipa": "œ̃ kɔktɛl də fʁɥi",
+    "translation": {"zh": "水果鸡尾酒", "en": "a fruit cocktail"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un cocktail de fruits", "lemma": "cocktail", "ipa": "œ̃ kɔktɛl də fʁɥi", "translation": {"zh": "水果鸡尾酒", "en": "fruit cocktail"}, "emoji": "🍹"}
+    ]
+  },
+  {
+    "text": "un savant",
+    "ipa": "œ̃ savɑ̃",
+    "translation": {"zh": "学者；科学家", "en": "a scholar; scientist"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un savant", "lemma": "savant", "ipa": "œ̃ savɑ̃", "translation": {"zh": "学者；科学家", "en": "a scholar; scientist"}, "emoji": "🔬"}
+    ]
+  },
+  {
+    "text": "le cheval a perdu un sabot.",
+    "ipa": "lə ʃval a pɛʁdy œ̃ sabo",
+    "translation": {"zh": "这匹马掉了一个蹄铁。", "en": "The horse lost a horseshoe."},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le cheval", "lemma": "cheval", "ipa": "lə ʃval", "translation": {"zh": "马", "en": "the horse"}, "emoji": "🐴"},
+      {"text": "a perdu", "lemma": "perdre", "ipa": "a pɛʁdy", "translation": {"zh": "丢失了", "en": "lost"}, "emoji": ""},
+      {"text": "un sabot", "lemma": "sabot", "ipa": "œ̃ sabo", "translation": {"zh": "蹄铁；木鞋", "en": "a horseshoe; clog"}, "emoji": "👞"}
+    ]
+  },
+  {
+    "text": "un recueil de poèmes",
+    "ipa": "œ̃ ʁəkœj də pɔɛm",
+    "translation": {"zh": "一本诗歌集", "en": "a collection of poems"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un recueil de poèmes", "lemma": "recueil", "ipa": "œ̃ ʁəkœj də pɔɛm", "translation": {"zh": "诗歌集", "en": "collection of poems"}, "emoji": "📖"}
+    ]
+  },
+  {
+    "text": "un cycliste professionnel",
+    "ipa": "œ̃ siklɪst pʁɔfɛsjɔnɛl",
+    "translation": {"zh": "职业自行车手", "en": "a professional cyclist"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un cycliste professionnel", "lemma": "cycliste", "ipa": "œ̃ siklɪst pʁɔfɛsjɔnɛl", "translation": {"zh": "职业自行车手", "en": "professional cyclist"}, "emoji": "🚴"}
+    ]
+  },
+  {
+    "text": "Il est loyal envers ses amis.",
+    "ipa": "il ɛ lwajal ɑ̃vɛʁ se zami",
+    "translation": {"zh": "他对朋友很忠诚。", "en": "He is loyal to his friends."},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il est loyal", "lemma": "loyal", "ipa": "il ɛ lwajal", "translation": {"zh": "他很忠诚", "en": "he is loyal"}, "emoji": "🤝"},
+      {"text": "envers ses amis", "lemma": "ami", "ipa": "ɑ̃vɛʁ se zami", "translation": {"zh": "对朋友们", "en": "to his friends"}, "emoji": "👫"}
+    ]
+  },
+  {
+    "text": "une robe violette",
+    "ipa": "yn ʁɔb vjɔlɛt",
+    "translation": {"zh": "一条紫色裙子", "en": "a purple dress"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une robe violette", "lemma": "violet", "ipa": "yn ʁɔb vjɔlɛt", "translation": {"zh": "紫色裙子", "en": "purple dress"}, "emoji": "👗"}
+    ]
+  },
+  {
+    "text": "un chien aveugle",
+    "ipa": "œ̃ ʃjɛ̃ avœɡl",
+    "translation": {"zh": "一只失明的狗", "en": "a blind dog"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un chien aveugle", "lemma": "aveugle", "ipa": "œ̃ ʃjɛ̃ avœɡl", "translation": {"zh": "失明的狗", "en": "blind dog"}, "emoji": "🐕"}
+    ]
+  },
+  {
+    "text": "enrichir son vocabulaire",
+    "ipa": "ɑ̃ʁiʃiʁ sɔ̃ vɔkabyLɛʁ",
+    "translation": {"zh": "丰富词汇量", "en": "to enrich one's vocabulary"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "enrichir", "lemma": "enrichir", "ipa": "ɑ̃ʁiʃiʁ", "translation": {"zh": "丰富", "en": "to enrich"}, "emoji": "📚"},
+      {"text": "son vocabulaire", "lemma": "vocabulaire", "ipa": "sɔ̃ vɔkabyLɛʁ", "translation": {"zh": "词汇量", "en": "one's vocabulary"}, "emoji": "🔤"}
+    ]
+  },
+  {
+    "text": "un canapé en velours",
+    "ipa": "œ̃ kanape ɑ̃ vluʁ",
+    "translation": {"zh": "一张天鹅绒沙发", "en": "a velvet sofa"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un canapé en velours", "lemma": "velours", "ipa": "œ̃ kanape ɑ̃ vluʁ", "translation": {"zh": "天鹅绒沙发", "en": "velvet sofa"}, "emoji": "🛋️"}
+    ]
+  },
+  {
+    "text": "un grand couturier",
+    "ipa": "œ̃ ɡʁɑ̃ kutɥʁje",
+    "translation": {"zh": "著名时装设计师", "en": "a famous fashion designer"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un grand couturier", "lemma": "couturier", "ipa": "œ̃ ɡʁɑ̃ kutɥʁje", "translation": {"zh": "著名时装设计师", "en": "famous fashion designer"}, "emoji": "👗"}
+    ]
+  },
+  {
+    "text": "l'angle droit",
+    "ipa": "lɑ̃ɡl dʁwa",
+    "translation": {"zh": "直角", "en": "the right angle"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "l'angle droit", "lemma": "angle", "ipa": "lɑ̃ɡl dʁwa", "translation": {"zh": "直角", "en": "right angle"}, "emoji": "📐"}
+    ]
+  },
+  {
+    "text": "une pile de livres",
+    "ipa": "yn pil də livʁ",
+    "translation": {"zh": "一摞书", "en": "a pile of books"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une pile de livres", "lemma": "pile", "ipa": "yn pil də livʁ", "translation": {"zh": "一摞书", "en": "pile of books"}, "emoji": "📚"}
+    ]
+  },
+  {
+    "text": "le pôle Nord",
+    "ipa": "lə pol nɔʁ",
+    "translation": {"zh": "北极", "en": "the North Pole"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le pôle Nord", "lemma": "pôle", "ipa": "lə pol nɔʁ", "translation": {"zh": "北极", "en": "the North Pole"}, "emoji": "🧭"}
+    ]
+  },
+  {
+    "text": "la morale de l'histoire",
+    "ipa": "la mɔʁal də listwaʁ",
+    "translation": {"zh": "故事的寓意", "en": "the moral of the story"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la morale de l'histoire", "lemma": "morale", "ipa": "la mɔʁal də listwaʁ", "translation": {"zh": "故事的寓意", "en": "moral of the story"}, "emoji": "📖"}
+    ]
+  },
+  {
+    "text": "l'accent québécois",
+    "ipa": "laksɑ̃ kebɛkwa",
+    "translation": {"zh": "魁北克口音", "en": "the Québécois accent"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "l'accent québécois", "lemma": "québécois", "ipa": "laksɑ̃ kebɛkwa", "translation": {"zh": "魁北克口音", "en": "Québécois accent"}, "emoji": "🍁"}
+    ]
+  },
+  {
+    "text": "commercialiser un produit",
+    "ipa": "kɔmɛʁsjalize œ̃ pʁɔdɥi",
+    "translation": {"zh": "将产品推向市场", "en": "to market a product"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "commercialiser", "lemma": "commercialiser", "ipa": "kɔmɛʁsjalize", "translation": {"zh": "商业化销售", "en": "to market"}, "emoji": "🏪"},
+      {"text": "un produit", "lemma": "produit", "ipa": "œ̃ pʁɔdɥi", "translation": {"zh": "产品", "en": "a product"}, "emoji": "📦"}
+    ]
+  },
+  {
+    "text": "attraper un voleur",
+    "ipa": "atʁape œ̃ vɔlœʁ",
+    "translation": {"zh": "抓住小偷", "en": "to catch a thief"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "attraper", "lemma": "attraper", "ipa": "atʁape", "translation": {"zh": "抓住", "en": "to catch"}, "emoji": ""},
+      {"text": "un voleur", "lemma": "voleur", "ipa": "œ̃ vɔlœʁ", "translation": {"zh": "小偷", "en": "a thief"}, "emoji": "🦹"}
+    ]
+  },
+  {
+    "text": "le directeur de l'école",
+    "ipa": "lə diʁɛktœʁ də lekɔl",
+    "translation": {"zh": "学校校长", "en": "the school principal"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le directeur de l'école", "lemma": "directeur", "ipa": "lə diʁɛktœʁ də lekɔl", "translation": {"zh": "学校校长", "en": "school principal"}, "emoji": "🏫"}
+    ]
+  },
+  {
+    "text": "un ami algérien",
+    "ipa": "œ̃ nami alʒeʁjɛ̃",
+    "translation": {"zh": "一位阿尔及利亚朋友", "en": "an Algerian friend"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un ami algérien", "lemma": "algérien", "ipa": "œ̃ nami alʒeʁjɛ̃", "translation": {"zh": "阿尔及利亚朋友", "en": "Algerian friend"}, "emoji": "🇩🇿"}
+    ]
+  },
+  {
+    "text": "un certificat médical",
+    "ipa": "œ̃ sɛʁtifika medikal",
+    "translation": {"zh": "医疗证明", "en": "a medical certificate"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un certificat médical", "lemma": "certificat", "ipa": "œ̃ sɛʁtifika medikal", "translation": {"zh": "医疗证明", "en": "medical certificate"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "ne pas toucher",
+    "ipa": "nə pa tuʃe",
+    "translation": {"zh": "请勿触摸", "en": "do not touch"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ne pas toucher", "lemma": "toucher", "ipa": "nə pa tuʃe", "translation": {"zh": "请勿触摸", "en": "do not touch"}, "emoji": "🚫"}
+    ]
+  },
+  {
+    "text": "la manipulation des données",
+    "ipa": "la manipylasjɔ̃ de dɔne",
+    "translation": {"zh": "数据操控", "en": "data manipulation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la manipulation des données", "lemma": "manipulation", "ipa": "la manipylasjɔ̃ de dɔne", "translation": {"zh": "数据操控", "en": "data manipulation"}, "emoji": "💾"}
+    ]
+  }
+]

@@ -1,0 +1,698 @@
+[
+  {
+    "input_word": "阴",
+    "sentences": [
+      {
+        "text": "今天很阴。",
+        "ipa": "jīn tiān hěn yīn",
+        "translation": {"zh": "今天天气很阴。", "en": "It's very overcast today."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "今天",
+            "lemma": "今天",
+            "ipa": "jīn tiān",
+            "translation": {"zh": "今天", "en": "today"},
+            "emoji": "📅"
+          },
+          {
+            "text": "很阴",
+            "lemma": "阴",
+            "ipa": "hěn yīn",
+            "translation": {"zh": "很阴沉", "en": "very overcast"},
+            "emoji": "☁️"
+          }
+        ]
+      },
+      {
+        "text": "天阴了。",
+        "ipa": "tiān yīn le",
+        "translation": {"zh": "天变阴了。", "en": "The sky has turned cloudy."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "天",
+            "lemma": "天",
+            "ipa": "tiān",
+            "translation": {"zh": "天空", "en": "sky"},
+            "emoji": "🌤️"
+          },
+          {
+            "text": "阴了",
+            "lemma": "阴",
+            "ipa": "yīn le",
+            "translation": {"zh": "变阴了", "en": "turned cloudy"},
+            "emoji": "☁️"
+          }
+        ]
+      },
+      {
+        "text": "外面阴。",
+        "ipa": "wài miàn yīn",
+        "translation": {"zh": "外面是阴天。", "en": "It's cloudy outside."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "外面",
+            "lemma": "外面",
+            "ipa": "wài miàn",
+            "translation": {"zh": "外面", "en": "outside"},
+            "emoji": "🚪"
+          },
+          {
+            "text": "阴",
+            "lemma": "阴",
+            "ipa": "yīn",
+            "translation": {"zh": "阴天", "en": "cloudy"},
+            "emoji": "☁️"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "游泳",
+    "sentences": [
+      {
+        "text": "我喜欢游泳。",
+        "ipa": "wǒ xǐ huān yóu yǒng",
+        "translation": {"zh": "我喜欢游泳。", "en": "I like swimming."},
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "我喜欢",
+            "lemma": "喜欢",
+            "ipa": "wǒ xǐ huān",
+            "translation": {"zh": "我喜欢", "en": "I like"},
+            "emoji": "❤️"
+          },
+          {
+            "text": "游泳",
+            "lemma": "游泳",
+            "ipa": "yóu yǒng",
+            "translation": {"zh": "游泳", "en": "swimming"},
+            "emoji": "🏊"
+          }
+        ]
+      },
+      {
+        "text": "她会游泳。",
+        "ipa": "tā huì yóu yǒng",
+        "translation": {"zh": "她会游泳。", "en": "She can swim."},
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "她会",
+            "lemma": "会",
+            "ipa": "tā huì",
+            "translation": {"zh": "她会", "en": "she can"},
+            "emoji": ""
+          },
+          {
+            "text": "游泳",
+            "lemma": "游泳",
+            "ipa": "yóu yǒng",
+            "translation": {"zh": "游泳", "en": "swim"},
+            "emoji": "🏊"
+          }
+        ]
+      },
+      {
+        "text": "我们去游泳。",
+        "ipa": "wǒ men qù yóu yǒng",
+        "translation": {"zh": "我们去游泳吧。", "en": "Let's go swimming."},
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "我们去",
+            "lemma": "去",
+            "ipa": "wǒ men qù",
+            "translation": {"zh": "我们去", "en": "let's go"},
+            "emoji": ""
+          },
+          {
+            "text": "游泳",
+            "lemma": "游泳",
+            "ipa": "yóu yǒng",
+            "translation": {"zh": "游泳", "en": "swimming"},
+            "emoji": "🏊"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "右边",
+    "sentences": [
+      {
+        "text": "在右边。",
+        "ipa": "zài yòu biān",
+        "translation": {"zh": "在右边。", "en": "On the right."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "在右边",
+            "lemma": "右边",
+            "ipa": "zài yòu biān",
+            "translation": {"zh": "在右边", "en": "on the right"},
+            "emoji": "➡️"
+          }
+        ]
+      },
+      {
+        "text": "请走右边。",
+        "ipa": "qǐng zǒu yòu biān",
+        "translation": {"zh": "请走右边。", "en": "Please go to the right."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "请走",
+            "lemma": "走",
+            "ipa": "qǐng zǒu",
+            "translation": {"zh": "请走", "en": "please go"},
+            "emoji": "🚶"
+          },
+          {
+            "text": "右边",
+            "lemma": "右边",
+            "ipa": "yòu biān",
+            "translation": {"zh": "右边", "en": "to the right"},
+            "emoji": "➡️"
+          }
+        ]
+      },
+      {
+        "text": "商店在右边。",
+        "ipa": "shāng diàn zài yòu biān",
+        "translation": {"zh": "商店在右边。", "en": "The shop is on the right."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "商店",
+            "lemma": "商店",
+            "ipa": "shāng diàn",
+            "translation": {"zh": "商店", "en": "shop"},
+            "emoji": "🏪"
+          },
+          {
+            "text": "在右边",
+            "lemma": "右边",
+            "ipa": "zài yòu biān",
+            "translation": {"zh": "在右边", "en": "is on the right"},
+            "emoji": "➡️"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "鱼",
+    "sentences": [
+      {
+        "text": "我爱吃鱼。",
+        "ipa": "wǒ ài chī yú",
+        "translation": {"zh": "我爱吃鱼。", "en": "I love eating fish."},
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "我爱吃",
+            "lemma": "吃",
+            "ipa": "wǒ ài chī",
+            "translation": {"zh": "我爱吃", "en": "I love eating"},
+            "emoji": "😋"
+          },
+          {
+            "text": "鱼",
+            "lemma": "鱼",
+            "ipa": "yú",
+            "translation": {"zh": "鱼", "en": "fish"},
+            "emoji": "🐟"
+          }
+        ]
+      },
+      {
+        "text": "这条鱼很大。",
+        "ipa": "zhè tiáo yú hěn dà",
+        "translation": {"zh": "这条鱼很大。", "en": "This fish is very big."},
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "这条",
+            "lemma": "条",
+            "ipa": "zhè tiáo",
+            "translation": {"zh": "这条", "en": "this (fish)"},
+            "emoji": ""
+          },
+          {
+            "text": "鱼",
+            "lemma": "鱼",
+            "ipa": "yú",
+            "translation": {"zh": "鱼", "en": "fish"},
+            "emoji": "🐟"
+          },
+          {
+            "text": "很大",
+            "lemma": "大",
+            "ipa": "hěn dà",
+            "translation": {"zh": "很大", "en": "very big"},
+            "emoji": "🔴"
+          }
+        ]
+      },
+      {
+        "text": "鱼很好吃。",
+        "ipa": "yú hěn hǎo chī",
+        "translation": {"zh": "鱼很好吃。", "en": "Fish is delicious."},
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "鱼",
+            "lemma": "鱼",
+            "ipa": "yú",
+            "translation": {"zh": "鱼", "en": "fish"},
+            "emoji": "🐟"
+          },
+          {
+            "text": "很好吃",
+            "lemma": "好吃",
+            "ipa": "hěn hǎo chī",
+            "translation": {"zh": "很好吃", "en": "very delicious"},
+            "emoji": "😋"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "远",
+    "sentences": [
+      {
+        "text": "这里很远。",
+        "ipa": "zhè lǐ hěn yuǎn",
+        "translation": {"zh": "这里很远。", "en": "This place is very far."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "这里",
+            "lemma": "这里",
+            "ipa": "zhè lǐ",
+            "translation": {"zh": "这里", "en": "here / this place"},
+            "emoji": "📍"
+          },
+          {
+            "text": "很远",
+            "lemma": "远",
+            "ipa": "hěn yuǎn",
+            "translation": {"zh": "很远", "en": "very far"},
+            "emoji": "🗺️"
+          }
+        ]
+      },
+      {
+        "text": "不太远。",
+        "ipa": "bù tài yuǎn",
+        "translation": {"zh": "不太远。", "en": "Not too far."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "不太远",
+            "lemma": "远",
+            "ipa": "bù tài yuǎn",
+            "translation": {"zh": "不太远", "en": "not too far"},
+            "emoji": "🗺️"
+          }
+        ]
+      },
+      {
+        "text": "学校很远。",
+        "ipa": "xué xiào hěn yuǎn",
+        "translation": {"zh": "学校很远。", "en": "The school is very far."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "学校",
+            "lemma": "学校",
+            "ipa": "xué xiào",
+            "translation": {"zh": "学校", "en": "school"},
+            "emoji": "🏫"
+          },
+          {
+            "text": "很远",
+            "lemma": "远",
+            "ipa": "hěn yuǎn",
+            "translation": {"zh": "很远", "en": "very far"},
+            "emoji": "🗺️"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "运动",
+    "sentences": [
+      {
+        "text": "我爱运动。",
+        "ipa": "wǒ ài yùn dòng",
+        "translation": {"zh": "我爱运动。", "en": "I love sports."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我爱",
+            "lemma": "爱",
+            "ipa": "wǒ ài",
+            "translation": {"zh": "我爱", "en": "I love"},
+            "emoji": "❤️"
+          },
+          {
+            "text": "运动",
+            "lemma": "运动",
+            "ipa": "yùn dòng",
+            "translation": {"zh": "运动", "en": "sports"},
+            "emoji": "🏃"
+          }
+        ]
+      },
+      {
+        "text": "她每天运动。",
+        "ipa": "tā měi tiān yùn dòng",
+        "translation": {"zh": "她每天都运动。", "en": "She exercises every day."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "她",
+            "lemma": "她",
+            "ipa": "tā",
+            "translation": {"zh": "她", "en": "she"},
+            "emoji": ""
+          },
+          {
+            "text": "每天",
+            "lemma": "每天",
+            "ipa": "měi tiān",
+            "translation": {"zh": "每天", "en": "every day"},
+            "emoji": "📅"
+          },
+          {
+            "text": "运动",
+            "lemma": "运动",
+            "ipa": "yùn dòng",
+            "translation": {"zh": "运动", "en": "exercises"},
+            "emoji": "🏃"
+          }
+        ]
+      },
+      {
+        "text": "运动很好。",
+        "ipa": "yùn dòng hěn hǎo",
+        "translation": {"zh": "运动对身体很好。", "en": "Exercise is great."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "运动",
+            "lemma": "运动",
+            "ipa": "yùn dòng",
+            "translation": {"zh": "运动", "en": "exercise"},
+            "emoji": "🏃"
+          },
+          {
+            "text": "很好",
+            "lemma": "好",
+            "ipa": "hěn hǎo",
+            "translation": {"zh": "很好", "en": "is great"},
+            "emoji": "👍"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "再",
+    "sentences": [
+      {
+        "text": "请再说一次。",
+        "ipa": "qǐng zài shuō yī cì",
+        "translation": {"zh": "请再说一次。", "en": "Please say it again."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "请再说",
+            "lemma": "说",
+            "ipa": "qǐng zài shuō",
+            "translation": {"zh": "请再说", "en": "please say again"},
+            "emoji": "🗣️"
+          },
+          {
+            "text": "一次",
+            "lemma": "次",
+            "ipa": "yī cì",
+            "translation": {"zh": "一次", "en": "once"},
+            "emoji": ""
+          }
+        ]
+      },
+      {
+        "text": "再来一个。",
+        "ipa": "zài lái yī gè",
+        "translation": {"zh": "再给我来一个。", "en": "Give me one more."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "再来",
+            "lemma": "来",
+            "ipa": "zài lái",
+            "translation": {"zh": "再来", "en": "one more"},
+            "emoji": ""
+          },
+          {
+            "text": "一个",
+            "lemma": "个",
+            "ipa": "yī gè",
+            "translation": {"zh": "一个", "en": "one"},
+            "emoji": "1️⃣"
+          }
+        ]
+      },
+      {
+        "text": "再见。",
+        "ipa": "zài jiàn",
+        "translation": {"zh": "再见。", "en": "Goodbye."},
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "再见",
+            "lemma": "再见",
+            "ipa": "zài jiàn",
+            "translation": {"zh": "再见", "en": "goodbye"},
+            "emoji": "👋"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "早上",
+    "sentences": [
+      {
+        "text": "早上好。",
+        "ipa": "zǎo shang hǎo",
+        "translation": {"zh": "早上好。", "en": "Good morning."},
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "早上好",
+            "lemma": "早上",
+            "ipa": "zǎo shang hǎo",
+            "translation": {"zh": "早上好", "en": "good morning"},
+            "emoji": "🌅"
+          }
+        ]
+      },
+      {
+        "text": "我早上跑步。",
+        "ipa": "wǒ zǎo shang pǎo bù",
+        "translation": {"zh": "我早上去跑步。", "en": "I run in the morning."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我",
+            "lemma": "我",
+            "ipa": "wǒ",
+            "translation": {"zh": "我", "en": "I"},
+            "emoji": ""
+          },
+          {
+            "text": "早上",
+            "lemma": "早上",
+            "ipa": "zǎo shang",
+            "translation": {"zh": "早上", "en": "in the morning"},
+            "emoji": "🌅"
+          },
+          {
+            "text": "跑步",
+            "lemma": "跑步",
+            "ipa": "pǎo bù",
+            "translation": {"zh": "跑步", "en": "run"},
+            "emoji": "🏃"
+          }
+        ]
+      },
+      {
+        "text": "早上很冷。",
+        "ipa": "zǎo shang hěn lěng",
+        "translation": {"zh": "早上很冷。", "en": "It's cold in the morning."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "早上",
+            "lemma": "早上",
+            "ipa": "zǎo shang",
+            "translation": {"zh": "早上", "en": "in the morning"},
+            "emoji": "🌅"
+          },
+          {
+            "text": "很冷",
+            "lemma": "冷",
+            "ipa": "hěn lěng",
+            "translation": {"zh": "很冷", "en": "very cold"},
+            "emoji": "🥶"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "丈夫",
+    "sentences": [
+      {
+        "text": "我丈夫很忙。",
+        "ipa": "wǒ zhàng fu hěn máng",
+        "translation": {"zh": "我丈夫很忙。", "en": "My husband is very busy."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我丈夫",
+            "lemma": "丈夫",
+            "ipa": "wǒ zhàng fu",
+            "translation": {"zh": "我丈夫", "en": "my husband"},
+            "emoji": "👨"
+          },
+          {
+            "text": "很忙",
+            "lemma": "忙",
+            "ipa": "hěn máng",
+            "translation": {"zh": "很忙", "en": "very busy"},
+            "emoji": "💼"
+          }
+        ]
+      },
+      {
+        "text": "她丈夫是医生。",
+        "ipa": "tā zhàng fu shì yī shēng",
+        "translation": {"zh": "她丈夫是医生。", "en": "Her husband is a doctor."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "她丈夫",
+            "lemma": "丈夫",
+            "ipa": "tā zhàng fu",
+            "translation": {"zh": "她丈夫", "en": "her husband"},
+            "emoji": "👨"
+          },
+          {
+            "text": "是医生",
+            "lemma": "医生",
+            "ipa": "shì yī shēng",
+            "translation": {"zh": "是医生", "en": "is a doctor"},
+            "emoji": "👨‍⚕️"
+          }
+        ]
+      },
+      {
+        "text": "丈夫回来了。",
+        "ipa": "zhàng fu huí lái le",
+        "translation": {"zh": "丈夫回来了。", "en": "My husband is back."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "丈夫",
+            "lemma": "丈夫",
+            "ipa": "zhàng fu",
+            "translation": {"zh": "丈夫", "en": "husband"},
+            "emoji": "👨"
+          },
+          {
+            "text": "回来了",
+            "lemma": "回来",
+            "ipa": "huí lái le",
+            "translation": {"zh": "回来了", "en": "is back"},
+            "emoji": "🏠"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "找",
+    "sentences": [
+      {
+        "text": "我找不到。",
+        "ipa": "wǒ zhǎo bù dào",
+        "translation": {"zh": "我找不到。", "en": "I can't find it."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我找不到",
+            "lemma": "找",
+            "ipa": "wǒ zhǎo bù dào",
+            "translation": {"zh": "我找不到", "en": "I can't find it"},
+            "emoji": "🔍"
+          }
+        ]
+      },
+      {
+        "text": "你找什么？",
+        "ipa": "nǐ zhǎo shén me",
+        "translation": {"zh": "你在找什么？", "en": "What are you looking for?"},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "你找",
+            "lemma": "找",
+            "ipa": "nǐ zhǎo",
+            "translation": {"zh": "你找", "en": "you look for"},
+            "emoji": "🔍"
+          },
+          {
+            "text": "什么",
+            "lemma": "什么",
+            "ipa": "shén me",
+            "translation": {"zh": "什么", "en": "what"},
+            "emoji": ""
+          }
+        ]
+      },
+      {
+        "text": "我找我的书。",
+        "ipa": "wǒ zhǎo wǒ de shū",
+        "translation": {"zh": "我在找我的书。", "en": "I'm looking for my book."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我找",
+            "lemma": "找",
+            "ipa": "wǒ zhǎo",
+            "translation": {"zh": "我找", "en": "I'm looking for"},
+            "emoji": "🔍"
+          },
+          {
+            "text": "我的书",
+            "lemma": "书",
+            "ipa": "wǒ de shū",
+            "translation": {"zh": "我的书", "en": "my book"},
+            "emoji": "📚"
+          }
+        ]
+      }
+    ]
+  }
+]

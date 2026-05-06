@@ -1,0 +1,46 @@
+[
+  {
+    "text": "It was the best of times, it was the worst of times,",
+    "ipa": "ɪt wɒz ðə bɛst əv taɪmz, ɪt wɒz ðə wɜːst əv taɪmz,",
+    "translation": {"zh": "那是最好的时代，那是最坏的时代，"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "It was the best of times", "lemma": "best", "ipa": "ɪt wɒz ðə bɛst əv taɪmz", "translation": {"zh": "最好的时代"}, "emoji": "🌟"},
+      {"text": "it was the worst of times", "lemma": "worst", "ipa": "ɪt wɒz ðə wɜːst əv taɪmz", "translation": {"zh": "最坏的时代"}, "emoji": "💀"}
+    ],
+    "tags": [{"name": "A Tale of Two Cities", "index": 1}]
+  },
+  {
+    "text": "it was the age of wisdom, it was the age of foolishness,",
+    "ipa": "ɪt wɒz ði eɪdʒ əv ˈwɪzdəm, ɪt wɒz ði eɪdʒ əv ˈfuːlɪʃnəs,",
+    "translation": {"zh": "那是智慧的年代，那是愚蠢的年代，"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "it was the age of wisdom", "lemma": "wisdom", "ipa": "ɪt wɒz ði eɪdʒ əv ˈwɪzdəm", "translation": {"zh": "智慧的年代"}, "emoji": "🦉"},
+      {"text": "it was the age of foolishness", "lemma": "foolishness", "ipa": "ɪt wɒz ði eɪdʒ əv ˈfuːlɪʃnəs", "translation": {"zh": "愚蠢的年代"}, "emoji": "🤪"}
+    ],
+    "tags": [{"name": "A Tale of Two Cities", "index": 2}]
+  },
+  {
+    "text": "it was the epoch of belief, it was the epoch of incredulity,",
+    "ipa": "ɪt wɒz ði ˈiːpɒk əv bɪˈliːf, ɪt wɒz ði ˈiːpɒk əv ˌɪnkɹɪˈdjuːlɪti,",
+    "translation": {"zh": "那是信仰的时期，那是怀疑的时期，"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "it was the epoch of belief", "lemma": "belief", "ipa": "ɪt wɒz ði ˈiːpɒk əv bɪˈliːf", "translation": {"zh": "信仰的时期"}, "emoji": "🙏"},
+      {"text": "it was the epoch of incredulity", "lemma": "incredulity", "ipa": "ɪt wɒz ði ˈiːpɒk əv ˌɪnkɹɪˈdjuːlɪti", "translation": {"zh": "怀疑的时期"}, "emoji": "🤨"}
+    ],
+    "tags": [{"name": "A Tale of Two Cities", "index": 3}]
+  },
+  {
+    "text": "it was the season of Light, it was the season of Darkness.",
+    "ipa": "ɪt wɒz ðə ˈsiːzən əv laɪt, ɪt wɒz ðə ˈsiːzən əv ˈdɑːknəs.",
+    "translation": {"zh": "那是光明的季节，那是黑暗的季节。"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "it was the season of Light", "lemma": "light", "ipa": "ɪt wɒz ðə ˈsiːzən əv laɪt", "translation": {"zh": "光明的季节"}, "emoji": "☀️"},
+      {"text": "it was the season of Darkness", "lemma": "darkness", "ipa": "ɪt wɒz ðə ˈsiːzən əv ˈdɑːknəs", "translation": {"zh": "黑暗的季节"}, "emoji": "🌑"}
+    ],
+    "tags": [{"name": "A Tale of Two Cities", "index": 4}]
+  }
+]

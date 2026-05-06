@@ -1,0 +1,183 @@
+[
+  {
+    "input_text": "模特",
+    "entries": [
+      {"text": "模特", "pinyin": "mó tè", "en": "model", "emoji": "🧍"}
+    ]
+  },
+  {
+    "input_text": "摩托车",
+    "entries": [
+      {"text": "摩托车", "pinyin": "mó tuō chē", "en": "motorcycle", "emoji": "🏍️"}
+    ]
+  },
+  {
+    "input_text": "陌生",
+    "entries": [
+      {"text": "陌生", "pinyin": "mò shēng", "en": "unfamiliar", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "某",
+    "entries": [
+      {"text": "某", "pinyin": "mǒu", "en": "a certain; some", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "木头",
+    "entries": [
+      {"text": "木头", "pinyin": "mù tou", "en": "wood; lumber", "emoji": "🪵"}
+    ]
+  },
+  {
+    "input_text": "目标",
+    "entries": [
+      {"text": "目标", "pinyin": "mù biāo", "en": "goal; target", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_text": "目录",
+    "entries": [
+      {"text": "目录", "pinyin": "mù lù", "en": "catalog; contents", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_text": "目前",
+    "entries": [
+      {"text": "目前", "pinyin": "mù qián", "en": "at present; currently", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "哪怕",
+    "entries": [
+      {"text": "哪怕", "pinyin": "nǎ pà", "en": "even if", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "难怪",
+    "entries": [
+      {"text": "难怪", "pinyin": "nán guài", "en": "no wonder", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "难免",
+    "entries": [
+      {"text": "难免", "pinyin": "nán miǎn", "en": "unavoidable", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "脑袋",
+    "entries": [
+      {"text": "脑袋", "pinyin": "nǎo dài", "en": "head; brain", "emoji": "🧠"}
+    ]
+  },
+  {
+    "input_text": "内部",
+    "entries": [
+      {"text": "内部", "pinyin": "nèi bù", "en": "interior; internal", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "内科",
+    "entries": [
+      {"text": "内科", "pinyin": "nèi kē", "en": "internal medicine", "emoji": "🏥"}
+    ]
+  },
+  {
+    "input_text": "嫩",
+    "entries": [
+      {"text": "嫩", "pinyin": "nèn", "en": "tender; young", "emoji": "🌱"}
+    ]
+  },
+  {
+    "input_text": "能干",
+    "entries": [
+      {"text": "能干", "pinyin": "néng gàn", "en": "capable; competent", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "能源",
+    "entries": [
+      {"text": "能源", "pinyin": "néng yuán", "en": "energy source", "emoji": "⚡"}
+    ]
+  },
+  {
+    "input_text": "嗯",
+    "entries": [
+      {"text": "嗯", "pinyin": "ń", "en": "mm; uh-huh", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "年代",
+    "entries": [
+      {"text": "年代", "pinyin": "nián dài", "en": "era; decade", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "年纪",
+    "entries": [
+      {"text": "年纪", "pinyin": "nián jì", "en": "age", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "念",
+    "entries": [
+      {"text": "念", "pinyin": "niàn", "en": "read aloud", "emoji": "📖"},
+      {"text": "念", "pinyin": "niàn", "en": "miss; think of", "emoji": "💭"}
+    ]
+  },
+  {
+    "input_text": "宁可",
+    "entries": [
+      {"text": "宁可", "pinyin": "nìng kě", "en": "would rather", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "牛仔裤",
+    "entries": [
+      {"text": "牛仔裤", "pinyin": "niú zǎi kù", "en": "jeans", "emoji": "👖"}
+    ]
+  },
+  {
+    "input_text": "农村",
+    "entries": [
+      {"text": "农村", "pinyin": "nóng cūn", "en": "countryside; rural area", "emoji": "🌾"}
+    ]
+  },
+  {
+    "input_text": "农民",
+    "entries": [
+      {"text": "农民", "pinyin": "nóng mín", "en": "farmer; peasant", "emoji": "👨‍🌾"}
+    ]
+  },
+  {
+    "input_text": "农业",
+    "entries": [
+      {"text": "农业", "pinyin": "nóng yè", "en": "agriculture", "emoji": "🌾"}
+    ]
+  },
+  {
+    "input_text": "浓",
+    "entries": [
+      {"text": "浓", "pinyin": "nóng", "en": "thick; strong; dense", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "女士",
+    "entries": [
+      {"text": "女士", "pinyin": "nǚ shì", "en": "lady; Ms.", "emoji": "👩"}
+    ]
+  },
+  {
+    "input_text": "欧洲",
+    "entries": [
+      {"text": "欧洲", "pinyin": "ōu zhōu", "en": "Europe", "emoji": "🇪🇺"}
+    ]
+  },
+  {
+    "input_text": "偶然",
+    "entries": [
+      {"text": "偶然", "pinyin": "ǒu rán", "en": "by chance; accidental", "emoji": ""}
+    ]
+  }
+]

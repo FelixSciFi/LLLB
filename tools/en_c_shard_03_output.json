@@ -1,0 +1,411 @@
+[
+  {
+    "input_word": "circumstance",
+    "entries": [
+      {
+        "text": "circumstance",
+        "ipa": "/ˈsɜːrkəmstæns/",
+        "cefr": "B2",
+        "zh": "情况",
+        "emoji": "🔍"
+      }
+    ]
+  },
+  {
+    "input_word": "cite",
+    "entries": [
+      {
+        "text": "cite",
+        "ipa": "/saɪt/",
+        "cefr": "B2",
+        "zh": "引用",
+        "emoji": "📖"
+      }
+    ]
+  },
+  {
+    "input_word": "citizen",
+    "entries": [
+      {
+        "text": "citizen",
+        "ipa": "/ˈsɪtɪzən/",
+        "cefr": "B2",
+        "zh": "公民",
+        "emoji": "🪪"
+      }
+    ]
+  },
+  {
+    "input_word": "city",
+    "entries": [
+      {
+        "text": "city",
+        "ipa": "/ˈsɪti/",
+        "cefr": "A1",
+        "zh": "城市",
+        "emoji": "🏙️"
+      }
+    ]
+  },
+  {
+    "input_word": "civil",
+    "entries": [
+      {
+        "text": "civil",
+        "ipa": "/ˈsɪvəl/",
+        "cefr": "B2",
+        "zh": "民事的",
+        "emoji": "⚖️"
+      }
+    ]
+  },
+  {
+    "input_word": "claim",
+    "entries": [
+      {
+        "text": "claim",
+        "ipa": "/kleɪm/",
+        "cefr": "B1",
+        "zh": "声称",
+        "emoji": "📣"
+      },
+      {
+        "text": "claim",
+        "ipa": "/kleɪm/",
+        "cefr": "B1",
+        "zh": "索赔",
+        "emoji": "📋"
+      }
+    ]
+  },
+  {
+    "input_word": "class",
+    "entries": [
+      {
+        "text": "class",
+        "ipa": "/klæs/",
+        "cefr": "A1",
+        "zh": "课堂",
+        "emoji": "🏫"
+      },
+      {
+        "text": "class",
+        "ipa": "/klæs/",
+        "cefr": "A1",
+        "zh": "阶级",
+        "emoji": "👥"
+      }
+    ]
+  },
+  {
+    "input_word": "classic",
+    "entries": [
+      {
+        "text": "classic",
+        "ipa": "/ˈklæsɪk/",
+        "cefr": "B2",
+        "zh": "经典",
+        "emoji": "🏛️"
+      }
+    ]
+  },
+  {
+    "input_word": "classical",
+    "entries": [
+      {
+        "text": "classical",
+        "ipa": "/ˈklæsɪkəl/",
+        "cefr": "A2",
+        "zh": "古典的",
+        "emoji": "🎼"
+      }
+    ]
+  },
+  {
+    "input_word": "classroom",
+    "entries": [
+      {
+        "text": "classroom",
+        "ipa": "/ˈklæsruːm/",
+        "cefr": "A1",
+        "zh": "教室",
+        "emoji": "🏫"
+      }
+    ]
+  },
+  {
+    "input_word": "clause",
+    "entries": [
+      {
+        "text": "clause",
+        "ipa": "/klɔːz/",
+        "cefr": "B1",
+        "zh": "条款",
+        "emoji": "📜"
+      },
+      {
+        "text": "clause",
+        "ipa": "/klɔːz/",
+        "cefr": "B1",
+        "zh": "从句",
+        "emoji": "✍️"
+      }
+    ]
+  },
+  {
+    "input_word": "clean",
+    "entries": [
+      {
+        "text": "clean",
+        "ipa": "/kliːn/",
+        "cefr": "A1",
+        "zh": "干净的",
+        "emoji": "✨"
+      },
+      {
+        "text": "clean",
+        "ipa": "/kliːn/",
+        "cefr": "A1",
+        "zh": "打扫",
+        "emoji": "🧹"
+      }
+    ]
+  },
+  {
+    "input_word": "clear",
+    "entries": [
+      {
+        "text": "clear",
+        "ipa": "/klɪr/",
+        "cefr": "A2",
+        "zh": "清楚的",
+        "emoji": "💡"
+      },
+      {
+        "text": "clear",
+        "ipa": "/klɪr/",
+        "cefr": "A2",
+        "zh": "清除",
+        "emoji": "🗑️"
+      }
+    ]
+  },
+  {
+    "input_word": "clearly",
+    "entries": [
+      {
+        "text": "clearly",
+        "ipa": "/ˈklɪrli/",
+        "cefr": "A2",
+        "zh": "清楚地",
+        "emoji": "💡"
+      }
+    ]
+  },
+  {
+    "input_word": "clever",
+    "entries": [
+      {
+        "text": "clever",
+        "ipa": "/ˈklɛvər/",
+        "cefr": "A2",
+        "zh": "聪明的",
+        "emoji": "🧠"
+      }
+    ]
+  },
+  {
+    "input_word": "click",
+    "entries": [
+      {
+        "text": "click",
+        "ipa": "/klɪk/",
+        "cefr": "B1",
+        "zh": "点击",
+        "emoji": "🖱️"
+      }
+    ]
+  },
+  {
+    "input_word": "client",
+    "entries": [
+      {
+        "text": "client",
+        "ipa": "/ˈklaɪənt/",
+        "cefr": "B1",
+        "zh": "客户",
+        "emoji": "🤝"
+      }
+    ]
+  },
+  {
+    "input_word": "climate",
+    "entries": [
+      {
+        "text": "climate",
+        "ipa": "/ˈklaɪmɪt/",
+        "cefr": "A2",
+        "zh": "气候",
+        "emoji": "🌍"
+      }
+    ]
+  },
+  {
+    "input_word": "climb",
+    "entries": [
+      {
+        "text": "climb",
+        "ipa": "/klaɪm/",
+        "cefr": "A1",
+        "zh": "攀爬",
+        "emoji": "🧗"
+      }
+    ]
+  },
+  {
+    "input_word": "clock",
+    "entries": [
+      {
+        "text": "clock",
+        "ipa": "/klɑːk/",
+        "cefr": "A1",
+        "zh": "时钟",
+        "emoji": "🕐"
+      }
+    ]
+  },
+  {
+    "input_word": "close",
+    "entries": [
+      {
+        "text": "close",
+        "ipa": "/kloʊz/",
+        "cefr": "A1",
+        "zh": "关闭",
+        "emoji": "🚪"
+      },
+      {
+        "text": "close",
+        "ipa": "/kloʊs/",
+        "cefr": "A1",
+        "zh": "近的",
+        "emoji": "📍"
+      }
+    ]
+  },
+  {
+    "input_word": "closed",
+    "entries": [
+      {
+        "text": "closed",
+        "ipa": "/kloʊzd/",
+        "cefr": "A2",
+        "zh": "关闭的",
+        "emoji": "🔒"
+      }
+    ]
+  },
+  {
+    "input_word": "closely",
+    "entries": [
+      {
+        "text": "closely",
+        "ipa": "/ˈkloʊsli/",
+        "cefr": "B2",
+        "zh": "密切地",
+        "emoji": "🔎"
+      }
+    ]
+  },
+  {
+    "input_word": "cloth",
+    "entries": [
+      {
+        "text": "cloth",
+        "ipa": "/klɔːθ/",
+        "cefr": "B1",
+        "zh": "布料",
+        "emoji": "🧵"
+      }
+    ]
+  },
+  {
+    "input_word": "clothes",
+    "entries": [
+      {
+        "text": "clothes",
+        "ipa": "/kloʊðz/",
+        "cefr": "A1",
+        "zh": "衣服",
+        "emoji": "👕"
+      }
+    ]
+  },
+  {
+    "input_word": "clothing",
+    "entries": [
+      {
+        "text": "clothing",
+        "ipa": "/ˈkloʊðɪŋ/",
+        "cefr": "A2",
+        "zh": "服装",
+        "emoji": "👔"
+      }
+    ]
+  },
+  {
+    "input_word": "cloud",
+    "entries": [
+      {
+        "text": "cloud",
+        "ipa": "/klaʊd/",
+        "cefr": "A2",
+        "zh": "云",
+        "emoji": "☁️"
+      }
+    ]
+  },
+  {
+    "input_word": "club",
+    "entries": [
+      {
+        "text": "club",
+        "ipa": "/klʌb/",
+        "cefr": "A1",
+        "zh": "俱乐部",
+        "emoji": "🎪"
+      }
+    ]
+  },
+  {
+    "input_word": "clue",
+    "entries": [
+      {
+        "text": "clue",
+        "ipa": "/kluː/",
+        "cefr": "B1",
+        "zh": "线索",
+        "emoji": "🔍"
+      }
+    ]
+  },
+  {
+    "input_word": "coach",
+    "entries": [
+      {
+        "text": "coach",
+        "ipa": "/koʊtʃ/",
+        "cefr": "A2",
+        "zh": "教练",
+        "emoji": "🏋️"
+      },
+      {
+        "text": "coach",
+        "ipa": "/koʊtʃ/",
+        "cefr": "A2",
+        "zh": "长途客车",
+        "emoji": "🚌"
+      }
+    ]
+  }
+]

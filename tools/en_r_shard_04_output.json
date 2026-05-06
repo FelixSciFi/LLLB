@@ -1,0 +1,189 @@
+[
+  {
+    "input_word": "revolution",
+    "entries": [
+      {"text": "revolution", "ipa": "/ˌrɛvəˈluːʃən/", "cefr": "B2", "zh": "革命", "emoji": "✊"}
+    ]
+  },
+  {
+    "input_word": "reward",
+    "entries": [
+      {"text": "reward", "ipa": "/rɪˈwɔːrd/", "cefr": "B2", "zh": "奖励", "emoji": "🏆"}
+    ]
+  },
+  {
+    "input_word": "rhythm",
+    "entries": [
+      {"text": "rhythm", "ipa": "/ˈrɪðəm/", "cefr": "B2", "zh": "节奏", "emoji": "🎵"}
+    ]
+  },
+  {
+    "input_word": "rice",
+    "entries": [
+      {"text": "rice", "ipa": "/raɪs/", "cefr": "A1", "zh": "米饭", "emoji": "🍚"}
+    ]
+  },
+  {
+    "input_word": "rich",
+    "entries": [
+      {"text": "rich", "ipa": "/rɪtʃ/", "cefr": "A1", "zh": "富有的", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_word": "rid",
+    "entries": [
+      {"text": "rid", "ipa": "/rɪd/", "cefr": "B2", "zh": "摆脱", "emoji": "🚫"}
+    ]
+  },
+  {
+    "input_word": "ride",
+    "entries": [
+      {"text": "ride", "ipa": "/raɪd/", "cefr": "A1", "zh": "骑；乘坐", "emoji": "🚲"}
+    ]
+  },
+  {
+    "input_word": "right",
+    "entries": [
+      {"text": "right", "ipa": "/raɪt/", "cefr": "A1", "zh": "正确的", "emoji": "✅"},
+      {"text": "right", "ipa": "/raɪt/", "cefr": "A1", "zh": "右边", "emoji": "➡️"},
+      {"text": "right", "ipa": "/raɪt/", "cefr": "A1", "zh": "权利", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "ring",
+    "entries": [
+      {"text": "ring", "ipa": "/rɪŋ/", "cefr": "A2", "zh": "戒指", "emoji": "💍"},
+      {"text": "ring", "ipa": "/rɪŋ/", "cefr": "A2", "zh": "铃声；响铃", "emoji": "🔔"}
+    ]
+  },
+  {
+    "input_word": "rise",
+    "entries": [
+      {"text": "rise", "ipa": "/raɪz/", "cefr": "A2", "zh": "上升；增加", "emoji": "📈"}
+    ]
+  },
+  {
+    "input_word": "risk",
+    "entries": [
+      {"text": "risk", "ipa": "/rɪsk/", "cefr": "B1", "zh": "风险", "emoji": "⚠️"}
+    ]
+  },
+  {
+    "input_word": "river",
+    "entries": [
+      {"text": "river", "ipa": "/ˈrɪvər/", "cefr": "A1", "zh": "河流", "emoji": "🏞️"}
+    ]
+  },
+  {
+    "input_word": "road",
+    "entries": [
+      {"text": "road", "ipa": "/roʊd/", "cefr": "A1", "zh": "道路", "emoji": "🛣️"}
+    ]
+  },
+  {
+    "input_word": "robot",
+    "entries": [
+      {"text": "robot", "ipa": "/ˈroʊbɑːt/", "cefr": "B1", "zh": "机器人", "emoji": "🤖"}
+    ]
+  },
+  {
+    "input_word": "rock",
+    "entries": [
+      {"text": "rock", "ipa": "/rɑːk/", "cefr": "A2", "zh": "岩石", "emoji": "🪨"},
+      {"text": "rock", "ipa": "/rɑːk/", "cefr": "A2", "zh": "摇滚乐", "emoji": "🎸"}
+    ]
+  },
+  {
+    "input_word": "role",
+    "entries": [
+      {"text": "role", "ipa": "/roʊl/", "cefr": "A2", "zh": "角色；职责", "emoji": "🎭"}
+    ]
+  },
+  {
+    "input_word": "roll",
+    "entries": [
+      {"text": "roll", "ipa": "/roʊl/", "cefr": "B1", "zh": "滚动；卷", "emoji": "🎲"}
+    ]
+  },
+  {
+    "input_word": "romantic",
+    "entries": [
+      {"text": "romantic", "ipa": "/roʊˈmæntɪk/", "cefr": "B1", "zh": "浪漫的", "emoji": "💑"}
+    ]
+  },
+  {
+    "input_word": "roof",
+    "entries": [
+      {"text": "roof", "ipa": "/ruːf/", "cefr": "A2", "zh": "屋顶", "emoji": "🏠"}
+    ]
+  },
+  {
+    "input_word": "room",
+    "entries": [
+      {"text": "room", "ipa": "/ruːm/", "cefr": "A1", "zh": "房间", "emoji": "🚪"},
+      {"text": "room", "ipa": "/ruːm/", "cefr": "A1", "zh": "空间", "emoji": "📐"}
+    ]
+  },
+  {
+    "input_word": "root",
+    "entries": [
+      {"text": "root", "ipa": "/ruːt/", "cefr": "B2", "zh": "根；根源", "emoji": "🌱"}
+    ]
+  },
+  {
+    "input_word": "rope",
+    "entries": [
+      {"text": "rope", "ipa": "/roʊp/", "cefr": "B1", "zh": "绳子", "emoji": "🪢"}
+    ]
+  },
+  {
+    "input_word": "rough",
+    "entries": [
+      {"text": "rough", "ipa": "/rʌf/", "cefr": "B1", "zh": "粗糙的", "emoji": "🪨"}
+    ]
+  },
+  {
+    "input_word": "round",
+    "entries": [
+      {"text": "round", "ipa": "/raʊnd/", "cefr": "A2", "zh": "圆形的", "emoji": "⭕"},
+      {"text": "round", "ipa": "/raʊnd/", "cefr": "A2", "zh": "一轮；一圈", "emoji": "🔄"}
+    ]
+  },
+  {
+    "input_word": "route",
+    "entries": [
+      {"text": "route", "ipa": "/ruːt/", "cefr": "A2", "zh": "路线", "emoji": "🗺️"}
+    ]
+  },
+  {
+    "input_word": "routine",
+    "entries": [
+      {"text": "routine", "ipa": "/ruːˈtiːn/", "cefr": "A1", "zh": "例行程序", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_word": "row",
+    "entries": [
+      {"text": "row", "ipa": "/roʊ/", "cefr": "B1", "zh": "一排；行", "emoji": "📋"},
+      {"text": "row", "ipa": "/roʊ/", "cefr": "B1", "zh": "划船", "emoji": "🚣"}
+    ]
+  },
+  {
+    "input_word": "royal",
+    "entries": [
+      {"text": "royal", "ipa": "/ˈrɔɪəl/", "cefr": "B1", "zh": "皇家的", "emoji": "👑"}
+    ]
+  },
+  {
+    "input_word": "rub",
+    "entries": [
+      {"text": "rub", "ipa": "/rʌb/", "cefr": "B2", "zh": "摩擦；揉搓", "emoji": "🤲"}
+    ]
+  },
+  {
+    "input_word": "rubber",
+    "entries": [
+      {"text": "rubber", "ipa": "/ˈrʌbər/", "cefr": "B2", "zh": "橡胶；橡皮", "emoji": "🧤"}
+    ]
+  }
+]

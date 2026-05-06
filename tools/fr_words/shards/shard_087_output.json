@@ -1,0 +1,272 @@
+[
+  {
+    "text": "expédier un colis",
+    "ipa": "ɛkspedjeɛ̃ kɔli",
+    "translation": {"zh": "寄送一个包裹", "en": "send a parcel"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "expédier un colis", "lemma": "expédier", "ipa": "ɛkspedje œ̃ kɔli", "translation": {"zh": "寄包裹", "en": "send a parcel"}, "emoji": "📦"}
+    ]
+  },
+  {
+    "text": "un exemplaire gratuit",
+    "ipa": "œ̃ ɛɡzɑ̃plɛʁ ɡʁatɥi",
+    "translation": {"zh": "一本免费样本", "en": "a free copy"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un exemplaire gratuit", "lemma": "exemplaire", "ipa": "œ̃ ɛɡzɑ̃plɛʁ ɡʁatɥi", "translation": {"zh": "免费样本", "en": "free copy"}, "emoji": "📄"}
+    ]
+  },
+  {
+    "text": "une diminution des prix",
+    "ipa": "yn diminysj ɔ̃ de pʁi",
+    "translation": {"zh": "价格下降", "en": "a decrease in prices"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une diminution des prix", "lemma": "diminution", "ipa": "yn diminɥsjɔ̃ de pʁi", "translation": {"zh": "价格下降", "en": "decrease in prices"}, "emoji": "📉"}
+    ]
+  },
+  {
+    "text": "une réforme importante",
+    "ipa": "yn ʁefɔʁm ɛ̃pɔʁtɑ̃t",
+    "translation": {"zh": "一项重要改革", "en": "an important reform"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une réforme importante", "lemma": "réforme", "ipa": "yn ʁefɔʁm ɛ̃pɔʁtɑ̃t", "translation": {"zh": "重要改革", "en": "important reform"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "c'est une injustice",
+    "ipa": "se yn ɛ̃ʒystis",
+    "translation": {"zh": "这是一种不公正", "en": "it's an injustice"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est une injustice", "lemma": "injustice", "ipa": "se yn ɛ̃ʒystis", "translation": {"zh": "是不公正", "en": "it's an injustice"}, "emoji": "😤"}
+    ]
+  },
+  {
+    "text": "son conjoint",
+    "ipa": "sɔ̃ kɔ̃ʒwɛ̃",
+    "translation": {"zh": "他的配偶", "en": "their spouse"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "son conjoint", "lemma": "conjoint", "ipa": "sɔ̃ kɔ̃ʒwɛ̃", "translation": {"zh": "配偶", "en": "spouse"}, "emoji": "💑"}
+    ]
+  },
+  {
+    "text": "une campagne électorale",
+    "ipa": "yn kɑ̃paɲ elektɔʁal",
+    "translation": {"zh": "一场选举运动", "en": "an electoral campaign"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une campagne électorale", "lemma": "électoral", "ipa": "yn kɑ̃paɲ elektɔʁal", "translation": {"zh": "选举运动", "en": "electoral campaign"}, "emoji": "🗳️"}
+    ]
+  },
+  {
+    "text": "la gratuité des transports",
+    "ipa": "la ɡʁatɥite de tʁɑ̃spɔʁ",
+    "translation": {"zh": "交通免费", "en": "free public transport"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la gratuité des transports", "lemma": "gratuité", "ipa": "la ɡʁatɥite de tʁɑ̃spɔʁ", "translation": {"zh": "交通免费", "en": "free transport"}, "emoji": "🚌"}
+    ]
+  },
+  {
+    "text": "travailler en pair",
+    "ipa": "tʁavaje ɑ̃ pɛʁ",
+    "translation": {"zh": "结对工作", "en": "work in pairs"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "travailler en pair", "lemma": "travailler", "ipa": "tʁavaje ɑ̃ pɛʁ", "translation": {"zh": "结对工作", "en": "work in pairs"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "un projet ambitieux",
+    "ipa": "œ̃ pʁɔʒɛ ɑ̃bisjø",
+    "translation": {"zh": "一个雄心勃勃的项目", "en": "an ambitious project"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un projet ambitieux", "lemma": "ambitieux", "ipa": "œ̃ pʁɔʒɛ ɑ̃bisjø", "translation": {"zh": "雄心勃勃的项目", "en": "ambitious project"}, "emoji": "🚀"}
+    ]
+  },
+  {
+    "text": "un technicien expérimenté",
+    "ipa": "œ̃ tɛknisjɛ̃ ɛkspɛʁimɑ̃te",
+    "translation": {"zh": "一位经验丰富的技术员", "en": "an experienced technician"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un technicien expérimenté", "lemma": "technicien", "ipa": "œ̃ tɛknisjɛ̃ ɛkspɛʁimɑ̃te", "translation": {"zh": "经验丰富的技术员", "en": "experienced technician"}, "emoji": "🔧"}
+    ]
+  },
+  {
+    "text": "au bord de l'abîme",
+    "ipa": "o bɔʁ də labim",
+    "translation": {"zh": "在深渊边缘", "en": "on the edge of the abyss"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "au bord de l'abîme", "lemma": "abîme", "ipa": "o bɔʁ də labim", "translation": {"zh": "深渊边缘", "en": "edge of the abyss"}, "emoji": "🕳️"}
+    ]
+  },
+  {
+    "text": "c'est ennuyeux",
+    "ipa": "se ɑ̃nɥijø",
+    "translation": {"zh": "这很无聊", "en": "it's boring"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "c'est ennuyeux", "lemma": "ennuyeux", "ipa": "se ɑ̃nɥijø", "translation": {"zh": "很无聊", "en": "it's boring"}, "emoji": "😒"}
+    ]
+  },
+  {
+    "text": "le sida",
+    "ipa": "lə sida",
+    "translation": {"zh": "艾滋病", "en": "AIDS"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le sida", "lemma": "sida", "ipa": "lə sida", "translation": {"zh": "艾滋病", "en": "AIDS"}, "emoji": "🎗️"}
+    ]
+  },
+  {
+    "text": "un accueil chaleureux",
+    "ipa": "œ̃ akœj ʃaløʁø",
+    "translation": {"zh": "热情的接待", "en": "a warm welcome"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un accueil chaleureux", "lemma": "chaleureux", "ipa": "œ̃ akœj ʃaløʁø", "translation": {"zh": "热情接待", "en": "warm welcome"}, "emoji": "🤗"}
+    ]
+  },
+  {
+    "text": "se coiffer",
+    "ipa": "sə kwafe",
+    "translation": {"zh": "梳头", "en": "do one's hair"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "se coiffer", "lemma": "coiffer", "ipa": "sə kwafe", "translation": {"zh": "梳头", "en": "do one's hair"}, "emoji": "💇"}
+    ]
+  },
+  {
+    "text": "le canal du Panama",
+    "ipa": "lə kanal dy panama",
+    "translation": {"zh": "巴拿马运河", "en": "the Panama Canal"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le canal du Panama", "lemma": "canal", "ipa": "lə kanal dy panama", "translation": {"zh": "巴拿马运河", "en": "Panama Canal"}, "emoji": "🚢"}
+    ]
+  },
+  {
+    "text": "ses époux",
+    "ipa": "se zepu",
+    "translation": {"zh": "夫妻", "en": "married couple"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ses époux", "lemma": "époux", "ipa": "se zepu", "translation": {"zh": "夫妻", "en": "married couple"}, "emoji": "💍"}
+    ]
+  },
+  {
+    "text": "un espion dangereux",
+    "ipa": "œ̃ nɛspjɔ̃ dɑ̃ʒəʁø",
+    "translation": {"zh": "一个危险的间谍", "en": "a dangerous spy"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un espion dangereux", "lemma": "espion", "ipa": "œ̃ nɛspjɔ̃ dɑ̃ʒəʁø", "translation": {"zh": "危险间谍", "en": "dangerous spy"}, "emoji": "🕵️"}
+    ]
+  },
+  {
+    "text": "instituer une règle",
+    "ipa": "ɛ̃stitɥe yn ʁɛɡl",
+    "translation": {"zh": "制定一条规则", "en": "establish a rule"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "instituer une règle", "lemma": "instituer", "ipa": "ɛ̃stitɥe yn ʁɛɡl", "translation": {"zh": "制定规则", "en": "establish a rule"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "selon les prévisions",
+    "ipa": "səlɔ̃ le pʁevizjɔ̃",
+    "translation": {"zh": "根据预测", "en": "according to forecasts"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "selon les prévisions", "lemma": "prévision", "ipa": "səlɔ̃ le pʁevizjɔ̃", "translation": {"zh": "根据预测", "en": "according to forecasts"}, "emoji": "🔮"}
+    ]
+  },
+  {
+    "text": "un tableau interactif",
+    "ipa": "œ̃ tablo ɛ̃tɛʁaktif",
+    "translation": {"zh": "一块互动白板", "en": "an interactive board"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un tableau interactif", "lemma": "interactif", "ipa": "œ̃ tablo ɛ̃tɛʁaktif", "translation": {"zh": "互动白板", "en": "interactive board"}, "emoji": "🖥️"}
+    ]
+  },
+  {
+    "text": "faire écho",
+    "ipa": "fɛʁ eko",
+    "translation": {"zh": "产生回响", "en": "resonate"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "faire écho", "lemma": "écho", "ipa": "fɛʁ eko", "translation": {"zh": "产生回响", "en": "resonate"}, "emoji": "🔊"}
+    ]
+  },
+  {
+    "text": "chez ma mamie",
+    "ipa": "ʃe ma mami",
+    "translation": {"zh": "在我奶奶家", "en": "at my grandma's"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "chez ma mamie", "lemma": "mamie", "ipa": "ʃe ma mami", "translation": {"zh": "奶奶家", "en": "grandma's place"}, "emoji": "👵"}
+    ]
+  },
+  {
+    "text": "raconter une anecdote",
+    "ipa": "ʁakɔ̃te yn anɛkdɔt",
+    "translation": {"zh": "讲一个趣闻", "en": "tell an anecdote"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "raconter une anecdote", "lemma": "raconter", "ipa": "ʁakɔ̃te yn anɛkdɔt", "translation": {"zh": "讲趣闻", "en": "tell an anecdote"}, "emoji": "💬"}
+    ]
+  },
+  {
+    "text": "courber la tête",
+    "ipa": "kuʁbe la tɛt",
+    "translation": {"zh": "低下头", "en": "bow one's head"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "courber la tête", "lemma": "courber", "ipa": "kuʁbe la tɛt", "translation": {"zh": "低头", "en": "bow one's head"}, "emoji": "🙇"}
+    ]
+  },
+  {
+    "text": "une corrida spectaculaire",
+    "ipa": "yn kɔʁida spɛktakylɛʁ",
+    "translation": {"zh": "一场精彩的斗牛", "en": "a spectacular bullfight"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une corrida spectaculaire", "lemma": "corrida", "ipa": "yn kɔʁida spɛktakylɛʁ", "translation": {"zh": "精彩斗牛", "en": "spectacular bullfight"}, "emoji": "🐂"}
+    ]
+  },
+  {
+    "text": "un esprit créatif",
+    "ipa": "œ̃ nɛspʁi kʁeatif",
+    "translation": {"zh": "一个富有创意的思维", "en": "a creative mind"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un esprit créatif", "lemma": "créatif", "ipa": "œ̃ nɛspʁi kʁeatif", "translation": {"zh": "创意思维", "en": "creative mind"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "une réalité virtuelle",
+    "ipa": "yn ʁealite viʁtɥɛl",
+    "translation": {"zh": "虚拟现实", "en": "virtual reality"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une réalité virtuelle", "lemma": "virtuel", "ipa": "yn ʁealite viʁtɥɛl", "translation": {"zh": "虚拟现实", "en": "virtual reality"}, "emoji": "🥽"}
+    ]
+  },
+  {
+    "text": "entreprendre un voyage",
+    "ipa": "ɑ̃tʁəpʁɑ̃dʁ œ̃ vwajaʒ",
+    "translation": {"zh": "开始一段旅途", "en": "undertake a journey"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "entreprendre un voyage", "lemma": "entreprendre", "ipa": "ɑ̃tʁəpʁɑ̃dʁ œ̃ vwajaʒ", "translation": {"zh": "踏上旅途", "en": "undertake a journey"}, "emoji": "✈️"}
+    ]
+  }
+]

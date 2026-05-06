@@ -1,0 +1,285 @@
+[
+  {
+    "text": "la dépendance",
+    "ipa": "la depɑ̃dɑ̃s",
+    "translation": {"zh": "依赖", "en": "dependence"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la dépendance", "lemma": "dépendance", "ipa": "la depɑ̃dɑ̃s", "translation": {"zh": "依赖", "en": "dependence"}, "emoji": "🔗"}
+    ]
+  },
+  {
+    "text": "la souffrance",
+    "ipa": "la sufʁɑ̃s",
+    "translation": {"zh": "痛苦", "en": "suffering"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la souffrance", "lemma": "souffrance", "ipa": "la sufʁɑ̃s", "translation": {"zh": "痛苦", "en": "suffering"}, "emoji": "😔"}
+    ]
+  },
+  {
+    "text": "la farine",
+    "ipa": "la faʁin",
+    "translation": {"zh": "面粉", "en": "flour"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la farine", "lemma": "farine", "ipa": "la faʁin", "translation": {"zh": "面粉", "en": "flour"}, "emoji": "🌾"}
+    ]
+  },
+  {
+    "text": "les villes croissent",
+    "ipa": "le vil kʁwas",
+    "translation": {"zh": "城市在增长", "en": "cities grow"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "les villes", "lemma": "ville", "ipa": "le vil", "translation": {"zh": "城市们", "en": "the cities"}, "emoji": "🏙️"},
+      {"text": "croissent", "lemma": "croître", "ipa": "kʁwas", "translation": {"zh": "增长", "en": "grow"}, "emoji": "📈"}
+    ]
+  },
+  {
+    "text": "il est ponctuel",
+    "ipa": "il ɛ pɔ̃ktɥɛl",
+    "translation": {"zh": "他很准时", "en": "he is punctual"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "il est ponctuel", "lemma": "être", "ipa": "il ɛ pɔ̃ktɥɛl", "translation": {"zh": "他很准时", "en": "he is punctual"}, "emoji": "⏰"}
+    ]
+  },
+  {
+    "text": "la majesté",
+    "ipa": "la maʒɛste",
+    "translation": {"zh": "威严", "en": "majesty"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la majesté", "lemma": "majesté", "ipa": "la maʒɛste", "translation": {"zh": "威严", "en": "majesty"}, "emoji": "👑"}
+    ]
+  },
+  {
+    "text": "la montée des prix",
+    "ipa": "la mɔ̃te de pʁi",
+    "translation": {"zh": "价格上涨", "en": "the rise in prices"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la montée", "lemma": "montée", "ipa": "la mɔ̃te", "translation": {"zh": "上涨", "en": "the rise"}, "emoji": "📈"},
+      {"text": "des prix", "lemma": "prix", "ipa": "de pʁi", "translation": {"zh": "价格", "en": "of prices"}, "emoji": "💰"}
+    ]
+  },
+  {
+    "text": "le serpent",
+    "ipa": "lə sɛʁpɑ̃",
+    "translation": {"zh": "蛇", "en": "snake"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le serpent", "lemma": "serpent", "ipa": "lə sɛʁpɑ̃", "translation": {"zh": "蛇", "en": "snake"}, "emoji": "🐍"}
+    ]
+  },
+  {
+    "text": "c'est clair",
+    "ipa": "sɛ klɛʁ",
+    "translation": {"zh": "很清楚", "en": "it's clear"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "c'est clair", "lemma": "clair", "ipa": "sɛ klɛʁ", "translation": {"zh": "很清楚", "en": "it's clear"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "un solo de guitare",
+    "ipa": "œ̃ solo də ɡitaʁ",
+    "translation": {"zh": "吉他独奏", "en": "a guitar solo"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un solo", "lemma": "solo", "ipa": "œ̃ solo", "translation": {"zh": "独奏", "en": "a solo"}, "emoji": "🎸"},
+      {"text": "de guitare", "lemma": "guitare", "ipa": "də ɡitaʁ", "translation": {"zh": "吉他的", "en": "of guitar"}, "emoji": "🎸"}
+    ]
+  },
+  {
+    "text": "jouer de la guitare",
+    "ipa": "ʒwe də la ɡitaʁ",
+    "translation": {"zh": "弹吉他", "en": "to play guitar"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "jouer de la guitare", "lemma": "jouer", "ipa": "ʒwe də la ɡitaʁ", "translation": {"zh": "弹吉他", "en": "play guitar"}, "emoji": "🎸"}
+    ]
+  },
+  {
+    "text": "le buffet",
+    "ipa": "lə byfɛ",
+    "translation": {"zh": "自助餐台", "en": "buffet"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le buffet", "lemma": "buffet", "ipa": "lə byfɛ", "translation": {"zh": "自助餐台", "en": "buffet"}, "emoji": "🍽️"}
+    ]
+  },
+  {
+    "text": "le financement",
+    "ipa": "lə finɑ̃smɑ̃",
+    "translation": {"zh": "资金筹措", "en": "financing"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le financement", "lemma": "financement", "ipa": "lə finɑ̃smɑ̃", "translation": {"zh": "资金筹措", "en": "financing"}, "emoji": "💼"}
+    ]
+  },
+  {
+    "text": "il reste indifférent",
+    "ipa": "il ʁɛst ɛ̃difeʁɑ̃",
+    "translation": {"zh": "他无动于衷", "en": "he remains indifferent"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il reste", "lemma": "rester", "ipa": "il ʁɛst", "translation": {"zh": "他保持", "en": "he remains"}, "emoji": ""},
+      {"text": "indifférent", "lemma": "indifférent", "ipa": "ɛ̃difeʁɑ̃", "translation": {"zh": "无动于衷", "en": "indifferent"}, "emoji": "😐"}
+    ]
+  },
+  {
+    "text": "le gouvernement fédéral",
+    "ipa": "lə ɡuvɛʁnəmɑ̃ fedeʁal",
+    "translation": {"zh": "联邦政府", "en": "the federal government"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le gouvernement", "lemma": "gouvernement", "ipa": "lə ɡuvɛʁnəmɑ̃", "translation": {"zh": "政府", "en": "the government"}, "emoji": "🏛️"},
+      {"text": "fédéral", "lemma": "fédéral", "ipa": "fedeʁal", "translation": {"zh": "联邦的", "en": "federal"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "recomposer le numéro",
+    "ipa": "ʁəkɔ̃poze lə nymeʁo",
+    "translation": {"zh": "重拨号码", "en": "redial the number"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "recomposer", "lemma": "recomposer", "ipa": "ʁəkɔ̃poze", "translation": {"zh": "重拨", "en": "redial"}, "emoji": "📞"},
+      {"text": "le numéro", "lemma": "numéro", "ipa": "lə nymeʁo", "translation": {"zh": "号码", "en": "the number"}, "emoji": "🔢"}
+    ]
+  },
+  {
+    "text": "je craque",
+    "ipa": "ʒə kʁak",
+    "translation": {"zh": "我受不了了", "en": "I'm cracking"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "je craque", "lemma": "craquer", "ipa": "ʒə kʁak", "translation": {"zh": "受不了了", "en": "I'm cracking"}, "emoji": "😩"}
+    ]
+  },
+  {
+    "text": "agréer une demande",
+    "ipa": "aɡʁee yn dəmɑ̃d",
+    "translation": {"zh": "批准申请", "en": "to approve a request"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "agréer", "lemma": "agréer", "ipa": "aɡʁee", "translation": {"zh": "批准", "en": "approve"}, "emoji": "✅"},
+      {"text": "une demande", "lemma": "demande", "ipa": "yn dəmɑ̃d", "translation": {"zh": "申请", "en": "a request"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "seconder quelqu'un",
+    "ipa": "səkɔ̃de kɛlkœ̃",
+    "translation": {"zh": "协助某人", "en": "to assist someone"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "seconder", "lemma": "seconder", "ipa": "səkɔ̃de", "translation": {"zh": "协助", "en": "assist"}, "emoji": "🤝"},
+      {"text": "quelqu'un", "lemma": "quelqu'un", "ipa": "kɛlkœ̃", "translation": {"zh": "某人", "en": "someone"}, "emoji": "👤"}
+    ]
+  },
+  {
+    "text": "un feu d'artifice",
+    "ipa": "œ̃ fø daʁtifis",
+    "translation": {"zh": "烟火", "en": "fireworks"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un feu d'artifice", "lemma": "artifice", "ipa": "œ̃ fø daʁtifis", "translation": {"zh": "烟火", "en": "fireworks"}, "emoji": "🎆"}
+    ]
+  },
+  {
+    "text": "la mobilisation",
+    "ipa": "la mɔbilizasjɔ̃",
+    "translation": {"zh": "动员", "en": "mobilization"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la mobilisation", "lemma": "mobilisation", "ipa": "la mɔbilizasjɔ̃", "translation": {"zh": "动员", "en": "mobilization"}, "emoji": "📢"}
+    ]
+  },
+  {
+    "text": "elle vient de se diplômer",
+    "ipa": "ɛl vjɛ̃ də sə diplome",
+    "translation": {"zh": "她刚刚毕业", "en": "she just graduated"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "elle vient de se diplômer", "lemma": "diplômer", "ipa": "ɛl vjɛ̃ də sə diplome", "translation": {"zh": "她刚毕业", "en": "she just graduated"}, "emoji": "🎓"}
+    ]
+  },
+  {
+    "text": "imiter quelqu'un",
+    "ipa": "imite kɛlkœ̃",
+    "translation": {"zh": "模仿某人", "en": "to imitate someone"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "imiter", "lemma": "imiter", "ipa": "imite", "translation": {"zh": "模仿", "en": "imitate"}, "emoji": "🎭"},
+      {"text": "quelqu'un", "lemma": "quelqu'un", "ipa": "kɛlkœ̃", "translation": {"zh": "某人", "en": "someone"}, "emoji": "👤"}
+    ]
+  },
+  {
+    "text": "sécher les vêtements",
+    "ipa": "seʃe le vɛtmɑ̃",
+    "translation": {"zh": "晾干衣服", "en": "to dry the clothes"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "sécher", "lemma": "sécher", "ipa": "seʃe", "translation": {"zh": "晾干", "en": "dry"}, "emoji": "👕"},
+      {"text": "les vêtements", "lemma": "vêtement", "ipa": "le vɛtmɑ̃", "translation": {"zh": "衣服", "en": "the clothes"}, "emoji": "👕"}
+    ]
+  },
+  {
+    "text": "c'est adorable",
+    "ipa": "sɛt adɔʁabl",
+    "translation": {"zh": "太可爱了", "en": "it's adorable"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "c'est adorable", "lemma": "adorable", "ipa": "sɛt adɔʁabl", "translation": {"zh": "太可爱了", "en": "it's adorable"}, "emoji": "😍"}
+    ]
+  },
+  {
+    "text": "la croyance",
+    "ipa": "la kʁwajɑ̃s",
+    "translation": {"zh": "信仰", "en": "belief"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la croyance", "lemma": "croyance", "ipa": "la kʁwajɑ̃s", "translation": {"zh": "信仰", "en": "belief"}, "emoji": "🙏"}
+    ]
+  },
+  {
+    "text": "implanter une usine",
+    "ipa": "ɛ̃plɑ̃te yn yzin",
+    "translation": {"zh": "建立工厂", "en": "to set up a factory"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "implanter", "lemma": "implanter", "ipa": "ɛ̃plɑ̃te", "translation": {"zh": "建立", "en": "set up"}, "emoji": "🏭"},
+      {"text": "une usine", "lemma": "usine", "ipa": "yn yzin", "translation": {"zh": "工厂", "en": "a factory"}, "emoji": "🏭"}
+    ]
+  },
+  {
+    "text": "l'antenne",
+    "ipa": "lɑ̃tɛn",
+    "translation": {"zh": "天线", "en": "antenna"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'antenne", "lemma": "antenne", "ipa": "lɑ̃tɛn", "translation": {"zh": "天线", "en": "antenna"}, "emoji": "📡"}
+    ]
+  },
+  {
+    "text": "les jeux olympiques",
+    "ipa": "le ʒø olɛ̃pik",
+    "translation": {"zh": "奥林匹克运动会", "en": "the Olympic Games"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "les jeux", "lemma": "jeu", "ipa": "le ʒø", "translation": {"zh": "运动会", "en": "the games"}, "emoji": "🏅"},
+      {"text": "olympiques", "lemma": "olympique", "ipa": "olɛ̃pik", "translation": {"zh": "奥林匹克的", "en": "Olympic"}, "emoji": "🏅"}
+    ]
+  },
+  {
+    "text": "frotter les mains",
+    "ipa": "fʁɔte le mɛ̃",
+    "translation": {"zh": "搓手", "en": "to rub one's hands"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "frotter", "lemma": "frotter", "ipa": "fʁɔte", "translation": {"zh": "搓", "en": "rub"}, "emoji": "🤲"},
+      {"text": "les mains", "lemma": "main", "ipa": "le mɛ̃", "translation": {"zh": "手", "en": "the hands"}, "emoji": "🤲"}
+    ]
+  }
+]

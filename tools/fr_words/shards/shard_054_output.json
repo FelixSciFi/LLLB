@@ -1,0 +1,299 @@
+[
+  {
+    "text": "le moulin à vent",
+    "ipa": "lə mulɛ̃ a vɑ̃",
+    "translation": {"zh": "风车", "en": "windmill"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le moulin(moulin)", "lemma": "moulin", "ipa": "lə mulɛ̃", "translation": {"zh": "磨坊", "en": "mill"}, "emoji": "🏠"},
+      {"text": "à vent(vent)", "lemma": "vent", "ipa": "a vɑ̃", "translation": {"zh": "风", "en": "wind"}, "emoji": "💨"}
+    ]
+  },
+  {
+    "text": "financer un projet",
+    "ipa": "finɑ̃se œ̃ pʁɔʒɛ",
+    "translation": {"zh": "资助一个项目", "en": "fund a project"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "financer(financer)", "lemma": "financer", "ipa": "finɑ̃se", "translation": {"zh": "资助", "en": "fund"}, "emoji": "💰"},
+      {"text": "un projet(projet)", "lemma": "projet", "ipa": "œ̃ pʁɔʒɛ", "translation": {"zh": "项目", "en": "project"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "un salaire fixe",
+    "ipa": "œ̃ salɛʁ fiks",
+    "translation": {"zh": "固定工资", "en": "fixed salary"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un salaire(salaire)", "lemma": "salaire", "ipa": "œ̃ salɛʁ", "translation": {"zh": "工资", "en": "salary"}, "emoji": "💵"},
+      {"text": "fixe(fixe)", "lemma": "fixe", "ipa": "fiks", "translation": {"zh": "固定的", "en": "fixed"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "c'est correct",
+    "ipa": "sɛ kɔʁɛkt",
+    "translation": {"zh": "这是正确的", "en": "it's correct"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est correct(correct)", "lemma": "correct", "ipa": "sɛ kɔʁɛkt", "translation": {"zh": "正确的", "en": "correct"}, "emoji": "✅"}
+    ]
+  },
+  {
+    "text": "assumer ses responsabilités",
+    "ipa": "asyme se ʁɛspɔ̃sabilite",
+    "translation": {"zh": "承担自己的责任", "en": "take on one's responsibilities"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "assumer(assumer)", "lemma": "assumer", "ipa": "asyme", "translation": {"zh": "承担", "en": "assume"}, "emoji": ""},
+      {"text": "ses responsabilités(responsabilité)", "lemma": "responsabilité", "ipa": "se ʁɛspɔ̃sabilite", "translation": {"zh": "责任", "en": "responsibilities"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "dénoncer une injustice",
+    "ipa": "denɔ̃se yn ɛ̃ʒystis",
+    "translation": {"zh": "揭发不公正行为", "en": "denounce an injustice"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "dénoncer(dénoncer)", "lemma": "dénoncer", "ipa": "denɔ̃se", "translation": {"zh": "揭发", "en": "denounce"}, "emoji": ""},
+      {"text": "une injustice(injustice)", "lemma": "injustice", "ipa": "yn ɛ̃ʒystis", "translation": {"zh": "不公正", "en": "injustice"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "le sens esthétique",
+    "ipa": "lə sɑ̃s ɛstetik",
+    "translation": {"zh": "审美感", "en": "aesthetic sense"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le sens(sens)", "lemma": "sens", "ipa": "lə sɑ̃s", "translation": {"zh": "感觉", "en": "sense"}, "emoji": ""},
+      {"text": "esthétique(esthétique)", "lemma": "esthétique", "ipa": "ɛstetik", "translation": {"zh": "审美的", "en": "aesthetic"}, "emoji": "🎨"}
+    ]
+  },
+  {
+    "text": "une contrainte de temps",
+    "ipa": "yn kɔ̃tʁɛ̃t də tɑ̃",
+    "translation": {"zh": "时间限制", "en": "time constraint"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une contrainte(contrainte)", "lemma": "contrainte", "ipa": "yn kɔ̃tʁɛ̃t", "translation": {"zh": "限制", "en": "constraint"}, "emoji": ""},
+      {"text": "de temps(temps)", "lemma": "temps", "ipa": "də tɑ̃", "translation": {"zh": "时间", "en": "time"}, "emoji": "⏰"}
+    ]
+  },
+  {
+    "text": "les traits du visage",
+    "ipa": "le tʁɛ dy vizaʒ",
+    "translation": {"zh": "面部特征", "en": "facial features"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "les traits(trait)", "lemma": "trait", "ipa": "le tʁɛ", "translation": {"zh": "特征", "en": "features"}, "emoji": ""},
+      {"text": "du visage(visage)", "lemma": "visage", "ipa": "dy vizaʒ", "translation": {"zh": "脸", "en": "face"}, "emoji": "😊"}
+    ]
+  },
+  {
+    "text": "renverser un verre",
+    "ipa": "ʁɑ̃vɛʁse œ̃ vɛʁ",
+    "translation": {"zh": "打翻一个杯子", "en": "knock over a glass"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "renverser(renverser)", "lemma": "renverser", "ipa": "ʁɑ̃vɛʁse", "translation": {"zh": "打翻", "en": "knock over"}, "emoji": ""},
+      {"text": "un verre(verre)", "lemma": "verre", "ipa": "œ̃ vɛʁ", "translation": {"zh": "杯子", "en": "glass"}, "emoji": "🥛"}
+    ]
+  },
+  {
+    "text": "de la crème fraîche",
+    "ipa": "də la kʁɛm fʁɛʃ",
+    "translation": {"zh": "新鲜奶油", "en": "fresh cream"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "de la crème(crème)", "lemma": "crème", "ipa": "də la kʁɛm", "translation": {"zh": "奶油", "en": "cream"}, "emoji": "🥛"},
+      {"text": "fraîche(frais)", "lemma": "frais", "ipa": "fʁɛʃ", "translation": {"zh": "新鲜的", "en": "fresh"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un romancier célèbre",
+    "ipa": "œ̃ ʁɔmɑ̃sje selɛbʁ",
+    "translation": {"zh": "一位著名小说家", "en": "a famous novelist"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un romancier(romancier)", "lemma": "romancier", "ipa": "œ̃ ʁɔmɑ̃sje", "translation": {"zh": "小说家", "en": "novelist"}, "emoji": "✍️"},
+      {"text": "célèbre(célèbre)", "lemma": "célèbre", "ipa": "selɛbʁ", "translation": {"zh": "著名的", "en": "famous"}, "emoji": "⭐"}
+    ]
+  },
+  {
+    "text": "je vous félicite",
+    "ipa": "ʒə vu felisit",
+    "translation": {"zh": "我祝贺您", "en": "I congratulate you"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je vous félicite(féliciter)", "lemma": "féliciter", "ipa": "ʒə vu felisit", "translation": {"zh": "祝贺", "en": "congratulate"}, "emoji": "🎉"}
+    ]
+  },
+  {
+    "text": "une randonnée en montagne",
+    "ipa": "yn ʁɑ̃dɔne ɑ̃ mɔ̃taɲ",
+    "translation": {"zh": "山间徒步", "en": "a mountain hike"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une randonnée(randonnée)", "lemma": "randonnée", "ipa": "yn ʁɑ̃dɔne", "translation": {"zh": "徒步", "en": "hike"}, "emoji": "🥾"},
+      {"text": "en montagne(montagne)", "lemma": "montagne", "ipa": "ɑ̃ mɔ̃taɲ", "translation": {"zh": "山里", "en": "in the mountains"}, "emoji": "⛰️"}
+    ]
+  },
+  {
+    "text": "le berger garde ses moutons",
+    "ipa": "lə bɛʁʒe ɡaʁd se mutɔ̃",
+    "translation": {"zh": "牧羊人看护他的羊群", "en": "the shepherd watches his sheep"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le berger(berger)", "lemma": "berger", "ipa": "lə bɛʁʒe", "translation": {"zh": "牧羊人", "en": "shepherd"}, "emoji": ""},
+      {"text": "garde(garder)", "lemma": "garder", "ipa": "ɡaʁd", "translation": {"zh": "看护", "en": "watch"}, "emoji": ""},
+      {"text": "ses moutons(mouton)", "lemma": "mouton", "ipa": "se mutɔ̃", "translation": {"zh": "羊群", "en": "sheep"}, "emoji": "🐑"}
+    ]
+  },
+  {
+    "text": "par conséquent",
+    "ipa": "paʁ kɔ̃sekɑ̃",
+    "translation": {"zh": "因此", "en": "consequently"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "par conséquent(conséquent)", "lemma": "conséquent", "ipa": "paʁ kɔ̃sekɑ̃", "translation": {"zh": "因此", "en": "consequently"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "c'est douloureux",
+    "ipa": "sɛ duluʁø",
+    "translation": {"zh": "这很痛", "en": "it's painful"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "c'est douloureux(douloureux)", "lemma": "douloureux", "ipa": "sɛ duluʁø", "translation": {"zh": "痛苦的", "en": "painful"}, "emoji": "😣"}
+    ]
+  },
+  {
+    "text": "une merveille de la nature",
+    "ipa": "yn mɛʁvɛj də la natyʁ",
+    "translation": {"zh": "大自然的奇迹", "en": "a wonder of nature"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une merveille(merveille)", "lemma": "merveille", "ipa": "yn mɛʁvɛj", "translation": {"zh": "奇迹", "en": "wonder"}, "emoji": "✨"},
+      {"text": "de la nature(nature)", "lemma": "nature", "ipa": "də la natyʁ", "translation": {"zh": "自然", "en": "nature"}, "emoji": "🌿"}
+    ]
+  },
+  {
+    "text": "de qualité inférieure",
+    "ipa": "də kalite ɛ̃feʁjœʁ",
+    "translation": {"zh": "质量较差的", "en": "of inferior quality"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "de qualité(qualité)", "lemma": "qualité", "ipa": "də kalite", "translation": {"zh": "质量", "en": "quality"}, "emoji": ""},
+      {"text": "inférieure(inférieur)", "lemma": "inférieur", "ipa": "ɛ̃feʁjœʁ", "translation": {"zh": "较差的", "en": "inferior"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la rentrée scolaire",
+    "ipa": "la ʁɑ̃tʁe skɔlɛʁ",
+    "translation": {"zh": "开学", "en": "back to school"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la rentrée(rentrée)", "lemma": "rentrée", "ipa": "la ʁɑ̃tʁe", "translation": {"zh": "开学", "en": "back to school"}, "emoji": "🎒"},
+      {"text": "scolaire(scolaire)", "lemma": "scolaire", "ipa": "skɔlɛʁ", "translation": {"zh": "学校的", "en": "school"}, "emoji": "🏫"}
+    ]
+  },
+  {
+    "text": "son comportement habituel",
+    "ipa": "sɔ̃ kɔ̃pɔʁtəmɑ̃ abitɥɛl",
+    "translation": {"zh": "他惯常的行为", "en": "his usual behavior"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "son comportement(comportement)", "lemma": "comportement", "ipa": "sɔ̃ kɔ̃pɔʁtəmɑ̃", "translation": {"zh": "行为", "en": "behavior"}, "emoji": ""},
+      {"text": "habituel(habituel)", "lemma": "habituel", "ipa": "abitɥɛl", "translation": {"zh": "惯常的", "en": "usual"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "suspendre un tableau",
+    "ipa": "syspɑ̃dʁ œ̃ tablo",
+    "translation": {"zh": "挂一幅画", "en": "hang a painting"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "suspendre(suspendre)", "lemma": "suspendre", "ipa": "syspɑ̃dʁ", "translation": {"zh": "悬挂", "en": "hang"}, "emoji": ""},
+      {"text": "un tableau(tableau)", "lemma": "tableau", "ipa": "œ̃ tablo", "translation": {"zh": "画", "en": "painting"}, "emoji": "🖼️"}
+    ]
+  },
+  {
+    "text": "un cours de chimie",
+    "ipa": "œ̃ kuʁ də ʃimi",
+    "translation": {"zh": "一节化学课", "en": "a chemistry class"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un cours(cours)", "lemma": "cours", "ipa": "œ̃ kuʁ", "translation": {"zh": "课", "en": "class"}, "emoji": "📚"},
+      {"text": "de chimie(chimie)", "lemma": "chimie", "ipa": "də ʃimi", "translation": {"zh": "化学", "en": "chemistry"}, "emoji": "🧪"}
+    ]
+  },
+  {
+    "text": "un professeur sévère",
+    "ipa": "œ̃ pʁɔfɛsœʁ sevɛʁ",
+    "translation": {"zh": "一位严格的老师", "en": "a strict teacher"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un professeur(professeur)", "lemma": "professeur", "ipa": "œ̃ pʁɔfɛsœʁ", "translation": {"zh": "老师", "en": "teacher"}, "emoji": "👩‍🏫"},
+      {"text": "sévère(sévère)", "lemma": "sévère", "ipa": "sevɛʁ", "translation": {"zh": "严格的", "en": "strict"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le duc et la duchesse",
+    "ipa": "lə dyk e la dyʃɛs",
+    "translation": {"zh": "公爵和公爵夫人", "en": "the duke and duchess"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le duc(duc)", "lemma": "duc", "ipa": "lə dyk", "translation": {"zh": "公爵", "en": "duke"}, "emoji": "👑"},
+      {"text": "et la duchesse(duchesse)", "lemma": "duchesse", "ipa": "e la dyʃɛs", "translation": {"zh": "公爵夫人", "en": "duchess"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "lutter contre le racisme",
+    "ipa": "lyte kɔ̃tʁ lə ʁasism",
+    "translation": {"zh": "反对种族主义", "en": "fight against racism"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "lutter(lutter)", "lemma": "lutter", "ipa": "lyte", "translation": {"zh": "斗争", "en": "fight"}, "emoji": "✊"},
+      {"text": "contre le racisme(racisme)", "lemma": "racisme", "ipa": "kɔ̃tʁ lə ʁasism", "translation": {"zh": "种族主义", "en": "racism"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un sentiment d'appartenance",
+    "ipa": "œ̃ sɑ̃timɑ̃ dapaʁtənɑ̃s",
+    "translation": {"zh": "归属感", "en": "a sense of belonging"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un sentiment(sentiment)", "lemma": "sentiment", "ipa": "œ̃ sɑ̃timɑ̃", "translation": {"zh": "情感", "en": "feeling"}, "emoji": ""},
+      {"text": "d'appartenance(appartenance)", "lemma": "appartenance", "ipa": "dapaʁtənɑ̃s", "translation": {"zh": "归属感", "en": "belonging"}, "emoji": "🏠"}
+    ]
+  },
+  {
+    "text": "une description détaillée",
+    "ipa": "yn dɛskʁipsjɔ̃ detaje",
+    "translation": {"zh": "详细描述", "en": "a detailed description"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une description(description)", "lemma": "description", "ipa": "yn dɛskʁipsjɔ̃", "translation": {"zh": "描述", "en": "description"}, "emoji": "📝"},
+      {"text": "détaillée(détaillé)", "lemma": "détaillé", "ipa": "detaje", "translation": {"zh": "详细的", "en": "detailed"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la discipline scolaire",
+    "ipa": "la disiplin skɔlɛʁ",
+    "translation": {"zh": "学校纪律", "en": "school discipline"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la discipline(discipline)", "lemma": "discipline", "ipa": "la disiplin", "translation": {"zh": "纪律", "en": "discipline"}, "emoji": ""},
+      {"text": "scolaire(scolaire)", "lemma": "scolaire", "ipa": "skɔlɛʁ", "translation": {"zh": "学校的", "en": "school"}, "emoji": "🏫"}
+    ]
+  },
+  {
+    "text": "la gestion du temps",
+    "ipa": "la ʒɛstjɔ̃ dy tɑ̃",
+    "translation": {"zh": "时间管理", "en": "time management"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la gestion(gestion)", "lemma": "gestion", "ipa": "la ʒɛstjɔ̃", "translation": {"zh": "管理", "en": "management"}, "emoji": ""},
+      {"text": "du temps(temps)", "lemma": "temps", "ipa": "dy tɑ̃", "translation": {"zh": "时间", "en": "time"}, "emoji": "⏰"}
+    ]
+  }
+]

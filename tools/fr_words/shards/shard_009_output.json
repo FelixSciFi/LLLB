@@ -1,0 +1,272 @@
+[
+  {
+    "text": "ça m'étonne",
+    "ipa": "sa m‿etonə",
+    "translation": {"zh": "这让我惊讶", "en": "that surprises me"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "ça m'étonne", "lemma": "étonner", "ipa": "sa m‿etonə", "translation": {"zh": "让我惊讶", "en": "surprises me"}, "emoji": "😲"}
+    ]
+  },
+  {
+    "text": "de l'énergie",
+    "ipa": "də l‿eneʁʒi",
+    "translation": {"zh": "能量", "en": "energy"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "de l'énergie", "lemma": "énergie", "ipa": "də l‿eneʁʒi", "translation": {"zh": "能量", "en": "energy"}, "emoji": "⚡"}
+    ]
+  },
+  {
+    "text": "aussitôt",
+    "ipa": "osito",
+    "translation": {"zh": "立刻", "en": "immediately"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "aussitôt", "lemma": "aussitôt", "ipa": "osito", "translation": {"zh": "立刻", "en": "immediately"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "tout droit",
+    "ipa": "tu dʁwa",
+    "translation": {"zh": "一直往前", "en": "straight ahead"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "tout droit", "lemma": "droit", "ipa": "tu dʁwa", "translation": {"zh": "一直往前", "en": "straight ahead"}, "emoji": "➡️"}
+    ]
+  },
+  {
+    "text": "une pierre",
+    "ipa": "yn pjɛʁ",
+    "translation": {"zh": "一块石头", "en": "a stone"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une pierre", "lemma": "pierre", "ipa": "yn pjɛʁ", "translation": {"zh": "石头", "en": "stone"}, "emoji": "🪨"}
+    ]
+  },
+  {
+    "text": "une compagnie",
+    "ipa": "yn kɔ̃paɲi",
+    "translation": {"zh": "一家公司", "en": "a company"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une compagnie", "lemma": "compagnie", "ipa": "yn kɔ̃paɲi", "translation": {"zh": "公司", "en": "company"}, "emoji": "🏢"}
+    ]
+  },
+  {
+    "text": "en entier",
+    "ipa": "ɑ̃n‿ɑ̃tje",
+    "translation": {"zh": "全部，完整地", "en": "entirely, whole"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "en entier", "lemma": "entier", "ipa": "ɑ̃n‿ɑ̃tje", "translation": {"zh": "完整地", "en": "entirely"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le maire",
+    "ipa": "lə mɛʁ",
+    "translation": {"zh": "市长", "en": "the mayor"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le maire", "lemma": "maire", "ipa": "lə mɛʁ", "translation": {"zh": "市长", "en": "mayor"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "lier",
+    "ipa": "lje",
+    "translation": {"zh": "联系，绑定", "en": "to link, to bind"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "lier", "lemma": "lier", "ipa": "lje", "translation": {"zh": "联系绑定", "en": "to link"}, "emoji": "🔗"}
+    ]
+  },
+  {
+    "text": "l'année scolaire",
+    "ipa": "l‿ane skɔlɛʁ",
+    "translation": {"zh": "学年", "en": "the school year"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "l'année scolaire", "lemma": "scolaire", "ipa": "l‿ane skɔlɛʁ", "translation": {"zh": "学年", "en": "school year"}, "emoji": "🎒"}
+    ]
+  },
+  {
+    "text": "c'est interdit",
+    "ipa": "s‿ɛ ɛ̃tɛʁdi",
+    "translation": {"zh": "这是禁止的", "en": "it's forbidden"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "c'est interdit", "lemma": "interdire", "ipa": "s‿ɛ ɛ̃tɛʁdi", "translation": {"zh": "禁止的", "en": "it's forbidden"}, "emoji": "🚫"}
+    ]
+  },
+  {
+    "text": "un crime",
+    "ipa": "œ̃ kʁim",
+    "translation": {"zh": "一项罪行", "en": "a crime"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un crime", "lemma": "crime", "ipa": "œ̃ kʁim", "translation": {"zh": "罪行", "en": "crime"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une île",
+    "ipa": "yn il",
+    "translation": {"zh": "一座岛", "en": "an island"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une île", "lemma": "île", "ipa": "yn il", "translation": {"zh": "岛", "en": "island"}, "emoji": "🏝️"}
+    ]
+  },
+  {
+    "text": "le juge",
+    "ipa": "lə ʒyʒ",
+    "translation": {"zh": "法官", "en": "the judge"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le juge", "lemma": "juge", "ipa": "lə ʒyʒ", "translation": {"zh": "法官", "en": "judge"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "c'est dangereux",
+    "ipa": "s‿ɛ dɑ̃ʒəʁø",
+    "translation": {"zh": "这很危险", "en": "it's dangerous"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "c'est dangereux", "lemma": "dangereux", "ipa": "s‿ɛ dɑ̃ʒəʁø", "translation": {"zh": "危险的", "en": "it's dangerous"}, "emoji": "⚠️"}
+    ]
+  },
+  {
+    "text": "il s'échappe",
+    "ipa": "il s‿eʃap",
+    "translation": {"zh": "他逃跑了", "en": "he escapes"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il s'échappe", "lemma": "échapper", "ipa": "il s‿eʃap", "translation": {"zh": "他逃跑", "en": "he escapes"}, "emoji": "🏃"}
+    ]
+  },
+  {
+    "text": "une dame",
+    "ipa": "yn dam",
+    "translation": {"zh": "一位女士", "en": "a lady"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une dame", "lemma": "dame", "ipa": "yn dam", "translation": {"zh": "女士", "en": "lady"}, "emoji": "👩"}
+    ]
+  },
+  {
+    "text": "le reste",
+    "ipa": "lə ʁɛst",
+    "translation": {"zh": "其余部分", "en": "the rest"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le reste", "lemma": "reste", "ipa": "lə ʁɛst", "translation": {"zh": "其余部分", "en": "the rest"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le silence",
+    "ipa": "lə silɑ̃s",
+    "translation": {"zh": "寂静", "en": "silence"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le silence", "lemma": "silence", "ipa": "lə silɑ̃s", "translation": {"zh": "寂静", "en": "silence"}, "emoji": "🤫"}
+    ]
+  },
+  {
+    "text": "une victime",
+    "ipa": "yn viktim",
+    "translation": {"zh": "一名受害者", "en": "a victim"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une victime", "lemma": "victime", "ipa": "yn viktim", "translation": {"zh": "受害者", "en": "victim"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "dans le dos",
+    "ipa": "dɑ̃ lə do",
+    "translation": {"zh": "在背后", "en": "on the back"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "dans le dos", "lemma": "dos", "ipa": "dɑ̃ lə do", "translation": {"zh": "在背后", "en": "on the back"}, "emoji": "🔙"}
+    ]
+  },
+  {
+    "text": "à long terme",
+    "ipa": "a lɔ̃ tɛʁm",
+    "translation": {"zh": "从长远来看", "en": "in the long term"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "à long terme", "lemma": "terme", "ipa": "a lɔ̃ tɛʁm", "translation": {"zh": "长远来看", "en": "long term"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "dans ma poche",
+    "ipa": "dɑ̃ ma pɔʃ",
+    "translation": {"zh": "在我口袋里", "en": "in my pocket"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "dans ma poche", "lemma": "poche", "ipa": "dɑ̃ ma pɔʃ", "translation": {"zh": "口袋里", "en": "in my pocket"}, "emoji": "🧥"}
+    ]
+  },
+  {
+    "text": "emmener",
+    "ipa": "ɑ̃məne",
+    "translation": {"zh": "带走", "en": "to take (someone) away"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "emmener", "lemma": "emmener", "ipa": "ɑ̃məne", "translation": {"zh": "带走", "en": "to take away"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "ça vous concerne",
+    "ipa": "sa vu kɔ̃sɛʁn",
+    "translation": {"zh": "这跟你们有关", "en": "it concerns you"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "ça vous concerne", "lemma": "concerner", "ipa": "sa vu kɔ̃sɛʁn", "translation": {"zh": "跟你们有关", "en": "concerns you"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "observer",
+    "ipa": "ɔpsɛʁve",
+    "translation": {"zh": "观察", "en": "to observe"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "observer", "lemma": "observer", "ipa": "ɔpsɛʁve", "translation": {"zh": "观察", "en": "to observe"}, "emoji": "👀"}
+    ]
+  },
+  {
+    "text": "ce genre de chose",
+    "ipa": "sə ʒɑ̃ʁ də ʃoz",
+    "translation": {"zh": "这种事", "en": "this kind of thing"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "ce genre de chose", "lemma": "genre", "ipa": "sə ʒɑ̃ʁ də ʃoz", "translation": {"zh": "这种事", "en": "this kind of thing"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "empêcher",
+    "ipa": "ɑ̃peʃe",
+    "translation": {"zh": "阻止", "en": "to prevent"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "empêcher", "lemma": "empêcher", "ipa": "ɑ̃peʃe", "translation": {"zh": "阻止", "en": "to prevent"}, "emoji": "🛑"}
+    ]
+  },
+  {
+    "text": "un séjour",
+    "ipa": "œ̃ seʒuʁ",
+    "translation": {"zh": "一次停留，客厅", "en": "a stay, living room"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un séjour", "lemma": "séjour", "ipa": "œ̃ seʒuʁ", "translation": {"zh": "停留", "en": "stay"}, "emoji": "🛋️"}
+    ]
+  },
+  {
+    "text": "la fonction",
+    "ipa": "la fɔ̃ksjɔ̃",
+    "translation": {"zh": "功能，职能", "en": "function, role"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la fonction", "lemma": "fonction", "ipa": "la fɔ̃ksjɔ̃", "translation": {"zh": "功能职能", "en": "function"}, "emoji": ""}
+    ]
+  }
+]

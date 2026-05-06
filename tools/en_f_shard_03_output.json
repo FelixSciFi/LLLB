@@ -1,0 +1,185 @@
+[
+  {
+    "input_word": "fly",
+    "entries": [
+      {"text": "fly", "ipa": "/flaɪ/", "cefr": "A1", "zh": "飞行", "emoji": "✈️"},
+      {"text": "fly", "ipa": "/flaɪ/", "cefr": "A1", "zh": "苍蝇", "emoji": "🪰"}
+    ]
+  },
+  {
+    "input_word": "flying",
+    "entries": [
+      {"text": "flying", "ipa": "/ˈflaɪɪŋ/", "cefr": "A2", "zh": "飞行中", "emoji": "✈️"}
+    ]
+  },
+  {
+    "input_word": "focus",
+    "entries": [
+      {"text": "focus", "ipa": "/ˈfoʊkəs/", "cefr": "A2", "zh": "专注", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_word": "fold",
+    "entries": [
+      {"text": "fold", "ipa": "/foʊld/", "cefr": "B1", "zh": "折叠", "emoji": "📄"}
+    ]
+  },
+  {
+    "input_word": "folding",
+    "entries": [
+      {"text": "folding", "ipa": "/ˈfoʊldɪŋ/", "cefr": "B2", "zh": "折叠式", "emoji": "📄"}
+    ]
+  },
+  {
+    "input_word": "folk",
+    "entries": [
+      {"text": "folk", "ipa": "/foʊk/", "cefr": "B1", "zh": "民间", "emoji": "🎵"}
+    ]
+  },
+  {
+    "input_word": "follow",
+    "entries": [
+      {"text": "follow", "ipa": "/ˈfɑːloʊ/", "cefr": "A1", "zh": "跟随", "emoji": "👣"}
+    ]
+  },
+  {
+    "input_word": "following",
+    "entries": [
+      {"text": "following", "ipa": "/ˈfɑːloʊɪŋ/", "cefr": "A2", "zh": "以下的", "emoji": "👇"}
+    ]
+  },
+  {
+    "input_word": "food",
+    "entries": [
+      {"text": "food", "ipa": "/fuːd/", "cefr": "A1", "zh": "食物", "emoji": "🍽️"}
+    ]
+  },
+  {
+    "input_word": "foot",
+    "entries": [
+      {"text": "foot", "ipa": "/fʊt/", "cefr": "A1", "zh": "脚", "emoji": "🦶"},
+      {"text": "foot", "ipa": "/fʊt/", "cefr": "A1", "zh": "英尺", "emoji": "📏"}
+    ]
+  },
+  {
+    "input_word": "football",
+    "entries": [
+      {"text": "football", "ipa": "/ˈfʊtbɔːl/", "cefr": "A1", "zh": "足球", "emoji": "⚽"}
+    ]
+  },
+  {
+    "input_word": "for",
+    "entries": []
+  },
+  {
+    "input_word": "force",
+    "entries": [
+      {"text": "force", "ipa": "/fɔːrs/", "cefr": "B1", "zh": "力量", "emoji": "💪"},
+      {"text": "force", "ipa": "/fɔːrs/", "cefr": "B1", "zh": "强迫", "emoji": "⚡"}
+    ]
+  },
+  {
+    "input_word": "foreign",
+    "entries": [
+      {"text": "foreign", "ipa": "/ˈfɔːrən/", "cefr": "A2", "zh": "外国的", "emoji": "🌍"}
+    ]
+  },
+  {
+    "input_word": "forest",
+    "entries": [
+      {"text": "forest", "ipa": "/ˈfɔːrɪst/", "cefr": "A2", "zh": "森林", "emoji": "🌲"}
+    ]
+  },
+  {
+    "input_word": "forever",
+    "entries": [
+      {"text": "forever", "ipa": "/fərˈɛvər/", "cefr": "B1", "zh": "永远", "emoji": "♾️"}
+    ]
+  },
+  {
+    "input_word": "forget",
+    "entries": [
+      {"text": "forget", "ipa": "/fərˈɡɛt/", "cefr": "A1", "zh": "忘记", "emoji": "💭"}
+    ]
+  },
+  {
+    "input_word": "forgive",
+    "entries": [
+      {"text": "forgive", "ipa": "/fərˈɡɪv/", "cefr": "B2", "zh": "原谅", "emoji": "🕊️"}
+    ]
+  },
+  {
+    "input_word": "fork",
+    "entries": [
+      {"text": "fork", "ipa": "/fɔːrk/", "cefr": "A2", "zh": "叉子", "emoji": "🍴"}
+    ]
+  },
+  {
+    "input_word": "form",
+    "entries": [
+      {"text": "form", "ipa": "/fɔːrm/", "cefr": "A1", "zh": "表格", "emoji": "📋"},
+      {"text": "form", "ipa": "/fɔːrm/", "cefr": "A1", "zh": "形成", "emoji": "🔨"}
+    ]
+  },
+  {
+    "input_word": "formal",
+    "entries": [
+      {"text": "formal", "ipa": "/ˈfɔːrməl/", "cefr": "A2", "zh": "正式的", "emoji": "👔"}
+    ]
+  },
+  {
+    "input_word": "former",
+    "entries": [
+      {"text": "former", "ipa": "/ˈfɔːrmər/", "cefr": "B2", "zh": "前任的", "emoji": "🔙"}
+    ]
+  },
+  {
+    "input_word": "fortunately",
+    "entries": [
+      {"text": "fortunately", "ipa": "/ˈfɔːrtʃənətli/", "cefr": "A2", "zh": "幸运地", "emoji": "🍀"}
+    ]
+  },
+  {
+    "input_word": "fortune",
+    "entries": [
+      {"text": "fortune", "ipa": "/ˈfɔːrtʃən/", "cefr": "B2", "zh": "财富", "emoji": "💰"},
+      {"text": "fortune", "ipa": "/ˈfɔːrtʃən/", "cefr": "B2", "zh": "运气", "emoji": "🎲"}
+    ]
+  },
+  {
+    "input_word": "forty",
+    "entries": [
+      {"text": "forty", "ipa": "/ˈfɔːrti/", "cefr": "A1", "zh": "四十", "emoji": "4️⃣"}
+    ]
+  },
+  {
+    "input_word": "forward",
+    "entries": [
+      {"text": "forward", "ipa": "/ˈfɔːrwərd/", "cefr": "A2", "zh": "向前", "emoji": "➡️"}
+    ]
+  },
+  {
+    "input_word": "found",
+    "entries": [
+      {"text": "found", "ipa": "/faʊnd/", "cefr": "B2", "zh": "创立", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_word": "four",
+    "entries": [
+      {"text": "four", "ipa": "/fɔːr/", "cefr": "A1", "zh": "四", "emoji": "4️⃣"}
+    ]
+  },
+  {
+    "input_word": "fourteen",
+    "entries": [
+      {"text": "fourteen", "ipa": "/ˌfɔːrˈtiːn/", "cefr": "A1", "zh": "十四", "emoji": "🔢"}
+    ]
+  },
+  {
+    "input_word": "fourth",
+    "entries": [
+      {"text": "fourth", "ipa": "/fɔːrθ/", "cefr": "A1", "zh": "第四", "emoji": "🥉"}
+    ]
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "text": "une sélection",
+    "ipa": "yn selɛksjɔ̃",
+    "translation": {"zh": "一次筛选", "en": "a selection"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une sélection", "lemma": "sélection", "ipa": "yn selɛksjɔ̃", "translation": {"zh": "一次筛选", "en": "a selection"}, "emoji": "🎯"}
+    ]
+  },
+  {
+    "text": "un conseil juridique",
+    "ipa": "œ̃ kɔ̃sɛj ʒyʁidik",
+    "translation": {"zh": "法律建议", "en": "legal advice"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un conseil", "lemma": "conseil", "ipa": "œ̃ kɔ̃sɛj", "translation": {"zh": "建议", "en": "advice"}, "emoji": ""},
+      {"text": "juridique", "lemma": "juridique", "ipa": "ʒyʁidik", "translation": {"zh": "法律的", "en": "legal"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "un taureau",
+    "ipa": "œ̃ toʁo",
+    "translation": {"zh": "一头公牛", "en": "a bull"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un taureau", "lemma": "taureau", "ipa": "œ̃ toʁo", "translation": {"zh": "一头公牛", "en": "a bull"}, "emoji": "🐂"}
+    ]
+  },
+  {
+    "text": "ils débarquent",
+    "ipa": "il debaʁk",
+    "translation": {"zh": "他们下船", "en": "they disembark"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ils débarquent", "lemma": "débarquer", "ipa": "il debaʁk", "translation": {"zh": "他们下船", "en": "they disembark"}, "emoji": "🚢"}
+    ]
+  },
+  {
+    "text": "le tarif",
+    "ipa": "lə taʁif",
+    "translation": {"zh": "价格", "en": "the rate"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le tarif", "lemma": "tarif", "ipa": "lə taʁif", "translation": {"zh": "价格", "en": "the rate"}, "emoji": "💰"}
+    ]
+  },
+  {
+    "text": "le domicile conjugal",
+    "ipa": "lə dɔmisil kɔ̃ʒyɡal",
+    "translation": {"zh": "婚姻住所", "en": "the marital home"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le domicile", "lemma": "domicile", "ipa": "lə dɔmisil", "translation": {"zh": "住所", "en": "home"}, "emoji": "🏠"},
+      {"text": "conjugal", "lemma": "conjugal", "ipa": "kɔ̃ʒyɡal", "translation": {"zh": "婚姻的", "en": "marital"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un ouvrier",
+    "ipa": "œ̃ uvʁije",
+    "translation": {"zh": "一名工人", "en": "a worker"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un ouvrier", "lemma": "ouvrier", "ipa": "œ̃ uvʁije", "translation": {"zh": "一名工人", "en": "a worker"}, "emoji": "👷"}
+    ]
+  },
+  {
+    "text": "ça me préoccupe",
+    "ipa": "sa mə pʁeɔkYp",
+    "translation": {"zh": "这让我担忧", "en": "it worries me"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ça me préoccupe", "lemma": "préoccuper", "ipa": "sa mə pʁeɔkYp", "translation": {"zh": "这让我担忧", "en": "it worries me"}, "emoji": "😟"}
+    ]
+  },
+  {
+    "text": "énormément",
+    "ipa": "enɔʁmemɑ̃",
+    "translation": {"zh": "非常多", "en": "enormously"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "énormément", "lemma": "énormément", "ipa": "enɔʁmemɑ̃", "translation": {"zh": "非常多", "en": "enormously"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un poison",
+    "ipa": "œ̃ pwazɔ̃",
+    "translation": {"zh": "一种毒药", "en": "a poison"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un poison", "lemma": "poison", "ipa": "œ̃ pwazɔ̃", "translation": {"zh": "一种毒药", "en": "a poison"}, "emoji": "☠️"}
+    ]
+  },
+  {
+    "text": "une colonie",
+    "ipa": "yn kɔlɔni",
+    "translation": {"zh": "一块殖民地", "en": "a colony"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une colonie", "lemma": "colonie", "ipa": "yn kɔlɔni", "translation": {"zh": "一块殖民地", "en": "a colony"}, "emoji": "🗺️"}
+    ]
+  },
+  {
+    "text": "la tranquillité",
+    "ipa": "la tʁɑ̃kilite",
+    "translation": {"zh": "宁静", "en": "tranquility"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la tranquillité", "lemma": "tranquillité", "ipa": "la tʁɑ̃kilite", "translation": {"zh": "宁静", "en": "tranquility"}, "emoji": "😌"}
+    ]
+  },
+  {
+    "text": "un litre d'eau",
+    "ipa": "œ̃ litʁ do",
+    "translation": {"zh": "一升水", "en": "a litre of water"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un litre d'eau", "lemma": "litre", "ipa": "œ̃ litʁ do", "translation": {"zh": "一升水", "en": "a litre of water"}, "emoji": "💧"}
+    ]
+  },
+  {
+    "text": "une interprétation",
+    "ipa": "yn ɛ̃tɛʁpʁetasjɔ̃",
+    "translation": {"zh": "一种诠释", "en": "an interpretation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une interprétation", "lemma": "interprétation", "ipa": "yn ɛ̃tɛʁpʁetasjɔ̃", "translation": {"zh": "一种诠释", "en": "an interpretation"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "l'informatique",
+    "ipa": "lɛ̃fɔʁmatik",
+    "translation": {"zh": "计算机科学", "en": "computer science"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "l'informatique", "lemma": "informatique", "ipa": "lɛ̃fɔʁmatik", "translation": {"zh": "计算机科学", "en": "computer science"}, "emoji": "💻"}
+    ]
+  },
+  {
+    "text": "il enfile son manteau",
+    "ipa": "il ɑ̃fil sɔ̃ mɑ̃to",
+    "translation": {"zh": "他穿上大衣", "en": "he puts on his coat"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "il enfile", "lemma": "enfiler", "ipa": "il ɑ̃fil", "translation": {"zh": "他穿上", "en": "he puts on"}, "emoji": ""},
+      {"text": "son manteau", "lemma": "manteau", "ipa": "sɔ̃ mɑ̃to", "translation": {"zh": "他的大衣", "en": "his coat"}, "emoji": "🧥"}
+    ]
+  },
+  {
+    "text": "le comité",
+    "ipa": "lə kɔmite",
+    "translation": {"zh": "委员会", "en": "the committee"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le comité", "lemma": "comité", "ipa": "lə kɔmite", "translation": {"zh": "委员会", "en": "the committee"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "il polit le marbre",
+    "ipa": "il pɔli lə maʁbʁ",
+    "translation": {"zh": "他抛光大理石", "en": "he polishes the marble"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "il polit", "lemma": "polir", "ipa": "il pɔli", "translation": {"zh": "他抛光", "en": "he polishes"}, "emoji": "✨"},
+      {"text": "le marbre", "lemma": "marbre", "ipa": "lə maʁbʁ", "translation": {"zh": "大理石", "en": "the marble"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le harcèlement sexuel",
+    "ipa": "lə aʁsɛlmɑ̃ sɛksɥɛl",
+    "translation": {"zh": "性骚扰", "en": "sexual harassment"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le harcèlement", "lemma": "harcèlement", "ipa": "lə aʁsɛlmɑ̃", "translation": {"zh": "骚扰", "en": "harassment"}, "emoji": ""},
+      {"text": "sexuel", "lemma": "sexuel", "ipa": "sɛksɥɛl", "translation": {"zh": "性的", "en": "sexual"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un esclave",
+    "ipa": "œ̃ nɛsklav",
+    "translation": {"zh": "一名奴隶", "en": "a slave"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un esclave", "lemma": "esclave", "ipa": "œ̃ nɛsklav", "translation": {"zh": "一名奴隶", "en": "a slave"}, "emoji": "⛓️"}
+    ]
+  },
+  {
+    "text": "un argument solide",
+    "ipa": "œ̃ naʁɡymɑ̃ sɔlid",
+    "translation": {"zh": "一个有力的论据", "en": "a solid argument"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un argument", "lemma": "argument", "ipa": "œ̃ naʁɡymɑ̃", "translation": {"zh": "一个论据", "en": "an argument"}, "emoji": ""},
+      {"text": "solide", "lemma": "solide", "ipa": "sɔlid", "translation": {"zh": "有力的", "en": "solid"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "un tambour",
+    "ipa": "œ̃ tɑ̃buʁ",
+    "translation": {"zh": "一面鼓", "en": "a drum"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un tambour", "lemma": "tambour", "ipa": "œ̃ tɑ̃buʁ", "translation": {"zh": "一面鼓", "en": "a drum"}, "emoji": "🥁"}
+    ]
+  },
+  {
+    "text": "ça me déplaît",
+    "ipa": "sa mə deplɛ",
+    "translation": {"zh": "我不喜欢这个", "en": "I don't like this"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ça me déplaît", "lemma": "déplaire", "ipa": "sa mə deplɛ", "translation": {"zh": "我不喜欢", "en": "I don't like it"}, "emoji": "😒"}
+    ]
+  },
+  {
+    "text": "il tape sur le clavier",
+    "ipa": "il tap syʁ lə klavje",
+    "translation": {"zh": "他敲击键盘", "en": "he types on the keyboard"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il tape", "lemma": "taper", "ipa": "il tap", "translation": {"zh": "他敲击", "en": "he types"}, "emoji": ""},
+      {"text": "sur le clavier", "lemma": "clavier", "ipa": "syʁ lə klavje", "translation": {"zh": "键盘上", "en": "on the keyboard"}, "emoji": "⌨️"}
+    ]
+  },
+  {
+    "text": "il vide le verre",
+    "ipa": "il vid lə vɛʁ",
+    "translation": {"zh": "他倒空杯子", "en": "he empties the glass"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "il vide", "lemma": "vider", "ipa": "il vid", "translation": {"zh": "他倒空", "en": "he empties"}, "emoji": ""},
+      {"text": "le verre", "lemma": "verre", "ipa": "lə vɛʁ", "translation": {"zh": "杯子", "en": "the glass"}, "emoji": "🥛"}
+    ]
+  },
+  {
+    "text": "un pêcheur",
+    "ipa": "œ̃ pɛʃœʁ",
+    "translation": {"zh": "一名渔夫", "en": "a fisherman"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un pêcheur", "lemma": "pêcheur", "ipa": "œ̃ pɛʃœʁ", "translation": {"zh": "一名渔夫", "en": "a fisherman"}, "emoji": "🎣"}
+    ]
+  },
+  {
+    "text": "c'est tragique",
+    "ipa": "sɛ tʁaʒik",
+    "translation": {"zh": "这很悲剧", "en": "it's tragic"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est tragique", "lemma": "tragique", "ipa": "sɛ tʁaʒik", "translation": {"zh": "这很悲剧", "en": "it's tragic"}, "emoji": "😢"}
+    ]
+  },
+  {
+    "text": "dans l'obscurité",
+    "ipa": "dɑ̃ lɔpskyʁite",
+    "translation": {"zh": "在黑暗中", "en": "in the dark"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "dans l'obscurité", "lemma": "obscurité", "ipa": "dɑ̃ lɔpskyʁite", "translation": {"zh": "在黑暗中", "en": "in the dark"}, "emoji": "🌑"}
+    ]
+  },
+  {
+    "text": "un organe vital",
+    "ipa": "œ̃ nɔʁɡan vital",
+    "translation": {"zh": "一个重要器官", "en": "a vital organ"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un organe", "lemma": "organe", "ipa": "œ̃ nɔʁɡan", "translation": {"zh": "一个器官", "en": "an organ"}, "emoji": ""},
+      {"text": "vital", "lemma": "vital", "ipa": "vital", "translation": {"zh": "重要的", "en": "vital"}, "emoji": "❤️"}
+    ]
+  },
+  {
+    "text": "ça symbolise la paix",
+    "ipa": "sa sɛ̃bɔliz la pɛ",
+    "translation": {"zh": "这象征着和平", "en": "it symbolizes peace"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "ça symbolise", "lemma": "symboliser", "ipa": "sa sɛ̃bɔliz", "translation": {"zh": "这象征", "en": "it symbolizes"}, "emoji": ""},
+      {"text": "la paix", "lemma": "paix", "ipa": "la pɛ", "translation": {"zh": "和平", "en": "peace"}, "emoji": "☮️"}
+    ]
+  }
+]

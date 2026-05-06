@@ -1,0 +1,398 @@
+[
+  {
+    "id": "2662e988-f067-419c-8a05-f7211c0a1072",
+    "text": "爸爸",
+    "ipa": "bà ba",
+    "en": "dad"
+  },
+  {
+    "id": "7ca514d2-6001-4999-bb36-a5b52fa8edbd",
+    "text": "杯子",
+    "ipa": "bēi zi",
+    "en": "cup"
+  },
+  {
+    "id": "b7c4991c-b7e8-495d-a135-da770d3ca387",
+    "text": "北京",
+    "ipa": "Běi jīng",
+    "en": "Beijing"
+  },
+  {
+    "id": "16eed229-e5ad-46ea-aaad-e748f822f14e",
+    "text": "不客气",
+    "ipa": "bú kè qi",
+    "en": "you're welcome"
+  },
+  {
+    "id": "d566aa93-4727-4561-8fe3-8e3b1998abf6",
+    "text": "出租车",
+    "ipa": "chū zū chē",
+    "en": "taxi"
+  },
+  {
+    "id": "89c9f1e2-3e41-444e-a2b2-f4593ac03e03",
+    "text": "打电话",
+    "ipa": "dǎ diàn huà",
+    "en": "make a call"
+  },
+  {
+    "id": "972b5c6c-e220-4b1d-b895-7126bf69bc5f",
+    "text": "电脑",
+    "ipa": "diàn nǎo",
+    "en": "computer"
+  },
+  {
+    "id": "24d1a136-fe17-461d-8967-e538913b060c",
+    "text": "电影",
+    "ipa": "diàn yǐng",
+    "en": "movie"
+  },
+  {
+    "id": "0b20982e-5944-4c40-ad4c-e796b33e2793",
+    "text": "东西",
+    "ipa": "dōng xi",
+    "en": "things"
+  },
+  {
+    "id": "93b4d91f-e205-4cf1-9d66-69d9820a5815",
+    "text": "对不起",
+    "ipa": "duì bu qǐ",
+    "en": "sorry"
+  },
+  {
+    "id": "d16383d0-8c98-4515-bfb5-e80a54956334",
+    "text": "多少",
+    "ipa": "duō shao",
+    "en": "how many"
+  },
+  {
+    "id": "83e6dce5-b976-4b52-87f9-5bb1a19519d3",
+    "text": "儿子",
+    "ipa": "ér zi",
+    "en": "son"
+  },
+  {
+    "id": "5c554603-08b9-4845-aab2-4f03e110a70d",
+    "text": "饭店",
+    "ipa": "fàn diàn",
+    "en": "restaurant"
+  },
+  {
+    "id": "69a8c8bc-d4b8-42bf-b432-e70dfd75b4f6",
+    "text": "飞机",
+    "ipa": "fēi jī",
+    "en": "airplane"
+  },
+  {
+    "id": "7857e75e-92de-45fb-bc56-9738ab218c42",
+    "text": "分钟",
+    "ipa": "fēn zhōng",
+    "en": "minute"
+  },
+  {
+    "id": "da192b68-885b-46fb-b12f-3ffe321dd494",
+    "text": "高兴",
+    "ipa": "gāo xìng",
+    "en": "happy"
+  },
+  {
+    "id": "1cfee66b-da7b-43c9-8994-507be4a617ee",
+    "text": "工作",
+    "ipa": "gōng zuò",
+    "en": "work"
+  },
+  {
+    "id": "174cd2eb-081f-4381-b1f6-9a1110140049",
+    "text": "汉语",
+    "ipa": "Hàn yǔ",
+    "en": "Chinese"
+  },
+  {
+    "id": "405186f4-a370-4477-87d0-87ef25d8ff97",
+    "text": "后面",
+    "ipa": "hòu mian",
+    "en": "behind"
+  },
+  {
+    "id": "088f1520-3a5e-48b6-b6c8-db5b8a4cab3b",
+    "text": "今天",
+    "ipa": "jīn tiān",
+    "en": "today"
+  },
+  {
+    "id": "57e62eef-c4f6-4133-9e98-4fd0bd002027",
+    "text": "看见",
+    "ipa": "kàn jiàn",
+    "en": "to see"
+  },
+  {
+    "id": "db754b89-c0be-4493-acd6-05e3176713e8",
+    "text": "老师",
+    "ipa": "lǎo shī",
+    "en": "teacher"
+  },
+  {
+    "id": "40ebd161-a76f-479e-bae9-19abf0437ba7",
+    "text": "妈妈",
+    "ipa": "mā ma",
+    "en": "mom"
+  },
+  {
+    "id": "320d93aa-6a86-466a-a866-6548e11211b0",
+    "text": "没关系",
+    "ipa": "méi guān xi",
+    "en": "no worries"
+  },
+  {
+    "id": "5bd1f5f4-c90e-4f1c-b0e2-3a9bc42385b7",
+    "text": "没有",
+    "ipa": "méi yǒu",
+    "en": "not have"
+  },
+  {
+    "id": "b17a690f-fbf2-43a9-beed-bc24faa60fe7",
+    "text": "明天",
+    "ipa": "míng tiān",
+    "en": "tomorrow"
+  },
+  {
+    "id": "3617c87e-c576-4096-9713-9d5aa53fdefa",
+    "text": "名字",
+    "ipa": "míng zi",
+    "en": "name"
+  },
+  {
+    "id": "47f90ed3-5cc5-4911-ba4a-f6761acf0d79",
+    "text": "哪儿",
+    "ipa": "nǎ r",
+    "en": "where"
+  },
+  {
+    "id": "4dd931b6-27c8-4e6d-a2df-07000383fdda",
+    "text": "女儿",
+    "ipa": "nǚ ér",
+    "en": "daughter"
+  },
+  {
+    "id": "22be2574-6cb0-466d-8fb7-7da8734206f6",
+    "text": "朋友",
+    "ipa": "péng you",
+    "en": "friend"
+  },
+  {
+    "id": "1b5d485e-4bec-4b6b-8c5e-5ecc3e5bde91",
+    "text": "漂亮",
+    "ipa": "piào liang",
+    "en": "pretty"
+  },
+  {
+    "id": "bac31751-49e4-4a7e-805b-ca39d51b53fe",
+    "text": "苹果",
+    "ipa": "píng guǒ",
+    "en": "apple"
+  },
+  {
+    "id": "757a4854-0637-46d6-9e9c-c21ffb7504e8",
+    "text": "前面",
+    "ipa": "qián miàn",
+    "en": "in front"
+  },
+  {
+    "id": "e38649b7-60b4-444d-80c6-d926cc626dff",
+    "text": "认识",
+    "ipa": "rèn shi",
+    "en": "to know"
+  },
+  {
+    "id": "a1c285d4-8310-407a-922d-62bd11df949d",
+    "text": "商店",
+    "ipa": "shāng diàn",
+    "en": "shop"
+  },
+  {
+    "id": "9a7b55bc-6efe-47fd-af6b-172c41b29b75",
+    "text": "上午",
+    "ipa": "shàng wǔ",
+    "en": "morning"
+  },
+  {
+    "id": "1882c3ca-da79-4851-a620-fa0d5bf4e0da",
+    "text": "什么",
+    "ipa": "shén me",
+    "en": "what"
+  },
+  {
+    "id": "04f61888-d96a-47e4-8ea1-54d8f1253657",
+    "text": "时候",
+    "ipa": "shí hou",
+    "en": "time"
+  },
+  {
+    "id": "db957398-642a-4bda-b393-32bbcdbe5f1e",
+    "text": "水果",
+    "ipa": "shuǐ guǒ",
+    "en": "fruit"
+  },
+  {
+    "id": "0718392c-e051-4610-a2d9-73bed6c8d0ac",
+    "text": "睡觉",
+    "ipa": "shuì jiào",
+    "en": "to sleep"
+  },
+  {
+    "id": "38beca0c-474b-416b-8186-7d3a580edb45",
+    "text": "天气",
+    "ipa": "tiān qì",
+    "en": "weather"
+  },
+  {
+    "id": "200112bb-6a0b-4427-8d3c-4bf3f9e39a03",
+    "text": "同学",
+    "ipa": "tóng xué",
+    "en": "classmate"
+  },
+  {
+    "id": "059a8318-4657-4fab-ae1c-df445aad8516",
+    "text": "我们",
+    "ipa": "wǒ men",
+    "en": "we"
+  },
+  {
+    "id": "8119b01b-dcf0-4ece-8a88-429ec82961ef",
+    "text": "喜欢",
+    "ipa": "xǐ huan",
+    "en": "to like"
+  },
+  {
+    "id": "deb8015b-1b07-4c48-864a-4061ac72fdda",
+    "text": "下午",
+    "ipa": "xià wǔ",
+    "en": "afternoon"
+  },
+  {
+    "id": "0de1e4fd-db07-4610-adb7-8247cfe2028a",
+    "text": "下雨",
+    "ipa": "xià yǔ",
+    "en": "to rain"
+  },
+  {
+    "id": "babefeee-8aae-4954-85c8-c8f04c2db002",
+    "text": "先生",
+    "ipa": "xiān sheng",
+    "en": "Mr."
+  },
+  {
+    "id": "4ab95e2d-9cb0-483f-ba0c-f40363da7265",
+    "text": "现在",
+    "ipa": "xiàn zài",
+    "en": "now"
+  },
+  {
+    "id": "a18c7af1-223b-49e8-9820-22e701ded316",
+    "text": "小姐",
+    "ipa": "xiǎo jie",
+    "en": "miss"
+  },
+  {
+    "id": "99e4d201-923e-4599-896d-c38feb0e0aff",
+    "text": "谢谢",
+    "ipa": "xiè xie",
+    "en": "thank you"
+  },
+  {
+    "id": "1bd2d8ba-3427-4447-b75f-7e362d603cc2",
+    "text": "星期",
+    "ipa": "xīng qī",
+    "en": "week"
+  },
+  {
+    "id": "5d122378-1f4e-49c6-a196-ce2b3041cf62",
+    "text": "学生",
+    "ipa": "xué sheng",
+    "en": "student"
+  },
+  {
+    "id": "7fcee53d-245b-4669-9796-239a9c7f3010",
+    "text": "学习",
+    "ipa": "xué xí",
+    "en": "to study"
+  },
+  {
+    "id": "cfbd8d1d-413e-4285-96d7-7fbafbdabe84",
+    "text": "学校",
+    "ipa": "xué xiào",
+    "en": "school"
+  },
+  {
+    "id": "1800907f-13d2-4694-9646-7ba03ade1355",
+    "text": "衣服",
+    "ipa": "yī fu",
+    "en": "clothes"
+  },
+  {
+    "id": "42958b79-2722-474c-b23d-9d4bbf4bf336",
+    "text": "医生",
+    "ipa": "yī shēng",
+    "en": "doctor"
+  },
+  {
+    "id": "fff476a3-34b6-42da-a967-cc9797095a7d",
+    "text": "医院",
+    "ipa": "yī yuàn",
+    "en": "hospital"
+  },
+  {
+    "id": "10da2963-1252-495f-95ba-0f78d061c91d",
+    "text": "椅子",
+    "ipa": "yǐ zi",
+    "en": "chair"
+  },
+  {
+    "id": "2f65f27b-2916-40fe-8a9b-5318a1ec204a",
+    "text": "一点儿",
+    "ipa": "yì diǎn r",
+    "en": "a bit"
+  },
+  {
+    "id": "c06ea825-8165-4fb2-a54f-6576aca4c165",
+    "text": "再见",
+    "ipa": "zài jiàn",
+    "en": "goodbye"
+  },
+  {
+    "id": "19875945-be04-4156-a4b8-a942b6ec7926",
+    "text": "怎么",
+    "ipa": "zěn me",
+    "en": "how"
+  },
+  {
+    "id": "735bb76c-9e80-4abf-a372-5c2f72db8b3d",
+    "text": "怎么样",
+    "ipa": "zěn me yàng",
+    "en": "how about"
+  },
+  {
+    "id": "2fb01364-a4ce-42f2-8cb3-0aad328331e7",
+    "text": "中国",
+    "ipa": "Zhōng guó",
+    "en": "China"
+  },
+  {
+    "id": "ba753b48-4811-4a1d-ace2-15e6cff5575e",
+    "text": "中午",
+    "ipa": "zhōng wǔ",
+    "en": "noon"
+  },
+  {
+    "id": "66d6053f-0ad0-46ee-81ef-92f7d0189313",
+    "text": "桌子",
+    "ipa": "zhuō zi",
+    "en": "table"
+  },
+  {
+    "id": "df6f8594-7c92-4f58-a066-95fd95b9c7d2",
+    "text": "昨天",
+    "ipa": "zuó tiān",
+    "en": "yesterday"
+  }
+]

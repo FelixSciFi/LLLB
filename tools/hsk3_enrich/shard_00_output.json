@@ -1,0 +1,862 @@
+[
+  {
+    "id": "3aef45af-4e8a-443d-b0fe-3d92b7d8aa42",
+    "text": "阿姨每天早上来打扫。",
+    "ipa": "ā yí měi tiān zǎo shang lái dǎ sǎo",
+    "translation": {
+      "zh": "阿姨每天早上来打扫。",
+      "en": "The auntie comes to clean every morning."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "阿姨",
+        "lemma": "阿姨",
+        "ipa": "ā yí",
+        "translation": {
+          "zh": "阿姨",
+          "en": "auntie; cleaning lady"
+        },
+        "emoji": "👩"
+      },
+      {
+        "text": "每天早上",
+        "lemma": "每天早上",
+        "ipa": "měi tiān zǎo shang",
+        "translation": {
+          "zh": "每天早上",
+          "en": "every morning"
+        },
+        "emoji": "🌅"
+      },
+      {
+        "text": "来",
+        "lemma": "来",
+        "ipa": "lái",
+        "translation": {
+          "zh": "来",
+          "en": "to come"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "打扫",
+        "lemma": "打扫",
+        "ipa": "dǎ sǎo",
+        "translation": {
+          "zh": "打扫",
+          "en": "to clean; to sweep"
+        },
+        "emoji": "🧹"
+      }
+    ]
+  },
+  {
+    "id": "ff593c60-f3ce-41d1-bd9c-9acf33b9a376",
+    "text": "我叫她王阿姨。",
+    "ipa": "wǒ jiào tā wáng ā yí",
+    "translation": {
+      "zh": "我叫她王阿姨。",
+      "en": "I call her Auntie Wang."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我叫她",
+        "lemma": "我叫她",
+        "ipa": "wǒ jiào tā",
+        "translation": {
+          "zh": "我叫她",
+          "en": "I call her"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "王阿姨",
+        "lemma": "王阿姨",
+        "ipa": "wáng ā yí",
+        "translation": {
+          "zh": "王阿姨",
+          "en": "Auntie Wang"
+        },
+        "emoji": "👩"
+      }
+    ]
+  },
+  {
+    "id": "7c5f1c7e-d52e-49e5-a8fd-63a38b260e79",
+    "text": "他比我矮一点儿。",
+    "ipa": "tā bǐ wǒ ǎi yī diǎnr",
+    "translation": {
+      "zh": "他比我矮一点儿。",
+      "en": "He is a little shorter than me."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他",
+        "lemma": "他",
+        "ipa": "tā",
+        "translation": {
+          "zh": "他",
+          "en": "he; him"
+        },
+        "emoji": "👦"
+      },
+      {
+        "text": "比我",
+        "lemma": "比我",
+        "ipa": "bǐ wǒ",
+        "translation": {
+          "zh": "比我",
+          "en": "compared to me; than me"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "矮",
+        "lemma": "矮",
+        "ipa": "ǎi",
+        "translation": {
+          "zh": "矮",
+          "en": "short (in height)"
+        },
+        "emoji": "📏"
+      },
+      {
+        "text": "一点儿",
+        "lemma": "一点儿",
+        "ipa": "yī diǎnr",
+        "translation": {
+          "zh": "一点儿",
+          "en": "a little; a bit"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "c73c369e-20c1-4b6c-8d1e-b4d233252e48",
+    "text": "这张桌子太矮了。",
+    "ipa": "zhè zhāng zhuō zi tài ǎi le",
+    "translation": {
+      "zh": "这张桌子太矮了。",
+      "en": "This table is too short."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这张桌子",
+        "lemma": "这张桌子",
+        "ipa": "zhè zhāng zhuō zi",
+        "translation": {
+          "zh": "这张桌子",
+          "en": "this table"
+        },
+        "emoji": "🪑"
+      },
+      {
+        "text": "太矮了",
+        "lemma": "太矮了",
+        "ipa": "tài ǎi le",
+        "translation": {
+          "zh": "太矮了",
+          "en": "too short"
+        },
+        "emoji": "📏"
+      }
+    ]
+  },
+  {
+    "id": "76998bfa-8e33-49f9-b6de-6a41d710cef9",
+    "text": "你有什么爱好？",
+    "ipa": "nǐ yǒu shén me ài hào",
+    "translation": {
+      "zh": "你有什么爱好？",
+      "en": "What hobbies do you have?"
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "你有",
+        "lemma": "你有",
+        "ipa": "nǐ yǒu",
+        "translation": {
+          "zh": "你有",
+          "en": "you have"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "什么",
+        "lemma": "什么",
+        "ipa": "shén me",
+        "translation": {
+          "zh": "什么",
+          "en": "what"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "爱好",
+        "lemma": "爱好",
+        "ipa": "ài hào",
+        "translation": {
+          "zh": "爱好",
+          "en": "hobby; interest"
+        },
+        "emoji": "🎨"
+      }
+    ]
+  },
+  {
+    "id": "06c31351-3cd6-42ac-ba6c-9bdc413d63c2",
+    "text": "我的爱好是画画。",
+    "ipa": "wǒ de ài hào shì huà huà",
+    "translation": {
+      "zh": "我的爱好是画画。",
+      "en": "My hobby is painting."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我的",
+        "lemma": "我的",
+        "ipa": "wǒ de",
+        "translation": {
+          "zh": "我的",
+          "en": "my"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "爱好",
+        "lemma": "爱好",
+        "ipa": "ài hào",
+        "translation": {
+          "zh": "爱好",
+          "en": "hobby; interest"
+        },
+        "emoji": "🎨"
+      },
+      {
+        "text": "是",
+        "lemma": "是",
+        "ipa": "shì",
+        "translation": {
+          "zh": "是",
+          "en": "is; to be"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "画画",
+        "lemma": "画画",
+        "ipa": "huà huà",
+        "translation": {
+          "zh": "画画",
+          "en": "to draw; to paint"
+        },
+        "emoji": "🖌️"
+      }
+    ]
+  },
+  {
+    "id": "b887933e-e54f-4201-a331-6d1553509ba5",
+    "text": "图书馆里很安静。",
+    "ipa": "tú shū guǎn lǐ hěn ān jìng",
+    "translation": {
+      "zh": "图书馆里很安静。",
+      "en": "The library is very quiet."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "图书馆里",
+        "lemma": "图书馆里",
+        "ipa": "tú shū guǎn lǐ",
+        "translation": {
+          "zh": "图书馆里",
+          "en": "inside the library"
+        },
+        "emoji": "📚"
+      },
+      {
+        "text": "很安静",
+        "lemma": "很安静",
+        "ipa": "hěn ān jìng",
+        "translation": {
+          "zh": "很安静",
+          "en": "very quiet"
+        },
+        "emoji": "🤫"
+      }
+    ]
+  },
+  {
+    "id": "ba88c76b-f3ac-4e3d-8f26-222434cdeb32",
+    "text": "请大家安静一下。",
+    "ipa": "qǐng dà jiā ān jìng yī xià",
+    "translation": {
+      "zh": "请大家安静一下。",
+      "en": "Please everyone be quiet for a moment."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "请大家",
+        "lemma": "请大家",
+        "ipa": "qǐng dà jiā",
+        "translation": {
+          "zh": "请大家",
+          "en": "please everyone"
+        },
+        "emoji": "🙏"
+      },
+      {
+        "text": "安静",
+        "lemma": "安静",
+        "ipa": "ān jìng",
+        "translation": {
+          "zh": "安静",
+          "en": "quiet; to be quiet"
+        },
+        "emoji": "🤫"
+      },
+      {
+        "text": "一下",
+        "lemma": "一下",
+        "ipa": "yī xià",
+        "translation": {
+          "zh": "一下",
+          "en": "for a moment; a bit"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "05ab0fce-a388-4583-a280-e4e14775bc1f",
+    "text": "把书放在桌上。",
+    "ipa": "bǎ shū fàng zài zhuō shang",
+    "translation": {
+      "zh": "把书放在桌上。",
+      "en": "Put the book on the table."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "把书",
+        "lemma": "把书",
+        "ipa": "bǎ shū",
+        "translation": {
+          "zh": "把书",
+          "en": "the book (direct object marker)"
+        },
+        "emoji": "📖"
+      },
+      {
+        "text": "放在桌上",
+        "lemma": "放在桌上",
+        "ipa": "fàng zài zhuō shang",
+        "translation": {
+          "zh": "放在桌上",
+          "en": "put on the table"
+        },
+        "emoji": "🪑"
+      }
+    ]
+  },
+  {
+    "id": "56bc1675-3fe2-4342-8e17-dd3f09e76b06",
+    "text": "他把作业忘在家里了。",
+    "ipa": "tā bǎ zuò yè wàng zài jiā lǐ le",
+    "translation": {
+      "zh": "他把作业忘在家里了。",
+      "en": "He left his homework at home."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他",
+        "lemma": "他",
+        "ipa": "tā",
+        "translation": {
+          "zh": "他",
+          "en": "he; him"
+        },
+        "emoji": "👦"
+      },
+      {
+        "text": "把作业",
+        "lemma": "把作业",
+        "ipa": "bǎ zuò yè",
+        "translation": {
+          "zh": "把作业",
+          "en": "the homework (direct object marker)"
+        },
+        "emoji": "📝"
+      },
+      {
+        "text": "忘在家里了",
+        "lemma": "忘在家里了",
+        "ipa": "wàng zài jiā lǐ le",
+        "translation": {
+          "zh": "忘在家里了",
+          "en": "forgot and left at home"
+        },
+        "emoji": "🏠"
+      }
+    ]
+  },
+  {
+    "id": "0dfc1e20-08b8-46fe-8592-3cdd2c5ec889",
+    "text": "我们班有三十个人。",
+    "ipa": "wǒ men bān yǒu sān shí gè rén",
+    "translation": {
+      "zh": "我们班有三十个人。",
+      "en": "There are thirty people in our class."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我们班",
+        "lemma": "我们班",
+        "ipa": "wǒ men bān",
+        "translation": {
+          "zh": "我们班",
+          "en": "our class"
+        },
+        "emoji": "🏫"
+      },
+      {
+        "text": "有",
+        "lemma": "有",
+        "ipa": "yǒu",
+        "translation": {
+          "zh": "有",
+          "en": "to have; there are"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "三十个人",
+        "lemma": "三十个人",
+        "ipa": "sān shí gè rén",
+        "translation": {
+          "zh": "三十个人",
+          "en": "thirty people"
+        },
+        "emoji": "👥"
+      }
+    ]
+  },
+  {
+    "id": "f5091a35-6178-40f1-8d52-9a86f2a2cb42",
+    "text": "他上班从不迟到。",
+    "ipa": "tā shàng bān cóng bù chí dào",
+    "translation": {
+      "zh": "他上班从不迟到。",
+      "en": "He is never late for work."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他",
+        "lemma": "他",
+        "ipa": "tā",
+        "translation": {
+          "zh": "他",
+          "en": "he; him"
+        },
+        "emoji": "👦"
+      },
+      {
+        "text": "上班",
+        "lemma": "上班",
+        "ipa": "shàng bān",
+        "translation": {
+          "zh": "上班",
+          "en": "to go to work"
+        },
+        "emoji": "💼"
+      },
+      {
+        "text": "从不迟到",
+        "lemma": "从不迟到",
+        "ipa": "cóng bù chí dào",
+        "translation": {
+          "zh": "从不迟到",
+          "en": "never late; never arrives late"
+        },
+        "emoji": "⏰"
+      }
+    ]
+  },
+  {
+    "id": "4ab0f107-bc57-46f2-8f9d-5f9996ffcb82",
+    "text": "他们上周搬进新家了。",
+    "ipa": "tā men shàng zhōu bān jìn xīn jiā le",
+    "translation": {
+      "zh": "他们上周搬进新家了。",
+      "en": "They moved into their new home last week."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他们",
+        "lemma": "他们",
+        "ipa": "tā men",
+        "translation": {
+          "zh": "他们",
+          "en": "they; them"
+        },
+        "emoji": "👥"
+      },
+      {
+        "text": "上周",
+        "lemma": "上周",
+        "ipa": "shàng zhōu",
+        "translation": {
+          "zh": "上周",
+          "en": "last week"
+        },
+        "emoji": "📅"
+      },
+      {
+        "text": "搬进",
+        "lemma": "搬进",
+        "ipa": "bān jìn",
+        "translation": {
+          "zh": "搬进",
+          "en": "to move into"
+        },
+        "emoji": "📦"
+      },
+      {
+        "text": "新家了",
+        "lemma": "新家了",
+        "ipa": "xīn jiā le",
+        "translation": {
+          "zh": "新家了",
+          "en": "new home"
+        },
+        "emoji": "🏠"
+      }
+    ]
+  },
+  {
+    "id": "bf6b634d-c353-42fe-b69e-3f62f010d1e1",
+    "text": "帮我搬一下这个箱子。",
+    "ipa": "bāng wǒ bān yī xià zhè gè xiāng zi",
+    "translation": {
+      "zh": "帮我搬一下这个箱子。",
+      "en": "Help me move this box."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "帮我",
+        "lemma": "帮我",
+        "ipa": "bāng wǒ",
+        "translation": {
+          "zh": "帮我",
+          "en": "help me"
+        },
+        "emoji": "🤝"
+      },
+      {
+        "text": "搬",
+        "lemma": "搬",
+        "ipa": "bān",
+        "translation": {
+          "zh": "搬",
+          "en": "to move; to carry"
+        },
+        "emoji": "📦"
+      },
+      {
+        "text": "一下",
+        "lemma": "一下",
+        "ipa": "yī xià",
+        "translation": {
+          "zh": "一下",
+          "en": "for a moment; a bit"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "这个箱子",
+        "lemma": "这个箱子",
+        "ipa": "zhè gè xiāng zi",
+        "translation": {
+          "zh": "这个箱子",
+          "en": "this box"
+        },
+        "emoji": "📦"
+      }
+    ]
+  },
+  {
+    "id": "bd03aefe-fa06-4eaf-a3fc-e2a5923e267b",
+    "text": "我想到一个好办法。",
+    "ipa": "wǒ xiǎng dào yī gè hǎo bàn fǎ",
+    "translation": {
+      "zh": "我想到一个好办法。",
+      "en": "I thought of a good solution."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我",
+        "lemma": "我",
+        "ipa": "wǒ",
+        "translation": {
+          "zh": "我",
+          "en": "I; me"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "想到",
+        "lemma": "想到",
+        "ipa": "xiǎng dào",
+        "translation": {
+          "zh": "想到",
+          "en": "to think of; to come up with"
+        },
+        "emoji": "💡"
+      },
+      {
+        "text": "一个好",
+        "lemma": "一个好",
+        "ipa": "yī gè hǎo",
+        "translation": {
+          "zh": "一个好",
+          "en": "a good"
+        },
+        "emoji": "👍"
+      },
+      {
+        "text": "办法",
+        "lemma": "办法",
+        "ipa": "bàn fǎ",
+        "translation": {
+          "zh": "办法",
+          "en": "method; solution; way"
+        },
+        "emoji": "🔑"
+      }
+    ]
+  },
+  {
+    "id": "70906a81-dc38-4812-ad28-2e071d371ff3",
+    "text": "这个问题没有办法解决。",
+    "ipa": "zhè gè wèn tí méi yǒu bàn fǎ jiě jué",
+    "translation": {
+      "zh": "这个问题没有办法解决。",
+      "en": "There is no way to solve this problem."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这个问题",
+        "lemma": "这个问题",
+        "ipa": "zhè gè wèn tí",
+        "translation": {
+          "zh": "这个问题",
+          "en": "this problem; this question"
+        },
+        "emoji": "❓"
+      },
+      {
+        "text": "没有办法",
+        "lemma": "没有办法",
+        "ipa": "méi yǒu bàn fǎ",
+        "translation": {
+          "zh": "没有办法",
+          "en": "there is no way; no solution"
+        },
+        "emoji": "🚫"
+      },
+      {
+        "text": "解决",
+        "lemma": "解决",
+        "ipa": "jiě jué",
+        "translation": {
+          "zh": "解决",
+          "en": "to solve; to resolve"
+        },
+        "emoji": "✅"
+      }
+    ]
+  },
+  {
+    "id": "17c8af6d-18bb-4aa2-bf7c-0f76ada72f16",
+    "text": "他在办公室等你。",
+    "ipa": "tā zài bàn gōng shì děng nǐ",
+    "translation": {
+      "zh": "他在办公室等你。",
+      "en": "He is waiting for you in the office."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他",
+        "lemma": "他",
+        "ipa": "tā",
+        "translation": {
+          "zh": "他",
+          "en": "he; him"
+        },
+        "emoji": "👦"
+      },
+      {
+        "text": "在办公室",
+        "lemma": "在办公室",
+        "ipa": "zài bàn gōng shì",
+        "translation": {
+          "zh": "在办公室",
+          "en": "in the office"
+        },
+        "emoji": "🏢"
+      },
+      {
+        "text": "等你",
+        "lemma": "等你",
+        "ipa": "děng nǐ",
+        "translation": {
+          "zh": "等你",
+          "en": "waiting for you"
+        },
+        "emoji": "⏳"
+      }
+    ]
+  },
+  {
+    "id": "3944db73-d6c8-44b4-b81d-875d2b58235a",
+    "text": "办公室里只有她一个人。",
+    "ipa": "bàn gōng shì lǐ zhǐ yǒu tā yī gè rén",
+    "translation": {
+      "zh": "办公室里只有她一个人。",
+      "en": "There is only her alone in the office."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "办公室里",
+        "lemma": "办公室里",
+        "ipa": "bàn gōng shì lǐ",
+        "translation": {
+          "zh": "办公室里",
+          "en": "inside the office"
+        },
+        "emoji": "🏢"
+      },
+      {
+        "text": "只有",
+        "lemma": "只有",
+        "ipa": "zhǐ yǒu",
+        "translation": {
+          "zh": "只有",
+          "en": "only; there is only"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "她",
+        "lemma": "她",
+        "ipa": "tā",
+        "translation": {
+          "zh": "她",
+          "en": "she; her"
+        },
+        "emoji": "👩"
+      },
+      {
+        "text": "一个人",
+        "lemma": "一个人",
+        "ipa": "yī gè rén",
+        "translation": {
+          "zh": "一个人",
+          "en": "one person; alone"
+        },
+        "emoji": "🧍"
+      }
+    ]
+  },
+  {
+    "id": "1774cbf0-dee8-4f66-98fe-49f515ae53c8",
+    "text": "现在是八点半。",
+    "ipa": "xiàn zài shì bā diǎn bàn",
+    "translation": {
+      "zh": "现在是八点半。",
+      "en": "It is now eight-thirty."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "现在是",
+        "lemma": "现在是",
+        "ipa": "xiàn zài shì",
+        "translation": {
+          "zh": "现在是",
+          "en": "it is now; now it is"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "八点半",
+        "lemma": "八点半",
+        "ipa": "bā diǎn bàn",
+        "translation": {
+          "zh": "八点半",
+          "en": "eight-thirty; half past eight"
+        },
+        "emoji": "🕣"
+      }
+    ]
+  },
+  {
+    "id": "485da622-b41a-4cd5-8059-01bff8f9a863",
+    "text": "我等了半个小时。",
+    "ipa": "wǒ děng le bàn gè xiǎo shí",
+    "translation": {
+      "zh": "我等了半个小时。",
+      "en": "I waited for half an hour."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我",
+        "lemma": "我",
+        "ipa": "wǒ",
+        "translation": {
+          "zh": "我",
+          "en": "I; me"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "等了",
+        "lemma": "等了",
+        "ipa": "děng le",
+        "translation": {
+          "zh": "等了",
+          "en": "waited"
+        },
+        "emoji": "⏳"
+      },
+      {
+        "text": "半个小时",
+        "lemma": "半个小时",
+        "ipa": "bàn gè xiǎo shí",
+        "translation": {
+          "zh": "半个小时",
+          "en": "half an hour"
+        },
+        "emoji": "⏰"
+      }
+    ]
+  }
+]

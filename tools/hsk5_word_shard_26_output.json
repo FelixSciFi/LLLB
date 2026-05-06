@@ -1,0 +1,182 @@
+[
+  {
+    "input_text": "人类",
+    "entries": [
+      {"text": "人类", "pinyin": "rén lèi", "en": "humankind", "emoji": "👥"}
+    ]
+  },
+  {
+    "input_text": "人民币",
+    "entries": [
+      {"text": "人民币", "pinyin": "rén mín bì", "en": "Chinese yuan (RMB)", "emoji": "💴"}
+    ]
+  },
+  {
+    "input_text": "人生",
+    "entries": [
+      {"text": "人生", "pinyin": "rén shēng", "en": "one's life", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "人事",
+    "entries": [
+      {"text": "人事", "pinyin": "rén shì", "en": "personnel; HR", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "人物",
+    "entries": [
+      {"text": "人物", "pinyin": "rén wù", "en": "figure; character", "emoji": "🧑"}
+    ]
+  },
+  {
+    "input_text": "人员",
+    "entries": [
+      {"text": "人员", "pinyin": "rén yuán", "en": "personnel; staff", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "忍不住",
+    "entries": [
+      {"text": "忍不住", "pinyin": "rěn bu zhù", "en": "can't help but", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "日常",
+    "entries": [
+      {"text": "日常", "pinyin": "rì cháng", "en": "daily; everyday", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "日程",
+    "entries": [
+      {"text": "日程", "pinyin": "rì chéng", "en": "schedule; agenda", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_text": "日历",
+    "entries": [
+      {"text": "日历", "pinyin": "rì lì", "en": "calendar", "emoji": "📆"}
+    ]
+  },
+  {
+    "input_text": "日期",
+    "entries": [
+      {"text": "日期", "pinyin": "rì qī", "en": "date", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_text": "日用品",
+    "entries": [
+      {"text": "日用品", "pinyin": "rì yòng pǐn", "en": "daily necessities", "emoji": "🧴"}
+    ]
+  },
+  {
+    "input_text": "日子",
+    "entries": [
+      {"text": "日子", "pinyin": "rì zi", "en": "day; days; life", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "如何",
+    "entries": [
+      {"text": "如何", "pinyin": "rú hé", "en": "how; in what way", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "如今",
+    "entries": [
+      {"text": "如今", "pinyin": "rú jīn", "en": "nowadays; today", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "软",
+    "entries": [
+      {"text": "软", "pinyin": "ruǎn", "en": "soft", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "软件",
+    "entries": [
+      {"text": "软件", "pinyin": "ruǎn jiàn", "en": "software", "emoji": "💻"}
+    ]
+  },
+  {
+    "input_text": "弱",
+    "entries": [
+      {"text": "弱", "pinyin": "ruò", "en": "weak; feeble", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "洒",
+    "entries": [
+      {"text": "洒", "pinyin": "sǎ", "en": "to sprinkle; to spill", "emoji": "💧"}
+    ]
+  },
+  {
+    "input_text": "嗓子",
+    "entries": [
+      {"text": "嗓子", "pinyin": "sǎng zi", "en": "throat; voice", "emoji": "🗣️"}
+    ]
+  },
+  {
+    "input_text": "色彩",
+    "entries": [
+      {"text": "色彩", "pinyin": "sè cǎi", "en": "color; hue", "emoji": "🎨"}
+    ]
+  },
+  {
+    "input_text": "杀",
+    "entries": [
+      {"text": "杀", "pinyin": "shā", "en": "to kill", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "沙漠",
+    "entries": [
+      {"text": "沙漠", "pinyin": "shā mò", "en": "desert", "emoji": "🏜️"}
+    ]
+  },
+  {
+    "input_text": "沙滩",
+    "entries": [
+      {"text": "沙滩", "pinyin": "shā tān", "en": "beach; sandy shore", "emoji": "🏖️"}
+    ]
+  },
+  {
+    "input_text": "傻",
+    "entries": [
+      {"text": "傻", "pinyin": "shǎ", "en": "foolish; silly", "emoji": "😜"}
+    ]
+  },
+  {
+    "input_text": "晒",
+    "entries": [
+      {"text": "晒", "pinyin": "shài", "en": "to sun; to bask in sun", "emoji": "☀️"}
+    ]
+  },
+  {
+    "input_text": "删除",
+    "entries": [
+      {"text": "删除", "pinyin": "shān chú", "en": "to delete; to remove", "emoji": "🗑️"}
+    ]
+  },
+  {
+    "input_text": "闪电",
+    "entries": [
+      {"text": "闪电", "pinyin": "shǎn diàn", "en": "lightning", "emoji": "⚡"}
+    ]
+  },
+  {
+    "input_text": "扇子",
+    "entries": [
+      {"text": "扇子", "pinyin": "shàn zi", "en": "handheld fan", "emoji": "🪭"}
+    ]
+  },
+  {
+    "input_text": "善良",
+    "entries": [
+      {"text": "善良", "pinyin": "shàn liáng", "en": "kind; good-natured", "emoji": "💛"}
+    ]
+  }
+]

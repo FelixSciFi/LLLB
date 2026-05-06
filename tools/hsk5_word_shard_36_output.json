@@ -1,0 +1,182 @@
+[
+  {
+    "input_text": "学历",
+    "entries": [
+      {"text": "学历", "pinyin": "xué lì", "en": "academic qualifications", "emoji": "🎓"}
+    ]
+  },
+  {
+    "input_text": "学术",
+    "entries": [
+      {"text": "学术", "pinyin": "xué shù", "en": "academic; scholarly", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "学问",
+    "entries": [
+      {"text": "学问", "pinyin": "xué wèn", "en": "knowledge; learning", "emoji": "📚"}
+    ]
+  },
+  {
+    "input_text": "寻找",
+    "entries": [
+      {"text": "寻找", "pinyin": "xún zhǎo", "en": "to search for", "emoji": "🔍"}
+    ]
+  },
+  {
+    "input_text": "询问",
+    "entries": [
+      {"text": "询问", "pinyin": "xún wèn", "en": "to inquire; to ask", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "训练",
+    "entries": [
+      {"text": "训练", "pinyin": "xùn liàn", "en": "to train; training", "emoji": "🏋️"}
+    ]
+  },
+  {
+    "input_text": "迅速",
+    "entries": [
+      {"text": "迅速", "pinyin": "xùn sù", "en": "rapid; swift", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "押金",
+    "entries": [
+      {"text": "押金", "pinyin": "yā jīn", "en": "deposit; security deposit", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_text": "牙齿",
+    "entries": [
+      {"text": "牙齿", "pinyin": "yá chǐ", "en": "teeth", "emoji": "🦷"}
+    ]
+  },
+  {
+    "input_text": "延长",
+    "entries": [
+      {"text": "延长", "pinyin": "yán cháng", "en": "to extend; to lengthen", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "严肃",
+    "entries": [
+      {"text": "严肃", "pinyin": "yán sù", "en": "serious; solemn", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "演讲",
+    "entries": [
+      {"text": "演讲", "pinyin": "yǎn jiǎng", "en": "speech; to give a lecture", "emoji": "🎤"}
+    ]
+  },
+  {
+    "input_text": "宴会",
+    "entries": [
+      {"text": "宴会", "pinyin": "yàn huì", "en": "banquet; feast", "emoji": "🍽️"}
+    ]
+  },
+  {
+    "input_text": "阳台",
+    "entries": [
+      {"text": "阳台", "pinyin": "yáng tái", "en": "balcony", "emoji": "🏠"}
+    ]
+  },
+  {
+    "input_text": "痒",
+    "entries": [
+      {"text": "痒", "pinyin": "yǎng", "en": "itchy", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "样式",
+    "entries": [
+      {"text": "样式", "pinyin": "yàng shì", "en": "style; pattern; design", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "腰",
+    "entries": [
+      {"text": "腰", "pinyin": "yāo", "en": "waist; lower back", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "摇",
+    "entries": [
+      {"text": "摇", "pinyin": "yáo", "en": "to shake; to rock", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "咬",
+    "entries": [
+      {"text": "咬", "pinyin": "yǎo", "en": "to bite", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "要不",
+    "entries": [
+      {"text": "要不", "pinyin": "yào bù", "en": "otherwise; or else", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "业务",
+    "entries": [
+      {"text": "业务", "pinyin": "yè wù", "en": "business; professional work", "emoji": "💼"}
+    ]
+  },
+  {
+    "input_text": "业余",
+    "entries": [
+      {"text": "业余", "pinyin": "yè yú", "en": "amateur; spare-time", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "夜",
+    "entries": [
+      {"text": "夜", "pinyin": "yè", "en": "night", "emoji": "🌙"}
+    ]
+  },
+  {
+    "input_text": "一辈子",
+    "entries": [
+      {"text": "一辈子", "pinyin": "yī bèi zi", "en": "a lifetime; all one's life", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "一旦",
+    "entries": [
+      {"text": "一旦", "pinyin": "yī dàn", "en": "once; if ever", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "一律",
+    "entries": [
+      {"text": "一律", "pinyin": "yī lǜ", "en": "uniformly; without exception", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "一再",
+    "entries": [
+      {"text": "一再", "pinyin": "yī zài", "en": "repeatedly; time and again", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "一致",
+    "entries": [
+      {"text": "一致", "pinyin": "yī zhì", "en": "unanimous; consistent", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "依然",
+    "entries": [
+      {"text": "依然", "pinyin": "yī rán", "en": "still; as before", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "移动",
+    "entries": [
+      {"text": "移动", "pinyin": "yí dòng", "en": "to move; mobile", "emoji": "📱"}
+    ]
+  }
+]

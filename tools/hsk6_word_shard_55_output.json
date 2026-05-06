@@ -1,0 +1,182 @@
+[
+  {
+    "input_text": "示威",
+    "entries": [
+      {"text": "示威", "pinyin": "shì wēi", "en": "protest; demonstrate", "emoji": "✊"}
+    ]
+  },
+  {
+    "input_text": "示意",
+    "entries": [
+      {"text": "示意", "pinyin": "shì yì", "en": "signal; gesture", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "世代",
+    "entries": [
+      {"text": "世代", "pinyin": "shì dài", "en": "generation; era", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "势必",
+    "entries": [
+      {"text": "势必", "pinyin": "shì bì", "en": "inevitably; bound to", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "势力",
+    "entries": [
+      {"text": "势力", "pinyin": "shì li", "en": "power; influence", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "事故",
+    "entries": [
+      {"text": "事故", "pinyin": "shì gù", "en": "accident; incident", "emoji": "🚨"}
+    ]
+  },
+  {
+    "input_text": "事迹",
+    "entries": [
+      {"text": "事迹", "pinyin": "shì jì", "en": "deeds; achievements", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "事件",
+    "entries": [
+      {"text": "事件", "pinyin": "shì jiàn", "en": "event; incident", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "事态",
+    "entries": [
+      {"text": "事态", "pinyin": "shì tài", "en": "state of affairs", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "事务",
+    "entries": [
+      {"text": "事务", "pinyin": "shì wù", "en": "affairs; business", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "事项",
+    "entries": [
+      {"text": "事项", "pinyin": "shì xiàng", "en": "item; matter", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "事业",
+    "entries": [
+      {"text": "事业", "pinyin": "shì yè", "en": "career; undertaking", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "试图",
+    "entries": [
+      {"text": "试图", "pinyin": "shì tú", "en": "attempt; try to", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "试验",
+    "entries": [
+      {"text": "试验", "pinyin": "shì yàn", "en": "experiment; test", "emoji": "🧪"}
+    ]
+  },
+  {
+    "input_text": "视力",
+    "entries": [
+      {"text": "视力", "pinyin": "shì lì", "en": "eyesight; vision", "emoji": "👁️"}
+    ]
+  },
+  {
+    "input_text": "视频",
+    "entries": [
+      {"text": "视频", "pinyin": "shì pín", "en": "video", "emoji": "📹"}
+    ]
+  },
+  {
+    "input_text": "视线",
+    "entries": [
+      {"text": "视线", "pinyin": "shì xiàn", "en": "line of sight; gaze", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "视野",
+    "entries": [
+      {"text": "视野", "pinyin": "shì yě", "en": "field of vision; horizon", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "是非",
+    "entries": [
+      {"text": "是非", "pinyin": "shì fēi", "en": "right and wrong", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "适宜",
+    "entries": [
+      {"text": "适宜", "pinyin": "shì yí", "en": "suitable; appropriate", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "逝世",
+    "entries": [
+      {"text": "逝世", "pinyin": "shì shì", "en": "pass away; die", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "释放",
+    "entries": [
+      {"text": "释放", "pinyin": "shì fàng", "en": "release; free", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "收藏",
+    "entries": [
+      {"text": "收藏", "pinyin": "shōu cáng", "en": "collect; save", "emoji": "🗂️"}
+    ]
+  },
+  {
+    "input_text": "收缩",
+    "entries": [
+      {"text": "收缩", "pinyin": "shōu suō", "en": "contract; shrink", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "收益",
+    "entries": [
+      {"text": "收益", "pinyin": "shōu yì", "en": "earnings; profit", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_text": "收音机",
+    "entries": [
+      {"text": "收音机", "pinyin": "shōu yīn jī", "en": "radio", "emoji": "📻"}
+    ]
+  },
+  {
+    "input_text": "手法",
+    "entries": [
+      {"text": "手法", "pinyin": "shǒu fǎ", "en": "technique; method", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "手势",
+    "entries": [
+      {"text": "手势", "pinyin": "shǒu shì", "en": "gesture; hand signal", "emoji": "🤌"}
+    ]
+  },
+  {
+    "input_text": "手艺",
+    "entries": [
+      {"text": "手艺", "pinyin": "shǒu yì", "en": "craft; craftsmanship", "emoji": "🛠️"}
+    ]
+  },
+  {
+    "input_text": "守护",
+    "entries": [
+      {"text": "守护", "pinyin": "shǒu hù", "en": "guard; protect", "emoji": "🛡️"}
+    ]
+  }
+]

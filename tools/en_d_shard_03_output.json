@@ -1,0 +1,188 @@
+[
+  {
+    "input_word": "dig",
+    "entries": [
+      {"text": "dig", "ipa": "/dɪɡ/", "cefr": "B2", "zh": "挖掘", "emoji": "⛏️"}
+    ]
+  },
+  {
+    "input_word": "digital",
+    "entries": [
+      {"text": "digital", "ipa": "/ˈdɪdʒɪtl/", "cefr": "A2", "zh": "数字的", "emoji": "💻"}
+    ]
+  },
+  {
+    "input_word": "dinner",
+    "entries": [
+      {"text": "dinner", "ipa": "/ˈdɪnər/", "cefr": "A1", "zh": "晚餐", "emoji": "🍽️"}
+    ]
+  },
+  {
+    "input_word": "direct",
+    "entries": [
+      {"text": "direct", "ipa": "/dɪˈrɛkt/", "cefr": "A2", "zh": "直接的", "emoji": "➡️"},
+      {"text": "direct", "ipa": "/dɪˈrɛkt/", "cefr": "A2", "zh": "指导", "emoji": "🎬"}
+    ]
+  },
+  {
+    "input_word": "direction",
+    "entries": [
+      {"text": "direction", "ipa": "/dɪˈrɛkʃn/", "cefr": "A2", "zh": "方向", "emoji": "🧭"}
+    ]
+  },
+  {
+    "input_word": "directly",
+    "entries": [
+      {"text": "directly", "ipa": "/dɪˈrɛktli/", "cefr": "B1", "zh": "直接地", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "director",
+    "entries": [
+      {"text": "director", "ipa": "/dɪˈrɛktər/", "cefr": "A2", "zh": "主任", "emoji": "👔"},
+      {"text": "director", "ipa": "/dɪˈrɛktər/", "cefr": "A2", "zh": "导演", "emoji": "🎬"}
+    ]
+  },
+  {
+    "input_word": "dirt",
+    "entries": [
+      {"text": "dirt", "ipa": "/dɜːrt/", "cefr": "B1", "zh": "泥土", "emoji": "🟫"}
+    ]
+  },
+  {
+    "input_word": "dirty",
+    "entries": [
+      {"text": "dirty", "ipa": "/ˈdɜːrti/", "cefr": "A1", "zh": "肮脏的", "emoji": "🧹"}
+    ]
+  },
+  {
+    "input_word": "disadvantage",
+    "entries": [
+      {"text": "disadvantage", "ipa": "/ˌdɪsədˈvæntɪdʒ/", "cefr": "B1", "zh": "劣势", "emoji": "👎"}
+    ]
+  },
+  {
+    "input_word": "disagree",
+    "entries": [
+      {"text": "disagree", "ipa": "/ˌdɪsəˈɡriː/", "cefr": "A2", "zh": "不同意", "emoji": "🙅"}
+    ]
+  },
+  {
+    "input_word": "disappear",
+    "entries": [
+      {"text": "disappear", "ipa": "/ˌdɪsəˈpɪr/", "cefr": "A2", "zh": "消失", "emoji": "💨"}
+    ]
+  },
+  {
+    "input_word": "disappointed",
+    "entries": [
+      {"text": "disappointed", "ipa": "/ˌdɪsəˈpɔɪntɪd/", "cefr": "B1", "zh": "失望的", "emoji": "😞"}
+    ]
+  },
+  {
+    "input_word": "disappointing",
+    "entries": [
+      {"text": "disappointing", "ipa": "/ˌdɪsəˈpɔɪntɪŋ/", "cefr": "B1", "zh": "令人失望", "emoji": "😔"}
+    ]
+  },
+  {
+    "input_word": "disaster",
+    "entries": [
+      {"text": "disaster", "ipa": "/dɪˈzæstər/", "cefr": "A2", "zh": "灾难", "emoji": "🌪️"}
+    ]
+  },
+  {
+    "input_word": "disc",
+    "entries": [
+      {"text": "disc", "ipa": "/dɪsk/", "cefr": "B2", "zh": "圆盘", "emoji": "💿"}
+    ]
+  },
+  {
+    "input_word": "discipline",
+    "entries": [
+      {"text": "discipline", "ipa": "/ˈdɪsəplɪn/", "cefr": "B2", "zh": "纪律", "emoji": "📏"},
+      {"text": "discipline", "ipa": "/ˈdɪsəplɪn/", "cefr": "B2", "zh": "学科", "emoji": "📚"}
+    ]
+  },
+  {
+    "input_word": "discount",
+    "entries": [
+      {"text": "discount", "ipa": "/ˈdɪskaʊnt/", "cefr": "B1", "zh": "折扣", "emoji": "🏷️"}
+    ]
+  },
+  {
+    "input_word": "discover",
+    "entries": [
+      {"text": "discover", "ipa": "/dɪˈskʌvər/", "cefr": "A2", "zh": "发现", "emoji": "🔍"}
+    ]
+  },
+  {
+    "input_word": "discovery",
+    "entries": [
+      {"text": "discovery", "ipa": "/dɪˈskʌvəri/", "cefr": "A2", "zh": "发现", "emoji": "🔭"}
+    ]
+  },
+  {
+    "input_word": "discuss",
+    "entries": [
+      {"text": "discuss", "ipa": "/dɪˈskʌs/", "cefr": "A1", "zh": "讨论", "emoji": "💬"}
+    ]
+  },
+  {
+    "input_word": "discussion",
+    "entries": [
+      {"text": "discussion", "ipa": "/dɪˈskʌʃn/", "cefr": "A2", "zh": "讨论", "emoji": "🗣️"}
+    ]
+  },
+  {
+    "input_word": "disease",
+    "entries": [
+      {"text": "disease", "ipa": "/dɪˈziːz/", "cefr": "A2", "zh": "疾病", "emoji": "🦠"}
+    ]
+  },
+  {
+    "input_word": "dish",
+    "entries": [
+      {"text": "dish", "ipa": "/dɪʃ/", "cefr": "A1", "zh": "菜肴", "emoji": "🍜"},
+      {"text": "dish", "ipa": "/dɪʃ/", "cefr": "A1", "zh": "盘子", "emoji": "🍽️"}
+    ]
+  },
+  {
+    "input_word": "dishonest",
+    "entries": [
+      {"text": "dishonest", "ipa": "/dɪsˈɑːnɪst/", "cefr": "B2", "zh": "不诚实的", "emoji": "🤥"}
+    ]
+  },
+  {
+    "input_word": "disk",
+    "entries": [
+      {"text": "disk", "ipa": "/dɪsk/", "cefr": "B2", "zh": "磁盘", "emoji": "💾"}
+    ]
+  },
+  {
+    "input_word": "dislike",
+    "entries": [
+      {"text": "dislike", "ipa": "/dɪsˈlaɪk/", "cefr": "B1", "zh": "不喜欢", "emoji": "👎"}
+    ]
+  },
+  {
+    "input_word": "dismiss",
+    "entries": [
+      {"text": "dismiss", "ipa": "/dɪsˈmɪs/", "cefr": "B2", "zh": "驳回", "emoji": "🚫"},
+      {"text": "dismiss", "ipa": "/dɪsˈmɪs/", "cefr": "B2", "zh": "解雇", "emoji": "📤"}
+    ]
+  },
+  {
+    "input_word": "display",
+    "entries": [
+      {"text": "display", "ipa": "/dɪˈspleɪ/", "cefr": "B2", "zh": "展示", "emoji": "🖥️"},
+      {"text": "display", "ipa": "/dɪˈspleɪ/", "cefr": "B2", "zh": "显示器", "emoji": "📺"}
+    ]
+  },
+  {
+    "input_word": "distance",
+    "entries": [
+      {"text": "distance", "ipa": "/ˈdɪstəns/", "cefr": "A2", "zh": "距离", "emoji": "📏"}
+    ]
+  }
+]

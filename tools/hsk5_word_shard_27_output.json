@@ -1,0 +1,183 @@
+[
+  {
+    "input_text": "善于",
+    "entries": [
+      {"text": "善于", "pinyin": "shàn yú", "en": "be good at", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "伤害",
+    "entries": [
+      {"text": "伤害", "pinyin": "shāng hài", "en": "hurt; harm", "emoji": "🤕"}
+    ]
+  },
+  {
+    "input_text": "商品",
+    "entries": [
+      {"text": "商品", "pinyin": "shāng pǐn", "en": "commodity; goods", "emoji": "🛒"}
+    ]
+  },
+  {
+    "input_text": "商务",
+    "entries": [
+      {"text": "商务", "pinyin": "shāng wù", "en": "business affairs", "emoji": "💼"}
+    ]
+  },
+  {
+    "input_text": "商业",
+    "entries": [
+      {"text": "商业", "pinyin": "shāng yè", "en": "commerce; business", "emoji": "🏪"}
+    ]
+  },
+  {
+    "input_text": "上当",
+    "entries": [
+      {"text": "上当", "pinyin": "shàng dàng", "en": "be fooled; be tricked", "emoji": "😤"}
+    ]
+  },
+  {
+    "input_text": "蛇",
+    "entries": [
+      {"text": "蛇", "pinyin": "shé", "en": "snake", "emoji": "🐍"}
+    ]
+  },
+  {
+    "input_text": "舍不得",
+    "entries": [
+      {"text": "舍不得", "pinyin": "shě bu dé", "en": "reluctant to part with", "emoji": "😢"}
+    ]
+  },
+  {
+    "input_text": "设备",
+    "entries": [
+      {"text": "设备", "pinyin": "shè bèi", "en": "equipment; device", "emoji": "🔧"}
+    ]
+  },
+  {
+    "input_text": "设计",
+    "entries": [
+      {"text": "设计", "pinyin": "shè jì", "en": "design", "emoji": "✏️"}
+    ]
+  },
+  {
+    "input_text": "设施",
+    "entries": [
+      {"text": "设施", "pinyin": "shè shī", "en": "facilities; infrastructure", "emoji": "🏗️"}
+    ]
+  },
+  {
+    "input_text": "射击",
+    "entries": [
+      {"text": "射击", "pinyin": "shè jī", "en": "shoot; shooting", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_text": "摄影",
+    "entries": [
+      {"text": "摄影", "pinyin": "shè yǐng", "en": "photography", "emoji": "📷"}
+    ]
+  },
+  {
+    "input_text": "伸",
+    "entries": [
+      {"text": "伸", "pinyin": "shēn", "en": "stretch; extend", "emoji": "🤸"}
+    ]
+  },
+  {
+    "input_text": "身材",
+    "entries": [
+      {"text": "身材", "pinyin": "shēn cái", "en": "body figure; build", "emoji": "🧍"}
+    ]
+  },
+  {
+    "input_text": "身份",
+    "entries": [
+      {"text": "身份", "pinyin": "shēn fèn", "en": "identity; status", "emoji": "🪪"}
+    ]
+  },
+  {
+    "input_text": "深刻",
+    "entries": [
+      {"text": "深刻", "pinyin": "shēn kè", "en": "profound; deep", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "神话",
+    "entries": [
+      {"text": "神话", "pinyin": "shén huà", "en": "myth; mythology", "emoji": "🐉"}
+    ]
+  },
+  {
+    "input_text": "神秘",
+    "entries": [
+      {"text": "神秘", "pinyin": "shén mì", "en": "mysterious; mystical", "emoji": "🔮"}
+    ]
+  },
+  {
+    "input_text": "升",
+    "entries": [
+      {"text": "升", "pinyin": "shēng", "en": "rise; go up", "emoji": "⬆️"},
+      {"text": "升", "pinyin": "shēng", "en": "liter (unit)", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "生产",
+    "entries": [
+      {"text": "生产", "pinyin": "shēng chǎn", "en": "produce; manufacture", "emoji": "🏭"}
+    ]
+  },
+  {
+    "input_text": "生动",
+    "entries": [
+      {"text": "生动", "pinyin": "shēng dòng", "en": "vivid; lively", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "生长",
+    "entries": [
+      {"text": "生长", "pinyin": "shēng zhǎng", "en": "grow; growth", "emoji": "🌱"}
+    ]
+  },
+  {
+    "input_text": "声调",
+    "entries": [
+      {"text": "声调", "pinyin": "shēng diào", "en": "tone; pitch accent", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "绳子",
+    "entries": [
+      {"text": "绳子", "pinyin": "shéng zi", "en": "rope; cord", "emoji": "🪢"}
+    ]
+  },
+  {
+    "input_text": "省略",
+    "entries": [
+      {"text": "省略", "pinyin": "shěng lüè", "en": "omit; leave out", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "胜利",
+    "entries": [
+      {"text": "胜利", "pinyin": "shèng lì", "en": "victory; triumph", "emoji": "🏆"}
+    ]
+  },
+  {
+    "input_text": "失眠",
+    "entries": [
+      {"text": "失眠", "pinyin": "shī mián", "en": "insomnia; sleeplessness", "emoji": "😴"}
+    ]
+  },
+  {
+    "input_text": "失去",
+    "entries": [
+      {"text": "失去", "pinyin": "shī qù", "en": "lose; forfeit", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "失业",
+    "entries": [
+      {"text": "失业", "pinyin": "shī yè", "en": "unemployment; lose job", "emoji": ""}
+    ]
+  }
+]

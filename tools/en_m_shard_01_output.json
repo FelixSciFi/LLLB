@@ -1,0 +1,193 @@
+[
+  {
+    "input_word": "match",
+    "entries": [
+      {"text": "match", "ipa": "/mætʃ/", "cefr": "A1", "zh": "比赛", "emoji": "🏆"},
+      {"text": "match", "ipa": "/mætʃ/", "cefr": "A1", "zh": "配对", "emoji": "🔗"},
+      {"text": "match", "ipa": "/mætʃ/", "cefr": "A1", "zh": "火柴", "emoji": "🔥"}
+    ]
+  },
+  {
+    "input_word": "matching",
+    "entries": [
+      {"text": "matching", "ipa": "/ˈmætʃɪŋ/", "cefr": "B2", "zh": "相配的", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_word": "material",
+    "entries": [
+      {"text": "material", "ipa": "/məˈtɪriəl/", "cefr": "A2", "zh": "材料", "emoji": "🧱"},
+      {"text": "material", "ipa": "/məˈtɪriəl/", "cefr": "A2", "zh": "素材", "emoji": "📄"}
+    ]
+  },
+  {
+    "input_word": "mathematics",
+    "entries": [
+      {"text": "mathematics", "ipa": "/ˌmæθəˈmætɪks/", "cefr": "A2", "zh": "数学", "emoji": "🔢"}
+    ]
+  },
+  {
+    "input_word": "maths",
+    "entries": [
+      {"text": "maths", "ipa": "/mæθs/", "cefr": "A2", "zh": "数学", "emoji": "🔢"}
+    ]
+  },
+  {
+    "input_word": "matter",
+    "entries": [
+      {"text": "matter", "ipa": "/ˈmætər/", "cefr": "A2", "zh": "事情", "emoji": "📋"},
+      {"text": "matter", "ipa": "/ˈmætər/", "cefr": "A2", "zh": "物质", "emoji": "⚗️"},
+      {"text": "matter", "ipa": "/ˈmætər/", "cefr": "A2", "zh": "重要", "emoji": "❗"}
+    ]
+  },
+  {
+    "input_word": "maximum",
+    "entries": [
+      {"text": "maximum", "ipa": "/ˈmæksɪməm/", "cefr": "B2", "zh": "最大值", "emoji": "📈"}
+    ]
+  },
+  {
+    "input_word": "may",
+    "entries": [
+      {"text": "may", "ipa": "/meɪ/", "cefr": "A1", "zh": "可能", "emoji": "🤔"}
+    ]
+  },
+  {
+    "input_word": "maybe",
+    "entries": [
+      {"text": "maybe", "ipa": "/ˈmeɪbi/", "cefr": "A1", "zh": "也许", "emoji": "🤷"}
+    ]
+  },
+  {
+    "input_word": "me",
+    "entries": [
+      {"text": "me", "ipa": "/miː/", "cefr": "A1", "zh": "我", "emoji": "🙋"}
+    ]
+  },
+  {
+    "input_word": "meal",
+    "entries": [
+      {"text": "meal", "ipa": "/miːl/", "cefr": "A1", "zh": "餐食", "emoji": "🍽️"}
+    ]
+  },
+  {
+    "input_word": "mean",
+    "entries": [
+      {"text": "mean", "ipa": "/miːn/", "cefr": "A1", "zh": "意思是", "emoji": "💬"},
+      {"text": "mean", "ipa": "/miːn/", "cefr": "A1", "zh": "刻薄的", "emoji": "😠"},
+      {"text": "mean", "ipa": "/miːn/", "cefr": "A1", "zh": "平均值", "emoji": "📊"}
+    ]
+  },
+  {
+    "input_word": "meaning",
+    "entries": [
+      {"text": "meaning", "ipa": "/ˈmiːnɪŋ/", "cefr": "A1", "zh": "含义", "emoji": "💡"}
+    ]
+  },
+  {
+    "input_word": "means",
+    "entries": [
+      {"text": "means", "ipa": "/miːnz/", "cefr": "B2", "zh": "手段", "emoji": "🛠️"}
+    ]
+  },
+  {
+    "input_word": "meanwhile",
+    "entries": [
+      {"text": "meanwhile", "ipa": "/ˈmiːnˌwaɪl/", "cefr": "B1", "zh": "与此同时", "emoji": "⏱️"}
+    ]
+  },
+  {
+    "input_word": "measure",
+    "entries": [
+      {"text": "measure", "ipa": "/ˈmɛʒər/", "cefr": "B1", "zh": "测量", "emoji": "📏"},
+      {"text": "measure", "ipa": "/ˈmɛʒər/", "cefr": "B1", "zh": "措施", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_word": "measurement",
+    "entries": [
+      {"text": "measurement", "ipa": "/ˈmɛʒərmənt/", "cefr": "B2", "zh": "测量值", "emoji": "📐"}
+    ]
+  },
+  {
+    "input_word": "meat",
+    "entries": [
+      {"text": "meat", "ipa": "/miːt/", "cefr": "A1", "zh": "肉", "emoji": "🥩"}
+    ]
+  },
+  {
+    "input_word": "media",
+    "entries": [
+      {"text": "media", "ipa": "/ˈmiːdiə/", "cefr": "A2", "zh": "媒体", "emoji": "📺"}
+    ]
+  },
+  {
+    "input_word": "medical",
+    "entries": [
+      {"text": "medical", "ipa": "/ˈmɛdɪkəl/", "cefr": "A2", "zh": "医疗的", "emoji": "🏥"}
+    ]
+  },
+  {
+    "input_word": "medicine",
+    "entries": [
+      {"text": "medicine", "ipa": "/ˈmɛdɪsɪn/", "cefr": "A2", "zh": "药物", "emoji": "💊"},
+      {"text": "medicine", "ipa": "/ˈmɛdɪsɪn/", "cefr": "A2", "zh": "医学", "emoji": "🩺"}
+    ]
+  },
+  {
+    "input_word": "medium",
+    "entries": [
+      {"text": "medium", "ipa": "/ˈmiːdiəm/", "cefr": "B1", "zh": "中等的", "emoji": "↔️"},
+      {"text": "medium", "ipa": "/ˈmiːdiəm/", "cefr": "B1", "zh": "媒介", "emoji": "📡"}
+    ]
+  },
+  {
+    "input_word": "meet",
+    "entries": [
+      {"text": "meet", "ipa": "/miːt/", "cefr": "A1", "zh": "见面", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "meeting",
+    "entries": [
+      {"text": "meeting", "ipa": "/ˈmiːtɪŋ/", "cefr": "A1", "zh": "会议", "emoji": "👥"}
+    ]
+  },
+  {
+    "input_word": "melt",
+    "entries": [
+      {"text": "melt", "ipa": "/mɛlt/", "cefr": "B2", "zh": "融化", "emoji": "🧊"}
+    ]
+  },
+  {
+    "input_word": "member",
+    "entries": [
+      {"text": "member", "ipa": "/ˈmɛmbər/", "cefr": "A1", "zh": "成员", "emoji": "👤"}
+    ]
+  },
+  {
+    "input_word": "memory",
+    "entries": [
+      {"text": "memory", "ipa": "/ˈmɛməri/", "cefr": "A2", "zh": "记忆", "emoji": "🧠"},
+      {"text": "memory", "ipa": "/ˈmɛməri/", "cefr": "A2", "zh": "存储器", "emoji": "💾"}
+    ]
+  },
+  {
+    "input_word": "mental",
+    "entries": [
+      {"text": "mental", "ipa": "/ˈmɛntəl/", "cefr": "B1", "zh": "心理的", "emoji": "🧠"}
+    ]
+  },
+  {
+    "input_word": "mention",
+    "entries": [
+      {"text": "mention", "ipa": "/ˈmɛnʃən/", "cefr": "A2", "zh": "提及", "emoji": "💬"}
+    ]
+  },
+  {
+    "input_word": "menu",
+    "entries": [
+      {"text": "menu", "ipa": "/ˈmɛnjuː/", "cefr": "A1", "zh": "菜单", "emoji": "📋"}
+    ]
+  }
+]

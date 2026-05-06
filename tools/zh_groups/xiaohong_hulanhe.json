@@ -1,0 +1,193 @@
+[
+  {
+    "text": "严冬一封锁了大地的时候，",
+    "ipa": "yán dōng yī fēng suǒ le dà dì de shí hòu,",
+    "translation": {
+      "zh": "严冬一封锁了大地的时候，",
+      "en": "Once deep winter had sealed up the land,"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "严冬一封锁了",
+        "lemma": "封锁",
+        "ipa": "yán dōng yī fēng suǒ le",
+        "translation": {"zh": "寒冬一封住", "en": "winter sealed up"},
+        "emoji": "❄️"
+      },
+      {
+        "text": "大地",
+        "lemma": "大地",
+        "ipa": "dà dì",
+        "translation": {"zh": "土地", "en": "the earth"},
+        "emoji": "🌍"
+      },
+      {
+        "text": "的时候",
+        "lemma": "时候",
+        "ipa": "de shí hòu",
+        "translation": {"zh": "之时", "en": "the moment when"},
+        "emoji": "🕰️"
+      }
+    ],
+    "tags": [{"name": "呼兰河传", "index": 1}]
+  },
+  {
+    "text": "则大地满地裂着口。",
+    "ipa": "zé dà dì mǎn dì liè zhe kǒu.",
+    "translation": {
+      "zh": "则大地满地裂着口。",
+      "en": "the earth split open with cracks all over."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "则大地",
+        "lemma": "大地",
+        "ipa": "zé dà dì",
+        "translation": {"zh": "那么大地", "en": "then the earth"},
+        "emoji": "🌍"
+      },
+      {
+        "text": "满地",
+        "lemma": "满地",
+        "ipa": "mǎn dì",
+        "translation": {"zh": "遍地", "en": "all over the ground"},
+        "emoji": "🗺️"
+      },
+      {
+        "text": "裂着口",
+        "lemma": "裂",
+        "ipa": "liè zhe kǒu",
+        "translation": {"zh": "开着裂缝", "en": "splitting open"},
+        "emoji": "🪨"
+      }
+    ],
+    "tags": [{"name": "呼兰河传", "index": 2}]
+  },
+  {
+    "text": "从南到北，从东到西，",
+    "ipa": "cóng nán dào běi, cóng dōng dào xī,",
+    "translation": {
+      "zh": "从南到北，从东到西，",
+      "en": "From south to north, from east to west,"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "从南到北",
+        "lemma": "南北",
+        "ipa": "cóng nán dào běi",
+        "translation": {"zh": "由南至北", "en": "south to north"},
+        "emoji": "🧭"
+      },
+      {
+        "text": "从东到西",
+        "lemma": "东西",
+        "ipa": "cóng dōng dào xī",
+        "translation": {"zh": "由东至西", "en": "east to west"},
+        "emoji": "🧭"
+      }
+    ],
+    "tags": [{"name": "呼兰河传", "index": 3}]
+  },
+  {
+    "text": "几尺长的，一丈长的，还有好几丈长的，",
+    "ipa": "jǐ chǐ cháng de, yī zhàng cháng de, hái yǒu hǎo jǐ zhàng cháng de,",
+    "translation": {
+      "zh": "几尺长的，一丈长的，还有好几丈长的，",
+      "en": "some a few feet long, some a zhang long, and some many zhang long,"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "几尺长的",
+        "lemma": "尺",
+        "ipa": "jǐ chǐ cháng de",
+        "translation": {"zh": "几尺长", "en": "a few chi long"},
+        "emoji": "📏"
+      },
+      {
+        "text": "一丈长的",
+        "lemma": "丈",
+        "ipa": "yī zhàng cháng de",
+        "translation": {"zh": "一丈长", "en": "one zhang long"},
+        "emoji": "📐"
+      },
+      {
+        "text": "还有好几丈长的",
+        "lemma": "丈",
+        "ipa": "hái yǒu hǎo jǐ zhàng cháng de",
+        "translation": {"zh": "还有好几丈长", "en": "some many zhang long"},
+        "emoji": "📏"
+      }
+    ],
+    "tags": [{"name": "呼兰河传", "index": 4}]
+  },
+  {
+    "text": "它们毫无方向地，便随时随地，",
+    "ipa": "tā men háo wú fāng xiàng de, biàn suí shí suí dì,",
+    "translation": {
+      "zh": "它们毫无方向地，便随时随地，",
+      "en": "without direction, anywhere and at any moment,"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "它们",
+        "lemma": "它们",
+        "ipa": "tā men",
+        "translation": {"zh": "那些裂口", "en": "they"},
+        "emoji": "👉"
+      },
+      {
+        "text": "毫无方向地",
+        "lemma": "方向",
+        "ipa": "háo wú fāng xiàng de",
+        "translation": {"zh": "全无方向", "en": "with no direction"},
+        "emoji": "🧭"
+      },
+      {
+        "text": "便随时随地",
+        "lemma": "随时随地",
+        "ipa": "biàn suí shí suí dì",
+        "translation": {"zh": "就随时随处", "en": "anytime anywhere"},
+        "emoji": "⏱️"
+      }
+    ],
+    "tags": [{"name": "呼兰河传", "index": 5}]
+  },
+  {
+    "text": "只要严寒一到，大地就裂开口了。",
+    "ipa": "zhǐ yào yán hán yī dào, dà dì jiù liè kāi kǒu le.",
+    "translation": {
+      "zh": "只要严寒一到，大地就裂开口了。",
+      "en": "as soon as the bitter cold arrived, the earth split open."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "只要严寒一到",
+        "lemma": "严寒",
+        "ipa": "zhǐ yào yán hán yī dào",
+        "translation": {"zh": "只要严寒来临", "en": "once cold came"},
+        "emoji": "🥶"
+      },
+      {
+        "text": "大地",
+        "lemma": "大地",
+        "ipa": "dà dì",
+        "translation": {"zh": "土地", "en": "the earth"},
+        "emoji": "🌍"
+      },
+      {
+        "text": "就裂开口了",
+        "lemma": "裂开",
+        "ipa": "jiù liè kāi kǒu le",
+        "translation": {"zh": "便裂开口", "en": "split open"},
+        "emoji": "🪨"
+      }
+    ],
+    "tags": [{"name": "呼兰河传", "index": 6}]
+  }
+]

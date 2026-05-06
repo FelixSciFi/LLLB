@@ -1,0 +1,274 @@
+[
+  {
+    "text": "un décalage horaire",
+    "ipa": "œ̃ dekalɑʒ ɔʁɛʁ",
+    "translation": {"zh": "时差", "en": "a time difference"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un décalage horaire", "lemma": "décalage", "ipa": "œ̃ dekalɑʒ ɔʁɛʁ", "translation": {"zh": "时差", "en": "time difference"}, "emoji": "🕐"}
+    ]
+  },
+  {
+    "text": "c'est exact",
+    "ipa": "s‿ɛ t‿ɛɡzakt",
+    "translation": {"zh": "完全正确", "en": "that's exactly right"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est exact", "lemma": "exact", "ipa": "s‿ɛ t‿ɛɡzakt", "translation": {"zh": "完全正确", "en": "exactly right"}, "emoji": "✅"}
+    ]
+  },
+  {
+    "text": "paradoxalement",
+    "ipa": "paʁadɔksalmɑ̃",
+    "translation": {"zh": "矛盾地", "en": "paradoxically"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "paradoxalement", "lemma": "paradoxalement", "ipa": "paʁadɔksalmɑ̃", "translation": {"zh": "矛盾地", "en": "paradoxically"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la législation",
+    "ipa": "la leʒislɑsjɔ̃",
+    "translation": {"zh": "法律法规", "en": "legislation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la législation", "lemma": "législation", "ipa": "la leʒislɑsjɔ̃", "translation": {"zh": "法律法规", "en": "legislation"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "le frein",
+    "ipa": "lə fʁɛ̃",
+    "translation": {"zh": "刹车；阻碍", "en": "brake; obstacle"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le frein", "lemma": "frein", "ipa": "lə fʁɛ̃", "translation": {"zh": "刹车；阻碍", "en": "brake"}, "emoji": "🛑"}
+    ]
+  },
+  {
+    "text": "la transparence",
+    "ipa": "la tʁɑ̃spaʁɑ̃s",
+    "translation": {"zh": "透明度", "en": "transparency"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la transparence", "lemma": "transparence", "ipa": "la tʁɑ̃spaʁɑ̃s", "translation": {"zh": "透明度", "en": "transparency"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "authentique",
+    "ipa": "otɑ̃tik",
+    "translation": {"zh": "真实的", "en": "authentic"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "authentique", "lemma": "authentique", "ipa": "otɑ̃tik", "translation": {"zh": "真实的", "en": "authentic"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "je te déçois",
+    "ipa": "ʒə tə deswa",
+    "translation": {"zh": "我让你失望了", "en": "I'm disappointing you"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "je te déçois", "lemma": "décevoir", "ipa": "ʒə tə deswa", "translation": {"zh": "让你失望", "en": "disappoint you"}, "emoji": "😞"}
+    ]
+  },
+  {
+    "text": "aménager une pièce",
+    "ipa": "amenaʒe yn pjɛs",
+    "translation": {"zh": "布置一个房间", "en": "to furnish a room"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "aménager une pièce", "lemma": "aménager", "ipa": "amenaʒe yn pjɛs", "translation": {"zh": "布置房间", "en": "furnish a room"}, "emoji": "🛋️"}
+    ]
+  },
+  {
+    "text": "une fuite d'eau",
+    "ipa": "yn fɥit do",
+    "translation": {"zh": "水管漏水", "en": "a water leak"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une fuite d'eau", "lemma": "fuite", "ipa": "yn fɥit do", "translation": {"zh": "漏水", "en": "water leak"}, "emoji": "💧"}
+    ]
+  },
+  {
+    "text": "l'autonomie",
+    "ipa": "lɔtonomi",
+    "translation": {"zh": "自主权；续航", "en": "autonomy; battery life"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'autonomie", "lemma": "autonomie", "ipa": "lɔtonomi", "translation": {"zh": "自主权；续航", "en": "autonomy"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "cueillir des fleurs",
+    "ipa": "kœjiʁ de flœʁ",
+    "translation": {"zh": "采花", "en": "to pick flowers"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "cueillir des fleurs", "lemma": "cueillir", "ipa": "kœjiʁ de flœʁ", "translation": {"zh": "采花", "en": "pick flowers"}, "emoji": "🌸"}
+    ]
+  },
+  {
+    "text": "ça coûte cinquante centimes",
+    "ipa": "sa kut sɛ̃kɑ̃t sɑ̃tim",
+    "translation": {"zh": "这要五十分钱", "en": "it costs fifty cents"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ça coûte cinquante centimes", "lemma": "coûter", "ipa": "sa kut sɛ̃kɑ̃t sɑ̃tim", "translation": {"zh": "花费五十分", "en": "costs fifty cents"}, "emoji": "🪙"}
+    ]
+  },
+  {
+    "text": "discret",
+    "ipa": "diskʁɛ",
+    "translation": {"zh": "低调的；谨慎的", "en": "discreet; subtle"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "discret", "lemma": "discret", "ipa": "diskʁɛ", "translation": {"zh": "低调的", "en": "discreet"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la frontière",
+    "ipa": "la fʁɔ̃tjɛʁ",
+    "translation": {"zh": "边境", "en": "border"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la frontière", "lemma": "frontière", "ipa": "la fʁɔ̃tjɛʁ", "translation": {"zh": "边境", "en": "border"}, "emoji": "🗺️"}
+    ]
+  },
+  {
+    "text": "les feuilles bruissent",
+    "ipa": "le fœj bʁɥis",
+    "translation": {"zh": "树叶沙沙作响", "en": "the leaves rustle"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "les feuilles", "lemma": "feuille", "ipa": "le fœj", "translation": {"zh": "树叶", "en": "the leaves"}, "emoji": "🍃"},
+      {"text": "bruissent", "lemma": "bruire", "ipa": "bʁɥis", "translation": {"zh": "沙沙作响", "en": "rustle"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "l'implantation",
+    "ipa": "lɛ̃plɑ̃tasjɔ̃",
+    "translation": {"zh": "植入；落地", "en": "implantation; establishment"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'implantation", "lemma": "implantation", "ipa": "lɛ̃plɑ̃tasjɔ̃", "translation": {"zh": "植入；落地", "en": "implantation"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le préfet",
+    "ipa": "lə pʁefɛ",
+    "translation": {"zh": "省长；县长", "en": "prefect"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le préfet", "lemma": "préfet", "ipa": "lə pʁefɛ", "translation": {"zh": "省长", "en": "prefect"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une aide humanitaire",
+    "ipa": "yn ɛd ymanitɛʁ",
+    "translation": {"zh": "人道主义援助", "en": "humanitarian aid"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une aide humanitaire", "lemma": "humanitaire", "ipa": "yn ɛd ymanitɛʁ", "translation": {"zh": "人道主义援助", "en": "humanitarian aid"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "une canne à sucre",
+    "ipa": "yn kan a sykʁ",
+    "translation": {"zh": "甘蔗", "en": "sugarcane"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une canne à sucre", "lemma": "canne", "ipa": "yn kan a sykʁ", "translation": {"zh": "甘蔗", "en": "sugarcane"}, "emoji": "🌿"}
+    ]
+  },
+  {
+    "text": "un uniforme",
+    "ipa": "œ̃ ynifɔʁm",
+    "translation": {"zh": "制服", "en": "a uniform"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un uniforme", "lemma": "uniforme", "ipa": "œ̃ ynifɔʁm", "translation": {"zh": "制服", "en": "uniform"}, "emoji": "👔"}
+    ]
+  },
+  {
+    "text": "un quartier industriel",
+    "ipa": "œ̃ kaʁtje ɛ̃dystʁijɛl",
+    "translation": {"zh": "工业区", "en": "an industrial district"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un quartier industriel", "lemma": "industriel", "ipa": "œ̃ kaʁtje ɛ̃dystʁijɛl", "translation": {"zh": "工业区", "en": "industrial district"}, "emoji": "🏭"}
+    ]
+  },
+  {
+    "text": "je me connecte",
+    "ipa": "ʒə mə kɔnɛkt",
+    "translation": {"zh": "我登录", "en": "I log in"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "je me connecte", "lemma": "connecter", "ipa": "ʒə mə kɔnɛkt", "translation": {"zh": "登录；连接", "en": "log in"}, "emoji": "🔗"}
+    ]
+  },
+  {
+    "text": "le sud-est",
+    "ipa": "lə syd‿ɛst",
+    "translation": {"zh": "东南方", "en": "southeast"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le sud-est", "lemma": "sud-est", "ipa": "lə syd‿ɛst", "translation": {"zh": "东南方", "en": "southeast"}, "emoji": "🧭"}
+    ]
+  },
+  {
+    "text": "soudain",
+    "ipa": "sudɛ̃",
+    "translation": {"zh": "突然", "en": "suddenly"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "soudain", "lemma": "soudain", "ipa": "sudɛ̃", "translation": {"zh": "突然", "en": "suddenly"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une agression verbale",
+    "ipa": "yn aɡʁɛsjɔ̃ vɛʁbal",
+    "translation": {"zh": "言语攻击", "en": "verbal aggression"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une agression verbale", "lemma": "verbal", "ipa": "yn aɡʁɛsjɔ̃ vɛʁbal", "translation": {"zh": "言语攻击", "en": "verbal aggression"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "il parle calmement",
+    "ipa": "il paʁl kalmɑ̃",
+    "translation": {"zh": "他平静地说话", "en": "he speaks calmly"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "il parle", "lemma": "parler", "ipa": "il paʁl", "translation": {"zh": "他说话", "en": "he speaks"}, "emoji": ""},
+      {"text": "calmement", "lemma": "calmement", "ipa": "kalmɑ̃", "translation": {"zh": "平静地", "en": "calmly"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "au commencement",
+    "ipa": "o kɔmɑ̃smɑ̃",
+    "translation": {"zh": "在开始时", "en": "at the beginning"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "au commencement", "lemma": "commencement", "ipa": "o kɔmɑ̃smɑ̃", "translation": {"zh": "开始", "en": "the beginning"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une étude démographique",
+    "ipa": "yn etyd demɔɡʁafik",
+    "translation": {"zh": "人口学研究", "en": "a demographic study"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une étude démographique", "lemma": "démographique", "ipa": "yn etyd demɔɡʁafik", "translation": {"zh": "人口学研究", "en": "demographic study"}, "emoji": "📊"}
+    ]
+  },
+  {
+    "text": "la sûreté",
+    "ipa": "la syʁte",
+    "translation": {"zh": "安全；保险", "en": "safety; security"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la sûreté", "lemma": "sûreté", "ipa": "la syʁte", "translation": {"zh": "安全；保险", "en": "safety"}, "emoji": "🔒"}
+    ]
+  }
+]

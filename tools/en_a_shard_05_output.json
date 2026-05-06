@@ -1,0 +1,183 @@
+[
+  {
+    "input_word": "area",
+    "entries": [
+      {"text": "area", "ipa": "/ˈɛr.i.ə/", "cefr": "A1", "zh": "区域", "emoji": "🗺️"}
+    ]
+  },
+  {
+    "input_word": "argue",
+    "entries": [
+      {"text": "argue", "ipa": "/ˈɑːr.ɡjuː/", "cefr": "A2", "zh": "争论"}
+    ]
+  },
+  {
+    "input_word": "argument",
+    "entries": [
+      {"text": "argument", "ipa": "/ˈɑːr.ɡjə.mənt/", "cefr": "A2", "zh": "争论"}
+    ]
+  },
+  {
+    "input_word": "arise",
+    "entries": [
+      {"text": "arise", "ipa": "/əˈraɪz/", "cefr": "B2", "zh": "出现"}
+    ]
+  },
+  {
+    "input_word": "arm",
+    "entries": [
+      {"text": "arm", "ipa": "/ɑːrm/", "cefr": "A1", "zh": "手臂", "emoji": "💪"},
+      {"text": "arm", "ipa": "/ɑːrm/", "cefr": "A1", "zh": "武装"}
+    ]
+  },
+  {
+    "input_word": "armed",
+    "entries": [
+      {"text": "armed", "ipa": "/ɑːrmd/", "cefr": "B2", "zh": "武装的"}
+    ]
+  },
+  {
+    "input_word": "arms",
+    "entries": [
+      {"text": "arms", "ipa": "/ɑːrmz/", "cefr": "B2", "zh": "武器", "emoji": "⚔️"}
+    ]
+  },
+  {
+    "input_word": "army",
+    "entries": [
+      {"text": "army", "ipa": "/ˈɑːr.mi/", "cefr": "A2", "zh": "军队", "emoji": "🪖"}
+    ]
+  },
+  {
+    "input_word": "around",
+    "entries": [
+      {"text": "around", "ipa": "/əˈraʊnd/", "cefr": "A1", "zh": "周围"}
+    ]
+  },
+  {
+    "input_word": "arrange",
+    "entries": [
+      {"text": "arrange", "ipa": "/əˈreɪndʒ/", "cefr": "A2", "zh": "安排"}
+    ]
+  },
+  {
+    "input_word": "arrangement",
+    "entries": [
+      {"text": "arrangement", "ipa": "/əˈreɪndʒ.mənt/", "cefr": "A2", "zh": "安排"}
+    ]
+  },
+  {
+    "input_word": "arrest",
+    "entries": [
+      {"text": "arrest", "ipa": "/əˈrɛst/", "cefr": "B1", "zh": "逮捕", "emoji": "🚔"}
+    ]
+  },
+  {
+    "input_word": "arrival",
+    "entries": [
+      {"text": "arrival", "ipa": "/əˈraɪ.vəl/", "cefr": "B1", "zh": "到达"}
+    ]
+  },
+  {
+    "input_word": "arrive",
+    "entries": [
+      {"text": "arrive", "ipa": "/əˈraɪv/", "cefr": "A1", "zh": "到达"}
+    ]
+  },
+  {
+    "input_word": "art",
+    "entries": [
+      {"text": "art", "ipa": "/ɑːrt/", "cefr": "A1", "zh": "艺术", "emoji": "🎨"}
+    ]
+  },
+  {
+    "input_word": "article",
+    "entries": [
+      {"text": "article", "ipa": "/ˈɑːr.tɪ.kəl/", "cefr": "A1", "zh": "文章", "emoji": "📰"},
+      {"text": "article", "ipa": "/ˈɑːr.tɪ.kəl/", "cefr": "A1", "zh": "物品"}
+    ]
+  },
+  {
+    "input_word": "artificial",
+    "entries": [
+      {"text": "artificial", "ipa": "/ˌɑːr.tɪˈfɪʃ.əl/", "cefr": "B2", "zh": "人工的"}
+    ]
+  },
+  {
+    "input_word": "artist",
+    "entries": [
+      {"text": "artist", "ipa": "/ˈɑːr.tɪst/", "cefr": "A1", "zh": "艺术家", "emoji": "🧑‍🎨"}
+    ]
+  },
+  {
+    "input_word": "artistic",
+    "entries": [
+      {"text": "artistic", "ipa": "/ɑːrˈtɪs.tɪk/", "cefr": "B2", "zh": "艺术的"}
+    ]
+  },
+  {
+    "input_word": "as",
+    "entries": []
+  },
+  {
+    "input_word": "ashamed",
+    "entries": [
+      {"text": "ashamed", "ipa": "/əˈʃeɪmd/", "cefr": "B2", "zh": "惭愧"}
+    ]
+  },
+  {
+    "input_word": "ask",
+    "entries": [
+      {"text": "ask", "ipa": "/æsk/", "cefr": "A1", "zh": "问"}
+    ]
+  },
+  {
+    "input_word": "asleep",
+    "entries": [
+      {"text": "asleep", "ipa": "/əˈsliːp/", "cefr": "A2", "zh": "睡着"}
+    ]
+  },
+  {
+    "input_word": "aspect",
+    "entries": [
+      {"text": "aspect", "ipa": "/ˈæs.pɛkt/", "cefr": "B2", "zh": "方面"}
+    ]
+  },
+  {
+    "input_word": "assess",
+    "entries": [
+      {"text": "assess", "ipa": "/əˈsɛs/", "cefr": "B2", "zh": "评估"}
+    ]
+  },
+  {
+    "input_word": "assessment",
+    "entries": [
+      {"text": "assessment", "ipa": "/əˈsɛs.mənt/", "cefr": "B2", "zh": "评估"}
+    ]
+  },
+  {
+    "input_word": "assignment",
+    "entries": [
+      {"text": "assignment", "ipa": "/əˈsaɪn.mənt/", "cefr": "B1", "zh": "作业", "emoji": "📝"}
+    ]
+  },
+  {
+    "input_word": "assist",
+    "entries": [
+      {"text": "assist", "ipa": "/əˈsɪst/", "cefr": "B1", "zh": "协助"}
+    ]
+  },
+  {
+    "input_word": "assistant",
+    "entries": [
+      {"text": "assistant", "ipa": "/əˈsɪs.tənt/", "cefr": "A2", "zh": "助理", "emoji": "🧑‍💼"}
+    ]
+  },
+  {
+    "input_word": "associate",
+    "entries": [
+      {"text": "associate", "ipa": "/əˈsoʊ.si.eɪt/", "cefr": "B2", "zh": "关联"},
+      {"text": "associate", "ipa": "/əˈsoʊ.si.ɪt/", "cefr": "B2", "zh": "同事"}
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "text": "L'année mille huit cent soixante-six fut marquée par un événement bizarre,",
+    "ipa": "lane miløisɑ̃swasɑ̃tsis fy maʁke paʁ œ̃n evɛnmɑ̃ bizaʁ",
+    "translation": {"zh": "一八六六年发生了一件奇异的事件，", "en": "The year 1866 was marked by a strange event,"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "L'année", "lemma": "année", "ipa": "lane", "translation": {"zh": "年份", "en": "the year"}, "emoji": "📅"},
+      {"text": "mille huit cent soixante-six", "lemma": "1866", "ipa": "miløisɑ̃swasɑ̃tsis", "translation": {"zh": "一八六六", "en": "1866"}, "emoji": "🔢"},
+      {"text": "fut marquée", "lemma": "marquer", "ipa": "fy maʁke", "translation": {"zh": "被标记", "en": "was marked"}, "emoji": "📌"},
+      {"text": "par un événement", "lemma": "événement", "ipa": "paʁ œ̃n evɛnmɑ̃", "translation": {"zh": "被一件事", "en": "by an event"}, "emoji": "❗"},
+      {"text": "bizarre", "lemma": "bizarre", "ipa": "bizaʁ", "translation": {"zh": "奇异的", "en": "strange"}, "emoji": "🌀"}
+    ],
+    "tags": [{"name": "Vingt mille lieues", "index": 0}]
+  },
+  {
+    "text": "un phénomène inexpliqué et inexplicable",
+    "ipa": "œ̃ fenɔmɛn inɛksplike e inɛksplikabl",
+    "translation": {"zh": "一种无法解释也不可解释的现象", "en": "an unexplained and inexplicable phenomenon"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "un phénomène", "lemma": "phénomène", "ipa": "œ̃ fenɔmɛn", "translation": {"zh": "一种现象", "en": "a phenomenon"}, "emoji": "✨"},
+      {"text": "inexpliqué", "lemma": "inexpliqué", "ipa": "inɛksplike", "translation": {"zh": "未解释的", "en": "unexplained"}, "emoji": "❓"},
+      {"text": "et inexplicable", "lemma": "inexplicable", "ipa": "e inɛksplikabl", "translation": {"zh": "且不可解释的", "en": "and inexplicable"}, "emoji": "🤯"}
+    ],
+    "tags": [{"name": "Vingt mille lieues", "index": 1}]
+  },
+  {
+    "text": "que personne n'a sans doute oublié.",
+    "ipa": "kə pɛʁsɔn na sɑ̃ dut ublije",
+    "translation": {"zh": "想必无人会忘记。", "en": "which no doubt no one has forgotten."},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "que personne", "lemma": "personne", "ipa": "kə pɛʁsɔn", "translation": {"zh": "无人", "en": "that no one"}, "emoji": "🚫"},
+      {"text": "n'a oublié", "lemma": "oublier", "ipa": "na ublije", "translation": {"zh": "忘记了", "en": "has forgotten"}, "emoji": "💭"},
+      {"text": "sans doute", "lemma": "doute", "ipa": "sɑ̃ dut", "translation": {"zh": "想必", "en": "no doubt"}, "emoji": "🤔"}
+    ],
+    "tags": [{"name": "Vingt mille lieues", "index": 2}]
+  },
+  {
+    "text": "Les gens de mer furent particulièrement émus.",
+    "ipa": "le ʒɑ̃ də mɛʁ fyʁ paʁtikyljɛʁmɑ̃ emy",
+    "translation": {"zh": "海上的人们尤为震动。", "en": "Seafaring people were particularly moved."},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Les gens de mer", "lemma": "gens de mer", "ipa": "le ʒɑ̃ də mɛʁ", "translation": {"zh": "海上的人们", "en": "seafarers"}, "emoji": "⛵"},
+      {"text": "furent émus", "lemma": "émouvoir", "ipa": "fyʁ emy", "translation": {"zh": "被打动", "en": "were moved"}, "emoji": "💥"},
+      {"text": "particulièrement", "lemma": "particulièrement", "ipa": "paʁtikyljɛʁmɑ̃", "translation": {"zh": "尤其", "en": "particularly"}, "emoji": "‼️"}
+    ],
+    "tags": [{"name": "Vingt mille lieues", "index": 3}]
+  }
+]

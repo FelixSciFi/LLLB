@@ -1,0 +1,272 @@
+[
+  {
+    "text": "ça me passionne",
+    "ipa": "sa mə pa.sjɔn",
+    "translation": {"zh": "这让我着迷", "en": "it fascinates me"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "ça me passionne", "lemma": "passionner", "ipa": "sa mə pa.sjɔn", "translation": {"zh": "令我着迷", "en": "fascinates me"}, "emoji": "😍"}
+    ]
+  },
+  {
+    "text": "un quart d'heure",
+    "ipa": "œ̃ kaʁ dœʁ",
+    "translation": {"zh": "一刻钟", "en": "a quarter of an hour"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un quart d'heure", "lemma": "quart", "ipa": "œ̃ kaʁ dœʁ", "translation": {"zh": "一刻钟", "en": "a quarter hour"}, "emoji": "⏱️"}
+    ]
+  },
+  {
+    "text": "un pays étranger",
+    "ipa": "œ̃ pe.i e.tʁɑ̃.ʒe",
+    "translation": {"zh": "一个外国", "en": "a foreign country"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un pays étranger", "lemma": "étranger", "ipa": "œ̃ pe.i e.tʁɑ̃.ʒe", "translation": {"zh": "外国", "en": "foreign country"}, "emoji": "🌍"}
+    ]
+  },
+  {
+    "text": "un plat traditionnel",
+    "ipa": "œ̃ pla tʁa.di.sjɔ.nɛl",
+    "translation": {"zh": "一道传统菜肴", "en": "a traditional dish"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un plat traditionnel", "lemma": "traditionnel", "ipa": "œ̃ pla tʁa.di.sjɔ.nɛl", "translation": {"zh": "传统菜肴", "en": "traditional dish"}, "emoji": "🍽️"}
+    ]
+  },
+  {
+    "text": "un spécialiste en médecine",
+    "ipa": "œ̃ spe.sja.list ɑ̃ me.d.sin",
+    "translation": {"zh": "一位医学专家", "en": "a medical specialist"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un spécialiste en médecine", "lemma": "spécialiste", "ipa": "œ̃ spe.sja.list ɑ̃ me.d.sin", "translation": {"zh": "医学专家", "en": "medical specialist"}, "emoji": "👨‍⚕️"}
+    ]
+  },
+  {
+    "text": "certainement",
+    "ipa": "sɛʁ.tɛn.mɑ̃",
+    "translation": {"zh": "当然", "en": "certainly"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "certainement", "lemma": "certainement", "ipa": "sɛʁ.tɛn.mɑ̃", "translation": {"zh": "当然", "en": "certainly"}, "emoji": "✅"}
+    ]
+  },
+  {
+    "text": "ne bouge pas",
+    "ipa": "nə buʒ pa",
+    "translation": {"zh": "别动", "en": "don't move"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ne bouge pas", "lemma": "bouger", "ipa": "nə buʒ pa", "translation": {"zh": "别动", "en": "don't move"}, "emoji": "🛑"}
+    ]
+  },
+  {
+    "text": "il faut prouver",
+    "ipa": "il fo pʁu.ve",
+    "translation": {"zh": "必须证明", "en": "you must prove"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "il faut prouver", "lemma": "prouver", "ipa": "il fo pʁu.ve", "translation": {"zh": "必须证明", "en": "must prove"}, "emoji": "🔍"}
+    ]
+  },
+  {
+    "text": "fixer une date",
+    "ipa": "fik.se yn dat",
+    "translation": {"zh": "确定一个日期", "en": "to set a date"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "fixer une date", "lemma": "fixer", "ipa": "fik.se yn dat", "translation": {"zh": "确定日期", "en": "set a date"}, "emoji": "📅"}
+    ]
+  },
+  {
+    "text": "c'est gratuit",
+    "ipa": "sɛ ɡʁa.tɥi",
+    "translation": {"zh": "是免费的", "en": "it's free"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "c'est gratuit", "lemma": "gratuit", "ipa": "sɛ ɡʁa.tɥi", "translation": {"zh": "免费的", "en": "it's free"}, "emoji": "🆓"}
+    ]
+  },
+  {
+    "text": "un trou dans le mur",
+    "ipa": "œ̃ tʁu dɑ̃ lə myʁ",
+    "translation": {"zh": "墙上的一个洞", "en": "a hole in the wall"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un trou dans le mur", "lemma": "trou", "ipa": "œ̃ tʁu dɑ̃ lə myʁ", "translation": {"zh": "墙洞", "en": "hole in the wall"}, "emoji": "🕳️"}
+    ]
+  },
+  {
+    "text": "rester actif",
+    "ipa": "ʁɛs.te ak.tif",
+    "translation": {"zh": "保持活跃", "en": "to stay active"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "rester actif", "lemma": "actif", "ipa": "ʁɛs.te ak.tif", "translation": {"zh": "保持活跃", "en": "stay active"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "une galerie d'art",
+    "ipa": "yn ɡa.lə.ʁi daʁ",
+    "translation": {"zh": "一个艺术画廊", "en": "an art gallery"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une galerie d'art", "lemma": "galerie", "ipa": "yn ɡa.lə.ʁi daʁ", "translation": {"zh": "艺术画廊", "en": "art gallery"}, "emoji": "🖼️"}
+    ]
+  },
+  {
+    "text": "un monument historique",
+    "ipa": "œ̃ mɔ.ny.mɑ̃ is.tɔ.ʁik",
+    "translation": {"zh": "一处历史遗迹", "en": "a historic monument"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un monument historique", "lemma": "historique", "ipa": "œ̃ mɔ.ny.mɑ̃ is.tɔ.ʁik", "translation": {"zh": "历史遗迹", "en": "historic monument"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "baisser le volume",
+    "ipa": "bɛ.se lə vɔ.lym",
+    "translation": {"zh": "调低音量", "en": "to lower the volume"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "baisser le volume", "lemma": "baisser", "ipa": "bɛ.se lə vɔ.lym", "translation": {"zh": "调低音量", "en": "lower the volume"}, "emoji": "🔉"}
+    ]
+  },
+  {
+    "text": "rester debout",
+    "ipa": "ʁɛs.te də.bu",
+    "translation": {"zh": "保持站立", "en": "to stay standing"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "rester debout", "lemma": "debout", "ipa": "ʁɛs.te də.bu", "translation": {"zh": "站着", "en": "stay standing"}, "emoji": "🧍"}
+    ]
+  },
+  {
+    "text": "l'existence humaine",
+    "ipa": "lɛɡ.zis.tɑ̃s y.mɛn",
+    "translation": {"zh": "人类的存在", "en": "human existence"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'existence humaine", "lemma": "existence", "ipa": "lɛɡ.zis.tɑ̃s y.mɛn", "translation": {"zh": "人类存在", "en": "human existence"}, "emoji": "🌱"}
+    ]
+  },
+  {
+    "text": "un fil électrique",
+    "ipa": "œ̃ fil e.lɛk.tʁik",
+    "translation": {"zh": "一根电线", "en": "an electric wire"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un fil électrique", "lemma": "fil", "ipa": "œ̃ fil e.lɛk.tʁik", "translation": {"zh": "电线", "en": "electric wire"}, "emoji": "🔌"}
+    ]
+  },
+  {
+    "text": "c'est agréable",
+    "ipa": "sɛt a.ɡʁe.abl",
+    "translation": {"zh": "很愉快", "en": "it's pleasant"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "c'est agréable", "lemma": "agréable", "ipa": "sɛt a.ɡʁe.abl", "translation": {"zh": "很愉快", "en": "it's pleasant"}, "emoji": "😊"}
+    ]
+  },
+  {
+    "text": "faire une liste",
+    "ipa": "fɛʁ yn list",
+    "translation": {"zh": "列一个清单", "en": "to make a list"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "faire une liste", "lemma": "liste", "ipa": "fɛʁ yn list", "translation": {"zh": "列清单", "en": "make a list"}, "emoji": "📝"}
+    ]
+  },
+  {
+    "text": "un peintre célèbre",
+    "ipa": "œ̃ pɛ̃tʁ se.lɛbʁ",
+    "translation": {"zh": "一位著名画家", "en": "a famous painter"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un peintre célèbre", "lemma": "peintre", "ipa": "œ̃ pɛ̃tʁ se.lɛbʁ", "translation": {"zh": "著名画家", "en": "famous painter"}, "emoji": "🎨"}
+    ]
+  },
+  {
+    "text": "dans l'ombre",
+    "ipa": "dɑ̃ lɔ̃bʁ",
+    "translation": {"zh": "在阴影中", "en": "in the shadow"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "dans l'ombre", "lemma": "ombre", "ipa": "dɑ̃ lɔ̃bʁ", "translation": {"zh": "在阴影中", "en": "in the shadow"}, "emoji": "🌑"}
+    ]
+  },
+  {
+    "text": "j'apprécie ton aide",
+    "ipa": "ʒa.pʁe.si tɔ̃n ɛd",
+    "translation": {"zh": "我感激你的帮助", "en": "I appreciate your help"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "j'apprécie ton aide", "lemma": "apprécier", "ipa": "ʒa.pʁe.si tɔ̃n ɛd", "translation": {"zh": "感激帮助", "en": "appreciate your help"}, "emoji": "🙏"}
+    ]
+  },
+  {
+    "text": "c'est faux",
+    "ipa": "sɛ fo",
+    "translation": {"zh": "这是错的", "en": "it's false"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "c'est faux", "lemma": "faux", "ipa": "sɛ fo", "translation": {"zh": "是错的", "en": "it's false"}, "emoji": "❌"}
+    ]
+  },
+  {
+    "text": "je regrette",
+    "ipa": "ʒə ʁə.ɡʁɛt",
+    "translation": {"zh": "我很遗憾", "en": "I'm sorry"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je regrette", "lemma": "regretter", "ipa": "ʒə ʁə.ɡʁɛt", "translation": {"zh": "我遗憾", "en": "I'm sorry"}, "emoji": "😔"}
+    ]
+  },
+  {
+    "text": "un dessin animé",
+    "ipa": "œ̃ de.sɛ̃ a.ni.me",
+    "translation": {"zh": "一部动画片", "en": "a cartoon"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un dessin animé", "lemma": "dessin", "ipa": "œ̃ de.sɛ̃ a.ni.me", "translation": {"zh": "动画片", "en": "cartoon"}, "emoji": "✏️"}
+    ]
+  },
+  {
+    "text": "un lecteur de livres",
+    "ipa": "œ̃ lɛk.tœʁ də livʁ",
+    "translation": {"zh": "一位读书人", "en": "a book reader"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un lecteur de livres", "lemma": "lecteur", "ipa": "œ̃ lɛk.tœʁ də livʁ", "translation": {"zh": "读书人", "en": "book reader"}, "emoji": "📖"}
+    ]
+  },
+  {
+    "text": "une conversation agréable",
+    "ipa": "yn kɔ̃.vɛʁ.sa.sjɔ̃ a.ɡʁe.abl",
+    "translation": {"zh": "一次愉快的对话", "en": "a pleasant conversation"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une conversation agréable", "lemma": "conversation", "ipa": "yn kɔ̃.vɛʁ.sa.sjɔ̃ a.ɡʁe.abl", "translation": {"zh": "愉快对话", "en": "pleasant conversation"}, "emoji": "💬"}
+    ]
+  },
+  {
+    "text": "une belle carrière",
+    "ipa": "yn bɛl ka.ʁjɛʁ",
+    "translation": {"zh": "一段美好的职业生涯", "en": "a great career"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une belle carrière", "lemma": "carrière", "ipa": "yn bɛl ka.ʁjɛʁ", "translation": {"zh": "美好职业生涯", "en": "great career"}, "emoji": "💼"}
+    ]
+  },
+  {
+    "text": "au-dessus du nuage",
+    "ipa": "o d.sy dy nɥaʒ",
+    "translation": {"zh": "在云朵上方", "en": "above the cloud"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "au-dessus du nuage", "lemma": "au-dessus", "ipa": "o d.sy dy nɥaʒ", "translation": {"zh": "在上方", "en": "above the cloud"}, "emoji": "☁️"}
+    ]
+  }
+]

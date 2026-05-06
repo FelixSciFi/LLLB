@@ -1,0 +1,186 @@
+[
+  {
+    "input_word": "change",
+    "entries": [
+      {"text": "change", "ipa": "/tʃeɪndʒ/", "cefr": "A1", "zh": "变化", "emoji": "🔄"}
+    ]
+  },
+  {
+    "input_word": "channel",
+    "entries": [
+      {"text": "channel", "ipa": "/ˈtʃæn.əl/", "cefr": "B1", "zh": "频道", "emoji": "📺"}
+    ]
+  },
+  {
+    "input_word": "chapter",
+    "entries": [
+      {"text": "chapter", "ipa": "/ˈtʃæp.tər/", "cefr": "B1", "zh": "章节", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_word": "character",
+    "entries": [
+      {"text": "character", "ipa": "/ˈker.ək.tər/", "cefr": "A2", "zh": "性格", "emoji": "🎭"},
+      {"text": "character", "ipa": "/ˈker.ək.tər/", "cefr": "A2", "zh": "角色", "emoji": "🧑‍🎤"}
+    ]
+  },
+  {
+    "input_word": "characteristic",
+    "entries": [
+      {"text": "characteristic", "ipa": "/ˌker.ək.təˈrɪs.tɪk/", "cefr": "B2", "zh": "特征", "emoji": "🔍"}
+    ]
+  },
+  {
+    "input_word": "charge",
+    "entries": [
+      {"text": "charge", "ipa": "/tʃɑːrdʒ/", "cefr": "B1", "zh": "收费", "emoji": "💳"},
+      {"text": "charge", "ipa": "/tʃɑːrdʒ/", "cefr": "B1", "zh": "充电", "emoji": "🔋"}
+    ]
+  },
+  {
+    "input_word": "charity",
+    "entries": [
+      {"text": "charity", "ipa": "/ˈtʃer.ə.t̬i/", "cefr": "A2", "zh": "慈善", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "chart",
+    "entries": [
+      {"text": "chart", "ipa": "/tʃɑːrt/", "cefr": "A1", "zh": "图表", "emoji": "📊"}
+    ]
+  },
+  {
+    "input_word": "chat",
+    "entries": [
+      {"text": "chat", "ipa": "/tʃæt/", "cefr": "A2", "zh": "聊天", "emoji": "💬"}
+    ]
+  },
+  {
+    "input_word": "cheap",
+    "entries": [
+      {"text": "cheap", "ipa": "/tʃiːp/", "cefr": "A1", "zh": "便宜", "emoji": "🏷️"}
+    ]
+  },
+  {
+    "input_word": "cheat",
+    "entries": [
+      {"text": "cheat", "ipa": "/tʃiːt/", "cefr": "B1", "zh": "作弊", "emoji": "🃏"}
+    ]
+  },
+  {
+    "input_word": "check",
+    "entries": [
+      {"text": "check", "ipa": "/tʃek/", "cefr": "A1", "zh": "检查", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_word": "cheerful",
+    "entries": [
+      {"text": "cheerful", "ipa": "/ˈtʃɪr.fəl/", "cefr": "B1", "zh": "开朗", "emoji": "😊"}
+    ]
+  },
+  {
+    "input_word": "cheese",
+    "entries": [
+      {"text": "cheese", "ipa": "/tʃiːz/", "cefr": "A1", "zh": "奶酪", "emoji": "🧀"}
+    ]
+  },
+  {
+    "input_word": "chef",
+    "entries": [
+      {"text": "chef", "ipa": "/ʃef/", "cefr": "A2", "zh": "厨师", "emoji": "👨‍🍳"}
+    ]
+  },
+  {
+    "input_word": "chemical",
+    "entries": [
+      {"text": "chemical", "ipa": "/ˈkem.ɪ.kəl/", "cefr": "B1", "zh": "化学品", "emoji": "⚗️"}
+    ]
+  },
+  {
+    "input_word": "chemistry",
+    "entries": [
+      {"text": "chemistry", "ipa": "/ˈkem.ɪ.stri/", "cefr": "A2", "zh": "化学", "emoji": "🧪"}
+    ]
+  },
+  {
+    "input_word": "chest",
+    "entries": [
+      {"text": "chest", "ipa": "/tʃest/", "cefr": "B1", "zh": "胸部", "emoji": "🫀"},
+      {"text": "chest", "ipa": "/tʃest/", "cefr": "B1", "zh": "箱子", "emoji": "📦"}
+    ]
+  },
+  {
+    "input_word": "chicken",
+    "entries": [
+      {"text": "chicken", "ipa": "/ˈtʃɪk.ɪn/", "cefr": "A1", "zh": "鸡肉", "emoji": "🍗"}
+    ]
+  },
+  {
+    "input_word": "chief",
+    "entries": [
+      {"text": "chief", "ipa": "/tʃiːf/", "cefr": "B2", "zh": "首领", "emoji": "👑"}
+    ]
+  },
+  {
+    "input_word": "child",
+    "entries": [
+      {"text": "child", "ipa": "/tʃaɪld/", "cefr": "A1", "zh": "儿童", "emoji": "👦"}
+    ]
+  },
+  {
+    "input_word": "childhood",
+    "entries": [
+      {"text": "childhood", "ipa": "/ˈtʃaɪld.hʊd/", "cefr": "B1", "zh": "童年", "emoji": "🧒"}
+    ]
+  },
+  {
+    "input_word": "chip",
+    "entries": [
+      {"text": "chip", "ipa": "/tʃɪp/", "cefr": "A2", "zh": "薯片", "emoji": "🍟"},
+      {"text": "chip", "ipa": "/tʃɪp/", "cefr": "A2", "zh": "芯片", "emoji": "💾"}
+    ]
+  },
+  {
+    "input_word": "chocolate",
+    "entries": [
+      {"text": "chocolate", "ipa": "/ˈtʃɑːk.lət/", "cefr": "A1", "zh": "巧克力", "emoji": "🍫"}
+    ]
+  },
+  {
+    "input_word": "choice",
+    "entries": [
+      {"text": "choice", "ipa": "/tʃɔɪs/", "cefr": "A2", "zh": "选择", "emoji": "🤔"}
+    ]
+  },
+  {
+    "input_word": "choose",
+    "entries": [
+      {"text": "choose", "ipa": "/tʃuːz/", "cefr": "A1", "zh": "选择", "emoji": "👆"}
+    ]
+  },
+  {
+    "input_word": "church",
+    "entries": [
+      {"text": "church", "ipa": "/tʃɜːrtʃ/", "cefr": "A2", "zh": "教堂", "emoji": "⛪"}
+    ]
+  },
+  {
+    "input_word": "cigarette",
+    "entries": [
+      {"text": "cigarette", "ipa": "/ˌsɪɡ.əˈret/", "cefr": "A2", "zh": "香烟", "emoji": "🚬"}
+    ]
+  },
+  {
+    "input_word": "cinema",
+    "entries": [
+      {"text": "cinema", "ipa": "/ˈsɪn.ə.mə/", "cefr": "A1", "zh": "电影院", "emoji": "🎬"}
+    ]
+  },
+  {
+    "input_word": "circle",
+    "entries": [
+      {"text": "circle", "ipa": "/ˈsɜːr.kəl/", "cefr": "A2", "zh": "圆形", "emoji": "⭕"}
+    ]
+  }
+]

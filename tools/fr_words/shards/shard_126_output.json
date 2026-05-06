@@ -1,0 +1,272 @@
+[
+  {
+    "text": "expérimenter",
+    "ipa": "ɛkspеʁimɑ̃te",
+    "translation": {"zh": "实验，试验", "en": "to experiment"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "expérimenter", "lemma": "expérimenter", "ipa": "ɛkspеʁimɑ̃te", "translation": {"zh": "进行实验", "en": "to experiment"}, "emoji": "🔬"}
+    ]
+  },
+  {
+    "text": "infrastructure",
+    "ipa": "ɛ̃fʁastʁyktyʁ",
+    "translation": {"zh": "基础设施", "en": "infrastructure"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "infrastructure", "lemma": "infrastructure", "ipa": "ɛ̃fʁastʁyktyʁ", "translation": {"zh": "基础设施", "en": "infrastructure"}, "emoji": "🏗️"}
+    ]
+  },
+  {
+    "text": "téléphonie",
+    "ipa": "telefɔni",
+    "translation": {"zh": "电话通信", "en": "telephony"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "téléphonie", "lemma": "téléphonie", "ipa": "telefɔni", "translation": {"zh": "电话通信", "en": "telephony"}, "emoji": "📞"}
+    ]
+  },
+  {
+    "text": "injecter",
+    "ipa": "ɛ̃ʒɛkte",
+    "translation": {"zh": "注射，注入", "en": "to inject"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "injecter", "lemma": "injecter", "ipa": "ɛ̃ʒɛkte", "translation": {"zh": "注射注入", "en": "to inject"}, "emoji": "💉"}
+    ]
+  },
+  {
+    "text": "insérer",
+    "ipa": "ɛ̃seʁe",
+    "translation": {"zh": "插入，嵌入", "en": "to insert"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "insérer", "lemma": "insérer", "ipa": "ɛ̃seʁe", "translation": {"zh": "插入嵌入", "en": "to insert"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "résolument",
+    "ipa": "ʁezɔlymɑ̃",
+    "translation": {"zh": "坚定地，果断地", "en": "resolutely"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "résolument", "lemma": "résolument", "ipa": "ʁezɔlymɑ̃", "translation": {"zh": "坚定地", "en": "resolutely"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "filtre",
+    "ipa": "filtʁ",
+    "translation": {"zh": "过滤器，滤镜", "en": "filter"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "filtre", "lemma": "filtre", "ipa": "filtʁ", "translation": {"zh": "过滤器", "en": "filter"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "mathématicien",
+    "ipa": "matematisj ɛ̃",
+    "translation": {"zh": "数学家", "en": "mathematician"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "mathématicien", "lemma": "mathématicien", "ipa": "matematisjɛ̃", "translation": {"zh": "数学家", "en": "mathematician"}, "emoji": "🧮"}
+    ]
+  },
+  {
+    "text": "flûte",
+    "ipa": "flyt",
+    "translation": {"zh": "长笛", "en": "flute"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "flûte", "lemma": "flûte", "ipa": "flyt", "translation": {"zh": "长笛", "en": "flute"}, "emoji": "🎵"}
+    ]
+  },
+  {
+    "text": "discothèque",
+    "ipa": "diskɔtɛk",
+    "translation": {"zh": "迪厅，夜总会", "en": "nightclub"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "discothèque", "lemma": "discothèque", "ipa": "diskɔtɛk", "translation": {"zh": "迪厅", "en": "nightclub"}, "emoji": "🪩"}
+    ]
+  },
+  {
+    "text": "normand",
+    "ipa": "nɔʁmɑ̃",
+    "translation": {"zh": "诺曼底人，诺曼的", "en": "Norman"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "normand", "lemma": "normand", "ipa": "nɔʁmɑ̃", "translation": {"zh": "诺曼底人", "en": "Norman"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "intimement",
+    "ipa": "ɛ̃timmɑ̃",
+    "translation": {"zh": "亲密地，密切地", "en": "intimately"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "intimement", "lemma": "intimement", "ipa": "ɛ̃timmɑ̃", "translation": {"zh": "亲密地", "en": "intimately"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "mathématique",
+    "ipa": "matematik",
+    "translation": {"zh": "数学", "en": "mathematics"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "mathématique", "lemma": "mathématique", "ipa": "matematik", "translation": {"zh": "数学", "en": "mathematics"}, "emoji": "🔢"}
+    ]
+  },
+  {
+    "text": "déshonorer",
+    "ipa": "dezɔnɔʁe",
+    "translation": {"zh": "使蒙羞，玷辱", "en": "to dishonour"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "déshonorer", "lemma": "déshonorer", "ipa": "dezɔnɔʁe", "translation": {"zh": "使蒙羞", "en": "to dishonour"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "carré",
+    "ipa": "kaʁe",
+    "translation": {"zh": "正方形，平方", "en": "square"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "carré", "lemma": "carré", "ipa": "kaʁe", "translation": {"zh": "正方形", "en": "square"}, "emoji": "⬛"}
+    ]
+  },
+  {
+    "text": "gouffre",
+    "ipa": "ɡufʁ",
+    "translation": {"zh": "深渊，无底洞", "en": "abyss"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "gouffre", "lemma": "gouffre", "ipa": "ɡufʁ", "translation": {"zh": "深渊", "en": "abyss"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "réparation",
+    "ipa": "ʁepaʁasjɔ̃",
+    "translation": {"zh": "修理，赔偿", "en": "repair"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "réparation", "lemma": "réparation", "ipa": "ʁepaʁasjɔ̃", "translation": {"zh": "修理赔偿", "en": "repair"}, "emoji": "🔧"}
+    ]
+  },
+  {
+    "text": "dénuer",
+    "ipa": "denɥe",
+    "translation": {"zh": "使缺乏，剥夺", "en": "to deprive"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "dénuer", "lemma": "dénuer", "ipa": "denɥe", "translation": {"zh": "使缺乏", "en": "to deprive"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "interrogatoire",
+    "ipa": "ɛ̃tеʁɔɡatwaʁ",
+    "translation": {"zh": "审讯，审问", "en": "interrogation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "interrogatoire", "lemma": "interrogatoire", "ipa": "ɛ̃tеʁɔɡatwaʁ", "translation": {"zh": "审讯审问", "en": "interrogation"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "équivalent",
+    "ipa": "ekivalɑ̃",
+    "translation": {"zh": "等价物，相当于", "en": "equivalent"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "équivalent", "lemma": "équivalent", "ipa": "ekivalɑ̃", "translation": {"zh": "等价物", "en": "equivalent"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "rempart",
+    "ipa": "ʁɑ̃paʁ",
+    "translation": {"zh": "城垛，堡垒", "en": "rampart"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "rempart", "lemma": "rempart", "ipa": "ʁɑ̃paʁ", "translation": {"zh": "城垛堡垒", "en": "rampart"}, "emoji": "🏰"}
+    ]
+  },
+  {
+    "text": "fertile",
+    "ipa": "fеʁtil",
+    "translation": {"zh": "肥沃的，富饶的", "en": "fertile"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "fertile", "lemma": "fertile", "ipa": "fеʁtil", "translation": {"zh": "肥沃的", "en": "fertile"}, "emoji": "🌱"}
+    ]
+  },
+  {
+    "text": "rebelle",
+    "ipa": "ʁəbɛl",
+    "translation": {"zh": "叛逆者，反叛的", "en": "rebel"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "rebelle", "lemma": "rebelle", "ipa": "ʁəbɛl", "translation": {"zh": "叛逆者", "en": "rebel"}, "emoji": "✊"}
+    ]
+  },
+  {
+    "text": "crucial",
+    "ipa": "kʁysjal",
+    "translation": {"zh": "关键的，至关重要的", "en": "crucial"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "crucial", "lemma": "crucial", "ipa": "kʁysjal", "translation": {"zh": "关键的", "en": "crucial"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "avortement",
+    "ipa": "avɔʁtəmɑ̃",
+    "translation": {"zh": "堕胎，流产", "en": "abortion"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "avortement", "lemma": "avortement", "ipa": "avɔʁtəmɑ̃", "translation": {"zh": "堕胎流产", "en": "abortion"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "réviser",
+    "ipa": "ʁevize",
+    "translation": {"zh": "复习，修订", "en": "to revise"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "réviser", "lemma": "réviser", "ipa": "ʁevize", "translation": {"zh": "复习修订", "en": "to revise"}, "emoji": "📝"}
+    ]
+  },
+  {
+    "text": "abondant",
+    "ipa": "abɔ̃dɑ̃",
+    "translation": {"zh": "丰富的，大量的", "en": "abundant"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "abondant", "lemma": "abondant", "ipa": "abɔ̃dɑ̃", "translation": {"zh": "丰富的", "en": "abundant"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "épouvanter",
+    "ipa": "epuvɑ̃te",
+    "translation": {"zh": "使恐惧，吓坏", "en": "to terrify"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "épouvanter", "lemma": "épouvanter", "ipa": "epuvɑ̃te", "translation": {"zh": "使恐惧", "en": "to terrify"}, "emoji": "😱"}
+    ]
+  },
+  {
+    "text": "seau",
+    "ipa": "so",
+    "translation": {"zh": "桶，水桶", "en": "bucket"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "seau", "lemma": "seau", "ipa": "so", "translation": {"zh": "水桶", "en": "bucket"}, "emoji": "🪣"}
+    ]
+  },
+  {
+    "text": "belle-fille",
+    "ipa": "bɛlfij",
+    "translation": {"zh": "儿媳，继女", "en": "daughter-in-law"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "belle-fille", "lemma": "belle-fille", "ipa": "bɛlfij", "translation": {"zh": "儿媳继女", "en": "daughter-in-law"}, "emoji": "👩‍👩‍👧"}
+    ]
+  }
+]

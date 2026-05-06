@@ -1,0 +1,273 @@
+[
+  {
+    "text": "collectivité",
+    "ipa": "kɔlɛktivite",
+    "translation": {"zh": "集体，社区", "en": "community, collective"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "collectivité", "lemma": "collectivité", "ipa": "kɔlɛktivite", "translation": {"zh": "集体", "en": "community"}, "emoji": "🏘️"}
+    ]
+  },
+  {
+    "text": "la cantine",
+    "ipa": "la kɑ̃tin",
+    "translation": {"zh": "食堂", "en": "the canteen"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la cantine", "lemma": "cantine", "ipa": "la kɑ̃tin", "translation": {"zh": "食堂", "en": "canteen"}, "emoji": "🍽️"}
+    ]
+  },
+  {
+    "text": "précoce",
+    "ipa": "pʁekɔs",
+    "translation": {"zh": "早熟的", "en": "precocious, early"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "précoce", "lemma": "précoce", "ipa": "pʁekɔs", "translation": {"zh": "早熟的", "en": "precocious"}, "emoji": "🌱"}
+    ]
+  },
+  {
+    "text": "commercial",
+    "ipa": "kɔmɛʁsjal",
+    "translation": {"zh": "商业的", "en": "commercial"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "commercial", "lemma": "commercial", "ipa": "kɔmɛʁsjal", "translation": {"zh": "商业的", "en": "commercial"}, "emoji": "🏪"}
+    ]
+  },
+  {
+    "text": "le cabaret",
+    "ipa": "lə kabɑʁɛ",
+    "translation": {"zh": "卡巴莱夜总会", "en": "the cabaret"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le cabaret", "lemma": "cabaret", "ipa": "lə kabɑʁɛ", "translation": {"zh": "夜总会", "en": "cabaret"}, "emoji": "🎭"}
+    ]
+  },
+  {
+    "text": "rouvrir",
+    "ipa": "ʁuvʁiʁ",
+    "translation": {"zh": "重新开放", "en": "to reopen"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "rouvrir", "lemma": "rouvrir", "ipa": "ʁuvʁiʁ", "translation": {"zh": "重新开放", "en": "reopen"}, "emoji": "🔓"}
+    ]
+  },
+  {
+    "text": "nue",
+    "ipa": "ny",
+    "translation": {"zh": "裸露的", "en": "bare, naked"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "nue", "lemma": "nu", "ipa": "ny", "translation": {"zh": "裸露的", "en": "bare"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la préfecture",
+    "ipa": "la pʁefɛktyʁ",
+    "translation": {"zh": "省级政府，地方行政机构", "en": "the prefecture"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la préfecture", "lemma": "préfecture", "ipa": "la pʁefɛktyʁ", "translation": {"zh": "县政府", "en": "prefecture"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "un tee-shirt",
+    "ipa": "œ̃ ti ʃœʁt",
+    "translation": {"zh": "一件T恤", "en": "a T-shirt"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un tee-shirt", "lemma": "tee-shirt", "ipa": "œ̃ ti ʃœʁt", "translation": {"zh": "T恤", "en": "T-shirt"}, "emoji": "👕"}
+    ]
+  },
+  {
+    "text": "déborder",
+    "ipa": "debɔʁde",
+    "translation": {"zh": "溢出，泛滥", "en": "to overflow"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "déborder", "lemma": "déborder", "ipa": "debɔʁde", "translation": {"zh": "溢出", "en": "overflow"}, "emoji": "💧"}
+    ]
+  },
+  {
+    "text": "en permanence",
+    "ipa": "ɑ̃ pɛʁmanɑ̃s",
+    "translation": {"zh": "持续不断地", "en": "permanently, constantly"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "en permanence", "lemma": "permanence", "ipa": "ɑ̃ pɛʁmanɑ̃s", "translation": {"zh": "永久性", "en": "permanently"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "créole",
+    "ipa": "kʁeɔl",
+    "translation": {"zh": "克里奥尔语，克里奥尔人", "en": "Creole"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "créole", "lemma": "créole", "ipa": "kʁeɔl", "translation": {"zh": "克里奥尔", "en": "Creole"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "aux alentours",
+    "ipa": "oz alɑ̃tuʁ",
+    "translation": {"zh": "在周围，在附近", "en": "in the surroundings"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "aux alentours", "lemma": "alentour", "ipa": "oz alɑ̃tuʁ", "translation": {"zh": "周围地区", "en": "surroundings"}, "emoji": "📍"}
+    ]
+  },
+  {
+    "text": "la faculté",
+    "ipa": "la fakylte",
+    "translation": {"zh": "大学院系，能力", "en": "the faculty, ability"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la faculté", "lemma": "faculté", "ipa": "la fakylte", "translation": {"zh": "院系", "en": "faculty"}, "emoji": "🎓"}
+    ]
+  },
+  {
+    "text": "officiellement",
+    "ipa": "ɔfisjɛlmɑ̃",
+    "translation": {"zh": "官方地，正式地", "en": "officially"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "officiellement", "lemma": "officiellement", "ipa": "ɔfisjɛlmɑ̃", "translation": {"zh": "正式地", "en": "officially"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "éblouir",
+    "ipa": "eblwiʁ",
+    "translation": {"zh": "使眼花，使倾倒", "en": "to dazzle"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "éblouir", "lemma": "éblouir", "ipa": "eblwiʁ", "translation": {"zh": "使眩目", "en": "dazzle"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "le coach",
+    "ipa": "lə koʃ",
+    "translation": {"zh": "教练", "en": "the coach"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le coach", "lemma": "coach", "ipa": "lə koʃ", "translation": {"zh": "教练", "en": "coach"}, "emoji": "🏅"}
+    ]
+  },
+  {
+    "text": "le tirage",
+    "ipa": "lə tiʁaʒ",
+    "translation": {"zh": "抽签，印刷量", "en": "the draw, print run"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le tirage", "lemma": "tirage", "ipa": "lə tiʁaʒ", "translation": {"zh": "抽签", "en": "draw"}, "emoji": "🎲"}
+    ]
+  },
+  {
+    "text": "la finale",
+    "ipa": "la final",
+    "translation": {"zh": "决赛", "en": "the final"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la finale", "lemma": "final", "ipa": "la final", "translation": {"zh": "决赛", "en": "final"}, "emoji": "🏆"}
+    ]
+  },
+  {
+    "text": "le gosse",
+    "ipa": "lə ɡɔs",
+    "translation": {"zh": "孩子（口语）", "en": "the kid"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le gosse", "lemma": "gosse", "ipa": "lə ɡɔs", "translation": {"zh": "小孩", "en": "kid"}, "emoji": "👦"}
+    ]
+  },
+  {
+    "text": "s'expatrier",
+    "ipa": "sɛkspatʁije",
+    "translation": {"zh": "移居国外", "en": "to expatriate oneself"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "s'expatrier", "lemma": "expatrier", "ipa": "sɛkspatʁije", "translation": {"zh": "移居海外", "en": "go abroad"}, "emoji": "✈️"}
+    ]
+  },
+  {
+    "text": "l'hégémonie",
+    "ipa": "leʒemɔni",
+    "translation": {"zh": "霸权，支配权", "en": "hegemony"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'hégémonie", "lemma": "hégémonie", "ipa": "leʒemɔni", "translation": {"zh": "霸权", "en": "hegemony"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "habile",
+    "ipa": "abil",
+    "translation": {"zh": "灵巧的，能干的", "en": "skillful, clever"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "habile", "lemma": "habile", "ipa": "abil", "translation": {"zh": "灵巧的", "en": "skillful"}, "emoji": "🤹"}
+    ]
+  },
+  {
+    "text": "la gendarmerie",
+    "ipa": "la ʒɑ̃daʁməʁi",
+    "translation": {"zh": "宪兵队，警察局", "en": "the gendarmerie"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "la gendarmerie", "lemma": "gendarmerie", "ipa": "la ʒɑ̃daʁməʁi", "translation": {"zh": "宪兵队", "en": "gendarmerie"}, "emoji": "👮"}
+    ]
+  },
+  {
+    "text": "l'élan",
+    "ipa": "lelɑ̃",
+    "translation": {"zh": "冲劲，动力", "en": "momentum, impulse"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'élan", "lemma": "élan", "ipa": "lelɑ̃", "translation": {"zh": "冲劲", "en": "momentum"}, "emoji": "🚀"}
+    ]
+  },
+  {
+    "text": "abolir",
+    "ipa": "abɔliʁ",
+    "translation": {"zh": "废除，废止", "en": "to abolish"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "abolir", "lemma": "abolir", "ipa": "abɔliʁ", "translation": {"zh": "废除", "en": "abolish"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "frôler",
+    "ipa": "fʁole",
+    "translation": {"zh": "擦过，差点", "en": "to brush against, to nearly"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "frôler", "lemma": "frôler", "ipa": "fʁole", "translation": {"zh": "擦过", "en": "brush past"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "récolter",
+    "ipa": "ʁekɔlte",
+    "translation": {"zh": "收获，收集", "en": "to harvest, to collect"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "récolter", "lemma": "récolter", "ipa": "ʁekɔlte", "translation": {"zh": "收获", "en": "harvest"}, "emoji": "🌾"}
+    ]
+  },
+  {
+    "text": "un grain de sable",
+    "ipa": "œ̃ ɡʁɛ̃ də sabl",
+    "translation": {"zh": "一粒沙子", "en": "a grain of sand"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un grain", "lemma": "grain", "ipa": "œ̃ ɡʁɛ̃", "translation": {"zh": "一粒", "en": "a grain"}, "emoji": ""},
+      {"text": "de sable", "lemma": "sable", "ipa": "də sabl", "translation": {"zh": "沙子", "en": "of sand"}, "emoji": "🏖️"}
+    ]
+  },
+  {
+    "text": "restreindre",
+    "ipa": "ʁɛstʁɛ̃dʁ",
+    "translation": {"zh": "限制，约束", "en": "to restrict"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "restreindre", "lemma": "restreindre", "ipa": "ʁɛstʁɛ̃dʁ", "translation": {"zh": "限制", "en": "restrict"}, "emoji": ""}
+    ]
+  }
+]

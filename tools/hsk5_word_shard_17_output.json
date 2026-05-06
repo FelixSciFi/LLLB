@@ -1,0 +1,182 @@
+[
+  {
+    "input_text": "尽量",
+    "entries": [
+      {"text": "尽量", "pinyin": "jǐn liàng", "en": "as much as possible", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "紧急",
+    "entries": [
+      {"text": "紧急", "pinyin": "jǐn jí", "en": "urgent; emergency", "emoji": "🚨"}
+    ]
+  },
+  {
+    "input_text": "谨慎",
+    "entries": [
+      {"text": "谨慎", "pinyin": "jǐn shèn", "en": "cautious; careful", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "尽力",
+    "entries": [
+      {"text": "尽力", "pinyin": "jìn lì", "en": "do one's best", "emoji": "💪"}
+    ]
+  },
+  {
+    "input_text": "进步",
+    "entries": [
+      {"text": "进步", "pinyin": "jìn bù", "en": "progress; improve", "emoji": "📈"}
+    ]
+  },
+  {
+    "input_text": "进口",
+    "entries": [
+      {"text": "进口", "pinyin": "jìn kǒu", "en": "import; entrance", "emoji": "📦"}
+    ]
+  },
+  {
+    "input_text": "近代",
+    "entries": [
+      {"text": "近代", "pinyin": "jìn dài", "en": "modern era", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "经典",
+    "entries": [
+      {"text": "经典", "pinyin": "jīng diǎn", "en": "classic; classic work", "emoji": "📚"}
+    ]
+  },
+  {
+    "input_text": "经商",
+    "entries": [
+      {"text": "经商", "pinyin": "jīng shāng", "en": "do business", "emoji": "💼"}
+    ]
+  },
+  {
+    "input_text": "经营",
+    "entries": [
+      {"text": "经营", "pinyin": "jīng yíng", "en": "manage; operate", "emoji": "🏢"}
+    ]
+  },
+  {
+    "input_text": "精力",
+    "entries": [
+      {"text": "精力", "pinyin": "jīng lì", "en": "energy; vitality", "emoji": "⚡"}
+    ]
+  },
+  {
+    "input_text": "精神",
+    "entries": [
+      {"text": "精神", "pinyin": "jīng shén", "en": "spirit; mental", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_text": "酒吧",
+    "entries": [
+      {"text": "酒吧", "pinyin": "jiǔ bā", "en": "bar; pub", "emoji": "🍺"}
+    ]
+  },
+  {
+    "input_text": "救",
+    "entries": [
+      {"text": "救", "pinyin": "jiù", "en": "rescue; save", "emoji": "🆘"}
+    ]
+  },
+  {
+    "input_text": "救护车",
+    "entries": [
+      {"text": "救护车", "pinyin": "jiù hù chē", "en": "ambulance", "emoji": "🚑"}
+    ]
+  },
+  {
+    "input_text": "舅舅",
+    "entries": [
+      {"text": "舅舅", "pinyin": "jiù jiu", "en": "maternal uncle", "emoji": "👨"}
+    ]
+  },
+  {
+    "input_text": "居然",
+    "entries": [
+      {"text": "居然", "pinyin": "jū rán", "en": "unexpectedly; actually", "emoji": "😮"}
+    ]
+  },
+  {
+    "input_text": "桔子",
+    "entries": [
+      {"text": "桔子", "pinyin": "jú zi", "en": "tangerine; mandarin", "emoji": "🍊"}
+    ]
+  },
+  {
+    "input_text": "巨大",
+    "entries": [
+      {"text": "巨大", "pinyin": "jù dà", "en": "huge; enormous", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "具备",
+    "entries": [
+      {"text": "具备", "pinyin": "jù bèi", "en": "possess; have", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "具体",
+    "entries": [
+      {"text": "具体", "pinyin": "jù tǐ", "en": "specific; concrete", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "俱乐部",
+    "entries": [
+      {"text": "俱乐部", "pinyin": "jù lè bù", "en": "club", "emoji": "🎉"}
+    ]
+  },
+  {
+    "input_text": "据说",
+    "entries": [
+      {"text": "据说", "pinyin": "jù shuō", "en": "it is said", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "捐",
+    "entries": [
+      {"text": "捐", "pinyin": "juān", "en": "donate; contribute", "emoji": "🤲"}
+    ]
+  },
+  {
+    "input_text": "决赛",
+    "entries": [
+      {"text": "决赛", "pinyin": "jué sài", "en": "final (competition)", "emoji": "🏆"}
+    ]
+  },
+  {
+    "input_text": "决心",
+    "entries": [
+      {"text": "决心", "pinyin": "jué xīn", "en": "determination; resolve", "emoji": "💪"}
+    ]
+  },
+  {
+    "input_text": "角色",
+    "entries": [
+      {"text": "角色", "pinyin": "jué sè", "en": "role; character", "emoji": "🎭"}
+    ]
+  },
+  {
+    "input_text": "绝对",
+    "entries": [
+      {"text": "绝对", "pinyin": "jué duì", "en": "absolute; definitely", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "军事",
+    "entries": [
+      {"text": "军事", "pinyin": "jūn shì", "en": "military affairs", "emoji": "⚔️"}
+    ]
+  },
+  {
+    "input_text": "均匀",
+    "entries": [
+      {"text": "均匀", "pinyin": "jūn yún", "en": "even; uniform", "emoji": ""}
+    ]
+  }
+]

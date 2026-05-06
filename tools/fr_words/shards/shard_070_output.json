@@ -1,0 +1,272 @@
+[
+  {
+    "text": "spécialement",
+    "ipa": "spesjalmɑ̃",
+    "translation": {"zh": "特别地", "en": "especially"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "spécialement", "lemma": "spécialement", "ipa": "spesjalmɑ̃", "translation": {"zh": "特别地", "en": "especially"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "l'emplacement",
+    "ipa": "lɑ̃plasmɑ̃",
+    "translation": {"zh": "位置", "en": "location"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'emplacement", "lemma": "emplacement", "ipa": "lɑ̃plasmɑ̃", "translation": {"zh": "位置", "en": "location"}, "emoji": "📍"}
+    ]
+  },
+  {
+    "text": "un téléphone mobile",
+    "ipa": "œ̃ telefɔn mɔbil",
+    "translation": {"zh": "一部手机", "en": "a mobile phone"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un téléphone mobile", "lemma": "téléphone", "ipa": "œ̃ telefɔn mɔbil", "translation": {"zh": "手机", "en": "mobile phone"}, "emoji": "📱"}
+    ]
+  },
+  {
+    "text": "une pyramide",
+    "ipa": "yn piʁamid",
+    "translation": {"zh": "一座金字塔", "en": "a pyramid"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une pyramide", "lemma": "pyramide", "ipa": "yn piʁamid", "translation": {"zh": "金字塔", "en": "pyramid"}, "emoji": "🔺"}
+    ]
+  },
+  {
+    "text": "le suivi",
+    "ipa": "lə sɥivi",
+    "translation": {"zh": "跟踪", "en": "follow-up"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le suivi", "lemma": "suivi", "ipa": "lə sɥivi", "translation": {"zh": "跟踪", "en": "follow-up"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une cinquantaine de personnes",
+    "ipa": "yn sɛ̃kɑ̃tɛn də pɛʁsɔn",
+    "translation": {"zh": "约五十人", "en": "about fifty people"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une cinquantaine de personnes", "lemma": "cinquantaine", "ipa": "yn sɛ̃kɑ̃tɛn də pɛʁsɔn", "translation": {"zh": "约五十人", "en": "about fifty people"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "strict",
+    "ipa": "stʁikt",
+    "translation": {"zh": "严格的", "en": "strict"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "strict", "lemma": "strict", "ipa": "stʁikt", "translation": {"zh": "严格的", "en": "strict"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "avoir pitié",
+    "ipa": "avwaʁ pitje",
+    "translation": {"zh": "心生怜悯", "en": "to have pity"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "avoir pitié", "lemma": "avoir", "ipa": "avwaʁ pitje", "translation": {"zh": "心生怜悯", "en": "to have pity"}, "emoji": "🥺"}
+    ]
+  },
+  {
+    "text": "au-dessous",
+    "ipa": "odəsu",
+    "translation": {"zh": "在下面", "en": "below"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "au-dessous", "lemma": "au-dessous", "ipa": "odəsu", "translation": {"zh": "在下面", "en": "below"}, "emoji": "⬇️"}
+    ]
+  },
+  {
+    "text": "une révolte",
+    "ipa": "yn ʁevɔlt",
+    "translation": {"zh": "一场叛乱", "en": "a revolt"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une révolte", "lemma": "révolte", "ipa": "yn ʁevɔlt", "translation": {"zh": "叛乱", "en": "revolt"}, "emoji": "✊"}
+    ]
+  },
+  {
+    "text": "cocher une case",
+    "ipa": "kɔʃe yn kaz",
+    "translation": {"zh": "勾选一个格子", "en": "to tick a box"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "cocher une case", "lemma": "cocher", "ipa": "kɔʃe yn kaz", "translation": {"zh": "勾选格子", "en": "tick a box"}, "emoji": "☑️"}
+    ]
+  },
+  {
+    "text": "ma ville natale",
+    "ipa": "ma vil natal",
+    "translation": {"zh": "我的出生城市", "en": "my hometown"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ma ville natale", "lemma": "natal", "ipa": "ma vil natal", "translation": {"zh": "出生城市", "en": "hometown"}, "emoji": "🏙️"}
+    ]
+  },
+  {
+    "text": "un slogan",
+    "ipa": "œ̃ slɔɡɑ̃",
+    "translation": {"zh": "一句口号", "en": "a slogan"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un slogan", "lemma": "slogan", "ipa": "œ̃ slɔɡɑ̃", "translation": {"zh": "口号", "en": "slogan"}, "emoji": "📣"}
+    ]
+  },
+  {
+    "text": "numérique",
+    "ipa": "nymeʁik",
+    "translation": {"zh": "数字的", "en": "digital"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "numérique", "lemma": "numérique", "ipa": "nymeʁik", "translation": {"zh": "数字的", "en": "digital"}, "emoji": "💻"}
+    ]
+  },
+  {
+    "text": "le crâne",
+    "ipa": "lə kʁɑn",
+    "translation": {"zh": "头骨", "en": "skull"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le crâne", "lemma": "crâne", "ipa": "lə kʁɑn", "translation": {"zh": "头骨", "en": "skull"}, "emoji": "💀"}
+    ]
+  },
+  {
+    "text": "malheureux",
+    "ipa": "maløʁø",
+    "translation": {"zh": "不幸的", "en": "unhappy"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "malheureux", "lemma": "malheureux", "ipa": "maløʁø", "translation": {"zh": "不幸的", "en": "unhappy"}, "emoji": "😢"}
+    ]
+  },
+  {
+    "text": "le fossé",
+    "ipa": "lə fɔse",
+    "translation": {"zh": "沟壕", "en": "ditch"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le fossé", "lemma": "fossé", "ipa": "lə fɔse", "translation": {"zh": "沟壕", "en": "ditch"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un historien",
+    "ipa": "œ̃ istɔʁjɛ̃",
+    "translation": {"zh": "一位历史学家", "en": "a historian"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un historien", "lemma": "historien", "ipa": "œ̃ istɔʁjɛ̃", "translation": {"zh": "历史学家", "en": "historian"}, "emoji": "📜"}
+    ]
+  },
+  {
+    "text": "une tribu",
+    "ipa": "yn tʁiby",
+    "translation": {"zh": "一个部落", "en": "a tribe"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une tribu", "lemma": "tribu", "ipa": "yn tʁiby", "translation": {"zh": "部落", "en": "tribe"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une révélation",
+    "ipa": "yn ʁevelasjɔ̃",
+    "translation": {"zh": "一个启示", "en": "a revelation"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une révélation", "lemma": "révélation", "ipa": "yn ʁevelasjɔ̃", "translation": {"zh": "启示", "en": "revelation"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "remarquable",
+    "ipa": "ʁəmaʁkabl",
+    "translation": {"zh": "非凡的", "en": "remarkable"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "remarquable", "lemma": "remarquable", "ipa": "ʁəmaʁkabl", "translation": {"zh": "非凡的", "en": "remarkable"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "contradictoire",
+    "ipa": "kɔ̃tʁadiktwaʁ",
+    "translation": {"zh": "矛盾的", "en": "contradictory"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "contradictoire", "lemma": "contradictoire", "ipa": "kɔ̃tʁadiktwaʁ", "translation": {"zh": "矛盾的", "en": "contradictory"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "se révolter",
+    "ipa": "sə ʁevɔlte",
+    "translation": {"zh": "反叛", "en": "to rebel"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "se révolter", "lemma": "révolter", "ipa": "sə ʁevɔlte", "translation": {"zh": "反叛", "en": "to rebel"}, "emoji": "✊"}
+    ]
+  },
+  {
+    "text": "une inondation",
+    "ipa": "yn inɔ̃dasjɔ̃",
+    "translation": {"zh": "一场洪水", "en": "a flood"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une inondation", "lemma": "inondation", "ipa": "yn inɔ̃dasjɔ̃", "translation": {"zh": "洪水", "en": "flood"}, "emoji": "🌊"}
+    ]
+  },
+  {
+    "text": "un temple",
+    "ipa": "œ̃ tɑ̃pl",
+    "translation": {"zh": "一座寺庙", "en": "a temple"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un temple", "lemma": "temple", "ipa": "œ̃ tɑ̃pl", "translation": {"zh": "寺庙", "en": "temple"}, "emoji": "⛩️"}
+    ]
+  },
+  {
+    "text": "le tri",
+    "ipa": "lə tʁi",
+    "translation": {"zh": "分类", "en": "sorting"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le tri", "lemma": "tri", "ipa": "lə tʁi", "translation": {"zh": "分类", "en": "sorting"}, "emoji": "♻️"}
+    ]
+  },
+  {
+    "text": "asiatique",
+    "ipa": "azjatik",
+    "translation": {"zh": "亚洲的", "en": "Asian"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "asiatique", "lemma": "asiatique", "ipa": "azjatik", "translation": {"zh": "亚洲的", "en": "Asian"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "cognitif",
+    "ipa": "kɔɡnitif",
+    "translation": {"zh": "认知的", "en": "cognitive"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "cognitif", "lemma": "cognitif", "ipa": "kɔɡnitif", "translation": {"zh": "认知的", "en": "cognitive"}, "emoji": "🧠"}
+    ]
+  },
+  {
+    "text": "succéder à",
+    "ipa": "syksede a",
+    "translation": {"zh": "继承，接替", "en": "to succeed"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "succéder à", "lemma": "succéder", "ipa": "syksede a", "translation": {"zh": "接替", "en": "to succeed"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le carbone",
+    "ipa": "lə kaʁbɔn",
+    "translation": {"zh": "碳", "en": "carbon"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le carbone", "lemma": "carbone", "ipa": "lə kaʁbɔn", "translation": {"zh": "碳", "en": "carbon"}, "emoji": ""}
+    ]
+  }
+]

@@ -1,0 +1,276 @@
+[
+  {
+    "text": "simplement",
+    "ipa": "sɛ̃pləmɑ̃",
+    "translation": {"zh": "只是，简单地", "en": "simply"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "simplement", "lemma": "simplement", "ipa": "sɛ̃pləmɑ̃", "translation": {"zh": "只是，简单地", "en": "simply"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "assurer le service",
+    "ipa": "asyʁe lə sɛʁvis",
+    "translation": {"zh": "负责服务", "en": "handle the service"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "assurer le service", "lemma": "assurer", "ipa": "asyʁe lə sɛʁvis", "translation": {"zh": "负责服务", "en": "handle the service"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un goût sucré",
+    "ipa": "œ̃ ɡu sykʁe",
+    "translation": {"zh": "甜味", "en": "a sweet taste"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un goût sucré", "lemma": "goût", "ipa": "œ̃ ɡu sykʁe", "translation": {"zh": "甜味", "en": "a sweet taste"}, "emoji": "😋"}
+    ]
+  },
+  {
+    "text": "le départ du train",
+    "ipa": "lə depaʁ dy tʁɛ̃",
+    "translation": {"zh": "火车出发", "en": "the train departure"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le départ du train", "lemma": "départ", "ipa": "lə depaʁ dy tʁɛ̃", "translation": {"zh": "火车出发", "en": "the train departure"}, "emoji": "🚆"}
+    ]
+  },
+  {
+    "text": "un jeune couple",
+    "ipa": "œ̃ ʒœn kupl",
+    "translation": {"zh": "年轻夫妻", "en": "a young couple"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un jeune couple", "lemma": "couple", "ipa": "œ̃ ʒœn kupl", "translation": {"zh": "年轻夫妻", "en": "a young couple"}, "emoji": "👫"}
+    ]
+  },
+  {
+    "text": "une aventure",
+    "ipa": "yn avɑ̃tyʁ",
+    "translation": {"zh": "一次冒险", "en": "an adventure"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une aventure", "lemma": "aventure", "ipa": "yn avɑ̃tyʁ", "translation": {"zh": "一次冒险", "en": "an adventure"}, "emoji": "🗺️"}
+    ]
+  },
+  {
+    "text": "un mouvement lent",
+    "ipa": "œ̃ muvmɑ̃ lɑ̃",
+    "translation": {"zh": "一个缓慢的动作", "en": "a slow movement"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un mouvement lent", "lemma": "mouvement", "ipa": "œ̃ muvmɑ̃ lɑ̃", "translation": {"zh": "一个缓慢的动作", "en": "a slow movement"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "en matière de santé",
+    "ipa": "ɑ̃ matjɛʁ də sɑ̃te",
+    "translation": {"zh": "在健康方面", "en": "in terms of health"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "en matière de santé", "lemma": "matière", "ipa": "ɑ̃ matjɛʁ də sɑ̃te", "translation": {"zh": "在健康方面", "en": "in terms of health"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "dans le domaine artistique",
+    "ipa": "dɑ̃ lə dɔmɛn aʁtistik",
+    "translation": {"zh": "在艺术领域", "en": "in the artistic field"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "dans le domaine artistique", "lemma": "domaine", "ipa": "dɑ̃ lə dɔmɛn aʁtistik", "translation": {"zh": "在艺术领域", "en": "in the artistic field"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "il publie un article",
+    "ipa": "il pybli œ̃ naʁtikl",
+    "translation": {"zh": "他发表一篇文章", "en": "he publishes an article"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "il publie(publier)", "lemma": "publier", "ipa": "il pybli", "translation": {"zh": "他发表", "en": "he publishes"}, "emoji": ""},
+      {"text": "un article", "lemma": "article", "ipa": "œ̃ naʁtikl", "translation": {"zh": "一篇文章", "en": "an article"}, "emoji": "📰"}
+    ]
+  },
+  {
+    "text": "la situation actuelle",
+    "ipa": "la sitɥasjɔ̃ aktɥɛl",
+    "translation": {"zh": "当前的情况", "en": "the current situation"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la situation actuelle", "lemma": "actuel", "ipa": "la sitɥasjɔ̃ aktɥɛl", "translation": {"zh": "当前的情况", "en": "the current situation"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "lire un texte",
+    "ipa": "liʁ œ̃ tɛkst",
+    "translation": {"zh": "读一段文字", "en": "read a text"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "lire", "lemma": "lire", "ipa": "liʁ", "translation": {"zh": "阅读", "en": "read"}, "emoji": ""},
+      {"text": "un texte", "lemma": "texte", "ipa": "œ̃ tɛkst", "translation": {"zh": "一段文字", "en": "a text"}, "emoji": "📄"}
+    ]
+  },
+  {
+    "text": "se tromper de chemin",
+    "ipa": "sə tʁɔ̃pe də ʃəmɛ̃",
+    "translation": {"zh": "走错路", "en": "take the wrong path"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "se tromper de chemin", "lemma": "tromper", "ipa": "sə tʁɔ̃pe də ʃəmɛ̃", "translation": {"zh": "走错路", "en": "take the wrong path"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "prendre la parole",
+    "ipa": "pʁɑ̃dʁ la paʁɔl",
+    "translation": {"zh": "发言", "en": "take the floor"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "prendre", "lemma": "prendre", "ipa": "pʁɑ̃dʁ", "translation": {"zh": "拿，采取", "en": "take"}, "emoji": ""},
+      {"text": "la parole", "lemma": "parole", "ipa": "la paʁɔl", "translation": {"zh": "发言权", "en": "the floor"}, "emoji": "🎤"}
+    ]
+  },
+  {
+    "text": "le coin de la rue",
+    "ipa": "lə kwɛ̃ də la ʁy",
+    "translation": {"zh": "街角", "en": "the street corner"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le coin de la rue", "lemma": "coin", "ipa": "lə kwɛ̃ də la ʁy", "translation": {"zh": "街角", "en": "the street corner"}, "emoji": "📍"}
+    ]
+  },
+  {
+    "text": "une exposition d'art",
+    "ipa": "yn ɛkspɔzisjɔ̃ daʁ",
+    "translation": {"zh": "一场艺术展览", "en": "an art exhibition"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une exposition d'art", "lemma": "exposition", "ipa": "yn ɛkspɔzisjɔ̃ daʁ", "translation": {"zh": "一场艺术展览", "en": "an art exhibition"}, "emoji": "🖼️"}
+    ]
+  },
+  {
+    "text": "le grand public",
+    "ipa": "lə ɡʁɑ̃ pyblik",
+    "translation": {"zh": "大众，普通公众", "en": "the general public"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le grand public", "lemma": "public", "ipa": "lə ɡʁɑ̃ pyblik", "translation": {"zh": "大众，公众", "en": "the general public"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "en réalité",
+    "ipa": "ɑ̃ ʁealite",
+    "translation": {"zh": "实际上", "en": "in reality"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "en réalité", "lemma": "réalité", "ipa": "ɑ̃ ʁealite", "translation": {"zh": "实际上", "en": "in reality"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la science moderne",
+    "ipa": "la sjɑ̃s mɔdɛʁn",
+    "translation": {"zh": "现代科学", "en": "modern science"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la science moderne", "lemma": "science", "ipa": "la sjɑ̃s mɔdɛʁn", "translation": {"zh": "现代科学", "en": "modern science"}, "emoji": "🔬"}
+    ]
+  },
+  {
+    "text": "la crise économique",
+    "ipa": "la kʁiz ekɔnɔmik",
+    "translation": {"zh": "经济危机", "en": "the economic crisis"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "la crise économique", "lemma": "économique", "ipa": "la kʁiz ekɔnɔmik", "translation": {"zh": "经济危机", "en": "the economic crisis"}, "emoji": "📉"}
+    ]
+  },
+  {
+    "text": "je te promets",
+    "ipa": "ʒə tə pʁɔmɛ",
+    "translation": {"zh": "我向你保证", "en": "I promise you"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je te promets(promettre)", "lemma": "promettre", "ipa": "ʒə tə pʁɔmɛ", "translation": {"zh": "我向你保证", "en": "I promise you"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "la nature sauvage",
+    "ipa": "la natyʁ sovaʒ",
+    "translation": {"zh": "野生自然", "en": "wild nature"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la nature sauvage", "lemma": "nature", "ipa": "la natyʁ sovaʒ", "translation": {"zh": "野生自然", "en": "wild nature"}, "emoji": "🌿"}
+    ]
+  },
+  {
+    "text": "la cour de l'école",
+    "ipa": "la kuʁ də lekɔl",
+    "translation": {"zh": "学校操场", "en": "the school yard"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la cour de l'école", "lemma": "cour", "ipa": "la kuʁ də lekɔl", "translation": {"zh": "学校操场", "en": "the school yard"}, "emoji": "🏫"}
+    ]
+  },
+  {
+    "text": "une belle vue",
+    "ipa": "yn bɛl vy",
+    "translation": {"zh": "美丽的景色", "en": "a beautiful view"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une belle vue", "lemma": "vue", "ipa": "yn bɛl vy", "translation": {"zh": "美丽的景色", "en": "a beautiful view"}, "emoji": "🏞️"}
+    ]
+  },
+  {
+    "text": "répéter la phrase",
+    "ipa": "ʁepete la fʁaz",
+    "translation": {"zh": "重复这句话", "en": "repeat the sentence"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "répéter", "lemma": "répéter", "ipa": "ʁepete", "translation": {"zh": "重复", "en": "repeat"}, "emoji": ""},
+      {"text": "la phrase", "lemma": "phrase", "ipa": "la fʁaz", "translation": {"zh": "这句话", "en": "the sentence"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la liberté de la presse",
+    "ipa": "la libɛʁte də la pʁɛs",
+    "translation": {"zh": "新闻自由", "en": "freedom of the press"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "la liberté de la presse", "lemma": "presse", "ipa": "la libɛʁte də la pʁɛs", "translation": {"zh": "新闻自由", "en": "freedom of the press"}, "emoji": "📰"}
+    ]
+  },
+  {
+    "text": "le collège du quartier",
+    "ipa": "lə kɔlɛʒ dy kaʁtje",
+    "translation": {"zh": "附近的初中", "en": "the local middle school"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le collège du quartier", "lemma": "collège", "ipa": "lə kɔlɛʒ dy kaʁtje", "translation": {"zh": "附近的初中", "en": "the local middle school"}, "emoji": "🏫"}
+    ]
+  },
+  {
+    "text": "l'intérêt principal",
+    "ipa": "lɛ̃teʁɛ pʁɛ̃sipal",
+    "translation": {"zh": "主要兴趣", "en": "the main interest"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'intérêt principal", "lemma": "intérêt", "ipa": "lɛ̃teʁɛ pʁɛ̃sipal", "translation": {"zh": "主要兴趣", "en": "the main interest"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "on s'amuse bien",
+    "ipa": "ɔ̃ samyz bjɛ̃",
+    "translation": {"zh": "我们玩得很开心", "en": "we have a great time"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "on s'amuse bien(amuser)", "lemma": "amuser", "ipa": "ɔ̃ samyz bjɛ̃", "translation": {"zh": "我们玩得很开心", "en": "we have a great time"}, "emoji": "😄"}
+    ]
+  },
+  {
+    "text": "au deuxième étage",
+    "ipa": "o døzjɛm etaʒ",
+    "translation": {"zh": "在二楼", "en": "on the second floor"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "au deuxième étage", "lemma": "étage", "ipa": "o døzjɛm etaʒ", "translation": {"zh": "在二楼", "en": "on the second floor"}, "emoji": "🏢"}
+    ]
+  }
+]

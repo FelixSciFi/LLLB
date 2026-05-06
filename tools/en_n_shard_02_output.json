@@ -1,0 +1,76 @@
+[
+  {
+    "input_word": "nuclear",
+    "entries": [
+      {
+        "text": "nuclear",
+        "ipa": "/ˈnjuːkliər/",
+        "cefr": "B1",
+        "zh": "核能的",
+        "emoji": "☢️"
+      }
+    ]
+  },
+  {
+    "input_word": "number",
+    "entries": [
+      {
+        "text": "number",
+        "ipa": "/ˈnʌmbər/",
+        "cefr": "A1",
+        "zh": "数字",
+        "emoji": "🔢"
+      },
+      {
+        "text": "number",
+        "ipa": "/ˈnʌmbər/",
+        "cefr": "A1",
+        "zh": "数量",
+        "emoji": "📊"
+      }
+    ]
+  },
+  {
+    "input_word": "numerous",
+    "entries": [
+      {
+        "text": "numerous",
+        "ipa": "/ˈnjuːmərəs/",
+        "cefr": "B2",
+        "zh": "众多的",
+        "emoji": "🔢"
+      }
+    ]
+  },
+  {
+    "input_word": "nurse",
+    "entries": [
+      {
+        "text": "nurse",
+        "ipa": "/nɜːrs/",
+        "cefr": "A1",
+        "zh": "护士",
+        "emoji": "👩‍⚕️"
+      }
+    ]
+  },
+  {
+    "input_word": "nut",
+    "entries": [
+      {
+        "text": "nut",
+        "ipa": "/nʌt/",
+        "cefr": "A2",
+        "zh": "坚果",
+        "emoji": "🥜"
+      },
+      {
+        "text": "nut",
+        "ipa": "/nʌt/",
+        "cefr": "A2",
+        "zh": "螺母",
+        "emoji": "🔩"
+      }
+    ]
+  }
+]

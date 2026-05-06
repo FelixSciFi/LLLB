@@ -1,0 +1,311 @@
+[
+  {
+    "input_text": "地球",
+    "entries": [
+      {
+        "text": "地球",
+        "pinyin": "dì qiú",
+        "en": "Earth; globe",
+        "emoji": "🌍"
+      }
+    ]
+  },
+  {
+    "input_text": "地址",
+    "entries": [
+      {
+        "text": "地址",
+        "pinyin": "dì zhǐ",
+        "en": "address",
+        "emoji": "📍"
+      }
+    ]
+  },
+  {
+    "input_text": "调查",
+    "entries": [
+      {
+        "text": "调查",
+        "pinyin": "diào chá",
+        "en": "investigate; survey",
+        "emoji": "🔍"
+      }
+    ]
+  },
+  {
+    "input_text": "掉",
+    "entries": [
+      {
+        "text": "掉",
+        "pinyin": "diào",
+        "en": "fall; drop; lose",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "丢",
+    "entries": [
+      {
+        "text": "丢",
+        "pinyin": "diū",
+        "en": "lose; misplace",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "动作",
+    "entries": [
+      {
+        "text": "动作",
+        "pinyin": "dòng zuò",
+        "en": "action; movement",
+        "emoji": "🏃"
+      }
+    ]
+  },
+  {
+    "input_text": "堵车",
+    "entries": [
+      {
+        "text": "堵车",
+        "pinyin": "dǔ chē",
+        "en": "traffic jam",
+        "emoji": "🚗"
+      }
+    ]
+  },
+  {
+    "input_text": "肚子",
+    "entries": [
+      {
+        "text": "肚子",
+        "pinyin": "dù zi",
+        "en": "belly; stomach",
+        "emoji": "🫃"
+      }
+    ]
+  },
+  {
+    "input_text": "短信",
+    "entries": [
+      {
+        "text": "短信",
+        "pinyin": "duǎn xìn",
+        "en": "text message; SMS",
+        "emoji": "💬"
+      }
+    ]
+  },
+  {
+    "input_text": "对话",
+    "entries": [
+      {
+        "text": "对话",
+        "pinyin": "duì huà",
+        "en": "dialogue; conversation",
+        "emoji": "💬"
+      }
+    ]
+  },
+  {
+    "input_text": "对面",
+    "entries": [
+      {
+        "text": "对面",
+        "pinyin": "duì miàn",
+        "en": "opposite side; across",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "对于",
+    "entries": []
+  },
+  {
+    "input_text": "儿童",
+    "entries": [
+      {
+        "text": "儿童",
+        "pinyin": "ér tóng",
+        "en": "children",
+        "emoji": "👦"
+      }
+    ]
+  },
+  {
+    "input_text": "而",
+    "entries": []
+  },
+  {
+    "input_text": "发生",
+    "entries": [
+      {
+        "text": "发生",
+        "pinyin": "fā shēng",
+        "en": "happen; occur",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "发展",
+    "entries": [
+      {
+        "text": "发展",
+        "pinyin": "fā zhǎn",
+        "en": "develop; development",
+        "emoji": "📈"
+      }
+    ]
+  },
+  {
+    "input_text": "法律",
+    "entries": [
+      {
+        "text": "法律",
+        "pinyin": "fǎ lǜ",
+        "en": "law; legislation",
+        "emoji": "⚖️"
+      }
+    ]
+  },
+  {
+    "input_text": "翻译",
+    "entries": [
+      {
+        "text": "翻译",
+        "pinyin": "fān yì",
+        "en": "translate; translator",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "烦恼",
+    "entries": [
+      {
+        "text": "烦恼",
+        "pinyin": "fán nǎo",
+        "en": "worry; troubled",
+        "emoji": "😟"
+      }
+    ]
+  },
+  {
+    "input_text": "反对",
+    "entries": [
+      {
+        "text": "反对",
+        "pinyin": "fǎn duì",
+        "en": "oppose; object to",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "方法",
+    "entries": [
+      {
+        "text": "方法",
+        "pinyin": "fāng fǎ",
+        "en": "method; approach",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "方面",
+    "entries": [
+      {
+        "text": "方面",
+        "pinyin": "fāng miàn",
+        "en": "aspect; area",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "方向",
+    "entries": [
+      {
+        "text": "方向",
+        "pinyin": "fāng xiàng",
+        "en": "direction",
+        "emoji": "🧭"
+      }
+    ]
+  },
+  {
+    "input_text": "房东",
+    "entries": [
+      {
+        "text": "房东",
+        "pinyin": "fáng dōng",
+        "en": "landlord",
+        "emoji": "🏠"
+      }
+    ]
+  },
+  {
+    "input_text": "放弃",
+    "entries": [
+      {
+        "text": "放弃",
+        "pinyin": "fàng qì",
+        "en": "give up; abandon",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "放暑假",
+    "entries": [
+      {
+        "text": "放暑假",
+        "pinyin": "fàng shǔ jià",
+        "en": "summer break",
+        "emoji": "☀️"
+      }
+    ]
+  },
+  {
+    "input_text": "放松",
+    "entries": [
+      {
+        "text": "放松",
+        "pinyin": "fàng sōng",
+        "en": "relax; loosen up",
+        "emoji": "😌"
+      }
+    ]
+  },
+  {
+    "input_text": "份",
+    "entries": []
+  },
+  {
+    "input_text": "丰富",
+    "entries": [
+      {
+        "text": "丰富",
+        "pinyin": "fēng fù",
+        "en": "rich; abundant",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "否则",
+    "entries": [
+      {
+        "text": "否则",
+        "pinyin": "fǒu zé",
+        "en": "otherwise; or else",
+        "emoji": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "text": "Dans la plaine rase, sous la nuit sans étoiles,",
+    "ipa": "dɑ̃ la plɛn ʁaz su la nɥi sɑ̃z etwal",
+    "translation": {"zh": "在光秃秃的平原上，在没有星星的夜空下，", "en": "On the bare plain, beneath the starless night,"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Dans la plaine", "lemma": "plaine", "ipa": "dɑ̃ la plɛn", "translation": {"zh": "在平原上", "en": "on the plain"}, "emoji": ""},
+      {"text": "rase", "lemma": "ras", "ipa": "ʁaz", "translation": {"zh": "光秃的", "en": "bare"}, "emoji": ""},
+      {"text": "sous la nuit", "lemma": "nuit", "ipa": "su la nɥi", "translation": {"zh": "在夜空下", "en": "beneath the night"}, "emoji": ""},
+      {"text": "sans étoiles", "lemma": "étoile", "ipa": "sɑ̃z etwal", "translation": {"zh": "没有星星的", "en": "starless"}, "emoji": ""}
+    ],
+    "tags": [{"name": "Germinal", "index": 1}]
+  },
+  {
+    "text": "d'une obscurité et d'une épaisseur d'encre,",
+    "ipa": "dyn ɔpskyʁite e dyn epɛsœʁ dɑ̃kʁ",
+    "translation": {"zh": "黑暗如浓墨般厚重，", "en": "of an inky darkness and thickness,"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "d'une obscurité", "lemma": "obscurité", "ipa": "dyn ɔpskyʁite", "translation": {"zh": "一种黑暗", "en": "of a darkness"}, "emoji": ""},
+      {"text": "et d'une épaisseur", "lemma": "épaisseur", "ipa": "e dyn epɛsœʁ", "translation": {"zh": "和一种浓度", "en": "and a thickness"}, "emoji": ""},
+      {"text": "d'encre", "lemma": "encre", "ipa": "dɑ̃kʁ", "translation": {"zh": "墨般的", "en": "of ink"}, "emoji": ""}
+    ],
+    "tags": [{"name": "Germinal", "index": 2}]
+  },
+  {
+    "text": "un homme suivait seul la grande route de Marchiennes à Montsou,",
+    "ipa": "œ̃n ɔm sɥivɛ sœl la ɡʁɑ̃d ʁut də maʁʃjɛn a mɔ̃su",
+    "translation": {"zh": "一个男人独自走在从马尔西安到蒙苏的大路上，", "en": "a man was walking alone along the main road from Marchiennes to Montsou,"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "un homme", "lemma": "homme", "ipa": "œ̃n ɔm", "translation": {"zh": "一个男人", "en": "a man"}, "emoji": ""},
+      {"text": "suivait", "lemma": "suivre", "ipa": "sɥivɛ", "translation": {"zh": "沿着走", "en": "was following"}, "emoji": ""},
+      {"text": "seul", "lemma": "seul", "ipa": "sœl", "translation": {"zh": "独自", "en": "alone"}, "emoji": ""},
+      {"text": "la grande route", "lemma": "route", "ipa": "la ɡʁɑ̃d ʁut", "translation": {"zh": "大路", "en": "the main road"}, "emoji": ""},
+      {"text": "de Marchiennes", "lemma": "Marchiennes", "ipa": "də maʁʃjɛn", "translation": {"zh": "从马尔西安", "en": "from Marchiennes"}, "emoji": ""},
+      {"text": "à Montsou", "lemma": "Montsou", "ipa": "a mɔ̃su", "translation": {"zh": "到蒙苏", "en": "to Montsou"}, "emoji": ""}
+    ],
+    "tags": [{"name": "Germinal", "index": 3}]
+  },
+  {
+    "text": "dix kilomètres de pavé coupant tout droit,",
+    "ipa": "di kilɔmɛtʁ də pave kupɑ̃ tu dʁwa",
+    "translation": {"zh": "十公里的石板路笔直地穿过，", "en": "ten kilometers of cobblestones cutting straight ahead,"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "dix kilomètres", "lemma": "kilomètre", "ipa": "di kilɔmɛtʁ", "translation": {"zh": "十公里", "en": "ten kilometers"}, "emoji": ""},
+      {"text": "de pavé", "lemma": "pavé", "ipa": "də pave", "translation": {"zh": "石板路的", "en": "of cobblestones"}, "emoji": ""},
+      {"text": "coupant", "lemma": "couper", "ipa": "kupɑ̃", "translation": {"zh": "穿过", "en": "cutting"}, "emoji": ""},
+      {"text": "tout droit", "lemma": "droit", "ipa": "tu dʁwa", "translation": {"zh": "笔直地", "en": "straight ahead"}, "emoji": ""}
+    ],
+    "tags": [{"name": "Germinal", "index": 4}]
+  },
+  {
+    "text": "à travers les champs de betteraves.",
+    "ipa": "a tʁavɛʁ le ʃɑ̃ də bɛtʁav",
+    "translation": {"zh": "穿过甜菜田。", "en": "across the beet fields."},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "à travers", "lemma": "travers", "ipa": "a tʁavɛʁ", "translation": {"zh": "穿过", "en": "across"}, "emoji": ""},
+      {"text": "les champs", "lemma": "champ", "ipa": "le ʃɑ̃", "translation": {"zh": "田地", "en": "the fields"}, "emoji": ""},
+      {"text": "de betteraves", "lemma": "betterave", "ipa": "də bɛtʁav", "translation": {"zh": "甜菜的", "en": "of beets"}, "emoji": ""}
+    ],
+    "tags": [{"name": "Germinal", "index": 5}]
+  }
+]

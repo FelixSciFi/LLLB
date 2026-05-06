@@ -1,0 +1,274 @@
+[
+  {
+    "text": "chimique",
+    "ipa": "ʃimik",
+    "translation": {"zh": "化学的", "en": "chemical"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "chimique", "lemma": "chimique", "ipa": "ʃimik", "translation": {"zh": "化学的", "en": "chemical"}, "emoji": "⚗️"}
+    ]
+  },
+  {
+    "text": "difficilement",
+    "ipa": "difisilmɑ̃",
+    "translation": {"zh": "困难地", "en": "with difficulty"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "difficilement", "lemma": "difficilement", "ipa": "difisilmɑ̃", "translation": {"zh": "困难地", "en": "with difficulty"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "ridicule",
+    "ipa": "ʁidikyl",
+    "translation": {"zh": "可笑的", "en": "ridiculous"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ridicule", "lemma": "ridicule", "ipa": "ʁidikyl", "translation": {"zh": "可笑的", "en": "ridiculous"}, "emoji": "🤡"}
+    ]
+  },
+  {
+    "text": "faire la bise",
+    "ipa": "fɛʁ la biz",
+    "translation": {"zh": "贴面礼", "en": "kiss on the cheek"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "faire la bise", "lemma": "bise", "ipa": "fɛʁ la biz", "translation": {"zh": "贴面礼", "en": "kiss on the cheek"}, "emoji": "😘"}
+    ]
+  },
+  {
+    "text": "des bottes",
+    "ipa": "de bɔt",
+    "translation": {"zh": "靴子", "en": "boots"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "des bottes", "lemma": "botte", "ipa": "de bɔt", "translation": {"zh": "靴子", "en": "boots"}, "emoji": "👢"}
+    ]
+  },
+  {
+    "text": "un centimètre",
+    "ipa": "œ̃ sɑ̃timɛtʁ",
+    "translation": {"zh": "一厘米", "en": "one centimetre"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un centimètre", "lemma": "centimètre", "ipa": "œ̃ sɑ̃timɛtʁ", "translation": {"zh": "一厘米", "en": "one centimetre"}, "emoji": "📏"}
+    ]
+  },
+  {
+    "text": "la cathédrale",
+    "ipa": "la katedʁal",
+    "translation": {"zh": "大教堂", "en": "the cathedral"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la cathédrale", "lemma": "cathédrale", "ipa": "la katedʁal", "translation": {"zh": "大教堂", "en": "the cathedral"}, "emoji": "⛪"}
+    ]
+  },
+  {
+    "text": "une particularité",
+    "ipa": "yn paʁtikylaʁite",
+    "translation": {"zh": "一个特点", "en": "a particularity"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une particularité", "lemma": "particularité", "ipa": "yn paʁtikylaʁite", "translation": {"zh": "一个特点", "en": "a particularity"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "on le surnomme",
+    "ipa": "ɔ̃ lə syʁnɔm",
+    "translation": {"zh": "人们给他起绰号", "en": "they nickname him"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "on le surnomme", "lemma": "surnommer", "ipa": "ɔ̃ lə syʁnɔm", "translation": {"zh": "给他起绰号", "en": "nickname him"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une blague",
+    "ipa": "yn blaɡ",
+    "translation": {"zh": "一个玩笑", "en": "a joke"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une blague", "lemma": "blague", "ipa": "yn blaɡ", "translation": {"zh": "一个玩笑", "en": "a joke"}, "emoji": "😄"}
+    ]
+  },
+  {
+    "text": "un aliment",
+    "ipa": "œ̃ nalimɑ̃",
+    "translation": {"zh": "一种食物", "en": "a food item"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un aliment", "lemma": "aliment", "ipa": "œ̃ nalimɑ̃", "translation": {"zh": "一种食物", "en": "a food item"}, "emoji": "🍎"}
+    ]
+  },
+  {
+    "text": "en ruine",
+    "ipa": "ɑ̃ ʁɥin",
+    "translation": {"zh": "成为废墟", "en": "in ruins"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "en ruine", "lemma": "ruine", "ipa": "ɑ̃ ʁɥin", "translation": {"zh": "废墟", "en": "ruins"}, "emoji": "🏚️"}
+    ]
+  },
+  {
+    "text": "ça résulte de",
+    "ipa": "sa ʁezylta də",
+    "translation": {"zh": "这源于", "en": "it results from"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ça résulte de", "lemma": "résulter", "ipa": "sa ʁezylta də", "translation": {"zh": "源于", "en": "results from"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un virus",
+    "ipa": "œ̃ viʁys",
+    "translation": {"zh": "一种病毒", "en": "a virus"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un virus", "lemma": "virus", "ipa": "œ̃ viʁys", "translation": {"zh": "一种病毒", "en": "a virus"}, "emoji": "🦠"}
+    ]
+  },
+  {
+    "text": "ils protestent",
+    "ipa": "il pʁɔtɛst",
+    "translation": {"zh": "他们抗议", "en": "they protest"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ils protestent", "lemma": "protester", "ipa": "il pʁɔtɛst", "translation": {"zh": "他们抗议", "en": "they protest"}, "emoji": "✊"}
+    ]
+  },
+  {
+    "text": "s'armer de patience",
+    "ipa": "saʁme də pasjɑ̃s",
+    "translation": {"zh": "耐心等待", "en": "arm oneself with patience"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "s'armer de patience", "lemma": "armer", "ipa": "saʁme də pasjɑ̃s", "translation": {"zh": "耐心等待", "en": "arm with patience"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une insulte",
+    "ipa": "yn ɛ̃sylt",
+    "translation": {"zh": "一种侮辱", "en": "an insult"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une insulte", "lemma": "insulte", "ipa": "yn ɛ̃sylt", "translation": {"zh": "一种侮辱", "en": "an insult"}, "emoji": "😡"}
+    ]
+  },
+  {
+    "text": "il mord",
+    "ipa": "il mɔʁ",
+    "translation": {"zh": "他咬", "en": "he bites"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il mord", "lemma": "mordre", "ipa": "il mɔʁ", "translation": {"zh": "他咬", "en": "he bites"}, "emoji": "🐍"}
+    ]
+  },
+  {
+    "text": "une salutation",
+    "ipa": "yn salytatsjɔ̃",
+    "translation": {"zh": "一种问候", "en": "a greeting"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une salutation", "lemma": "salutation", "ipa": "yn salytatsjɔ̃", "translation": {"zh": "一种问候", "en": "a greeting"}, "emoji": "👋"}
+    ]
+  },
+  {
+    "text": "une couche de peinture",
+    "ipa": "yn kuʃ də pɛ̃tyʁ",
+    "translation": {"zh": "一层油漆", "en": "a coat of paint"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une couche de peinture", "lemma": "couche", "ipa": "yn kuʃ də pɛ̃tyʁ", "translation": {"zh": "一层油漆", "en": "a coat of paint"}, "emoji": "🎨"}
+    ]
+  },
+  {
+    "text": "insolite",
+    "ipa": "ɛ̃sɔlit",
+    "translation": {"zh": "奇特的", "en": "unusual"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "insolite", "lemma": "insolite", "ipa": "ɛ̃sɔlit", "translation": {"zh": "奇特的", "en": "unusual"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "il punit",
+    "ipa": "il pyni",
+    "translation": {"zh": "他惩罚", "en": "he punishes"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "il punit", "lemma": "punir", "ipa": "il pyni", "translation": {"zh": "他惩罚", "en": "he punishes"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "branche le chargeur",
+    "ipa": "bʁɑ̃ʃ lə ʃaʁʒœʁ",
+    "translation": {"zh": "插上充电器", "en": "plug in the charger"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "branche le chargeur", "lemma": "brancher", "ipa": "bʁɑ̃ʃ lə ʃaʁʒœʁ", "translation": {"zh": "插上充电器", "en": "plug in the charger"}, "emoji": "🔌"}
+    ]
+  },
+  {
+    "text": "le pont s'est effondré",
+    "ipa": "lə pɔ̃ sɛ efɔ̃dʁe",
+    "translation": {"zh": "桥倒塌了", "en": "the bridge collapsed"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le pont", "lemma": "pont", "ipa": "lə pɔ̃", "translation": {"zh": "桥", "en": "bridge"}, "emoji": "🌉"},
+      {"text": "s'est effondré", "lemma": "effondrer", "ipa": "sɛ efɔ̃dʁe", "translation": {"zh": "倒塌了", "en": "collapsed"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "elle murmure",
+    "ipa": "ɛl myʁmyʁ",
+    "translation": {"zh": "她低声说", "en": "she murmurs"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "elle murmure", "lemma": "murmurer", "ipa": "ɛl myʁmyʁ", "translation": {"zh": "她低声说", "en": "she murmurs"}, "emoji": "🤫"}
+    ]
+  },
+  {
+    "text": "tu mérites une pause",
+    "ipa": "ty meʁit yn poz",
+    "translation": {"zh": "你值得休息一下", "en": "you deserve a break"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "tu mérites", "lemma": "mériter", "ipa": "ty meʁit", "translation": {"zh": "你值得", "en": "you deserve"}, "emoji": ""},
+      {"text": "une pause", "lemma": "pause", "ipa": "yn poz", "translation": {"zh": "休息", "en": "a break"}, "emoji": "☕"}
+    ]
+  },
+  {
+    "text": "une autorisation",
+    "ipa": "yn otɔʁizasjɔ̃",
+    "translation": {"zh": "一份许可", "en": "an authorization"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une autorisation", "lemma": "autorisation", "ipa": "yn otɔʁizasjɔ̃", "translation": {"zh": "一份许可", "en": "an authorization"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "avec mépris",
+    "ipa": "avɛk mepʁi",
+    "translation": {"zh": "带着蔑视", "en": "with contempt"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "avec mépris", "lemma": "mépris", "ipa": "avɛk mepʁi", "translation": {"zh": "带着蔑视", "en": "with contempt"}, "emoji": "😤"}
+    ]
+  },
+  {
+    "text": "auparavant",
+    "ipa": "opaʁavɑ̃",
+    "translation": {"zh": "以前", "en": "before"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "auparavant", "lemma": "auparavant", "ipa": "opaʁavɑ̃", "translation": {"zh": "以前", "en": "before"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "avec impatience",
+    "ipa": "avɛk ɛ̃pasjɑ̃s",
+    "translation": {"zh": "迫不及待地", "en": "with impatience"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "avec impatience", "lemma": "impatience", "ipa": "avɛk ɛ̃pasjɑ̃s", "translation": {"zh": "迫不及待地", "en": "with impatience"}, "emoji": "⏳"}
+    ]
+  }
+]

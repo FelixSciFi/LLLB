@@ -1,0 +1,184 @@
+[
+  {
+    "input_text": "嘲笑",
+    "entries": [
+      {"text": "嘲笑", "pinyin": "cháo xiào", "en": "mock, ridicule", "emoji": "😂"}
+    ]
+  },
+  {
+    "input_text": "潮流",
+    "entries": [
+      {"text": "潮流", "pinyin": "cháo liú", "en": "trend, current", "emoji": "🌊"}
+    ]
+  },
+  {
+    "input_text": "撤退",
+    "entries": [
+      {"text": "撤退", "pinyin": "chè tuì", "en": "retreat, withdraw", "emoji": "🏃"}
+    ]
+  },
+  {
+    "input_text": "撤销",
+    "entries": [
+      {"text": "撤销", "pinyin": "chè xiāo", "en": "cancel, revoke", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "沉淀",
+    "entries": [
+      {"text": "沉淀", "pinyin": "chén diàn", "en": "sediment; settle", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "沉闷",
+    "entries": [
+      {"text": "沉闷", "pinyin": "chén mèn", "en": "dull, oppressive", "emoji": "😶"}
+    ]
+  },
+  {
+    "input_text": "沉思",
+    "entries": [
+      {"text": "沉思", "pinyin": "chén sī", "en": "ponder, meditate", "emoji": "🤔"}
+    ]
+  },
+  {
+    "input_text": "沉重",
+    "entries": [
+      {"text": "沉重", "pinyin": "chén zhòng", "en": "heavy, weighty", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "沉着",
+    "entries": [
+      {"text": "沉着", "pinyin": "chén zhuó", "en": "calm, composed", "emoji": "😌"}
+    ]
+  },
+  {
+    "input_text": "陈旧",
+    "entries": [
+      {"text": "陈旧", "pinyin": "chén jiù", "en": "outdated, obsolete", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "陈列",
+    "entries": [
+      {"text": "陈列", "pinyin": "chén liè", "en": "display, exhibit", "emoji": "🖼️"}
+    ]
+  },
+  {
+    "input_text": "陈述",
+    "entries": [
+      {"text": "陈述", "pinyin": "chén shù", "en": "state, describe", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "衬托",
+    "entries": [
+      {"text": "衬托", "pinyin": "chèn tuō", "en": "set off, contrast", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "称心如意",
+    "entries": [
+      {"text": "称心如意", "pinyin": "chèn xīn rú yì", "en": "perfectly satisfying", "emoji": "😊"}
+    ]
+  },
+  {
+    "input_text": "称号",
+    "entries": [
+      {"text": "称号", "pinyin": "chēng hào", "en": "title, designation", "emoji": "🏆"}
+    ]
+  },
+  {
+    "input_text": "成本",
+    "entries": [
+      {"text": "成本", "pinyin": "chéng běn", "en": "cost, expense", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_text": "成交",
+    "entries": [
+      {"text": "成交", "pinyin": "chéng jiāo", "en": "close a deal", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_text": "成天",
+    "entries": [
+      {"text": "成天", "pinyin": "chéng tiān", "en": "all day long", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "成效",
+    "entries": [
+      {"text": "成效", "pinyin": "chéng xiào", "en": "result, effect", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "成心",
+    "entries": [
+      {"text": "成心", "pinyin": "chéng xīn", "en": "deliberately, on purpose", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "成员",
+    "entries": [
+      {"text": "成员", "pinyin": "chéng yuán", "en": "member", "emoji": "👤"}
+    ]
+  },
+  {
+    "input_text": "呈现",
+    "entries": [
+      {"text": "呈现", "pinyin": "chéng xiàn", "en": "present, emerge", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "诚挚",
+    "entries": [
+      {"text": "诚挚", "pinyin": "chéng zhì", "en": "sincere, earnest", "emoji": "❤️"}
+    ]
+  },
+  {
+    "input_text": "承办",
+    "entries": [
+      {"text": "承办", "pinyin": "chéng bàn", "en": "host, undertake", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "承包",
+    "entries": [
+      {"text": "承包", "pinyin": "chéng bāo", "en": "contract, take on", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_text": "承诺",
+    "entries": [
+      {"text": "承诺", "pinyin": "chéng nuò", "en": "promise, commitment", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_text": "城堡",
+    "entries": [
+      {"text": "城堡", "pinyin": "chéng bǎo", "en": "castle", "emoji": "🏰"}
+    ]
+  },
+  {
+    "input_text": "乘",
+    "entries": [
+      {"text": "乘", "pinyin": "chéng", "en": "ride, take (transport)", "emoji": "🚌"},
+      {"text": "乘", "pinyin": "chéng", "en": "multiply (math)", "emoji": "✖️"}
+    ]
+  },
+  {
+    "input_text": "盛",
+    "entries": [
+      {"text": "盛", "pinyin": "shèng", "en": "flourishing, grand", "emoji": "🌸"},
+      {"text": "盛", "pinyin": "chéng", "en": "fill, ladle out", "emoji": "🍚"}
+    ]
+  },
+  {
+    "input_text": "惩罚",
+    "entries": [
+      {"text": "惩罚", "pinyin": "chéng fá", "en": "punish, penalize", "emoji": "⚖️"}
+    ]
+  }
+]

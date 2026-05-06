@@ -1,0 +1,282 @@
+[
+  {
+    "text": "quasiment",
+    "ipa": "kazimɑ̃",
+    "translation": {"zh": "几乎", "en": "almost"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "quasiment", "lemma": "quasiment", "ipa": "kazimɑ̃", "translation": {"zh": "几乎", "en": "almost"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un travail partiel",
+    "ipa": "œ̃ tʁavaj paʁsjɛl",
+    "translation": {"zh": "兼职工作", "en": "a part-time job"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un travail(travail)", "lemma": "travail", "ipa": "œ̃ tʁavaj", "translation": {"zh": "工作", "en": "job"}, "emoji": "💼"},
+      {"text": "partiel", "lemma": "partiel", "ipa": "paʁsjɛl", "translation": {"zh": "部分的", "en": "partial"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "c'est vilain",
+    "ipa": "sɛ vilɛ̃",
+    "translation": {"zh": "这很丑", "en": "that's ugly"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "c'est vilain(être)", "lemma": "être", "ipa": "sɛ vilɛ̃", "translation": {"zh": "这很丑", "en": "that's ugly"}, "emoji": "😣"}
+    ]
+  },
+  {
+    "text": "le désordre",
+    "ipa": "lə dezɔʁdʁ",
+    "translation": {"zh": "混乱", "en": "disorder"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le désordre(désordre)", "lemma": "désordre", "ipa": "lə dezɔʁdʁ", "translation": {"zh": "混乱", "en": "disorder"}, "emoji": "🗂️"}
+    ]
+  },
+  {
+    "text": "ça me fascine",
+    "ipa": "sa mə fasin",
+    "translation": {"zh": "这让我着迷", "en": "it fascinates me"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ça(ça)", "lemma": "ça", "ipa": "sa", "translation": {"zh": "这", "en": "it"}, "emoji": ""},
+      {"text": "me fascine(fasciner)", "lemma": "fasciner", "ipa": "mə fasin", "translation": {"zh": "使我着迷", "en": "fascinates me"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "ressortir dehors",
+    "ipa": "ʁəsɔʁtiʁ dəɔʁ",
+    "translation": {"zh": "再出去", "en": "to go back outside"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ressortir(ressortir)", "lemma": "ressortir", "ipa": "ʁəsɔʁtiʁ", "translation": {"zh": "再出去", "en": "go back out"}, "emoji": "🚪"},
+      {"text": "dehors", "lemma": "dehors", "ipa": "dəɔʁ", "translation": {"zh": "外面", "en": "outside"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une crêpe",
+    "ipa": "yn kʁɛp",
+    "translation": {"zh": "一张可丽饼", "en": "a crepe"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une crêpe(crêpe)", "lemma": "crêpe", "ipa": "yn kʁɛp", "translation": {"zh": "可丽饼", "en": "crepe"}, "emoji": "🥞"}
+    ]
+  },
+  {
+    "text": "un exemple représentatif",
+    "ipa": "œ̃ ɛɡzɑ̃pl ʁəpʁezɑ̃tatif",
+    "translation": {"zh": "一个有代表性的例子", "en": "a representative example"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un exemple(exemple)", "lemma": "exemple", "ipa": "œ̃ ɛɡzɑ̃pl", "translation": {"zh": "例子", "en": "example"}, "emoji": ""},
+      {"text": "représentatif", "lemma": "représentatif", "ipa": "ʁəpʁezɑ̃tatif", "translation": {"zh": "有代表性的", "en": "representative"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le terroir",
+    "ipa": "lə tɛʁwaʁ",
+    "translation": {"zh": "风土", "en": "terroir"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le terroir(terroir)", "lemma": "terroir", "ipa": "lə tɛʁwaʁ", "translation": {"zh": "风土", "en": "terroir"}, "emoji": "🌿"}
+    ]
+  },
+  {
+    "text": "trier les déchets",
+    "ipa": "tʁije le deʃɛ",
+    "translation": {"zh": "垃圾分类", "en": "to sort the waste"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "trier(trier)", "lemma": "trier", "ipa": "tʁije", "translation": {"zh": "分类", "en": "sort"}, "emoji": "♻️"},
+      {"text": "les déchets(déchet)", "lemma": "déchet", "ipa": "le deʃɛ", "translation": {"zh": "垃圾", "en": "waste"}, "emoji": "🗑️"}
+    ]
+  },
+  {
+    "text": "le jury",
+    "ipa": "lə ʒyʁi",
+    "translation": {"zh": "评审团", "en": "the jury"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le jury(jury)", "lemma": "jury", "ipa": "lə ʒyʁi", "translation": {"zh": "评审团", "en": "jury"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "régir une organisation",
+    "ipa": "ʁeʒiʁ yn ɔʁɡanizasjɔ̃",
+    "translation": {"zh": "管理一个组织", "en": "to govern an organization"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "régir(régir)", "lemma": "régir", "ipa": "ʁeʒiʁ", "translation": {"zh": "管理", "en": "govern"}, "emoji": ""},
+      {"text": "une organisation(organisation)", "lemma": "organisation", "ipa": "yn ɔʁɡanizasjɔ̃", "translation": {"zh": "组织", "en": "organization"}, "emoji": "🏢"}
+    ]
+  },
+  {
+    "text": "les conditions sanitaires",
+    "ipa": "le kɔ̃disjɔ̃ sanitɛʁ",
+    "translation": {"zh": "卫生条件", "en": "sanitary conditions"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "les conditions(condition)", "lemma": "condition", "ipa": "le kɔ̃disjɔ̃", "translation": {"zh": "条件", "en": "conditions"}, "emoji": ""},
+      {"text": "sanitaires", "lemma": "sanitaire", "ipa": "sanitɛʁ", "translation": {"zh": "卫生的", "en": "sanitary"}, "emoji": "🧼"}
+    ]
+  },
+  {
+    "text": "avec rigueur",
+    "ipa": "avɛk ʁiɡœʁ",
+    "translation": {"zh": "严格地", "en": "with rigor"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "avec rigueur(rigueur)", "lemma": "rigueur", "ipa": "avɛk ʁiɡœʁ", "translation": {"zh": "严格", "en": "rigor"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un sandwich",
+    "ipa": "œ̃ sɑ̃dwitʃ",
+    "translation": {"zh": "一个三明治", "en": "a sandwich"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un sandwich(sandwich)", "lemma": "sandwich", "ipa": "œ̃ sɑ̃dwitʃ", "translation": {"zh": "三明治", "en": "sandwich"}, "emoji": "🥪"}
+    ]
+  },
+  {
+    "text": "la délinquance",
+    "ipa": "la delɛ̃kɑ̃s",
+    "translation": {"zh": "犯罪行为", "en": "delinquency"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la délinquance(délinquance)", "lemma": "délinquance", "ipa": "la delɛ̃kɑ̃s", "translation": {"zh": "犯罪行为", "en": "delinquency"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la confédération",
+    "ipa": "la kɔ̃fedeʁasjɔ̃",
+    "translation": {"zh": "联合会", "en": "confederation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la confédération(confédération)", "lemma": "confédération", "ipa": "la kɔ̃fedeʁasjɔ̃", "translation": {"zh": "联合会", "en": "confederation"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "un senior",
+    "ipa": "œ̃ senjɔʁ",
+    "translation": {"zh": "一位老年人", "en": "a senior"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un senior(senior)", "lemma": "senior", "ipa": "œ̃ senjɔʁ", "translation": {"zh": "老年人", "en": "senior"}, "emoji": "👴"}
+    ]
+  },
+  {
+    "text": "la cible",
+    "ipa": "la sibl",
+    "translation": {"zh": "目标", "en": "the target"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la cible(cible)", "lemma": "cible", "ipa": "la sibl", "translation": {"zh": "目标", "en": "target"}, "emoji": "🎯"}
+    ]
+  },
+  {
+    "text": "l'émergence",
+    "ipa": "lemɛʁʒɑ̃s",
+    "translation": {"zh": "兴起", "en": "emergence"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'émergence(émergence)", "lemma": "émergence", "ipa": "lemɛʁʒɑ̃s", "translation": {"zh": "兴起", "en": "emergence"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "on va au resto",
+    "ipa": "ɔ̃ va o ʁɛsto",
+    "translation": {"zh": "我们去餐厅", "en": "we're going to the restaurant"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "on va(aller)", "lemma": "aller", "ipa": "ɔ̃ va", "translation": {"zh": "我们去", "en": "we go"}, "emoji": ""},
+      {"text": "au resto(resto)", "lemma": "resto", "ipa": "o ʁɛsto", "translation": {"zh": "餐厅", "en": "restaurant"}, "emoji": "🍽️"}
+    ]
+  },
+  {
+    "text": "le pilote",
+    "ipa": "lə pilɔt",
+    "translation": {"zh": "飞行员", "en": "the pilot"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le pilote(pilote)", "lemma": "pilote", "ipa": "lə pilɔt", "translation": {"zh": "飞行员", "en": "pilot"}, "emoji": "✈️"}
+    ]
+  },
+  {
+    "text": "décliner une offre",
+    "ipa": "dekline yn ɔfʁ",
+    "translation": {"zh": "婉拒一个提议", "en": "to decline an offer"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "décliner(décliner)", "lemma": "décliner", "ipa": "dekline", "translation": {"zh": "婉拒", "en": "decline"}, "emoji": ""},
+      {"text": "une offre(offre)", "lemma": "offre", "ipa": "yn ɔfʁ", "translation": {"zh": "提议", "en": "offer"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "l'héritier",
+    "ipa": "leʁitje",
+    "translation": {"zh": "继承人", "en": "the heir"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'héritier(héritier)", "lemma": "héritier", "ipa": "leʁitje", "translation": {"zh": "继承人", "en": "heir"}, "emoji": "👑"}
+    ]
+  },
+  {
+    "text": "ils divorcent",
+    "ipa": "il divɔʁs",
+    "translation": {"zh": "他们离婚了", "en": "they are divorcing"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "ils divorcent(divorcer)", "lemma": "divorcer", "ipa": "il divɔʁs", "translation": {"zh": "他们离婚", "en": "they divorce"}, "emoji": "💔"}
+    ]
+  },
+  {
+    "text": "ça s'avère difficile",
+    "ipa": "sa savɛʁ difisil",
+    "translation": {"zh": "这被证实很困难", "en": "it turns out to be difficult"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ça s'avère(avérer)", "lemma": "avérer", "ipa": "sa savɛʁ", "translation": {"zh": "证实是", "en": "turns out"}, "emoji": ""},
+      {"text": "difficile", "lemma": "difficile", "ipa": "difisil", "translation": {"zh": "困难的", "en": "difficult"}, "emoji": "😓"}
+    ]
+  },
+  {
+    "text": "l'écologie",
+    "ipa": "lekɔlɔʒi",
+    "translation": {"zh": "生态学", "en": "ecology"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'écologie(écologie)", "lemma": "écologie", "ipa": "lekɔlɔʒi", "translation": {"zh": "生态学", "en": "ecology"}, "emoji": "🌱"}
+    ]
+  },
+  {
+    "text": "c'est malin",
+    "ipa": "sɛ malɛ̃",
+    "translation": {"zh": "真聪明", "en": "that's clever"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "c'est malin(être)", "lemma": "être", "ipa": "sɛ malɛ̃", "translation": {"zh": "真聪明", "en": "that's clever"}, "emoji": "😏"}
+    ]
+  },
+  {
+    "text": "un intellectuel",
+    "ipa": "œ̃ ɛ̃tɛlɛktɥɛl",
+    "translation": {"zh": "一个知识分子", "en": "an intellectual"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un intellectuel(intellectuel)", "lemma": "intellectuel", "ipa": "œ̃ ɛ̃tɛlɛktɥɛl", "translation": {"zh": "知识分子", "en": "intellectual"}, "emoji": "🎓"}
+    ]
+  },
+  {
+    "text": "la paroi",
+    "ipa": "la paʁwa",
+    "translation": {"zh": "墙壁", "en": "the wall"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la paroi(paroi)", "lemma": "paroi", "ipa": "la paʁwa", "translation": {"zh": "墙壁", "en": "wall"}, "emoji": "🧱"}
+    ]
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "input_text": "卡车",
+    "entries": [
+      {"text": "卡车", "pinyin": "kǎ chē", "en": "truck", "emoji": "🚛"}
+    ]
+  },
+  {
+    "input_text": "开发",
+    "entries": [
+      {"text": "开发", "pinyin": "kāi fā", "en": "develop; development", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "开放",
+    "entries": [
+      {"text": "开放", "pinyin": "kāi fàng", "en": "open; open up", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "开幕式",
+    "entries": [
+      {"text": "开幕式", "pinyin": "kāi mù shì", "en": "opening ceremony", "emoji": "🎉"}
+    ]
+  },
+  {
+    "input_text": "开水",
+    "entries": [
+      {"text": "开水", "pinyin": "kāi shuǐ", "en": "boiling water", "emoji": "♨️"}
+    ]
+  },
+  {
+    "input_text": "砍",
+    "entries": [
+      {"text": "砍", "pinyin": "kǎn", "en": "chop; hack", "emoji": "🪓"}
+    ]
+  },
+  {
+    "input_text": "看不起",
+    "entries": [
+      {"text": "看不起", "pinyin": "kàn bu qǐ", "en": "look down on", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "看望",
+    "entries": [
+      {"text": "看望", "pinyin": "kàn wàng", "en": "visit (someone)", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "靠",
+    "entries": [
+      {"text": "靠", "pinyin": "kào", "en": "lean on; rely on", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "可见",
+    "entries": [
+      {"text": "可见", "pinyin": "kě jiàn", "en": "evidently; it shows", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "可靠",
+    "entries": [
+      {"text": "可靠", "pinyin": "kě kào", "en": "reliable; dependable", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "可怕",
+    "entries": [
+      {"text": "可怕", "pinyin": "kě pà", "en": "scary; terrible", "emoji": "😨"}
+    ]
+  },
+  {
+    "input_text": "克",
+    "entries": [
+      {"text": "克", "pinyin": "kè", "en": "gram", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "克服",
+    "entries": [
+      {"text": "克服", "pinyin": "kè fú", "en": "overcome", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "刻苦",
+    "entries": [
+      {"text": "刻苦", "pinyin": "kè kǔ", "en": "hardworking; diligent", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "客观",
+    "entries": [
+      {"text": "客观", "pinyin": "kè guān", "en": "objective; impartial", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "课程",
+    "entries": [
+      {"text": "课程", "pinyin": "kè chéng", "en": "course; curriculum", "emoji": "📚"}
+    ]
+  },
+  {
+    "input_text": "空间",
+    "entries": [
+      {"text": "空间", "pinyin": "kōng jiān", "en": "space; room", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "空闲",
+    "entries": [
+      {"text": "空闲", "pinyin": "kòng xián", "en": "free time; leisure", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "控制",
+    "entries": [
+      {"text": "控制", "pinyin": "kòng zhì", "en": "control; restrain", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "口味",
+    "entries": [
+      {"text": "口味", "pinyin": "kǒu wèi", "en": "taste; flavor", "emoji": "👅"}
+    ]
+  },
+  {
+    "input_text": "夸",
+    "entries": [
+      {"text": "夸", "pinyin": "kuā", "en": "praise; boast", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "夸张",
+    "entries": [
+      {"text": "夸张", "pinyin": "kuā zhāng", "en": "exaggerate; exaggerated", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "会计",
+    "entries": [
+      {"text": "会计", "pinyin": "kuài jì", "en": "accountant; accounting", "emoji": "🧾"}
+    ]
+  },
+  {
+    "input_text": "宽",
+    "entries": [
+      {"text": "宽", "pinyin": "kuān", "en": "wide; broad", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "昆虫",
+    "entries": [
+      {"text": "昆虫", "pinyin": "kūn chóng", "en": "insect", "emoji": "🐛"}
+    ]
+  },
+  {
+    "input_text": "扩大",
+    "entries": [
+      {"text": "扩大", "pinyin": "kuò dà", "en": "expand; enlarge", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "辣椒",
+    "entries": [
+      {"text": "辣椒", "pinyin": "là jiāo", "en": "chili pepper", "emoji": "🌶️"}
+    ]
+  },
+  {
+    "input_text": "拦",
+    "entries": [
+      {"text": "拦", "pinyin": "lán", "en": "block; bar; stop", "emoji": ""}
+    ]
+  }
+]

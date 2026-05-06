@@ -1,0 +1,185 @@
+[
+  {
+    "input_word": "shut",
+    "entries": [
+      {"text": "shut", "ipa": "/ʃʌt/", "cefr": "A2", "zh": "关闭", "emoji": "🚪"}
+    ]
+  },
+  {
+    "input_word": "shy",
+    "entries": [
+      {"text": "shy", "ipa": "/ʃaɪ/", "cefr": "B1", "zh": "害羞的", "emoji": "😳"}
+    ]
+  },
+  {
+    "input_word": "sick",
+    "entries": [
+      {"text": "sick", "ipa": "/sɪk/", "cefr": "A1", "zh": "生病的", "emoji": "🤒"}
+    ]
+  },
+  {
+    "input_word": "side",
+    "entries": [
+      {"text": "side", "ipa": "/saɪd/", "cefr": "A2", "zh": "侧面", "emoji": "↔️"}
+    ]
+  },
+  {
+    "input_word": "sight",
+    "entries": [
+      {"text": "sight", "ipa": "/saɪt/", "cefr": "B1", "zh": "视力", "emoji": "👁️"},
+      {"text": "sight", "ipa": "/saɪt/", "cefr": "B1", "zh": "景象", "emoji": "🏞️"}
+    ]
+  },
+  {
+    "input_word": "sign",
+    "entries": [
+      {"text": "sign", "ipa": "/saɪn/", "cefr": "A2", "zh": "标志", "emoji": "🪧"},
+      {"text": "sign", "ipa": "/saɪn/", "cefr": "A2", "zh": "签名", "emoji": "✍️"}
+    ]
+  },
+  {
+    "input_word": "signal",
+    "entries": [
+      {"text": "signal", "ipa": "/ˈsɪɡnəl/", "cefr": "B1", "zh": "信号", "emoji": "📶"}
+    ]
+  },
+  {
+    "input_word": "significant",
+    "entries": [
+      {"text": "significant", "ipa": "/sɪɡˈnɪfɪkənt/", "cefr": "B2", "zh": "重要的", "emoji": "⭐"}
+    ]
+  },
+  {
+    "input_word": "significantly",
+    "entries": [
+      {"text": "significantly", "ipa": "/sɪɡˈnɪfɪkəntli/", "cefr": "B2", "zh": "显著地", "emoji": "📈"}
+    ]
+  },
+  {
+    "input_word": "silence",
+    "entries": [
+      {"text": "silence", "ipa": "/ˈsaɪləns/", "cefr": "B2", "zh": "沉默", "emoji": "🤫"}
+    ]
+  },
+  {
+    "input_word": "silent",
+    "entries": [
+      {"text": "silent", "ipa": "/ˈsaɪlənt/", "cefr": "B1", "zh": "安静的", "emoji": "🤫"}
+    ]
+  },
+  {
+    "input_word": "silk",
+    "entries": [
+      {"text": "silk", "ipa": "/sɪlk/", "cefr": "B2", "zh": "丝绸", "emoji": "🧣"}
+    ]
+  },
+  {
+    "input_word": "silly",
+    "entries": [
+      {"text": "silly", "ipa": "/ˈsɪli/", "cefr": "B1", "zh": "愚蠢的", "emoji": "🤪"}
+    ]
+  },
+  {
+    "input_word": "silver",
+    "entries": [
+      {"text": "silver", "ipa": "/ˈsɪlvər/", "cefr": "A2", "zh": "银", "emoji": "🥈"}
+    ]
+  },
+  {
+    "input_word": "similar",
+    "entries": [
+      {"text": "similar", "ipa": "/ˈsɪmɪlər/", "cefr": "A1", "zh": "相似的", "emoji": "🔁"}
+    ]
+  },
+  {
+    "input_word": "similarity",
+    "entries": [
+      {"text": "similarity", "ipa": "/ˌsɪmɪˈlærɪti/", "cefr": "B1", "zh": "相似性", "emoji": "🔁"}
+    ]
+  },
+  {
+    "input_word": "similarly",
+    "entries": [
+      {"text": "similarly", "ipa": "/ˈsɪmɪlərli/", "cefr": "B1", "zh": "同样地", "emoji": "🔁"}
+    ]
+  },
+  {
+    "input_word": "simple",
+    "entries": [
+      {"text": "simple", "ipa": "/ˈsɪmpəl/", "cefr": "A2", "zh": "简单的", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_word": "simply",
+    "entries": [
+      {"text": "simply", "ipa": "/ˈsɪmpli/", "cefr": "B1", "zh": "仅仅", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "since",
+    "entries": []
+  },
+  {
+    "input_word": "sincere",
+    "entries": [
+      {"text": "sincere", "ipa": "/sɪnˈsɪr/", "cefr": "B2", "zh": "真诚的", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "sing",
+    "entries": [
+      {"text": "sing", "ipa": "/sɪŋ/", "cefr": "A1", "zh": "唱歌", "emoji": "🎤"}
+    ]
+  },
+  {
+    "input_word": "singer",
+    "entries": [
+      {"text": "singer", "ipa": "/ˈsɪŋər/", "cefr": "A1", "zh": "歌手", "emoji": "🎤"}
+    ]
+  },
+  {
+    "input_word": "singing",
+    "entries": [
+      {"text": "singing", "ipa": "/ˈsɪŋɪŋ/", "cefr": "A2", "zh": "唱歌", "emoji": "🎶"}
+    ]
+  },
+  {
+    "input_word": "single",
+    "entries": [
+      {"text": "single", "ipa": "/ˈsɪŋɡəl/", "cefr": "A2", "zh": "单一的", "emoji": "1️⃣"},
+      {"text": "single", "ipa": "/ˈsɪŋɡəl/", "cefr": "A2", "zh": "单身的", "emoji": "🧍"}
+    ]
+  },
+  {
+    "input_word": "sink",
+    "entries": [
+      {"text": "sink", "ipa": "/sɪŋk/", "cefr": "B1", "zh": "下沉", "emoji": "⬇️"},
+      {"text": "sink", "ipa": "/sɪŋk/", "cefr": "B1", "zh": "水槽", "emoji": "🚿"}
+    ]
+  },
+  {
+    "input_word": "sir",
+    "entries": [
+      {"text": "sir", "ipa": "/sɜːr/", "cefr": "A2", "zh": "先生", "emoji": "🎩"}
+    ]
+  },
+  {
+    "input_word": "sister",
+    "entries": [
+      {"text": "sister", "ipa": "/ˈsɪstər/", "cefr": "A1", "zh": "姐妹", "emoji": "👧"}
+    ]
+  },
+  {
+    "input_word": "sit",
+    "entries": [
+      {"text": "sit", "ipa": "/sɪt/", "cefr": "A1", "zh": "坐", "emoji": "🪑"}
+    ]
+  },
+  {
+    "input_word": "site",
+    "entries": [
+      {"text": "site", "ipa": "/saɪt/", "cefr": "A2", "zh": "地点", "emoji": "📍"},
+      {"text": "site", "ipa": "/saɪt/", "cefr": "A2", "zh": "网站", "emoji": "🌐"}
+    ]
+  }
+]

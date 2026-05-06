@@ -1,0 +1,272 @@
+[
+  {
+    "text": "typique",
+    "ipa": "tipik",
+    "translation": {"zh": "典型的", "en": "typical"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "typique", "lemma": "typique", "ipa": "tipik", "translation": {"zh": "典型的", "en": "typical"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "C'est fatigant.",
+    "ipa": "sɛ fatiɡɑ̃",
+    "translation": {"zh": "这很累人。", "en": "It's tiring."},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "C'est fatigant", "lemma": "fatigant", "ipa": "sɛ fatiɡɑ̃", "translation": {"zh": "这很累人", "en": "it's tiring"}, "emoji": "😓"}
+    ]
+  },
+  {
+    "text": "compositeur",
+    "ipa": "kɔ̃pozitœʁ",
+    "translation": {"zh": "作曲家", "en": "composer"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "compositeur", "lemma": "compositeur", "ipa": "kɔ̃pozitœʁ", "translation": {"zh": "作曲家", "en": "composer"}, "emoji": "🎼"}
+    ]
+  },
+  {
+    "text": "amical",
+    "ipa": "amikal",
+    "translation": {"zh": "友好的", "en": "friendly"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "amical", "lemma": "amical", "ipa": "amikal", "translation": {"zh": "友好的", "en": "friendly"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le pape",
+    "ipa": "lə pap",
+    "translation": {"zh": "教皇", "en": "the pope"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le pape", "lemma": "pape", "ipa": "lə pap", "translation": {"zh": "教皇", "en": "the pope"}, "emoji": "⛪"}
+    ]
+  },
+  {
+    "text": "le bricolage",
+    "ipa": "lə bʁikɔlaʒ",
+    "translation": {"zh": "手工修缮", "en": "DIY"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le bricolage", "lemma": "bricolage", "ipa": "lə bʁikɔlaʒ", "translation": {"zh": "手工修缮", "en": "DIY"}, "emoji": "🔧"}
+    ]
+  },
+  {
+    "text": "le conservatoire",
+    "ipa": "lə kɔ̃sɛʁvatwaʁ",
+    "translation": {"zh": "音乐学院", "en": "conservatory"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le conservatoire", "lemma": "conservatoire", "ipa": "lə kɔ̃sɛʁvatwaʁ", "translation": {"zh": "音乐学院", "en": "conservatory"}, "emoji": "🎵"}
+    ]
+  },
+  {
+    "text": "la fosse",
+    "ipa": "la fɔs",
+    "translation": {"zh": "坑；壕沟", "en": "pit"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la fosse", "lemma": "fosse", "ipa": "la fɔs", "translation": {"zh": "坑；壕沟", "en": "pit"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "étrangler",
+    "ipa": "etʁɑ̃ɡle",
+    "translation": {"zh": "掐死；扼住", "en": "to strangle"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "étrangler", "lemma": "étrangler", "ipa": "etʁɑ̃ɡle", "translation": {"zh": "掐死；扼住", "en": "to strangle"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "pareil",
+    "ipa": "paʁɛj",
+    "translation": {"zh": "相同的；一样", "en": "the same"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "pareil", "lemma": "pareil", "ipa": "paʁɛj", "translation": {"zh": "相同的", "en": "the same"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "concurrent",
+    "ipa": "kɔ̃kyʁɑ̃",
+    "translation": {"zh": "竞争者", "en": "competitor"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "concurrent", "lemma": "concurrent", "ipa": "kɔ̃kyʁɑ̃", "translation": {"zh": "竞争者", "en": "competitor"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un compromis",
+    "ipa": "œ̃ kɔ̃pʁɔmi",
+    "translation": {"zh": "一个妥协", "en": "a compromise"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un compromis", "lemma": "compromis", "ipa": "œ̃ kɔ̃pʁɔmi", "translation": {"zh": "一个妥协", "en": "a compromise"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "le réveillon",
+    "ipa": "lə ʁevɛjɔ̃",
+    "translation": {"zh": "除夕夜宴", "en": "Christmas Eve dinner"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le réveillon", "lemma": "réveillon", "ipa": "lə ʁevɛjɔ̃", "translation": {"zh": "除夕夜宴", "en": "Christmas Eve dinner"}, "emoji": "🎄"}
+    ]
+  },
+  {
+    "text": "la distinction",
+    "ipa": "la distɛ̃ksjɔ̃",
+    "translation": {"zh": "区别；高雅", "en": "distinction"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la distinction", "lemma": "distinction", "ipa": "la distɛ̃ksjɔ̃", "translation": {"zh": "区别；高雅", "en": "distinction"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un ogre",
+    "ipa": "œ̃n ɔɡʁ",
+    "translation": {"zh": "食人魔", "en": "an ogre"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un ogre", "lemma": "ogre", "ipa": "œ̃n ɔɡʁ", "translation": {"zh": "食人魔", "en": "an ogre"}, "emoji": "👹"}
+    ]
+  },
+  {
+    "text": "une projection",
+    "ipa": "yn pʁɔʒɛksjɔ̃",
+    "translation": {"zh": "一场放映", "en": "a screening"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une projection", "lemma": "projection", "ipa": "yn pʁɔʒɛksjɔ̃", "translation": {"zh": "一场放映", "en": "a screening"}, "emoji": "🎬"}
+    ]
+  },
+  {
+    "text": "Il déménage.",
+    "ipa": "il demenaʒ",
+    "translation": {"zh": "他搬家了。", "en": "He's moving."},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "Il déménage", "lemma": "déménager", "ipa": "il demenaʒ", "translation": {"zh": "他搬家", "en": "he's moving"}, "emoji": "📦"}
+    ]
+  },
+  {
+    "text": "la scolarité",
+    "ipa": "la skɔlaʁite",
+    "translation": {"zh": "学业；学费", "en": "schooling"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la scolarité", "lemma": "scolarité", "ipa": "la skɔlaʁite", "translation": {"zh": "学业；学费", "en": "schooling"}, "emoji": "🎓"}
+    ]
+  },
+  {
+    "text": "une idéologie",
+    "ipa": "yn ideɔlɔʒi",
+    "translation": {"zh": "一种意识形态", "en": "an ideology"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une idéologie", "lemma": "idéologie", "ipa": "yn ideɔlɔʒi", "translation": {"zh": "一种意识形态", "en": "an ideology"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "mortel",
+    "ipa": "mɔʁtɛl",
+    "translation": {"zh": "致命的；凡人的", "en": "mortal"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "mortel", "lemma": "mortel", "ipa": "mɔʁtɛl", "translation": {"zh": "致命的", "en": "mortal"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "télévisuel",
+    "ipa": "televizɥɛl",
+    "translation": {"zh": "电视的", "en": "television"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "télévisuel", "lemma": "télévisuel", "ipa": "televizɥɛl", "translation": {"zh": "电视的", "en": "television"}, "emoji": "📺"}
+    ]
+  },
+  {
+    "text": "aisé",
+    "ipa": "eze",
+    "translation": {"zh": "富裕的；轻松的", "en": "well-off"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "aisé", "lemma": "aisé", "ipa": "eze", "translation": {"zh": "富裕的", "en": "well-off"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une particule",
+    "ipa": "yn paʁtikyl",
+    "translation": {"zh": "一个粒子", "en": "a particle"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une particule", "lemma": "particule", "ipa": "yn paʁtikyl", "translation": {"zh": "一个粒子", "en": "a particle"}, "emoji": "⚛️"}
+    ]
+  },
+  {
+    "text": "performant",
+    "ipa": "pɛʁfɔʁmɑ̃",
+    "translation": {"zh": "高效的；性能强", "en": "high-performing"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "performant", "lemma": "performant", "ipa": "pɛʁfɔʁmɑ̃", "translation": {"zh": "高效的", "en": "high-performing"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le divertissement",
+    "ipa": "lə divɛʁtismɑ̃",
+    "translation": {"zh": "娱乐；消遣", "en": "entertainment"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le divertissement", "lemma": "divertissement", "ipa": "lə divɛʁtismɑ̃", "translation": {"zh": "娱乐；消遣", "en": "entertainment"}, "emoji": "🎭"}
+    ]
+  },
+  {
+    "text": "une option",
+    "ipa": "yn ɔpsjɔ̃",
+    "translation": {"zh": "一个选项", "en": "an option"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une option", "lemma": "option", "ipa": "yn ɔpsjɔ̃", "translation": {"zh": "一个选项", "en": "an option"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la complexité",
+    "ipa": "la kɔ̃plɛksite",
+    "translation": {"zh": "复杂性", "en": "complexity"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la complexité", "lemma": "complexité", "ipa": "la kɔ̃plɛksite", "translation": {"zh": "复杂性", "en": "complexity"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un blouson",
+    "ipa": "œ̃ bluzɔ̃",
+    "translation": {"zh": "一件夹克", "en": "a jacket"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un blouson", "lemma": "blouson", "ipa": "œ̃ bluzɔ̃", "translation": {"zh": "一件夹克", "en": "a jacket"}, "emoji": "🧥"}
+    ]
+  },
+  {
+    "text": "ambassadeur",
+    "ipa": "ɑ̃basadœʁ",
+    "translation": {"zh": "大使", "en": "ambassador"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ambassadeur", "lemma": "ambassadeur", "ipa": "ɑ̃basadœʁ", "translation": {"zh": "大使", "en": "ambassador"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "la gentillesse",
+    "ipa": "la ʒɑ̃tijɛs",
+    "translation": {"zh": "善意；友善", "en": "kindness"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la gentillesse", "lemma": "gentillesse", "ipa": "la ʒɑ̃tijɛs", "translation": {"zh": "善意；友善", "en": "kindness"}, "emoji": "💛"}
+    ]
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "input_word": "financial",
+    "entries": [
+      {"text": "financial", "ipa": "/faɪˈnænʃəl/", "cefr": "B1", "zh": "财务的", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_word": "find",
+    "entries": [
+      {"text": "find", "ipa": "/faɪnd/", "cefr": "A1", "zh": "找到", "emoji": "🔍"}
+    ]
+  },
+  {
+    "input_word": "finding",
+    "entries": [
+      {"text": "finding", "ipa": "/ˈfaɪndɪŋ/", "cefr": "B2", "zh": "发现", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_word": "fine",
+    "entries": [
+      {"text": "fine", "ipa": "/faɪn/", "cefr": "A1", "zh": "好的", "emoji": "👌"},
+      {"text": "fine", "ipa": "/faɪn/", "cefr": "A1", "zh": "罚款", "emoji": "💸"}
+    ]
+  },
+  {
+    "input_word": "finger",
+    "entries": [
+      {"text": "finger", "ipa": "/ˈfɪŋɡər/", "cefr": "A2", "zh": "手指", "emoji": "☝️"}
+    ]
+  },
+  {
+    "input_word": "finish",
+    "entries": [
+      {"text": "finish", "ipa": "/ˈfɪnɪʃ/", "cefr": "A1", "zh": "完成", "emoji": "🏁"}
+    ]
+  },
+  {
+    "input_word": "fire",
+    "entries": [
+      {"text": "fire", "ipa": "/ˈfaɪər/", "cefr": "A1", "zh": "火", "emoji": "🔥"},
+      {"text": "fire", "ipa": "/ˈfaɪər/", "cefr": "A1", "zh": "解雇", "emoji": "🚪"}
+    ]
+  },
+  {
+    "input_word": "firm",
+    "entries": [
+      {"text": "firm", "ipa": "/fɜːrm/", "cefr": "B2", "zh": "公司", "emoji": "🏢"},
+      {"text": "firm", "ipa": "/fɜːrm/", "cefr": "B2", "zh": "坚定的", "emoji": "💪"}
+    ]
+  },
+  {
+    "input_word": "first",
+    "entries": [
+      {"text": "first", "ipa": "/fɜːrst/", "cefr": "A1", "zh": "第一", "emoji": "🥇"}
+    ]
+  },
+  {
+    "input_word": "firstly",
+    "entries": [
+      {"text": "firstly", "ipa": "/ˈfɜːrstli/", "cefr": "A2", "zh": "首先", "emoji": "1️⃣"}
+    ]
+  },
+  {
+    "input_word": "fish",
+    "entries": [
+      {"text": "fish", "ipa": "/fɪʃ/", "cefr": "A1", "zh": "鱼", "emoji": "🐟"}
+    ]
+  },
+  {
+    "input_word": "fishing",
+    "entries": [
+      {"text": "fishing", "ipa": "/ˈfɪʃɪŋ/", "cefr": "A2", "zh": "钓鱼", "emoji": "🎣"}
+    ]
+  },
+  {
+    "input_word": "fit",
+    "entries": [
+      {"text": "fit", "ipa": "/fɪt/", "cefr": "A2", "zh": "合身", "emoji": "👗"},
+      {"text": "fit", "ipa": "/fɪt/", "cefr": "A2", "zh": "健康的", "emoji": "💪"}
+    ]
+  },
+  {
+    "input_word": "fitness",
+    "entries": [
+      {"text": "fitness", "ipa": "/ˈfɪtnəs/", "cefr": "B1", "zh": "健身", "emoji": "🏋️"}
+    ]
+  },
+  {
+    "input_word": "five",
+    "entries": [
+      {"text": "five", "ipa": "/faɪv/", "cefr": "A1", "zh": "五", "emoji": "5️⃣"}
+    ]
+  },
+  {
+    "input_word": "fix",
+    "entries": [
+      {"text": "fix", "ipa": "/fɪks/", "cefr": "A2", "zh": "修理", "emoji": "🔧"}
+    ]
+  },
+  {
+    "input_word": "fixed",
+    "entries": [
+      {"text": "fixed", "ipa": "/fɪkst/", "cefr": "B1", "zh": "固定的", "emoji": "📌"}
+    ]
+  },
+  {
+    "input_word": "flag",
+    "entries": [
+      {"text": "flag", "ipa": "/flæɡ/", "cefr": "B1", "zh": "旗帜", "emoji": "🚩"}
+    ]
+  },
+  {
+    "input_word": "flame",
+    "entries": [
+      {"text": "flame", "ipa": "/fleɪm/", "cefr": "B2", "zh": "火焰", "emoji": "🔥"}
+    ]
+  },
+  {
+    "input_word": "flash",
+    "entries": [
+      {"text": "flash", "ipa": "/flæʃ/", "cefr": "B2", "zh": "闪光", "emoji": "⚡"}
+    ]
+  },
+  {
+    "input_word": "flat",
+    "entries": [
+      {"text": "flat", "ipa": "/flæt/", "cefr": "A1", "zh": "平的", "emoji": "➖"},
+      {"text": "flat", "ipa": "/flæt/", "cefr": "A1", "zh": "公寓", "emoji": "🏠"}
+    ]
+  },
+  {
+    "input_word": "flexible",
+    "entries": [
+      {"text": "flexible", "ipa": "/ˈflɛksɪbəl/", "cefr": "B2", "zh": "灵活的", "emoji": "🤸"}
+    ]
+  },
+  {
+    "input_word": "flight",
+    "entries": [
+      {"text": "flight", "ipa": "/flaɪt/", "cefr": "A1", "zh": "航班", "emoji": "✈️"}
+    ]
+  },
+  {
+    "input_word": "float",
+    "entries": [
+      {"text": "float", "ipa": "/floʊt/", "cefr": "B2", "zh": "漂浮", "emoji": "🛟"}
+    ]
+  },
+  {
+    "input_word": "flood",
+    "entries": [
+      {"text": "flood", "ipa": "/flʌd/", "cefr": "B1", "zh": "洪水", "emoji": "🌊"}
+    ]
+  },
+  {
+    "input_word": "floor",
+    "entries": [
+      {"text": "floor", "ipa": "/flɔːr/", "cefr": "A1", "zh": "地板", "emoji": "🪵"},
+      {"text": "floor", "ipa": "/flɔːr/", "cefr": "A1", "zh": "楼层", "emoji": "🏢"}
+    ]
+  },
+  {
+    "input_word": "flour",
+    "entries": [
+      {"text": "flour", "ipa": "/ˈflaʊər/", "cefr": "B1", "zh": "面粉", "emoji": "🌾"}
+    ]
+  },
+  {
+    "input_word": "flow",
+    "entries": [
+      {"text": "flow", "ipa": "/floʊ/", "cefr": "B1", "zh": "流动", "emoji": "💧"}
+    ]
+  },
+  {
+    "input_word": "flower",
+    "entries": [
+      {"text": "flower", "ipa": "/ˈflaʊər/", "cefr": "A1", "zh": "花", "emoji": "🌸"}
+    ]
+  },
+  {
+    "input_word": "flu",
+    "entries": [
+      {"text": "flu", "ipa": "/fluː/", "cefr": "A2", "zh": "流感", "emoji": "🤒"}
+    ]
+  }
+]

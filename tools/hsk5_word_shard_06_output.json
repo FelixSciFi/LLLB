@@ -1,0 +1,183 @@
+[
+  {
+    "input_text": "大象",
+    "entries": [
+      {"text": "大象", "pinyin": "dà xiàng", "en": "elephant", "emoji": "🐘"}
+    ]
+  },
+  {
+    "input_text": "大型",
+    "entries": [
+      {"text": "大型", "pinyin": "dà xíng", "en": "large-scale", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "呆",
+    "entries": [
+      {"text": "呆", "pinyin": "dāi", "en": "dull; blank; stay", "emoji": "😶"}
+    ]
+  },
+  {
+    "input_text": "代表",
+    "entries": [
+      {"text": "代表", "pinyin": "dài biǎo", "en": "representative", "emoji": "🤝"},
+      {"text": "代表", "pinyin": "dài biǎo", "en": "represent", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "代替",
+    "entries": [
+      {"text": "代替", "pinyin": "dài tì", "en": "replace; substitute", "emoji": "🔄"}
+    ]
+  },
+  {
+    "input_text": "贷款",
+    "entries": [
+      {"text": "贷款", "pinyin": "dài kuǎn", "en": "loan", "emoji": "🏦"}
+    ]
+  },
+  {
+    "input_text": "待遇",
+    "entries": [
+      {"text": "待遇", "pinyin": "dài yù", "en": "treatment; pay", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "担任",
+    "entries": [
+      {"text": "担任", "pinyin": "dān rèn", "en": "hold a position", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "单纯",
+    "entries": [
+      {"text": "单纯", "pinyin": "dān chún", "en": "simple; naive", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "单调",
+    "entries": [
+      {"text": "单调", "pinyin": "dān diào", "en": "monotonous", "emoji": "😐"}
+    ]
+  },
+  {
+    "input_text": "单独",
+    "entries": [
+      {"text": "单独", "pinyin": "dān dú", "en": "alone; by oneself", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "单位",
+    "entries": [
+      {"text": "单位", "pinyin": "dān wèi", "en": "unit; work unit", "emoji": "🏢"}
+    ]
+  },
+  {
+    "input_text": "单元",
+    "entries": [
+      {"text": "单元", "pinyin": "dān yuán", "en": "unit; module", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "耽误",
+    "entries": [
+      {"text": "耽误", "pinyin": "dān wu", "en": "delay; hold up", "emoji": "⏰"}
+    ]
+  },
+  {
+    "input_text": "胆小鬼",
+    "entries": [
+      {"text": "胆小鬼", "pinyin": "dǎn xiǎo guǐ", "en": "coward", "emoji": "😨"}
+    ]
+  },
+  {
+    "input_text": "淡",
+    "entries": [
+      {"text": "淡", "pinyin": "dàn", "en": "bland; faint; light", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "当地",
+    "entries": [
+      {"text": "当地", "pinyin": "dāng dì", "en": "local; on the spot", "emoji": "📍"}
+    ]
+  },
+  {
+    "input_text": "当心",
+    "entries": [
+      {"text": "当心", "pinyin": "dāng xīn", "en": "watch out; be careful", "emoji": "⚠️"}
+    ]
+  },
+  {
+    "input_text": "挡",
+    "entries": [
+      {"text": "挡", "pinyin": "dǎng", "en": "block; obstruct", "emoji": "🚧"}
+    ]
+  },
+  {
+    "input_text": "导演",
+    "entries": [
+      {"text": "导演", "pinyin": "dǎo yǎn", "en": "director (film)", "emoji": "🎬"}
+    ]
+  },
+  {
+    "input_text": "导致",
+    "entries": [
+      {"text": "导致", "pinyin": "dǎo zhì", "en": "lead to; cause", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "岛屿",
+    "entries": [
+      {"text": "岛屿", "pinyin": "dǎo yǔ", "en": "islands", "emoji": "🏝️"}
+    ]
+  },
+  {
+    "input_text": "倒霉",
+    "entries": [
+      {"text": "倒霉", "pinyin": "dǎo méi", "en": "unlucky; bad luck", "emoji": "😖"}
+    ]
+  },
+  {
+    "input_text": "到达",
+    "entries": [
+      {"text": "到达", "pinyin": "dào dá", "en": "arrive; reach", "emoji": "🏁"}
+    ]
+  },
+  {
+    "input_text": "道德",
+    "entries": [
+      {"text": "道德", "pinyin": "dào dé", "en": "morality; ethics", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "道理",
+    "entries": [
+      {"text": "道理", "pinyin": "dào lǐ", "en": "reason; sense", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "登记",
+    "entries": [
+      {"text": "登记", "pinyin": "dēng jì", "en": "register; check in", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_text": "等待",
+    "entries": [
+      {"text": "等待", "pinyin": "děng dài", "en": "wait; await", "emoji": "⏳"}
+    ]
+  },
+  {
+    "input_text": "等于",
+    "entries": [
+      {"text": "等于", "pinyin": "děng yú", "en": "equal; amount to", "emoji": "🟰"}
+    ]
+  },
+  {
+    "input_text": "滴",
+    "entries": [
+      {"text": "滴", "pinyin": "dī", "en": "drop (of liquid)", "emoji": "💧"}
+    ]
+  }
+]

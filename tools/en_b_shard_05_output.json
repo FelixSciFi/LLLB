@@ -1,0 +1,30 @@
+[
+  {
+    "input_word": "buy",
+    "entries": [
+      {
+        "text": "buy",
+        "ipa": "/baɪ/",
+        "cefr": "A1",
+        "zh": "购买",
+        "emoji": "🛒"
+      }
+    ]
+  },
+  {
+    "input_word": "by",
+    "entries": []
+  },
+  {
+    "input_word": "bye",
+    "entries": [
+      {
+        "text": "bye",
+        "ipa": "/baɪ/",
+        "cefr": "A1",
+        "zh": "再见",
+        "emoji": "👋"
+      }
+    ]
+  }
+]

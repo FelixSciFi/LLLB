@@ -1,0 +1,186 @@
+[
+  {
+    "input_word": "error",
+    "entries": [
+      {"text": "error", "ipa": "/ˈɛrər/", "cefr": "A2", "zh": "错误", "emoji": "❌"}
+    ]
+  },
+  {
+    "input_word": "escape",
+    "entries": [
+      {"text": "escape", "ipa": "/ɪˈskeɪp/", "cefr": "B1", "zh": "逃跑", "emoji": "🏃"},
+      {"text": "escape", "ipa": "/ɪˈskeɪp/", "cefr": "B1", "zh": "逃离", "emoji": "🚪"}
+    ]
+  },
+  {
+    "input_word": "especially",
+    "entries": [
+      {"text": "especially", "ipa": "/ɪˈspɛʃəli/", "cefr": "A2", "zh": "尤其", "emoji": "⭐"}
+    ]
+  },
+  {
+    "input_word": "essay",
+    "entries": [
+      {"text": "essay", "ipa": "/ˈɛseɪ/", "cefr": "A2", "zh": "文章", "emoji": "📝"}
+    ]
+  },
+  {
+    "input_word": "essential",
+    "entries": [
+      {"text": "essential", "ipa": "/ɪˈsɛnʃəl/", "cefr": "B1", "zh": "必要的", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_word": "establish",
+    "entries": [
+      {"text": "establish", "ipa": "/ɪˈstæblɪʃ/", "cefr": "B2", "zh": "建立", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_word": "estate",
+    "entries": [
+      {"text": "estate", "ipa": "/ɪˈsteɪt/", "cefr": "B2", "zh": "地产", "emoji": "🏡"},
+      {"text": "estate", "ipa": "/ɪˈsteɪt/", "cefr": "B2", "zh": "遗产", "emoji": "📜"}
+    ]
+  },
+  {
+    "input_word": "estimate",
+    "entries": [
+      {"text": "estimate", "ipa": "/ˈɛstɪmɪt/", "cefr": "B2", "zh": "估计", "emoji": "🔢"}
+    ]
+  },
+  {
+    "input_word": "ethical",
+    "entries": [
+      {"text": "ethical", "ipa": "/ˈɛθɪkəl/", "cefr": "B2", "zh": "道德的", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "euro",
+    "entries": [
+      {"text": "euro", "ipa": "/ˈjʊroʊ/", "cefr": "A1", "zh": "欧元", "emoji": "💶"}
+    ]
+  },
+  {
+    "input_word": "evaluate",
+    "entries": [
+      {"text": "evaluate", "ipa": "/ɪˈvæljueɪt/", "cefr": "B2", "zh": "评估", "emoji": "📊"}
+    ]
+  },
+  {
+    "input_word": "even",
+    "entries": [
+      {"text": "even", "ipa": "/ˈiːvən/", "cefr": "A1", "zh": "甚至", "emoji": ""},
+      {"text": "even", "ipa": "/ˈiːvən/", "cefr": "A1", "zh": "平坦的", "emoji": "📏"}
+    ]
+  },
+  {
+    "input_word": "evening",
+    "entries": [
+      {"text": "evening", "ipa": "/ˈiːvnɪŋ/", "cefr": "A1", "zh": "傍晚", "emoji": "🌆"}
+    ]
+  },
+  {
+    "input_word": "event",
+    "entries": [
+      {"text": "event", "ipa": "/ɪˈvɛnt/", "cefr": "A1", "zh": "事件", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_word": "eventually",
+    "entries": [
+      {"text": "eventually", "ipa": "/ɪˈvɛntʃuəli/", "cefr": "B1", "zh": "最终", "emoji": "⏳"}
+    ]
+  },
+  {
+    "input_word": "ever",
+    "entries": [
+      {"text": "ever", "ipa": "/ˈɛvər/", "cefr": "A1", "zh": "曾经", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "every",
+    "entries": [
+      {"text": "every", "ipa": "/ˈɛvri/", "cefr": "A1", "zh": "每一个", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "everybody",
+    "entries": [
+      {"text": "everybody", "ipa": "/ˈɛvribɑːdi/", "cefr": "A1", "zh": "所有人", "emoji": "👥"}
+    ]
+  },
+  {
+    "input_word": "everyday",
+    "entries": [
+      {"text": "everyday", "ipa": "/ˈɛvriˌdeɪ/", "cefr": "A2", "zh": "日常的", "emoji": "📆"}
+    ]
+  },
+  {
+    "input_word": "everyone",
+    "entries": [
+      {"text": "everyone", "ipa": "/ˈɛvriˌwʌn/", "cefr": "A1", "zh": "每个人", "emoji": "👥"}
+    ]
+  },
+  {
+    "input_word": "everything",
+    "entries": [
+      {"text": "everything", "ipa": "/ˈɛvriˌθɪŋ/", "cefr": "A1", "zh": "一切", "emoji": "🌐"}
+    ]
+  },
+  {
+    "input_word": "everywhere",
+    "entries": [
+      {"text": "everywhere", "ipa": "/ˈɛvriˌwɛr/", "cefr": "A2", "zh": "到处", "emoji": "🗺️"}
+    ]
+  },
+  {
+    "input_word": "evidence",
+    "entries": [
+      {"text": "evidence", "ipa": "/ˈɛvɪdəns/", "cefr": "A2", "zh": "证据", "emoji": "🔍"}
+    ]
+  },
+  {
+    "input_word": "evil",
+    "entries": [
+      {"text": "evil", "ipa": "/ˈiːvəl/", "cefr": "B2", "zh": "邪恶", "emoji": "😈"}
+    ]
+  },
+  {
+    "input_word": "exact",
+    "entries": [
+      {"text": "exact", "ipa": "/ɪɡˈzækt/", "cefr": "A2", "zh": "精确的", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_word": "exactly",
+    "entries": [
+      {"text": "exactly", "ipa": "/ɪɡˈzæktli/", "cefr": "A2", "zh": "恰好", "emoji": "✔️"}
+    ]
+  },
+  {
+    "input_word": "exam",
+    "entries": [
+      {"text": "exam", "ipa": "/ɪɡˈzæm/", "cefr": "A1", "zh": "考试", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_word": "examination",
+    "entries": [
+      {"text": "examination", "ipa": "/ɪɡˌzæmɪˈneɪʃən/", "cefr": "B2", "zh": "检查", "emoji": "🔬"},
+      {"text": "examination", "ipa": "/ɪɡˌzæmɪˈneɪʃən/", "cefr": "B2", "zh": "考试", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_word": "examine",
+    "entries": [
+      {"text": "examine", "ipa": "/ɪɡˈzæmɪn/", "cefr": "B1", "zh": "检查", "emoji": "🔎"}
+    ]
+  },
+  {
+    "input_word": "example",
+    "entries": [
+      {"text": "example", "ipa": "/ɪɡˈzæmpəl/", "cefr": "A1", "zh": "例子", "emoji": "💡"}
+    ]
+  }
+]

@@ -1,0 +1,325 @@
+[
+  {
+    "input_text": "差",
+    "entries": [
+      {
+        "text": "差",
+        "pinyin": "chà",
+        "en": "poor, bad",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "超市",
+    "entries": [
+      {
+        "text": "超市",
+        "pinyin": "chāo shì",
+        "en": "supermarket",
+        "emoji": "🛒"
+      }
+    ]
+  },
+  {
+    "input_text": "衬衫",
+    "entries": [
+      {
+        "text": "衬衫",
+        "pinyin": "chèn shān",
+        "en": "shirt",
+        "emoji": "👔"
+      }
+    ]
+  },
+  {
+    "input_text": "成绩",
+    "entries": [
+      {
+        "text": "成绩",
+        "pinyin": "chéng jì",
+        "en": "grade, score",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "城市",
+    "entries": [
+      {
+        "text": "城市",
+        "pinyin": "chéng shì",
+        "en": "city",
+        "emoji": "🏙️"
+      }
+    ]
+  },
+  {
+    "input_text": "迟到",
+    "entries": [
+      {
+        "text": "迟到",
+        "pinyin": "chí dào",
+        "en": "arrive late",
+        "emoji": "⏰"
+      }
+    ]
+  },
+  {
+    "input_text": "除了",
+    "entries": [
+      {
+        "text": "除了",
+        "pinyin": "chú le",
+        "en": "except, besides",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "船",
+    "entries": [
+      {
+        "text": "船",
+        "pinyin": "chuán",
+        "en": "boat, ship",
+        "emoji": "⛵"
+      }
+    ]
+  },
+  {
+    "input_text": "春",
+    "entries": [
+      {
+        "text": "春",
+        "pinyin": "chūn",
+        "en": "spring",
+        "emoji": "🌸"
+      }
+    ]
+  },
+  {
+    "input_text": "词典",
+    "entries": [
+      {
+        "text": "词典",
+        "pinyin": "cí diǎn",
+        "en": "dictionary",
+        "emoji": "📖"
+      }
+    ]
+  },
+  {
+    "input_text": "聪明",
+    "entries": [
+      {
+        "text": "聪明",
+        "pinyin": "cōng míng",
+        "en": "clever, smart",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "打扫",
+    "entries": [
+      {
+        "text": "打扫",
+        "pinyin": "dǎ sǎo",
+        "en": "clean, sweep",
+        "emoji": "🧹"
+      }
+    ]
+  },
+  {
+    "input_text": "打算",
+    "entries": [
+      {
+        "text": "打算",
+        "pinyin": "dǎ suàn",
+        "en": "plan, intend",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "带",
+    "entries": [
+      {
+        "text": "带",
+        "pinyin": "dài",
+        "en": "bring, take along",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "担心",
+    "entries": [
+      {
+        "text": "担心",
+        "pinyin": "dān xīn",
+        "en": "worry, be worried",
+        "emoji": "😟"
+      }
+    ]
+  },
+  {
+    "input_text": "蛋糕",
+    "entries": [
+      {
+        "text": "蛋糕",
+        "pinyin": "dàn gāo",
+        "en": "cake",
+        "emoji": "🎂"
+      }
+    ]
+  },
+  {
+    "input_text": "当然",
+    "entries": [
+      {
+        "text": "当然",
+        "pinyin": "dāng rán",
+        "en": "of course",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "地",
+    "entries": []
+  },
+  {
+    "input_text": "灯",
+    "entries": [
+      {
+        "text": "灯",
+        "pinyin": "dēng",
+        "en": "lamp, light",
+        "emoji": "💡"
+      }
+    ]
+  },
+  {
+    "input_text": "地方",
+    "entries": [
+      {
+        "text": "地方",
+        "pinyin": "dì fāng",
+        "en": "place, area",
+        "emoji": "📍"
+      }
+    ]
+  },
+  {
+    "input_text": "地铁",
+    "entries": [
+      {
+        "text": "地铁",
+        "pinyin": "dì tiě",
+        "en": "subway, metro",
+        "emoji": "🚇"
+      }
+    ]
+  },
+  {
+    "input_text": "地图",
+    "entries": [
+      {
+        "text": "地图",
+        "pinyin": "dì tú",
+        "en": "map",
+        "emoji": "🗺️"
+      }
+    ]
+  },
+  {
+    "input_text": "电梯",
+    "entries": [
+      {
+        "text": "电梯",
+        "pinyin": "diàn tī",
+        "en": "elevator",
+        "emoji": "🛗"
+      }
+    ]
+  },
+  {
+    "input_text": "电子邮件",
+    "entries": [
+      {
+        "text": "电子邮件",
+        "pinyin": "diàn zǐ yóu jiàn",
+        "en": "email",
+        "emoji": "📧"
+      }
+    ]
+  },
+  {
+    "input_text": "东",
+    "entries": [
+      {
+        "text": "东",
+        "pinyin": "dōng",
+        "en": "east",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "冬",
+    "entries": [
+      {
+        "text": "冬",
+        "pinyin": "dōng",
+        "en": "winter",
+        "emoji": "❄️"
+      }
+    ]
+  },
+  {
+    "input_text": "动物",
+    "entries": [
+      {
+        "text": "动物",
+        "pinyin": "dòng wù",
+        "en": "animal",
+        "emoji": "🐾"
+      }
+    ]
+  },
+  {
+    "input_text": "短",
+    "entries": [
+      {
+        "text": "短",
+        "pinyin": "duǎn",
+        "en": "short",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "段",
+    "entries": [
+      {
+        "text": "段",
+        "pinyin": "duàn",
+        "en": "section, passage",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "锻炼",
+    "entries": [
+      {
+        "text": "锻炼",
+        "pinyin": "duàn liàn",
+        "en": "exercise, train",
+        "emoji": "🏋️"
+      }
+    ]
+  }
+]

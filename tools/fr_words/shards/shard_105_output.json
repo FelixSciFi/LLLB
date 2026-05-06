@@ -1,0 +1,291 @@
+[
+  {
+    "text": "une lumière éclatante",
+    "ipa": "yn ly.mjɛʁ e.kla.tɑ̃t",
+    "translation": {"zh": "耀眼的光", "en": "a dazzling light"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une lumière", "lemma": "lumière", "ipa": "yn ly.mjɛʁ", "translation": {"zh": "一道光", "en": "a light"}, "emoji": "💡"},
+      {"text": "éclatante", "lemma": "éclatant", "ipa": "e.kla.tɑ̃t", "translation": {"zh": "耀眼的", "en": "dazzling"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "un chêne",
+    "ipa": "œ̃ ʃɛn",
+    "translation": {"zh": "一棵橡树", "en": "an oak tree"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un chêne", "lemma": "chêne", "ipa": "œ̃ ʃɛn", "translation": {"zh": "橡树", "en": "oak tree"}, "emoji": "🌳"}
+    ]
+  },
+  {
+    "text": "la compréhension",
+    "ipa": "la kɔ̃.pʁe.ɑ̃.sjɔ̃",
+    "translation": {"zh": "理解", "en": "comprehension"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la compréhension", "lemma": "compréhension", "ipa": "la kɔ̃.pʁe.ɑ̃.sjɔ̃", "translation": {"zh": "理解能力", "en": "comprehension"}, "emoji": "🧠"}
+    ]
+  },
+  {
+    "text": "un bruit perpétuel",
+    "ipa": "œ̃ bʁɥi pɛʁ.pe.tɥɛl",
+    "translation": {"zh": "持续不断的噪音", "en": "a perpetual noise"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un bruit", "lemma": "bruit", "ipa": "œ̃ bʁɥi", "translation": {"zh": "一种噪音", "en": "a noise"}, "emoji": "🔊"},
+      {"text": "perpétuel", "lemma": "perpétuel", "ipa": "pɛʁ.pe.tɥɛl", "translation": {"zh": "持续不断的", "en": "perpetual"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un bouchon",
+    "ipa": "œ̃ bu.ʃɔ̃",
+    "translation": {"zh": "一个塞子；堵车", "en": "a cork; a traffic jam"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un bouchon", "lemma": "bouchon", "ipa": "œ̃ bu.ʃɔ̃", "translation": {"zh": "瓶塞；堵车", "en": "cork; traffic jam"}, "emoji": "🍾"}
+    ]
+  },
+  {
+    "text": "décerner un prix",
+    "ipa": "de.sɛʁ.ne œ̃ pʁi",
+    "translation": {"zh": "颁发奖项", "en": "to award a prize"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "décerner", "lemma": "décerner", "ipa": "de.sɛʁ.ne", "translation": {"zh": "颁发", "en": "to award"}, "emoji": "🏆"},
+      {"text": "un prix", "lemma": "prix", "ipa": "œ̃ pʁi", "translation": {"zh": "一个奖项", "en": "a prize"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un acte criminel",
+    "ipa": "œ̃ akt kʁi.mi.nɛl",
+    "translation": {"zh": "一项犯罪行为", "en": "a criminal act"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un acte", "lemma": "acte", "ipa": "œ̃ akt", "translation": {"zh": "一项行为", "en": "an act"}, "emoji": ""},
+      {"text": "criminel", "lemma": "criminel", "ipa": "kʁi.mi.nɛl", "translation": {"zh": "犯罪的", "en": "criminal"}, "emoji": "⚠️"}
+    ]
+  },
+  {
+    "text": "passer un cap",
+    "ipa": "pa.se œ̃ kap",
+    "translation": {"zh": "跨过一个关口", "en": "to pass a milestone"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "passer", "lemma": "passer", "ipa": "pa.se", "translation": {"zh": "跨过", "en": "to pass"}, "emoji": ""},
+      {"text": "un cap", "lemma": "cap", "ipa": "œ̃ kap", "translation": {"zh": "一个关口", "en": "a milestone"}, "emoji": "🏁"}
+    ]
+  },
+  {
+    "text": "un partenariat",
+    "ipa": "œ̃ paʁ.tə.na.ʁja",
+    "translation": {"zh": "一个合作伙伴关系", "en": "a partnership"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un partenariat", "lemma": "partenariat", "ipa": "œ̃ paʁ.tə.na.ʁja", "translation": {"zh": "合作关系", "en": "partnership"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "l'adolescence",
+    "ipa": "la.dɔ.lɛ.sɑ̃s",
+    "translation": {"zh": "青少年时期", "en": "adolescence"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'adolescence", "lemma": "adolescence", "ipa": "la.dɔ.lɛ.sɑ̃s", "translation": {"zh": "青春期", "en": "adolescence"}, "emoji": "🧑"}
+    ]
+  },
+  {
+    "text": "la sueur",
+    "ipa": "la sɥœʁ",
+    "translation": {"zh": "汗水", "en": "sweat"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la sueur", "lemma": "sueur", "ipa": "la sɥœʁ", "translation": {"zh": "汗水", "en": "sweat"}, "emoji": "💧"}
+    ]
+  },
+  {
+    "text": "c'est élémentaire",
+    "ipa": "s‿ɛ e.le.mɑ̃.tɛʁ",
+    "translation": {"zh": "这是基本的", "en": "it's elementary"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "c'est élémentaire", "lemma": "élémentaire", "ipa": "s‿ɛ e.le.mɑ̃.tɛʁ", "translation": {"zh": "这很基础", "en": "it's elementary"}, "emoji": "📚"}
+    ]
+  },
+  {
+    "text": "il est paresseux",
+    "ipa": "i.l‿ɛ pa.ʁɛ.sø",
+    "translation": {"zh": "他很懒", "en": "he is lazy"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il est", "lemma": "être", "ipa": "i.l‿ɛ", "translation": {"zh": "他是", "en": "he is"}, "emoji": ""},
+      {"text": "paresseux", "lemma": "paresseux", "ipa": "pa.ʁɛ.sø", "translation": {"zh": "懒惰的", "en": "lazy"}, "emoji": "😴"}
+    ]
+  },
+  {
+    "text": "une librairie",
+    "ipa": "yn li.bʁɛ.ʁi",
+    "translation": {"zh": "一家书店", "en": "a bookshop"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une librairie", "lemma": "librairie", "ipa": "yn li.bʁɛ.ʁi", "translation": {"zh": "书店", "en": "bookshop"}, "emoji": "📖"}
+    ]
+  },
+  {
+    "text": "sans condition préalable",
+    "ipa": "sɑ̃ kɔ̃.di.sjɔ̃ pʁe.a.labl",
+    "translation": {"zh": "没有前提条件", "en": "without prior condition"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "sans condition", "lemma": "condition", "ipa": "sɑ̃ kɔ̃.di.sjɔ̃", "translation": {"zh": "没有条件", "en": "without condition"}, "emoji": ""},
+      {"text": "préalable", "lemma": "préalable", "ipa": "pʁe.a.labl", "translation": {"zh": "事先的", "en": "prior"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la médiathèque",
+    "ipa": "la me.dja.tɛk",
+    "translation": {"zh": "媒体图书馆", "en": "the media library"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la médiathèque", "lemma": "médiathèque", "ipa": "la me.dja.tɛk", "translation": {"zh": "多媒体馆", "en": "media library"}, "emoji": "🎬"}
+    ]
+  },
+  {
+    "text": "quoi qu'il advienne",
+    "ipa": "kwa k‿il ad.vjɛn",
+    "translation": {"zh": "无论发生什么", "en": "whatever happens"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "quoi qu'il", "lemma": "quoi", "ipa": "kwa k‿il", "translation": {"zh": "无论什么", "en": "whatever"}, "emoji": ""},
+      {"text": "advienne", "lemma": "advenir", "ipa": "ad.vjɛn", "translation": {"zh": "发生", "en": "happens"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un accent australien",
+    "ipa": "œ̃ ak.sɑ̃ os.tʁa.ljɛ̃",
+    "translation": {"zh": "澳大利亚口音", "en": "an Australian accent"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un accent", "lemma": "accent", "ipa": "œ̃ ak.sɑ̃", "translation": {"zh": "一种口音", "en": "an accent"}, "emoji": "🗣️"},
+      {"text": "australien", "lemma": "australien", "ipa": "os.tʁa.ljɛ̃", "translation": {"zh": "澳大利亚的", "en": "Australian"}, "emoji": "🇦🇺"}
+    ]
+  },
+  {
+    "text": "meubler un appartement",
+    "ipa": "mø.ble œ̃ a.paʁ.tə.mɑ̃",
+    "translation": {"zh": "为公寓置办家具", "en": "to furnish an apartment"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "meubler", "lemma": "meubler", "ipa": "mø.ble", "translation": {"zh": "装置家具", "en": "to furnish"}, "emoji": "🛋️"},
+      {"text": "un appartement", "lemma": "appartement", "ipa": "œ̃ a.paʁ.tə.mɑ̃", "translation": {"zh": "一套公寓", "en": "an apartment"}, "emoji": "🏠"}
+    ]
+  },
+  {
+    "text": "une vedette du cinéma",
+    "ipa": "yn və.dɛt dy si.ne.ma",
+    "translation": {"zh": "一位电影明星", "en": "a movie star"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une vedette", "lemma": "vedette", "ipa": "yn və.dɛt", "translation": {"zh": "一位明星", "en": "a star"}, "emoji": "⭐"},
+      {"text": "du cinéma", "lemma": "cinéma", "ipa": "dy si.ne.ma", "translation": {"zh": "电影界的", "en": "of cinema"}, "emoji": "🎬"}
+    ]
+  },
+  {
+    "text": "la première phase",
+    "ipa": "la pʁə.mjɛʁ faz",
+    "translation": {"zh": "第一阶段", "en": "the first phase"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la première", "lemma": "premier", "ipa": "la pʁə.mjɛʁ", "translation": {"zh": "第一个", "en": "the first"}, "emoji": ""},
+      {"text": "phase", "lemma": "phase", "ipa": "faz", "translation": {"zh": "阶段", "en": "phase"}, "emoji": "📊"}
+    ]
+  },
+  {
+    "text": "une ambiance festive",
+    "ipa": "yn ɑ̃.bjɑ̃s fɛs.tiv",
+    "translation": {"zh": "节日气氛", "en": "a festive atmosphere"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une ambiance", "lemma": "ambiance", "ipa": "yn ɑ̃.bjɑ̃s", "translation": {"zh": "一种氛围", "en": "an atmosphere"}, "emoji": "🎉"},
+      {"text": "festive", "lemma": "festif", "ipa": "fɛs.tiv", "translation": {"zh": "节日的", "en": "festive"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "ma petite-fille",
+    "ipa": "ma pə.tit fij",
+    "translation": {"zh": "我的孙女", "en": "my granddaughter"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "ma petite-fille", "lemma": "petite-fille", "ipa": "ma pə.tit fij", "translation": {"zh": "我的孙女", "en": "my granddaughter"}, "emoji": "👧"}
+    ]
+  },
+  {
+    "text": "un plat tunisien",
+    "ipa": "œ̃ pla ty.ni.zjɛ̃",
+    "translation": {"zh": "一道突尼斯菜", "en": "a Tunisian dish"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un plat", "lemma": "plat", "ipa": "œ̃ pla", "translation": {"zh": "一道菜", "en": "a dish"}, "emoji": "🍽️"},
+      {"text": "tunisien", "lemma": "tunisien", "ipa": "ty.ni.zjɛ̃", "translation": {"zh": "突尼斯的", "en": "Tunisian"}, "emoji": "🇹🇳"}
+    ]
+  },
+  {
+    "text": "se coucher tôt",
+    "ipa": "sə ku.ʃe to",
+    "translation": {"zh": "早点睡觉", "en": "to go to bed early"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "se coucher", "lemma": "coucher", "ipa": "sə ku.ʃe", "translation": {"zh": "去睡觉", "en": "to go to bed"}, "emoji": "🛏️"},
+      {"text": "tôt", "lemma": "tôt", "ipa": "to", "translation": {"zh": "早", "en": "early"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "désarmer l'ennemi",
+    "ipa": "de.zaʁ.me l‿ɑ.nə.mi",
+    "translation": {"zh": "缴械敌人", "en": "to disarm the enemy"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "désarmer", "lemma": "désarmer", "ipa": "de.zaʁ.me", "translation": {"zh": "缴械", "en": "to disarm"}, "emoji": "🕊️"},
+      {"text": "l'ennemi", "lemma": "ennemi", "ipa": "l‿ɑ.nə.mi", "translation": {"zh": "敌人", "en": "the enemy"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "concurrencer les grandes marques",
+    "ipa": "kɔ̃.ky.ʁɑ̃.se le ɡʁɑ̃d maʁk",
+    "translation": {"zh": "与大品牌竞争", "en": "to compete with major brands"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "concurrencer", "lemma": "concurrencer", "ipa": "kɔ̃.ky.ʁɑ̃.se", "translation": {"zh": "竞争", "en": "to compete with"}, "emoji": "🏆"},
+      {"text": "les grandes marques", "lemma": "marque", "ipa": "le ɡʁɑ̃d maʁk", "translation": {"zh": "大品牌", "en": "major brands"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "prendre le pli",
+    "ipa": "pʁɑ̃dʁ lə pli",
+    "translation": {"zh": "养成习惯", "en": "to get into the habit"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "prendre", "lemma": "prendre", "ipa": "pʁɑ̃dʁ", "translation": {"zh": "养成", "en": "to get into"}, "emoji": ""},
+      {"text": "le pli", "lemma": "pli", "ipa": "lə pli", "translation": {"zh": "习惯", "en": "the habit"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "tempérer ses réactions",
+    "ipa": "tɑ̃.pe.ʁe se ʁe.ak.sjɔ̃",
+    "translation": {"zh": "缓和自己的反应", "en": "to temper one's reactions"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "tempérer", "lemma": "tempérer", "ipa": "tɑ̃.pe.ʁe", "translation": {"zh": "缓和", "en": "to temper"}, "emoji": ""},
+      {"text": "ses réactions", "lemma": "réaction", "ipa": "se ʁe.ak.sjɔ̃", "translation": {"zh": "自己的反应", "en": "one's reactions"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la mentalité",
+    "ipa": "la mɑ̃.ta.li.te",
+    "translation": {"zh": "心态；思维方式", "en": "mentality"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la mentalité", "lemma": "mentalité", "ipa": "la mɑ̃.ta.li.te", "translation": {"zh": "心态", "en": "mentality"}, "emoji": "🧠"}
+    ]
+  }
+]

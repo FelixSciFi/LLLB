@@ -1,0 +1,282 @@
+[
+  {
+    "text": "la moitié",
+    "ipa": "la mwa.tje",
+    "translation": {"zh": "一半", "en": "half"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "la moitié", "lemma": "moitié", "ipa": "la mwa.tje", "translation": {"zh": "一半", "en": "half"}, "emoji": "½"}
+    ]
+  },
+  {
+    "text": "un véritable ami",
+    "ipa": "œ̃ ve.ʁi.tabl a.mi",
+    "translation": {"zh": "一个真正的朋友", "en": "a true friend"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un véritable ami", "lemma": "ami", "ipa": "œ̃ ve.ʁi.tabl a.mi", "translation": {"zh": "真正的朋友", "en": "true friend"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "il possède une voiture",
+    "ipa": "il pɔ.sɛd yn vwa.tyʁ",
+    "translation": {"zh": "他有一辆车", "en": "he owns a car"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "il possède(posséder)", "lemma": "posséder", "ipa": "il pɔ.sɛd", "translation": {"zh": "他拥有", "en": "he owns"}, "emoji": ""},
+      {"text": "une voiture", "lemma": "voiture", "ipa": "yn vwa.tyʁ", "translation": {"zh": "一辆车", "en": "a car"}, "emoji": "🚗"}
+    ]
+  },
+  {
+    "text": "produire de l'énergie",
+    "ipa": "pʁo.dɥiʁ də le.nɛʁ.ʒi",
+    "translation": {"zh": "生产能源", "en": "produce energy"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "produire", "lemma": "produire", "ipa": "pʁo.dɥiʁ", "translation": {"zh": "生产", "en": "produce"}, "emoji": "🏭"},
+      {"text": "de l'énergie", "lemma": "énergie", "ipa": "də le.nɛʁ.ʒi", "translation": {"zh": "能源", "en": "energy"}, "emoji": "⚡"}
+    ]
+  },
+  {
+    "text": "la lumière",
+    "ipa": "la ly.mjɛʁ",
+    "translation": {"zh": "光，灯光", "en": "light"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la lumière", "lemma": "lumière", "ipa": "la ly.mjɛʁ", "translation": {"zh": "光，灯光", "en": "light"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "le président",
+    "ipa": "lə pʁe.zi.dɑ̃",
+    "translation": {"zh": "总统，主席", "en": "president"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le président", "lemma": "président", "ipa": "lə pʁe.zi.dɑ̃", "translation": {"zh": "总统，主席", "en": "president"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "tu lui ressembles",
+    "ipa": "ty lɥi ʁə.sɑ̃bl",
+    "translation": {"zh": "你长得像他", "en": "you look like him"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "tu lui ressembles(ressembler)", "lemma": "ressembler", "ipa": "ty lɥi ʁə.sɑ̃bl", "translation": {"zh": "你像他", "en": "you resemble him"}, "emoji": "👥"}
+    ]
+  },
+  {
+    "text": "j'étudie le français",
+    "ipa": "ʒe.ty.di lə fʁɑ̃.sɛ",
+    "translation": {"zh": "我学法语", "en": "I study French"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "j'étudie(étudier)", "lemma": "étudier", "ipa": "ʒe.ty.di", "translation": {"zh": "我学习", "en": "I study"}, "emoji": "📚"},
+      {"text": "le français", "lemma": "français", "ipa": "lə fʁɑ̃.sɛ", "translation": {"zh": "法语", "en": "French"}, "emoji": "🇫🇷"}
+    ]
+  },
+  {
+    "text": "l'avenir",
+    "ipa": "la.və.niʁ",
+    "translation": {"zh": "未来", "en": "the future"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'avenir", "lemma": "avenir", "ipa": "la.və.niʁ", "translation": {"zh": "未来", "en": "future"}, "emoji": "🔭"}
+    ]
+  },
+  {
+    "text": "ça paraît difficile",
+    "ipa": "sa pa.ʁɛ di.fi.sil",
+    "translation": {"zh": "这看起来很难", "en": "it seems difficult"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ça paraît(paraître)", "lemma": "paraître", "ipa": "sa pa.ʁɛ", "translation": {"zh": "看起来", "en": "it seems"}, "emoji": ""},
+      {"text": "difficile", "lemma": "difficile", "ipa": "di.fi.sil", "translation": {"zh": "困难的", "en": "difficult"}, "emoji": "😓"}
+    ]
+  },
+  {
+    "text": "en garde",
+    "ipa": "ɑ̃ ɡaʁd",
+    "translation": {"zh": "保持警戒", "en": "on guard"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "en garde", "lemma": "garde", "ipa": "ɑ̃ ɡaʁd", "translation": {"zh": "警戒状态", "en": "on guard"}, "emoji": "⚔️"}
+    ]
+  },
+  {
+    "text": "ça suffit",
+    "ipa": "sa sy.fi",
+    "translation": {"zh": "够了", "en": "that's enough"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "ça suffit(suffire)", "lemma": "suffire", "ipa": "sa sy.fi", "translation": {"zh": "够了", "en": "that's enough"}, "emoji": "✋"}
+    ]
+  },
+  {
+    "text": "la force",
+    "ipa": "la fɔʁs",
+    "translation": {"zh": "力量", "en": "strength"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "la force", "lemma": "force", "ipa": "la fɔʁs", "translation": {"zh": "力量", "en": "strength"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "il embrasse sa mère",
+    "ipa": "il ɑ̃.bʁas sa mɛʁ",
+    "translation": {"zh": "他拥抱他的妈妈", "en": "he hugs his mother"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "il embrasse(embrasser)", "lemma": "embrasser", "ipa": "il ɑ̃.bʁas", "translation": {"zh": "他拥抱", "en": "he hugs"}, "emoji": "🤗"},
+      {"text": "sa mère", "lemma": "mère", "ipa": "sa mɛʁ", "translation": {"zh": "他的妈妈", "en": "his mother"}, "emoji": "👩"}
+    ]
+  },
+  {
+    "text": "la plupart des gens",
+    "ipa": "la ply.paʁ de ʒɑ̃",
+    "translation": {"zh": "大多数人", "en": "most people"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la plupart des gens", "lemma": "plupart", "ipa": "la ply.paʁ de ʒɑ̃", "translation": {"zh": "大多数人", "en": "most people"}, "emoji": "👫"}
+    ]
+  },
+  {
+    "text": "on est obligé de partir",
+    "ipa": "ɔ̃ ɛ o.bli.ʒe də paʁ.tiʁ",
+    "translation": {"zh": "我们必须离开", "en": "we have to leave"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "on est obligé(obliger)", "lemma": "obliger", "ipa": "ɔ̃ ɛ o.bli.ʒe", "translation": {"zh": "我们被迫", "en": "we are obliged"}, "emoji": ""},
+      {"text": "de partir", "lemma": "partir", "ipa": "də paʁ.tiʁ", "translation": {"zh": "离开", "en": "to leave"}, "emoji": "🚪"}
+    ]
+  },
+  {
+    "text": "le responsable",
+    "ipa": "lə ʁɛs.pɔ̃.sabl",
+    "translation": {"zh": "负责人", "en": "the person in charge"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le responsable", "lemma": "responsable", "ipa": "lə ʁɛs.pɔ̃.sabl", "translation": {"zh": "负责人", "en": "person in charge"}, "emoji": "👔"}
+    ]
+  },
+  {
+    "text": "la semaine prochaine",
+    "ipa": "la sə.mɛn pʁɔ.ʃɛn",
+    "translation": {"zh": "下周", "en": "next week"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la semaine prochaine", "lemma": "semaine", "ipa": "la sə.mɛn pʁɔ.ʃɛn", "translation": {"zh": "下周", "en": "next week"}, "emoji": "📅"}
+    ]
+  },
+  {
+    "text": "élever des enfants",
+    "ipa": "e.lə.ve de zɑ̃.fɑ̃",
+    "translation": {"zh": "抚养孩子", "en": "raise children"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "élever", "lemma": "élever", "ipa": "e.lə.ve", "translation": {"zh": "抚养", "en": "raise"}, "emoji": ""},
+      {"text": "des enfants", "lemma": "enfant", "ipa": "de zɑ̃.fɑ̃", "translation": {"zh": "孩子们", "en": "children"}, "emoji": "👶"}
+    ]
+  },
+  {
+    "text": "elle chante bien",
+    "ipa": "ɛl ʃɑ̃t bjɛ̃",
+    "translation": {"zh": "她唱得好", "en": "she sings well"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "elle chante(chanter)", "lemma": "chanter", "ipa": "ɛl ʃɑ̃t", "translation": {"zh": "她唱歌", "en": "she sings"}, "emoji": "🎤"},
+      {"text": "bien", "lemma": "bien", "ipa": "bjɛ̃", "translation": {"zh": "好", "en": "well"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "en ligne",
+    "ipa": "ɑ̃ liɲ",
+    "translation": {"zh": "在线", "en": "online"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "en ligne", "lemma": "ligne", "ipa": "ɑ̃ liɲ", "translation": {"zh": "在线", "en": "online"}, "emoji": "🌐"}
+    ]
+  },
+  {
+    "text": "le métier",
+    "ipa": "lə me.tje",
+    "translation": {"zh": "职业，行业", "en": "trade, profession"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le métier", "lemma": "métier", "ipa": "lə me.tje", "translation": {"zh": "职业", "en": "profession"}, "emoji": "🔧"}
+    ]
+  },
+  {
+    "text": "passer à l'action",
+    "ipa": "pa.se a lak.sjɔ̃",
+    "translation": {"zh": "付诸行动", "en": "take action"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "passer", "lemma": "passer", "ipa": "pa.se", "translation": {"zh": "转向", "en": "move to"}, "emoji": ""},
+      {"text": "à l'action", "lemma": "action", "ipa": "a lak.sjɔ̃", "translation": {"zh": "行动", "en": "action"}, "emoji": "🚀"}
+    ]
+  },
+  {
+    "text": "sur scène",
+    "ipa": "syʁ sɛn",
+    "translation": {"zh": "在舞台上", "en": "on stage"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "sur scène", "lemma": "scène", "ipa": "syʁ sɛn", "translation": {"zh": "在舞台上", "en": "on stage"}, "emoji": "🎭"}
+    ]
+  },
+  {
+    "text": "le gouvernement",
+    "ipa": "lə ɡu.vɛʁ.nə.mɑ̃",
+    "translation": {"zh": "政府", "en": "government"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le gouvernement", "lemma": "gouvernement", "ipa": "lə ɡu.vɛʁ.nə.mɑ̃", "translation": {"zh": "政府", "en": "government"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "le bonheur",
+    "ipa": "lə bɔ.nœʁ",
+    "translation": {"zh": "幸福，快乐", "en": "happiness"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le bonheur", "lemma": "bonheur", "ipa": "lə bɔ.nœʁ", "translation": {"zh": "幸福，快乐", "en": "happiness"}, "emoji": "😊"}
+    ]
+  },
+  {
+    "text": "dans le cadre de",
+    "ipa": "dɑ̃ lə kaдʁ də",
+    "translation": {"zh": "在……框架内", "en": "within the framework of"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "dans le cadre de", "lemma": "cadre", "ipa": "dɑ̃ lə kadʁ də", "translation": {"zh": "在框架内", "en": "within the framework"}, "emoji": "🗂️"}
+    ]
+  },
+  {
+    "text": "il annonce la nouvelle",
+    "ipa": "il a.nɔ̃s la nu.vɛl",
+    "translation": {"zh": "他宣布了这个消息", "en": "he announces the news"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "il annonce(annoncer)", "lemma": "annoncer", "ipa": "il a.nɔ̃s", "translation": {"zh": "他宣布", "en": "he announces"}, "emoji": "📢"},
+      {"text": "la nouvelle", "lemma": "nouvelle", "ipa": "la nu.vɛl", "translation": {"zh": "消息", "en": "news"}, "emoji": "📰"}
+    ]
+  },
+  {
+    "text": "la politique",
+    "ipa": "la pɔ.li.tik",
+    "translation": {"zh": "政治，政策", "en": "politics, policy"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la politique", "lemma": "politique", "ipa": "la pɔ.li.tik", "translation": {"zh": "政治，政策", "en": "politics"}, "emoji": "🗳️"}
+    ]
+  },
+  {
+    "text": "un beau rêve",
+    "ipa": "œ̃ bo ʁɛv",
+    "translation": {"zh": "一个美梦", "en": "a beautiful dream"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un beau rêve", "lemma": "rêve", "ipa": "œ̃ bo ʁɛv", "translation": {"zh": "美梦", "en": "beautiful dream"}, "emoji": "💭"}
+    ]
+  }
+]

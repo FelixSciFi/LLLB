@@ -1,0 +1,174 @@
+[
+  {
+    "input_word": "interest",
+    "entries": [
+      {"text": "interest", "ipa": "/ˈɪntrəst/", "cefr": "A1", "zh": "兴趣", "emoji": "🤩"},
+      {"text": "interest", "ipa": "/ˈɪntrəst/", "cefr": "A1", "zh": "利息", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_word": "interested",
+    "entries": [
+      {"text": "interested", "ipa": "/ˈɪntrəstɪd/", "cefr": "A1", "zh": "感兴趣的", "emoji": "🧐"}
+    ]
+  },
+  {
+    "input_word": "interesting",
+    "entries": [
+      {"text": "interesting", "ipa": "/ˈɪntrəstɪŋ/", "cefr": "A1", "zh": "有趣的", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_word": "internal",
+    "entries": [
+      {"text": "internal", "ipa": "/ɪnˈtɜːrnl/", "cefr": "B2", "zh": "内部的", "emoji": "🔒"}
+    ]
+  },
+  {
+    "input_word": "international",
+    "entries": [
+      {"text": "international", "ipa": "/ˌɪntərˈnæʃənl/", "cefr": "A2", "zh": "国际的", "emoji": "🌍"}
+    ]
+  },
+  {
+    "input_word": "internet",
+    "entries": [
+      {"text": "internet", "ipa": "/ˈɪntərˌnɛt/", "cefr": "A1", "zh": "互联网", "emoji": "🌐"}
+    ]
+  },
+  {
+    "input_word": "interpret",
+    "entries": [
+      {"text": "interpret", "ipa": "/ɪnˈtɜːrprɪt/", "cefr": "B2", "zh": "诠释", "emoji": "💬"},
+      {"text": "interpret", "ipa": "/ɪnˈtɜːrprɪt/", "cefr": "B2", "zh": "口译", "emoji": "🗣️"}
+    ]
+  },
+  {
+    "input_word": "interrupt",
+    "entries": [
+      {"text": "interrupt", "ipa": "/ˌɪntəˈrʌpt/", "cefr": "B2", "zh": "打断", "emoji": "✋"}
+    ]
+  },
+  {
+    "input_word": "interview",
+    "entries": [
+      {"text": "interview", "ipa": "/ˈɪntərˌvjuː/", "cefr": "A1", "zh": "采访", "emoji": "🎙️"},
+      {"text": "interview", "ipa": "/ˈɪntərˌvjuː/", "cefr": "A1", "zh": "面试", "emoji": "💼"}
+    ]
+  },
+  {
+    "input_word": "into",
+    "entries": []
+  },
+  {
+    "input_word": "introduce",
+    "entries": [
+      {"text": "introduce", "ipa": "/ˌɪntrəˈduːs/", "cefr": "A1", "zh": "介绍", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "introduction",
+    "entries": [
+      {"text": "introduction", "ipa": "/ˌɪntrəˈdʌkʃən/", "cefr": "A2", "zh": "介绍", "emoji": "👋"},
+      {"text": "introduction", "ipa": "/ˌɪntrəˈdʌkʃən/", "cefr": "A2", "zh": "引言", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_word": "invent",
+    "entries": [
+      {"text": "invent", "ipa": "/ɪnˈvɛnt/", "cefr": "A2", "zh": "发明", "emoji": "💡"}
+    ]
+  },
+  {
+    "input_word": "invention",
+    "entries": [
+      {"text": "invention", "ipa": "/ɪnˈvɛnʃən/", "cefr": "A2", "zh": "发明", "emoji": "⚙️"}
+    ]
+  },
+  {
+    "input_word": "invest",
+    "entries": [
+      {"text": "invest", "ipa": "/ɪnˈvɛst/", "cefr": "B1", "zh": "投资", "emoji": "📈"}
+    ]
+  },
+  {
+    "input_word": "investigate",
+    "entries": [
+      {"text": "investigate", "ipa": "/ɪnˈvɛstɪˌɡeɪt/", "cefr": "B1", "zh": "调查", "emoji": "🔍"}
+    ]
+  },
+  {
+    "input_word": "investigation",
+    "entries": [
+      {"text": "investigation", "ipa": "/ɪnˌvɛstɪˈɡeɪʃən/", "cefr": "B2", "zh": "调查", "emoji": "🕵️"}
+    ]
+  },
+  {
+    "input_word": "investment",
+    "entries": [
+      {"text": "investment", "ipa": "/ɪnˈvɛstmənt/", "cefr": "B2", "zh": "投资", "emoji": "💹"}
+    ]
+  },
+  {
+    "input_word": "invitation",
+    "entries": [
+      {"text": "invitation", "ipa": "/ˌɪnvɪˈteɪʃən/", "cefr": "A2", "zh": "邀请", "emoji": "📩"}
+    ]
+  },
+  {
+    "input_word": "invite",
+    "entries": [
+      {"text": "invite", "ipa": "/ɪnˈvaɪt/", "cefr": "A2", "zh": "邀请", "emoji": "🎉"}
+    ]
+  },
+  {
+    "input_word": "involve",
+    "entries": [
+      {"text": "involve", "ipa": "/ɪnˈvɑːlv/", "cefr": "A2", "zh": "涉及", "emoji": "🔗"}
+    ]
+  },
+  {
+    "input_word": "involved",
+    "entries": [
+      {"text": "involved", "ipa": "/ɪnˈvɑːlvd/", "cefr": "B1", "zh": "参与其中", "emoji": "🙋"}
+    ]
+  },
+  {
+    "input_word": "iron",
+    "entries": [
+      {"text": "iron", "ipa": "/ˈaɪərn/", "cefr": "B1", "zh": "铁", "emoji": "🔩"},
+      {"text": "iron", "ipa": "/ˈaɪərn/", "cefr": "B1", "zh": "熨斗", "emoji": "👔"}
+    ]
+  },
+  {
+    "input_word": "island",
+    "entries": [
+      {"text": "island", "ipa": "/ˈaɪlənd/", "cefr": "A1", "zh": "岛屿", "emoji": "🏝️"}
+    ]
+  },
+  {
+    "input_word": "issue",
+    "entries": [
+      {"text": "issue", "ipa": "/ˈɪʃuː/", "cefr": "B1", "zh": "问题", "emoji": "⚠️"},
+      {"text": "issue", "ipa": "/ˈɪʃuː/", "cefr": "B1", "zh": "期刊期号", "emoji": "📰"}
+    ]
+  },
+  {
+    "input_word": "it",
+    "entries": []
+  },
+  {
+    "input_word": "item",
+    "entries": [
+      {"text": "item", "ipa": "/ˈaɪtəm/", "cefr": "A2", "zh": "物品", "emoji": "📦"}
+    ]
+  },
+  {
+    "input_word": "its",
+    "entries": []
+  },
+  {
+    "input_word": "itself",
+    "entries": []
+  }
+]

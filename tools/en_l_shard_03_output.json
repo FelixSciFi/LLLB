@@ -1,0 +1,182 @@
+[
+  {
+    "input_word": "lose",
+    "entries": [
+      {
+        "text": "lose",
+        "ipa": "/luːz/",
+        "cefr": "A1",
+        "zh": "失去",
+        "emoji": "😢"
+      }
+    ]
+  },
+  {
+    "input_word": "loss",
+    "entries": [
+      {
+        "text": "loss",
+        "ipa": "/lɔːs/",
+        "cefr": "B1",
+        "zh": "损失",
+        "emoji": "📉"
+      }
+    ]
+  },
+  {
+    "input_word": "lost",
+    "entries": [
+      {
+        "text": "lost",
+        "ipa": "/lɔːst/",
+        "cefr": "A2",
+        "zh": "迷路的",
+        "emoji": "🗺️"
+      }
+    ]
+  },
+  {
+    "input_word": "lot",
+    "entries": [
+      {
+        "text": "lot",
+        "ipa": "/lɑːt/",
+        "cefr": "A1",
+        "zh": "很多",
+        "emoji": "📦"
+      }
+    ]
+  },
+  {
+    "input_word": "loud",
+    "entries": [
+      {
+        "text": "loud",
+        "ipa": "/laʊd/",
+        "cefr": "A2",
+        "zh": "大声的",
+        "emoji": "🔊"
+      }
+    ]
+  },
+  {
+    "input_word": "loudly",
+    "entries": [
+      {
+        "text": "loudly",
+        "ipa": "/ˈlaʊdli/",
+        "cefr": "A2",
+        "zh": "大声地",
+        "emoji": "📢"
+      }
+    ]
+  },
+  {
+    "input_word": "love",
+    "entries": [
+      {
+        "text": "love",
+        "ipa": "/lʌv/",
+        "cefr": "A1",
+        "zh": "爱",
+        "emoji": "❤️"
+      }
+    ]
+  },
+  {
+    "input_word": "lovely",
+    "entries": [
+      {
+        "text": "lovely",
+        "ipa": "/ˈlʌvli/",
+        "cefr": "A2",
+        "zh": "可爱的",
+        "emoji": "🥰"
+      }
+    ]
+  },
+  {
+    "input_word": "low",
+    "entries": [
+      {
+        "text": "low",
+        "ipa": "/loʊ/",
+        "cefr": "A2",
+        "zh": "低的",
+        "emoji": "⬇️"
+      }
+    ]
+  },
+  {
+    "input_word": "lower",
+    "entries": [
+      {
+        "text": "lower",
+        "ipa": "/ˈloʊər/",
+        "cefr": "B2",
+        "zh": "降低",
+        "emoji": "📉"
+      }
+    ]
+  },
+  {
+    "input_word": "luck",
+    "entries": [
+      {
+        "text": "luck",
+        "ipa": "/lʌk/",
+        "cefr": "A2",
+        "zh": "运气",
+        "emoji": "🍀"
+      }
+    ]
+  },
+  {
+    "input_word": "lucky",
+    "entries": [
+      {
+        "text": "lucky",
+        "ipa": "/ˈlʌki/",
+        "cefr": "A2",
+        "zh": "幸运的",
+        "emoji": "🍀"
+      }
+    ]
+  },
+  {
+    "input_word": "lunch",
+    "entries": [
+      {
+        "text": "lunch",
+        "ipa": "/lʌntʃ/",
+        "cefr": "A1",
+        "zh": "午餐",
+        "emoji": "🥪"
+      }
+    ]
+  },
+  {
+    "input_word": "lung",
+    "entries": [
+      {
+        "text": "lung",
+        "ipa": "/lʌŋ/",
+        "cefr": "B2",
+        "zh": "肺",
+        "emoji": "🫁"
+      }
+    ]
+  },
+  {
+    "input_word": "luxury",
+    "entries": [
+      {
+        "text": "luxury",
+        "ipa": "/ˈlʌkʃəri/",
+        "cefr": "B1",
+        "zh": "奢侈品",
+        "emoji": "💎"
+      }
+    ]
+  }
+]

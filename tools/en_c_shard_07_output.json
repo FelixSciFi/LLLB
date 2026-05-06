@@ -1,0 +1,188 @@
+[
+  {
+    "input_word": "continue",
+    "entries": [
+      {"text": "continue", "ipa": "/kənˈtɪnjuː/", "cefr": "A2", "zh": "继续", "emoji": "▶️"}
+    ]
+  },
+  {
+    "input_word": "continuous",
+    "entries": [
+      {"text": "continuous", "ipa": "/kənˈtɪnjuəs/", "cefr": "B1", "zh": "连续的", "emoji": "🔄"}
+    ]
+  },
+  {
+    "input_word": "contract",
+    "entries": [
+      {"text": "contract", "ipa": "/ˈkɑːntrækt/", "cefr": "B2", "zh": "合同", "emoji": "📄"},
+      {"text": "contract", "ipa": "/kənˈtrækt/", "cefr": "B2", "zh": "收缩", "emoji": "📉"}
+    ]
+  },
+  {
+    "input_word": "contrast",
+    "entries": [
+      {"text": "contrast", "ipa": "/ˈkɑːntræst/", "cefr": "B1", "zh": "对比", "emoji": "⚫⚪"}
+    ]
+  },
+  {
+    "input_word": "contribute",
+    "entries": [
+      {"text": "contribute", "ipa": "/kənˈtrɪbjuːt/", "cefr": "B2", "zh": "贡献", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "contribution",
+    "entries": [
+      {"text": "contribution", "ipa": "/ˌkɑːntrɪˈbjuːʃən/", "cefr": "B2", "zh": "贡献", "emoji": "🎁"}
+    ]
+  },
+  {
+    "input_word": "control",
+    "entries": [
+      {"text": "control", "ipa": "/kənˈtroʊl/", "cefr": "A2", "zh": "控制", "emoji": "🎮"}
+    ]
+  },
+  {
+    "input_word": "convenient",
+    "entries": [
+      {"text": "convenient", "ipa": "/kənˈviːniənt/", "cefr": "B1", "zh": "方便的", "emoji": "👍"}
+    ]
+  },
+  {
+    "input_word": "conversation",
+    "entries": [
+      {"text": "conversation", "ipa": "/ˌkɑːnvərˈseɪʃən/", "cefr": "A1", "zh": "对话", "emoji": "💬"}
+    ]
+  },
+  {
+    "input_word": "convert",
+    "entries": [
+      {"text": "convert", "ipa": "/kənˈvɜːrt/", "cefr": "B2", "zh": "转换", "emoji": "🔁"}
+    ]
+  },
+  {
+    "input_word": "convince",
+    "entries": [
+      {"text": "convince", "ipa": "/kənˈvɪns/", "cefr": "B1", "zh": "说服", "emoji": "🗣️"}
+    ]
+  },
+  {
+    "input_word": "convinced",
+    "entries": [
+      {"text": "convinced", "ipa": "/kənˈvɪnst/", "cefr": "B2", "zh": "确信的", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_word": "cook",
+    "entries": [
+      {"text": "cook", "ipa": "/kʊk/", "cefr": "A1", "zh": "烹饪", "emoji": "🍳"},
+      {"text": "cook", "ipa": "/kʊk/", "cefr": "A1", "zh": "厨师", "emoji": "👨‍🍳"}
+    ]
+  },
+  {
+    "input_word": "cooker",
+    "entries": [
+      {"text": "cooker", "ipa": "/ˈkʊkər/", "cefr": "A2", "zh": "炉灶", "emoji": "🍲"}
+    ]
+  },
+  {
+    "input_word": "cooking",
+    "entries": [
+      {"text": "cooking", "ipa": "/ˈkʊkɪŋ/", "cefr": "A1", "zh": "烹饪", "emoji": "🍽️"}
+    ]
+  },
+  {
+    "input_word": "cool",
+    "entries": [
+      {"text": "cool", "ipa": "/kuːl/", "cefr": "A1", "zh": "凉爽的", "emoji": "❄️"},
+      {"text": "cool", "ipa": "/kuːl/", "cefr": "A1", "zh": "酷的", "emoji": "😎"}
+    ]
+  },
+  {
+    "input_word": "copy",
+    "entries": [
+      {"text": "copy", "ipa": "/ˈkɑːpi/", "cefr": "A2", "zh": "复制", "emoji": "📋"},
+      {"text": "copy", "ipa": "/ˈkɑːpi/", "cefr": "A2", "zh": "副本", "emoji": "📄"}
+    ]
+  },
+  {
+    "input_word": "core",
+    "entries": [
+      {"text": "core", "ipa": "/kɔːr/", "cefr": "B2", "zh": "核心", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_word": "corner",
+    "entries": [
+      {"text": "corner", "ipa": "/ˈkɔːrnər/", "cefr": "A2", "zh": "角落", "emoji": "📐"}
+    ]
+  },
+  {
+    "input_word": "corporate",
+    "entries": [
+      {"text": "corporate", "ipa": "/ˈkɔːrpərət/", "cefr": "B2", "zh": "企业的", "emoji": "🏢"}
+    ]
+  },
+  {
+    "input_word": "correct",
+    "entries": [
+      {"text": "correct", "ipa": "/kəˈrɛkt/", "cefr": "A1", "zh": "正确的", "emoji": "✅"},
+      {"text": "correct", "ipa": "/kəˈrɛkt/", "cefr": "A1", "zh": "纠正", "emoji": "✏️"}
+    ]
+  },
+  {
+    "input_word": "correctly",
+    "entries": [
+      {"text": "correctly", "ipa": "/kəˈrɛktli/", "cefr": "A2", "zh": "正确地", "emoji": "✔️"}
+    ]
+  },
+  {
+    "input_word": "cost",
+    "entries": [
+      {"text": "cost", "ipa": "/kɔːst/", "cefr": "A1", "zh": "费用", "emoji": "💰"},
+      {"text": "cost", "ipa": "/kɔːst/", "cefr": "A1", "zh": "花费", "emoji": "💸"}
+    ]
+  },
+  {
+    "input_word": "costume",
+    "entries": [
+      {"text": "costume", "ipa": "/ˈkɑːstuːm/", "cefr": "B1", "zh": "服装", "emoji": "🎭"}
+    ]
+  },
+  {
+    "input_word": "cottage",
+    "entries": [
+      {"text": "cottage", "ipa": "/ˈkɑːtɪdʒ/", "cefr": "B1", "zh": "小屋", "emoji": "🏡"}
+    ]
+  },
+  {
+    "input_word": "cotton",
+    "entries": [
+      {"text": "cotton", "ipa": "/ˈkɑːtən/", "cefr": "B1", "zh": "棉花", "emoji": "🌿"}
+    ]
+  },
+  {
+    "input_word": "could",
+    "entries": []
+  },
+  {
+    "input_word": "council",
+    "entries": [
+      {"text": "council", "ipa": "/ˈkaʊnsəl/", "cefr": "B2", "zh": "委员会", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_word": "count",
+    "entries": [
+      {"text": "count", "ipa": "/kaʊnt/", "cefr": "A2", "zh": "数数", "emoji": "🔢"},
+      {"text": "count", "ipa": "/kaʊnt/", "cefr": "A2", "zh": "数量", "emoji": "📊"}
+    ]
+  },
+  {
+    "input_word": "country",
+    "entries": [
+      {"text": "country", "ipa": "/ˈkʌntri/", "cefr": "A1", "zh": "国家", "emoji": "🌍"},
+      {"text": "country", "ipa": "/ˈkʌntri/", "cefr": "A1", "zh": "乡村", "emoji": "🌾"}
+    ]
+  }
+]

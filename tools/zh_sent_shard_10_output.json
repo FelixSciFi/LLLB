@@ -1,0 +1,385 @@
+[
+  {
+    "input_word": "问题",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-0001-4000-8000-000000000001",
+        "text": "这个问题很难。",
+        "ipa": "zhè ɡe wèn tí hěn nán",
+        "translation": { "zh": "这个问题很难。", "en": "This question is very hard." },
+        "cefr": "HSK2",
+        "tokens": [
+          { "text": "这个", "lemma": "这", "ipa": "zhè ɡe", "translation": { "zh": "这个", "en": "this" }, "emoji": "👆" },
+          { "text": "问题", "lemma": "问题", "ipa": "wèn tí", "translation": { "zh": "问题", "en": "question" }, "emoji": "❓" },
+          { "text": "很难", "lemma": "难", "ipa": "hěn nán", "translation": { "zh": "很难", "en": "very hard" }, "emoji": "😣" }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0001-4000-8000-000000000002",
+        "text": "我有一个问题。",
+        "ipa": "wǒ yǒu yī ɡe wèn tí",
+        "translation": { "zh": "我有一个问题。", "en": "I have a question." },
+        "cefr": "HSK1",
+        "tokens": [
+          { "text": "我有", "lemma": "有", "ipa": "wǒ yǒu", "translation": { "zh": "我有", "en": "I have" }, "emoji": "" },
+          { "text": "一个", "lemma": "个", "ipa": "yī ɡe", "translation": { "zh": "一个", "en": "one" }, "emoji": "" },
+          { "text": "问题", "lemma": "问题", "ipa": "wèn tí", "translation": { "zh": "问题", "en": "question" }, "emoji": "❓" }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0001-4000-8000-000000000003",
+        "text": "没问题！",
+        "ipa": "méi wèn tí",
+        "translation": { "zh": "没问题！", "en": "No problem!" },
+        "cefr": "HSK2",
+        "tokens": [
+          { "text": "没问题", "lemma": "问题", "ipa": "méi wèn tí", "translation": { "zh": "没问题", "en": "no problem" }, "emoji": "👍" }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "西瓜",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-0002-4000-8000-000000000001",
+        "text": "我喜欢吃西瓜。",
+        "ipa": "wǒ xǐ huān chī xī ɡuā",
+        "translation": { "zh": "我喜欢吃西瓜。", "en": "I like eating watermelon." },
+        "cefr": "HSK2",
+        "tokens": [
+          { "text": "我喜欢吃", "lemma": "喜欢", "ipa": "wǒ xǐ huān chī", "translation": { "zh": "我喜欢吃", "en": "I like to eat" }, "emoji": "" },
+          { "text": "西瓜", "lemma": "西瓜", "ipa": "xī ɡuā", "translation": { "zh": "西瓜", "en": "watermelon" }, "emoji": "🍉" }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0002-4000-8000-000000000002",
+        "text": "西瓜很甜。",
+        "ipa": "xī ɡuā hěn tián",
+        "translation": { "zh": "西瓜很甜。", "en": "Watermelon is very sweet." },
+        "cefr": "HSK1",
+        "tokens": [
+          { "text": "西瓜", "lemma": "西瓜", "ipa": "xī ɡuā", "translation": { "zh": "西瓜", "en": "watermelon" }, "emoji": "🍉" },
+          { "text": "很甜", "lemma": "甜", "ipa": "hěn tián", "translation": { "zh": "很甜", "en": "very sweet" }, "emoji": "🍬" }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0002-4000-8000-000000000003",
+        "text": "买西瓜吗？",
+        "ipa": "mǎi xī ɡuā ma",
+        "translation": { "zh": "买西瓜吗？", "en": "Are you buying watermelon?" },
+        "cefr": "HSK1",
+        "tokens": [
+          { "text": "买", "lemma": "买", "ipa": "mǎi", "translation": { "zh": "买", "en": "buy" }, "emoji": "🛒" },
+          { "text": "西瓜", "lemma": "西瓜", "ipa": "xī ɡuā", "translation": { "zh": "西瓜", "en": "watermelon" }, "emoji": "🍉" },
+          { "text": "吗", "lemma": "吗", "ipa": "ma", "translation": { "zh": "吗", "en": "question particle" }, "emoji": "" }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "希望",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-0003-4000-8000-000000000001",
+        "text": "我希望天气好。",
+        "ipa": "wǒ xī wàng tiān qì hǎo",
+        "translation": { "zh": "我希望天气好。", "en": "I hope the weather is nice." },
+        "cefr": "HSK2",
+        "tokens": [
+          { "text": "我希望", "lemma": "希望", "ipa": "wǒ xī wàng", "translation": { "zh": "我希望", "en": "I hope" }, "emoji": "🌟" },
+          { "text": "天气", "lemma": "天气", "ipa": "tiān qì", "translation": { "zh": "天气", "en": "weather" }, "emoji": "🌤️" },
+          { "text": "好", "lemma": "好", "ipa": "hǎo", "translation": { "zh": "好", "en": "good" }, "emoji": "👍" }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0003-4000-8000-000000000002",
+        "text": "他有希望。",
+        "ipa": "tā yǒu xī wàng",
+        "translation": { "zh": "他有希望。", "en": "He has hope." },
+        "cefr": "HSK2",
+        "tokens": [
+          { "text": "他有", "lemma": "有", "ipa": "tā yǒu", "translation": { "zh": "他有", "en": "he has" }, "emoji": "" },
+          { "text": "希望", "lemma": "希望", "ipa": "xī wàng", "translation": { "zh": "希望", "en": "hope" }, "emoji": "🌟" }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0003-4000-8000-000000000003",
+        "text": "希望你快乐。",
+        "ipa": "xī wàng nǐ kuài lè",
+        "translation": { "zh": "希望你快乐。", "en": "I hope you're happy." },
+        "cefr": "HSK2",
+        "tokens": [
+          { "text": "希望", "lemma": "希望", "ipa": "xī wàng", "translation": { "zh": "希望", "en": "hope" }, "emoji": "🌟" },
+          { "text": "你", "lemma": "你", "ipa": "nǐ", "translation": { "zh": "你", "en": "you" }, "emoji": "" },
+          { "text": "快乐", "lemma": "快乐", "ipa": "kuài lè", "translation": { "zh": "快乐", "en": "happy" }, "emoji": "😊" }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "洗",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-0004-4000-8000-000000000001",
+        "text": "我洗手。",
+        "ipa": "wǒ xǐ shǒu",
+        "translation": { "zh": "我洗手。", "en": "I wash my hands." },
+        "cefr": "HSK1",
+        "tokens": [
+          { "text": "我洗", "lemma": "洗", "ipa": "wǒ xǐ", "translation": { "zh": "我洗", "en": "I wash" }, "emoji": "🚿" },
+          { "text": "手", "lemma": "手", "ipa": "shǒu", "translation": { "zh": "手", "en": "hands" }, "emoji": "🤲" }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0004-4000-8000-000000000002",
+        "text": "洗衣服了吗？",
+        "ipa": "xǐ yī fu le ma",
+        "translation": { "zh": "洗衣服了吗？", "en": "Did you wash the clothes?" },
+        "cefr": "HSK2",
+        "tokens": [
+          { "text": "洗了", "lemma": "洗", "ipa": "xǐ le", "translation": { "zh": "洗了", "en": "washed" }, "emoji": "🧺" },
+          { "text": "衣服", "lemma": "衣服", "ipa": "yī fu", "translation": { "zh": "衣服", "en": "clothes" }, "emoji": "👕" },
+          { "text": "吗", "lemma": "吗", "ipa": "ma", "translation": { "zh": "吗", "en": "question particle" }, "emoji": "" }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0004-4000-8000-000000000003",
+        "text": "他在洗碗。",
+        "ipa": "tā zài xǐ wǎn",
+        "translation": { "zh": "他在洗碗。", "en": "He is washing dishes." },
+        "cefr": "HSK2",
+        "tokens": [
+          { "text": "他在洗", "lemma": "洗", "ipa": "tā zài xǐ", "translation": { "zh": "他正在洗", "en": "he is washing" }, "emoji": "🚿" },
+          { "text": "碗", "lemma": "碗", "ipa": "wǎn", "translation": { "zh": "碗", "en": "dishes" }, "emoji": "🥣" }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "小时",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-0005-4000-8000-000000000001",
+        "text": "我睡了八个小时。",
+        "ipa": "wǒ shuì le bā ɡe xiǎo shí",
+        "translation": { "zh": "我睡了八个小时。", "en": "I slept for eight hours." },
+        "cefr": "HSK2",
+        "tokens": [
+          { "text": "我睡了", "lemma": "睡", "ipa": "wǒ shuì le", "translation": { "zh": "我睡了", "en": "I slept" }, "emoji": "😴" },
+          { "text": "八个", "lemma": "个", "ipa": "bā ɡe", "translation": { "zh": "八个", "en": "eight" }, "emoji": "8️⃣" },
+          { "text": "小时", "lemma": "小时", "ipa": "xiǎo shí", "translation": { "zh": "小时", "en": "hours" }, "emoji": "⏰" }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0005-4000-8000-000000000002",
+        "text": "一个小时后。",
+        "ipa": "yī ɡe xiǎo shí hòu",
+        "translation": { "zh": "一个小时后。", "en": "In one hour." },
+        "cefr": "HSK2",
+        "tokens": [
+          { "text": "一个", "lemma": "个", "ipa": "yī ɡe", "translation": { "zh": "一个", "en": "one" }, "emoji": "1️⃣" },
+          { "text": "小时后", "lemma": "小时", "ipa": "xiǎo shí hòu", "translation": { "zh": "小时后", "en": "hour later" }, "emoji": "⏰" }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0005-4000-8000-000000000003",
+        "text": "几个小时？",
+        "ipa": "jǐ ɡe xiǎo shí",
+        "translation": { "zh": "几个小时？", "en": "How many hours?" },
+        "cefr": "HSK2",
+        "tokens": [
+          { "text": "几个", "lemma": "几", "ipa": "jǐ ɡe", "translation": { "zh": "几个", "en": "how many" }, "emoji": "🔢" },
+          { "text": "小时", "lemma": "小时", "ipa": "xiǎo shí", "translation": { "zh": "小时", "en": "hours" }, "emoji": "⏰" }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "笑",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-0006-4000-8000-000000000001",
+        "text": "她在笑。",
+        "ipa": "tā zài xiào",
+        "translation": { "zh": "她在笑。", "en": "She is laughing." },
+        "cefr": "HSK1",
+        "tokens": [
+          { "text": "她在笑", "lemma": "笑", "ipa": "tā zài xiào", "translation": { "zh": "她在笑", "en": "she is laughing" }, "emoji": "😄" }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0006-4000-8000-000000000002",
+        "text": "别笑我！",
+        "ipa": "bié xiào wǒ",
+        "translation": { "zh": "别笑我！", "en": "Don't laugh at me!" },
+        "cefr": "HSK2",
+        "tokens": [
+          { "text": "别笑", "lemma": "笑", "ipa": "bié xiào", "translation": { "zh": "别笑", "en": "don't laugh" }, "emoji": "🙅" },
+          { "text": "我", "lemma": "我", "ipa": "wǒ", "translation": { "zh": "我", "en": "me" }, "emoji": "" }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0006-4000-8000-000000000003",
+        "text": "他笑了。",
+        "ipa": "tā xiào le",
+        "translation": { "zh": "他笑了。", "en": "He laughed." },
+        "cefr": "HSK1",
+        "tokens": [
+          { "text": "他笑了", "lemma": "笑", "ipa": "tā xiào le", "translation": { "zh": "他笑了", "en": "he laughed" }, "emoji": "😄" }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "新",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-0007-4000-8000-000000000001",
+        "text": "这是新手机。",
+        "ipa": "zhè shì xīn shǒu jī",
+        "translation": { "zh": "这是新手机。", "en": "This is a new phone." },
+        "cefr": "HSK2",
+        "tokens": [
+          { "text": "这是", "lemma": "是", "ipa": "zhè shì", "translation": { "zh": "这是", "en": "this is" }, "emoji": "" },
+          { "text": "新", "lemma": "新", "ipa": "xīn", "translation": { "zh": "新的", "en": "new" }, "emoji": "✨" },
+          { "text": "手机", "lemma": "手机", "ipa": "shǒu jī", "translation": { "zh": "手机", "en": "phone" }, "emoji": "📱" }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0007-4000-8000-000000000002",
+        "text": "新年快乐！",
+        "ipa": "xīn nián kuài lè",
+        "translation": { "zh": "新年快乐！", "en": "Happy New Year!" },
+        "cefr": "HSK2",
+        "tokens": [
+          { "text": "新年", "lemma": "新年", "ipa": "xīn nián", "translation": { "zh": "新年", "en": "New Year" }, "emoji": "🎊" },
+          { "text": "快乐", "lemma": "快乐", "ipa": "kuài lè", "translation": { "zh": "快乐", "en": "happy" }, "emoji": "😊" }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0007-4000-8000-000000000003",
+        "text": "他买了新衣服。",
+        "ipa": "tā mǎi le xīn yī fu",
+        "translation": { "zh": "他买了新衣服。", "en": "He bought new clothes." },
+        "cefr": "HSK2",
+        "tokens": [
+          { "text": "他买了", "lemma": "买", "ipa": "tā mǎi le", "translation": { "zh": "他买了", "en": "he bought" }, "emoji": "🛒" },
+          { "text": "新", "lemma": "新", "ipa": "xīn", "translation": { "zh": "新的", "en": "new" }, "emoji": "✨" },
+          { "text": "衣服", "lemma": "衣服", "ipa": "yī fu", "translation": { "zh": "衣服", "en": "clothes" }, "emoji": "👕" }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "姓",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-0008-4000-8000-000000000001",
+        "text": "你姓什么？",
+        "ipa": "nǐ xìng shén me",
+        "translation": { "zh": "你姓什么？", "en": "What's your last name?" },
+        "cefr": "HSK1",
+        "tokens": [
+          { "text": "你姓", "lemma": "姓", "ipa": "nǐ xìng", "translation": { "zh": "你姓", "en": "your last name is" }, "emoji": "" },
+          { "text": "什么", "lemma": "什么", "ipa": "shén me", "translation": { "zh": "什么", "en": "what" }, "emoji": "❓" }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0008-4000-8000-000000000002",
+        "text": "我姓王。",
+        "ipa": "wǒ xìng wáng",
+        "translation": { "zh": "我姓王。", "en": "My last name is Wang." },
+        "cefr": "HSK1",
+        "tokens": [
+          { "text": "我姓", "lemma": "姓", "ipa": "wǒ xìng", "translation": { "zh": "我姓", "en": "my last name is" }, "emoji": "" },
+          { "text": "王", "lemma": "王", "ipa": "wáng", "translation": { "zh": "王", "en": "Wang" }, "emoji": "👤" }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0008-4000-8000-000000000003",
+        "text": "他姓李。",
+        "ipa": "tā xìng lǐ",
+        "translation": { "zh": "他姓李。", "en": "His last name is Li." },
+        "cefr": "HSK1",
+        "tokens": [
+          { "text": "他姓", "lemma": "姓", "ipa": "tā xìng", "translation": { "zh": "他姓", "en": "his last name is" }, "emoji": "" },
+          { "text": "李", "lemma": "李", "ipa": "lǐ", "translation": { "zh": "李", "en": "Li" }, "emoji": "👤" }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "休息",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-0009-4000-8000-000000000001",
+        "text": "我要休息。",
+        "ipa": "wǒ yào xiū xi",
+        "translation": { "zh": "我要休息。", "en": "I need to rest." },
+        "cefr": "HSK1",
+        "tokens": [
+          { "text": "我要休息", "lemma": "休息", "ipa": "wǒ yào xiū xi", "translation": { "zh": "我要休息", "en": "I need to rest" }, "emoji": "😴" }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0009-4000-8000-000000000002",
+        "text": "休息一下。",
+        "ipa": "xiū xi yī xià",
+        "translation": { "zh": "休息一下。", "en": "Rest for a bit." },
+        "cefr": "HSK2",
+        "tokens": [
+          { "text": "休息", "lemma": "休息", "ipa": "xiū xi", "translation": { "zh": "休息", "en": "rest" }, "emoji": "😴" },
+          { "text": "一下", "lemma": "一下", "ipa": "yī xià", "translation": { "zh": "一下", "en": "a bit" }, "emoji": "" }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0009-4000-8000-000000000003",
+        "text": "他在休息。",
+        "ipa": "tā zài xiū xi",
+        "translation": { "zh": "他在休息。", "en": "He is resting." },
+        "cefr": "HSK1",
+        "tokens": [
+          { "text": "他在休息", "lemma": "休息", "ipa": "tā zài xiū xi", "translation": { "zh": "他在休息", "en": "he is resting" }, "emoji": "😴" }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "雪",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-0010-4000-8000-000000000001",
+        "text": "下雪了！",
+        "ipa": "xià xuě le",
+        "translation": { "zh": "下雪了！", "en": "It's snowing!" },
+        "cefr": "HSK2",
+        "tokens": [
+          { "text": "下雪了", "lemma": "雪", "ipa": "xià xuě le", "translation": { "zh": "下雪了", "en": "it's snowing" }, "emoji": "❄️" }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0010-4000-8000-000000000002",
+        "text": "雪很白。",
+        "ipa": "xuě hěn bái",
+        "translation": { "zh": "雪很白。", "en": "The snow is very white." },
+        "cefr": "HSK1",
+        "tokens": [
+          { "text": "雪", "lemma": "雪", "ipa": "xuě", "translation": { "zh": "雪", "en": "snow" }, "emoji": "❄️" },
+          { "text": "很白", "lemma": "白", "ipa": "hěn bái", "translation": { "zh": "很白", "en": "very white" }, "emoji": "🤍" }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0010-4000-8000-000000000003",
+        "text": "我喜欢雪。",
+        "ipa": "wǒ xǐ huān xuě",
+        "translation": { "zh": "我喜欢雪。", "en": "I like snow." },
+        "cefr": "HSK1",
+        "tokens": [
+          { "text": "我喜欢", "lemma": "喜欢", "ipa": "wǒ xǐ huān", "translation": { "zh": "我喜欢", "en": "I like" }, "emoji": "" },
+          { "text": "雪", "lemma": "雪", "ipa": "xuě", "translation": { "zh": "雪", "en": "snow" }, "emoji": "❄️" }
+        ]
+      }
+    ]
+  }
+]

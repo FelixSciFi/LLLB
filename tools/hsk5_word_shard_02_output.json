@@ -1,0 +1,176 @@
+[
+  {
+    "input_text": "不安",
+    "entries": [
+      {"text": "不安", "pinyin": "bù ān", "en": "uneasy; restless", "emoji": "😟"}
+    ]
+  },
+  {
+    "input_text": "不得了",
+    "entries": [
+      {"text": "不得了", "pinyin": "bù dé liǎo", "en": "extremely; terrible", "emoji": "😱"}
+    ]
+  },
+  {
+    "input_text": "不断",
+    "entries": [
+      {"text": "不断", "pinyin": "bù duàn", "en": "continuously; unceasing", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "不见得",
+    "entries": [
+      {"text": "不见得", "pinyin": "bù jiàn de", "en": "not necessarily", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "不耐烦",
+    "entries": [
+      {"text": "不耐烦", "pinyin": "bù nài fán", "en": "impatient; irritated", "emoji": "😤"}
+    ]
+  },
+  {
+    "input_text": "不然",
+    "entries": [
+      {"text": "不然", "pinyin": "bù rán", "en": "otherwise; if not", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "不如",
+    "entries": [
+      {"text": "不如", "pinyin": "bù rú", "en": "not as good as; better to", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "不要紧",
+    "entries": [
+      {"text": "不要紧", "pinyin": "bù yào jǐn", "en": "it doesn't matter", "emoji": "🙆"}
+    ]
+  },
+  {
+    "input_text": "不足",
+    "entries": [
+      {"text": "不足", "pinyin": "bù zú", "en": "insufficient; lacking", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "布",
+    "entries": [
+      {"text": "布", "pinyin": "bù", "en": "cloth; fabric", "emoji": "🧵"}
+    ]
+  },
+  {
+    "input_text": "步骤",
+    "entries": [
+      {"text": "步骤", "pinyin": "bù zhòu", "en": "step; procedure", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "部门",
+    "entries": [
+      {"text": "部门", "pinyin": "bù mén", "en": "department; division", "emoji": "🏢"}
+    ]
+  },
+  {
+    "input_text": "财产",
+    "entries": [
+      {"text": "财产", "pinyin": "cái chǎn", "en": "property; assets", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_text": "采访",
+    "entries": [
+      {"text": "采访", "pinyin": "cǎi fǎng", "en": "interview; report on", "emoji": "🎤"}
+    ]
+  },
+  {
+    "input_text": "采取",
+    "entries": [
+      {"text": "采取", "pinyin": "cǎi qǔ", "en": "adopt; take (measures)", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "彩虹",
+    "entries": [
+      {"text": "彩虹", "pinyin": "cǎi hóng", "en": "rainbow", "emoji": "🌈"}
+    ]
+  },
+  {
+    "input_text": "踩",
+    "entries": [
+      {"text": "踩", "pinyin": "cǎi", "en": "step on; tread", "emoji": "👣"}
+    ]
+  },
+  {
+    "input_text": "参考",
+    "entries": [
+      {"text": "参考", "pinyin": "cān kǎo", "en": "reference; consult", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_text": "参与",
+    "entries": [
+      {"text": "参与", "pinyin": "cān yù", "en": "participate in", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_text": "惭愧",
+    "entries": [
+      {"text": "惭愧", "pinyin": "cán kuì", "en": "ashamed; embarrassed", "emoji": "😳"}
+    ]
+  },
+  {
+    "input_text": "操场",
+    "entries": [
+      {"text": "操场", "pinyin": "cāo chǎng", "en": "playground; sports field", "emoji": "🏃"}
+    ]
+  },
+  {
+    "input_text": "操心",
+    "entries": [
+      {"text": "操心", "pinyin": "cāo xīn", "en": "worry; be concerned", "emoji": "😰"}
+    ]
+  },
+  {
+    "input_text": "册",
+    "entries": [
+      {"text": "册", "pinyin": "cè", "en": "volume; booklet", "emoji": "📔"}
+    ]
+  },
+  {
+    "input_text": "测验",
+    "entries": [
+      {"text": "测验", "pinyin": "cè yàn", "en": "test; quiz", "emoji": "📝"}
+    ]
+  },
+  {
+    "input_text": "叉子",
+    "entries": [
+      {"text": "叉子", "pinyin": "chā zi", "en": "fork (utensil)", "emoji": "🍴"}
+    ]
+  },
+  {
+    "input_text": "差距",
+    "entries": [
+      {"text": "差距", "pinyin": "chā jù", "en": "gap; disparity", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "插",
+    "entries": [
+      {"text": "插", "pinyin": "chā", "en": "insert; plug in", "emoji": "🔌"}
+    ]
+  },
+  {
+    "input_text": "拆",
+    "entries": [
+      {"text": "拆", "pinyin": "chāi", "en": "dismantle; tear open", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "产品",
+    "entries": [
+      {"text": "产品", "pinyin": "chǎn pǐn", "en": "product; goods", "emoji": "📦"}
+    ]
+  }
+]

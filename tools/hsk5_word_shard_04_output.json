@@ -1,0 +1,183 @@
+[
+  {
+    "input_text": "程度",
+    "entries": [
+      {"text": "程度", "pinyin": "chéng dù", "en": "degree, extent", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "程序",
+    "entries": [
+      {"text": "程序", "pinyin": "chéng xù", "en": "procedure, program", "emoji": "💻"}
+    ]
+  },
+  {
+    "input_text": "吃亏",
+    "entries": [
+      {"text": "吃亏", "pinyin": "chī kuī", "en": "suffer a loss", "emoji": "😔"}
+    ]
+  },
+  {
+    "input_text": "池塘",
+    "entries": [
+      {"text": "池塘", "pinyin": "chí táng", "en": "pond", "emoji": "🌿"}
+    ]
+  },
+  {
+    "input_text": "迟早",
+    "entries": [
+      {"text": "迟早", "pinyin": "chí zǎo", "en": "sooner or later", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "持续",
+    "entries": [
+      {"text": "持续", "pinyin": "chí xù", "en": "continue, sustain", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "尺子",
+    "entries": [
+      {"text": "尺子", "pinyin": "chǐ zi", "en": "ruler", "emoji": "📏"}
+    ]
+  },
+  {
+    "input_text": "翅膀",
+    "entries": [
+      {"text": "翅膀", "pinyin": "chì bǎng", "en": "wing", "emoji": "🪶"}
+    ]
+  },
+  {
+    "input_text": "冲",
+    "entries": [
+      {"text": "冲", "pinyin": "chōng", "en": "rush, rinse", "emoji": "💨"},
+      {"text": "冲", "pinyin": "chòng", "en": "face towards", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "充电器",
+    "entries": [
+      {"text": "充电器", "pinyin": "chōng diàn qì", "en": "charger", "emoji": "🔌"}
+    ]
+  },
+  {
+    "input_text": "充分",
+    "entries": [
+      {"text": "充分", "pinyin": "chōng fèn", "en": "fully, sufficient", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "充满",
+    "entries": [
+      {"text": "充满", "pinyin": "chōng mǎn", "en": "filled with, full of", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "重复",
+    "entries": [
+      {"text": "重复", "pinyin": "chóng fù", "en": "repeat, duplicate", "emoji": "🔁"}
+    ]
+  },
+  {
+    "input_text": "宠物",
+    "entries": [
+      {"text": "宠物", "pinyin": "chǒng wù", "en": "pet", "emoji": "🐾"}
+    ]
+  },
+  {
+    "input_text": "抽屉",
+    "entries": [
+      {"text": "抽屉", "pinyin": "chōu ti", "en": "drawer", "emoji": "🗄️"}
+    ]
+  },
+  {
+    "input_text": "抽象",
+    "entries": [
+      {"text": "抽象", "pinyin": "chōu xiàng", "en": "abstract", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "丑",
+    "entries": [
+      {"text": "丑", "pinyin": "chǒu", "en": "ugly", "emoji": "😬"}
+    ]
+  },
+  {
+    "input_text": "臭",
+    "entries": [
+      {"text": "臭", "pinyin": "chòu", "en": "smelly, stinky", "emoji": "🤢"}
+    ]
+  },
+  {
+    "input_text": "出版",
+    "entries": [
+      {"text": "出版", "pinyin": "chū bǎn", "en": "publish", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_text": "出口",
+    "entries": [
+      {"text": "出口", "pinyin": "chū kǒu", "en": "exit; export", "emoji": "🚪"}
+    ]
+  },
+  {
+    "input_text": "出色",
+    "entries": [
+      {"text": "出色", "pinyin": "chū sè", "en": "outstanding, excellent", "emoji": "⭐"}
+    ]
+  },
+  {
+    "input_text": "出示",
+    "entries": [
+      {"text": "出示", "pinyin": "chū shì", "en": "show, present", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "出席",
+    "entries": [
+      {"text": "出席", "pinyin": "chū xí", "en": "attend, be present", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "初级",
+    "entries": [
+      {"text": "初级", "pinyin": "chū jí", "en": "elementary, basic", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "除非",
+    "entries": [
+      {"text": "除非", "pinyin": "chú fēi", "en": "unless", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "除夕",
+    "entries": [
+      {"text": "除夕", "pinyin": "chú xī", "en": "New Year's Eve", "emoji": "🎆"}
+    ]
+  },
+  {
+    "input_text": "处理",
+    "entries": [
+      {"text": "处理", "pinyin": "chǔ lǐ", "en": "handle, process", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "传播",
+    "entries": [
+      {"text": "传播", "pinyin": "chuán bō", "en": "spread, disseminate", "emoji": "📡"}
+    ]
+  },
+  {
+    "input_text": "传染",
+    "entries": [
+      {"text": "传染", "pinyin": "chuán rǎn", "en": "infect, be contagious", "emoji": "🦠"}
+    ]
+  },
+  {
+    "input_text": "传说",
+    "entries": [
+      {"text": "传说", "pinyin": "chuán shuō", "en": "legend, folklore", "emoji": "📜"}
+    ]
+  }
+]

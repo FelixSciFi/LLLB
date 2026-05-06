@@ -1,0 +1,176 @@
+[
+  {
+    "input_text": "诗",
+    "entries": [
+      {"text": "诗", "pinyin": "shī", "en": "poem; poetry", "emoji": "📜"}
+    ]
+  },
+  {
+    "input_text": "狮子",
+    "entries": [
+      {"text": "狮子", "pinyin": "shī zi", "en": "lion", "emoji": "🦁"}
+    ]
+  },
+  {
+    "input_text": "湿润",
+    "entries": [
+      {"text": "湿润", "pinyin": "shī rùn", "en": "moist; humid", "emoji": "💧"}
+    ]
+  },
+  {
+    "input_text": "石头",
+    "entries": [
+      {"text": "石头", "pinyin": "shí tou", "en": "stone; rock", "emoji": "🪨"}
+    ]
+  },
+  {
+    "input_text": "时差",
+    "entries": [
+      {"text": "时差", "pinyin": "shí chā", "en": "time difference; jet lag", "emoji": "🕐"}
+    ]
+  },
+  {
+    "input_text": "时代",
+    "entries": [
+      {"text": "时代", "pinyin": "shí dài", "en": "era; age", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "时刻",
+    "entries": [
+      {"text": "时刻", "pinyin": "shí kè", "en": "moment; instant", "emoji": "⏱️"}
+    ]
+  },
+  {
+    "input_text": "时髦",
+    "entries": [
+      {"text": "时髦", "pinyin": "shí máo", "en": "fashionable; trendy", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_text": "时期",
+    "entries": [
+      {"text": "时期", "pinyin": "shí qī", "en": "period; phase", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "时尚",
+    "entries": [
+      {"text": "时尚", "pinyin": "shí shàng", "en": "fashion; trendy", "emoji": "👗"}
+    ]
+  },
+  {
+    "input_text": "实话",
+    "entries": [
+      {"text": "实话", "pinyin": "shí huà", "en": "truth; honest words", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "实践",
+    "entries": [
+      {"text": "实践", "pinyin": "shí jiàn", "en": "practice; put into practice", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "实习",
+    "entries": [
+      {"text": "实习", "pinyin": "shí xí", "en": "intern; do an internship", "emoji": "💼"}
+    ]
+  },
+  {
+    "input_text": "实现",
+    "entries": [
+      {"text": "实现", "pinyin": "shí xiàn", "en": "realize; achieve", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_text": "实验",
+    "entries": [
+      {"text": "实验", "pinyin": "shí yàn", "en": "experiment; test", "emoji": "🧪"}
+    ]
+  },
+  {
+    "input_text": "实用",
+    "entries": [
+      {"text": "实用", "pinyin": "shí yòng", "en": "practical; useful", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "食物",
+    "entries": [
+      {"text": "食物", "pinyin": "shí wù", "en": "food", "emoji": "🍽️"}
+    ]
+  },
+  {
+    "input_text": "使劲儿",
+    "entries": [
+      {"text": "使劲儿", "pinyin": "shǐ jìn er", "en": "exert force; try hard", "emoji": "💪"}
+    ]
+  },
+  {
+    "input_text": "始终",
+    "entries": [
+      {"text": "始终", "pinyin": "shǐ zhōng", "en": "always; throughout", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "士兵",
+    "entries": [
+      {"text": "士兵", "pinyin": "shì bīng", "en": "soldier", "emoji": "🪖"}
+    ]
+  },
+  {
+    "input_text": "市场",
+    "entries": [
+      {"text": "市场", "pinyin": "shì chǎng", "en": "market", "emoji": "🏪"}
+    ]
+  },
+  {
+    "input_text": "事实",
+    "entries": [
+      {"text": "事实", "pinyin": "shì shí", "en": "fact", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "事物",
+    "entries": [
+      {"text": "事物", "pinyin": "shì wù", "en": "thing; matter", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "事先",
+    "entries": [
+      {"text": "事先", "pinyin": "shì xiān", "en": "in advance; beforehand", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "试卷",
+    "entries": [
+      {"text": "试卷", "pinyin": "shì juàn", "en": "exam paper; test paper", "emoji": "📝"}
+    ]
+  },
+  {
+    "input_text": "收获",
+    "entries": [
+      {"text": "收获", "pinyin": "shōu huò", "en": "harvest; gain", "emoji": "🌾"}
+    ]
+  },
+  {
+    "input_text": "收据",
+    "entries": [
+      {"text": "收据", "pinyin": "shōu jù", "en": "receipt", "emoji": "🧾"}
+    ]
+  },
+  {
+    "input_text": "手工",
+    "entries": [
+      {"text": "手工", "pinyin": "shǒu gōng", "en": "handcraft; manual work", "emoji": "✋"}
+    ]
+  },
+  {
+    "input_text": "手术",
+    "entries": [
+      {"text": "手术", "pinyin": "shǒu shù", "en": "surgery; operation", "emoji": "🏥"}
+    ]
+  }
+]

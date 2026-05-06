@@ -1,0 +1,188 @@
+[
+  {
+    "input_word": "model",
+    "entries": [
+      {"text": "model", "ipa": "/ˈmɑːdəl/", "cefr": "A1", "zh": "模型", "emoji": "🏗️"},
+      {"text": "model", "ipa": "/ˈmɑːdəl/", "cefr": "A1", "zh": "模特", "emoji": "💃"}
+    ]
+  },
+  {
+    "input_word": "modern",
+    "entries": [
+      {"text": "modern", "ipa": "/ˈmɑːdərn/", "cefr": "A1", "zh": "现代的", "emoji": "🏙️"}
+    ]
+  },
+  {
+    "input_word": "modify",
+    "entries": [
+      {"text": "modify", "ipa": "/ˈmɑːdɪfaɪ/", "cefr": "B2", "zh": "修改", "emoji": "✏️"}
+    ]
+  },
+  {
+    "input_word": "moment",
+    "entries": [
+      {"text": "moment", "ipa": "/ˈmoʊmənt/", "cefr": "A1", "zh": "时刻", "emoji": "⏱️"}
+    ]
+  },
+  {
+    "input_word": "monday",
+    "entries": [
+      {"text": "Monday", "ipa": "/ˈmʌndeɪ/", "cefr": "A1", "zh": "星期一", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_word": "money",
+    "entries": [
+      {"text": "money", "ipa": "/ˈmʌni/", "cefr": "A1", "zh": "钱", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_word": "monitor",
+    "entries": [
+      {"text": "monitor", "ipa": "/ˈmɑːnɪtər/", "cefr": "B2", "zh": "显示器", "emoji": "🖥️"},
+      {"text": "monitor", "ipa": "/ˈmɑːnɪtər/", "cefr": "B2", "zh": "监控", "emoji": "📡"}
+    ]
+  },
+  {
+    "input_word": "monkey",
+    "entries": [
+      {"text": "monkey", "ipa": "/ˈmʌŋki/", "cefr": "A2", "zh": "猴子", "emoji": "🐒"}
+    ]
+  },
+  {
+    "input_word": "month",
+    "entries": [
+      {"text": "month", "ipa": "/mʌnθ/", "cefr": "A1", "zh": "月份", "emoji": "📆"}
+    ]
+  },
+  {
+    "input_word": "mood",
+    "entries": [
+      {"text": "mood", "ipa": "/muːd/", "cefr": "B1", "zh": "心情", "emoji": "😊"}
+    ]
+  },
+  {
+    "input_word": "moon",
+    "entries": [
+      {"text": "moon", "ipa": "/muːn/", "cefr": "A2", "zh": "月亮", "emoji": "🌙"}
+    ]
+  },
+  {
+    "input_word": "moral",
+    "entries": [
+      {"text": "moral", "ipa": "/ˈmɔːrəl/", "cefr": "B2", "zh": "道德的", "emoji": "⚖️"},
+      {"text": "moral", "ipa": "/ˈmɔːrəl/", "cefr": "B2", "zh": "寓意", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_word": "more",
+    "entries": [
+      {"text": "more", "ipa": "/mɔːr/", "cefr": "A1", "zh": "更多", "emoji": "➕"}
+    ]
+  },
+  {
+    "input_word": "morning",
+    "entries": [
+      {"text": "morning", "ipa": "/ˈmɔːrnɪŋ/", "cefr": "A1", "zh": "早晨", "emoji": "🌅"}
+    ]
+  },
+  {
+    "input_word": "most",
+    "entries": [
+      {"text": "most", "ipa": "/moʊst/", "cefr": "A1", "zh": "最多", "emoji": "🏆"}
+    ]
+  },
+  {
+    "input_word": "mostly",
+    "entries": [
+      {"text": "mostly", "ipa": "/ˈmoʊstli/", "cefr": "A2", "zh": "大多数", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "mother",
+    "entries": [
+      {"text": "mother", "ipa": "/ˈmʌðər/", "cefr": "A1", "zh": "母亲", "emoji": "👩"}
+    ]
+  },
+  {
+    "input_word": "motor",
+    "entries": [
+      {"text": "motor", "ipa": "/ˈmoʊtər/", "cefr": "B2", "zh": "马达", "emoji": "⚙️"}
+    ]
+  },
+  {
+    "input_word": "motorcycle",
+    "entries": [
+      {"text": "motorcycle", "ipa": "/ˈmoʊtərˌsaɪkəl/", "cefr": "A2", "zh": "摩托车", "emoji": "🏍️"}
+    ]
+  },
+  {
+    "input_word": "mount",
+    "entries": [
+      {"text": "mount", "ipa": "/maʊnt/", "cefr": "B2", "zh": "山峰", "emoji": "⛰️"},
+      {"text": "mount", "ipa": "/maʊnt/", "cefr": "B2", "zh": "安装", "emoji": "🔧"}
+    ]
+  },
+  {
+    "input_word": "mountain",
+    "entries": [
+      {"text": "mountain", "ipa": "/ˈmaʊntən/", "cefr": "A1", "zh": "山", "emoji": "🏔️"}
+    ]
+  },
+  {
+    "input_word": "mouse",
+    "entries": [
+      {"text": "mouse", "ipa": "/maʊs/", "cefr": "A1", "zh": "老鼠", "emoji": "🐭"},
+      {"text": "mouse", "ipa": "/maʊs/", "cefr": "A1", "zh": "鼠标", "emoji": "🖱️"}
+    ]
+  },
+  {
+    "input_word": "mouth",
+    "entries": [
+      {"text": "mouth", "ipa": "/maʊθ/", "cefr": "A1", "zh": "嘴", "emoji": "👄"}
+    ]
+  },
+  {
+    "input_word": "move",
+    "entries": [
+      {"text": "move", "ipa": "/muːv/", "cefr": "A1", "zh": "移动", "emoji": "🚶"}
+    ]
+  },
+  {
+    "input_word": "movement",
+    "entries": [
+      {"text": "movement", "ipa": "/ˈmuːvmənt/", "cefr": "A2", "zh": "运动", "emoji": "🏃"},
+      {"text": "movement", "ipa": "/ˈmuːvmənt/", "cefr": "A2", "zh": "社会运动", "emoji": "✊"}
+    ]
+  },
+  {
+    "input_word": "movie",
+    "entries": [
+      {"text": "movie", "ipa": "/ˈmuːvi/", "cefr": "A1", "zh": "电影", "emoji": "🎬"}
+    ]
+  },
+  {
+    "input_word": "much",
+    "entries": [
+      {"text": "much", "ipa": "/mʌtʃ/", "cefr": "A1", "zh": "很多", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "mud",
+    "entries": [
+      {"text": "mud", "ipa": "/mʌd/", "cefr": "B1", "zh": "泥巴", "emoji": "🟤"}
+    ]
+  },
+  {
+    "input_word": "multiple",
+    "entries": [
+      {"text": "multiple", "ipa": "/ˈmʌltɪpəl/", "cefr": "B2", "zh": "多个的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "multiply",
+    "entries": [
+      {"text": "multiply", "ipa": "/ˈmʌltɪplaɪ/", "cefr": "B2", "zh": "相乘", "emoji": "✖️"}
+    ]
+  }
+]

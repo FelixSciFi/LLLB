@@ -1,0 +1,185 @@
+[
+  {
+    "input_word": "vacation",
+    "entries": [
+      {"text": "vacation", "ipa": "/veɪˈkeɪʃən/", "cefr": "A1", "zh": "假期", "emoji": "🏖️"}
+    ]
+  },
+  {
+    "input_word": "valley",
+    "entries": [
+      {"text": "valley", "ipa": "/ˈvæli/", "cefr": "A2", "zh": "山谷", "emoji": "🏔️"}
+    ]
+  },
+  {
+    "input_word": "valuable",
+    "entries": [
+      {"text": "valuable", "ipa": "/ˈvæljuəbəl/", "cefr": "B1", "zh": "有价值的", "emoji": "💎"}
+    ]
+  },
+  {
+    "input_word": "value",
+    "entries": [
+      {"text": "value", "ipa": "/ˈvælju/", "cefr": "B1", "zh": "价值", "emoji": "💰"},
+      {"text": "value", "ipa": "/ˈvælju/", "cefr": "B1", "zh": "重视", "emoji": "🙌"}
+    ]
+  },
+  {
+    "input_word": "van",
+    "entries": [
+      {"text": "van", "ipa": "/væn/", "cefr": "A2", "zh": "厢式车", "emoji": "🚐"}
+    ]
+  },
+  {
+    "input_word": "variety",
+    "entries": [
+      {"text": "variety", "ipa": "/vəˈraɪəti/", "cefr": "A2", "zh": "多样性", "emoji": "🎨"}
+    ]
+  },
+  {
+    "input_word": "various",
+    "entries": [
+      {"text": "various", "ipa": "/ˈvɛriəs/", "cefr": "B1", "zh": "各种各样", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "vary",
+    "entries": [
+      {"text": "vary", "ipa": "/ˈvɛri/", "cefr": "B2", "zh": "变化", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "vast",
+    "entries": [
+      {"text": "vast", "ipa": "/væst/", "cefr": "B2", "zh": "广阔的", "emoji": "🌌"}
+    ]
+  },
+  {
+    "input_word": "vegetable",
+    "entries": [
+      {"text": "vegetable", "ipa": "/ˈvɛdʒtəbəl/", "cefr": "A1", "zh": "蔬菜", "emoji": "🥦"}
+    ]
+  },
+  {
+    "input_word": "vehicle",
+    "entries": [
+      {"text": "vehicle", "ipa": "/ˈviɪkəl/", "cefr": "A2", "zh": "交通工具", "emoji": "🚗"}
+    ]
+  },
+  {
+    "input_word": "venue",
+    "entries": [
+      {"text": "venue", "ipa": "/ˈvɛnju/", "cefr": "B2", "zh": "场地", "emoji": "🏟️"}
+    ]
+  },
+  {
+    "input_word": "version",
+    "entries": [
+      {"text": "version", "ipa": "/ˈvɜːrʒən/", "cefr": "B1", "zh": "版本", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "very",
+    "entries": [
+      {"text": "very", "ipa": "/ˈvɛri/", "cefr": "A1", "zh": "非常", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "via",
+    "entries": [
+      {"text": "via", "ipa": "/ˈvaɪə/", "cefr": "B2", "zh": "经由", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "victim",
+    "entries": [
+      {"text": "victim", "ipa": "/ˈvɪktɪm/", "cefr": "B1", "zh": "受害者", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "victory",
+    "entries": [
+      {"text": "victory", "ipa": "/ˈvɪktəri/", "cefr": "B2", "zh": "胜利", "emoji": "🏆"}
+    ]
+  },
+  {
+    "input_word": "video",
+    "entries": [
+      {"text": "video", "ipa": "/ˈvɪdioʊ/", "cefr": "A1", "zh": "视频", "emoji": "📹"}
+    ]
+  },
+  {
+    "input_word": "view",
+    "entries": [
+      {"text": "view", "ipa": "/vjuː/", "cefr": "A2", "zh": "景色", "emoji": "🌄"},
+      {"text": "view", "ipa": "/vjuː/", "cefr": "A2", "zh": "观点", "emoji": "💬"}
+    ]
+  },
+  {
+    "input_word": "viewer",
+    "entries": [
+      {"text": "viewer", "ipa": "/ˈvjuːər/", "cefr": "B1", "zh": "观看者", "emoji": "👁️"}
+    ]
+  },
+  {
+    "input_word": "village",
+    "entries": [
+      {"text": "village", "ipa": "/ˈvɪlɪdʒ/", "cefr": "A1", "zh": "村庄", "emoji": "🏘️"}
+    ]
+  },
+  {
+    "input_word": "violence",
+    "entries": [
+      {"text": "violence", "ipa": "/ˈvaɪələns/", "cefr": "B2", "zh": "暴力", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "violent",
+    "entries": [
+      {"text": "violent", "ipa": "/ˈvaɪələnt/", "cefr": "B1", "zh": "暴力的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "virtual",
+    "entries": [
+      {"text": "virtual", "ipa": "/ˈvɜːrtʃuəl/", "cefr": "B2", "zh": "虚拟的", "emoji": "💻"}
+    ]
+  },
+  {
+    "input_word": "virus",
+    "entries": [
+      {"text": "virus", "ipa": "/ˈvaɪrəs/", "cefr": "A2", "zh": "病毒", "emoji": "🦠"}
+    ]
+  },
+  {
+    "input_word": "vision",
+    "entries": [
+      {"text": "vision", "ipa": "/ˈvɪʒən/", "cefr": "B2", "zh": "视力", "emoji": "👁️"},
+      {"text": "vision", "ipa": "/ˈvɪʒən/", "cefr": "B2", "zh": "愿景", "emoji": "🌟"}
+    ]
+  },
+  {
+    "input_word": "visit",
+    "entries": [
+      {"text": "visit", "ipa": "/ˈvɪzɪt/", "cefr": "A1", "zh": "参观", "emoji": "🗺️"}
+    ]
+  },
+  {
+    "input_word": "visitor",
+    "entries": [
+      {"text": "visitor", "ipa": "/ˈvɪzɪtər/", "cefr": "A1", "zh": "访客", "emoji": "🧑‍💼"}
+    ]
+  },
+  {
+    "input_word": "visual",
+    "entries": [
+      {"text": "visual", "ipa": "/ˈvɪʒuəl/", "cefr": "B2", "zh": "视觉的", "emoji": "👁️"}
+    ]
+  },
+  {
+    "input_word": "vital",
+    "entries": [
+      {"text": "vital", "ipa": "/ˈvaɪtəl/", "cefr": "B2", "zh": "至关重要", "emoji": ""}
+    ]
+  }
+]

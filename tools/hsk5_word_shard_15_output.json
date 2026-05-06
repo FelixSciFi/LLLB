@@ -1,0 +1,183 @@
+[
+  {
+    "input_text": "纪律",
+    "entries": [
+      {"text": "纪律", "pinyin": "jì lǜ", "en": "discipline; rules", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "纪念",
+    "entries": [
+      {"text": "纪念", "pinyin": "jì niàn", "en": "commemorate; souvenir", "emoji": "🏅"}
+    ]
+  },
+  {
+    "input_text": "系领带",
+    "entries": [
+      {"text": "系领带", "pinyin": "jì lǐng dài", "en": "tie a necktie", "emoji": "👔"}
+    ]
+  },
+  {
+    "input_text": "寂寞",
+    "entries": [
+      {"text": "寂寞", "pinyin": "jì mò", "en": "lonely; lonesome", "emoji": "😔"}
+    ]
+  },
+  {
+    "input_text": "夹子",
+    "entries": [
+      {"text": "夹子", "pinyin": "jiā zi", "en": "clip; clamp", "emoji": "🪄"}
+    ]
+  },
+  {
+    "input_text": "家庭",
+    "entries": [
+      {"text": "家庭", "pinyin": "jiā tíng", "en": "family; household", "emoji": "👨‍👩‍👧‍👦"}
+    ]
+  },
+  {
+    "input_text": "家务",
+    "entries": [
+      {"text": "家务", "pinyin": "jiā wù", "en": "household chores", "emoji": "🧹"}
+    ]
+  },
+  {
+    "input_text": "家乡",
+    "entries": [
+      {"text": "家乡", "pinyin": "jiā xiāng", "en": "hometown", "emoji": "🏡"}
+    ]
+  },
+  {
+    "input_text": "嘉宾",
+    "entries": [
+      {"text": "嘉宾", "pinyin": "jiā bīn", "en": "honored guest", "emoji": "🌟"}
+    ]
+  },
+  {
+    "input_text": "甲",
+    "entries": [
+      {"text": "甲", "pinyin": "jiǎ", "en": "first; No. 1", "emoji": "🥇"},
+      {"text": "甲", "pinyin": "jiǎ", "en": "shell; armor", "emoji": "🐢"}
+    ]
+  },
+  {
+    "input_text": "假如",
+    "entries": [
+      {"text": "假如", "pinyin": "jiǎ rú", "en": "if; supposing", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "假设",
+    "entries": [
+      {"text": "假设", "pinyin": "jiǎ shè", "en": "assume; hypothesis", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "假装",
+    "entries": [
+      {"text": "假装", "pinyin": "jiǎ zhuāng", "en": "pretend; fake", "emoji": "🎭"}
+    ]
+  },
+  {
+    "input_text": "价值",
+    "entries": [
+      {"text": "价值", "pinyin": "jià zhí", "en": "value; worth", "emoji": "💎"}
+    ]
+  },
+  {
+    "input_text": "驾驶",
+    "entries": [
+      {"text": "驾驶", "pinyin": "jià shǐ", "en": "drive; pilot", "emoji": "🚗"}
+    ]
+  },
+  {
+    "input_text": "嫁",
+    "entries": [
+      {"text": "嫁", "pinyin": "jià", "en": "marry (woman marries)", "emoji": "👰"}
+    ]
+  },
+  {
+    "input_text": "坚决",
+    "entries": [
+      {"text": "坚决", "pinyin": "jiān jué", "en": "resolute; firm", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "坚强",
+    "entries": [
+      {"text": "坚强", "pinyin": "jiān qiáng", "en": "strong; resilient", "emoji": "💪"}
+    ]
+  },
+  {
+    "input_text": "肩膀",
+    "entries": [
+      {"text": "肩膀", "pinyin": "jiān bǎng", "en": "shoulder", "emoji": "🫱"}
+    ]
+  },
+  {
+    "input_text": "艰巨",
+    "entries": [
+      {"text": "艰巨", "pinyin": "jiān jù", "en": "arduous; formidable", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "艰苦",
+    "entries": [
+      {"text": "艰苦", "pinyin": "jiān kǔ", "en": "hard; tough", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "兼职",
+    "entries": [
+      {"text": "兼职", "pinyin": "jiān zhí", "en": "part-time job", "emoji": "💼"}
+    ]
+  },
+  {
+    "input_text": "捡",
+    "entries": [
+      {"text": "捡", "pinyin": "jiǎn", "en": "pick up; collect", "emoji": "🤏"}
+    ]
+  },
+  {
+    "input_text": "剪刀",
+    "entries": [
+      {"text": "剪刀", "pinyin": "jiǎn dāo", "en": "scissors", "emoji": "✂️"}
+    ]
+  },
+  {
+    "input_text": "简历",
+    "entries": [
+      {"text": "简历", "pinyin": "jiǎn lì", "en": "resume; CV", "emoji": "📄"}
+    ]
+  },
+  {
+    "input_text": "简直",
+    "entries": [
+      {"text": "简直", "pinyin": "jiǎn zhí", "en": "simply; absolutely", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "建立",
+    "entries": [
+      {"text": "建立", "pinyin": "jiàn lì", "en": "establish; set up", "emoji": "🏗️"}
+    ]
+  },
+  {
+    "input_text": "建设",
+    "entries": [
+      {"text": "建设", "pinyin": "jiàn shè", "en": "construction; develop", "emoji": "🏗️"}
+    ]
+  },
+  {
+    "input_text": "建筑",
+    "entries": [
+      {"text": "建筑", "pinyin": "jiàn zhù", "en": "building; architecture", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_text": "健身",
+    "entries": [
+      {"text": "健身", "pinyin": "jiàn shēn", "en": "fitness; work out", "emoji": "🏋️"}
+    ]
+  }
+]

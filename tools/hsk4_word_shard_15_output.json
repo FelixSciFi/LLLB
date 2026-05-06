@@ -1,0 +1,318 @@
+[
+  {
+    "input_text": "卫生间",
+    "entries": [
+      {
+        "text": "卫生间",
+        "pinyin": "wèi shēng jiān",
+        "en": "restroom",
+        "emoji": "🚻"
+      }
+    ]
+  },
+  {
+    "input_text": "味道",
+    "entries": [
+      {
+        "text": "味道",
+        "pinyin": "wèi dào",
+        "en": "flavor, taste",
+        "emoji": "👅"
+      }
+    ]
+  },
+  {
+    "input_text": "温度",
+    "entries": [
+      {
+        "text": "温度",
+        "pinyin": "wēn dù",
+        "en": "temperature",
+        "emoji": "🌡️"
+      }
+    ]
+  },
+  {
+    "input_text": "文章",
+    "entries": [
+      {
+        "text": "文章",
+        "pinyin": "wén zhāng",
+        "en": "article, essay",
+        "emoji": "📄"
+      }
+    ]
+  },
+  {
+    "input_text": "污染",
+    "entries": [
+      {
+        "text": "污染",
+        "pinyin": "wū rǎn",
+        "en": "pollution, contaminate",
+        "emoji": "🏭"
+      }
+    ]
+  },
+  {
+    "input_text": "无",
+    "entries": []
+  },
+  {
+    "input_text": "无聊",
+    "entries": [
+      {
+        "text": "无聊",
+        "pinyin": "wú liáo",
+        "en": "boring, bored",
+        "emoji": "😑"
+      }
+    ]
+  },
+  {
+    "input_text": "无论",
+    "entries": []
+  },
+  {
+    "input_text": "误会",
+    "entries": [
+      {
+        "text": "误会",
+        "pinyin": "wù huì",
+        "en": "misunderstanding",
+        "emoji": "🤷"
+      }
+    ]
+  },
+  {
+    "input_text": "西红柿",
+    "entries": [
+      {
+        "text": "西红柿",
+        "pinyin": "xī hóng shì",
+        "en": "tomato",
+        "emoji": "🍅"
+      }
+    ]
+  },
+  {
+    "input_text": "吸引",
+    "entries": [
+      {
+        "text": "吸引",
+        "pinyin": "xī yǐn",
+        "en": "attract, draw",
+        "emoji": "🧲"
+      }
+    ]
+  },
+  {
+    "input_text": "咸",
+    "entries": [
+      {
+        "text": "咸",
+        "pinyin": "xián",
+        "en": "salty",
+        "emoji": "🧂"
+      }
+    ]
+  },
+  {
+    "input_text": "现金",
+    "entries": [
+      {
+        "text": "现金",
+        "pinyin": "xiàn jīn",
+        "en": "cash",
+        "emoji": "💵"
+      }
+    ]
+  },
+  {
+    "input_text": "羡慕",
+    "entries": [
+      {
+        "text": "羡慕",
+        "pinyin": "xiàn mù",
+        "en": "envy, admire",
+        "emoji": "😍"
+      }
+    ]
+  },
+  {
+    "input_text": "相反",
+    "entries": [
+      {
+        "text": "相反",
+        "pinyin": "xiāng fǎn",
+        "en": "opposite, contrary",
+        "emoji": "↔️"
+      }
+    ]
+  },
+  {
+    "input_text": "相同",
+    "entries": [
+      {
+        "text": "相同",
+        "pinyin": "xiāng tóng",
+        "en": "identical, same",
+        "emoji": "🟰"
+      }
+    ]
+  },
+  {
+    "input_text": "香",
+    "entries": [
+      {
+        "text": "香",
+        "pinyin": "xiāng",
+        "en": "fragrant, delicious",
+        "emoji": "🌸"
+      }
+    ]
+  },
+  {
+    "input_text": "详细",
+    "entries": [
+      {
+        "text": "详细",
+        "pinyin": "xiáng xì",
+        "en": "detailed",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "响",
+    "entries": [
+      {
+        "text": "响",
+        "pinyin": "xiǎng",
+        "en": "loud, ring out",
+        "emoji": "🔔"
+      }
+    ]
+  },
+  {
+    "input_text": "橡皮",
+    "entries": [
+      {
+        "text": "橡皮",
+        "pinyin": "xiàng pí",
+        "en": "eraser",
+        "emoji": "🩹"
+      }
+    ]
+  },
+  {
+    "input_text": "消息",
+    "entries": [
+      {
+        "text": "消息",
+        "pinyin": "xiāo xi",
+        "en": "news, message",
+        "emoji": "📰"
+      }
+    ]
+  },
+  {
+    "input_text": "小吃",
+    "entries": [
+      {
+        "text": "小吃",
+        "pinyin": "xiǎo chī",
+        "en": "snack, street food",
+        "emoji": "🍡"
+      }
+    ]
+  },
+  {
+    "input_text": "小伙子",
+    "entries": [
+      {
+        "text": "小伙子",
+        "pinyin": "xiǎo huǒ zi",
+        "en": "young man",
+        "emoji": "🧑"
+      }
+    ]
+  },
+  {
+    "input_text": "小说",
+    "entries": [
+      {
+        "text": "小说",
+        "pinyin": "xiǎo shuō",
+        "en": "novel, fiction",
+        "emoji": "📚"
+      }
+    ]
+  },
+  {
+    "input_text": "笑话",
+    "entries": [
+      {
+        "text": "笑话",
+        "pinyin": "xiào huà",
+        "en": "joke",
+        "emoji": "😂"
+      }
+    ]
+  },
+  {
+    "input_text": "效果",
+    "entries": [
+      {
+        "text": "效果",
+        "pinyin": "xiào guǒ",
+        "en": "effect, result",
+        "emoji": "✨"
+      }
+    ]
+  },
+  {
+    "input_text": "心情",
+    "entries": [
+      {
+        "text": "心情",
+        "pinyin": "xīn qíng",
+        "en": "mood, feeling",
+        "emoji": "💭"
+      }
+    ]
+  },
+  {
+    "input_text": "辛苦",
+    "entries": [
+      {
+        "text": "辛苦",
+        "pinyin": "xīn kǔ",
+        "en": "hardship, toil",
+        "emoji": "😓"
+      }
+    ]
+  },
+  {
+    "input_text": "信封",
+    "entries": [
+      {
+        "text": "信封",
+        "pinyin": "xìn fēng",
+        "en": "envelope",
+        "emoji": "✉️"
+      }
+    ]
+  },
+  {
+    "input_text": "信息",
+    "entries": [
+      {
+        "text": "信息",
+        "pinyin": "xìn xī",
+        "en": "information, message",
+        "emoji": "💬"
+      }
+    ]
+  }
+]

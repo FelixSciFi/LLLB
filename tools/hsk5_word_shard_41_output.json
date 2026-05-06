@@ -1,0 +1,183 @@
+[
+  {
+    "input_text": "中心",
+    "entries": [
+      {"text": "中心", "pinyin": "zhōng xīn", "en": "center; hub", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_text": "中旬",
+    "entries": [
+      {"text": "中旬", "pinyin": "zhōng xún", "en": "mid-month", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_text": "种类",
+    "entries": [
+      {"text": "种类", "pinyin": "zhǒng lèi", "en": "type; category", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "重大",
+    "entries": [
+      {"text": "重大", "pinyin": "zhòng dà", "en": "major; significant", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "重量",
+    "entries": [
+      {"text": "重量", "pinyin": "zhòng liàng", "en": "weight", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_text": "周到",
+    "entries": [
+      {"text": "周到", "pinyin": "zhōu dào", "en": "thoughtful; thorough", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "猪",
+    "entries": [
+      {"text": "猪", "pinyin": "zhū", "en": "pig", "emoji": "🐷"}
+    ]
+  },
+  {
+    "input_text": "竹子",
+    "entries": [
+      {"text": "竹子", "pinyin": "zhú zi", "en": "bamboo", "emoji": "🎋"}
+    ]
+  },
+  {
+    "input_text": "逐步",
+    "entries": [
+      {"text": "逐步", "pinyin": "zhú bù", "en": "step by step", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "逐渐",
+    "entries": [
+      {"text": "逐渐", "pinyin": "zhú jiàn", "en": "gradually", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "主持",
+    "entries": [
+      {"text": "主持", "pinyin": "zhǔ chí", "en": "host; chair", "emoji": "🎤"}
+    ]
+  },
+  {
+    "input_text": "主动",
+    "entries": [
+      {"text": "主动", "pinyin": "zhǔ dòng", "en": "proactive; take initiative", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "主观",
+    "entries": [
+      {"text": "主观", "pinyin": "zhǔ guān", "en": "subjective", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "主人",
+    "entries": [
+      {"text": "主人", "pinyin": "zhǔ rén", "en": "host; owner", "emoji": "🏠"}
+    ]
+  },
+  {
+    "input_text": "主任",
+    "entries": [
+      {"text": "主任", "pinyin": "zhǔ rèn", "en": "director; head", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "主题",
+    "entries": [
+      {"text": "主题", "pinyin": "zhǔ tí", "en": "theme; topic", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "主席",
+    "entries": [
+      {"text": "主席", "pinyin": "zhǔ xí", "en": "chairperson", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "主张",
+    "entries": [
+      {"text": "主张", "pinyin": "zhǔ zhāng", "en": "advocate; standpoint", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "煮",
+    "entries": [
+      {"text": "煮", "pinyin": "zhǔ", "en": "boil; cook", "emoji": "🍲"}
+    ]
+  },
+  {
+    "input_text": "注册",
+    "entries": [
+      {"text": "注册", "pinyin": "zhù cè", "en": "register; sign up", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "祝福",
+    "entries": [
+      {"text": "祝福", "pinyin": "zhù fú", "en": "bless; blessing", "emoji": "🙏"}
+    ]
+  },
+  {
+    "input_text": "抓",
+    "entries": [
+      {"text": "抓", "pinyin": "zhuā", "en": "grab; catch", "emoji": "✋"}
+    ]
+  },
+  {
+    "input_text": "抓紧",
+    "entries": [
+      {"text": "抓紧", "pinyin": "zhuā jǐn", "en": "hurry up; seize", "emoji": "⏰"}
+    ]
+  },
+  {
+    "input_text": "专家",
+    "entries": [
+      {"text": "专家", "pinyin": "zhuān jiā", "en": "expert; specialist", "emoji": "👨‍🔬"}
+    ]
+  },
+  {
+    "input_text": "专心",
+    "entries": [
+      {"text": "专心", "pinyin": "zhuān xīn", "en": "focus; concentrate", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_text": "转变",
+    "entries": [
+      {"text": "转变", "pinyin": "zhuǎn biàn", "en": "transform; shift", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "转告",
+    "entries": [
+      {"text": "转告", "pinyin": "zhuǎn gào", "en": "pass on a message", "emoji": "💬"}
+    ]
+  },
+  {
+    "input_text": "装",
+    "entries": [
+      {"text": "装", "pinyin": "zhuāng", "en": "pack; load", "emoji": "📦"},
+      {"text": "装", "pinyin": "zhuāng", "en": "pretend; fake", "emoji": "🎭"}
+    ]
+  },
+  {
+    "input_text": "装饰",
+    "entries": [
+      {"text": "装饰", "pinyin": "zhuāng shì", "en": "decorate; decoration", "emoji": "🎨"}
+    ]
+  },
+  {
+    "input_text": "装修",
+    "entries": [
+      {"text": "装修", "pinyin": "zhuāng xiū", "en": "renovate; fit out", "emoji": "🔨"}
+    ]
+  }
+]

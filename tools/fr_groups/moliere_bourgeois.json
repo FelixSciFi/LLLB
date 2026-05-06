@@ -1,0 +1,71 @@
+[
+  {
+    "text": "Par ma foi !",
+    "ipa": "paʁ ma fwa",
+    "translation": {"zh": "我的天哪！", "en": "By my faith!"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "Par", "lemma": "par", "ipa": "paʁ", "translation": {"zh": "凭", "en": "by"}, "emoji": ""},
+      {"text": "ma foi", "lemma": "foi", "ipa": "ma fwa", "translation": {"zh": "我的信誓", "en": "my faith"}, "emoji": "🙏"}
+    ],
+    "tags": [{"name": "Le Bourgeois gentilhomme", "index": 1}]
+  },
+  {
+    "text": "il y a plus de quarante ans",
+    "ipa": "il i a ply də kaʁɑ̃t ɑ̃",
+    "translation": {"zh": "已有四十多年了", "en": "for more than forty years"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "il y a", "lemma": "il y a", "ipa": "il i a", "translation": {"zh": "已经有", "en": "there is"}, "emoji": "⏳"},
+      {"text": "plus de", "lemma": "plus de", "ipa": "ply də", "translation": {"zh": "多于", "en": "more than"}, "emoji": ""},
+      {"text": "quarante ans", "lemma": "an", "ipa": "kaʁɑ̃t ɑ̃", "translation": {"zh": "四十年", "en": "forty years"}, "emoji": "📅"}
+    ],
+    "tags": [{"name": "Le Bourgeois gentilhomme", "index": 2}]
+  },
+  {
+    "text": "que je dis de la prose",
+    "ipa": "kə ʒə di də la pʁoz",
+    "translation": {"zh": "我一直在说散文", "en": "that I have been speaking prose"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "que je dis", "lemma": "dire", "ipa": "kə ʒə di", "translation": {"zh": "我说着", "en": "that I speak"}, "emoji": "💬"},
+      {"text": "de la prose", "lemma": "prose", "ipa": "də la pʁoz", "translation": {"zh": "散文", "en": "prose"}, "emoji": "📜"}
+    ],
+    "tags": [{"name": "Le Bourgeois gentilhomme", "index": 3}]
+  },
+  {
+    "text": "sans que j'en susse rien,",
+    "ipa": "sɑ̃ kə ʒɑ̃ sys ʁjɛ̃",
+    "translation": {"zh": "却对此一无所知，", "en": "without knowing anything about it,"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "sans que", "lemma": "sans que", "ipa": "sɑ̃ kə", "translation": {"zh": "毫不", "en": "without"}, "emoji": ""},
+      {"text": "j'en susse", "lemma": "savoir", "ipa": "ʒɑ̃ sys", "translation": {"zh": "我知晓", "en": "I knew of it"}, "emoji": "🤔"},
+      {"text": "rien", "lemma": "rien", "ipa": "ʁjɛ̃", "translation": {"zh": "丝毫", "en": "anything"}, "emoji": ""}
+    ],
+    "tags": [{"name": "Le Bourgeois gentilhomme", "index": 4}]
+  },
+  {
+    "text": "et je vous suis le plus obligé du monde",
+    "ipa": "e ʒə vu sɥi lə ply ɔbliʒe dy mɔ̃d",
+    "translation": {"zh": "我对您感激不尽", "en": "and I am most obliged to you in the world"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "et je vous suis", "lemma": "être", "ipa": "e ʒə vu sɥi", "translation": {"zh": "我对您是", "en": "and I am to you"}, "emoji": ""},
+      {"text": "le plus obligé", "lemma": "obligé", "ipa": "lə ply ɔbliʒe", "translation": {"zh": "最为感激", "en": "most obliged"}, "emoji": "🙇"},
+      {"text": "du monde", "lemma": "monde", "ipa": "dy mɔ̃d", "translation": {"zh": "天下", "en": "in the world"}, "emoji": "🌍"}
+    ],
+    "tags": [{"name": "Le Bourgeois gentilhomme", "index": 5}]
+  },
+  {
+    "text": "de m'avoir appris cela.",
+    "ipa": "də mavwaʁ apʁi səla",
+    "translation": {"zh": "因为您教了我这件事。", "en": "for having taught me that."},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "de m'avoir appris", "lemma": "apprendre", "ipa": "də mavwaʁ apʁi", "translation": {"zh": "教会了我", "en": "for having taught me"}, "emoji": "🎓"},
+      {"text": "cela", "lemma": "cela", "ipa": "səla", "translation": {"zh": "这事", "en": "that"}, "emoji": ""}
+    ],
+    "tags": [{"name": "Le Bourgeois gentilhomme", "index": 6}]
+  }
+]

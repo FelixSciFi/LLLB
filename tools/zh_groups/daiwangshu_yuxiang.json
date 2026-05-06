@@ -1,0 +1,127 @@
+[
+  {
+    "text": "撑着油纸伞，",
+    "ipa": "chēng zhe yóu zhǐ sǎn,",
+    "translation": {
+      "zh": "撑着油纸伞，",
+      "en": "Holding up an oil-paper umbrella,"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "撑着",
+        "lemma": "撑",
+        "ipa": "chēng zhe",
+        "translation": {"zh": "举着", "en": "holding up"},
+        "emoji": "☂️"
+      },
+      {
+        "text": "油纸伞",
+        "lemma": "油纸伞",
+        "ipa": "yóu zhǐ sǎn",
+        "translation": {"zh": "桐油纸伞", "en": "oil-paper umbrella"},
+        "emoji": "🌂"
+      }
+    ],
+    "tags": [{"name": "雨巷", "index": 1}]
+  },
+  {
+    "text": "独自彷徨在悠长、悠长又寂寥的雨巷。",
+    "ipa": "dú zì páng huáng zài yōu cháng, yōu cháng yòu jì liáo de yǔ xiàng.",
+    "translation": {
+      "zh": "独自彷徨在悠长、悠长又寂寥的雨巷。",
+      "en": "wandering alone down a long, long and lonesome rainy lane."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "独自",
+        "lemma": "独自",
+        "ipa": "dú zì",
+        "translation": {"zh": "一个人", "en": "alone"},
+        "emoji": "🚶"
+      },
+      {
+        "text": "彷徨",
+        "lemma": "彷徨",
+        "ipa": "páng huáng",
+        "translation": {"zh": "徘徊", "en": "wander"},
+        "emoji": "😔"
+      },
+      {
+        "text": "在悠长、悠长又寂寥的雨巷",
+        "lemma": "雨巷",
+        "ipa": "zài yōu cháng, yōu cháng yòu jì liáo de yǔ xiàng",
+        "translation": {"zh": "在漫长又寂寞的雨巷里", "en": "in a long, lonesome rainy lane"},
+        "emoji": "🌧️"
+      }
+    ],
+    "tags": [{"name": "雨巷", "index": 2}]
+  },
+  {
+    "text": "我希望逢着一个丁香一样的，",
+    "ipa": "wǒ xī wàng féng zhe yī gè dīng xiāng yī yàng de,",
+    "translation": {
+      "zh": "我希望逢着一个丁香一样的，",
+      "en": "I hope to meet a girl like a lilac,"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "我希望",
+        "lemma": "希望",
+        "ipa": "wǒ xī wàng",
+        "translation": {"zh": "我盼着", "en": "I hope"},
+        "emoji": "🙏"
+      },
+      {
+        "text": "逢着",
+        "lemma": "逢",
+        "ipa": "féng zhe",
+        "translation": {"zh": "遇到", "en": "to meet"},
+        "emoji": "👤"
+      },
+      {
+        "text": "一个丁香一样的",
+        "lemma": "丁香",
+        "ipa": "yī gè dīng xiāng yī yàng de",
+        "translation": {"zh": "一位像丁香的", "en": "one like a lilac"},
+        "emoji": "🌸"
+      }
+    ],
+    "tags": [{"name": "雨巷", "index": 3}]
+  },
+  {
+    "text": "结着愁怨的姑娘。",
+    "ipa": "jié zhe chóu yuàn de gū niang.",
+    "translation": {
+      "zh": "结着愁怨的姑娘。",
+      "en": "a girl knotted with sorrow and resentment."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "结着",
+        "lemma": "结",
+        "ipa": "jié zhe",
+        "translation": {"zh": "凝结着", "en": "knotted with"},
+        "emoji": "🪢"
+      },
+      {
+        "text": "愁怨",
+        "lemma": "愁怨",
+        "ipa": "chóu yuàn",
+        "translation": {"zh": "忧愁怨恨", "en": "sorrow and resentment"},
+        "emoji": "😢"
+      },
+      {
+        "text": "的姑娘",
+        "lemma": "姑娘",
+        "ipa": "de gū niang",
+        "translation": {"zh": "的女子", "en": "girl"},
+        "emoji": "👧"
+      }
+    ],
+    "tags": [{"name": "雨巷", "index": 4}]
+  }
+]

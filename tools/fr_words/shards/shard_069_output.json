@@ -1,0 +1,275 @@
+[
+  {
+    "text": "un incendie",
+    "ipa": "œ̃ ɛ̃sɑ̃di",
+    "translation": {"zh": "一场火灾", "en": "a fire"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un incendie", "lemma": "incendie", "ipa": "œ̃ ɛ̃sɑ̃di", "translation": {"zh": "火灾", "en": "fire"}, "emoji": "🔥"}
+    ]
+  },
+  {
+    "text": "inciter à agir",
+    "ipa": "ɛ̃site a aʒiʁ",
+    "translation": {"zh": "激励去行动", "en": "to encourage action"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "inciter à agir", "lemma": "inciter", "ipa": "ɛ̃site a aʒiʁ", "translation": {"zh": "激励行动", "en": "encourage to act"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "confondre les deux",
+    "ipa": "kɔ̃fɔ̃dʁ le dø",
+    "translation": {"zh": "把两者搞混", "en": "to confuse the two"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "confondre les deux", "lemma": "confondre", "ipa": "kɔ̃fɔ̃dʁ le dø", "translation": {"zh": "混淆两者", "en": "confuse the two"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "recouvrir de neige",
+    "ipa": "ʁəkuvʁiʁ də nɛʒ",
+    "translation": {"zh": "被雪覆盖", "en": "to cover with snow"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "recouvrir de neige", "lemma": "recouvrir", "ipa": "ʁəkuvʁiʁ də nɛʒ", "translation": {"zh": "覆盖雪", "en": "cover with snow"}, "emoji": "❄️"}
+    ]
+  },
+  {
+    "text": "avertir le conducteur",
+    "ipa": "avɛʁtiʁ lə kɔ̃dyktœʁ",
+    "translation": {"zh": "提醒司机", "en": "to warn the driver"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "avertir le conducteur", "lemma": "avertir", "ipa": "avɛʁtiʁ lə kɔ̃dyktœʁ", "translation": {"zh": "提醒警告", "en": "warn the driver"}, "emoji": "⚠️"}
+    ]
+  },
+  {
+    "text": "un gamin",
+    "ipa": "œ̃ ɡamɛ̃",
+    "translation": {"zh": "一个小孩", "en": "a kid"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un gamin", "lemma": "gamin", "ipa": "œ̃ ɡamɛ̃", "translation": {"zh": "小孩", "en": "kid"}, "emoji": "👦"}
+    ]
+  },
+  {
+    "text": "la rive du fleuve",
+    "ipa": "la ʁiv dy fløv",
+    "translation": {"zh": "河岸", "en": "the riverbank"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "la rive du fleuve", "lemma": "rive", "ipa": "la ʁiv dy fløv", "translation": {"zh": "河岸", "en": "riverbank"}, "emoji": "🏞️"}
+    ]
+  },
+  {
+    "text": "un camp de tentes",
+    "ipa": "œ̃ kɑ̃ də tɑ̃t",
+    "translation": {"zh": "一个帐篷营地", "en": "a camp of tents"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un camp de tentes", "lemma": "camp", "ipa": "œ̃ kɑ̃ də tɑ̃t", "translation": {"zh": "营地", "en": "camp"}, "emoji": "⛺"}
+    ]
+  },
+  {
+    "text": "un résultat concret",
+    "ipa": "œ̃ ʁezylta kɔ̃kʁɛ",
+    "translation": {"zh": "一个具体结果", "en": "a concrete result"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un résultat concret", "lemma": "résultat", "ipa": "œ̃ ʁezylta kɔ̃kʁɛ", "translation": {"zh": "结果", "en": "result"}, "emoji": ""},
+      {"text": "concret", "lemma": "concret", "ipa": "kɔ̃kʁɛ", "translation": {"zh": "具体的", "en": "concrete"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "agrandir la pièce",
+    "ipa": "aɡʁɑ̃diʁ la pjɛs",
+    "translation": {"zh": "扩大房间", "en": "to enlarge the room"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "agrandir la pièce", "lemma": "agrandir", "ipa": "aɡʁɑ̃diʁ la pjɛs", "translation": {"zh": "扩大房间", "en": "enlarge the room"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "nuire à la santé",
+    "ipa": "nɥiʁ a la sɑ̃te",
+    "translation": {"zh": "损害健康", "en": "to harm health"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "nuire à la santé", "lemma": "nuire", "ipa": "nɥiʁ a la sɑ̃te", "translation": {"zh": "损害健康", "en": "harm health"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "hausser les sourcils",
+    "ipa": "ose le suʁsi",
+    "translation": {"zh": "扬起眉毛", "en": "to raise the eyebrows"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "hausser les sourcils", "lemma": "hausser", "ipa": "ose le suʁsi", "translation": {"zh": "扬起", "en": "raise"}, "emoji": ""},
+      {"text": "les sourcils", "lemma": "sourcil", "ipa": "le suʁsi", "translation": {"zh": "眉毛", "en": "eyebrows"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "presque invisible",
+    "ipa": "pʁɛsk ɛ̃vizibl",
+    "translation": {"zh": "几乎不可见", "en": "almost invisible"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "presque invisible", "lemma": "invisible", "ipa": "pʁɛsk ɛ̃vizibl", "translation": {"zh": "几乎不可见", "en": "almost invisible"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une centrale nucléaire",
+    "ipa": "yn sɑ̃tʁal nykleɛʁ",
+    "translation": {"zh": "一座核电站", "en": "a nuclear power plant"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une centrale nucléaire", "lemma": "centrale", "ipa": "yn sɑ̃tʁal nykleɛʁ", "translation": {"zh": "核电站", "en": "nuclear power plant"}, "emoji": "⚛️"}
+    ]
+  },
+  {
+    "text": "par définition",
+    "ipa": "paʁ definisj ɔ̃",
+    "translation": {"zh": "按定义", "en": "by definition"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "par définition", "lemma": "définition", "ipa": "paʁ definisj ɔ̃", "translation": {"zh": "按定义", "en": "by definition"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "c'est trop coûteux",
+    "ipa": "sɛ tʁo kutø",
+    "translation": {"zh": "这太贵了", "en": "it's too costly"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "c'est trop coûteux", "lemma": "coûteux", "ipa": "sɛ tʁo kutø", "translation": {"zh": "太贵了", "en": "too costly"}, "emoji": "💸"}
+    ]
+  },
+  {
+    "text": "un cavalier à cheval",
+    "ipa": "œ̃ kavalje a ʃəval",
+    "translation": {"zh": "一名骑马的骑手", "en": "a rider on horseback"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un cavalier à cheval", "lemma": "cavalier", "ipa": "œ̃ kavalje a ʃəval", "translation": {"zh": "骑手", "en": "rider on horseback"}, "emoji": "🏇"}
+    ]
+  },
+  {
+    "text": "une tente",
+    "ipa": "yn tɑ̃t",
+    "translation": {"zh": "一顶帐篷", "en": "a tent"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une tente", "lemma": "tente", "ipa": "yn tɑ̃t", "translation": {"zh": "帐篷", "en": "tent"}, "emoji": "⛺"}
+    ]
+  },
+  {
+    "text": "un bâtiment gigantesque",
+    "ipa": "œ̃ batimɑ̃ ʒiɡɑ̃tɛsk",
+    "translation": {"zh": "一座巨大的建筑", "en": "a gigantic building"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un bâtiment gigantesque", "lemma": "bâtiment", "ipa": "œ̃ batimɑ̃ ʒiɡɑ̃tɛsk", "translation": {"zh": "建筑", "en": "building"}, "emoji": ""},
+      {"text": "gigantesque", "lemma": "gigantesque", "ipa": "ʒiɡɑ̃tɛsk", "translation": {"zh": "巨大的", "en": "gigantic"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "alimenter le feu",
+    "ipa": "alimɑ̃te lə fø",
+    "translation": {"zh": "给火添燃料", "en": "to feed the fire"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "alimenter le feu", "lemma": "alimenter", "ipa": "alimɑ̃te lə fø", "translation": {"zh": "供给燃料", "en": "feed the fire"}, "emoji": "🔥"}
+    ]
+  },
+  {
+    "text": "l'éclairage de la rue",
+    "ipa": "lekleʁaʒ də la ʁy",
+    "translation": {"zh": "街道照明", "en": "street lighting"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "l'éclairage de la rue", "lemma": "éclairage", "ipa": "lekleʁaʒ də la ʁy", "translation": {"zh": "街道照明", "en": "street lighting"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "le prix du carburant",
+    "ipa": "lə pʁi dy kaʁbyʁɑ̃",
+    "translation": {"zh": "燃油价格", "en": "the fuel price"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le prix du carburant", "lemma": "carburant", "ipa": "lə pʁi dy kaʁbyʁɑ̃", "translation": {"zh": "燃油价格", "en": "fuel price"}, "emoji": "⛽"}
+    ]
+  },
+  {
+    "text": "l'époque coloniale",
+    "ipa": "lepɔk kɔlɔnjal",
+    "translation": {"zh": "殖民时代", "en": "the colonial era"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'époque coloniale", "lemma": "colonial", "ipa": "lepɔk kɔlɔnjal", "translation": {"zh": "殖民时代", "en": "colonial era"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la municipalité locale",
+    "ipa": "la mynisipalite lɔkal",
+    "translation": {"zh": "当地市政府", "en": "the local municipality"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la municipalité locale", "lemma": "municipalité", "ipa": "la mynisipalite lɔkal", "translation": {"zh": "市政府", "en": "municipality"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "une préoccupation majeure",
+    "ipa": "yn pʁeɔkypasjɔ̃ maʒœʁ",
+    "translation": {"zh": "一项重大关切", "en": "a major concern"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une préoccupation majeure", "lemma": "préoccupation", "ipa": "yn pʁeɔkypasjɔ̃ maʒœʁ", "translation": {"zh": "关切忧虑", "en": "major concern"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "les noces d'or",
+    "ipa": "le nɔs dɔʁ",
+    "translation": {"zh": "金婚纪念", "en": "golden wedding anniversary"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "les noces d'or", "lemma": "noce", "ipa": "le nɔs dɔʁ", "translation": {"zh": "金婚", "en": "golden anniversary"}, "emoji": "💍"}
+    ]
+  },
+  {
+    "text": "un informaticien",
+    "ipa": "œ̃ ɛ̃fɔʁmatisj ɛ̃",
+    "translation": {"zh": "一名计算机工程师", "en": "a computer scientist"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un informaticien", "lemma": "informaticien", "ipa": "œ̃ ɛ̃fɔʁmatisj ɛ̃", "translation": {"zh": "计算机工程师", "en": "computer scientist"}, "emoji": "💻"}
+    ]
+  },
+  {
+    "text": "une quinzaine de jours",
+    "ipa": "yn kɛ̃zɛn də ʒuʁ",
+    "translation": {"zh": "大约两周", "en": "about two weeks"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une quinzaine de jours", "lemma": "quinzaine", "ipa": "yn kɛ̃zɛn də ʒuʁ", "translation": {"zh": "约两周", "en": "about two weeks"}, "emoji": "📅"}
+    ]
+  },
+  {
+    "text": "reproduire un son",
+    "ipa": "ʁəpʁɔdɥiʁ œ̃ sɔ̃",
+    "translation": {"zh": "复制一个声音", "en": "to reproduce a sound"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "reproduire un son", "lemma": "reproduire", "ipa": "ʁəpʁɔdɥiʁ œ̃ sɔ̃", "translation": {"zh": "复制声音", "en": "reproduce a sound"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "les dimensions de la pièce",
+    "ipa": "le dimɑ̃sjɔ̃ də la pjɛs",
+    "translation": {"zh": "房间的尺寸", "en": "the room's dimensions"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "les dimensions de la pièce", "lemma": "dimension", "ipa": "le dimɑ̃sjɔ̃ də la pjɛs", "translation": {"zh": "尺寸大小", "en": "dimensions"}, "emoji": "📐"}
+    ]
+  }
+]

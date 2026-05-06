@@ -1,0 +1,207 @@
+[
+  {
+    "text": "由四川过湖南去，靠东有一条官路。",
+    "ipa": "yóu sì chuān guò hú nán qù, kào dōng yǒu yī tiáo guān lù.",
+    "translation": {
+      "zh": "由四川过湖南去，靠东有一条官路。",
+      "en": "Going from Sichuan across into Hunan, there is an official road that runs along the east."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "由四川过湖南去",
+        "lemma": "过",
+        "ipa": "yóu sì chuān guò hú nán qù",
+        "translation": {"zh": "从四川到湖南", "en": "Sichuan into Hunan"},
+        "emoji": "🗺️"
+      },
+      {
+        "text": "靠东",
+        "lemma": "靠",
+        "ipa": "kào dōng",
+        "translation": {"zh": "偏东边", "en": "along the east"},
+        "emoji": "🧭"
+      },
+      {
+        "text": "有一条官路",
+        "lemma": "官路",
+        "ipa": "yǒu yī tiáo guān lù",
+        "translation": {"zh": "有一条驿道", "en": "is an official road"},
+        "emoji": "🛣️"
+      }
+    ],
+    "tags": [{"name": "边城", "index": 1}]
+  },
+  {
+    "text": "这官路将近湘西边境。",
+    "ipa": "zhè guān lù jiāng jìn xiāng xī biān jìng.",
+    "translation": {
+      "zh": "这官路将近湘西边境。",
+      "en": "This official road draws near the border of western Hunan."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "这官路",
+        "lemma": "官路",
+        "ipa": "zhè guān lù",
+        "translation": {"zh": "这条驿道", "en": "this road"},
+        "emoji": "🛣️"
+      },
+      {
+        "text": "将近",
+        "lemma": "近",
+        "ipa": "jiāng jìn",
+        "translation": {"zh": "快到", "en": "draws near"},
+        "emoji": "➡️"
+      },
+      {
+        "text": "湘西边境",
+        "lemma": "边境",
+        "ipa": "xiāng xī biān jìng",
+        "translation": {"zh": "湘西交界", "en": "western Hunan border"},
+        "emoji": "🏞️"
+      }
+    ],
+    "tags": [{"name": "边城", "index": 2}]
+  },
+  {
+    "text": "到了一个地方名为\"茶峒\"的小山城时。",
+    "ipa": "dào le yī gè dì fāng míng wéi \"chá dòng\" de xiǎo shān chéng shí.",
+    "translation": {
+      "zh": "到了一个地方名为\"茶峒\"的小山城时。",
+      "en": "When it reaches a little hill town by the name of \"Chadong\"."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "到了一个地方",
+        "lemma": "到",
+        "ipa": "dào le yī gè dì fāng",
+        "translation": {"zh": "走到一处", "en": "reaches a place"},
+        "emoji": "📍"
+      },
+      {
+        "text": "名为\"茶峒\"",
+        "lemma": "茶峒",
+        "ipa": "míng wéi chá dòng",
+        "translation": {"zh": "叫做茶峒", "en": "called Chadong"},
+        "emoji": "🏷️"
+      },
+      {
+        "text": "的小山城时",
+        "lemma": "山城",
+        "ipa": "de xiǎo shān chéng shí",
+        "translation": {"zh": "的山间小城时", "en": "little hill town"},
+        "emoji": "🏘️"
+      }
+    ],
+    "tags": [{"name": "边城", "index": 3}]
+  },
+  {
+    "text": "有一条小溪，溪边有座白色小塔。",
+    "ipa": "yǒu yī tiáo xiǎo xī, xī biān yǒu zuò bái sè xiǎo tǎ.",
+    "translation": {
+      "zh": "有一条小溪，溪边有座白色小塔。",
+      "en": "There is a little stream, and beside the stream stands a small white pagoda."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "有一条小溪",
+        "lemma": "小溪",
+        "ipa": "yǒu yī tiáo xiǎo xī",
+        "translation": {"zh": "有条小溪", "en": "a little stream"},
+        "emoji": "🏞️"
+      },
+      {
+        "text": "溪边",
+        "lemma": "溪边",
+        "ipa": "xī biān",
+        "translation": {"zh": "溪水旁", "en": "by the stream"},
+        "emoji": "🌿"
+      },
+      {
+        "text": "有座白色小塔",
+        "lemma": "塔",
+        "ipa": "yǒu zuò bái sè xiǎo tǎ",
+        "translation": {"zh": "有一座白塔", "en": "a small white pagoda"},
+        "emoji": "🗼"
+      }
+    ],
+    "tags": [{"name": "边城", "index": 4}]
+  },
+  {
+    "text": "塔下住了一户单独的人家。",
+    "ipa": "tǎ xià zhù le yī hù dān dú de rén jiā.",
+    "translation": {
+      "zh": "塔下住了一户单独的人家。",
+      "en": "Below the pagoda lived a single solitary household."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "塔下",
+        "lemma": "塔",
+        "ipa": "tǎ xià",
+        "translation": {"zh": "塔的下面", "en": "below the pagoda"},
+        "emoji": "🗼"
+      },
+      {
+        "text": "住了",
+        "lemma": "住",
+        "ipa": "zhù le",
+        "translation": {"zh": "居住着", "en": "there lived"},
+        "emoji": "🏠"
+      },
+      {
+        "text": "一户单独的人家",
+        "lemma": "人家",
+        "ipa": "yī hù dān dú de rén jiā",
+        "translation": {"zh": "一户孤零的人家", "en": "a lone household"},
+        "emoji": "👪"
+      }
+    ],
+    "tags": [{"name": "边城", "index": 5}]
+  },
+  {
+    "text": "这人家只一个老人，一个女孩子，一对黄狗。",
+    "ipa": "zhè rén jiā zhǐ yī gè lǎo rén, yī gè nǚ hái zi, yī duì huáng gǒu.",
+    "translation": {
+      "zh": "这人家只一个老人，一个女孩子，一对黄狗。",
+      "en": "This household had only an old man, a young girl, and a pair of yellow dogs."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "这人家只",
+        "lemma": "人家",
+        "ipa": "zhè rén jiā zhǐ",
+        "translation": {"zh": "这家人只有", "en": "this household had only"},
+        "emoji": "🏠"
+      },
+      {
+        "text": "一个老人",
+        "lemma": "老人",
+        "ipa": "yī gè lǎo rén",
+        "translation": {"zh": "一位老人", "en": "an old man"},
+        "emoji": "👴"
+      },
+      {
+        "text": "一个女孩子",
+        "lemma": "女孩子",
+        "ipa": "yī gè nǚ hái zi",
+        "translation": {"zh": "一个小姑娘", "en": "a young girl"},
+        "emoji": "👧"
+      },
+      {
+        "text": "一对黄狗",
+        "lemma": "黄狗",
+        "ipa": "yī duì huáng gǒu",
+        "translation": {"zh": "一对黄狗", "en": "a pair of yellow dogs"},
+        "emoji": "🐕"
+      }
+    ],
+    "tags": [{"name": "边城", "index": 6}]
+  }
+]

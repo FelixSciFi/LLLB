@@ -1,0 +1,278 @@
+[
+  {
+    "text": "une belle apparence",
+    "ipa": "yn bɛl apaʁɑ̃s",
+    "translation": {"zh": "好看的外表", "en": "a nice appearance"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une belle apparence", "lemma": "apparence", "ipa": "yn bɛl apaʁɑ̃s", "translation": {"zh": "好看的外表", "en": "a nice appearance"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "il redescend la colline",
+    "ipa": "il ʁədəsɑ̃ la kɔlin",
+    "translation": {"zh": "他走下山丘", "en": "he goes back down the hill"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il redescend(redescendre)", "lemma": "redescendre", "ipa": "il ʁədəsɑ̃", "translation": {"zh": "他走下来", "en": "he goes back down"}, "emoji": "⬇️"},
+      {"text": "la colline", "lemma": "colline", "ipa": "la kɔlin", "translation": {"zh": "山丘", "en": "the hill"}, "emoji": "⛰️"}
+    ]
+  },
+  {
+    "text": "le serveur",
+    "ipa": "lə sɛʁvœʁ",
+    "translation": {"zh": "服务员", "en": "the waiter"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le serveur", "lemma": "serveur", "ipa": "lə sɛʁvœʁ", "translation": {"zh": "服务员", "en": "the waiter"}, "emoji": "🧑‍🍳"}
+    ]
+  },
+  {
+    "text": "la colline",
+    "ipa": "la kɔlin",
+    "translation": {"zh": "山丘", "en": "the hill"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "la colline", "lemma": "colline", "ipa": "la kɔlin", "translation": {"zh": "山丘", "en": "the hill"}, "emoji": "⛰️"}
+    ]
+  },
+  {
+    "text": "le moteur",
+    "ipa": "lə mɔtœʁ",
+    "translation": {"zh": "发动机", "en": "the engine"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le moteur", "lemma": "moteur", "ipa": "lə mɔtœʁ", "translation": {"zh": "发动机", "en": "the engine"}, "emoji": "⚙️"}
+    ]
+  },
+  {
+    "text": "aller à l'opéra",
+    "ipa": "ale a lɔpeʁa",
+    "translation": {"zh": "去看歌剧", "en": "go to the opera"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "aller(aller)", "lemma": "aller", "ipa": "ale", "translation": {"zh": "去", "en": "go"}, "emoji": "🚶"},
+      {"text": "à l'opéra", "lemma": "opéra", "ipa": "a lɔpeʁa", "translation": {"zh": "去歌剧院", "en": "to the opera"}, "emoji": "🎭"}
+    ]
+  },
+  {
+    "text": "faire du profit",
+    "ipa": "fɛʁ dy pʁɔfi",
+    "translation": {"zh": "获取利润", "en": "make a profit"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "faire du profit", "lemma": "profit", "ipa": "fɛʁ dy pʁɔfi", "translation": {"zh": "获取利润", "en": "make a profit"}, "emoji": "💰"}
+    ]
+  },
+  {
+    "text": "une toile d'araignée",
+    "ipa": "yn twal daʁɛɲe",
+    "translation": {"zh": "蜘蛛网", "en": "a spider's web"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une toile d'araignée", "lemma": "toile", "ipa": "yn twal daʁɛɲe", "translation": {"zh": "蜘蛛网", "en": "a spider's web"}, "emoji": "🕸️"}
+    ]
+  },
+  {
+    "text": "l'agriculture",
+    "ipa": "laɡʁikyltyʁ",
+    "translation": {"zh": "农业", "en": "agriculture"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "l'agriculture", "lemma": "agriculture", "ipa": "laɡʁikyltyʁ", "translation": {"zh": "农业", "en": "agriculture"}, "emoji": "🌾"}
+    ]
+  },
+  {
+    "text": "l'énergie solaire",
+    "ipa": "leneʁʒi sɔlɛʁ",
+    "translation": {"zh": "太阳能", "en": "solar energy"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "l'énergie solaire", "lemma": "solaire", "ipa": "leneʁʒi sɔlɛʁ", "translation": {"zh": "太阳能", "en": "solar energy"}, "emoji": "☀️"}
+    ]
+  },
+  {
+    "text": "c'est fréquent",
+    "ipa": "se fʁekɑ̃",
+    "translation": {"zh": "这很常见", "en": "it's frequent"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est fréquent", "lemma": "fréquent", "ipa": "se fʁekɑ̃", "translation": {"zh": "这很常见", "en": "it's frequent"}, "emoji": "🔄"}
+    ]
+  },
+  {
+    "text": "le contenu",
+    "ipa": "lə kɔ̃tny",
+    "translation": {"zh": "内容", "en": "the content"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le contenu", "lemma": "contenu", "ipa": "lə kɔ̃tny", "translation": {"zh": "内容", "en": "the content"}, "emoji": "📄"}
+    ]
+  },
+  {
+    "text": "la civilisation",
+    "ipa": "la sivilizasjɔ̃",
+    "translation": {"zh": "文明", "en": "civilization"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la civilisation", "lemma": "civilisation", "ipa": "la sivilizasjɔ̃", "translation": {"zh": "文明", "en": "civilization"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "le rock",
+    "ipa": "lə ʁɔk",
+    "translation": {"zh": "摇滚乐", "en": "rock music"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le rock", "lemma": "rock", "ipa": "lə ʁɔk", "translation": {"zh": "摇滚乐", "en": "rock music"}, "emoji": "🎸"}
+    ]
+  },
+  {
+    "text": "avec égard",
+    "ipa": "avɛk eɡaʁ",
+    "translation": {"zh": "带着尊重", "en": "with regard"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "avec égard", "lemma": "égard", "ipa": "avɛk eɡaʁ", "translation": {"zh": "带着尊重", "en": "with regard"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "un ennemi",
+    "ipa": "œ̃ ɛnmi",
+    "translation": {"zh": "一个敌人", "en": "an enemy"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un ennemi", "lemma": "ennemi", "ipa": "œ̃ ɛnmi", "translation": {"zh": "敌人", "en": "an enemy"}, "emoji": "⚔️"}
+    ]
+  },
+  {
+    "text": "il guide les touristes",
+    "ipa": "il ɡid le tuʁist",
+    "translation": {"zh": "他带领游客", "en": "he guides the tourists"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il guide(guider)", "lemma": "guider", "ipa": "il ɡid", "translation": {"zh": "他引导", "en": "he guides"}, "emoji": "🧭"},
+      {"text": "les touristes", "lemma": "touriste", "ipa": "le tuʁist", "translation": {"zh": "游客们", "en": "the tourists"}, "emoji": "🗺️"}
+    ]
+  },
+  {
+    "text": "un effort considérable",
+    "ipa": "œ̃ ɛfɔʁ kɔ̃sideʁabl",
+    "translation": {"zh": "相当大的努力", "en": "a considerable effort"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un effort considérable", "lemma": "considérable", "ipa": "œ̃ ɛfɔʁ kɔ̃sideʁabl", "translation": {"zh": "相当大的努力", "en": "a considerable effort"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "son entourage",
+    "ipa": "sɔ̃ ɑ̃tuʁaʒ",
+    "translation": {"zh": "他的亲友圈", "en": "his entourage"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "son entourage", "lemma": "entourage", "ipa": "sɔ̃ ɑ̃tuʁaʒ", "translation": {"zh": "亲友圈", "en": "his entourage"}, "emoji": "👥"}
+    ]
+  },
+  {
+    "text": "la motivation",
+    "ipa": "la mɔtivasjɔ̃",
+    "translation": {"zh": "动力", "en": "motivation"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la motivation", "lemma": "motivation", "ipa": "la mɔtivasjɔ̃", "translation": {"zh": "动力", "en": "motivation"}, "emoji": "🔥"}
+    ]
+  },
+  {
+    "text": "entretenir le jardin",
+    "ipa": "ɑ̃tʁətniʁ lə ʒaʁdɛ̃",
+    "translation": {"zh": "打理花园", "en": "maintain the garden"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "entretenir(entretenir)", "lemma": "entretenir", "ipa": "ɑ̃tʁətniʁ", "translation": {"zh": "维护", "en": "maintain"}, "emoji": "🔧"},
+      {"text": "le jardin", "lemma": "jardin", "ipa": "lə ʒaʁdɛ̃", "translation": {"zh": "花园", "en": "the garden"}, "emoji": "🌿"}
+    ]
+  },
+  {
+    "text": "la guerre éclate",
+    "ipa": "la ɡɛʁ eklat",
+    "translation": {"zh": "战争爆发", "en": "the war breaks out"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la guerre", "lemma": "guerre", "ipa": "la ɡɛʁ", "translation": {"zh": "战争", "en": "the war"}, "emoji": "⚔️"},
+      {"text": "éclate(éclater)", "lemma": "éclater", "ipa": "eklat", "translation": {"zh": "爆发", "en": "breaks out"}, "emoji": "💥"}
+    ]
+  },
+  {
+    "text": "un marché porteur",
+    "ipa": "œ̃ maʁʃe pɔʁtœʁ",
+    "translation": {"zh": "一个有潜力的市场", "en": "a promising market"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un marché porteur", "lemma": "porteur", "ipa": "œ̃ maʁʃe pɔʁtœʁ", "translation": {"zh": "有潜力的市场", "en": "a promising market"}, "emoji": "📈"}
+    ]
+  },
+  {
+    "text": "filmer la scène",
+    "ipa": "filme la sɛn",
+    "translation": {"zh": "拍摄这一幕", "en": "film the scene"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "filmer(filmer)", "lemma": "filmer", "ipa": "filme", "translation": {"zh": "拍摄", "en": "film"}, "emoji": "🎬"},
+      {"text": "la scène", "lemma": "scène", "ipa": "la sɛn", "translation": {"zh": "场景", "en": "the scene"}, "emoji": "🎭"}
+    ]
+  },
+  {
+    "text": "les toilettes",
+    "ipa": "le twalɛt",
+    "translation": {"zh": "卫生间", "en": "the restroom"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "les toilettes", "lemma": "toilette", "ipa": "le twalɛt", "translation": {"zh": "卫生间", "en": "the restroom"}, "emoji": "🚻"}
+    ]
+  },
+  {
+    "text": "le danseur",
+    "ipa": "lə dɑ̃sœʁ",
+    "translation": {"zh": "舞蹈演员", "en": "the dancer"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le danseur", "lemma": "danseur", "ipa": "lə dɑ̃sœʁ", "translation": {"zh": "舞蹈演员", "en": "the dancer"}, "emoji": "💃"}
+    ]
+  },
+  {
+    "text": "il est jaloux",
+    "ipa": "il ɛ ʒalu",
+    "translation": {"zh": "他很嫉妒", "en": "he is jealous"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "il est jaloux(jaloux)", "lemma": "jaloux", "ipa": "il ɛ ʒalu", "translation": {"zh": "他很嫉妒", "en": "he is jealous"}, "emoji": "😒"}
+    ]
+  },
+  {
+    "text": "un film romantique",
+    "ipa": "œ̃ film ʁɔmɑ̃tik",
+    "translation": {"zh": "一部浪漫电影", "en": "a romantic film"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un film romantique", "lemma": "romantique", "ipa": "œ̃ film ʁɔmɑ̃tik", "translation": {"zh": "浪漫电影", "en": "a romantic film"}, "emoji": "🎬"}
+    ]
+  },
+  {
+    "text": "une sensation étrange",
+    "ipa": "yn sɑ̃sasjɔ̃ etʁɑ̃ʒ",
+    "translation": {"zh": "一种奇怪的感觉", "en": "a strange sensation"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une sensation étrange", "lemma": "sensation", "ipa": "yn sɑ̃sasjɔ̃ etʁɑ̃ʒ", "translation": {"zh": "奇怪的感觉", "en": "a strange sensation"}, "emoji": "😮"}
+    ]
+  },
+  {
+    "text": "un choc émotionnel",
+    "ipa": "œ̃ ʃɔk emosjɔnɛl",
+    "translation": {"zh": "情感冲击", "en": "an emotional shock"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un choc émotionnel", "lemma": "choc", "ipa": "œ̃ ʃɔk emosjɔnɛl", "translation": {"zh": "情感冲击", "en": "an emotional shock"}, "emoji": "😱"}
+    ]
+  }
+]

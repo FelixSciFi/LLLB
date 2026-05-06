@@ -1,0 +1,182 @@
+[
+  {
+    "input_text": "首饰",
+    "entries": [
+      {"text": "首饰", "pinyin": "shǒu shi", "en": "jewelry", "emoji": "💍"}
+    ]
+  },
+  {
+    "input_text": "首要",
+    "entries": [
+      {"text": "首要", "pinyin": "shǒu yào", "en": "primary; foremost", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "受罪",
+    "entries": [
+      {"text": "受罪", "pinyin": "shòu zuì", "en": "suffer; endure hardship", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "授予",
+    "entries": [
+      {"text": "授予", "pinyin": "shòu yǔ", "en": "award; confer", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "书法",
+    "entries": [
+      {"text": "书法", "pinyin": "shū fǎ", "en": "calligraphy", "emoji": "🖌️"}
+    ]
+  },
+  {
+    "input_text": "书籍",
+    "entries": [
+      {"text": "书籍", "pinyin": "shū jí", "en": "books", "emoji": "📚"}
+    ]
+  },
+  {
+    "input_text": "书记",
+    "entries": [
+      {"text": "书记", "pinyin": "shū ji", "en": "secretary; party secretary", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "书面",
+    "entries": [
+      {"text": "书面", "pinyin": "shū miàn", "en": "written; in writing", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "舒畅",
+    "entries": [
+      {"text": "舒畅", "pinyin": "shū chàng", "en": "comfortable; carefree", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "疏忽",
+    "entries": [
+      {"text": "疏忽", "pinyin": "shū hu", "en": "negligent; overlook", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "疏远",
+    "entries": [
+      {"text": "疏远", "pinyin": "shū yuǎn", "en": "estranged; distant", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "束",
+    "entries": [
+      {"text": "束", "pinyin": "shù", "en": "bundle; bunch", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "束缚",
+    "entries": [
+      {"text": "束缚", "pinyin": "shù fù", "en": "restrain; fetter", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "树立",
+    "entries": [
+      {"text": "树立", "pinyin": "shù lì", "en": "establish; set up", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "竖",
+    "entries": [
+      {"text": "竖", "pinyin": "shù", "en": "vertical; upright", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "数额",
+    "entries": [
+      {"text": "数额", "pinyin": "shù é", "en": "amount; sum", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "耍",
+    "entries": [
+      {"text": "耍", "pinyin": "shuǎ", "en": "play; show off", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "衰老",
+    "entries": [
+      {"text": "衰老", "pinyin": "shuāi lǎo", "en": "age; grow old", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "衰退",
+    "entries": [
+      {"text": "衰退", "pinyin": "shuāi tuì", "en": "decline; deteriorate", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "率领",
+    "entries": [
+      {"text": "率领", "pinyin": "shuài lǐng", "en": "lead; command", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "涮火锅",
+    "entries": [
+      {"text": "涮火锅", "pinyin": "shuàn huǒ guō", "en": "hot pot", "emoji": "🍲"}
+    ]
+  },
+  {
+    "input_text": "双胞胎",
+    "entries": [
+      {"text": "双胞胎", "pinyin": "shuāng bāo tāi", "en": "twins", "emoji": "👶"}
+    ]
+  },
+  {
+    "input_text": "爽快",
+    "entries": [
+      {"text": "爽快", "pinyin": "shuǎng kuai", "en": "refreshing; straightforward", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "水利",
+    "entries": [
+      {"text": "水利", "pinyin": "shuǐ lì", "en": "water conservancy", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "水龙头",
+    "entries": [
+      {"text": "水龙头", "pinyin": "shuǐ lóng tóu", "en": "faucet; tap", "emoji": "🚰"}
+    ]
+  },
+  {
+    "input_text": "水泥",
+    "entries": [
+      {"text": "水泥", "pinyin": "shuǐ ní", "en": "cement", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "瞬间",
+    "entries": [
+      {"text": "瞬间", "pinyin": "shùn jiān", "en": "instant; moment", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "司法",
+    "entries": [
+      {"text": "司法", "pinyin": "sī fǎ", "en": "judicial; justice", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "司令",
+    "entries": [
+      {"text": "司令", "pinyin": "sī lìng", "en": "commander", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "私自",
+    "entries": [
+      {"text": "私自", "pinyin": "sī zì", "en": "privately; without permission", "emoji": ""}
+    ]
+  }
+]

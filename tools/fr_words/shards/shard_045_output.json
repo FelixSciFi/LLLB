@@ -1,0 +1,292 @@
+[
+  {
+    "text": "une intervention",
+    "ipa": "yn ɛ̃tɛʁvɑ̃sjɔ̃",
+    "translation": {"zh": "一次干预", "en": "an intervention"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une intervention", "lemma": "intervention", "ipa": "yn ɛ̃tɛʁvɑ̃sjɔ̃", "translation": {"zh": "干预", "en": "intervention"}, "emoji": "🗣️"}
+    ]
+  },
+  {
+    "text": "un dialogue",
+    "ipa": "œ̃ djalɔɡ",
+    "translation": {"zh": "一段对话", "en": "a dialogue"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un dialogue", "lemma": "dialogue", "ipa": "œ̃ djalɔɡ", "translation": {"zh": "对话", "en": "dialogue"}, "emoji": "💬"}
+    ]
+  },
+  {
+    "text": "un engagement",
+    "ipa": "œ̃ ɑ̃ɡaʒmɑ̃",
+    "translation": {"zh": "一种承诺", "en": "a commitment"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un engagement", "lemma": "engagement", "ipa": "œ̃ ɑ̃ɡaʒmɑ̃", "translation": {"zh": "承诺", "en": "commitment"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "une décennie",
+    "ipa": "yn desɛni",
+    "translation": {"zh": "一个十年", "en": "a decade"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une décennie", "lemma": "décennie", "ipa": "yn desɛni", "translation": {"zh": "十年", "en": "decade"}, "emoji": "📅"}
+    ]
+  },
+  {
+    "text": "des produits biologiques",
+    "ipa": "de pʁodɥi bjɔlɔʒik",
+    "translation": {"zh": "有机产品", "en": "organic products"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "des produits biologiques", "lemma": "biologique", "ipa": "de pʁodɥi bjɔlɔʒik", "translation": {"zh": "有机的", "en": "organic"}, "emoji": "🌿"}
+    ]
+  },
+  {
+    "text": "un paysage spectaculaire",
+    "ipa": "œ̃ peizaʒ spɛktakylɛʁ",
+    "translation": {"zh": "壮观的风景", "en": "a spectacular landscape"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un paysage", "lemma": "paysage", "ipa": "œ̃ peizaʒ", "translation": {"zh": "风景", "en": "landscape"}, "emoji": "🏞️"},
+      {"text": "spectaculaire", "lemma": "spectaculaire", "ipa": "spɛktakylɛʁ", "translation": {"zh": "壮观的", "en": "spectacular"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "le film débute à midi",
+    "ipa": "lə film debyt a midi",
+    "translation": {"zh": "电影在中午开始", "en": "the film starts at noon"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le film", "lemma": "film", "ipa": "lə film", "translation": {"zh": "电影", "en": "film"}, "emoji": "🎬"},
+      {"text": "débute", "lemma": "débuter", "ipa": "debyt", "translation": {"zh": "开始", "en": "starts"}, "emoji": "▶️"},
+      {"text": "à midi", "lemma": "midi", "ipa": "a midi", "translation": {"zh": "在中午", "en": "at noon"}, "emoji": "🕛"}
+    ]
+  },
+  {
+    "text": "elle peint un tableau",
+    "ipa": "ɛl pɛ̃ œ̃ tablo",
+    "translation": {"zh": "她画了一幅画", "en": "she paints a painting"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "elle peint", "lemma": "peindre", "ipa": "ɛl pɛ̃", "translation": {"zh": "她画", "en": "she paints"}, "emoji": "🎨"},
+      {"text": "un tableau", "lemma": "tableau", "ipa": "œ̃ tablo", "translation": {"zh": "一幅画", "en": "a painting"}, "emoji": "🖼️"}
+    ]
+  },
+  {
+    "text": "une conclusion",
+    "ipa": "yn kɔ̃klyzjɔ̃",
+    "translation": {"zh": "一个结论", "en": "a conclusion"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une conclusion", "lemma": "conclusion", "ipa": "yn kɔ̃klyzjɔ̃", "translation": {"zh": "结论", "en": "conclusion"}, "emoji": "✅"}
+    ]
+  },
+  {
+    "text": "étendre le linge",
+    "ipa": "etɑ̃dʁ lə lɛ̃ʒ",
+    "translation": {"zh": "晾衣服", "en": "to hang out the laundry"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "étendre", "lemma": "étendre", "ipa": "etɑ̃dʁ", "translation": {"zh": "晾", "en": "hang out"}, "emoji": ""},
+      {"text": "le linge", "lemma": "linge", "ipa": "lə lɛ̃ʒ", "translation": {"zh": "衣物", "en": "laundry"}, "emoji": "👕"}
+    ]
+  },
+  {
+    "text": "une recette de cuisine",
+    "ipa": "yn ʁəsɛt də kɥizin",
+    "translation": {"zh": "一道菜谱", "en": "a recipe"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une recette", "lemma": "recette", "ipa": "yn ʁəsɛt", "translation": {"zh": "菜谱", "en": "recipe"}, "emoji": "📖"},
+      {"text": "de cuisine", "lemma": "cuisine", "ipa": "də kɥizin", "translation": {"zh": "烹饪", "en": "cooking"}, "emoji": "🍳"}
+    ]
+  },
+  {
+    "text": "il traîne dans les rues",
+    "ipa": "il tʁɛn dɑ̃ le ʁy",
+    "translation": {"zh": "他在街上闲逛", "en": "he hangs around the streets"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il traîne", "lemma": "traîner", "ipa": "il tʁɛn", "translation": {"zh": "他闲逛", "en": "he hangs around"}, "emoji": "🚶"},
+      {"text": "dans les rues", "lemma": "rue", "ipa": "dɑ̃ le ʁy", "translation": {"zh": "在街上", "en": "in the streets"}, "emoji": "🏙️"}
+    ]
+  },
+  {
+    "text": "dans ce contexte",
+    "ipa": "dɑ̃ sə kɔ̃tɛkst",
+    "translation": {"zh": "在这种情境下", "en": "in this context"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "dans ce contexte", "lemma": "contexte", "ipa": "dɑ̃ sə kɔ̃tɛkst", "translation": {"zh": "在此情境", "en": "in this context"}, "emoji": "📌"}
+    ]
+  },
+  {
+    "text": "c'est extrêmement difficile",
+    "ipa": "sɛ ɛkstʁɛmmɑ̃ difisil",
+    "translation": {"zh": "这极其困难", "en": "it is extremely difficult"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "c'est extrêmement difficile", "lemma": "difficile", "ipa": "sɛ ɛkstʁɛmmɑ̃ difisil", "translation": {"zh": "极其困难", "en": "extremely difficult"}, "emoji": "😓"}
+    ]
+  },
+  {
+    "text": "analyser des données",
+    "ipa": "analize de dɔne",
+    "translation": {"zh": "分析数据", "en": "to analyze data"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "analyser", "lemma": "analyser", "ipa": "analize", "translation": {"zh": "分析", "en": "analyze"}, "emoji": "🔍"},
+      {"text": "des données", "lemma": "donnée", "ipa": "de dɔne", "translation": {"zh": "数据", "en": "data"}, "emoji": "📊"}
+    ]
+  },
+  {
+    "text": "plonger dans l'eau",
+    "ipa": "plɔ̃ʒe dɑ̃ lo",
+    "translation": {"zh": "跳入水中", "en": "to dive into the water"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "plonger", "lemma": "plonger", "ipa": "plɔ̃ʒe", "translation": {"zh": "跳入", "en": "dive into"}, "emoji": "🏊"},
+      {"text": "dans l'eau", "lemma": "eau", "ipa": "dɑ̃ lo", "translation": {"zh": "水中", "en": "the water"}, "emoji": "💧"}
+    ]
+  },
+  {
+    "text": "une illusion",
+    "ipa": "yn ilyzjɔ̃",
+    "translation": {"zh": "一种幻觉", "en": "an illusion"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une illusion", "lemma": "illusion", "ipa": "yn ilyzjɔ̃", "translation": {"zh": "幻觉", "en": "illusion"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "une goutte de pluie",
+    "ipa": "yn ɡut də plɥi",
+    "translation": {"zh": "一滴雨", "en": "a drop of rain"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une goutte", "lemma": "goutte", "ipa": "yn ɡut", "translation": {"zh": "一滴", "en": "a drop"}, "emoji": "💧"},
+      {"text": "de pluie", "lemma": "pluie", "ipa": "də plɥi", "translation": {"zh": "雨", "en": "rain"}, "emoji": "🌧️"}
+    ]
+  },
+  {
+    "text": "les enjeux sont importants",
+    "ipa": "le ɑ̃ʒø sɔ̃ ɛ̃pɔʁtɑ̃",
+    "translation": {"zh": "利害关系很重要", "en": "the stakes are high"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "les enjeux", "lemma": "enjeu", "ipa": "le ɑ̃ʒø", "translation": {"zh": "利害关系", "en": "stakes"}, "emoji": "⚠️"},
+      {"text": "sont importants", "lemma": "important", "ipa": "sɔ̃ ɛ̃pɔʁtɑ̃", "translation": {"zh": "很重要", "en": "are high"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le monde occidental",
+    "ipa": "lə mɔ̃d ɔksidɑ̃tal",
+    "translation": {"zh": "西方世界", "en": "the Western world"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le monde", "lemma": "monde", "ipa": "lə mɔ̃d", "translation": {"zh": "世界", "en": "world"}, "emoji": "🌍"},
+      {"text": "occidental", "lemma": "occidental", "ipa": "ɔksidɑ̃tal", "translation": {"zh": "西方的", "en": "Western"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une installation artistique",
+    "ipa": "yn ɛ̃stalasjɔ̃ aʁtistik",
+    "translation": {"zh": "一件装置艺术", "en": "an art installation"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une installation", "lemma": "installation", "ipa": "yn ɛ̃stalasjɔ̃", "translation": {"zh": "装置", "en": "installation"}, "emoji": "🎭"},
+      {"text": "artistique", "lemma": "artistique", "ipa": "aʁtistik", "translation": {"zh": "艺术的", "en": "artistic"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un artiste contemporain",
+    "ipa": "œ̃ aʁtist kɔ̃tɑ̃pɔʁɛ̃",
+    "translation": {"zh": "一位当代艺术家", "en": "a contemporary artist"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un artiste", "lemma": "artiste", "ipa": "œ̃ aʁtist", "translation": {"zh": "艺术家", "en": "artist"}, "emoji": "🎨"},
+      {"text": "contemporain", "lemma": "contemporain", "ipa": "kɔ̃tɑ̃pɔʁɛ̃", "translation": {"zh": "当代的", "en": "contemporary"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une large audience",
+    "ipa": "yn laʁʒ odjɑ̃s",
+    "translation": {"zh": "广泛的受众", "en": "a large audience"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une large audience", "lemma": "audience", "ipa": "yn laʁʒ odjɑ̃s", "translation": {"zh": "受众", "en": "audience"}, "emoji": "👥"}
+    ]
+  },
+  {
+    "text": "un portrait de famille",
+    "ipa": "œ̃ pɔʁtʁɛ də famij",
+    "translation": {"zh": "一张家庭肖像", "en": "a family portrait"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un portrait", "lemma": "portrait", "ipa": "œ̃ pɔʁtʁɛ", "translation": {"zh": "肖像", "en": "portrait"}, "emoji": "🖼️"},
+      {"text": "de famille", "lemma": "famille", "ipa": "də famij", "translation": {"zh": "家庭", "en": "family"}, "emoji": "👨‍👩‍👧"}
+    ]
+  },
+  {
+    "text": "il suggère une idée",
+    "ipa": "il syʒɛʁ yn ide",
+    "translation": {"zh": "他提出一个想法", "en": "he suggests an idea"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "il suggère", "lemma": "suggérer", "ipa": "il syʒɛʁ", "translation": {"zh": "他提出", "en": "he suggests"}, "emoji": "💡"},
+      {"text": "une idée", "lemma": "idée", "ipa": "yn ide", "translation": {"zh": "一个想法", "en": "an idea"}, "emoji": "🧠"}
+    ]
+  },
+  {
+    "text": "un député de l'Assemblée",
+    "ipa": "œ̃ depyte də lasɑ̃ble",
+    "translation": {"zh": "一位议会议员", "en": "a member of parliament"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un député", "lemma": "député", "ipa": "œ̃ depyte", "translation": {"zh": "议员", "en": "MP"}, "emoji": "🏛️"},
+      {"text": "de l'Assemblée", "lemma": "assemblée", "ipa": "də lasɑ̃ble", "translation": {"zh": "议会", "en": "assembly"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "ça coûte cent dollars",
+    "ipa": "sa kut sɑ̃ dɔlaʁ",
+    "translation": {"zh": "这要一百美元", "en": "that costs one hundred dollars"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ça coûte", "lemma": "coûter", "ipa": "sa kut", "translation": {"zh": "花费", "en": "costs"}, "emoji": "💰"},
+      {"text": "cent dollars", "lemma": "dollar", "ipa": "sɑ̃ dɔlaʁ", "translation": {"zh": "一百美元", "en": "one hundred dollars"}, "emoji": "💵"}
+    ]
+  },
+  {
+    "text": "une sculpture en marbre",
+    "ipa": "yn skyltyn ɑ̃ maʁbʁ",
+    "translation": {"zh": "一件大理石雕塑", "en": "a marble sculpture"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une sculpture", "lemma": "sculpture", "ipa": "yn skylptyʁ", "translation": {"zh": "雕塑", "en": "sculpture"}, "emoji": "🗿"},
+      {"text": "en marbre", "lemma": "marbre", "ipa": "ɑ̃ maʁbʁ", "translation": {"zh": "大理石", "en": "marble"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une théorie scientifique",
+    "ipa": "yn teɔʁi sjɑ̃tifik",
+    "translation": {"zh": "一种科学理论", "en": "a scientific theory"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une théorie", "lemma": "théorie", "ipa": "yn teɔʁi", "translation": {"zh": "理论", "en": "theory"}, "emoji": "🔬"},
+      {"text": "scientifique", "lemma": "scientifique", "ipa": "sjɑ̃tifik", "translation": {"zh": "科学的", "en": "scientific"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "c'est une plaisanterie",
+    "ipa": "sɛ yn plɛzɑ̃tʁi",
+    "translation": {"zh": "这是个玩笑", "en": "it's a joke"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est une plaisanterie", "lemma": "plaisanterie", "ipa": "sɛ yn plɛzɑ̃tʁi", "translation": {"zh": "玩笑", "en": "joke"}, "emoji": "😄"}
+    ]
+  }
+]

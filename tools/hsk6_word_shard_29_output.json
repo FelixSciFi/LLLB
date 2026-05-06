@@ -1,0 +1,182 @@
+[
+  {
+    "input_text": "纪要",
+    "entries": [
+      {"text": "纪要", "pinyin": "jì yào", "en": "meeting minutes", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_text": "技巧",
+    "entries": [
+      {"text": "技巧", "pinyin": "jì qiǎo", "en": "skill; technique", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "忌讳",
+    "entries": [
+      {"text": "忌讳", "pinyin": "jì huì", "en": "taboo; avoid", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "季度",
+    "entries": [
+      {"text": "季度", "pinyin": "jì dù", "en": "quarter (period)", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_text": "季军",
+    "entries": [
+      {"text": "季军", "pinyin": "jì jūn", "en": "third place", "emoji": "🥉"}
+    ]
+  },
+  {
+    "input_text": "迹象",
+    "entries": [
+      {"text": "迹象", "pinyin": "jì xiàng", "en": "sign; indication", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "继承",
+    "entries": [
+      {"text": "继承", "pinyin": "jì chéng", "en": "inherit; succession", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "寄托",
+    "entries": [
+      {"text": "寄托", "pinyin": "jì tuō", "en": "place hopes in", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "寂静",
+    "entries": [
+      {"text": "寂静", "pinyin": "jì jìng", "en": "silent; still", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "加工",
+    "entries": [
+      {"text": "加工", "pinyin": "jiā gōng", "en": "process; manufacture", "emoji": "🏭"}
+    ]
+  },
+  {
+    "input_text": "加剧",
+    "entries": [
+      {"text": "加剧", "pinyin": "jiā jù", "en": "intensify; worsen", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "夹杂",
+    "entries": [
+      {"text": "夹杂", "pinyin": "jiā zá", "en": "mixed with; interspersed", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "佳肴",
+    "entries": [
+      {"text": "佳肴", "pinyin": "jiā yáo", "en": "fine food; delicacy", "emoji": "🍽️"}
+    ]
+  },
+  {
+    "input_text": "家常",
+    "entries": [
+      {"text": "家常", "pinyin": "jiā cháng", "en": "everyday; homestyle", "emoji": "🏠"}
+    ]
+  },
+  {
+    "input_text": "家伙",
+    "entries": [
+      {"text": "家伙", "pinyin": "jiā huo", "en": "guy; fellow", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "家属",
+    "entries": [
+      {"text": "家属", "pinyin": "jiā shǔ", "en": "family members", "emoji": "👨‍👩‍👧"}
+    ]
+  },
+  {
+    "input_text": "家喻户晓",
+    "entries": [
+      {"text": "家喻户晓", "pinyin": "jiā yù hù xiǎo", "en": "household name", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "尖端",
+    "entries": [
+      {"text": "尖端", "pinyin": "jiān duān", "en": "cutting-edge; tip", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "尖锐",
+    "entries": [
+      {"text": "尖锐", "pinyin": "jiān ruì", "en": "sharp; pointed; keen", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "坚定",
+    "entries": [
+      {"text": "坚定", "pinyin": "jiān dìng", "en": "firm; resolute", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "坚固",
+    "entries": [
+      {"text": "坚固", "pinyin": "jiān gù", "en": "solid; sturdy", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "坚韧",
+    "entries": [
+      {"text": "坚韧", "pinyin": "jiān rèn", "en": "tough; resilient", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "坚实",
+    "entries": [
+      {"text": "坚实", "pinyin": "jiān shí", "en": "solid; substantial", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "坚硬",
+    "entries": [
+      {"text": "坚硬", "pinyin": "jiān yìng", "en": "hard; rigid", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "艰难",
+    "entries": [
+      {"text": "艰难", "pinyin": "jiān nán", "en": "difficult; arduous", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "监督",
+    "entries": [
+      {"text": "监督", "pinyin": "jiān dū", "en": "supervise; oversee", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "监视",
+    "entries": [
+      {"text": "监视", "pinyin": "jiān shì", "en": "monitor; surveil", "emoji": "📷"}
+    ]
+  },
+  {
+    "input_text": "监狱",
+    "entries": [
+      {"text": "监狱", "pinyin": "jiān yù", "en": "prison; jail", "emoji": "🔒"}
+    ]
+  },
+  {
+    "input_text": "煎",
+    "entries": [
+      {"text": "煎", "pinyin": "jiān", "en": "pan-fry; sear", "emoji": "🍳"}
+    ]
+  },
+  {
+    "input_text": "拣",
+    "entries": [
+      {"text": "拣", "pinyin": "jiǎn", "en": "pick; choose; select", "emoji": ""}
+    ]
+  }
+]

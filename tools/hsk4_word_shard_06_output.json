@@ -1,0 +1,318 @@
+[
+  {
+    "input_text": "回忆",
+    "entries": [
+      {
+        "text": "回忆",
+        "pinyin": "huí yì",
+        "en": "memory; recall",
+        "emoji": "🧠"
+      }
+    ]
+  },
+  {
+    "input_text": "活动",
+    "entries": [
+      {
+        "text": "活动",
+        "pinyin": "huó dòng",
+        "en": "activity; event",
+        "emoji": "🎉"
+      }
+    ]
+  },
+  {
+    "input_text": "活泼",
+    "entries": [
+      {
+        "text": "活泼",
+        "pinyin": "huó pō",
+        "en": "lively; vivacious",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "火",
+    "entries": [
+      {
+        "text": "火",
+        "pinyin": "huǒ",
+        "en": "fire",
+        "emoji": "🔥"
+      }
+    ]
+  },
+  {
+    "input_text": "获得",
+    "entries": [
+      {
+        "text": "获得",
+        "pinyin": "huò dé",
+        "en": "obtain; gain",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "积极",
+    "entries": [
+      {
+        "text": "积极",
+        "pinyin": "jī jí",
+        "en": "positive; active",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "积累",
+    "entries": [
+      {
+        "text": "积累",
+        "pinyin": "jī lěi",
+        "en": "accumulate; build up",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "基础",
+    "entries": [
+      {
+        "text": "基础",
+        "pinyin": "jī chǔ",
+        "en": "foundation; basics",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "激动",
+    "entries": [
+      {
+        "text": "激动",
+        "pinyin": "jī dòng",
+        "en": "excited; emotional",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "及时",
+    "entries": [
+      {
+        "text": "及时",
+        "pinyin": "jí shí",
+        "en": "timely; in time",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "即使",
+    "entries": []
+  },
+  {
+    "input_text": "计划",
+    "entries": [
+      {
+        "text": "计划",
+        "pinyin": "jì huà",
+        "en": "plan; schedule",
+        "emoji": "📋"
+      }
+    ]
+  },
+  {
+    "input_text": "记者",
+    "entries": [
+      {
+        "text": "记者",
+        "pinyin": "jì zhě",
+        "en": "journalist; reporter",
+        "emoji": "🎤"
+      }
+    ]
+  },
+  {
+    "input_text": "技术",
+    "entries": [
+      {
+        "text": "技术",
+        "pinyin": "jì shù",
+        "en": "technology; skill",
+        "emoji": "⚙️"
+      }
+    ]
+  },
+  {
+    "input_text": "既然",
+    "entries": []
+  },
+  {
+    "input_text": "继续",
+    "entries": [
+      {
+        "text": "继续",
+        "pinyin": "jì xù",
+        "en": "continue; keep on",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "寄",
+    "entries": [
+      {
+        "text": "寄",
+        "pinyin": "jì",
+        "en": "mail; send",
+        "emoji": "📮"
+      }
+    ]
+  },
+  {
+    "input_text": "加班",
+    "entries": [
+      {
+        "text": "加班",
+        "pinyin": "jiā bān",
+        "en": "work overtime",
+        "emoji": "⏰"
+      }
+    ]
+  },
+  {
+    "input_text": "加油站",
+    "entries": [
+      {
+        "text": "加油站",
+        "pinyin": "jiā yóu zhàn",
+        "en": "gas station",
+        "emoji": "⛽"
+      }
+    ]
+  },
+  {
+    "input_text": "家具",
+    "entries": [
+      {
+        "text": "家具",
+        "pinyin": "jiā jù",
+        "en": "furniture",
+        "emoji": "🪑"
+      }
+    ]
+  },
+  {
+    "input_text": "假",
+    "entries": [
+      {
+        "text": "假",
+        "pinyin": "jiǎ",
+        "en": "fake; false",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "价格",
+    "entries": [
+      {
+        "text": "价格",
+        "pinyin": "jià gé",
+        "en": "price; cost",
+        "emoji": "💰"
+      }
+    ]
+  },
+  {
+    "input_text": "坚持",
+    "entries": [
+      {
+        "text": "坚持",
+        "pinyin": "jiān chí",
+        "en": "persist; insist",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "减肥",
+    "entries": [
+      {
+        "text": "减肥",
+        "pinyin": "jiǎn féi",
+        "en": "lose weight",
+        "emoji": "⚖️"
+      }
+    ]
+  },
+  {
+    "input_text": "减少",
+    "entries": [
+      {
+        "text": "减少",
+        "pinyin": "jiǎn shǎo",
+        "en": "reduce; decrease",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "建议",
+    "entries": [
+      {
+        "text": "建议",
+        "pinyin": "jiàn yì",
+        "en": "suggest; advice",
+        "emoji": "💡"
+      }
+    ]
+  },
+  {
+    "input_text": "将来",
+    "entries": [
+      {
+        "text": "将来",
+        "pinyin": "jiāng lái",
+        "en": "future; ahead",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "奖金",
+    "entries": [
+      {
+        "text": "奖金",
+        "pinyin": "jiǎng jīn",
+        "en": "bonus; prize money",
+        "emoji": "💵"
+      }
+    ]
+  },
+  {
+    "input_text": "降低",
+    "entries": [
+      {
+        "text": "降低",
+        "pinyin": "jiàng dī",
+        "en": "lower; reduce",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "降落",
+    "entries": [
+      {
+        "text": "降落",
+        "pinyin": "jiàng luò",
+        "en": "land; descend",
+        "emoji": "✈️"
+      }
+    ]
+  }
+]

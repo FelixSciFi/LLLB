@@ -1,0 +1,268 @@
+[
+  {
+    "input_word": "original",
+    "entries": [
+      {
+        "text": "original",
+        "ipa": "/əˈrɪdʒənəl/",
+        "cefr": "A2",
+        "zh": "原始的",
+        "emoji": "🔰"
+      }
+    ]
+  },
+  {
+    "input_word": "originally",
+    "entries": [
+      {
+        "text": "originally",
+        "ipa": "/əˈrɪdʒənəli/",
+        "cefr": "B1",
+        "zh": "最初地",
+        "emoji": "⏮️"
+      }
+    ]
+  },
+  {
+    "input_word": "other",
+    "entries": [
+      {
+        "text": "other",
+        "ipa": "/ˈʌðər/",
+        "cefr": "A1",
+        "zh": "其他的",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "otherwise",
+    "entries": [
+      {
+        "text": "otherwise",
+        "ipa": "/ˈʌðərwaɪz/",
+        "cefr": "B2",
+        "zh": "否则",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "ought",
+    "entries": [
+      {
+        "text": "ought",
+        "ipa": "/ɔːt/",
+        "cefr": "B1",
+        "zh": "应该",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "our",
+    "entries": [
+      {
+        "text": "our",
+        "ipa": "/aʊər/",
+        "cefr": "A1",
+        "zh": "我们的",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "ours",
+    "entries": [
+      {
+        "text": "ours",
+        "ipa": "/aʊərz/",
+        "cefr": "B1",
+        "zh": "我们的",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "ourselves",
+    "entries": [
+      {
+        "text": "ourselves",
+        "ipa": "/aʊərˈsɛlvz/",
+        "cefr": "A2",
+        "zh": "我们自己",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "out",
+    "entries": [
+      {
+        "text": "out",
+        "ipa": "/aʊt/",
+        "cefr": "A1",
+        "zh": "出去",
+        "emoji": "🚪"
+      }
+    ]
+  },
+  {
+    "input_word": "outcome",
+    "entries": [
+      {
+        "text": "outcome",
+        "ipa": "/ˈaʊtˌkʌm/",
+        "cefr": "B2",
+        "zh": "结果",
+        "emoji": "🏁"
+      }
+    ]
+  },
+  {
+    "input_word": "outdoor",
+    "entries": [
+      {
+        "text": "outdoor",
+        "ipa": "/ˈaʊtˌdɔːr/",
+        "cefr": "B1",
+        "zh": "户外的",
+        "emoji": "🌿"
+      }
+    ]
+  },
+  {
+    "input_word": "outdoors",
+    "entries": [
+      {
+        "text": "outdoors",
+        "ipa": "/ˌaʊtˈdɔːrz/",
+        "cefr": "B1",
+        "zh": "在户外",
+        "emoji": "🌳"
+      }
+    ]
+  },
+  {
+    "input_word": "outer",
+    "entries": [
+      {
+        "text": "outer",
+        "ipa": "/ˈaʊtər/",
+        "cefr": "B2",
+        "zh": "外部的",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "outline",
+    "entries": [
+      {
+        "text": "outline",
+        "ipa": "/ˈaʊtˌlaɪn/",
+        "cefr": "B2",
+        "zh": "轮廓",
+        "emoji": "📝"
+      },
+      {
+        "text": "outline",
+        "ipa": "/ˈaʊtˌlaɪn/",
+        "cefr": "B2",
+        "zh": "概述",
+        "emoji": "📋"
+      }
+    ]
+  },
+  {
+    "input_word": "outside",
+    "entries": [
+      {
+        "text": "outside",
+        "ipa": "/ˌaʊtˈsaɪd/",
+        "cefr": "A1",
+        "zh": "外面",
+        "emoji": "🚪"
+      }
+    ]
+  },
+  {
+    "input_word": "oven",
+    "entries": [
+      {
+        "text": "oven",
+        "ipa": "/ˈʌvən/",
+        "cefr": "A2",
+        "zh": "烤箱",
+        "emoji": "🫙"
+      }
+    ]
+  },
+  {
+    "input_word": "over",
+    "entries": [
+      {
+        "text": "over",
+        "ipa": "/ˈoʊvər/",
+        "cefr": "A1",
+        "zh": "在上方",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "overall",
+    "entries": [
+      {
+        "text": "overall",
+        "ipa": "/ˌoʊvərˈɔːl/",
+        "cefr": "B2",
+        "zh": "总体上",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "owe",
+    "entries": [
+      {
+        "text": "owe",
+        "ipa": "/oʊ/",
+        "cefr": "B2",
+        "zh": "欠债",
+        "emoji": "💸"
+      }
+    ]
+  },
+  {
+    "input_word": "own",
+    "entries": [
+      {
+        "text": "own",
+        "ipa": "/oʊn/",
+        "cefr": "A1",
+        "zh": "自己的",
+        "emoji": ""
+      },
+      {
+        "text": "own",
+        "ipa": "/oʊn/",
+        "cefr": "A1",
+        "zh": "拥有",
+        "emoji": "🔑"
+      }
+    ]
+  },
+  {
+    "input_word": "owner",
+    "entries": [
+      {
+        "text": "owner",
+        "ipa": "/ˈoʊnər/",
+        "cefr": "A2",
+        "zh": "所有者",
+        "emoji": "🔑"
+      }
+    ]
+  }
+]

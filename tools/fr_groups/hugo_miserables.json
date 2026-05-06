@@ -1,0 +1,63 @@
+[
+  {
+    "text": "Cosette était laide.",
+    "ipa": "kozɛt etɛ lɛd",
+    "translation": {"zh": "珂赛特长得丑。", "en": "Cosette was ugly."},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Cosette", "lemma": "Cosette", "ipa": "kozɛt", "translation": {"zh": "珂赛特", "en": "Cosette"}, "emoji": ""},
+      {"text": "était laide", "lemma": "laid", "ipa": "etɛ lɛd", "translation": {"zh": "长得丑", "en": "was ugly"}, "emoji": ""}
+    ],
+    "tags": [{"name": "Les Misérables", "index": 1}]
+  },
+  {
+    "text": "Heureuse, elle eût peut-être été jolie.",
+    "ipa": "œʁøz ɛl y pøtɛtʁ ete ʒɔli",
+    "translation": {"zh": "若幸福，她也许会变得漂亮。", "en": "Happy, she might perhaps have been pretty."},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Heureuse", "lemma": "heureux", "ipa": "œʁøz", "translation": {"zh": "幸福的", "en": "happy"}, "emoji": ""},
+      {"text": "elle eût été jolie", "lemma": "joli", "ipa": "ɛl y ete ʒɔli", "translation": {"zh": "她会很漂亮", "en": "she would have been pretty"}, "emoji": ""},
+      {"text": "peut-être", "lemma": "peut-être", "ipa": "pøtɛtʁ", "translation": {"zh": "也许", "en": "perhaps"}, "emoji": ""}
+    ],
+    "tags": [{"name": "Les Misérables", "index": 2}]
+  },
+  {
+    "text": "Nous avons déjà esquissé cette petite figure sombre.",
+    "ipa": "nu zavɔ̃ deʒa ɛskise sɛt pətit fiɡyʁ sɔ̃bʁ",
+    "translation": {"zh": "我们已经勾勒过这张阴郁的小脸。", "en": "We have already sketched this little dark figure."},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Nous avons esquissé", "lemma": "esquisser", "ipa": "nu zavɔ̃ ɛskise", "translation": {"zh": "我们勾勒过", "en": "we have sketched"}, "emoji": ""},
+      {"text": "déjà", "lemma": "déjà", "ipa": "deʒa", "translation": {"zh": "已经", "en": "already"}, "emoji": ""},
+      {"text": "cette petite figure", "lemma": "figure", "ipa": "sɛt pətit fiɡyʁ", "translation": {"zh": "这张小脸", "en": "this little face"}, "emoji": ""},
+      {"text": "sombre", "lemma": "sombre", "ipa": "sɔ̃bʁ", "translation": {"zh": "阴郁的", "en": "dark"}, "emoji": ""}
+    ],
+    "tags": [{"name": "Les Misérables", "index": 3}]
+  },
+  {
+    "text": "Cosette était maigre et blême ; elle avait près de huit ans,",
+    "ipa": "kozɛt etɛ mɛɡʁ e blɛm ɛl avɛ pʁɛ də ɥit ɑ̃",
+    "translation": {"zh": "珂赛特又瘦又苍白；她快八岁了，", "en": "Cosette was thin and pale; she was nearly eight years old,"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Cosette était maigre", "lemma": "maigre", "ipa": "kozɛt etɛ mɛɡʁ", "translation": {"zh": "珂赛特很瘦", "en": "Cosette was thin"}, "emoji": ""},
+      {"text": "et blême", "lemma": "blême", "ipa": "e blɛm", "translation": {"zh": "又苍白", "en": "and pale"}, "emoji": ""},
+      {"text": "elle avait", "lemma": "avoir", "ipa": "ɛl avɛ", "translation": {"zh": "她有", "en": "she had"}, "emoji": ""},
+      {"text": "près de huit ans", "lemma": "an", "ipa": "pʁɛ də ɥit ɑ̃", "translation": {"zh": "将近八岁", "en": "nearly eight years"}, "emoji": ""}
+    ],
+    "tags": [{"name": "Les Misérables", "index": 4}]
+  },
+  {
+    "text": "on lui en eût donné à peine six.",
+    "ipa": "ɔ̃ lɥi ɑ̃n y dɔne a pɛn sis",
+    "translation": {"zh": "看上去却顶多只有六岁。", "en": "one would scarcely have given her six."},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "on lui en eût donné", "lemma": "donner", "ipa": "ɔ̃ lɥi ɑ̃n y dɔne", "translation": {"zh": "会给她算作", "en": "one would have given her"}, "emoji": ""},
+      {"text": "à peine", "lemma": "à peine", "ipa": "a pɛn", "translation": {"zh": "勉强", "en": "scarcely"}, "emoji": ""},
+      {"text": "six", "lemma": "six", "ipa": "sis", "translation": {"zh": "六岁", "en": "six"}, "emoji": ""}
+    ],
+    "tags": [{"name": "Les Misérables", "index": 5}]
+  }
+]

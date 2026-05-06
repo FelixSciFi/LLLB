@@ -1,0 +1,304 @@
+[
+  {
+    "input_text": "来自",
+    "entries": [
+      {
+        "text": "来自",
+        "pinyin": "lái zì",
+        "en": "come from",
+        "emoji": "📍"
+      }
+    ]
+  },
+  {
+    "input_text": "懒",
+    "entries": [
+      {
+        "text": "懒",
+        "pinyin": "lǎn",
+        "en": "lazy",
+        "emoji": "😴"
+      }
+    ]
+  },
+  {
+    "input_text": "浪费",
+    "entries": [
+      {
+        "text": "浪费",
+        "pinyin": "làng fèi",
+        "en": "waste",
+        "emoji": "🗑️"
+      }
+    ]
+  },
+  {
+    "input_text": "浪漫",
+    "entries": [
+      {
+        "text": "浪漫",
+        "pinyin": "làng màn",
+        "en": "romantic",
+        "emoji": "💕"
+      }
+    ]
+  },
+  {
+    "input_text": "老虎",
+    "entries": [
+      {
+        "text": "老虎",
+        "pinyin": "lǎo hǔ",
+        "en": "tiger",
+        "emoji": "🐯"
+      }
+    ]
+  },
+  {
+    "input_text": "冷静",
+    "entries": [
+      {
+        "text": "冷静",
+        "pinyin": "lěng jìng",
+        "en": "calm",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "礼拜天",
+    "entries": [
+      {
+        "text": "礼拜天",
+        "pinyin": "lǐ bài tiān",
+        "en": "Sunday",
+        "emoji": "📅"
+      }
+    ]
+  },
+  {
+    "input_text": "礼貌",
+    "entries": [
+      {
+        "text": "礼貌",
+        "pinyin": "lǐ mào",
+        "en": "polite",
+        "emoji": "🙏"
+      }
+    ]
+  },
+  {
+    "input_text": "理发",
+    "entries": [
+      {
+        "text": "理发",
+        "pinyin": "lǐ fà",
+        "en": "haircut",
+        "emoji": "💇"
+      }
+    ]
+  },
+  {
+    "input_text": "理解",
+    "entries": [
+      {
+        "text": "理解",
+        "pinyin": "lǐ jiě",
+        "en": "understand",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "理想",
+    "entries": [
+      {
+        "text": "理想",
+        "pinyin": "lǐ xiǎng",
+        "en": "ideal",
+        "emoji": "✨"
+      }
+    ]
+  },
+  {
+    "input_text": "力气",
+    "entries": [
+      {
+        "text": "力气",
+        "pinyin": "lì qi",
+        "en": "strength",
+        "emoji": "💪"
+      }
+    ]
+  },
+  {
+    "input_text": "厉害",
+    "entries": [
+      {
+        "text": "厉害",
+        "pinyin": "lì hài",
+        "en": "impressive",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "例如",
+    "entries": []
+  },
+  {
+    "input_text": "俩",
+    "entries": []
+  },
+  {
+    "input_text": "连",
+    "entries": []
+  },
+  {
+    "input_text": "联系",
+    "entries": [
+      {
+        "text": "联系",
+        "pinyin": "lián xì",
+        "en": "contact",
+        "emoji": "📞"
+      }
+    ]
+  },
+  {
+    "input_text": "凉快",
+    "entries": [
+      {
+        "text": "凉快",
+        "pinyin": "liáng kuài",
+        "en": "cool",
+        "emoji": "🌬️"
+      }
+    ]
+  },
+  {
+    "input_text": "零钱",
+    "entries": [
+      {
+        "text": "零钱",
+        "pinyin": "líng qián",
+        "en": "loose change",
+        "emoji": "🪙"
+      }
+    ]
+  },
+  {
+    "input_text": "另外",
+    "entries": []
+  },
+  {
+    "input_text": "留",
+    "entries": [
+      {
+        "text": "留",
+        "pinyin": "liú",
+        "en": "stay; keep",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "流利",
+    "entries": [
+      {
+        "text": "流利",
+        "pinyin": "liú lì",
+        "en": "fluent",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "流行",
+    "entries": [
+      {
+        "text": "流行",
+        "pinyin": "liú xíng",
+        "en": "popular",
+        "emoji": "🔥"
+      }
+    ]
+  },
+  {
+    "input_text": "旅行",
+    "entries": [
+      {
+        "text": "旅行",
+        "pinyin": "lǚ xíng",
+        "en": "travel",
+        "emoji": "✈️"
+      }
+    ]
+  },
+  {
+    "input_text": "律师",
+    "entries": [
+      {
+        "text": "律师",
+        "pinyin": "lǜ shī",
+        "en": "lawyer",
+        "emoji": "⚖️"
+      }
+    ]
+  },
+  {
+    "input_text": "乱",
+    "entries": [
+      {
+        "text": "乱",
+        "pinyin": "luàn",
+        "en": "messy",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "麻烦",
+    "entries": [
+      {
+        "text": "麻烦",
+        "pinyin": "má fan",
+        "en": "trouble",
+        "emoji": "😩"
+      }
+    ]
+  },
+  {
+    "input_text": "马虎",
+    "entries": [
+      {
+        "text": "马虎",
+        "pinyin": "mǎ hu",
+        "en": "careless",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "满",
+    "entries": [
+      {
+        "text": "满",
+        "pinyin": "mǎn",
+        "en": "full",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "毛",
+    "entries": [
+      {
+        "text": "毛",
+        "pinyin": "máo",
+        "en": "hair; dime",
+        "emoji": "🪙"
+      }
+    ]
+  }
+]

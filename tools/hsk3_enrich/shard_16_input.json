@@ -1,0 +1,595 @@
+[
+  {
+    "id": "22c2c8e6-d89d-494c-9f1e-c95a8b704024",
+    "text": "冬天很多鸟飞向南方。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "冬天",
+        "lemma": "冬天",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "很多鸟",
+        "lemma": "很多鸟",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "飞向南方",
+        "lemma": "飞向南方",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "03f449a0-4ea6-473d-a412-c3d17c734df1",
+    "text": "这道题真的很难。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这道题",
+        "lemma": "这道题",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "真的很难",
+        "lemma": "真的很难",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "87bc8740-985e-4d8c-a2d0-41b604ebd3d0",
+    "text": "学好一门语言不难。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "学好",
+        "lemma": "学好",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "一门语言",
+        "lemma": "一门语言",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "不难",
+        "lemma": "不难",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "326eccde-1a53-45ff-8f17-9148cf50fcae",
+    "text": "她听到这个消息很难过。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "她听到",
+        "lemma": "她听到",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "这个消息",
+        "lemma": "这个消息",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "很难过",
+        "lemma": "很难过",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "8c15e99f-7e61-4df7-a773-7c29b2259934",
+    "text": "他失败了但没有难过太久。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他失败了",
+        "lemma": "他失败了",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "但是",
+        "lemma": "但是",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "没有难过",
+        "lemma": "没有难过",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "太久",
+        "lemma": "太久",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "268df7f5-a4a6-4bdd-a27d-391ac83e24df",
+    "text": "她今年上五年级。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "她今年",
+        "lemma": "她今年",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "上五年级",
+        "lemma": "上五年级",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "37f0d4f7-3980-4291-85da-a4c75dfb2b8d",
+    "text": "我弟弟比我低两个年级。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我弟弟",
+        "lemma": "我弟弟",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "比我",
+        "lemma": "比我",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "低两个",
+        "lemma": "低两个",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "年级",
+        "lemma": "年级",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "caab8254-a420-403a-8b65-0844cdab9976",
+    "text": "她看起来很年轻。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "她",
+        "lemma": "她",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "看起来",
+        "lemma": "看起来",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "很年轻",
+        "lemma": "很年轻",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "93884122-fbea-4cdd-8dca-6fc2df766903",
+    "text": "年轻的时候要多学习。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "年轻的",
+        "lemma": "年轻的",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "时候",
+        "lemma": "时候",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "要多学习",
+        "lemma": "要多学习",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "308c8461-5201-4d98-abc8-bff960daf3e6",
+    "text": "树上有几只小鸟在唱歌。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "树上",
+        "lemma": "树上",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "有几只",
+        "lemma": "有几只",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "小鸟",
+        "lemma": "小鸟",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "在唱歌",
+        "lemma": "在唱歌",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "c797e129-2651-498f-9a6c-0a7e882177b7",
+    "text": "那只鸟的颜色很漂亮。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "那只鸟的",
+        "lemma": "那只鸟的",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "颜色",
+        "lemma": "颜色",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "很漂亮",
+        "lemma": "很漂亮",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "baebad8f-90ee-4547-918d-d0ef093dcea0",
+    "text": "他一直很努力地工作。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他一直",
+        "lemma": "他一直",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "很努力地",
+        "lemma": "很努力地",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "工作",
+        "lemma": "工作",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "7c5cc83d-adae-4b9e-92cf-ec294e73e2bc",
+    "text": "只要努力就会成功。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "只要努力",
+        "lemma": "只要努力",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "就会成功",
+        "lemma": "就会成功",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "8af5f10c-4498-4cf6-b050-7224e3928e0d",
+    "text": "我们周末去爬山吧。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我们周末",
+        "lemma": "我们周末",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "去爬山吧",
+        "lemma": "去爬山吧",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "c07566d5-39a6-44c8-9436-bc2859f046ac",
+    "text": "他每个月都会爬山一次。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他",
+        "lemma": "他",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "每个月",
+        "lemma": "每个月",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "都会",
+        "lemma": "都会",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "爬山",
+        "lemma": "爬山",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "一次",
+        "lemma": "一次",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "899f9223-7717-463b-819a-d6f2ba6f32aa",
+    "text": "桌上放了几个盘子。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "桌上",
+        "lemma": "桌上",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "放了",
+        "lemma": "放了",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "几个盘子",
+        "lemma": "几个盘子",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "d63b968a-b898-4850-87f3-4de8b9477e60",
+    "text": "她不小心打碎了一个盘子。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "她不小心",
+        "lemma": "她不小心",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "打碎了",
+        "lemma": "打碎了",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "一个盘子",
+        "lemma": "一个盘子",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "05eaa774-4085-4e6d-84d1-880e3f4d76be",
+    "text": "他最近胖了不少。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他最近",
+        "lemma": "他最近",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "胖了不少",
+        "lemma": "胖了不少",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "150c1295-6f09-455f-9e57-a42236e15ca1",
+    "text": "医生说他有点胖。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "医生说",
+        "lemma": "医生说",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "他有点胖",
+        "lemma": "他有点胖",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "fb30d0a6-6498-4487-82ec-01e63a5a8060",
+    "text": "他穿着一双黑皮鞋。",
+    "ipa": "",
+    "translation": {},
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他穿着",
+        "lemma": "他穿着",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "一双",
+        "lemma": "一双",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      },
+      {
+        "text": "黑皮鞋",
+        "lemma": "黑皮鞋",
+        "ipa": "",
+        "translation": {},
+        "emoji": ""
+      }
+    ]
+  }
+]

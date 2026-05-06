@@ -1,0 +1,174 @@
+[
+  {
+    "input_text": "拍",
+    "entries": [
+      {"text": "拍", "pinyin": "pāi", "en": "pat; clap", "emoji": "👏"},
+      {"text": "拍", "pinyin": "pāi", "en": "take a photo", "emoji": "📷"}
+    ]
+  },
+  {
+    "input_text": "派",
+    "entries": [
+      {"text": "派", "pinyin": "pài", "en": "send; dispatch", "emoji": ""},
+      {"text": "派", "pinyin": "pài", "en": "faction; school", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "盼望",
+    "entries": [
+      {"text": "盼望", "pinyin": "pàn wàng", "en": "look forward to", "emoji": "🌟"}
+    ]
+  },
+  {
+    "input_text": "培训",
+    "entries": [
+      {"text": "培训", "pinyin": "péi xùn", "en": "training; train", "emoji": "🎓"}
+    ]
+  },
+  {
+    "input_text": "培养",
+    "entries": [
+      {"text": "培养", "pinyin": "péi yǎng", "en": "cultivate; nurture", "emoji": "🌱"}
+    ]
+  },
+  {
+    "input_text": "赔偿",
+    "entries": [
+      {"text": "赔偿", "pinyin": "péi cháng", "en": "compensate; pay damages", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_text": "佩服",
+    "entries": [
+      {"text": "佩服", "pinyin": "pèi fú", "en": "admire; have respect for", "emoji": "🙌"}
+    ]
+  },
+  {
+    "input_text": "配合",
+    "entries": [
+      {"text": "配合", "pinyin": "pèi hé", "en": "cooperate; coordinate", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_text": "盆",
+    "entries": [
+      {"text": "盆", "pinyin": "pén", "en": "basin; pot; tub", "emoji": "🪣"}
+    ]
+  },
+  {
+    "input_text": "碰",
+    "entries": [
+      {"text": "碰", "pinyin": "pèng", "en": "bump into; touch", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "批",
+    "entries": [
+      {"text": "批", "pinyin": "pī", "en": "batch; group", "emoji": ""},
+      {"text": "批", "pinyin": "pī", "en": "criticize; annotate", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "批准",
+    "entries": [
+      {"text": "批准", "pinyin": "pī zhǔn", "en": "approve; authorize", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_text": "披",
+    "entries": [
+      {"text": "披", "pinyin": "pī", "en": "drape over; wear loosely", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "疲劳",
+    "entries": [
+      {"text": "疲劳", "pinyin": "pí láo", "en": "fatigued; tired", "emoji": "😴"}
+    ]
+  },
+  {
+    "input_text": "片面",
+    "entries": [
+      {"text": "片面", "pinyin": "piàn miàn", "en": "one-sided; partial", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "飘",
+    "entries": [
+      {"text": "飘", "pinyin": "piāo", "en": "float; drift; flutter", "emoji": "🍃"}
+    ]
+  },
+  {
+    "input_text": "拼音",
+    "entries": [
+      {"text": "拼音", "pinyin": "pīn yīn", "en": "pinyin; romanization", "emoji": "🔤"}
+    ]
+  },
+  {
+    "input_text": "频道",
+    "entries": [
+      {"text": "频道", "pinyin": "pín dào", "en": "channel (TV/radio)", "emoji": "📺"}
+    ]
+  },
+  {
+    "input_text": "平",
+    "entries": [
+      {"text": "平", "pinyin": "píng", "en": "flat; level; even", "emoji": ""},
+      {"text": "平", "pinyin": "píng", "en": "tie; draw (game)", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "平安",
+    "entries": [
+      {"text": "平安", "pinyin": "píng ān", "en": "safe and sound", "emoji": "🕊️"}
+    ]
+  },
+  {
+    "input_text": "平常",
+    "entries": [
+      {"text": "平常", "pinyin": "píng cháng", "en": "ordinary; usually", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "平等",
+    "entries": [
+      {"text": "平等", "pinyin": "píng děng", "en": "equality; equal", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_text": "平方",
+    "entries": [
+      {"text": "平方", "pinyin": "píng fāng", "en": "square (math)", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "平衡",
+    "entries": [
+      {"text": "平衡", "pinyin": "píng héng", "en": "balance; equilibrium", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_text": "平静",
+    "entries": [
+      {"text": "平静", "pinyin": "píng jìng", "en": "calm; tranquil", "emoji": "😌"}
+    ]
+  },
+  {
+    "input_text": "平均",
+    "entries": [
+      {"text": "平均", "pinyin": "píng jūn", "en": "average; equally divided", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "评价",
+    "entries": [
+      {"text": "评价", "pinyin": "píng jià", "en": "evaluate; assessment", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "凭",
+    "entries": [
+      {"text": "凭", "pinyin": "píng", "en": "rely on; based on", "emoji": ""}
+    ]
+  }
+]

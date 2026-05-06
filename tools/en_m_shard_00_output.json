@@ -1,0 +1,182 @@
+[
+  {
+    "input_word": "machine",
+    "entries": [
+      {"text": "machine", "ipa": "/məˈʃiːn/", "cefr": "A1", "zh": "机器", "emoji": "⚙️"}
+    ]
+  },
+  {
+    "input_word": "mad",
+    "entries": [
+      {"text": "mad", "ipa": "/mæd/", "cefr": "B1", "zh": "疯狂的", "emoji": "😡"}
+    ]
+  },
+  {
+    "input_word": "magazine",
+    "entries": [
+      {"text": "magazine", "ipa": "/ˌmæɡəˈziːn/", "cefr": "A1", "zh": "杂志", "emoji": "📰"}
+    ]
+  },
+  {
+    "input_word": "magic",
+    "entries": [
+      {"text": "magic", "ipa": "/ˈmædʒɪk/", "cefr": "B1", "zh": "魔法", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_word": "mail",
+    "entries": [
+      {"text": "mail", "ipa": "/meɪl/", "cefr": "A2", "zh": "邮件", "emoji": "📬"}
+    ]
+  },
+  {
+    "input_word": "main",
+    "entries": [
+      {"text": "main", "ipa": "/meɪn/", "cefr": "A1", "zh": "主要的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "mainly",
+    "entries": [
+      {"text": "mainly", "ipa": "/ˈmeɪnli/", "cefr": "B1", "zh": "主要地", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "maintain",
+    "entries": [
+      {"text": "maintain", "ipa": "/meɪnˈteɪn/", "cefr": "B2", "zh": "维持", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "major",
+    "entries": [
+      {"text": "major", "ipa": "/ˈmeɪdʒər/", "cefr": "A2", "zh": "重要的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "majority",
+    "entries": [
+      {"text": "majority", "ipa": "/məˈdʒɔːrɪti/", "cefr": "B2", "zh": "大多数", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "make",
+    "entries": [
+      {"text": "make", "ipa": "/meɪk/", "cefr": "A1", "zh": "制造", "emoji": "🔨"}
+    ]
+  },
+  {
+    "input_word": "male",
+    "entries": [
+      {"text": "male", "ipa": "/meɪl/", "cefr": "A2", "zh": "男性", "emoji": "👨"}
+    ]
+  },
+  {
+    "input_word": "mall",
+    "entries": [
+      {"text": "mall", "ipa": "/mɔːl/", "cefr": "B1", "zh": "购物中心", "emoji": "🏬"}
+    ]
+  },
+  {
+    "input_word": "man",
+    "entries": [
+      {"text": "man", "ipa": "/mæn/", "cefr": "A1", "zh": "男人", "emoji": "👨"}
+    ]
+  },
+  {
+    "input_word": "manage",
+    "entries": [
+      {"text": "manage", "ipa": "/ˈmænɪdʒ/", "cefr": "A2", "zh": "管理", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "management",
+    "entries": [
+      {"text": "management", "ipa": "/ˈmænɪdʒmənt/", "cefr": "B1", "zh": "管理层", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "manager",
+    "entries": [
+      {"text": "manager", "ipa": "/ˈmænɪdʒər/", "cefr": "A2", "zh": "经理", "emoji": "💼"}
+    ]
+  },
+  {
+    "input_word": "manner",
+    "entries": [
+      {"text": "manner", "ipa": "/ˈmænər/", "cefr": "A2", "zh": "方式", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "many",
+    "entries": [
+      {"text": "many", "ipa": "/ˈmɛni/", "cefr": "A1", "zh": "许多", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "map",
+    "entries": [
+      {"text": "map", "ipa": "/mæp/", "cefr": "A1", "zh": "地图", "emoji": "🗺️"}
+    ]
+  },
+  {
+    "input_word": "march",
+    "entries": [
+      {"text": "march", "ipa": "/mɑːrtʃ/", "cefr": "A1", "zh": "行进", "emoji": "🥁"}
+    ]
+  },
+  {
+    "input_word": "mark",
+    "entries": [
+      {"text": "mark", "ipa": "/mɑːrk/", "cefr": "A2", "zh": "标记", "emoji": "✏️"}
+    ]
+  },
+  {
+    "input_word": "market",
+    "entries": [
+      {"text": "market", "ipa": "/ˈmɑːrkɪt/", "cefr": "A1", "zh": "市场", "emoji": "🛒"}
+    ]
+  },
+  {
+    "input_word": "marketing",
+    "entries": [
+      {"text": "marketing", "ipa": "/ˈmɑːrkɪtɪŋ/", "cefr": "B1", "zh": "市场营销", "emoji": "📣"}
+    ]
+  },
+  {
+    "input_word": "marriage",
+    "entries": [
+      {"text": "marriage", "ipa": "/ˈmærɪdʒ/", "cefr": "B1", "zh": "婚姻", "emoji": "💍"}
+    ]
+  },
+  {
+    "input_word": "married",
+    "entries": [
+      {"text": "married", "ipa": "/ˈmærid/", "cefr": "A1", "zh": "已婚的", "emoji": "💒"}
+    ]
+  },
+  {
+    "input_word": "marry",
+    "entries": [
+      {"text": "marry", "ipa": "/ˈmæri/", "cefr": "A2", "zh": "结婚", "emoji": "💍"}
+    ]
+  },
+  {
+    "input_word": "mass",
+    "entries": [
+      {"text": "mass", "ipa": "/mæs/", "cefr": "B2", "zh": "大量", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "massive",
+    "entries": [
+      {"text": "massive", "ipa": "/ˈmæsɪv/", "cefr": "B2", "zh": "巨大的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "master",
+    "entries": [
+      {"text": "master", "ipa": "/ˈmæstər/", "cefr": "B2", "zh": "掌握", "emoji": "🏆"}
+    ]
+  }
+]

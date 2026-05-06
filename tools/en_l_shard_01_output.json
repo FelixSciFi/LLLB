@@ -1,0 +1,188 @@
+[
+  {
+    "input_word": "leaf",
+    "entries": [
+      {"text": "leaf", "ipa": "/liːf/", "cefr": "B1", "zh": "树叶", "emoji": "🍃"}
+    ]
+  },
+  {
+    "input_word": "league",
+    "entries": [
+      {"text": "league", "ipa": "/liːɡ/", "cefr": "B2", "zh": "联赛", "emoji": "🏆"}
+    ]
+  },
+  {
+    "input_word": "lean",
+    "entries": [
+      {"text": "lean", "ipa": "/liːn/", "cefr": "B2", "zh": "倚靠", "emoji": ""},
+      {"text": "lean", "ipa": "/liːn/", "cefr": "B2", "zh": "瘦的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "learn",
+    "entries": [
+      {"text": "learn", "ipa": "/lɜːrn/", "cefr": "A1", "zh": "学习", "emoji": "📚"}
+    ]
+  },
+  {
+    "input_word": "learning",
+    "entries": [
+      {"text": "learning", "ipa": "/ˈlɜːrnɪŋ/", "cefr": "A2", "zh": "学习", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_word": "least",
+    "entries": [
+      {"text": "least", "ipa": "/liːst/", "cefr": "A2", "zh": "最少", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "leather",
+    "entries": [
+      {"text": "leather", "ipa": "/ˈlɛðər/", "cefr": "B1", "zh": "皮革", "emoji": "👜"}
+    ]
+  },
+  {
+    "input_word": "leave",
+    "entries": [
+      {"text": "leave", "ipa": "/liːv/", "cefr": "A1", "zh": "离开", "emoji": "🚶"},
+      {"text": "leave", "ipa": "/liːv/", "cefr": "A1", "zh": "假期", "emoji": "🏖️"}
+    ]
+  },
+  {
+    "input_word": "lecture",
+    "entries": [
+      {"text": "lecture", "ipa": "/ˈlɛktʃər/", "cefr": "A2", "zh": "讲座", "emoji": "🎓"}
+    ]
+  },
+  {
+    "input_word": "left",
+    "entries": [
+      {"text": "left", "ipa": "/lɛft/", "cefr": "A1", "zh": "左边", "emoji": "⬅️"}
+    ]
+  },
+  {
+    "input_word": "leg",
+    "entries": [
+      {"text": "leg", "ipa": "/lɛɡ/", "cefr": "A1", "zh": "腿", "emoji": "🦵"}
+    ]
+  },
+  {
+    "input_word": "legal",
+    "entries": [
+      {"text": "legal", "ipa": "/ˈliːɡəl/", "cefr": "B1", "zh": "合法的", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "leisure",
+    "entries": [
+      {"text": "leisure", "ipa": "/ˈliːʒər/", "cefr": "B1", "zh": "休闲", "emoji": "🛋️"}
+    ]
+  },
+  {
+    "input_word": "lemon",
+    "entries": [
+      {"text": "lemon", "ipa": "/ˈlɛmən/", "cefr": "A2", "zh": "柠檬", "emoji": "🍋"}
+    ]
+  },
+  {
+    "input_word": "lend",
+    "entries": [
+      {"text": "lend", "ipa": "/lɛnd/", "cefr": "A2", "zh": "借出", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "length",
+    "entries": [
+      {"text": "length", "ipa": "/lɛŋkθ/", "cefr": "B1", "zh": "长度", "emoji": "📏"}
+    ]
+  },
+  {
+    "input_word": "less",
+    "entries": [
+      {"text": "less", "ipa": "/lɛs/", "cefr": "A2", "zh": "更少", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "lesson",
+    "entries": [
+      {"text": "lesson", "ipa": "/ˈlɛsən/", "cefr": "A1", "zh": "课程", "emoji": "📝"}
+    ]
+  },
+  {
+    "input_word": "let",
+    "entries": [
+      {"text": "let", "ipa": "/lɛt/", "cefr": "A1", "zh": "让", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "letter",
+    "entries": [
+      {"text": "letter", "ipa": "/ˈlɛtər/", "cefr": "A1", "zh": "信件", "emoji": "✉️"},
+      {"text": "letter", "ipa": "/ˈlɛtər/", "cefr": "A1", "zh": "字母", "emoji": "🔤"}
+    ]
+  },
+  {
+    "input_word": "level",
+    "entries": [
+      {"text": "level", "ipa": "/ˈlɛvəl/", "cefr": "A2", "zh": "级别", "emoji": "📊"}
+    ]
+  },
+  {
+    "input_word": "library",
+    "entries": [
+      {"text": "library", "ipa": "/ˈlaɪbrɛri/", "cefr": "A1", "zh": "图书馆", "emoji": "📚"}
+    ]
+  },
+  {
+    "input_word": "licence",
+    "entries": [
+      {"text": "licence", "ipa": "/ˈlaɪsəns/", "cefr": "B2", "zh": "许可证", "emoji": "📄"}
+    ]
+  },
+  {
+    "input_word": "lie",
+    "entries": [
+      {"text": "lie", "ipa": "/laɪ/", "cefr": "A1", "zh": "说谎", "emoji": "🤥"},
+      {"text": "lie", "ipa": "/laɪ/", "cefr": "A1", "zh": "躺下", "emoji": "🛏️"}
+    ]
+  },
+  {
+    "input_word": "life",
+    "entries": [
+      {"text": "life", "ipa": "/laɪf/", "cefr": "A1", "zh": "生命", "emoji": "❤️"}
+    ]
+  },
+  {
+    "input_word": "lifestyle",
+    "entries": [
+      {"text": "lifestyle", "ipa": "/ˈlaɪfstaɪl/", "cefr": "A2", "zh": "生活方式", "emoji": "🌟"}
+    ]
+  },
+  {
+    "input_word": "lift",
+    "entries": [
+      {"text": "lift", "ipa": "/lɪft/", "cefr": "A2", "zh": "举起", "emoji": "💪"},
+      {"text": "lift", "ipa": "/lɪft/", "cefr": "A2", "zh": "电梯", "emoji": "🛗"}
+    ]
+  },
+  {
+    "input_word": "light",
+    "entries": [
+      {"text": "light", "ipa": "/laɪt/", "cefr": "A1", "zh": "光", "emoji": "💡"},
+      {"text": "light", "ipa": "/laɪt/", "cefr": "A1", "zh": "轻的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "like",
+    "entries": [
+      {"text": "like", "ipa": "/laɪk/", "cefr": "A1", "zh": "喜欢", "emoji": "👍"}
+    ]
+  },
+  {
+    "input_word": "likely",
+    "entries": [
+      {"text": "likely", "ipa": "/ˈlaɪkli/", "cefr": "A2", "zh": "可能的", "emoji": ""}
+    ]
+  }
+]

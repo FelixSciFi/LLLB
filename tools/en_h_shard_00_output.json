@@ -1,0 +1,187 @@
+[
+  {
+    "input_word": "habit",
+    "entries": [
+      {"text": "habit", "ipa": "/ˈhæbɪt/", "cefr": "A2", "zh": "习惯", "emoji": "🔄"}
+    ]
+  },
+  {
+    "input_word": "hair",
+    "entries": [
+      {"text": "hair", "ipa": "/hɛr/", "cefr": "A1", "zh": "头发", "emoji": "💇"}
+    ]
+  },
+  {
+    "input_word": "half",
+    "entries": [
+      {"text": "half", "ipa": "/hæf/", "cefr": "A1", "zh": "一半", "emoji": "½"}
+    ]
+  },
+  {
+    "input_word": "hall",
+    "entries": [
+      {"text": "hall", "ipa": "/hɔːl/", "cefr": "A2", "zh": "走廊", "emoji": "🚪"},
+      {"text": "hall", "ipa": "/hɔːl/", "cefr": "A2", "zh": "大厅", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_word": "hand",
+    "entries": [
+      {"text": "hand", "ipa": "/hænd/", "cefr": "A1", "zh": "手", "emoji": "✋"},
+      {"text": "hand", "ipa": "/hænd/", "cefr": "A1", "zh": "递给", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "handle",
+    "entries": [
+      {"text": "handle", "ipa": "/ˈhændəl/", "cefr": "B2", "zh": "处理", "emoji": "🛠️"},
+      {"text": "handle", "ipa": "/ˈhændəl/", "cefr": "B2", "zh": "把手", "emoji": "🚪"}
+    ]
+  },
+  {
+    "input_word": "hang",
+    "entries": [
+      {"text": "hang", "ipa": "/hæŋ/", "cefr": "B1", "zh": "悬挂", "emoji": "🪝"}
+    ]
+  },
+  {
+    "input_word": "happen",
+    "entries": [
+      {"text": "happen", "ipa": "/ˈhæpən/", "cefr": "A1", "zh": "发生", "emoji": "⚡"}
+    ]
+  },
+  {
+    "input_word": "happily",
+    "entries": [
+      {"text": "happily", "ipa": "/ˈhæpɪli/", "cefr": "A2", "zh": "快乐地", "emoji": "😊"}
+    ]
+  },
+  {
+    "input_word": "happiness",
+    "entries": [
+      {"text": "happiness", "ipa": "/ˈhæpɪnəs/", "cefr": "B1", "zh": "幸福", "emoji": "😄"}
+    ]
+  },
+  {
+    "input_word": "happy",
+    "entries": [
+      {"text": "happy", "ipa": "/ˈhæpi/", "cefr": "A1", "zh": "快乐的", "emoji": "😊"}
+    ]
+  },
+  {
+    "input_word": "hard",
+    "entries": [
+      {"text": "hard", "ipa": "/hɑːrd/", "cefr": "A1", "zh": "困难的", "emoji": "💪"},
+      {"text": "hard", "ipa": "/hɑːrd/", "cefr": "A1", "zh": "坚硬的", "emoji": "🪨"}
+    ]
+  },
+  {
+    "input_word": "hardly",
+    "entries": [
+      {"text": "hardly", "ipa": "/ˈhɑːrdli/", "cefr": "B1", "zh": "几乎不", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "harm",
+    "entries": [
+      {"text": "harm", "ipa": "/hɑːrm/", "cefr": "B2", "zh": "伤害", "emoji": "⚠️"}
+    ]
+  },
+  {
+    "input_word": "harmful",
+    "entries": [
+      {"text": "harmful", "ipa": "/ˈhɑːrmfəl/", "cefr": "B2", "zh": "有害的", "emoji": "☠️"}
+    ]
+  },
+  {
+    "input_word": "hat",
+    "entries": [
+      {"text": "hat", "ipa": "/hæt/", "cefr": "A1", "zh": "帽子", "emoji": "🎩"}
+    ]
+  },
+  {
+    "input_word": "hate",
+    "entries": [
+      {"text": "hate", "ipa": "/heɪt/", "cefr": "A1", "zh": "憎恨", "emoji": "😠"}
+    ]
+  },
+  {
+    "input_word": "have",
+    "entries": [
+      {"text": "have", "ipa": "/hæv/", "cefr": "A1", "zh": "有；拥有", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "have to",
+    "entries": [
+      {"text": "have to", "ipa": "/ˈhæv tuː/", "cefr": "A1", "zh": "必须", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "he",
+    "entries": []
+  },
+  {
+    "input_word": "head",
+    "entries": [
+      {"text": "head", "ipa": "/hɛd/", "cefr": "A1", "zh": "头部", "emoji": "🧠"},
+      {"text": "head", "ipa": "/hɛd/", "cefr": "A1", "zh": "领导人", "emoji": "👔"}
+    ]
+  },
+  {
+    "input_word": "headache",
+    "entries": [
+      {"text": "headache", "ipa": "/ˈhɛdeɪk/", "cefr": "A2", "zh": "头痛", "emoji": "🤕"}
+    ]
+  },
+  {
+    "input_word": "headline",
+    "entries": [
+      {"text": "headline", "ipa": "/ˈhɛdlaɪn/", "cefr": "B1", "zh": "标题", "emoji": "📰"}
+    ]
+  },
+  {
+    "input_word": "health",
+    "entries": [
+      {"text": "health", "ipa": "/hɛlθ/", "cefr": "A1", "zh": "健康", "emoji": "❤️"}
+    ]
+  },
+  {
+    "input_word": "healthy",
+    "entries": [
+      {"text": "healthy", "ipa": "/ˈhɛlθi/", "cefr": "A1", "zh": "健康的", "emoji": "🥦"}
+    ]
+  },
+  {
+    "input_word": "hear",
+    "entries": [
+      {"text": "hear", "ipa": "/hɪr/", "cefr": "A1", "zh": "听到", "emoji": "👂"}
+    ]
+  },
+  {
+    "input_word": "hearing",
+    "entries": [
+      {"text": "hearing", "ipa": "/ˈhɪrɪŋ/", "cefr": "B2", "zh": "听力", "emoji": "👂"},
+      {"text": "hearing", "ipa": "/ˈhɪrɪŋ/", "cefr": "B2", "zh": "听证会", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "heart",
+    "entries": [
+      {"text": "heart", "ipa": "/hɑːrt/", "cefr": "A2", "zh": "心脏", "emoji": "❤️"}
+    ]
+  },
+  {
+    "input_word": "heat",
+    "entries": [
+      {"text": "heat", "ipa": "/hiːt/", "cefr": "A2", "zh": "热量", "emoji": "🔥"},
+      {"text": "heat", "ipa": "/hiːt/", "cefr": "A2", "zh": "加热", "emoji": "♨️"}
+    ]
+  },
+  {
+    "input_word": "heating",
+    "entries": [
+      {"text": "heating", "ipa": "/ˈhiːtɪŋ/", "cefr": "B1", "zh": "供暖", "emoji": "🌡️"}
+    ]
+  }
+]

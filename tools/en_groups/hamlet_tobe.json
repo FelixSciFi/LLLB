@@ -1,0 +1,32 @@
+[
+  {"text":"To be, or not to be,","ipa":"tə ˈbi ɔr nɑt tə ˈbi","translation":{"zh":"生存，还是毁灭，"},"cefr":"C2","tokens":[
+    {"text":"To be,","lemma":"be","ipa":"tə ˈbi","translation":{"zh":"存在"},"emoji":"🌱"},
+    {"text":"or not to be,","lemma":"be","ipa":"ɔr nɑt tə ˈbi","translation":{"zh":"或不存在"},"emoji":"🥀"}
+  ],"tags":[{"name":"To Be or Not To Be","index":1}]},
+  {"text":"that is the question:","ipa":"ðæt ɪz ðə ˈkwɛs.tʃən","translation":{"zh":"这是个问题："},"cefr":"C2","tokens":[
+    {"text":"that","lemma":"that","ipa":"ðæt","translation":{"zh":"这"},"emoji":"❓"},
+    {"text":"is the question:","lemma":"question","ipa":"ɪz ðə ˈkwɛs.tʃən","translation":{"zh":"是个问题"},"emoji":"🤔"}
+  ],"tags":[{"name":"To Be or Not To Be","index":2}]},
+  {"text":"Whether 'tis nobler in the mind","ipa":"ˈwɛð.ər tɪz ˈnoʊ.blər ɪn ðə ˈmaɪnd","translation":{"zh":"是否在心中更为高贵——"},"cefr":"C2","tokens":[
+    {"text":"Whether","lemma":"whether","ipa":"ˈwɛð.ər","translation":{"zh":"是否"},"emoji":"⚖️"},
+    {"text":"'tis nobler","lemma":"noble","ipa":"tɪz ˈnoʊ.blər","translation":{"zh":"更高贵"},"emoji":"👑"},
+    {"text":"in the mind","lemma":"mind","ipa":"ɪn ðə ˈmaɪnd","translation":{"zh":"于心中"},"emoji":"🧠"}
+  ],"tags":[{"name":"To Be or Not To Be","index":3}]},
+  {"text":"to suffer the slings and arrows of outrageous fortune,","ipa":"tə ˈsʌf.ər ðə slɪŋz ænd ˈær.oʊz əv aʊtˈreɪ.dʒəs ˈfɔr.tʃən","translation":{"zh":"默然忍受命运暴虐的毒箭，"},"cefr":"C2","tokens":[
+    {"text":"to suffer","lemma":"suffer","ipa":"tə ˈsʌf.ər","translation":{"zh":"忍受"},"emoji":"😣"},
+    {"text":"the slings","lemma":"sling","ipa":"ðə slɪŋz","translation":{"zh":"投石"},"emoji":"🪨"},
+    {"text":"and arrows","lemma":"arrow","ipa":"ænd ˈær.oʊz","translation":{"zh":"和飞箭"},"emoji":"🏹"},
+    {"text":"of outrageous","lemma":"outrageous","ipa":"əv aʊtˈreɪ.dʒəs","translation":{"zh":"暴虐的"},"emoji":"😡"},
+    {"text":"fortune,","lemma":"fortune","ipa":"ˈfɔr.tʃən","translation":{"zh":"命运"},"emoji":"🎲"}
+  ],"tags":[{"name":"To Be or Not To Be","index":4}]},
+  {"text":"or to take arms against a sea of troubles","ipa":"ɔr tə teɪk ɑrmz əˈɡɛnst ə si əv ˈtrʌb.əlz","translation":{"zh":"还是挺身反抗无边的苦难"},"cefr":"C2","tokens":[
+    {"text":"or to take","lemma":"take","ipa":"ɔr tə teɪk","translation":{"zh":"或拿起"},"emoji":"✊"},
+    {"text":"arms","lemma":"arm","ipa":"ɑrmz","translation":{"zh":"武器"},"emoji":"⚔️"},
+    {"text":"against a sea","lemma":"sea","ipa":"əˈɡɛnst ə si","translation":{"zh":"对抗大海"},"emoji":"🌊"},
+    {"text":"of troubles","lemma":"trouble","ipa":"əv ˈtrʌb.əlz","translation":{"zh":"般的苦难"},"emoji":"😖"}
+  ],"tags":[{"name":"To Be or Not To Be","index":5}]},
+  {"text":"and by opposing end them.","ipa":"ænd baɪ əˈpoʊz.ɪŋ ɛnd ðɛm","translation":{"zh":"在斗争中将其了结。"},"cefr":"C2","tokens":[
+    {"text":"and by opposing","lemma":"oppose","ipa":"ænd baɪ əˈpoʊz.ɪŋ","translation":{"zh":"以反抗"},"emoji":"🛡️"},
+    {"text":"end them.","lemma":"end","ipa":"ɛnd ðɛm","translation":{"zh":"将其了结"},"emoji":"🏁"}
+  ],"tags":[{"name":"To Be or Not To Be","index":6}]}
+]

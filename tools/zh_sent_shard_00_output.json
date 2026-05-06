@@ -1,0 +1,670 @@
+[
+  {
+    "input_word": "白",
+    "sentences": [
+      {
+        "text": "白猫很可爱。",
+        "ipa": "bái māo hěn kě ài",
+        "translation": {"zh": "白猫很可爱。", "en": "The white cat is very cute."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "白猫",
+            "lemma": "猫",
+            "ipa": "bái māo",
+            "translation": {"zh": "白猫", "en": "white cat"},
+            "emoji": "🐱"
+          },
+          {
+            "text": "很可爱",
+            "lemma": "可爱",
+            "ipa": "hěn kě ài",
+            "translation": {"zh": "很可爱", "en": "very cute"},
+            "emoji": "🥰"
+          }
+        ]
+      },
+      {
+        "text": "他买了白色的鞋。",
+        "ipa": "tā mǎi le bái sè de xié",
+        "translation": {"zh": "他买了白色的鞋。", "en": "He bought white shoes."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "他买了",
+            "lemma": "买",
+            "ipa": "tā mǎi le",
+            "translation": {"zh": "他买了", "en": "he bought"},
+            "emoji": "🛍️"
+          },
+          {
+            "text": "白色的鞋",
+            "lemma": "鞋",
+            "ipa": "bái sè de xié",
+            "translation": {"zh": "白色的鞋", "en": "white shoes"},
+            "emoji": "👟"
+          }
+        ]
+      },
+      {
+        "text": "这件衣服是白的。",
+        "ipa": "zhè jiàn yī fú shì bái de",
+        "translation": {"zh": "这件衣服是白色的。", "en": "This piece of clothing is white."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "这件衣服",
+            "lemma": "衣服",
+            "ipa": "zhè jiàn yī fú",
+            "translation": {"zh": "这件衣服", "en": "this piece of clothing"},
+            "emoji": "👕"
+          },
+          {
+            "text": "是白的",
+            "lemma": "白",
+            "ipa": "shì bái de",
+            "translation": {"zh": "是白色的", "en": "is white"},
+            "emoji": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "百",
+    "sentences": [
+      {
+        "text": "一百块钱。",
+        "ipa": "yī bǎi kuài qián",
+        "translation": {"zh": "一百块钱。", "en": "One hundred yuan."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "一百块钱",
+            "lemma": "钱",
+            "ipa": "yī bǎi kuài qián",
+            "translation": {"zh": "一百块钱", "en": "one hundred yuan"},
+            "emoji": "💰"
+          }
+        ]
+      },
+      {
+        "text": "这本书一百块。",
+        "ipa": "zhè běn shū yī bǎi kuài",
+        "translation": {"zh": "这本书一百块。", "en": "This book costs one hundred yuan."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "这本书",
+            "lemma": "书",
+            "ipa": "zhè běn shū",
+            "translation": {"zh": "这本书", "en": "this book"},
+            "emoji": "📖"
+          },
+          {
+            "text": "一百块",
+            "lemma": "块",
+            "ipa": "yī bǎi kuài",
+            "translation": {"zh": "一百块", "en": "one hundred yuan"},
+            "emoji": "💴"
+          }
+        ]
+      },
+      {
+        "text": "他有一百元。",
+        "ipa": "tā yǒu yī bǎi yuán",
+        "translation": {"zh": "他有一百元。", "en": "He has one hundred yuan."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "他有",
+            "lemma": "有",
+            "ipa": "tā yǒu",
+            "translation": {"zh": "他有", "en": "he has"},
+            "emoji": ""
+          },
+          {
+            "text": "一百元",
+            "lemma": "元",
+            "ipa": "yī bǎi yuán",
+            "translation": {"zh": "一百元", "en": "one hundred yuan"},
+            "emoji": "💴"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "帮助",
+    "sentences": [
+      {
+        "text": "我帮助你。",
+        "ipa": "wǒ bāng zhù nǐ",
+        "translation": {"zh": "我帮助你。", "en": "I help you."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我帮助",
+            "lemma": "帮助",
+            "ipa": "wǒ bāng zhù",
+            "translation": {"zh": "我帮助", "en": "I help"},
+            "emoji": "🤝"
+          },
+          {
+            "text": "你",
+            "lemma": "你",
+            "ipa": "nǐ",
+            "translation": {"zh": "你", "en": "you"},
+            "emoji": ""
+          }
+        ]
+      },
+      {
+        "text": "你帮助我。",
+        "ipa": "nǐ bāng zhù wǒ",
+        "translation": {"zh": "你帮助我。", "en": "You help me."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "你帮助",
+            "lemma": "帮助",
+            "ipa": "nǐ bāng zhù",
+            "translation": {"zh": "你帮助", "en": "you help"},
+            "emoji": "🤝"
+          },
+          {
+            "text": "我",
+            "lemma": "我",
+            "ipa": "wǒ",
+            "translation": {"zh": "我", "en": "me"},
+            "emoji": ""
+          }
+        ]
+      },
+      {
+        "text": "他帮助了她。",
+        "ipa": "tā bāng zhù le tā",
+        "translation": {"zh": "他帮助了她。", "en": "He helped her."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "他帮助了",
+            "lemma": "帮助",
+            "ipa": "tā bāng zhù le",
+            "translation": {"zh": "他帮助了", "en": "he helped"},
+            "emoji": "🤝"
+          },
+          {
+            "text": "她",
+            "lemma": "她",
+            "ipa": "tā",
+            "translation": {"zh": "她", "en": "her"},
+            "emoji": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "报纸",
+    "sentences": [
+      {
+        "text": "我看报纸。",
+        "ipa": "wǒ kàn bào zhǐ",
+        "translation": {"zh": "我看报纸。", "en": "I read the newspaper."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我看",
+            "lemma": "看",
+            "ipa": "wǒ kàn",
+            "translation": {"zh": "我看", "en": "I read"},
+            "emoji": "👀"
+          },
+          {
+            "text": "报纸",
+            "lemma": "报纸",
+            "ipa": "bào zhǐ",
+            "translation": {"zh": "报纸", "en": "newspaper"},
+            "emoji": "📰"
+          }
+        ]
+      },
+      {
+        "text": "他在看报纸。",
+        "ipa": "tā zài kàn bào zhǐ",
+        "translation": {"zh": "他在看报纸。", "en": "He is reading the newspaper."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "他在看",
+            "lemma": "看",
+            "ipa": "tā zài kàn",
+            "translation": {"zh": "他正在看", "en": "he is reading"},
+            "emoji": "👀"
+          },
+          {
+            "text": "报纸",
+            "lemma": "报纸",
+            "ipa": "bào zhǐ",
+            "translation": {"zh": "报纸", "en": "newspaper"},
+            "emoji": "📰"
+          }
+        ]
+      },
+      {
+        "text": "这是今天的报纸。",
+        "ipa": "zhè shì jīn tiān de bào zhǐ",
+        "translation": {"zh": "这是今天的报纸。", "en": "This is today's newspaper."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "这是",
+            "lemma": "是",
+            "ipa": "zhè shì",
+            "translation": {"zh": "这是", "en": "this is"},
+            "emoji": ""
+          },
+          {
+            "text": "今天的报纸",
+            "lemma": "报纸",
+            "ipa": "jīn tiān de bào zhǐ",
+            "translation": {"zh": "今天的报纸", "en": "today's newspaper"},
+            "emoji": "📰"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "别",
+    "sentences": [
+      {
+        "text": "别走！",
+        "ipa": "bié zǒu",
+        "translation": {"zh": "别走！", "en": "Don't go!"},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "别走",
+            "lemma": "走",
+            "ipa": "bié zǒu",
+            "translation": {"zh": "别走", "en": "don't go"},
+            "emoji": "🚶"
+          }
+        ]
+      },
+      {
+        "text": "别说话。",
+        "ipa": "bié shuō huà",
+        "translation": {"zh": "别说话。", "en": "Don't talk."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "别说话",
+            "lemma": "说话",
+            "ipa": "bié shuō huà",
+            "translation": {"zh": "别说话", "en": "don't talk"},
+            "emoji": "🤫"
+          }
+        ]
+      },
+      {
+        "text": "别喝那个。",
+        "ipa": "bié hē nà ge",
+        "translation": {"zh": "别喝那个。", "en": "Don't drink that."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "别喝",
+            "lemma": "喝",
+            "ipa": "bié hē",
+            "translation": {"zh": "别喝", "en": "don't drink"},
+            "emoji": "🚫"
+          },
+          {
+            "text": "那个",
+            "lemma": "那",
+            "ipa": "nà ge",
+            "translation": {"zh": "那个", "en": "that"},
+            "emoji": "👉"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "宾馆",
+    "sentences": [
+      {
+        "text": "我住在宾馆。",
+        "ipa": "wǒ zhù zài bīn guǎn",
+        "translation": {"zh": "我住在宾馆。", "en": "I am staying at a hotel."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我住",
+            "lemma": "住",
+            "ipa": "wǒ zhù",
+            "translation": {"zh": "我住", "en": "I stay"},
+            "emoji": "🛏️"
+          },
+          {
+            "text": "在宾馆",
+            "lemma": "宾馆",
+            "ipa": "zài bīn guǎn",
+            "translation": {"zh": "在宾馆", "en": "at the hotel"},
+            "emoji": "🏨"
+          }
+        ]
+      },
+      {
+        "text": "这个宾馆很大。",
+        "ipa": "zhè ge bīn guǎn hěn dà",
+        "translation": {"zh": "这个宾馆很大。", "en": "This hotel is very big."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "这个",
+            "lemma": "这",
+            "ipa": "zhè ge",
+            "translation": {"zh": "这个", "en": "this"},
+            "emoji": ""
+          },
+          {
+            "text": "宾馆",
+            "lemma": "宾馆",
+            "ipa": "bīn guǎn",
+            "translation": {"zh": "宾馆", "en": "hotel"},
+            "emoji": "🏨"
+          },
+          {
+            "text": "很大",
+            "lemma": "大",
+            "ipa": "hěn dà",
+            "translation": {"zh": "很大", "en": "very big"},
+            "emoji": ""
+          }
+        ]
+      },
+      {
+        "text": "宾馆在哪儿？",
+        "ipa": "bīn guǎn zài nǎr",
+        "translation": {"zh": "宾馆在哪儿？", "en": "Where is the hotel?"},
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "宾馆",
+            "lemma": "宾馆",
+            "ipa": "bīn guǎn",
+            "translation": {"zh": "宾馆", "en": "hotel"},
+            "emoji": "🏨"
+          },
+          {
+            "text": "在哪儿",
+            "lemma": "哪儿",
+            "ipa": "zài nǎr",
+            "translation": {"zh": "在哪里", "en": "where is"},
+            "emoji": "📍"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "长",
+    "sentences": [
+      {
+        "text": "这条路很长。",
+        "ipa": "zhè tiáo lù hěn cháng",
+        "translation": {"zh": "这条路很长。", "en": "This road is very long."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "这条路",
+            "lemma": "路",
+            "ipa": "zhè tiáo lù",
+            "translation": {"zh": "这条路", "en": "this road"},
+            "emoji": "🛣️"
+          },
+          {
+            "text": "很长",
+            "lemma": "长",
+            "ipa": "hěn cháng",
+            "translation": {"zh": "很长", "en": "very long"},
+            "emoji": ""
+          }
+        ]
+      },
+      {
+        "text": "她的头发很长。",
+        "ipa": "tā de tóu fà hěn cháng",
+        "translation": {"zh": "她的头发很长。", "en": "Her hair is very long."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "她的头发",
+            "lemma": "头发",
+            "ipa": "tā de tóu fà",
+            "translation": {"zh": "她的头发", "en": "her hair"},
+            "emoji": "💇"
+          },
+          {
+            "text": "很长",
+            "lemma": "长",
+            "ipa": "hěn cháng",
+            "translation": {"zh": "很长", "en": "very long"},
+            "emoji": ""
+          }
+        ]
+      },
+      {
+        "text": "这件衣服太长了。",
+        "ipa": "zhè jiàn yī fú tài cháng le",
+        "translation": {"zh": "这件衣服太长了。", "en": "This piece of clothing is too long."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "这件衣服",
+            "lemma": "衣服",
+            "ipa": "zhè jiàn yī fú",
+            "translation": {"zh": "这件衣服", "en": "this piece of clothing"},
+            "emoji": "👕"
+          },
+          {
+            "text": "太长了",
+            "lemma": "长",
+            "ipa": "tài cháng le",
+            "translation": {"zh": "太长了", "en": "too long"},
+            "emoji": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "唱歌",
+    "sentences": [
+      {
+        "text": "我喜欢唱歌。",
+        "ipa": "wǒ xǐ huan chàng gē",
+        "translation": {"zh": "我喜欢唱歌。", "en": "I like singing."},
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "我喜欢",
+            "lemma": "喜欢",
+            "ipa": "wǒ xǐ huan",
+            "translation": {"zh": "我喜欢", "en": "I like"},
+            "emoji": "❤️"
+          },
+          {
+            "text": "唱歌",
+            "lemma": "唱歌",
+            "ipa": "chàng gē",
+            "translation": {"zh": "唱歌", "en": "singing"},
+            "emoji": "🎤"
+          }
+        ]
+      },
+      {
+        "text": "她唱歌很好。",
+        "ipa": "tā chàng gē hěn hǎo",
+        "translation": {"zh": "她唱歌唱得很好。", "en": "She sings very well."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "她唱歌",
+            "lemma": "唱歌",
+            "ipa": "tā chàng gē",
+            "translation": {"zh": "她唱歌", "en": "she sings"},
+            "emoji": "🎤"
+          },
+          {
+            "text": "很好",
+            "lemma": "好",
+            "ipa": "hěn hǎo",
+            "translation": {"zh": "很好", "en": "very well"},
+            "emoji": ""
+          }
+        ]
+      },
+      {
+        "text": "他们在唱歌。",
+        "ipa": "tā men zài chàng gē",
+        "translation": {"zh": "他们在唱歌。", "en": "They are singing."},
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "他们在唱歌",
+            "lemma": "唱歌",
+            "ipa": "tā men zài chàng gē",
+            "translation": {"zh": "他们在唱歌", "en": "they are singing"},
+            "emoji": "🎤"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "出",
+    "sentences": [
+      {
+        "text": "他出去了。",
+        "ipa": "tā chū qù le",
+        "translation": {"zh": "他出去了。", "en": "He went out."},
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "他出去了",
+            "lemma": "出去",
+            "ipa": "tā chū qù le",
+            "translation": {"zh": "他出去了", "en": "he went out"},
+            "emoji": "🚪"
+          }
+        ]
+      },
+      {
+        "text": "你出来！",
+        "ipa": "nǐ chū lái",
+        "translation": {"zh": "你出来！", "en": "Come out!"},
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "你出来",
+            "lemma": "出来",
+            "ipa": "nǐ chū lái",
+            "translation": {"zh": "你出来", "en": "you come out"},
+            "emoji": "🚪"
+          }
+        ]
+      },
+      {
+        "text": "我出门了。",
+        "ipa": "wǒ chū mén le",
+        "translation": {"zh": "我出门了。", "en": "I am heading out."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我出门了",
+            "lemma": "出门",
+            "ipa": "wǒ chū mén le",
+            "translation": {"zh": "我出门了", "en": "I am heading out"},
+            "emoji": "🚪"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "穿",
+    "sentences": [
+      {
+        "text": "她穿红色的衣服。",
+        "ipa": "tā chuān hóng sè de yī fú",
+        "translation": {"zh": "她穿红色的衣服。", "en": "She wears red clothes."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "她穿",
+            "lemma": "穿",
+            "ipa": "tā chuān",
+            "translation": {"zh": "她穿", "en": "she wears"},
+            "emoji": ""
+          },
+          {
+            "text": "红色的衣服",
+            "lemma": "衣服",
+            "ipa": "hóng sè de yī fú",
+            "translation": {"zh": "红色的衣服", "en": "red clothes"},
+            "emoji": "👗"
+          }
+        ]
+      },
+      {
+        "text": "今天穿什么？",
+        "ipa": "jīn tiān chuān shén me",
+        "translation": {"zh": "今天穿什么？", "en": "What to wear today?"},
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "今天",
+            "lemma": "今天",
+            "ipa": "jīn tiān",
+            "translation": {"zh": "今天", "en": "today"},
+            "emoji": "📅"
+          },
+          {
+            "text": "穿什么",
+            "lemma": "穿",
+            "ipa": "chuān shén me",
+            "translation": {"zh": "穿什么", "en": "what to wear"},
+            "emoji": "👔"
+          }
+        ]
+      },
+      {
+        "text": "他穿了新鞋。",
+        "ipa": "tā chuān le xīn xié",
+        "translation": {"zh": "他穿了新鞋。", "en": "He put on new shoes."},
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "他穿了",
+            "lemma": "穿",
+            "ipa": "tā chuān le",
+            "translation": {"zh": "他穿了", "en": "he put on"},
+            "emoji": ""
+          },
+          {
+            "text": "新鞋",
+            "lemma": "鞋",
+            "ipa": "xīn xié",
+            "translation": {"zh": "新鞋", "en": "new shoes"},
+            "emoji": "👟"
+          }
+        ]
+      }
+    ]
+  }
+]

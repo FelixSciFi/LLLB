@@ -1,0 +1,60 @@
+[
+  {
+    "text": "Longtemps, je me suis couché de bonne heure.",
+    "ipa": "lɔ̃tɑ̃ ʒə mə sɥi kuʃe də bɔn œʁ",
+    "translation": {"zh": "很长一段时间，我都早早就上床睡觉了。", "en": "For a long time, I went to bed early."},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "Longtemps", "lemma": "longtemps", "ipa": "lɔ̃tɑ̃", "translation": {"zh": "很长时间", "en": "for a long time"}, "emoji": "⏳"},
+      {"text": "je me suis couché", "lemma": "se coucher", "ipa": "ʒə mə sɥi kuʃe", "translation": {"zh": "我上床睡了", "en": "I went to bed"}, "emoji": "🛏️"},
+      {"text": "de bonne heure", "lemma": "de bonne heure", "ipa": "də bɔn œʁ", "translation": {"zh": "很早", "en": "early"}, "emoji": "🌙"}
+    ],
+    "tags": [{"name": "Du côté de chez Swann", "index": 1}]
+  },
+  {
+    "text": "Parfois, à peine ma bougie éteinte,",
+    "ipa": "paʁfwa a pɛn ma buʒi etɛ̃t",
+    "translation": {"zh": "有时，我的蜡烛刚一熄灭，", "en": "Sometimes, scarcely had my candle gone out,"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "Parfois", "lemma": "parfois", "ipa": "paʁfwa", "translation": {"zh": "有时", "en": "sometimes"}, "emoji": "🔁"},
+      {"text": "à peine", "lemma": "à peine", "ipa": "a pɛn", "translation": {"zh": "刚刚", "en": "scarcely"}, "emoji": "⏱️"},
+      {"text": "ma bougie", "lemma": "bougie", "ipa": "ma buʒi", "translation": {"zh": "我的蜡烛", "en": "my candle"}, "emoji": "🕯️"},
+      {"text": "éteinte", "lemma": "éteindre", "ipa": "etɛ̃t", "translation": {"zh": "熄灭", "en": "extinguished"}, "emoji": "💨"}
+    ],
+    "tags": [{"name": "Du côté de chez Swann", "index": 2}]
+  },
+  {
+    "text": "mes yeux se fermaient si vite",
+    "ipa": "mez‿jø sə fɛʁmɛ si vit",
+    "translation": {"zh": "我的眼睛便闭得如此之快，", "en": "my eyes would close so quickly"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "mes yeux", "lemma": "œil", "ipa": "mez‿jø", "translation": {"zh": "我的眼睛", "en": "my eyes"}, "emoji": "👀"},
+      {"text": "se fermaient", "lemma": "se fermer", "ipa": "sə fɛʁmɛ", "translation": {"zh": "闭上", "en": "would close"}, "emoji": "😴"},
+      {"text": "si vite", "lemma": "vite", "ipa": "si vit", "translation": {"zh": "如此快", "en": "so quickly"}, "emoji": "⚡"}
+    ],
+    "tags": [{"name": "Du côté de chez Swann", "index": 3}]
+  },
+  {
+    "text": "que je n'avais pas le temps de me dire :",
+    "ipa": "kə ʒə navɛ pa lə tɑ̃ də mə diʁ",
+    "translation": {"zh": "以致我来不及对自己说：", "en": "that I had no time to say to myself:"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "que je n'avais pas le temps", "lemma": "avoir le temps", "ipa": "kə ʒə navɛ pa lə tɑ̃", "translation": {"zh": "我来不及", "en": "I had no time"}, "emoji": "⌛"},
+      {"text": "de me dire", "lemma": "se dire", "ipa": "də mə diʁ", "translation": {"zh": "对自己说", "en": "to tell myself"}, "emoji": "💭"}
+    ],
+    "tags": [{"name": "Du côté de chez Swann", "index": 4}]
+  },
+  {
+    "text": "« Je m'endors. »",
+    "ipa": "ʒə mɑ̃dɔʁ",
+    "translation": {"zh": "“我睡着了。”", "en": "\"I'm falling asleep.\""},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "Je m'endors", "lemma": "s'endormir", "ipa": "ʒə mɑ̃dɔʁ", "translation": {"zh": "我睡着了", "en": "I fall asleep"}, "emoji": "💤"}
+    ],
+    "tags": [{"name": "Du côté de chez Swann", "index": 5}]
+  }
+]

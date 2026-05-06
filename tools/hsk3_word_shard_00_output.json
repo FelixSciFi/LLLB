@@ -1,0 +1,325 @@
+[
+  {
+    "input_text": "阿姨",
+    "entries": [
+      {
+        "text": "阿姨",
+        "pinyin": "ā yí",
+        "en": "auntie",
+        "emoji": "👩"
+      }
+    ]
+  },
+  {
+    "input_text": "啊",
+    "entries": []
+  },
+  {
+    "input_text": "矮",
+    "entries": [
+      {
+        "text": "矮",
+        "pinyin": "ǎi",
+        "en": "short, low",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "爱好",
+    "entries": [
+      {
+        "text": "爱好",
+        "pinyin": "ài hào",
+        "en": "hobby, interest",
+        "emoji": "🎯"
+      }
+    ]
+  },
+  {
+    "input_text": "安静",
+    "entries": [
+      {
+        "text": "安静",
+        "pinyin": "ān jìng",
+        "en": "quiet, calm",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "把",
+    "entries": [
+      {
+        "text": "把",
+        "pinyin": "bǎ",
+        "en": "handle; (disposal marker)",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "班",
+    "entries": [
+      {
+        "text": "班",
+        "pinyin": "bān",
+        "en": "class, shift",
+        "emoji": "🏫"
+      }
+    ]
+  },
+  {
+    "input_text": "搬",
+    "entries": [
+      {
+        "text": "搬",
+        "pinyin": "bān",
+        "en": "move, carry",
+        "emoji": "📦"
+      }
+    ]
+  },
+  {
+    "input_text": "办法",
+    "entries": [
+      {
+        "text": "办法",
+        "pinyin": "bàn fǎ",
+        "en": "method, way",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "办公室",
+    "entries": [
+      {
+        "text": "办公室",
+        "pinyin": "bàn gōng shì",
+        "en": "office",
+        "emoji": "🏢"
+      }
+    ]
+  },
+  {
+    "input_text": "半",
+    "entries": [
+      {
+        "text": "半",
+        "pinyin": "bàn",
+        "en": "half",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "帮忙",
+    "entries": [
+      {
+        "text": "帮忙",
+        "pinyin": "bāng máng",
+        "en": "help out",
+        "emoji": "🤝"
+      }
+    ]
+  },
+  {
+    "input_text": "包",
+    "entries": [
+      {
+        "text": "包",
+        "pinyin": "bāo",
+        "en": "bag, pack",
+        "emoji": "👜"
+      }
+    ]
+  },
+  {
+    "input_text": "饱",
+    "entries": [
+      {
+        "text": "饱",
+        "pinyin": "bǎo",
+        "en": "full, satiated",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "北方",
+    "entries": [
+      {
+        "text": "北方",
+        "pinyin": "běi fāng",
+        "en": "the north",
+        "emoji": "🧭"
+      }
+    ]
+  },
+  {
+    "input_text": "被",
+    "entries": [
+      {
+        "text": "被",
+        "pinyin": "bèi",
+        "en": "by (passive marker)",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "鼻子",
+    "entries": [
+      {
+        "text": "鼻子",
+        "pinyin": "bí zi",
+        "en": "nose",
+        "emoji": "👃"
+      }
+    ]
+  },
+  {
+    "input_text": "比较",
+    "entries": [
+      {
+        "text": "比较",
+        "pinyin": "bǐ jiào",
+        "en": "compare; relatively",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "比赛",
+    "entries": [
+      {
+        "text": "比赛",
+        "pinyin": "bǐ sài",
+        "en": "competition, match",
+        "emoji": "🏆"
+      }
+    ]
+  },
+  {
+    "input_text": "笔记本",
+    "entries": [
+      {
+        "text": "笔记本",
+        "pinyin": "bǐ jì běn",
+        "en": "notebook",
+        "emoji": "📓"
+      }
+    ]
+  },
+  {
+    "input_text": "必须",
+    "entries": [
+      {
+        "text": "必须",
+        "pinyin": "bì xū",
+        "en": "must, have to",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "变化",
+    "entries": [
+      {
+        "text": "变化",
+        "pinyin": "biàn huà",
+        "en": "change, variation",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "别人",
+    "entries": [
+      {
+        "text": "别人",
+        "pinyin": "bié rén",
+        "en": "others, other people",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "冰箱",
+    "entries": [
+      {
+        "text": "冰箱",
+        "pinyin": "bīng xiāng",
+        "en": "refrigerator",
+        "emoji": "🧊"
+      }
+    ]
+  },
+  {
+    "input_text": "不但",
+    "entries": [
+      {
+        "text": "不但",
+        "pinyin": "bù dàn",
+        "en": "not only",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "而且",
+    "entries": [
+      {
+        "text": "而且",
+        "pinyin": "ér qiě",
+        "en": "but also, moreover",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "菜单",
+    "entries": [
+      {
+        "text": "菜单",
+        "pinyin": "cài dān",
+        "en": "menu",
+        "emoji": "📋"
+      }
+    ]
+  },
+  {
+    "input_text": "参加",
+    "entries": [
+      {
+        "text": "参加",
+        "pinyin": "cān jiā",
+        "en": "join, attend",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "草",
+    "entries": [
+      {
+        "text": "草",
+        "pinyin": "cǎo",
+        "en": "grass",
+        "emoji": "🌿"
+      }
+    ]
+  },
+  {
+    "input_text": "层",
+    "entries": [
+      {
+        "text": "层",
+        "pinyin": "céng",
+        "en": "floor, layer",
+        "emoji": ""
+      }
+    ]
+  }
+]

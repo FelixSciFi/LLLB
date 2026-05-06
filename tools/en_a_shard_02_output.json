@@ -1,0 +1,189 @@
+[
+  {
+    "input_word": "again",
+    "entries": [
+      {"text": "again", "ipa": "/əˈɡɛn/", "cefr": "A1", "zh": "再次"}
+    ]
+  },
+  {
+    "input_word": "against",
+    "entries": [
+      {"text": "against", "ipa": "/əˈɡɛnst/", "cefr": "A2", "zh": "反对"}
+    ]
+  },
+  {
+    "input_word": "age",
+    "entries": [
+      {"text": "age", "ipa": "/eɪdʒ/", "cefr": "A1", "zh": "年龄"},
+      {"text": "age", "ipa": "/eɪdʒ/", "cefr": "A1", "zh": "时代"}
+    ]
+  },
+  {
+    "input_word": "aged",
+    "entries": [
+      {"text": "aged", "ipa": "/eɪdʒd/", "cefr": "B1", "zh": "年老的"}
+    ]
+  },
+  {
+    "input_word": "agency",
+    "entries": [
+      {"text": "agency", "ipa": "/ˈeɪ.dʒən.si/", "cefr": "B2", "zh": "机构", "emoji": "🏢"}
+    ]
+  },
+  {
+    "input_word": "agenda",
+    "entries": [
+      {"text": "agenda", "ipa": "/əˈdʒɛn.də/", "cefr": "B2", "zh": "议程", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_word": "agent",
+    "entries": [
+      {"text": "agent", "ipa": "/ˈeɪ.dʒənt/", "cefr": "B1", "zh": "代理人"}
+    ]
+  },
+  {
+    "input_word": "aggressive",
+    "entries": [
+      {"text": "aggressive", "ipa": "/əˈɡrɛs.ɪv/", "cefr": "B2", "zh": "好斗的"}
+    ]
+  },
+  {
+    "input_word": "ago",
+    "entries": [
+      {"text": "ago", "ipa": "/əˈɡoʊ/", "cefr": "A1", "zh": "以前"}
+    ]
+  },
+  {
+    "input_word": "agree",
+    "entries": [
+      {"text": "agree", "ipa": "/əˈɡriː/", "cefr": "A1", "zh": "同意"}
+    ]
+  },
+  {
+    "input_word": "agreement",
+    "entries": [
+      {"text": "agreement", "ipa": "/əˈɡriː.mənt/", "cefr": "B1", "zh": "协议", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "ah",
+    "entries": [
+      {"text": "ah", "ipa": "/ɑː/", "cefr": "A2", "zh": "啊"}
+    ]
+  },
+  {
+    "input_word": "ahead",
+    "entries": [
+      {"text": "ahead", "ipa": "/əˈhɛd/", "cefr": "B1", "zh": "向前"}
+    ]
+  },
+  {
+    "input_word": "aid",
+    "entries": [
+      {"text": "aid", "ipa": "/eɪd/", "cefr": "B2", "zh": "援助"},
+      {"text": "aid", "ipa": "/eɪd/", "cefr": "B2", "zh": "辅助"}
+    ]
+  },
+  {
+    "input_word": "aim",
+    "entries": [
+      {"text": "aim", "ipa": "/eɪm/", "cefr": "B1", "zh": "目标"},
+      {"text": "aim", "ipa": "/eɪm/", "cefr": "B1", "zh": "瞄准"}
+    ]
+  },
+  {
+    "input_word": "air",
+    "entries": [
+      {"text": "air", "ipa": "/ɛr/", "cefr": "A1", "zh": "空气"},
+      {"text": "air", "ipa": "/ɛr/", "cefr": "A1", "zh": "神情"}
+    ]
+  },
+  {
+    "input_word": "aircraft",
+    "entries": [
+      {"text": "aircraft", "ipa": "/ˈɛr.kræft/", "cefr": "B2", "zh": "飞行器", "emoji": "✈️"}
+    ]
+  },
+  {
+    "input_word": "airline",
+    "entries": [
+      {"text": "airline", "ipa": "/ˈɛr.laɪn/", "cefr": "A2", "zh": "航空公司", "emoji": "✈️"}
+    ]
+  },
+  {
+    "input_word": "airport",
+    "entries": [
+      {"text": "airport", "ipa": "/ˈɛr.pɔːrt/", "cefr": "A1", "zh": "机场", "emoji": "🛫"}
+    ]
+  },
+  {
+    "input_word": "alarm",
+    "entries": [
+      {"text": "alarm", "ipa": "/əˈlɑːrm/", "cefr": "B1", "zh": "闹钟", "emoji": "⏰"},
+      {"text": "alarm", "ipa": "/əˈlɑːrm/", "cefr": "B1", "zh": "警报"}
+    ]
+  },
+  {
+    "input_word": "album",
+    "entries": [
+      {"text": "album", "ipa": "/ˈæl.bəm/", "cefr": "B1", "zh": "专辑", "emoji": "💿"},
+      {"text": "album", "ipa": "/ˈæl.bəm/", "cefr": "B1", "zh": "相册", "emoji": "📔"}
+    ]
+  },
+  {
+    "input_word": "alcohol",
+    "entries": [
+      {"text": "alcohol", "ipa": "/ˈæl.kə.hɑːl/", "cefr": "B1", "zh": "酒精", "emoji": "🍶"}
+    ]
+  },
+  {
+    "input_word": "alcoholic",
+    "entries": [
+      {"text": "alcoholic", "ipa": "/ˌæl.kəˈhɑː.lɪk/", "cefr": "B1", "zh": "酒精的"},
+      {"text": "alcoholic", "ipa": "/ˌæl.kəˈhɑː.lɪk/", "cefr": "B1", "zh": "酗酒者"}
+    ]
+  },
+  {
+    "input_word": "alive",
+    "entries": [
+      {"text": "alive", "ipa": "/əˈlaɪv/", "cefr": "A2", "zh": "活着的"}
+    ]
+  },
+  {
+    "input_word": "all",
+    "entries": [
+      {"text": "all", "ipa": "/ɔːl/", "cefr": "A1", "zh": "全部"}
+    ]
+  },
+  {
+    "input_word": "all right",
+    "entries": [
+      {"text": "all right", "ipa": "/ˌɔːlˈraɪt/", "cefr": "A2", "zh": "好的"}
+    ]
+  },
+  {
+    "input_word": "allow",
+    "entries": [
+      {"text": "allow", "ipa": "/əˈlaʊ/", "cefr": "A2", "zh": "允许"}
+    ]
+  },
+  {
+    "input_word": "almost",
+    "entries": [
+      {"text": "almost", "ipa": "/ˈɔːl.moʊst/", "cefr": "A2", "zh": "几乎"}
+    ]
+  },
+  {
+    "input_word": "alone",
+    "entries": [
+      {"text": "alone", "ipa": "/əˈloʊn/", "cefr": "A2", "zh": "独自"}
+    ]
+  },
+  {
+    "input_word": "along",
+    "entries": [
+      {"text": "along", "ipa": "/əˈlɔːŋ/", "cefr": "A2", "zh": "沿着"}
+    ]
+  }
+]

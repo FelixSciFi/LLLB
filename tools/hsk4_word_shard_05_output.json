@@ -1,0 +1,318 @@
+[
+  {
+    "input_text": "挂",
+    "entries": [
+      {
+        "text": "挂",
+        "pinyin": "guà",
+        "en": "hang up",
+        "emoji": "🪝"
+      }
+    ]
+  },
+  {
+    "input_text": "关键",
+    "entries": [
+      {
+        "text": "关键",
+        "pinyin": "guān jiàn",
+        "en": "key; crucial",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "观众",
+    "entries": [
+      {
+        "text": "观众",
+        "pinyin": "guān zhòng",
+        "en": "audience",
+        "emoji": "👥"
+      }
+    ]
+  },
+  {
+    "input_text": "管理",
+    "entries": [
+      {
+        "text": "管理",
+        "pinyin": "guǎn lǐ",
+        "en": "manage",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "光",
+    "entries": [
+      {
+        "text": "光",
+        "pinyin": "guāng",
+        "en": "light",
+        "emoji": "💡"
+      }
+    ]
+  },
+  {
+    "input_text": "广播",
+    "entries": [
+      {
+        "text": "广播",
+        "pinyin": "guǎng bō",
+        "en": "broadcast",
+        "emoji": "📻"
+      }
+    ]
+  },
+  {
+    "input_text": "广告",
+    "entries": [
+      {
+        "text": "广告",
+        "pinyin": "guǎng gào",
+        "en": "advertisement",
+        "emoji": "📢"
+      }
+    ]
+  },
+  {
+    "input_text": "逛",
+    "entries": [
+      {
+        "text": "逛",
+        "pinyin": "guàng",
+        "en": "stroll; browse",
+        "emoji": "🚶"
+      }
+    ]
+  },
+  {
+    "input_text": "规定",
+    "entries": [
+      {
+        "text": "规定",
+        "pinyin": "guī dìng",
+        "en": "regulation; rule",
+        "emoji": "📋"
+      }
+    ]
+  },
+  {
+    "input_text": "国籍",
+    "entries": [
+      {
+        "text": "国籍",
+        "pinyin": "guó jí",
+        "en": "nationality",
+        "emoji": "🛂"
+      }
+    ]
+  },
+  {
+    "input_text": "国际",
+    "entries": [
+      {
+        "text": "国际",
+        "pinyin": "guó jì",
+        "en": "international",
+        "emoji": "🌐"
+      }
+    ]
+  },
+  {
+    "input_text": "果汁",
+    "entries": [
+      {
+        "text": "果汁",
+        "pinyin": "guǒ zhī",
+        "en": "fruit juice",
+        "emoji": "🧃"
+      }
+    ]
+  },
+  {
+    "input_text": "过程",
+    "entries": [
+      {
+        "text": "过程",
+        "pinyin": "guò chéng",
+        "en": "process; course",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "海洋",
+    "entries": [
+      {
+        "text": "海洋",
+        "pinyin": "hǎi yáng",
+        "en": "ocean",
+        "emoji": "🌊"
+      }
+    ]
+  },
+  {
+    "input_text": "害羞",
+    "entries": [
+      {
+        "text": "害羞",
+        "pinyin": "hài xiū",
+        "en": "shy; bashful",
+        "emoji": "😳"
+      }
+    ]
+  },
+  {
+    "input_text": "寒假",
+    "entries": [
+      {
+        "text": "寒假",
+        "pinyin": "hán jià",
+        "en": "winter vacation",
+        "emoji": "⛄"
+      }
+    ]
+  },
+  {
+    "input_text": "汗",
+    "entries": [
+      {
+        "text": "汗",
+        "pinyin": "hàn",
+        "en": "sweat",
+        "emoji": "💧"
+      }
+    ]
+  },
+  {
+    "input_text": "航班",
+    "entries": [
+      {
+        "text": "航班",
+        "pinyin": "háng bān",
+        "en": "flight",
+        "emoji": "✈️"
+      }
+    ]
+  },
+  {
+    "input_text": "好处",
+    "entries": [
+      {
+        "text": "好处",
+        "pinyin": "hǎo chù",
+        "en": "benefit; advantage",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "好像",
+    "entries": []
+  },
+  {
+    "input_text": "号码",
+    "entries": [
+      {
+        "text": "号码",
+        "pinyin": "hào mǎ",
+        "en": "number",
+        "emoji": "🔢"
+      }
+    ]
+  },
+  {
+    "input_text": "合格",
+    "entries": [
+      {
+        "text": "合格",
+        "pinyin": "hé gé",
+        "en": "qualified; up to standard",
+        "emoji": "✅"
+      }
+    ]
+  },
+  {
+    "input_text": "合适",
+    "entries": [
+      {
+        "text": "合适",
+        "pinyin": "hé shì",
+        "en": "suitable; appropriate",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "盒子",
+    "entries": [
+      {
+        "text": "盒子",
+        "pinyin": "hé zi",
+        "en": "box",
+        "emoji": "📦"
+      }
+    ]
+  },
+  {
+    "input_text": "后悔",
+    "entries": [
+      {
+        "text": "后悔",
+        "pinyin": "hòu huǐ",
+        "en": "regret",
+        "emoji": "😔"
+      }
+    ]
+  },
+  {
+    "input_text": "厚",
+    "entries": [
+      {
+        "text": "厚",
+        "pinyin": "hòu",
+        "en": "thick",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "互联网",
+    "entries": [
+      {
+        "text": "互联网",
+        "pinyin": "hù lián wǎng",
+        "en": "internet",
+        "emoji": "🌐"
+      }
+    ]
+  },
+  {
+    "input_text": "互相",
+    "entries": []
+  },
+  {
+    "input_text": "护士",
+    "entries": [
+      {
+        "text": "护士",
+        "pinyin": "hù shi",
+        "en": "nurse",
+        "emoji": "👩‍⚕️"
+      }
+    ]
+  },
+  {
+    "input_text": "怀疑",
+    "entries": [
+      {
+        "text": "怀疑",
+        "pinyin": "huái yí",
+        "en": "doubt; suspect",
+        "emoji": "🤔"
+      }
+    ]
+  }
+]

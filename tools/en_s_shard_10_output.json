@@ -1,0 +1,187 @@
+[
+  {
+    "input_word": "success",
+    "entries": [
+      {"text": "success", "ipa": "/səkˈsɛs/", "cefr": "A1", "zh": "成功", "emoji": "🏆"}
+    ]
+  },
+  {
+    "input_word": "successful",
+    "entries": [
+      {"text": "successful", "ipa": "/səkˈsɛsfəl/", "cefr": "A2", "zh": "成功的", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_word": "successfully",
+    "entries": [
+      {"text": "successfully", "ipa": "/səkˈsɛsfəli/", "cefr": "B1", "zh": "成功地", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_word": "such",
+    "entries": [
+      {"text": "such", "ipa": "/sʌtʃ/", "cefr": "A2", "zh": "如此", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "sudden",
+    "entries": [
+      {"text": "sudden", "ipa": "/ˈsʌdən/", "cefr": "B1", "zh": "突然的", "emoji": "⚡"}
+    ]
+  },
+  {
+    "input_word": "suddenly",
+    "entries": [
+      {"text": "suddenly", "ipa": "/ˈsʌdənli/", "cefr": "A2", "zh": "突然", "emoji": "⚡"}
+    ]
+  },
+  {
+    "input_word": "suffer",
+    "entries": [
+      {"text": "suffer", "ipa": "/ˈsʌfər/", "cefr": "B1", "zh": "受苦", "emoji": "😣"}
+    ]
+  },
+  {
+    "input_word": "sugar",
+    "entries": [
+      {"text": "sugar", "ipa": "/ˈʃʊɡər/", "cefr": "A1", "zh": "糖", "emoji": "🍬"}
+    ]
+  },
+  {
+    "input_word": "suggest",
+    "entries": [
+      {"text": "suggest", "ipa": "/səɡˈdʒɛst/", "cefr": "A2", "zh": "建议", "emoji": "💡"}
+    ]
+  },
+  {
+    "input_word": "suggestion",
+    "entries": [
+      {"text": "suggestion", "ipa": "/səɡˈdʒɛstʃən/", "cefr": "A2", "zh": "建议", "emoji": "💡"}
+    ]
+  },
+  {
+    "input_word": "suit",
+    "entries": [
+      {"text": "suit", "ipa": "/suːt/", "cefr": "A2", "zh": "西装", "emoji": "👔"},
+      {"text": "suit", "ipa": "/suːt/", "cefr": "A2", "zh": "适合", "emoji": "👍"}
+    ]
+  },
+  {
+    "input_word": "suitable",
+    "entries": [
+      {"text": "suitable", "ipa": "/ˈsuːtəbəl/", "cefr": "B1", "zh": "合适的", "emoji": "👍"}
+    ]
+  },
+  {
+    "input_word": "sum",
+    "entries": [
+      {"text": "sum", "ipa": "/sʌm/", "cefr": "B2", "zh": "总和", "emoji": "➕"},
+      {"text": "sum", "ipa": "/sʌm/", "cefr": "B2", "zh": "金额", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_word": "summarize",
+    "entries": [
+      {"text": "summarize", "ipa": "/ˈsʌməˌraɪz/", "cefr": "B1", "zh": "总结", "emoji": "📝"}
+    ]
+  },
+  {
+    "input_word": "summary",
+    "entries": [
+      {"text": "summary", "ipa": "/ˈsʌməri/", "cefr": "B1", "zh": "摘要", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_word": "summer",
+    "entries": [
+      {"text": "summer", "ipa": "/ˈsʌmər/", "cefr": "A1", "zh": "夏天", "emoji": "☀️"}
+    ]
+  },
+  {
+    "input_word": "sun",
+    "entries": [
+      {"text": "sun", "ipa": "/sʌn/", "cefr": "A1", "zh": "太阳", "emoji": "☀️"}
+    ]
+  },
+  {
+    "input_word": "sunday",
+    "entries": [
+      {"text": "Sunday", "ipa": "/ˈsʌndeɪ/", "cefr": "A1", "zh": "星期日", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_word": "supermarket",
+    "entries": [
+      {"text": "supermarket", "ipa": "/ˈsuːpərˌmɑːrkɪt/", "cefr": "A1", "zh": "超市", "emoji": "🛒"}
+    ]
+  },
+  {
+    "input_word": "supply",
+    "entries": [
+      {"text": "supply", "ipa": "/səˈplaɪ/", "cefr": "B1", "zh": "供应", "emoji": "📦"},
+      {"text": "supply", "ipa": "/səˈplaɪ/", "cefr": "B1", "zh": "提供", "emoji": "🚚"}
+    ]
+  },
+  {
+    "input_word": "support",
+    "entries": [
+      {"text": "support", "ipa": "/səˈpɔːrt/", "cefr": "A2", "zh": "支持", "emoji": "🤝"},
+      {"text": "support", "ipa": "/səˈpɔːrt/", "cefr": "A2", "zh": "援助", "emoji": "🆘"}
+    ]
+  },
+  {
+    "input_word": "supporter",
+    "entries": [
+      {"text": "supporter", "ipa": "/səˈpɔːrtər/", "cefr": "B1", "zh": "支持者", "emoji": "🙌"}
+    ]
+  },
+  {
+    "input_word": "suppose",
+    "entries": [
+      {"text": "suppose", "ipa": "/səˈpoʊz/", "cefr": "A2", "zh": "假设", "emoji": "🤔"}
+    ]
+  },
+  {
+    "input_word": "sure",
+    "entries": [
+      {"text": "sure", "ipa": "/ʃʊr/", "cefr": "A1", "zh": "确定的", "emoji": "✔️"}
+    ]
+  },
+  {
+    "input_word": "surely",
+    "entries": [
+      {"text": "surely", "ipa": "/ˈʃʊrli/", "cefr": "B1", "zh": "肯定", "emoji": "✔️"}
+    ]
+  },
+  {
+    "input_word": "surface",
+    "entries": [
+      {"text": "surface", "ipa": "/ˈsɜːrfɪs/", "cefr": "B1", "zh": "表面", "emoji": "🔲"}
+    ]
+  },
+  {
+    "input_word": "surgery",
+    "entries": [
+      {"text": "surgery", "ipa": "/ˈsɜːrdʒəri/", "cefr": "B2", "zh": "外科手术", "emoji": "🏥"}
+    ]
+  },
+  {
+    "input_word": "surprise",
+    "entries": [
+      {"text": "surprise", "ipa": "/sərˈpraɪz/", "cefr": "A2", "zh": "惊喜", "emoji": "🎁"},
+      {"text": "surprise", "ipa": "/sərˈpraɪz/", "cefr": "A2", "zh": "使惊讶", "emoji": "😲"}
+    ]
+  },
+  {
+    "input_word": "surprised",
+    "entries": [
+      {"text": "surprised", "ipa": "/sərˈpraɪzd/", "cefr": "A2", "zh": "惊讶的", "emoji": "😲"}
+    ]
+  },
+  {
+    "input_word": "surprising",
+    "entries": [
+      {"text": "surprising", "ipa": "/sərˈpraɪzɪŋ/", "cefr": "A2", "zh": "令人惊讶", "emoji": "😮"}
+    ]
+  }
+]

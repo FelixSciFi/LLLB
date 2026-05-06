@@ -1,0 +1,276 @@
+[
+  {
+    "text": "mobiliser",
+    "ipa": "mɔbilize",
+    "translation": {"zh": "动员", "en": "to mobilize"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "mobiliser", "lemma": "mobiliser", "ipa": "mɔbilize", "translation": {"zh": "动员", "en": "mobilize"}, "emoji": "📣"}
+    ]
+  },
+  {
+    "text": "célébrer",
+    "ipa": "selebʁe",
+    "translation": {"zh": "庆祝", "en": "to celebrate"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "célébrer", "lemma": "célébrer", "ipa": "selebʁe", "translation": {"zh": "庆祝", "en": "celebrate"}, "emoji": "🎉"}
+    ]
+  },
+  {
+    "text": "des situations semblables",
+    "ipa": "de sitɥasjɔ̃ sɑ̃blabl",
+    "translation": {"zh": "类似的情况", "en": "similar situations"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "des situations semblables", "lemma": "situation", "ipa": "de sitɥasjɔ̃ sɑ̃blabl", "translation": {"zh": "类似的情况", "en": "similar situations"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "diffuser une vidéo",
+    "ipa": "difyze yn video",
+    "translation": {"zh": "传播视频", "en": "to broadcast a video"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "diffuser une vidéo", "lemma": "diffuser", "ipa": "difyze yn video", "translation": {"zh": "传播视频", "en": "broadcast a video"}, "emoji": "📡"}
+    ]
+  },
+  {
+    "text": "une démarche",
+    "ipa": "yn demaʁʃ",
+    "translation": {"zh": "步骤；方法", "en": "an approach"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une démarche", "lemma": "démarche", "ipa": "yn demaʁʃ", "translation": {"zh": "步骤；方法", "en": "an approach"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une lance",
+    "ipa": "yn lɑ̃s",
+    "translation": {"zh": "长矛", "en": "a spear"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une lance", "lemma": "lance", "ipa": "yn lɑ̃s", "translation": {"zh": "长矛", "en": "a spear"}, "emoji": "🗡️"}
+    ]
+  },
+  {
+    "text": "un piège",
+    "ipa": "œ̃ pjɛʒ",
+    "translation": {"zh": "陷阱", "en": "a trap"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un piège", "lemma": "piège", "ipa": "œ̃ pjɛʒ", "translation": {"zh": "陷阱", "en": "a trap"}, "emoji": "🪤"}
+    ]
+  },
+  {
+    "text": "investir de l'argent",
+    "ipa": "ɛ̃vɛstiʁ də laʁʒɑ̃",
+    "translation": {"zh": "投资钱财", "en": "to invest money"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "investir", "lemma": "investir", "ipa": "ɛ̃vɛstiʁ", "translation": {"zh": "投资", "en": "invest"}, "emoji": "💰"},
+      {"text": "de l'argent", "lemma": "argent", "ipa": "də laʁʒɑ̃", "translation": {"zh": "钱", "en": "money"}, "emoji": "💵"}
+    ]
+  },
+  {
+    "text": "uniquement",
+    "ipa": "ynikmɑ̃",
+    "translation": {"zh": "仅仅", "en": "only"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "uniquement", "lemma": "uniquement", "ipa": "ynikmɑ̃", "translation": {"zh": "仅仅", "en": "only"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une caméra",
+    "ipa": "yn kameʁa",
+    "translation": {"zh": "摄像机", "en": "a camera"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une caméra", "lemma": "caméra", "ipa": "yn kameʁa", "translation": {"zh": "摄像机", "en": "a camera"}, "emoji": "🎥"}
+    ]
+  },
+  {
+    "text": "accéder au site",
+    "ipa": "aksede o sit",
+    "translation": {"zh": "访问网站", "en": "to access the site"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "accéder au site", "lemma": "accéder", "ipa": "aksede o sit", "translation": {"zh": "访问网站", "en": "access the site"}, "emoji": "🔗"}
+    ]
+  },
+  {
+    "text": "agiter les mains",
+    "ipa": "aʒite le mɛ̃",
+    "translation": {"zh": "挥手", "en": "to wave one's hands"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "agiter", "lemma": "agiter", "ipa": "aʒite", "translation": {"zh": "挥动", "en": "wave"}, "emoji": "👋"},
+      {"text": "les mains", "lemma": "main", "ipa": "le mɛ̃", "translation": {"zh": "手", "en": "hands"}, "emoji": "✋"}
+    ]
+  },
+  {
+    "text": "les téléspectateurs",
+    "ipa": "le telespɛktatœʁ",
+    "translation": {"zh": "电视观众", "en": "television viewers"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "les téléspectateurs", "lemma": "téléspectateur", "ipa": "le telespɛktatœʁ", "translation": {"zh": "电视观众", "en": "TV viewers"}, "emoji": "📺"}
+    ]
+  },
+  {
+    "text": "des cheveux roux",
+    "ipa": "de ʃəvø ʁu",
+    "translation": {"zh": "红色头发", "en": "red hair"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "des cheveux roux", "lemma": "cheveu", "ipa": "de ʃəvø ʁu", "translation": {"zh": "红色头发", "en": "red hair"}, "emoji": "🦰"}
+    ]
+  },
+  {
+    "text": "exploiter les ressources",
+    "ipa": "ɛksplwate le ʁəsuʁs",
+    "translation": {"zh": "开发资源", "en": "to exploit resources"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "exploiter", "lemma": "exploiter", "ipa": "ɛksplwate", "translation": {"zh": "开发利用", "en": "exploit"}, "emoji": "⛏️"},
+      {"text": "les ressources", "lemma": "ressource", "ipa": "le ʁəsuʁs", "translation": {"zh": "资源", "en": "resources"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "du sable",
+    "ipa": "dy sabl",
+    "translation": {"zh": "沙子", "en": "sand"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "du sable", "lemma": "sable", "ipa": "dy sabl", "translation": {"zh": "沙子", "en": "sand"}, "emoji": "🏖️"}
+    ]
+  },
+  {
+    "text": "une barbe",
+    "ipa": "yn baʁb",
+    "translation": {"zh": "胡子", "en": "a beard"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une barbe", "lemma": "barbe", "ipa": "yn baʁb", "translation": {"zh": "胡子", "en": "a beard"}, "emoji": "🧔"}
+    ]
+  },
+  {
+    "text": "un adulte",
+    "ipa": "œ̃ adylt",
+    "translation": {"zh": "成年人", "en": "an adult"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un adulte", "lemma": "adulte", "ipa": "œ̃ adylt", "translation": {"zh": "成年人", "en": "an adult"}, "emoji": "🧑"}
+    ]
+  },
+  {
+    "text": "au stade",
+    "ipa": "o stad",
+    "translation": {"zh": "在体育场", "en": "at the stadium"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "au stade", "lemma": "stade", "ipa": "o stad", "translation": {"zh": "在体育场", "en": "at the stadium"}, "emoji": "🏟️"}
+    ]
+  },
+  {
+    "text": "je doute",
+    "ipa": "ʒə dut",
+    "translation": {"zh": "我怀疑", "en": "I doubt"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "je doute", "lemma": "douter", "ipa": "ʒə dut", "translation": {"zh": "我怀疑", "en": "I doubt"}, "emoji": "🤔"}
+    ]
+  },
+  {
+    "text": "un progrès technologique",
+    "ipa": "œ̃ pʁɔɡʁɛ tɛknɔlɔʒik",
+    "translation": {"zh": "技术进步", "en": "technological progress"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un progrès technologique", "lemma": "progrès", "ipa": "œ̃ pʁɔɡʁɛ tɛknɔlɔʒik", "translation": {"zh": "技术进步", "en": "technological progress"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "un parking",
+    "ipa": "œ̃ paʁkiŋ",
+    "translation": {"zh": "停车场", "en": "a parking lot"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un parking", "lemma": "parking", "ipa": "œ̃ paʁkiŋ", "translation": {"zh": "停车场", "en": "a parking lot"}, "emoji": "🅿️"}
+    ]
+  },
+  {
+    "text": "une masse",
+    "ipa": "yn mas",
+    "translation": {"zh": "大量；团块", "en": "a mass"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une masse", "lemma": "masse", "ipa": "yn mas", "translation": {"zh": "大量；团块", "en": "a mass"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "arracher une dent",
+    "ipa": "aʁaʃe yn dɑ̃",
+    "translation": {"zh": "拔牙", "en": "to pull out a tooth"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "arracher", "lemma": "arracher", "ipa": "aʁaʃe", "translation": {"zh": "拔出", "en": "pull out"}, "emoji": ""},
+      {"text": "une dent", "lemma": "dent", "ipa": "yn dɑ̃", "translation": {"zh": "牙齿", "en": "a tooth"}, "emoji": "🦷"}
+    ]
+  },
+  {
+    "text": "le moral",
+    "ipa": "lə mɔʁal",
+    "translation": {"zh": "士气；精神状态", "en": "morale"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le moral", "lemma": "moral", "ipa": "lə mɔʁal", "translation": {"zh": "士气；精神", "en": "morale"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "volontiers",
+    "ipa": "vɔlɔ̃tjɛʁ",
+    "translation": {"zh": "乐意地", "en": "gladly"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "volontiers", "lemma": "volontiers", "ipa": "vɔlɔ̃tjɛʁ", "translation": {"zh": "乐意地", "en": "gladly"}, "emoji": "😊"}
+    ]
+  },
+  {
+    "text": "le secteur associatif",
+    "ipa": "lə sɛktœʁ asɔsjatif",
+    "translation": {"zh": "社团部门", "en": "the non-profit sector"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le secteur associatif", "lemma": "secteur", "ipa": "lə sɛktœʁ asɔsjatif", "translation": {"zh": "社团部门", "en": "the non-profit sector"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "un photographe",
+    "ipa": "œ̃ fɔtɔɡʁaf",
+    "translation": {"zh": "摄影师", "en": "a photographer"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un photographe", "lemma": "photographe", "ipa": "œ̃ fɔtɔɡʁaf", "translation": {"zh": "摄影师", "en": "a photographer"}, "emoji": "📷"}
+    ]
+  },
+  {
+    "text": "une personnalité médiatique",
+    "ipa": "yn pɛʁsɔnalite mediatik",
+    "translation": {"zh": "媒体名人", "en": "a media personality"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une personnalité médiatique", "lemma": "personnalité", "ipa": "yn pɛʁsɔnalite mediatik", "translation": {"zh": "媒体名人", "en": "media personality"}, "emoji": "🎙️"}
+    ]
+  },
+  {
+    "text": "c'est dramatique",
+    "ipa": "se dʁamatik",
+    "translation": {"zh": "太戏剧化了", "en": "it's dramatic"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est dramatique", "lemma": "dramatique", "ipa": "se dʁamatik", "translation": {"zh": "太戏剧化了", "en": "it's dramatic"}, "emoji": "🎭"}
+    ]
+  }
+]

@@ -1,0 +1,952 @@
+[
+  {
+    "id": "9c732706-aae9-4845-9f19-22fb9408cfdb",
+    "text": "他每天刷牙两次。",
+    "ipa": "tā měi tiān shuā yá liǎng cì",
+    "translation": {
+      "zh": "他每天刷牙两次。",
+      "en": "He brushes his teeth twice every day."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他每天",
+        "lemma": "他每天",
+        "ipa": "tā měi tiān",
+        "translation": {
+          "zh": "他每天",
+          "en": "he every day"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "刷牙",
+        "lemma": "刷牙",
+        "ipa": "shuā yá",
+        "translation": {
+          "zh": "刷牙",
+          "en": "brush teeth"
+        },
+        "emoji": "🦷"
+      },
+      {
+        "text": "两次",
+        "lemma": "两次",
+        "ipa": "liǎng cì",
+        "translation": {
+          "zh": "两次",
+          "en": "twice"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "1d8fc790-1783-4bae-8ffb-e9dac5dbce91",
+    "text": "她的中文水平提高了。",
+    "ipa": "tā de zhōng wén shuǐ píng tí gāo le",
+    "translation": {
+      "zh": "她的中文水平提高了。",
+      "en": "Her Chinese level has improved."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "她的",
+        "lemma": "她的",
+        "ipa": "tā de",
+        "translation": {
+          "zh": "她的",
+          "en": "her"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "中文水平",
+        "lemma": "中文水平",
+        "ipa": "zhōng wén shuǐ píng",
+        "translation": {
+          "zh": "中文水平",
+          "en": "Chinese level"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "提高了",
+        "lemma": "提高了",
+        "ipa": "tí gāo le",
+        "translation": {
+          "zh": "提高了",
+          "en": "has improved"
+        },
+        "emoji": "📈"
+      }
+    ]
+  },
+  {
+    "id": "c2e57654-ed69-4f9a-8c9c-d36f5b2b66dd",
+    "text": "他的英语水平很高。",
+    "ipa": "tā de yīng yǔ shuǐ píng hěn gāo",
+    "translation": {
+      "zh": "他的英语水平很高。",
+      "en": "His English level is very high."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他的",
+        "lemma": "他的",
+        "ipa": "tā de",
+        "translation": {
+          "zh": "他的",
+          "en": "his"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "英语水平",
+        "lemma": "英语水平",
+        "ipa": "yīng yǔ shuǐ píng",
+        "translation": {
+          "zh": "英语水平",
+          "en": "English level"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "很高",
+        "lemma": "很高",
+        "ipa": "hěn gāo",
+        "translation": {
+          "zh": "很高",
+          "en": "very high"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "2ced2b43-8855-4c84-80aa-b057bc7a39ec",
+    "text": "司机把我们送到了机场。",
+    "ipa": "sī jī bǎ wǒ men sòng dào le jī chǎng",
+    "translation": {
+      "zh": "司机把我们送到了机场。",
+      "en": "The driver took us to the airport."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "司机",
+        "lemma": "司机",
+        "ipa": "sī jī",
+        "translation": {
+          "zh": "司机",
+          "en": "driver"
+        },
+        "emoji": "🚗"
+      },
+      {
+        "text": "把我们",
+        "lemma": "把我们",
+        "ipa": "bǎ wǒ men",
+        "translation": {
+          "zh": "把我们",
+          "en": "us"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "送到了",
+        "lemma": "送到了",
+        "ipa": "sòng dào le",
+        "translation": {
+          "zh": "送到了",
+          "en": "took (us) to"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "机场",
+        "lemma": "机场",
+        "ipa": "jī chǎng",
+        "translation": {
+          "zh": "机场",
+          "en": "airport"
+        },
+        "emoji": "✈️"
+      }
+    ]
+  },
+  {
+    "id": "0927b043-192f-4a72-a964-4808035d18d9",
+    "text": "那位司机开车很小心。",
+    "ipa": "nà wèi sī jī kāi chē hěn xiǎo xīn",
+    "translation": {
+      "zh": "那位司机开车很小心。",
+      "en": "That driver is very careful when driving."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "那位",
+        "lemma": "那位",
+        "ipa": "nà wèi",
+        "translation": {
+          "zh": "那位",
+          "en": "that"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "司机",
+        "lemma": "司机",
+        "ipa": "sī jī",
+        "translation": {
+          "zh": "司机",
+          "en": "driver"
+        },
+        "emoji": "🚗"
+      },
+      {
+        "text": "开车",
+        "lemma": "开车",
+        "ipa": "kāi chē",
+        "translation": {
+          "zh": "开车",
+          "en": "drive"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "很小心",
+        "lemma": "很小心",
+        "ipa": "hěn xiǎo xīn",
+        "translation": {
+          "zh": "很小心",
+          "en": "very careful"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "6982084d-d9ac-4a48-b91d-cd84f3265478",
+    "text": "今天太阳很大，出门要戴帽子。",
+    "ipa": "jīn tiān tài yáng hěn dà chū mén yào dài mào zi",
+    "translation": {
+      "zh": "今天太阳很大，出门要戴帽子。",
+      "en": "The sun is very strong today; you need to wear a hat when going out."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "今天",
+        "lemma": "今天",
+        "ipa": "jīn tiān",
+        "translation": {
+          "zh": "今天",
+          "en": "today"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "太阳",
+        "lemma": "太阳",
+        "ipa": "tài yáng",
+        "translation": {
+          "zh": "太阳",
+          "en": "sun"
+        },
+        "emoji": "☀️"
+      },
+      {
+        "text": "很大",
+        "lemma": "很大",
+        "ipa": "hěn dà",
+        "translation": {
+          "zh": "很大",
+          "en": "very strong / very big"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "出门",
+        "lemma": "出门",
+        "ipa": "chū mén",
+        "translation": {
+          "zh": "出门",
+          "en": "go out"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "要",
+        "lemma": "要",
+        "ipa": "yào",
+        "translation": {
+          "zh": "要",
+          "en": "need to"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "戴帽子",
+        "lemma": "戴帽子",
+        "ipa": "dài mào zi",
+        "translation": {
+          "zh": "戴帽子",
+          "en": "wear a hat"
+        },
+        "emoji": "🧢"
+      }
+    ]
+  },
+  {
+    "id": "0f15e34e-4fe8-41a3-9e61-54f73ed8db75",
+    "text": "她特别喜欢吃辣的东西。",
+    "ipa": "tā tè bié xǐ huān chī là de dōng xi",
+    "translation": {
+      "zh": "她特别喜欢吃辣的东西。",
+      "en": "She especially likes eating spicy food."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "她特别喜欢",
+        "lemma": "她特别喜欢",
+        "ipa": "tā tè bié xǐ huān",
+        "translation": {
+          "zh": "她特别喜欢",
+          "en": "she especially likes"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "吃",
+        "lemma": "吃",
+        "ipa": "chī",
+        "translation": {
+          "zh": "吃",
+          "en": "eat"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "辣的",
+        "lemma": "辣的",
+        "ipa": "là de",
+        "translation": {
+          "zh": "辣的",
+          "en": "spicy"
+        },
+        "emoji": "🌶️"
+      },
+      {
+        "text": "东西",
+        "lemma": "东西",
+        "ipa": "dōng xi",
+        "translation": {
+          "zh": "东西",
+          "en": "things / food"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "ab57a34e-b8cc-4326-9ce3-ba995bd9e064",
+    "text": "这家餐厅的鱼特别好吃。",
+    "ipa": "zhè jiā cān tīng de yú tè bié hǎo chī",
+    "translation": {
+      "zh": "这家餐厅的鱼特别好吃。",
+      "en": "The fish at this restaurant is especially delicious."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这家餐厅的",
+        "lemma": "这家餐厅的",
+        "ipa": "zhè jiā cān tīng de",
+        "translation": {
+          "zh": "这家餐厅的",
+          "en": "this restaurant's"
+        },
+        "emoji": "🍽️"
+      },
+      {
+        "text": "鱼",
+        "lemma": "鱼",
+        "ipa": "yú",
+        "translation": {
+          "zh": "鱼",
+          "en": "fish"
+        },
+        "emoji": "🐟"
+      },
+      {
+        "text": "特别好吃",
+        "lemma": "特别好吃",
+        "ipa": "tè bié hǎo chī",
+        "translation": {
+          "zh": "特别好吃",
+          "en": "especially delicious"
+        },
+        "emoji": "😋"
+      }
+    ]
+  },
+  {
+    "id": "9aadf402-7e14-48dc-9a4a-ed9e0831e949",
+    "text": "我的头疼得很厉害。",
+    "ipa": "wǒ de tóu téng de hěn lì hài",
+    "translation": {
+      "zh": "我的头疼得很厉害。",
+      "en": "My head hurts really badly."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我的",
+        "lemma": "我的",
+        "ipa": "wǒ de",
+        "translation": {
+          "zh": "我的",
+          "en": "my"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "头",
+        "lemma": "头",
+        "ipa": "tóu",
+        "translation": {
+          "zh": "头",
+          "en": "head"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "疼得很厉害",
+        "lemma": "疼得很厉害",
+        "ipa": "téng de hěn lì hài",
+        "translation": {
+          "zh": "疼得很厉害",
+          "en": "hurts really badly"
+        },
+        "emoji": "🤕"
+      }
+    ]
+  },
+  {
+    "id": "0a827f99-a785-4c47-987d-23970df4b213",
+    "text": "走了太多路，腿很疼。",
+    "ipa": "zǒu le tài duō lù tuǐ hěn téng",
+    "translation": {
+      "zh": "走了太多路，腿很疼。",
+      "en": "After walking too much, my legs are really sore."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "走了",
+        "lemma": "走了",
+        "ipa": "zǒu le",
+        "translation": {
+          "zh": "走了",
+          "en": "walked"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "太多路",
+        "lemma": "太多路",
+        "ipa": "tài duō lù",
+        "translation": {
+          "zh": "太多路",
+          "en": "too much / too far"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "腿",
+        "lemma": "腿",
+        "ipa": "tuǐ",
+        "translation": {
+          "zh": "腿",
+          "en": "legs"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "很疼",
+        "lemma": "很疼",
+        "ipa": "hěn téng",
+        "translation": {
+          "zh": "很疼",
+          "en": "very sore / really hurt"
+        },
+        "emoji": "🤕"
+      }
+    ]
+  },
+  {
+    "id": "a3a3f27a-2984-4f32-ba01-470357b0841c",
+    "text": "他想提高自己的中文水平。",
+    "ipa": "tā xiǎng tí gāo zì jǐ de zhōng wén shuǐ píng",
+    "translation": {
+      "zh": "他想提高自己的中文水平。",
+      "en": "He wants to improve his own Chinese level."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他想",
+        "lemma": "他想",
+        "ipa": "tā xiǎng",
+        "translation": {
+          "zh": "他想",
+          "en": "he wants to"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "提高",
+        "lemma": "提高",
+        "ipa": "tí gāo",
+        "translation": {
+          "zh": "提高",
+          "en": "improve"
+        },
+        "emoji": "📈"
+      },
+      {
+        "text": "自己的",
+        "lemma": "自己的",
+        "ipa": "zì jǐ de",
+        "translation": {
+          "zh": "自己的",
+          "en": "his own"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "中文水平",
+        "lemma": "中文水平",
+        "ipa": "zhōng wén shuǐ píng",
+        "translation": {
+          "zh": "中文水平",
+          "en": "Chinese level"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "c291dc2a-33fd-4819-97e1-a4d2c94de2b2",
+    "text": "多练习可以提高口语能力。",
+    "ipa": "duō liàn xí kě yǐ tí gāo kǒu yǔ néng lì",
+    "translation": {
+      "zh": "多练习可以提高口语能力。",
+      "en": "More practice can improve speaking ability."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "多练习",
+        "lemma": "多练习",
+        "ipa": "duō liàn xí",
+        "translation": {
+          "zh": "多练习",
+          "en": "practice more"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "可以",
+        "lemma": "可以",
+        "ipa": "kě yǐ",
+        "translation": {
+          "zh": "可以",
+          "en": "can"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "提高",
+        "lemma": "提高",
+        "ipa": "tí gāo",
+        "translation": {
+          "zh": "提高",
+          "en": "improve"
+        },
+        "emoji": "📈"
+      },
+      {
+        "text": "口语能力",
+        "lemma": "口语能力",
+        "ipa": "kǒu yǔ néng lì",
+        "translation": {
+          "zh": "口语能力",
+          "en": "speaking ability"
+        },
+        "emoji": "🗣️"
+      }
+    ]
+  },
+  {
+    "id": "fd935939-1646-4492-93e9-364ce51f5ecc",
+    "text": "我们学校的体育课很有意思。",
+    "ipa": "wǒ men xué xiào de tǐ yù kè hěn yǒu yì si",
+    "translation": {
+      "zh": "我们学校的体育课很有意思。",
+      "en": "Our school's PE class is very interesting."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我们学校的",
+        "lemma": "我们学校的",
+        "ipa": "wǒ men xué xiào de",
+        "translation": {
+          "zh": "我们学校的",
+          "en": "our school's"
+        },
+        "emoji": "🏫"
+      },
+      {
+        "text": "体育课",
+        "lemma": "体育课",
+        "ipa": "tǐ yù kè",
+        "translation": {
+          "zh": "体育课",
+          "en": "PE class"
+        },
+        "emoji": "🏃"
+      },
+      {
+        "text": "很有意思",
+        "lemma": "很有意思",
+        "ipa": "hěn yǒu yì si",
+        "translation": {
+          "zh": "很有意思",
+          "en": "very interesting"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "83694202-bd86-4cd3-9771-1363db039dc4",
+    "text": "他从小就喜欢体育运动。",
+    "ipa": "tā cóng xiǎo jiù xǐ huān tǐ yù yùn dòng",
+    "translation": {
+      "zh": "他从小就喜欢体育运动。",
+      "en": "He has liked sports since he was young."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他从小",
+        "lemma": "他从小",
+        "ipa": "tā cóng xiǎo",
+        "translation": {
+          "zh": "他从小",
+          "en": "he since childhood"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "就喜欢",
+        "lemma": "就喜欢",
+        "ipa": "jiù xǐ huān",
+        "translation": {
+          "zh": "就喜欢",
+          "en": "has always liked"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "体育运动",
+        "lemma": "体育运动",
+        "ipa": "tǐ yù yùn dòng",
+        "translation": {
+          "zh": "体育运动",
+          "en": "sports"
+        },
+        "emoji": "⚽"
+      }
+    ]
+  },
+  {
+    "id": "cc0003ca-92f2-474c-8aca-f94d9e9feea0",
+    "text": "这个西瓜特别甜。",
+    "ipa": "zhè ge xī guā tè bié tián",
+    "translation": {
+      "zh": "这个西瓜特别甜。",
+      "en": "This watermelon is especially sweet."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这个",
+        "lemma": "这个",
+        "ipa": "zhè ge",
+        "translation": {
+          "zh": "这个",
+          "en": "this"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "西瓜",
+        "lemma": "西瓜",
+        "ipa": "xī guā",
+        "translation": {
+          "zh": "西瓜",
+          "en": "watermelon"
+        },
+        "emoji": "🍉"
+      },
+      {
+        "text": "特别甜",
+        "lemma": "特别甜",
+        "ipa": "tè bié tián",
+        "translation": {
+          "zh": "特别甜",
+          "en": "especially sweet"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "1de63562-5de0-45f8-84fc-2549a89c06a3",
+    "text": "妈妈做的蛋糕又甜又软。",
+    "ipa": "māma zuò de dàn gāo yòu tián yòu ruǎn",
+    "translation": {
+      "zh": "妈妈做的蛋糕又甜又软。",
+      "en": "The cake Mom made is both sweet and soft."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "妈妈做的",
+        "lemma": "妈妈做的",
+        "ipa": "māma zuò de",
+        "translation": {
+          "zh": "妈妈做的",
+          "en": "Mom's / made by Mom"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "蛋糕",
+        "lemma": "蛋糕",
+        "ipa": "dàn gāo",
+        "translation": {
+          "zh": "蛋糕",
+          "en": "cake"
+        },
+        "emoji": "🎂"
+      },
+      {
+        "text": "又甜",
+        "lemma": "又甜",
+        "ipa": "yòu tián",
+        "translation": {
+          "zh": "又甜",
+          "en": "both sweet"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "又软",
+        "lemma": "又软",
+        "ipa": "yòu ruǎn",
+        "translation": {
+          "zh": "又软",
+          "en": "and soft"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "27e4e4d0-1fd6-4310-bbfe-84d2b32e2367",
+    "text": "我和同事一起去吃午饭了。",
+    "ipa": "wǒ hé tóng shì yī qǐ qù chī wǔ fàn le",
+    "translation": {
+      "zh": "我和同事一起去吃午饭了。",
+      "en": "I went to have lunch together with my colleagues."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我",
+        "lemma": "我",
+        "ipa": "wǒ",
+        "translation": {
+          "zh": "我",
+          "en": "I"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "和同事",
+        "lemma": "和同事",
+        "ipa": "hé tóng shì",
+        "translation": {
+          "zh": "和同事",
+          "en": "with colleagues"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "一起去",
+        "lemma": "一起去",
+        "ipa": "yī qǐ qù",
+        "translation": {
+          "zh": "一起去",
+          "en": "go together"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "吃午饭了",
+        "lemma": "吃午饭了",
+        "ipa": "chī wǔ fàn le",
+        "translation": {
+          "zh": "吃午饭了",
+          "en": "had lunch"
+        },
+        "emoji": "🍱"
+      }
+    ]
+  },
+  {
+    "id": "bbb00e90-2787-4010-bbcf-f107056a6ea0",
+    "text": "她的同事都很友好。",
+    "ipa": "tā de tóng shì dōu hěn yǒu hǎo",
+    "translation": {
+      "zh": "她的同事都很友好。",
+      "en": "Her colleagues are all very friendly."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "她的",
+        "lemma": "她的",
+        "ipa": "tā de",
+        "translation": {
+          "zh": "她的",
+          "en": "her"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "同事",
+        "lemma": "同事",
+        "ipa": "tóng shì",
+        "translation": {
+          "zh": "同事",
+          "en": "colleagues"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "都很友好",
+        "lemma": "都很友好",
+        "ipa": "dōu hěn yǒu hǎo",
+        "translation": {
+          "zh": "都很友好",
+          "en": "are all very friendly"
+        },
+        "emoji": "😊"
+      }
+    ]
+  },
+  {
+    "id": "f27d219f-4322-4260-a7eb-b6e9100c8206",
+    "text": "爸爸不同意我换工作。",
+    "ipa": "bàba bù tóng yì wǒ huàn gōng zuò",
+    "translation": {
+      "zh": "爸爸不同意我换工作。",
+      "en": "Dad doesn't agree with me changing jobs."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "爸爸",
+        "lemma": "爸爸",
+        "ipa": "bàba",
+        "translation": {
+          "zh": "爸爸",
+          "en": "dad"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "不同意",
+        "lemma": "不同意",
+        "ipa": "bù tóng yì",
+        "translation": {
+          "zh": "不同意",
+          "en": "doesn't agree"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "我换工作",
+        "lemma": "我换工作",
+        "ipa": "wǒ huàn gōng zuò",
+        "translation": {
+          "zh": "我换工作",
+          "en": "me changing jobs"
+        },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "55374f78-31c9-4f76-bb5f-08a327cf745a",
+    "text": "大家都同意这个方案。",
+    "ipa": "dà jiā dōu tóng yì zhè ge fāng àn",
+    "translation": {
+      "zh": "大家都同意这个方案。",
+      "en": "Everyone agrees on this plan."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "大家",
+        "lemma": "大家",
+        "ipa": "dà jiā",
+        "translation": {
+          "zh": "大家",
+          "en": "everyone"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "都同意",
+        "lemma": "都同意",
+        "ipa": "dōu tóng yì",
+        "translation": {
+          "zh": "都同意",
+          "en": "all agree"
+        },
+        "emoji": "👍"
+      },
+      {
+        "text": "这个方案",
+        "lemma": "这个方案",
+        "ipa": "zhè ge fāng àn",
+        "translation": {
+          "zh": "这个方案",
+          "en": "this plan"
+        },
+        "emoji": ""
+      }
+    ]
+  }
+]

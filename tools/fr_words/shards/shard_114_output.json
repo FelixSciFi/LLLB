@@ -1,0 +1,297 @@
+[
+  {
+    "text": "une maladie infectieuse",
+    "ipa": "yn maladi ɛ̃fɛksjøz",
+    "translation": {"zh": "传染病", "en": "an infectious disease"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une maladie", "lemma": "maladie", "ipa": "yn maladi", "translation": {"zh": "一种疾病", "en": "a disease"}, "emoji": "🤒"},
+      {"text": "infectieuse", "lemma": "infectieux", "ipa": "ɛ̃fɛksjøz", "translation": {"zh": "传染性的", "en": "infectious"}, "emoji": "🦠"}
+    ]
+  },
+  {
+    "text": "un bonhomme de neige",
+    "ipa": "œ̃ bɔnɔm də nɛʒ",
+    "translation": {"zh": "雪人", "en": "a snowman"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un bonhomme", "lemma": "bonhomme", "ipa": "œ̃ bɔnɔm", "translation": {"zh": "一个雪人", "en": "a snowman"}, "emoji": "⛄"},
+      {"text": "de neige", "lemma": "neige", "ipa": "də nɛʒ", "translation": {"zh": "雪做的", "en": "of snow"}, "emoji": "❄️"}
+    ]
+  },
+  {
+    "text": "il se rétablit vite",
+    "ipa": "il sə ʁetabli vit",
+    "translation": {"zh": "他很快康复了", "en": "he recovered quickly"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "il se rétablit", "lemma": "rétablir", "ipa": "il sə ʁetabli", "translation": {"zh": "他康复", "en": "he recovered"}, "emoji": "💪"},
+      {"text": "vite", "lemma": "vite", "ipa": "vit", "translation": {"zh": "很快", "en": "quickly"}, "emoji": "⚡"}
+    ]
+  },
+  {
+    "text": "restituer les objets volés",
+    "ipa": "ʁestitɥe lɛz‿ɔbʒɛ vɔle",
+    "translation": {"zh": "归还被盗物品", "en": "return the stolen items"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "restituer", "lemma": "restituer", "ipa": "ʁestitɥe", "translation": {"zh": "归还", "en": "return"}, "emoji": "↩️"},
+      {"text": "les objets", "lemma": "objet", "ipa": "lɛz‿ɔbʒɛ", "translation": {"zh": "这些物品", "en": "the items"}, "emoji": "📦"},
+      {"text": "volés", "lemma": "voler", "ipa": "vɔle", "translation": {"zh": "被盗的", "en": "stolen"}, "emoji": "🚨"}
+    ]
+  },
+  {
+    "text": "l'abolition de l'esclavage",
+    "ipa": "labɔlisjɔ̃ də lɛsklavɑʒ",
+    "translation": {"zh": "废除奴隶制", "en": "the abolition of slavery"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'abolition", "lemma": "abolition", "ipa": "labɔlisjɔ̃", "translation": {"zh": "废除", "en": "abolition"}, "emoji": "⚖️"},
+      {"text": "de l'esclavage", "lemma": "esclavage", "ipa": "də lɛsklavɑʒ", "translation": {"zh": "奴隶制", "en": "of slavery"}, "emoji": "⛓️"}
+    ]
+  },
+  {
+    "text": "elle s'épanouit au soleil",
+    "ipa": "ɛl s‿epanwi o sɔlɛj",
+    "translation": {"zh": "她在阳光下绽放", "en": "she blossoms in the sun"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "elle s'épanouit", "lemma": "épanouir", "ipa": "ɛl s‿epanwi", "translation": {"zh": "她绽放", "en": "she blossoms"}, "emoji": "🌸"},
+      {"text": "au soleil", "lemma": "soleil", "ipa": "o sɔlɛj", "translation": {"zh": "在阳光下", "en": "in the sun"}, "emoji": "☀️"}
+    ]
+  },
+  {
+    "text": "un cadre institutionnel",
+    "ipa": "œ̃ kadʁ ɛ̃stitysj ɔnɛl",
+    "translation": {"zh": "制度框架", "en": "an institutional framework"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un cadre", "lemma": "cadre", "ipa": "œ̃ kadʁ", "translation": {"zh": "一个框架", "en": "a framework"}, "emoji": "🏛️"},
+      {"text": "institutionnel", "lemma": "institutionnel", "ipa": "ɛ̃stitysjɔnɛl", "translation": {"zh": "制度性的", "en": "institutional"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "mon copain",
+    "ipa": "mɔ̃ kɔpɛ̃",
+    "translation": {"zh": "我的朋友", "en": "my friend"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "mon copain", "lemma": "copain", "ipa": "mɔ̃ kɔpɛ̃", "translation": {"zh": "我的朋友", "en": "my friend"}, "emoji": "👫"}
+    ]
+  },
+  {
+    "text": "une impasse",
+    "ipa": "yn ɛ̃pas",
+    "translation": {"zh": "死胡同", "en": "a dead end"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une impasse", "lemma": "impasse", "ipa": "yn ɛ̃pas", "translation": {"zh": "死胡同", "en": "a dead end"}, "emoji": "🚧"}
+    ]
+  },
+  {
+    "text": "je suis déçu",
+    "ipa": "ʒə sɥi desy",
+    "translation": {"zh": "我很失望", "en": "I am disappointed"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "je suis déçu", "lemma": "déçu", "ipa": "ʒə sɥi desy", "translation": {"zh": "我很失望", "en": "I am disappointed"}, "emoji": "😞"}
+    ]
+  },
+  {
+    "text": "mon mac",
+    "ipa": "mɔ̃ mak",
+    "translation": {"zh": "我的Mac电脑", "en": "my Mac"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "mon mac", "lemma": "mac", "ipa": "mɔ̃ mak", "translation": {"zh": "我的Mac", "en": "my Mac"}, "emoji": "💻"}
+    ]
+  },
+  {
+    "text": "faire semblant",
+    "ipa": "fɛʁ sɑ̃blɑ̃",
+    "translation": {"zh": "假装", "en": "to pretend"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "faire semblant", "lemma": "semblant", "ipa": "fɛʁ sɑ̃blɑ̃", "translation": {"zh": "假装", "en": "pretend"}, "emoji": "🎭"}
+    ]
+  },
+  {
+    "text": "la suppression d'un poste",
+    "ipa": "la sypʁɛsjɔ̃ dœ̃ pɔst",
+    "translation": {"zh": "一个职位的裁撤", "en": "the elimination of a position"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la suppression", "lemma": "suppression", "ipa": "la sypʁɛsjɔ̃", "translation": {"zh": "裁撤", "en": "elimination"}, "emoji": "❌"},
+      {"text": "d'un poste", "lemma": "poste", "ipa": "dœ̃ pɔst", "translation": {"zh": "一个职位", "en": "of a position"}, "emoji": "💼"}
+    ]
+  },
+  {
+    "text": "au crépuscule",
+    "ipa": "o kʁepyskyl",
+    "translation": {"zh": "在黄昏时", "en": "at dusk"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "au crépuscule", "lemma": "crépuscule", "ipa": "o kʁepyskyl", "translation": {"zh": "在黄昏", "en": "at dusk"}, "emoji": "🌆"}
+    ]
+  },
+  {
+    "text": "la propreté de la rue",
+    "ipa": "la pʁɔpʁəte də la ʁy",
+    "translation": {"zh": "街道的整洁", "en": "the cleanliness of the street"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la propreté", "lemma": "propreté", "ipa": "la pʁɔpʁəte", "translation": {"zh": "整洁", "en": "cleanliness"}, "emoji": "✨"},
+      {"text": "de la rue", "lemma": "rue", "ipa": "də la ʁy", "translation": {"zh": "街道的", "en": "of the street"}, "emoji": "🏙️"}
+    ]
+  },
+  {
+    "text": "on pique-nique au parc",
+    "ipa": "ɔ̃ piknik o paʁk",
+    "translation": {"zh": "我们在公园野餐", "en": "we picnic in the park"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "on pique-nique", "lemma": "pique-niquer", "ipa": "ɔ̃ piknik", "translation": {"zh": "我们野餐", "en": "we picnic"}, "emoji": "🧺"},
+      {"text": "au parc", "lemma": "parc", "ipa": "o paʁk", "translation": {"zh": "在公园", "en": "in the park"}, "emoji": "🌳"}
+    ]
+  },
+  {
+    "text": "à la tombée de la nuit",
+    "ipa": "a la tɔ̃be də la nɥi",
+    "translation": {"zh": "在夜幕降临时", "en": "at nightfall"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "à la tombée", "lemma": "tombée", "ipa": "a la tɔ̃be", "translation": {"zh": "降临时", "en": "at the fall"}, "emoji": "🌙"},
+      {"text": "de la nuit", "lemma": "nuit", "ipa": "də la nɥi", "translation": {"zh": "夜晚", "en": "of night"}, "emoji": "🌃"}
+    ]
+  },
+  {
+    "text": "du saumon fumé",
+    "ipa": "dy somɔ̃ fyme",
+    "translation": {"zh": "烟熏三文鱼", "en": "smoked salmon"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "du saumon", "lemma": "saumon", "ipa": "dy somɔ̃", "translation": {"zh": "三文鱼", "en": "salmon"}, "emoji": "🐟"},
+      {"text": "fumé", "lemma": "fumer", "ipa": "fyme", "translation": {"zh": "烟熏的", "en": "smoked"}, "emoji": "💨"}
+    ]
+  },
+  {
+    "text": "l'épaisseur du mur",
+    "ipa": "lepɛsœʁ dy myʁ",
+    "translation": {"zh": "墙的厚度", "en": "the thickness of the wall"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'épaisseur", "lemma": "épaisseur", "ipa": "lepɛsœʁ", "translation": {"zh": "厚度", "en": "thickness"}, "emoji": "📏"},
+      {"text": "du mur", "lemma": "mur", "ipa": "dy myʁ", "translation": {"zh": "墙的", "en": "of the wall"}, "emoji": "🧱"}
+    ]
+  },
+  {
+    "text": "remplir un formulaire",
+    "ipa": "ʁɑ̃pliʁ œ̃ fɔʁmylɛʁ",
+    "translation": {"zh": "填写表格", "en": "fill out a form"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "remplir", "lemma": "remplir", "ipa": "ʁɑ̃pliʁ", "translation": {"zh": "填写", "en": "fill out"}, "emoji": "✏️"},
+      {"text": "un formulaire", "lemma": "formulaire", "ipa": "œ̃ fɔʁmylɛʁ", "translation": {"zh": "一张表格", "en": "a form"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "un microprocesseur rapide",
+    "ipa": "œ̃ mikʁopʁɔsɛsœʁ ʁapid",
+    "translation": {"zh": "一个快速的微处理器", "en": "a fast microprocessor"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un microprocesseur", "lemma": "microprocesseur", "ipa": "œ̃ mikʁopʁɔsɛsœʁ", "translation": {"zh": "微处理器", "en": "microprocessor"}, "emoji": "💾"},
+      {"text": "rapide", "lemma": "rapide", "ipa": "ʁapid", "translation": {"zh": "快速的", "en": "fast"}, "emoji": "⚡"}
+    ]
+  },
+  {
+    "text": "un restaurant indien",
+    "ipa": "œ̃ ʁɛstoʁɑ̃ ɛ̃djɛ̃",
+    "translation": {"zh": "一家印度餐厅", "en": "an Indian restaurant"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un restaurant", "lemma": "restaurant", "ipa": "œ̃ ʁɛstoʁɑ̃", "translation": {"zh": "一家餐厅", "en": "a restaurant"}, "emoji": "🍽️"},
+      {"text": "indien", "lemma": "indien", "ipa": "ɛ̃djɛ̃", "translation": {"zh": "印度的", "en": "Indian"}, "emoji": "🇮🇳"}
+    ]
+  },
+  {
+    "text": "une plate-forme numérique",
+    "ipa": "yn platfɔʁm nymeʁik",
+    "translation": {"zh": "一个数字平台", "en": "a digital platform"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une plate-forme", "lemma": "plate-forme", "ipa": "yn platfɔʁm", "translation": {"zh": "一个平台", "en": "a platform"}, "emoji": "🖥️"},
+      {"text": "numérique", "lemma": "numérique", "ipa": "nymeʁik", "translation": {"zh": "数字的", "en": "digital"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "l'intrigue du roman",
+    "ipa": "lɛ̃tʁiɡ dy ʁɔmɑ̃",
+    "translation": {"zh": "小说的情节", "en": "the plot of the novel"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'intrigue", "lemma": "intrigue", "ipa": "lɛ̃tʁiɡ", "translation": {"zh": "情节", "en": "plot"}, "emoji": "📖"},
+      {"text": "du roman", "lemma": "roman", "ipa": "dy ʁɔmɑ̃", "translation": {"zh": "小说的", "en": "of the novel"}, "emoji": "📚"}
+    ]
+  },
+  {
+    "text": "détourner les fonds",
+    "ipa": "detuʁne le fɔ̃",
+    "translation": {"zh": "挪用资金", "en": "embezzle the funds"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "détourner", "lemma": "détourner", "ipa": "detuʁne", "translation": {"zh": "挪用", "en": "embezzle"}, "emoji": "💸"},
+      {"text": "les fonds", "lemma": "fond", "ipa": "le fɔ̃", "translation": {"zh": "资金", "en": "the funds"}, "emoji": "💰"}
+    ]
+  },
+  {
+    "text": "elle ajoute du sel",
+    "ipa": "ɛl aʒut dy sɛl",
+    "translation": {"zh": "她加了盐", "en": "she adds some salt"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "elle ajoute", "lemma": "ajouter", "ipa": "ɛl aʒut", "translation": {"zh": "她加入", "en": "she adds"}, "emoji": "➕"},
+      {"text": "du sel", "lemma": "sel", "ipa": "dy sɛl", "translation": {"zh": "盐", "en": "some salt"}, "emoji": "🧂"}
+    ]
+  },
+  {
+    "text": "ne pas négliger sa santé",
+    "ipa": "nə pa neɡliʒe sa sɑ̃te",
+    "translation": {"zh": "不要忽视自己的健康", "en": "not to neglect one's health"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ne pas négliger", "lemma": "négliger", "ipa": "nə pa neɡliʒe", "translation": {"zh": "不忽视", "en": "not neglect"}, "emoji": "⚠️"},
+      {"text": "sa santé", "lemma": "santé", "ipa": "sa sɑ̃te", "translation": {"zh": "自己的健康", "en": "one's health"}, "emoji": "❤️"}
+    ]
+  },
+  {
+    "text": "démolir un bâtiment",
+    "ipa": "demoliʁ œ̃ batimɑ̃",
+    "translation": {"zh": "拆除一栋建筑", "en": "demolish a building"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "démolir", "lemma": "démolir", "ipa": "demoliʁ", "translation": {"zh": "拆除", "en": "demolish"}, "emoji": "🏗️"},
+      {"text": "un bâtiment", "lemma": "bâtiment", "ipa": "œ̃ batimɑ̃", "translation": {"zh": "一栋建筑", "en": "a building"}, "emoji": "🏢"}
+    ]
+  },
+  {
+    "text": "une église protestante",
+    "ipa": "yn eɡliz pʁɔtɛstɑ̃t",
+    "translation": {"zh": "一座新教教堂", "en": "a Protestant church"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une église", "lemma": "église", "ipa": "yn eɡliz", "translation": {"zh": "一座教堂", "en": "a church"}, "emoji": "⛪"},
+      {"text": "protestante", "lemma": "protestant", "ipa": "pʁɔtɛstɑ̃t", "translation": {"zh": "新教的", "en": "Protestant"}, "emoji": "✝️"}
+    ]
+  },
+  {
+    "text": "une attraction touristique",
+    "ipa": "yn atʁaksjɔ̃ tuʁistik",
+    "translation": {"zh": "一个旅游景点", "en": "a tourist attraction"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une attraction", "lemma": "attraction", "ipa": "yn atʁaksjɔ̃", "translation": {"zh": "一个景点", "en": "an attraction"}, "emoji": "🎡"},
+      {"text": "touristique", "lemma": "touristique", "ipa": "tuʁistik", "translation": {"zh": "旅游的", "en": "tourist"}, "emoji": "📸"}
+    ]
+  }
+]

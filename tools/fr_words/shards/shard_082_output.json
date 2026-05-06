@@ -1,0 +1,278 @@
+[
+  {
+    "text": "porter atteinte",
+    "ipa": "pɔʁte atɛ̃t",
+    "translation": {"zh": "侵害，损害", "en": "to harm, to infringe"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "porter atteinte", "lemma": "porter atteinte", "ipa": "pɔʁte atɛ̃t", "translation": {"zh": "侵害", "en": "to harm"}, "emoji": "⚠️"}
+    ]
+  },
+  {
+    "text": "la lenteur",
+    "ipa": "la lɑ̃tœʁ",
+    "translation": {"zh": "缓慢，迟钝", "en": "slowness"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la lenteur", "lemma": "lenteur", "ipa": "la lɑ̃tœʁ", "translation": {"zh": "缓慢", "en": "slowness"}, "emoji": "🐢"}
+    ]
+  },
+  {
+    "text": "l'élite",
+    "ipa": "lelit",
+    "translation": {"zh": "精英，精英阶层", "en": "the elite"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'élite", "lemma": "élite", "ipa": "lelit", "translation": {"zh": "精英", "en": "the elite"}, "emoji": "⭐"}
+    ]
+  },
+  {
+    "text": "convoiter",
+    "ipa": "kɔ̃vwate",
+    "translation": {"zh": "觊觎，渴望得到", "en": "to covet"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "convoiter", "lemma": "convoiter", "ipa": "kɔ̃vwate", "translation": {"zh": "觊觎", "en": "to covet"}, "emoji": "😏"}
+    ]
+  },
+  {
+    "text": "exigeant",
+    "ipa": "ɛɡziʒɑ̃",
+    "translation": {"zh": "严格的，要求高的", "en": "demanding"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "exigeant", "lemma": "exigeant", "ipa": "ɛɡziʒɑ̃", "translation": {"zh": "严格的", "en": "demanding"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "désagréable",
+    "ipa": "dezaɡʁeabl",
+    "translation": {"zh": "令人不快的，讨厌的", "en": "unpleasant"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "désagréable", "lemma": "désagréable", "ipa": "dezaɡʁeabl", "translation": {"zh": "令人不快", "en": "unpleasant"}, "emoji": "😖"}
+    ]
+  },
+  {
+    "text": "encadrer les élèves",
+    "ipa": "ɑ̃kadʁe le zelɛv",
+    "translation": {"zh": "辅导学生", "en": "to supervise students"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "encadrer", "lemma": "encadrer", "ipa": "ɑ̃kadʁe", "translation": {"zh": "辅导，管理", "en": "to supervise"}, "emoji": ""},
+      {"text": "les élèves", "lemma": "élève", "ipa": "le zelɛv", "translation": {"zh": "学生们", "en": "the students"}, "emoji": "🧑‍🎓"}
+    ]
+  },
+  {
+    "text": "le pouce",
+    "ipa": "lə pus",
+    "translation": {"zh": "大拇指；英寸", "en": "the thumb; inch"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le pouce", "lemma": "pouce", "ipa": "lə pus", "translation": {"zh": "大拇指", "en": "the thumb"}, "emoji": "👍"}
+    ]
+  },
+  {
+    "text": "la grandeur",
+    "ipa": "la ɡʁɑ̃dœʁ",
+    "translation": {"zh": "伟大，宏大", "en": "greatness, grandeur"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la grandeur", "lemma": "grandeur", "ipa": "la ɡʁɑ̃dœʁ", "translation": {"zh": "伟大", "en": "greatness"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "le dessinateur",
+    "ipa": "lə desinatœʁ",
+    "translation": {"zh": "绘图员，画家", "en": "draughtsman, illustrator"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le dessinateur", "lemma": "dessinateur", "ipa": "lə desinatœʁ", "translation": {"zh": "绘图员", "en": "illustrator"}, "emoji": "✏️"}
+    ]
+  },
+  {
+    "text": "un adepte du yoga",
+    "ipa": "œ̃ nadɛpt dy jɔɡa",
+    "translation": {"zh": "一个瑜伽爱好者", "en": "a yoga enthusiast"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un adepte", "lemma": "adepte", "ipa": "œ̃ nadɛpt", "translation": {"zh": "爱好者", "en": "an enthusiast"}, "emoji": ""},
+      {"text": "du yoga", "lemma": "yoga", "ipa": "dy jɔɡa", "translation": {"zh": "瑜伽", "en": "of yoga"}, "emoji": "🧘"}
+    ]
+  },
+  {
+    "text": "une explosion",
+    "ipa": "yn ɛksplosj ɔ̃",
+    "translation": {"zh": "爆炸，爆发", "en": "an explosion"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une explosion", "lemma": "explosion", "ipa": "yn ɛksplozjɔ̃", "translation": {"zh": "爆炸", "en": "an explosion"}, "emoji": "💥"}
+    ]
+  },
+  {
+    "text": "enchanté",
+    "ipa": "ɑ̃ʃɑ̃te",
+    "translation": {"zh": "很高兴认识你；着迷的", "en": "pleased to meet you; enchanted"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "enchanté", "lemma": "enchanter", "ipa": "ɑ̃ʃɑ̃te", "translation": {"zh": "很高兴", "en": "delighted"}, "emoji": "😊"}
+    ]
+  },
+  {
+    "text": "un endroit paisible",
+    "ipa": "œ̃ nɑ̃dʁwa pɛzibl",
+    "translation": {"zh": "一个宁静的地方", "en": "a peaceful place"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un endroit", "lemma": "endroit", "ipa": "œ̃ nɑ̃dʁwa", "translation": {"zh": "一个地方", "en": "a place"}, "emoji": "📍"},
+      {"text": "paisible", "lemma": "paisible", "ipa": "pɛzibl", "translation": {"zh": "宁静的", "en": "peaceful"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le locataire",
+    "ipa": "lə lɔkatɛʁ",
+    "translation": {"zh": "房客，租户", "en": "the tenant"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le locataire", "lemma": "locataire", "ipa": "lə lɔkatɛʁ", "translation": {"zh": "房客", "en": "the tenant"}, "emoji": "🏠"}
+    ]
+  },
+  {
+    "text": "l'utilisateur",
+    "ipa": "lytilizatœʁ",
+    "translation": {"zh": "用户，使用者", "en": "the user"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'utilisateur", "lemma": "utilisateur", "ipa": "lytilizatœʁ", "translation": {"zh": "用户", "en": "the user"}, "emoji": "👤"}
+    ]
+  },
+  {
+    "text": "l'harmonie",
+    "ipa": "laʁmɔni",
+    "translation": {"zh": "和谐，协调", "en": "harmony"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'harmonie", "lemma": "harmonie", "ipa": "laʁmɔni", "translation": {"zh": "和谐", "en": "harmony"}, "emoji": "☯️"}
+    ]
+  },
+  {
+    "text": "une cabane en bois",
+    "ipa": "yn kaban ɑ̃ bwa",
+    "translation": {"zh": "一间木屋", "en": "a wooden cabin"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une cabane", "lemma": "cabane", "ipa": "yn kaban", "translation": {"zh": "小屋", "en": "a cabin"}, "emoji": "🛖"},
+      {"text": "en bois", "lemma": "bois", "ipa": "ɑ̃ bwa", "translation": {"zh": "木制的", "en": "wooden"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une tarte aux pommes",
+    "ipa": "yn taʁt o pɔm",
+    "translation": {"zh": "一个苹果挞", "en": "an apple tart"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une tarte", "lemma": "tarte", "ipa": "yn taʁt", "translation": {"zh": "挞，馅饼", "en": "a tart"}, "emoji": "🥧"},
+      {"text": "aux pommes", "lemma": "pomme", "ipa": "o pɔm", "translation": {"zh": "苹果的", "en": "apple"}, "emoji": "🍎"}
+    ]
+  },
+  {
+    "text": "secondaire",
+    "ipa": "səɡɔ̃dɛʁ",
+    "translation": {"zh": "次要的，中学的", "en": "secondary"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "secondaire", "lemma": "secondaire", "ipa": "səɡɔ̃dɛʁ", "translation": {"zh": "次要的", "en": "secondary"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la fondation",
+    "ipa": "la fɔ̃dasjɔ̃",
+    "translation": {"zh": "基础；基金会", "en": "the foundation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la fondation", "lemma": "fondation", "ipa": "la fɔ̃dasjɔ̃", "translation": {"zh": "基金会", "en": "the foundation"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "d'ores et déjà",
+    "ipa": "dɔʁ e deʒa",
+    "translation": {"zh": "从现在起，已经", "en": "from now on, already"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "d'ores et déjà", "lemma": "ores", "ipa": "dɔʁ e deʒa", "translation": {"zh": "从现在起", "en": "from now on"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la nécessité",
+    "ipa": "la nesesite",
+    "translation": {"zh": "必要性，需要", "en": "necessity"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la nécessité", "lemma": "nécessité", "ipa": "la nesesite", "translation": {"zh": "必要性", "en": "necessity"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "l'inauguration",
+    "ipa": "linɔɡyʁasjɔ̃",
+    "translation": {"zh": "开幕式，落成典礼", "en": "the inauguration"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "l'inauguration", "lemma": "inauguration", "ipa": "linɔɡyʁasjɔ̃", "translation": {"zh": "开幕式", "en": "inauguration"}, "emoji": "🎉"}
+    ]
+  },
+  {
+    "text": "écouter attentivement",
+    "ipa": "ekute atɑ̃tivmɑ̃",
+    "translation": {"zh": "仔细聆听", "en": "to listen carefully"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "écouter", "lemma": "écouter", "ipa": "ekute", "translation": {"zh": "听", "en": "to listen"}, "emoji": "👂"},
+      {"text": "attentivement", "lemma": "attentivement", "ipa": "atɑ̃tivmɑ̃", "translation": {"zh": "仔细地", "en": "carefully"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "perturber",
+    "ipa": "pɛʁtyʁbe",
+    "translation": {"zh": "扰乱，打乱", "en": "to disrupt, to disturb"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "perturber", "lemma": "perturber", "ipa": "pɛʁtyʁbe", "translation": {"zh": "扰乱", "en": "to disrupt"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "inattendu",
+    "ipa": "inatɑ̃dy",
+    "translation": {"zh": "出乎意料的，意想不到的", "en": "unexpected"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "inattendu", "lemma": "inattendu", "ipa": "inatɑ̃dy", "translation": {"zh": "意外的", "en": "unexpected"}, "emoji": "😲"}
+    ]
+  },
+  {
+    "text": "la souche",
+    "ipa": "la suʃ",
+    "translation": {"zh": "树桩；根源；存根", "en": "tree stump; origin; stub"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la souche", "lemma": "souche", "ipa": "la suʃ", "translation": {"zh": "树桩", "en": "tree stump"}, "emoji": "🌳"}
+    ]
+  },
+  {
+    "text": "le sous-sol",
+    "ipa": "lə susɔl",
+    "translation": {"zh": "地下室；地下层", "en": "the basement"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le sous-sol", "lemma": "sous-sol", "ipa": "lə susɔl", "translation": {"zh": "地下室", "en": "the basement"}, "emoji": "🏚️"}
+    ]
+  },
+  {
+    "text": "pédagogique",
+    "ipa": "pedaɡɔʒik",
+    "translation": {"zh": "教育的，教学的", "en": "educational, pedagogical"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "pédagogique", "lemma": "pédagogique", "ipa": "pedaɡɔʒik", "translation": {"zh": "教育的", "en": "educational"}, "emoji": "📚"}
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "input_word": "yard",
+    "entries": [
+      {"text": "yard", "ipa": "/jɑːrd/", "cefr": "B1", "zh": "院子", "emoji": "🏡"},
+      {"text": "yard", "ipa": "/jɑːrd/", "cefr": "B1", "zh": "码（单位）", "emoji": "📏"}
+    ]
+  },
+  {
+    "input_word": "yeah",
+    "entries": [
+      {"text": "yeah", "ipa": "/jɛː/", "cefr": "A1", "zh": "是，对", "emoji": "👍"}
+    ]
+  },
+  {
+    "input_word": "year",
+    "entries": [
+      {"text": "year", "ipa": "/jɪr/", "cefr": "A1", "zh": "年，年份", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_word": "yellow",
+    "entries": [
+      {"text": "yellow", "ipa": "/ˈjɛloʊ/", "cefr": "A1", "zh": "黄色", "emoji": "💛"}
+    ]
+  },
+  {
+    "input_word": "yes",
+    "entries": [
+      {"text": "yes", "ipa": "/jɛs/", "cefr": "A1", "zh": "是，好的", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_word": "yesterday",
+    "entries": [
+      {"text": "yesterday", "ipa": "/ˈjɛstərdeɪ/", "cefr": "A1", "zh": "昨天", "emoji": "⬅️"}
+    ]
+  },
+  {
+    "input_word": "yet",
+    "entries": []
+  },
+  {
+    "input_word": "you",
+    "entries": []
+  },
+  {
+    "input_word": "young",
+    "entries": [
+      {"text": "young", "ipa": "/jʌŋ/", "cefr": "A1", "zh": "年轻的", "emoji": "🧒"}
+    ]
+  },
+  {
+    "input_word": "your",
+    "entries": []
+  },
+  {
+    "input_word": "yours",
+    "entries": []
+  },
+  {
+    "input_word": "yourself",
+    "entries": []
+  },
+  {
+    "input_word": "youth",
+    "entries": [
+      {"text": "youth", "ipa": "/juːθ/", "cefr": "B1", "zh": "青春，青少年", "emoji": "🧑"}
+    ]
+  }
+]

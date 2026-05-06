@@ -1,0 +1,234 @@
+[
+  {
+    "input_word": "qualification",
+    "entries": [
+      {
+        "text": "qualification",
+        "ipa": "/ˌkwɒlɪfɪˈkeɪʃən/",
+        "cefr": "B1",
+        "zh": "资格证书",
+        "emoji": "🎓"
+      }
+    ]
+  },
+  {
+    "input_word": "qualified",
+    "entries": [
+      {
+        "text": "qualified",
+        "ipa": "/ˈkwɒlɪfaɪd/",
+        "cefr": "B1",
+        "zh": "有资格的",
+        "emoji": "✅"
+      }
+    ]
+  },
+  {
+    "input_word": "qualify",
+    "entries": [
+      {
+        "text": "qualify",
+        "ipa": "/ˈkwɒlɪfaɪ/",
+        "cefr": "B1",
+        "zh": "取得资格",
+        "emoji": "🏅"
+      }
+    ]
+  },
+  {
+    "input_word": "quality",
+    "entries": [
+      {
+        "text": "quality",
+        "ipa": "/ˈkwɒlɪti/",
+        "cefr": "A2",
+        "zh": "质量",
+        "emoji": "⭐"
+      }
+    ]
+  },
+  {
+    "input_word": "quantity",
+    "entries": [
+      {
+        "text": "quantity",
+        "ipa": "/ˈkwɒntɪti/",
+        "cefr": "A2",
+        "zh": "数量",
+        "emoji": "🔢"
+      }
+    ]
+  },
+  {
+    "input_word": "quarter",
+    "entries": [
+      {
+        "text": "quarter",
+        "ipa": "/ˈkwɔːrtər/",
+        "cefr": "A1",
+        "zh": "四分之一",
+        "emoji": "🍕"
+      },
+      {
+        "text": "quarter",
+        "ipa": "/ˈkwɔːrtər/",
+        "cefr": "A1",
+        "zh": "一刻钟",
+        "emoji": "🕒"
+      },
+      {
+        "text": "quarter",
+        "ipa": "/ˈkwɔːrtər/",
+        "cefr": "A1",
+        "zh": "25美分",
+        "emoji": "🪙"
+      }
+    ]
+  },
+  {
+    "input_word": "queen",
+    "entries": [
+      {
+        "text": "queen",
+        "ipa": "/kwiːn/",
+        "cefr": "A2",
+        "zh": "女王",
+        "emoji": "👑"
+      }
+    ]
+  },
+  {
+    "input_word": "question",
+    "entries": [
+      {
+        "text": "question",
+        "ipa": "/ˈkwɛstʃən/",
+        "cefr": "A1",
+        "zh": "问题",
+        "emoji": "❓"
+      }
+    ]
+  },
+  {
+    "input_word": "queue",
+    "entries": [
+      {
+        "text": "queue",
+        "ipa": "/kjuː/",
+        "cefr": "B1",
+        "zh": "队列",
+        "emoji": "🚶"
+      }
+    ]
+  },
+  {
+    "input_word": "quick",
+    "entries": [
+      {
+        "text": "quick",
+        "ipa": "/kwɪk/",
+        "cefr": "A1",
+        "zh": "快速的",
+        "emoji": "⚡"
+      }
+    ]
+  },
+  {
+    "input_word": "quickly",
+    "entries": [
+      {
+        "text": "quickly",
+        "ipa": "/ˈkwɪkli/",
+        "cefr": "A1",
+        "zh": "迅速地",
+        "emoji": "💨"
+      }
+    ]
+  },
+  {
+    "input_word": "quiet",
+    "entries": [
+      {
+        "text": "quiet",
+        "ipa": "/ˈkwaɪət/",
+        "cefr": "A1",
+        "zh": "安静的",
+        "emoji": "🤫"
+      }
+    ]
+  },
+  {
+    "input_word": "quietly",
+    "entries": [
+      {
+        "text": "quietly",
+        "ipa": "/ˈkwaɪətli/",
+        "cefr": "A2",
+        "zh": "安静地",
+        "emoji": "🤫"
+      }
+    ]
+  },
+  {
+    "input_word": "quit",
+    "entries": [
+      {
+        "text": "quit",
+        "ipa": "/kwɪt/",
+        "cefr": "B1",
+        "zh": "退出",
+        "emoji": "🚪"
+      }
+    ]
+  },
+  {
+    "input_word": "quite",
+    "entries": [
+      {
+        "text": "quite",
+        "ipa": "/kwaɪt/",
+        "cefr": "A1",
+        "zh": "相当",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "quotation",
+    "entries": [
+      {
+        "text": "quotation",
+        "ipa": "/kwoʊˈteɪʃən/",
+        "cefr": "B1",
+        "zh": "引用语",
+        "emoji": "💬"
+      },
+      {
+        "text": "quotation",
+        "ipa": "/kwoʊˈteɪʃən/",
+        "cefr": "B1",
+        "zh": "报价单",
+        "emoji": "💰"
+      }
+    ]
+  },
+  {
+    "input_word": "quote",
+    "entries": [
+      {
+        "text": "quote",
+        "ipa": "/kwoʊt/",
+        "cefr": "B1",
+        "zh": "引用",
+        "emoji": "💬"
+      },
+      {
+        "text": "quote",
+        "ipa": "/kwoʊt/",
+        "cefr": "B1",
+        "zh": "报价",
+        "emoji": "💰"
+      }
+    ]
+  }
+]

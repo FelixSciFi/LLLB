@@ -1,0 +1,62 @@
+[
+  {
+    "input_text": "组成",
+    "entries": [
+      {"text": "组成", "pinyin": "zǔ chéng", "en": "compose, make up", "emoji": "🔧"}
+    ]
+  },
+  {
+    "input_text": "组合",
+    "entries": [
+      {"text": "组合", "pinyin": "zǔ hé", "en": "combine; combination", "emoji": "🔗"}
+    ]
+  },
+  {
+    "input_text": "组织",
+    "entries": [
+      {"text": "组织", "pinyin": "zǔ zhī", "en": "organize; organization", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_text": "最初",
+    "entries": [
+      {"text": "最初", "pinyin": "zuì chū", "en": "at first, initially", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "醉",
+    "entries": [
+      {"text": "醉", "pinyin": "zuì", "en": "drunk", "emoji": "🍺"}
+    ]
+  },
+  {
+    "input_text": "尊敬",
+    "entries": [
+      {"text": "尊敬", "pinyin": "zūn jìng", "en": "respect, revere", "emoji": "🙏"}
+    ]
+  },
+  {
+    "input_text": "遵守",
+    "entries": [
+      {"text": "遵守", "pinyin": "zūn shǒu", "en": "abide by, comply with", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_text": "作品",
+    "entries": [
+      {"text": "作品", "pinyin": "zuò pǐn", "en": "work, artwork", "emoji": "🎨"}
+    ]
+  },
+  {
+    "input_text": "作为",
+    "entries": [
+      {"text": "作为", "pinyin": "zuò wéi", "en": "as; conduct, achievement", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "作文",
+    "entries": [
+      {"text": "作文", "pinyin": "zuò wén", "en": "essay; write a composition", "emoji": "✏️"}
+    ]
+  }
+]

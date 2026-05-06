@@ -1,0 +1,183 @@
+[
+  {
+    "input_word": "go",
+    "entries": [
+      {"text": "go", "ipa": "/ɡoʊ/", "cefr": "A1", "zh": "去；走", "emoji": "🚶"}
+    ]
+  },
+  {
+    "input_word": "goal",
+    "entries": [
+      {"text": "goal", "ipa": "/ɡoʊl/", "cefr": "A2", "zh": "目标；进球", "emoji": "🥅"}
+    ]
+  },
+  {
+    "input_word": "god",
+    "entries": [
+      {"text": "god", "ipa": "/ɡɑːd/", "cefr": "A2", "zh": "神；上帝", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_word": "gold",
+    "entries": [
+      {"text": "gold", "ipa": "/ɡoʊld/", "cefr": "A2", "zh": "黄金；金色", "emoji": "🥇"}
+    ]
+  },
+  {
+    "input_word": "golf",
+    "entries": [
+      {"text": "golf", "ipa": "/ɡɑːlf/", "cefr": "A2", "zh": "高尔夫球", "emoji": "⛳"}
+    ]
+  },
+  {
+    "input_word": "good",
+    "entries": [
+      {"text": "good", "ipa": "/ɡʊd/", "cefr": "A1", "zh": "好的；良好", "emoji": "👍"}
+    ]
+  },
+  {
+    "input_word": "goodbye",
+    "entries": [
+      {"text": "goodbye", "ipa": "/ˌɡʊdˈbaɪ/", "cefr": "A1", "zh": "再见", "emoji": "👋"}
+    ]
+  },
+  {
+    "input_word": "goods",
+    "entries": [
+      {"text": "goods", "ipa": "/ɡʊdz/", "cefr": "B1", "zh": "商品；货物", "emoji": "📦"}
+    ]
+  },
+  {
+    "input_word": "govern",
+    "entries": [
+      {"text": "govern", "ipa": "/ˈɡʌvərn/", "cefr": "B2", "zh": "统治；管理", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_word": "government",
+    "entries": [
+      {"text": "government", "ipa": "/ˈɡʌvərnmənt/", "cefr": "A2", "zh": "政府", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_word": "grab",
+    "entries": [
+      {"text": "grab", "ipa": "/ɡræb/", "cefr": "B2", "zh": "抓住；夺取", "emoji": "🤲"}
+    ]
+  },
+  {
+    "input_word": "grade",
+    "entries": [
+      {"text": "grade", "ipa": "/ɡreɪd/", "cefr": "B1", "zh": "等级；成绩", "emoji": "📝"}
+    ]
+  },
+  {
+    "input_word": "gradually",
+    "entries": [
+      {"text": "gradually", "ipa": "/ˈɡrædʒuəli/", "cefr": "B2", "zh": "逐渐地", "emoji": "📈"}
+    ]
+  },
+  {
+    "input_word": "graduate",
+    "entries": [
+      {"text": "graduate", "ipa": "/ˈɡrædʒuət/", "cefr": "B1", "zh": "毕业生", "emoji": "🎓"},
+      {"text": "graduate", "ipa": "/ˈɡrædʒueɪt/", "cefr": "B1", "zh": "毕业", "emoji": "🎓"}
+    ]
+  },
+  {
+    "input_word": "grain",
+    "entries": [
+      {"text": "grain", "ipa": "/ɡreɪn/", "cefr": "B1", "zh": "谷物；颗粒", "emoji": "🌾"}
+    ]
+  },
+  {
+    "input_word": "grand",
+    "entries": [
+      {"text": "grand", "ipa": "/ɡrænd/", "cefr": "B2", "zh": "宏大的；壮观", "emoji": "🏰"}
+    ]
+  },
+  {
+    "input_word": "grandfather",
+    "entries": [
+      {"text": "grandfather", "ipa": "/ˈɡrænˌfɑːðər/", "cefr": "A1", "zh": "祖父；外祖父", "emoji": "👴"}
+    ]
+  },
+  {
+    "input_word": "grandmother",
+    "entries": [
+      {"text": "grandmother", "ipa": "/ˈɡrænˌmʌðər/", "cefr": "A1", "zh": "祖母；外祖母", "emoji": "👵"}
+    ]
+  },
+  {
+    "input_word": "grandparent",
+    "entries": [
+      {"text": "grandparent", "ipa": "/ˈɡrænˌpɛrənt/", "cefr": "A1", "zh": "祖父母", "emoji": "👴"}
+    ]
+  },
+  {
+    "input_word": "grant",
+    "entries": [
+      {"text": "grant", "ipa": "/ɡrænt/", "cefr": "B2", "zh": "拨款；授予", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_word": "grass",
+    "entries": [
+      {"text": "grass", "ipa": "/ɡræs/", "cefr": "A2", "zh": "草；草地", "emoji": "🌿"}
+    ]
+  },
+  {
+    "input_word": "grateful",
+    "entries": [
+      {"text": "grateful", "ipa": "/ˈɡreɪtfəl/", "cefr": "B1", "zh": "感激的；感谢", "emoji": "🙏"}
+    ]
+  },
+  {
+    "input_word": "great",
+    "entries": [
+      {"text": "great", "ipa": "/ɡreɪt/", "cefr": "A1", "zh": "极好的；伟大", "emoji": "⭐"}
+    ]
+  },
+  {
+    "input_word": "green",
+    "entries": [
+      {"text": "green", "ipa": "/ɡriːn/", "cefr": "A1", "zh": "绿色；绿色的", "emoji": "🟢"}
+    ]
+  },
+  {
+    "input_word": "greet",
+    "entries": [
+      {"text": "greet", "ipa": "/ɡriːt/", "cefr": "A2", "zh": "问候；迎接", "emoji": "👋"}
+    ]
+  },
+  {
+    "input_word": "grey",
+    "entries": [
+      {"text": "grey", "ipa": "/ɡreɪ/", "cefr": "A1", "zh": "灰色；灰色的", "emoji": "🩶"}
+    ]
+  },
+  {
+    "input_word": "ground",
+    "entries": [
+      {"text": "ground", "ipa": "/ɡraʊnd/", "cefr": "A2", "zh": "地面；土地", "emoji": "🌍"}
+    ]
+  },
+  {
+    "input_word": "group",
+    "entries": [
+      {"text": "group", "ipa": "/ɡruːp/", "cefr": "A1", "zh": "群体；组", "emoji": "👥"}
+    ]
+  },
+  {
+    "input_word": "grow",
+    "entries": [
+      {"text": "grow", "ipa": "/ɡroʊ/", "cefr": "A1", "zh": "生长；增长", "emoji": "🌱"}
+    ]
+  },
+  {
+    "input_word": "growth",
+    "entries": [
+      {"text": "growth", "ipa": "/ɡroʊθ/", "cefr": "B1", "zh": "增长；生长", "emoji": "📈"}
+    ]
+  }
+]

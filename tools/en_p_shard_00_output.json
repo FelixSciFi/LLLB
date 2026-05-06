@@ -1,0 +1,189 @@
+[
+  {
+    "input_word": "pace",
+    "entries": [
+      {"text": "pace", "ipa": "/peɪs/", "cefr": "B2", "zh": "步速", "emoji": "🏃"}
+    ]
+  },
+  {
+    "input_word": "pack",
+    "entries": [
+      {"text": "pack", "ipa": "/pæk/", "cefr": "A2", "zh": "打包", "emoji": "🎒"},
+      {"text": "pack", "ipa": "/pæk/", "cefr": "A2", "zh": "一包", "emoji": "📦"}
+    ]
+  },
+  {
+    "input_word": "package",
+    "entries": [
+      {"text": "package", "ipa": "/ˈpækɪdʒ/", "cefr": "B1", "zh": "包裹", "emoji": "📦"}
+    ]
+  },
+  {
+    "input_word": "page",
+    "entries": [
+      {"text": "page", "ipa": "/peɪdʒ/", "cefr": "A1", "zh": "页面", "emoji": "📄"}
+    ]
+  },
+  {
+    "input_word": "pain",
+    "entries": [
+      {"text": "pain", "ipa": "/peɪn/", "cefr": "A2", "zh": "疼痛", "emoji": "😣"}
+    ]
+  },
+  {
+    "input_word": "painful",
+    "entries": [
+      {"text": "painful", "ipa": "/ˈpeɪnfəl/", "cefr": "B1", "zh": "痛苦的", "emoji": "😖"}
+    ]
+  },
+  {
+    "input_word": "paint",
+    "entries": [
+      {"text": "paint", "ipa": "/peɪnt/", "cefr": "A1", "zh": "油漆", "emoji": "🎨"},
+      {"text": "paint", "ipa": "/peɪnt/", "cefr": "A1", "zh": "绘画", "emoji": "🖌️"}
+    ]
+  },
+  {
+    "input_word": "painter",
+    "entries": [
+      {"text": "painter", "ipa": "/ˈpeɪntər/", "cefr": "A2", "zh": "画家", "emoji": "🎨"}
+    ]
+  },
+  {
+    "input_word": "painting",
+    "entries": [
+      {"text": "painting", "ipa": "/ˈpeɪntɪŋ/", "cefr": "A1", "zh": "画作", "emoji": "🖼️"}
+    ]
+  },
+  {
+    "input_word": "pair",
+    "entries": [
+      {"text": "pair", "ipa": "/pɛr/", "cefr": "A1", "zh": "一对", "emoji": "👫"}
+    ]
+  },
+  {
+    "input_word": "palace",
+    "entries": [
+      {"text": "palace", "ipa": "/ˈpæləs/", "cefr": "A2", "zh": "宫殿", "emoji": "🏰"}
+    ]
+  },
+  {
+    "input_word": "pale",
+    "entries": [
+      {"text": "pale", "ipa": "/peɪl/", "cefr": "B1", "zh": "苍白的", "emoji": "😶"}
+    ]
+  },
+  {
+    "input_word": "pan",
+    "entries": [
+      {"text": "pan", "ipa": "/pæn/", "cefr": "B1", "zh": "平底锅", "emoji": "🍳"}
+    ]
+  },
+  {
+    "input_word": "panel",
+    "entries": [
+      {"text": "panel", "ipa": "/ˈpænəl/", "cefr": "B2", "zh": "面板", "emoji": "🪟"},
+      {"text": "panel", "ipa": "/ˈpænəl/", "cefr": "B2", "zh": "专家组", "emoji": "👥"}
+    ]
+  },
+  {
+    "input_word": "pants",
+    "entries": [
+      {"text": "pants", "ipa": "/pænts/", "cefr": "A2", "zh": "裤子", "emoji": "👖"}
+    ]
+  },
+  {
+    "input_word": "paper",
+    "entries": [
+      {"text": "paper", "ipa": "/ˈpeɪpər/", "cefr": "A1", "zh": "纸", "emoji": "📄"},
+      {"text": "paper", "ipa": "/ˈpeɪpər/", "cefr": "A1", "zh": "论文", "emoji": "📝"}
+    ]
+  },
+  {
+    "input_word": "paragraph",
+    "entries": [
+      {"text": "paragraph", "ipa": "/ˈpærəɡræf/", "cefr": "A1", "zh": "段落", "emoji": "¶"}
+    ]
+  },
+  {
+    "input_word": "parent",
+    "entries": [
+      {"text": "parent", "ipa": "/ˈpɛrənt/", "cefr": "A1", "zh": "父母", "emoji": "👨‍👩‍👧"}
+    ]
+  },
+  {
+    "input_word": "park",
+    "entries": [
+      {"text": "park", "ipa": "/pɑːrk/", "cefr": "A1", "zh": "公园", "emoji": "🌳"},
+      {"text": "park", "ipa": "/pɑːrk/", "cefr": "A1", "zh": "停车", "emoji": "🅿️"}
+    ]
+  },
+  {
+    "input_word": "parking",
+    "entries": [
+      {"text": "parking", "ipa": "/ˈpɑːrkɪŋ/", "cefr": "A2", "zh": "停车场", "emoji": "🅿️"}
+    ]
+  },
+  {
+    "input_word": "parliament",
+    "entries": [
+      {"text": "parliament", "ipa": "/ˈpɑːrləmənt/", "cefr": "B2", "zh": "议会", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_word": "part",
+    "entries": [
+      {"text": "part", "ipa": "/pɑːrt/", "cefr": "A1", "zh": "部分", "emoji": "🧩"}
+    ]
+  },
+  {
+    "input_word": "participant",
+    "entries": [
+      {"text": "participant", "ipa": "/pɑːrˈtɪsɪpənt/", "cefr": "B2", "zh": "参与者", "emoji": "🙋"}
+    ]
+  },
+  {
+    "input_word": "participate",
+    "entries": [
+      {"text": "participate", "ipa": "/pɑːrˈtɪsɪpeɪt/", "cefr": "B1", "zh": "参与", "emoji": "🙋"}
+    ]
+  },
+  {
+    "input_word": "particular",
+    "entries": [
+      {"text": "particular", "ipa": "/pərˈtɪkjələr/", "cefr": "A2", "zh": "特定的", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_word": "particularly",
+    "entries": [
+      {"text": "particularly", "ipa": "/pərˈtɪkjələrli/", "cefr": "B1", "zh": "尤其", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "partly",
+    "entries": [
+      {"text": "partly", "ipa": "/ˈpɑːrtli/", "cefr": "B2", "zh": "部分地", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "partner",
+    "entries": [
+      {"text": "partner", "ipa": "/ˈpɑːrtnər/", "cefr": "A1", "zh": "伙伴", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "party",
+    "entries": [
+      {"text": "party", "ipa": "/ˈpɑːrti/", "cefr": "A1", "zh": "聚会", "emoji": "🎉"},
+      {"text": "party", "ipa": "/ˈpɑːrti/", "cefr": "A1", "zh": "政党", "emoji": "🗳️"}
+    ]
+  },
+  {
+    "input_word": "pass",
+    "entries": [
+      {"text": "pass", "ipa": "/pæs/", "cefr": "A2", "zh": "经过", "emoji": "🚶"},
+      {"text": "pass", "ipa": "/pæs/", "cefr": "A2", "zh": "通行证", "emoji": "🎫"}
+    ]
+  }
+]

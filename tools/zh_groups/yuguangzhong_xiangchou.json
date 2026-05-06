@@ -1,0 +1,190 @@
+[
+  {
+    "text": "小时候，乡愁是一枚小小的邮票，我在这头，母亲在那头。",
+    "ipa": "xiǎo shí hòu, xiāng chóu shì yī méi xiǎo xiǎo de yóu piào, wǒ zài zhè tóu, mǔ qīn zài nà tóu.",
+    "translation": {
+      "zh": "小时候，乡愁是一枚小小的邮票，我在这头，母亲在那头。",
+      "en": "When I was a child, homesickness was a tiny postage stamp—me on this side, Mother on the other."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "小时候",
+        "lemma": "小时候",
+        "ipa": "xiǎo shí hòu",
+        "translation": {"zh": "幼年时期", "en": "in childhood"},
+        "emoji": "👶"
+      },
+      {
+        "text": "乡愁是",
+        "lemma": "乡愁",
+        "ipa": "xiāng chóu shì",
+        "translation": {"zh": "思乡之情是", "en": "homesickness is"},
+        "emoji": "🏡"
+      },
+      {
+        "text": "一枚小小的邮票",
+        "lemma": "邮票",
+        "ipa": "yī méi xiǎo xiǎo de yóu piào",
+        "translation": {"zh": "一张小邮票", "en": "a tiny postage stamp"},
+        "emoji": "📮"
+      },
+      {
+        "text": "我在这头",
+        "lemma": "这头",
+        "ipa": "wǒ zài zhè tóu",
+        "translation": {"zh": "我在这一边", "en": "I'm on this side"},
+        "emoji": "👦"
+      },
+      {
+        "text": "母亲在那头",
+        "lemma": "那头",
+        "ipa": "mǔ qīn zài nà tóu",
+        "translation": {"zh": "妈妈在那一边", "en": "Mother on the other"},
+        "emoji": "👩"
+      }
+    ],
+    "tags": [{"name": "乡愁", "index": 1}]
+  },
+  {
+    "text": "长大后，乡愁是一张窄窄的船票，我在这头，新娘在那头。",
+    "ipa": "zhǎng dà hòu, xiāng chóu shì yī zhāng zhǎi zhǎi de chuán piào, wǒ zài zhè tóu, xīn niáng zài nà tóu.",
+    "translation": {
+      "zh": "长大后，乡愁是一张窄窄的船票，我在这头，新娘在那头。",
+      "en": "After I grew up, homesickness was a narrow boat ticket—me on this side, my bride on the other."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "长大后",
+        "lemma": "长大",
+        "ipa": "zhǎng dà hòu",
+        "translation": {"zh": "成年以后", "en": "after growing up"},
+        "emoji": "🧑"
+      },
+      {
+        "text": "乡愁是",
+        "lemma": "乡愁",
+        "ipa": "xiāng chóu shì",
+        "translation": {"zh": "思乡之情是", "en": "homesickness is"},
+        "emoji": "🏡"
+      },
+      {
+        "text": "一张窄窄的船票",
+        "lemma": "船票",
+        "ipa": "yī zhāng zhǎi zhǎi de chuán piào",
+        "translation": {"zh": "一张窄船票", "en": "a narrow boat ticket"},
+        "emoji": "🎫"
+      },
+      {
+        "text": "我在这头",
+        "lemma": "这头",
+        "ipa": "wǒ zài zhè tóu",
+        "translation": {"zh": "我在这一边", "en": "I'm on this side"},
+        "emoji": "🧑"
+      },
+      {
+        "text": "新娘在那头",
+        "lemma": "那头",
+        "ipa": "xīn niáng zài nà tóu",
+        "translation": {"zh": "新娘在那一边", "en": "bride on the other"},
+        "emoji": "👰"
+      }
+    ],
+    "tags": [{"name": "乡愁", "index": 2}]
+  },
+  {
+    "text": "后来啊，乡愁是一方矮矮的坟墓，我在外头，母亲在里头。",
+    "ipa": "hòu lái a, xiāng chóu shì yī fāng ǎi ǎi de fén mù, wǒ zài wài tóu, mǔ qīn zài lǐ tóu.",
+    "translation": {
+      "zh": "后来啊，乡愁是一方矮矮的坟墓，我在外头，母亲在里头。",
+      "en": "Later on, homesickness was a low grave mound—me on the outside, Mother on the inside."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "后来啊",
+        "lemma": "后来",
+        "ipa": "hòu lái a",
+        "translation": {"zh": "再后来", "en": "later on"},
+        "emoji": "⏳"
+      },
+      {
+        "text": "乡愁是",
+        "lemma": "乡愁",
+        "ipa": "xiāng chóu shì",
+        "translation": {"zh": "思乡之情是", "en": "homesickness is"},
+        "emoji": "🏡"
+      },
+      {
+        "text": "一方矮矮的坟墓",
+        "lemma": "坟墓",
+        "ipa": "yī fāng ǎi ǎi de fén mù",
+        "translation": {"zh": "一座矮坟", "en": "a low grave"},
+        "emoji": "⚰️"
+      },
+      {
+        "text": "我在外头",
+        "lemma": "外头",
+        "ipa": "wǒ zài wài tóu",
+        "translation": {"zh": "我在外面", "en": "I'm on the outside"},
+        "emoji": "🧍"
+      },
+      {
+        "text": "母亲在里头",
+        "lemma": "里头",
+        "ipa": "mǔ qīn zài lǐ tóu",
+        "translation": {"zh": "妈妈在里面", "en": "Mother on the inside"},
+        "emoji": "🕯️"
+      }
+    ],
+    "tags": [{"name": "乡愁", "index": 3}]
+  },
+  {
+    "text": "而现在，乡愁是一湾浅浅的海峡，我在这头，大陆在那头。",
+    "ipa": "ér xiàn zài, xiāng chóu shì yī wān qiǎn qiǎn de hǎi xiá, wǒ zài zhè tóu, dà lù zài nà tóu.",
+    "translation": {
+      "zh": "而现在，乡愁是一湾浅浅的海峡，我在这头，大陆在那头。",
+      "en": "And now, homesickness is a shallow strait—me on this side, the mainland on the other."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "而现在",
+        "lemma": "现在",
+        "ipa": "ér xiàn zài",
+        "translation": {"zh": "如今", "en": "and now"},
+        "emoji": "📅"
+      },
+      {
+        "text": "乡愁是",
+        "lemma": "乡愁",
+        "ipa": "xiāng chóu shì",
+        "translation": {"zh": "思乡之情是", "en": "homesickness is"},
+        "emoji": "🏡"
+      },
+      {
+        "text": "一湾浅浅的海峡",
+        "lemma": "海峡",
+        "ipa": "yī wān qiǎn qiǎn de hǎi xiá",
+        "translation": {"zh": "一道浅海峡", "en": "a shallow strait"},
+        "emoji": "🌊"
+      },
+      {
+        "text": "我在这头",
+        "lemma": "这头",
+        "ipa": "wǒ zài zhè tóu",
+        "translation": {"zh": "我在这一岸", "en": "I'm on this side"},
+        "emoji": "🧓"
+      },
+      {
+        "text": "大陆在那头",
+        "lemma": "那头",
+        "ipa": "dà lù zài nà tóu",
+        "translation": {"zh": "大陆在那一岸", "en": "mainland on the other"},
+        "emoji": "🗺️"
+      }
+    ],
+    "tags": [{"name": "乡愁", "index": 4}]
+  }
+]

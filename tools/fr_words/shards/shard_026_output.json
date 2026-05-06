@@ -1,0 +1,273 @@
+[
+  {
+    "text": "nul",
+    "ipa": "nyl",
+    "translation": {"zh": "零分；差劲", "en": "zero; terrible"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "nul", "lemma": "nul", "ipa": "nyl", "translation": {"zh": "零；差劲", "en": "zero; terrible"}, "emoji": "🚫"}
+    ]
+  },
+  {
+    "text": "évoluer",
+    "ipa": "evɔlɥe",
+    "translation": {"zh": "进化；发展", "en": "to evolve"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "évoluer", "lemma": "évoluer", "ipa": "evɔlɥe", "translation": {"zh": "进化；发展", "en": "to evolve"}, "emoji": "🔄"}
+    ]
+  },
+  {
+    "text": "une peinture",
+    "ipa": "yn pɛ̃tyʁ",
+    "translation": {"zh": "一幅画；油漆", "en": "a painting; paint"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une peinture", "lemma": "peinture", "ipa": "yn pɛ̃tyʁ", "translation": {"zh": "一幅画", "en": "a painting"}, "emoji": "🎨"}
+    ]
+  },
+  {
+    "text": "sauvage",
+    "ipa": "sovaʒ",
+    "translation": {"zh": "野生的；野蛮的", "en": "wild; savage"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "sauvage", "lemma": "sauvage", "ipa": "sovaʒ", "translation": {"zh": "野生的", "en": "wild"}, "emoji": "🌿"}
+    ]
+  },
+  {
+    "text": "musical",
+    "ipa": "myzikal",
+    "translation": {"zh": "音乐的", "en": "musical"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "musical", "lemma": "musical", "ipa": "myzikal", "translation": {"zh": "音乐的", "en": "musical"}, "emoji": "🎵"}
+    ]
+  },
+  {
+    "text": "bizarre",
+    "ipa": "bizaʁ",
+    "translation": {"zh": "奇怪的", "en": "strange"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "bizarre", "lemma": "bizarre", "ipa": "bizaʁ", "translation": {"zh": "奇怪的", "en": "strange"}, "emoji": "🤔"}
+    ]
+  },
+  {
+    "text": "un détail",
+    "ipa": "œ̃ detaj",
+    "translation": {"zh": "一个细节", "en": "a detail"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un détail", "lemma": "détail", "ipa": "œ̃ detaj", "translation": {"zh": "一个细节", "en": "a detail"}, "emoji": "🔍"}
+    ]
+  },
+  {
+    "text": "analyser",
+    "ipa": "analize",
+    "translation": {"zh": "分析", "en": "to analyze"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "analyser", "lemma": "analyser", "ipa": "analize", "translation": {"zh": "分析", "en": "to analyze"}, "emoji": "🔬"}
+    ]
+  },
+  {
+    "text": "en congé",
+    "ipa": "ɑ̃ kɔ̃ʒe",
+    "translation": {"zh": "在休假", "en": "on leave"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "en congé", "lemma": "congé", "ipa": "ɑ̃ kɔ̃ʒe", "translation": {"zh": "在休假", "en": "on leave"}, "emoji": "🏖️"}
+    ]
+  },
+  {
+    "text": "le coût",
+    "ipa": "lə ku",
+    "translation": {"zh": "费用；成本", "en": "the cost"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le coût", "lemma": "coût", "ipa": "lə ku", "translation": {"zh": "费用；成本", "en": "the cost"}, "emoji": "💰"}
+    ]
+  },
+  {
+    "text": "indépendant",
+    "ipa": "ɛ̃depɑ̃dɑ̃",
+    "translation": {"zh": "独立的", "en": "independent"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "indépendant", "lemma": "indépendant", "ipa": "ɛ̃depɑ̃dɑ̃", "translation": {"zh": "独立的", "en": "independent"}, "emoji": "🦅"}
+    ]
+  },
+  {
+    "text": "une phrase",
+    "ipa": "yn fʁaz",
+    "translation": {"zh": "一个句子", "en": "a sentence"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une phrase", "lemma": "phrase", "ipa": "yn fʁaz", "translation": {"zh": "一个句子", "en": "a sentence"}, "emoji": "📝"}
+    ]
+  },
+  {
+    "text": "silencieux",
+    "ipa": "silɑ̃sjø",
+    "translation": {"zh": "安静的；无声的", "en": "silent; quiet"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "silencieux", "lemma": "silencieux", "ipa": "silɑ̃sjø", "translation": {"zh": "安静的", "en": "silent"}, "emoji": "🤫"}
+    ]
+  },
+  {
+    "text": "une plante",
+    "ipa": "yn plɑ̃t",
+    "translation": {"zh": "一株植物", "en": "a plant"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une plante", "lemma": "plante", "ipa": "yn plɑ̃t", "translation": {"zh": "一株植物", "en": "a plant"}, "emoji": "🌱"}
+    ]
+  },
+  {
+    "text": "une capacité",
+    "ipa": "yn kapasite",
+    "translation": {"zh": "一种能力", "en": "a capacity; an ability"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une capacité", "lemma": "capacité", "ipa": "yn kapasite", "translation": {"zh": "一种能力", "en": "an ability"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "impliquer",
+    "ipa": "ɛ̃plike",
+    "translation": {"zh": "涉及；意味着", "en": "to involve; to imply"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "impliquer", "lemma": "impliquer", "ipa": "ɛ̃plike", "translation": {"zh": "涉及；意味着", "en": "to involve"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la terrasse",
+    "ipa": "la teʁas",
+    "translation": {"zh": "露台；露天座位", "en": "the terrace"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la terrasse", "lemma": "terrasse", "ipa": "la teʁas", "translation": {"zh": "露台", "en": "the terrace"}, "emoji": "☀️"}
+    ]
+  },
+  {
+    "text": "une demi-heure",
+    "ipa": "yn dəmi œʁ",
+    "translation": {"zh": "半小时", "en": "half an hour"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une demi-heure", "lemma": "demi-heure", "ipa": "yn dəmi œʁ", "translation": {"zh": "半小时", "en": "half an hour"}, "emoji": "⏰"}
+    ]
+  },
+  {
+    "text": "un atelier",
+    "ipa": "œ̃ n‿ atəlje",
+    "translation": {"zh": "一个工作坊；工作室", "en": "a workshop; studio"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un atelier", "lemma": "atelier", "ipa": "œ̃ n‿ atəlje", "translation": {"zh": "工作坊；工作室", "en": "a workshop"}, "emoji": "🔧"}
+    ]
+  },
+  {
+    "text": "je suis désolé",
+    "ipa": "ʒə sɥi dezɔle",
+    "translation": {"zh": "我很抱歉", "en": "I'm sorry"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je suis désolé", "lemma": "désoler", "ipa": "ʒə sɥi dezɔle", "translation": {"zh": "我很抱歉", "en": "I'm sorry"}, "emoji": "😔"}
+    ]
+  },
+  {
+    "text": "le foyer",
+    "ipa": "lə fwaje",
+    "translation": {"zh": "家；壁炉；大厅", "en": "home; hearth; lobby"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le foyer", "lemma": "foyer", "ipa": "lə fwaje", "translation": {"zh": "家；大厅", "en": "home; lobby"}, "emoji": "🏠"}
+    ]
+  },
+  {
+    "text": "le moindre doute",
+    "ipa": "lə mwɛ̃dʁə dut",
+    "translation": {"zh": "丝毫的疑虑", "en": "the slightest doubt"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le moindre", "lemma": "moindre", "ipa": "lə mwɛ̃dʁə", "translation": {"zh": "最小的", "en": "the slightest"}, "emoji": ""},
+      {"text": "doute", "lemma": "doute", "ipa": "dut", "translation": {"zh": "疑虑", "en": "doubt"}, "emoji": "🤷"}
+    ]
+  },
+  {
+    "text": "multiplier",
+    "ipa": "myltiplije",
+    "translation": {"zh": "乘以；使增多", "en": "to multiply"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "multiplier", "lemma": "multiplier", "ipa": "myltiplije", "translation": {"zh": "乘以；使增多", "en": "to multiply"}, "emoji": "✖️"}
+    ]
+  },
+  {
+    "text": "un code",
+    "ipa": "œ̃ kɔd",
+    "translation": {"zh": "一个密码；代码", "en": "a code"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un code", "lemma": "code", "ipa": "œ̃ kɔd", "translation": {"zh": "密码；代码", "en": "a code"}, "emoji": "🔑"}
+    ]
+  },
+  {
+    "text": "exposer",
+    "ipa": "ɛkspoze",
+    "translation": {"zh": "展示；暴露", "en": "to exhibit; to expose"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "exposer", "lemma": "exposer", "ipa": "ɛkspoze", "translation": {"zh": "展示；暴露", "en": "to exhibit"}, "emoji": "🖼️"}
+    ]
+  },
+  {
+    "text": "associer",
+    "ipa": "asɔsje",
+    "translation": {"zh": "联系；结合", "en": "to associate"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "associer", "lemma": "associer", "ipa": "asɔsje", "translation": {"zh": "联系；结合", "en": "to associate"}, "emoji": "🔗"}
+    ]
+  },
+  {
+    "text": "définir",
+    "ipa": "definiʁ",
+    "translation": {"zh": "定义；界定", "en": "to define"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "définir", "lemma": "définir", "ipa": "definiʁ", "translation": {"zh": "定义；界定", "en": "to define"}, "emoji": "📖"}
+    ]
+  },
+  {
+    "text": "une cigarette",
+    "ipa": "yn siɡaʁɛt",
+    "translation": {"zh": "一支香烟", "en": "a cigarette"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une cigarette", "lemma": "cigarette", "ipa": "yn siɡaʁɛt", "translation": {"zh": "一支香烟", "en": "a cigarette"}, "emoji": "🚬"}
+    ]
+  },
+  {
+    "text": "un concert",
+    "ipa": "œ̃ kɔ̃sɛʁ",
+    "translation": {"zh": "一场音乐会", "en": "a concert"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un concert", "lemma": "concert", "ipa": "œ̃ kɔ̃sɛʁ", "translation": {"zh": "一场音乐会", "en": "a concert"}, "emoji": "🎤"}
+    ]
+  },
+  {
+    "text": "s'exclamer",
+    "ipa": "sɛksklame",
+    "translation": {"zh": "惊呼；感叹", "en": "to exclaim"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "s'exclamer", "lemma": "exclamer", "ipa": "sɛksklame", "translation": {"zh": "惊呼；感叹", "en": "to exclaim"}, "emoji": "😲"}
+    ]
+  }
+]

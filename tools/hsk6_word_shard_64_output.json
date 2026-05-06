@@ -1,0 +1,332 @@
+[
+  {
+    "input_text": "物美价廉",
+    "entries": [
+      {
+        "text": "物美价廉",
+        "pinyin": "wù měi jià lián",
+        "en": "good quality, low price",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "物业",
+    "entries": [
+      {
+        "text": "物业",
+        "pinyin": "wù yè",
+        "en": "property management",
+        "emoji": "🏢"
+      }
+    ]
+  },
+  {
+    "input_text": "物资",
+    "entries": [
+      {
+        "text": "物资",
+        "pinyin": "wù zī",
+        "en": "supplies, materials",
+        "emoji": "📦"
+      }
+    ]
+  },
+  {
+    "input_text": "误差",
+    "entries": [
+      {
+        "text": "误差",
+        "pinyin": "wù chā",
+        "en": "error, deviation",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "误解",
+    "entries": [
+      {
+        "text": "误解",
+        "pinyin": "wù jiě",
+        "en": "misunderstand",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "夕阳",
+    "entries": [
+      {
+        "text": "夕阳",
+        "pinyin": "xī yáng",
+        "en": "setting sun",
+        "emoji": "🌅"
+      }
+    ]
+  },
+  {
+    "input_text": "昔日",
+    "entries": [
+      {
+        "text": "昔日",
+        "pinyin": "xī rì",
+        "en": "former days",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "牺牲",
+    "entries": [
+      {
+        "text": "牺牲",
+        "pinyin": "xī shēng",
+        "en": "sacrifice",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "溪",
+    "entries": [
+      {
+        "text": "溪",
+        "pinyin": "xī",
+        "en": "stream, brook",
+        "emoji": "🌊"
+      }
+    ]
+  },
+  {
+    "input_text": "熄灭",
+    "entries": [
+      {
+        "text": "熄灭",
+        "pinyin": "xī miè",
+        "en": "extinguish, go out",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "膝盖",
+    "entries": [
+      {
+        "text": "膝盖",
+        "pinyin": "xī gài",
+        "en": "knee",
+        "emoji": "🦵"
+      }
+    ]
+  },
+  {
+    "input_text": "习俗",
+    "entries": [
+      {
+        "text": "习俗",
+        "pinyin": "xí sú",
+        "en": "custom, tradition",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "袭击",
+    "entries": [
+      {
+        "text": "袭击",
+        "pinyin": "xí jī",
+        "en": "attack, raid",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "媳妇",
+    "entries": [
+      {
+        "text": "媳妇",
+        "pinyin": "xí fù",
+        "en": "daughter-in-law",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "喜闻乐见",
+    "entries": [
+      {
+        "text": "喜闻乐见",
+        "pinyin": "xǐ wén lè jiàn",
+        "en": "widely enjoyed",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "喜悦",
+    "entries": [
+      {
+        "text": "喜悦",
+        "pinyin": "xǐ yuè",
+        "en": "joy, delight",
+        "emoji": "😊"
+      }
+    ]
+  },
+  {
+    "input_text": "系列",
+    "entries": [
+      {
+        "text": "系列",
+        "pinyin": "xì liè",
+        "en": "series, line",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "细胞",
+    "entries": [
+      {
+        "text": "细胞",
+        "pinyin": "xì bāo",
+        "en": "cell",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "细菌",
+    "entries": [
+      {
+        "text": "细菌",
+        "pinyin": "xì jūn",
+        "en": "bacteria, germ",
+        "emoji": "🦠"
+      }
+    ]
+  },
+  {
+    "input_text": "细致",
+    "entries": [
+      {
+        "text": "细致",
+        "pinyin": "xì zhì",
+        "en": "meticulous, careful",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "峡谷",
+    "entries": [
+      {
+        "text": "峡谷",
+        "pinyin": "xiá gǔ",
+        "en": "canyon, gorge",
+        "emoji": "🏔️"
+      }
+    ]
+  },
+  {
+    "input_text": "狭隘",
+    "entries": [
+      {
+        "text": "狭隘",
+        "pinyin": "xiá ài",
+        "en": "narrow-minded",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "狭窄",
+    "entries": [
+      {
+        "text": "狭窄",
+        "pinyin": "xiá zhǎi",
+        "en": "narrow",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "霞",
+    "entries": [
+      {
+        "text": "霞",
+        "pinyin": "xiá",
+        "en": "rosy clouds, glow",
+        "emoji": "🌄"
+      }
+    ]
+  },
+  {
+    "input_text": "下属",
+    "entries": [
+      {
+        "text": "下属",
+        "pinyin": "xià shǔ",
+        "en": "subordinate",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "先进",
+    "entries": [
+      {
+        "text": "先进",
+        "pinyin": "xiān jìn",
+        "en": "advanced",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "先前",
+    "entries": [
+      {
+        "text": "先前",
+        "pinyin": "xiān qián",
+        "en": "previously, before",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "纤维",
+    "entries": [
+      {
+        "text": "纤维",
+        "pinyin": "xiān wéi",
+        "en": "fiber",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "掀起",
+    "entries": [
+      {
+        "text": "掀起",
+        "pinyin": "xiān qǐ",
+        "en": "stir up, lift",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "鲜明",
+    "entries": [
+      {
+        "text": "鲜明",
+        "pinyin": "xiān míng",
+        "en": "vivid, clear-cut",
+        "emoji": ""
+      }
+    ]
+  }
+]

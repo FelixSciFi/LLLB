@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Comme je descendais des Fleuves impassibles,",
+    "ipa": "kɔm ʒə desɑ̃dɛ de flœv ɛ̃pasibl",
+    "translation": {
+      "zh": "当我顺着无情的河流而下时，",
+      "en": "As I descended impassive Rivers,"
+    },
+    "cefr": "C2",
+    "tokens": [
+      {"text": "Comme", "lemma": "comme", "ipa": "kɔm", "translation": {"zh": "当……时", "en": "as"}, "emoji": ""},
+      {"text": "je descendais", "lemma": "descendre", "ipa": "ʒə desɑ̃dɛ", "translation": {"zh": "我顺流而下", "en": "I was descending"}, "emoji": "🛶"},
+      {"text": "des Fleuves", "lemma": "fleuve", "ipa": "de flœv", "translation": {"zh": "大河", "en": "rivers"}, "emoji": "🌊"},
+      {"text": "impassibles", "lemma": "impassible", "ipa": "ɛ̃pasibl", "translation": {"zh": "无动于衷的", "en": "impassive"}, "emoji": "😐"}
+    ],
+    "tags": [{"name": "Le Bateau ivre", "index": 1}]
+  },
+  {
+    "text": "Je ne me sentis plus guidé par les haleurs :",
+    "ipa": "ʒə nə mə sɑ̃ti ply ɡide paʁ le alœʁ",
+    "translation": {
+      "zh": "我感到不再被纤夫牵引：",
+      "en": "I no longer felt guided by the haulers:"
+    },
+    "cefr": "C2",
+    "tokens": [
+      {"text": "Je ne me sentis plus", "lemma": "se sentir", "ipa": "ʒə nə mə sɑ̃ti ply", "translation": {"zh": "我不再感到", "en": "I no longer felt"}, "emoji": "🙅"},
+      {"text": "guidé", "lemma": "guider", "ipa": "ɡide", "translation": {"zh": "被引导", "en": "guided"}, "emoji": "🧭"},
+      {"text": "par les haleurs", "lemma": "haleur", "ipa": "paʁ le alœʁ", "translation": {"zh": "被纤夫", "en": "by the haulers"}, "emoji": "🪢"}
+    ],
+    "tags": [{"name": "Le Bateau ivre", "index": 2}]
+  },
+  {
+    "text": "Des Peaux-Rouges criards les avaient pris pour cibles,",
+    "ipa": "de po ʁuʒ kʁijaʁ lez‿avɛ pʁi puʁ sibl",
+    "translation": {
+      "zh": "尖叫的红皮人曾把他们当作箭靶，",
+      "en": "Screaming Redskins had taken them as targets,"
+    },
+    "cefr": "C2",
+    "tokens": [
+      {"text": "Des Peaux-Rouges", "lemma": "Peau-Rouge", "ipa": "de po ʁuʒ", "translation": {"zh": "红皮人", "en": "Redskins"}, "emoji": "🪶"},
+      {"text": "criards", "lemma": "criard", "ipa": "kʁijaʁ", "translation": {"zh": "尖叫的", "en": "screaming"}, "emoji": "📣"},
+      {"text": "les avaient pris", "lemma": "prendre", "ipa": "lez‿avɛ pʁi", "translation": {"zh": "曾抓住他们", "en": "had taken them"}, "emoji": "🎯"},
+      {"text": "pour cibles", "lemma": "cible", "ipa": "puʁ sibl", "translation": {"zh": "当作靶子", "en": "as targets"}, "emoji": "🏹"}
+    ],
+    "tags": [{"name": "Le Bateau ivre", "index": 3}]
+  },
+  {
+    "text": "Les ayant cloués nus aux poteaux de couleurs.",
+    "ipa": "lez‿ɛjɑ̃ klue ny o poto də kulœʁ",
+    "translation": {
+      "zh": "把他们赤身钉在彩色的柱子上。",
+      "en": "Having nailed them naked to colored stakes."
+    },
+    "cefr": "C2",
+    "tokens": [
+      {"text": "Les ayant cloués", "lemma": "clouer", "ipa": "lez‿ɛjɑ̃ klue", "translation": {"zh": "把他们钉住", "en": "having nailed them"}, "emoji": "🔨"},
+      {"text": "nus", "lemma": "nu", "ipa": "ny", "translation": {"zh": "赤裸的", "en": "naked"}, "emoji": "👤"},
+      {"text": "aux poteaux", "lemma": "poteau", "ipa": "o poto", "translation": {"zh": "在柱子上", "en": "to stakes"}, "emoji": "🪵"},
+      {"text": "de couleurs", "lemma": "couleur", "ipa": "də kulœʁ", "translation": {"zh": "彩色的", "en": "colored"}, "emoji": "🎨"}
+    ],
+    "tags": [{"name": "Le Bateau ivre", "index": 4}]
+  }
+]

@@ -1,0 +1,279 @@
+[
+  {
+    "text": "altitude",
+    "ipa": "altityd",
+    "translation": {"zh": "海拔", "en": "altitude"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "altitude", "lemma": "altitude", "ipa": "altityd", "translation": {"zh": "海拔", "en": "altitude"}, "emoji": "⛰️"}
+    ]
+  },
+  {
+    "text": "toute la journée",
+    "ipa": "tut la ʒuʁne",
+    "translation": {"zh": "整整一天", "en": "all day long"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "toute la journée", "lemma": "journée", "ipa": "tut la ʒuʁne", "translation": {"zh": "整天", "en": "all day"}, "emoji": "📅"}
+    ]
+  },
+  {
+    "text": "fabricant",
+    "ipa": "fabʁikɑ̃",
+    "translation": {"zh": "制造商", "en": "manufacturer"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "fabricant", "lemma": "fabricant", "ipa": "fabʁikɑ̃", "translation": {"zh": "制造商", "en": "manufacturer"}, "emoji": "🏭"}
+    ]
+  },
+  {
+    "text": "petits-enfants",
+    "ipa": "pəti zɑ̃fɑ̃",
+    "translation": {"zh": "孙子孙女", "en": "grandchildren"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "petits-enfants", "lemma": "petits-enfants", "ipa": "pəti zɑ̃fɑ̃", "translation": {"zh": "孙辈", "en": "grandchildren"}, "emoji": "👶"}
+    ]
+  },
+  {
+    "text": "cohabitation",
+    "ipa": "kɔabitasjɔ̃",
+    "translation": {"zh": "同居共处", "en": "cohabitation"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "cohabitation", "lemma": "cohabitation", "ipa": "kɔabitasjɔ̃", "translation": {"zh": "同居", "en": "cohabitation"}, "emoji": "🏠"}
+    ]
+  },
+  {
+    "text": "exploration",
+    "ipa": "ɛksplɔʁasjɔ̃",
+    "translation": {"zh": "探索", "en": "exploration"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "exploration", "lemma": "exploration", "ipa": "ɛksplɔʁasjɔ̃", "translation": {"zh": "探索", "en": "exploration"}, "emoji": "🔭"}
+    ]
+  },
+  {
+    "text": "évêque",
+    "ipa": "evɛk",
+    "translation": {"zh": "主教", "en": "bishop"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "évêque", "lemma": "évêque", "ipa": "evɛk", "translation": {"zh": "主教", "en": "bishop"}, "emoji": "⛪"}
+    ]
+  },
+  {
+    "text": "une forêt dense",
+    "ipa": "yn fɔʁɛ dɑ̃s",
+    "translation": {"zh": "茂密的森林", "en": "a dense forest"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une forêt dense", "lemma": "forêt", "ipa": "yn fɔʁɛ dɑ̃s", "translation": {"zh": "茂密森林", "en": "dense forest"}, "emoji": "🌲"}
+    ]
+  },
+  {
+    "text": "il est doué pour la musique",
+    "ipa": "il ɛ dwe puʁ la myzik",
+    "translation": {"zh": "他有音乐天赋", "en": "he is gifted at music"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il est doué", "lemma": "douer", "ipa": "il ɛ dwe", "translation": {"zh": "他有天赋", "en": "he is gifted"}, "emoji": "🌟"},
+      {"text": "pour la musique", "lemma": "musique", "ipa": "puʁ la myzik", "translation": {"zh": "在音乐上", "en": "at music"}, "emoji": "🎵"}
+    ]
+  },
+  {
+    "text": "dialoguer",
+    "ipa": "djalɔɡe",
+    "translation": {"zh": "对话交流", "en": "to dialogue"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "dialoguer", "lemma": "dialoguer", "ipa": "djalɔɡe", "translation": {"zh": "对话", "en": "dialogue"}, "emoji": "💬"}
+    ]
+  },
+  {
+    "text": "un bloc de pierre",
+    "ipa": "œ̃ blɔk də pjɛʁ",
+    "translation": {"zh": "一块石头", "en": "a block of stone"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un bloc", "lemma": "bloc", "ipa": "œ̃ blɔk", "translation": {"zh": "一块", "en": "a block"}, "emoji": "🪨"},
+      {"text": "de pierre", "lemma": "pierre", "ipa": "də pjɛʁ", "translation": {"zh": "石头", "en": "of stone"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "se munir d'un parapluie",
+    "ipa": "sə myniʁ dœ̃ paʁaplɥi",
+    "translation": {"zh": "随身带把雨伞", "en": "to bring an umbrella"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "se munir", "lemma": "munir", "ipa": "sə myniʁ", "translation": {"zh": "备好", "en": "to equip oneself"}, "emoji": "🎒"},
+      {"text": "d'un parapluie", "lemma": "parapluie", "ipa": "dœ̃ paʁaplɥi", "translation": {"zh": "雨伞", "en": "umbrella"}, "emoji": "☂️"}
+    ]
+  },
+  {
+    "text": "je bâille",
+    "ipa": "ʒə bɑj",
+    "translation": {"zh": "我在打哈欠", "en": "I am yawning"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "je bâille", "lemma": "bâiller", "ipa": "ʒə bɑj", "translation": {"zh": "我打哈欠", "en": "I yawn"}, "emoji": "🥱"}
+    ]
+  },
+  {
+    "text": "top",
+    "ipa": "tɔp",
+    "translation": {"zh": "顶尖的", "en": "top"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "top", "lemma": "top", "ipa": "tɔp", "translation": {"zh": "顶尖", "en": "top"}, "emoji": "🏆"}
+    ]
+  },
+  {
+    "text": "mobilité",
+    "ipa": "mɔbilite",
+    "translation": {"zh": "流动性", "en": "mobility"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "mobilité", "lemma": "mobilité", "ipa": "mɔbilite", "translation": {"zh": "流动性", "en": "mobility"}, "emoji": "🚀"}
+    ]
+  },
+  {
+    "text": "inconvénient",
+    "ipa": "ɛ̃kɔ̃venjɑ̃",
+    "translation": {"zh": "缺点", "en": "disadvantage"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "inconvénient", "lemma": "inconvénient", "ipa": "ɛ̃kɔ̃venjɑ̃", "translation": {"zh": "缺点", "en": "disadvantage"}, "emoji": "⚠️"}
+    ]
+  },
+  {
+    "text": "boire avec une paille",
+    "ipa": "bwaʁ avɛk yn pɑj",
+    "translation": {"zh": "用吸管喝", "en": "to drink with a straw"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "boire avec une paille", "lemma": "paille", "ipa": "bwaʁ avɛk yn pɑj", "translation": {"zh": "用吸管喝", "en": "drink with straw"}, "emoji": "🧋"}
+    ]
+  },
+  {
+    "text": "libéral",
+    "ipa": "libeʁal",
+    "translation": {"zh": "自由主义的", "en": "liberal"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "libéral", "lemma": "libéral", "ipa": "libeʁal", "translation": {"zh": "自由主义", "en": "liberal"}, "emoji": "🗽"}
+    ]
+  },
+  {
+    "text": "élection présidentielle",
+    "ipa": "elɛksjɔ̃ pʁezidɑ̃sjɛl",
+    "translation": {"zh": "总统选举", "en": "presidential election"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "élection présidentielle", "lemma": "présidentiel", "ipa": "elɛksjɔ̃ pʁezidɑ̃sjɛl", "translation": {"zh": "总统选举", "en": "presidential election"}, "emoji": "🗳️"}
+    ]
+  },
+  {
+    "text": "clore le débat",
+    "ipa": "klɔʁ lə deba",
+    "translation": {"zh": "结束辩论", "en": "to close the debate"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "clore", "lemma": "clore", "ipa": "klɔʁ", "translation": {"zh": "结束", "en": "close"}, "emoji": "🔚"},
+      {"text": "le débat", "lemma": "débat", "ipa": "lə deba", "translation": {"zh": "辩论", "en": "debate"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "inventeur",
+    "ipa": "ɛ̃vɑ̃tœʁ",
+    "translation": {"zh": "发明家", "en": "inventor"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "inventeur", "lemma": "inventeur", "ipa": "ɛ̃vɑ̃tœʁ", "translation": {"zh": "发明家", "en": "inventor"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "du pain grillé",
+    "ipa": "dy pɛ̃ ɡʁije",
+    "translation": {"zh": "烤面包片", "en": "toasted bread"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "du pain grillé", "lemma": "grillé", "ipa": "dy pɛ̃ ɡʁije", "translation": {"zh": "烤面包", "en": "toasted bread"}, "emoji": "🍞"}
+    ]
+  },
+  {
+    "text": "ne dis pas d'idioties",
+    "ipa": "nə di pɑ didjɔsi",
+    "translation": {"zh": "别说傻话", "en": "don't talk nonsense"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ne dis pas d'idioties", "lemma": "idiot", "ipa": "nə di pɑ didjɔsi", "translation": {"zh": "别说傻话", "en": "don't be silly"}, "emoji": "🤦"}
+    ]
+  },
+  {
+    "text": "anticiper les problèmes",
+    "ipa": "ɑ̃tisiipe le pʁɔblɛm",
+    "translation": {"zh": "预见问题", "en": "to anticipate problems"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "anticiper", "lemma": "anticiper", "ipa": "ɑ̃tisiipe", "translation": {"zh": "预见", "en": "anticipate"}, "emoji": "🔮"},
+      {"text": "les problèmes", "lemma": "problème", "ipa": "le pʁɔblɛm", "translation": {"zh": "问题", "en": "problems"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "trafic",
+    "ipa": "tʁafik",
+    "translation": {"zh": "交通", "en": "traffic"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "trafic", "lemma": "trafic", "ipa": "tʁafik", "translation": {"zh": "交通", "en": "traffic"}, "emoji": "🚗"}
+    ]
+  },
+  {
+    "text": "allocation chômage",
+    "ipa": "alɔkasjɔ̃ ʃomaʒ",
+    "translation": {"zh": "失业救济金", "en": "unemployment benefit"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "allocation chômage", "lemma": "allocation", "ipa": "alɔkasjɔ̃ ʃomaʒ", "translation": {"zh": "失业救济金", "en": "unemployment benefit"}, "emoji": "💸"}
+    ]
+  },
+  {
+    "text": "défavoriser les pauvres",
+    "ipa": "defavɔʁize le povʁ",
+    "translation": {"zh": "让穷人处于不利地位", "en": "to disadvantage the poor"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "défavoriser", "lemma": "défavoriser", "ipa": "defavɔʁize", "translation": {"zh": "使不利", "en": "disadvantage"}, "emoji": "⚖️"},
+      {"text": "les pauvres", "lemma": "pauvre", "ipa": "le povʁ", "translation": {"zh": "穷人", "en": "the poor"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "oxygène",
+    "ipa": "ɔksiʒɛn",
+    "translation": {"zh": "氧气", "en": "oxygen"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "oxygène", "lemma": "oxygène", "ipa": "ɔksiʒɛn", "translation": {"zh": "氧气", "en": "oxygen"}, "emoji": "💨"}
+    ]
+  },
+  {
+    "text": "tracer une ligne",
+    "ipa": "tʁase yn liɲ",
+    "translation": {"zh": "画一条线", "en": "to draw a line"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "tracer", "lemma": "tracer", "ipa": "tʁase", "translation": {"zh": "画线", "en": "draw"}, "emoji": "✏️"},
+      {"text": "une ligne", "lemma": "ligne", "ipa": "yn liɲ", "translation": {"zh": "一条线", "en": "a line"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un vent glacial",
+    "ipa": "œ̃ vɑ̃ ɡlasjal",
+    "translation": {"zh": "刺骨的寒风", "en": "an icy wind"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un vent glacial", "lemma": "glacial", "ipa": "œ̃ vɑ̃ ɡlasjal", "translation": {"zh": "刺骨寒风", "en": "icy wind"}, "emoji": "🥶"}
+    ]
+  }
+]

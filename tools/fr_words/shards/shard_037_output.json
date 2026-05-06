@@ -1,0 +1,272 @@
+[
+  {
+    "text": "le palais",
+    "ipa": "lə palɛ",
+    "translation": {"zh": "宫殿", "en": "the palace"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le palais", "lemma": "palais", "ipa": "lə palɛ", "translation": {"zh": "宫殿", "en": "palace"}, "emoji": "🏰"}
+    ]
+  },
+  {
+    "text": "consulter un médecin",
+    "ipa": "kɔ̃sylte œ̃ medsɛ̃",
+    "translation": {"zh": "看医生", "en": "see a doctor"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "consulter un médecin", "lemma": "consulter", "ipa": "kɔ̃sylte œ̃ medsɛ̃", "translation": {"zh": "看医生", "en": "see a doctor"}, "emoji": "🩺"}
+    ]
+  },
+  {
+    "text": "à votre disposition",
+    "ipa": "a vɔtʁə dispozisjɔ̃",
+    "translation": {"zh": "供您使用", "en": "at your disposal"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "à votre disposition", "lemma": "disposition", "ipa": "a vɔtʁə dispozisjɔ̃", "translation": {"zh": "供您使用", "en": "at your disposal"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une chute",
+    "ipa": "yn ʃyt",
+    "translation": {"zh": "跌落", "en": "a fall"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une chute", "lemma": "chute", "ipa": "yn ʃyt", "translation": {"zh": "跌落", "en": "fall"}, "emoji": "⬇️"}
+    ]
+  },
+  {
+    "text": "la diversité",
+    "ipa": "la divɛʁsite",
+    "translation": {"zh": "多样性", "en": "diversity"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "la diversité", "lemma": "diversité", "ipa": "la divɛʁsite", "translation": {"zh": "多样性", "en": "diversity"}, "emoji": "🌍"}
+    ]
+  },
+  {
+    "text": "ça me gêne",
+    "ipa": "sa mə ʒɛn",
+    "translation": {"zh": "这让我不舒服", "en": "it bothers me"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ça me gêne", "lemma": "gêner", "ipa": "sa mə ʒɛn", "translation": {"zh": "令我不适", "en": "bothers me"}, "emoji": "😣"}
+    ]
+  },
+  {
+    "text": "le menu",
+    "ipa": "lə məny",
+    "translation": {"zh": "菜单", "en": "the menu"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le menu", "lemma": "menu", "ipa": "lə məny", "translation": {"zh": "菜单", "en": "menu"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "une baisse des prix",
+    "ipa": "yn bɛs de pʁi",
+    "translation": {"zh": "价格下降", "en": "a drop in prices"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une baisse des prix", "lemma": "baisse", "ipa": "yn bɛs de pʁi", "translation": {"zh": "价格降低", "en": "drop in prices"}, "emoji": "📉"}
+    ]
+  },
+  {
+    "text": "équiper la cuisine",
+    "ipa": "ekipe la kɥizin",
+    "translation": {"zh": "配置厨房设备", "en": "equip the kitchen"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "équiper la cuisine", "lemma": "équiper", "ipa": "ekipe la kɥizin", "translation": {"zh": "配备厨房", "en": "equip kitchen"}, "emoji": "🍳"}
+    ]
+  },
+  {
+    "text": "un infirmier",
+    "ipa": "œ̃ ɛ̃fiʁmje",
+    "translation": {"zh": "男护士", "en": "a nurse"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un infirmier", "lemma": "infirmier", "ipa": "œ̃ ɛ̃fiʁmje", "translation": {"zh": "男护士", "en": "nurse"}, "emoji": "👨‍⚕️"}
+    ]
+  },
+  {
+    "text": "la présentation",
+    "ipa": "la pʁezɑ̃tasjɔ̃",
+    "translation": {"zh": "介绍；演示", "en": "the presentation"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la présentation", "lemma": "présentation", "ipa": "la pʁezɑ̃tasjɔ̃", "translation": {"zh": "演示介绍", "en": "presentation"}, "emoji": "📊"}
+    ]
+  },
+  {
+    "text": "la philosophie",
+    "ipa": "la filɔzɔfi",
+    "translation": {"zh": "哲学", "en": "philosophy"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la philosophie", "lemma": "philosophie", "ipa": "la filɔzɔfi", "translation": {"zh": "哲学", "en": "philosophy"}, "emoji": "🧠"}
+    ]
+  },
+  {
+    "text": "la commune",
+    "ipa": "la kɔmyn",
+    "translation": {"zh": "市镇", "en": "the municipality"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la commune", "lemma": "commune", "ipa": "la kɔmyn", "translation": {"zh": "市镇", "en": "municipality"}, "emoji": "🏘️"}
+    ]
+  },
+  {
+    "text": "il est modeste",
+    "ipa": "il ɛ mɔdɛst",
+    "translation": {"zh": "他很谦逊", "en": "he is modest"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il est modeste", "lemma": "être", "ipa": "il ɛ mɔdɛst", "translation": {"zh": "他很谦逊", "en": "he is modest"}, "emoji": "😊"}
+    ]
+  },
+  {
+    "text": "avoir l'intention",
+    "ipa": "avwaʁ lɛ̃tɑ̃sjɔ̃",
+    "translation": {"zh": "有意图", "en": "to intend"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "avoir l'intention", "lemma": "intention", "ipa": "avwaʁ lɛ̃tɑ̃sjɔ̃", "translation": {"zh": "有意图", "en": "intend to"}, "emoji": "🎯"}
+    ]
+  },
+  {
+    "text": "un résultat positif",
+    "ipa": "œ̃ ʁezylta pozitif",
+    "translation": {"zh": "积极的结果", "en": "a positive result"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un résultat positif", "lemma": "positif", "ipa": "œ̃ ʁezylta pozitif", "translation": {"zh": "积极结果", "en": "positive result"}, "emoji": "✅"}
+    ]
+  },
+  {
+    "text": "un producteur de vin",
+    "ipa": "œ̃ pʁɔdyktœʁ də vɛ̃",
+    "translation": {"zh": "葡萄酒生产商", "en": "a wine producer"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un producteur de vin", "lemma": "producteur", "ipa": "œ̃ pʁɔdyktœʁ də vɛ̃", "translation": {"zh": "葡萄酒生产商", "en": "wine producer"}, "emoji": "🍷"}
+    ]
+  },
+  {
+    "text": "un géant",
+    "ipa": "œ̃ ʒeɑ̃",
+    "translation": {"zh": "巨人", "en": "a giant"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un géant", "lemma": "géant", "ipa": "œ̃ ʒeɑ̃", "translation": {"zh": "巨人", "en": "giant"}, "emoji": "🦣"}
+    ]
+  },
+  {
+    "text": "la matière grasse",
+    "ipa": "la matjɛʁ ɡʁas",
+    "translation": {"zh": "脂肪", "en": "fat"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la matière grasse", "lemma": "gras", "ipa": "la matjɛʁ ɡʁas", "translation": {"zh": "脂肪", "en": "fat"}, "emoji": "🧈"}
+    ]
+  },
+  {
+    "text": "s'allonger sur le canapé",
+    "ipa": "salɔ̃ʒe syʁ lə kanape",
+    "translation": {"zh": "躺在沙发上", "en": "lie down on the sofa"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "s'allonger sur le canapé", "lemma": "allonger", "ipa": "salɔ̃ʒe syʁ lə kanape", "translation": {"zh": "躺在沙发上", "en": "lie on sofa"}, "emoji": "🛋️"}
+    ]
+  },
+  {
+    "text": "maintenir l'équilibre",
+    "ipa": "mɛ̃tniʁ lekilibʁ",
+    "translation": {"zh": "保持平衡", "en": "maintain balance"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "maintenir l'équilibre", "lemma": "maintenir", "ipa": "mɛ̃tniʁ lekilibʁ", "translation": {"zh": "保持平衡", "en": "maintain balance"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "illustrer un exemple",
+    "ipa": "ilystʁe œ̃ɛɡzɑ̃pl",
+    "translation": {"zh": "举例说明", "en": "illustrate an example"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "illustrer un exemple", "lemma": "illustrer", "ipa": "ilystʁe œ̃ ɛɡzɑ̃pl", "translation": {"zh": "举例说明", "en": "illustrate example"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "un établissement scolaire",
+    "ipa": "œ̃ etablismɑ̃ skɔlɛʁ",
+    "translation": {"zh": "学校", "en": "a school"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un établissement scolaire", "lemma": "établissement", "ipa": "œ̃ etablismɑ̃ skɔlɛʁ", "translation": {"zh": "学校机构", "en": "school"}, "emoji": "🏫"}
+    ]
+  },
+  {
+    "text": "prendre ses responsabilités",
+    "ipa": "pʁɑ̃dʁ se ʁɛspɔ̃sabilite",
+    "translation": {"zh": "承担责任", "en": "take one's responsibilities"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "prendre ses responsabilités", "lemma": "responsabilité", "ipa": "pʁɑ̃dʁ se ʁɛspɔ̃sabilite", "translation": {"zh": "承担责任", "en": "take responsibilities"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "le tribunal",
+    "ipa": "lə tʁibynal",
+    "translation": {"zh": "法庭", "en": "the court"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le tribunal", "lemma": "tribunal", "ipa": "lə tʁibynal", "translation": {"zh": "法庭", "en": "court"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "refaire le chemin",
+    "ipa": "ʁəfɛʁ lə ʃmɛ̃",
+    "translation": {"zh": "重走这条路", "en": "redo the path"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "refaire le chemin", "lemma": "refaire", "ipa": "ʁəfɛʁ lə ʃmɛ̃", "translation": {"zh": "重走路程", "en": "redo path"}, "emoji": "🔄"}
+    ]
+  },
+  {
+    "text": "le cabinet médical",
+    "ipa": "lə kabinɛ medikal",
+    "translation": {"zh": "诊所", "en": "the medical practice"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le cabinet médical", "lemma": "cabinet", "ipa": "lə kabinɛ medikal", "translation": {"zh": "诊所", "en": "medical practice"}, "emoji": "🏥"}
+    ]
+  },
+  {
+    "text": "briser le silence",
+    "ipa": "bʁize lə silɑ̃s",
+    "translation": {"zh": "打破沉默", "en": "break the silence"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "briser le silence", "lemma": "briser", "ipa": "bʁize lə silɑ̃s", "translation": {"zh": "打破沉默", "en": "break silence"}, "emoji": "🔇"}
+    ]
+  },
+  {
+    "text": "applaudir",
+    "ipa": "aplodiʁ",
+    "translation": {"zh": "鼓掌", "en": "to applaud"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "applaudir", "lemma": "applaudir", "ipa": "aplodiʁ", "translation": {"zh": "鼓掌", "en": "applaud"}, "emoji": "👏"}
+    ]
+  },
+  {
+    "text": "une catégorie",
+    "ipa": "yn kateɡɔʁi",
+    "translation": {"zh": "类别", "en": "a category"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une catégorie", "lemma": "catégorie", "ipa": "yn kateɡɔʁi", "translation": {"zh": "类别", "en": "category"}, "emoji": "🗂️"}
+    ]
+  }
+]

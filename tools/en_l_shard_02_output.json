@@ -1,0 +1,190 @@
+[
+  {
+    "input_word": "limit",
+    "entries": [
+      {"text": "limit", "ipa": "/ˈlɪmɪt/", "cefr": "B1", "zh": "限制", "emoji": "🚧"}
+    ]
+  },
+  {
+    "input_word": "limited",
+    "entries": [
+      {"text": "limited", "ipa": "/ˈlɪmɪtɪd/", "cefr": "B2", "zh": "有限的", "emoji": "⚠️"}
+    ]
+  },
+  {
+    "input_word": "line",
+    "entries": [
+      {"text": "line", "ipa": "/laɪn/", "cefr": "A1", "zh": "线条", "emoji": "📏"},
+      {"text": "line", "ipa": "/laɪn/", "cefr": "A1", "zh": "队列", "emoji": "🚶"}
+    ]
+  },
+  {
+    "input_word": "link",
+    "entries": [
+      {"text": "link", "ipa": "/lɪŋk/", "cefr": "A2", "zh": "链接", "emoji": "🔗"},
+      {"text": "link", "ipa": "/lɪŋk/", "cefr": "A2", "zh": "连接", "emoji": "🔗"}
+    ]
+  },
+  {
+    "input_word": "lion",
+    "entries": [
+      {"text": "lion", "ipa": "/ˈlaɪən/", "cefr": "A1", "zh": "狮子", "emoji": "🦁"}
+    ]
+  },
+  {
+    "input_word": "lip",
+    "entries": [
+      {"text": "lip", "ipa": "/lɪp/", "cefr": "B1", "zh": "嘴唇", "emoji": "👄"}
+    ]
+  },
+  {
+    "input_word": "liquid",
+    "entries": [
+      {"text": "liquid", "ipa": "/ˈlɪkwɪd/", "cefr": "B1", "zh": "液体", "emoji": "💧"}
+    ]
+  },
+  {
+    "input_word": "list",
+    "entries": [
+      {"text": "list", "ipa": "/lɪst/", "cefr": "A1", "zh": "清单", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_word": "listen",
+    "entries": [
+      {"text": "listen", "ipa": "/ˈlɪsən/", "cefr": "A1", "zh": "听", "emoji": "👂"}
+    ]
+  },
+  {
+    "input_word": "listener",
+    "entries": [
+      {"text": "listener", "ipa": "/ˈlɪsənər/", "cefr": "A2", "zh": "听众", "emoji": "👂"}
+    ]
+  },
+  {
+    "input_word": "literature",
+    "entries": [
+      {"text": "literature", "ipa": "/ˈlɪtərətʃər/", "cefr": "B1", "zh": "文学", "emoji": "📚"}
+    ]
+  },
+  {
+    "input_word": "little",
+    "entries": [
+      {"text": "little", "ipa": "/ˈlɪtəl/", "cefr": "A1", "zh": "小的", "emoji": "🔹"}
+    ]
+  },
+  {
+    "input_word": "live",
+    "entries": [
+      {"text": "live", "ipa": "/lɪv/", "cefr": "A1", "zh": "居住", "emoji": "🏠"},
+      {"text": "live", "ipa": "/laɪv/", "cefr": "A1", "zh": "现场的", "emoji": "🎤"}
+    ]
+  },
+  {
+    "input_word": "lively",
+    "entries": [
+      {"text": "lively", "ipa": "/ˈlaɪvli/", "cefr": "B2", "zh": "活跃的", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_word": "living",
+    "entries": [
+      {"text": "living", "ipa": "/ˈlɪvɪŋ/", "cefr": "B1", "zh": "生计", "emoji": "💼"},
+      {"text": "living", "ipa": "/ˈlɪvɪŋ/", "cefr": "B1", "zh": "活着的", "emoji": "🌱"}
+    ]
+  },
+  {
+    "input_word": "load",
+    "entries": [
+      {"text": "load", "ipa": "/loʊd/", "cefr": "B2", "zh": "负荷", "emoji": "📦"},
+      {"text": "load", "ipa": "/loʊd/", "cefr": "B2", "zh": "装载", "emoji": "🚛"}
+    ]
+  },
+  {
+    "input_word": "loan",
+    "entries": [
+      {"text": "loan", "ipa": "/loʊn/", "cefr": "B2", "zh": "贷款", "emoji": "🏦"}
+    ]
+  },
+  {
+    "input_word": "local",
+    "entries": [
+      {"text": "local", "ipa": "/ˈloʊkəl/", "cefr": "A1", "zh": "当地的", "emoji": "📍"}
+    ]
+  },
+  {
+    "input_word": "locate",
+    "entries": [
+      {"text": "locate", "ipa": "/ˈloʊkeɪt/", "cefr": "B1", "zh": "定位", "emoji": "🗺️"}
+    ]
+  },
+  {
+    "input_word": "located",
+    "entries": [
+      {"text": "located", "ipa": "/ˈloʊkeɪtɪd/", "cefr": "B1", "zh": "位于", "emoji": "📍"}
+    ]
+  },
+  {
+    "input_word": "location",
+    "entries": [
+      {"text": "location", "ipa": "/loʊˈkeɪʃən/", "cefr": "B1", "zh": "位置", "emoji": "📍"}
+    ]
+  },
+  {
+    "input_word": "lock",
+    "entries": [
+      {"text": "lock", "ipa": "/lɑk/", "cefr": "A2", "zh": "锁", "emoji": "🔒"},
+      {"text": "lock", "ipa": "/lɑk/", "cefr": "A2", "zh": "上锁", "emoji": "🔐"}
+    ]
+  },
+  {
+    "input_word": "logical",
+    "entries": [
+      {"text": "logical", "ipa": "/ˈlɑdʒɪkəl/", "cefr": "B2", "zh": "合逻辑的", "emoji": "🧠"}
+    ]
+  },
+  {
+    "input_word": "lonely",
+    "entries": [
+      {"text": "lonely", "ipa": "/ˈloʊnli/", "cefr": "B1", "zh": "孤独的", "emoji": "😔"}
+    ]
+  },
+  {
+    "input_word": "long",
+    "entries": [
+      {"text": "long", "ipa": "/lɔŋ/", "cefr": "A1", "zh": "长的", "emoji": "📏"},
+      {"text": "long", "ipa": "/lɔŋ/", "cefr": "A1", "zh": "渴望", "emoji": "💭"}
+    ]
+  },
+  {
+    "input_word": "long-term",
+    "entries": [
+      {"text": "long-term", "ipa": "/ˈlɔŋtɜrm/", "cefr": "B2", "zh": "长期的", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_word": "look",
+    "entries": [
+      {"text": "look", "ipa": "/lʊk/", "cefr": "A1", "zh": "看", "emoji": "👀"},
+      {"text": "look", "ipa": "/lʊk/", "cefr": "A1", "zh": "外观", "emoji": "🪞"}
+    ]
+  },
+  {
+    "input_word": "loose",
+    "entries": [
+      {"text": "loose", "ipa": "/luːs/", "cefr": "B2", "zh": "松散的", "emoji": "🪢"}
+    ]
+  },
+  {
+    "input_word": "lord",
+    "entries": [
+      {"text": "lord", "ipa": "/lɔrd/", "cefr": "B2", "zh": "勋爵", "emoji": "👑"}
+    ]
+  },
+  {
+    "input_word": "lorry",
+    "entries": [
+      {"text": "lorry", "ipa": "/ˈlɔri/", "cefr": "A2", "zh": "卡车", "emoji": "🚛"}
+    ]
+  }
+]

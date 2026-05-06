@@ -1,0 +1,276 @@
+[
+  {
+    "text": "de cette manière",
+    "ipa": "də sɛt manjɛʁ",
+    "translation": {"zh": "用这种方式", "en": "in this way"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "de cette manière", "lemma": "manière", "ipa": "də sɛt manjɛʁ", "translation": {"zh": "用这种方式", "en": "in this way"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "je t'accompagne",
+    "ipa": "ʒə takɔ̃paɲ",
+    "translation": {"zh": "我陪你去", "en": "I'll go with you"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je t'accompagne", "lemma": "accompagner", "ipa": "ʒə takɔ̃paɲ", "translation": {"zh": "我陪你去", "en": "I'll go with you"}, "emoji": "🚶"}
+    ]
+  },
+  {
+    "text": "l'auteur",
+    "ipa": "lotœʁ",
+    "translation": {"zh": "作者", "en": "the author"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "l'auteur", "lemma": "auteur", "ipa": "lotœʁ", "translation": {"zh": "作者", "en": "the author"}, "emoji": "✍️"}
+    ]
+  },
+  {
+    "text": "tu me manques",
+    "ipa": "ty mə mɑ̃k",
+    "translation": {"zh": "我想念你", "en": "I miss you"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "tu me manques", "lemma": "manquer", "ipa": "ty mə mɑ̃k", "translation": {"zh": "我想念你", "en": "I miss you"}, "emoji": "🥺"}
+    ]
+  },
+  {
+    "text": "il faut sauver les données",
+    "ipa": "il fo sovɛ le dɔne",
+    "translation": {"zh": "必须保存数据", "en": "you have to save the data"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "il faut sauver", "lemma": "sauver", "ipa": "il fo sovɛ", "translation": {"zh": "必须保存", "en": "have to save"}, "emoji": "💾"},
+      {"text": "les données", "lemma": "donnée", "ipa": "le dɔne", "translation": {"zh": "数据", "en": "the data"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le mur",
+    "ipa": "lə myʁ",
+    "translation": {"zh": "墙", "en": "the wall"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le mur", "lemma": "mur", "ipa": "lə myʁ", "translation": {"zh": "墙", "en": "the wall"}, "emoji": "🧱"}
+    ]
+  },
+  {
+    "text": "une œuvre d'art",
+    "ipa": "yn œvʁ daʁ",
+    "translation": {"zh": "一件艺术品", "en": "a work of art"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une œuvre d'art", "lemma": "oeuvre", "ipa": "yn œvʁ daʁ", "translation": {"zh": "艺术作品", "en": "a work of art"}, "emoji": "🎨"}
+    ]
+  },
+  {
+    "text": "on avance",
+    "ipa": "ɔ̃ navɑ̃s",
+    "translation": {"zh": "我们前进", "en": "we move forward"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "on avance", "lemma": "avancer", "ipa": "ɔ̃ navɑ̃s", "translation": {"zh": "我们前进", "en": "we move forward"}, "emoji": "⏩"}
+    ]
+  },
+  {
+    "text": "mon dieu",
+    "ipa": "mɔ̃ djø",
+    "translation": {"zh": "我的天啊", "en": "my god"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "mon dieu", "lemma": "dieu", "ipa": "mɔ̃ djø", "translation": {"zh": "天啊", "en": "my god"}, "emoji": "😲"}
+    ]
+  },
+  {
+    "text": "le chef de cuisine",
+    "ipa": "lə ʃɛf də kɥizin",
+    "translation": {"zh": "主厨", "en": "the head chef"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le chef de cuisine", "lemma": "chef", "ipa": "lə ʃɛf də kɥizin", "translation": {"zh": "主厨", "en": "the head chef"}, "emoji": "👨‍🍳"}
+    ]
+  },
+  {
+    "text": "au bord de la mer",
+    "ipa": "o bɔʁ də la mɛʁ",
+    "translation": {"zh": "在海边", "en": "at the seaside"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "au bord de la mer", "lemma": "bord", "ipa": "o bɔʁ də la mɛʁ", "translation": {"zh": "在海边", "en": "at the seaside"}, "emoji": "🌊"}
+    ]
+  },
+  {
+    "text": "la guerre",
+    "ipa": "la ɡɛʁ",
+    "translation": {"zh": "战争", "en": "the war"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la guerre", "lemma": "guerre", "ipa": "la ɡɛʁ", "translation": {"zh": "战争", "en": "the war"}, "emoji": "⚔️"}
+    ]
+  },
+  {
+    "text": "à travers la forêt",
+    "ipa": "a tʁavɛʁ la fɔʁɛ",
+    "translation": {"zh": "穿过森林", "en": "through the forest"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "à travers la forêt", "lemma": "travers", "ipa": "a tʁavɛʁ la fɔʁɛ", "translation": {"zh": "穿过森林", "en": "through the forest"}, "emoji": "🌲"}
+    ]
+  },
+  {
+    "text": "je me réveille",
+    "ipa": "ʒə mə ʁevɛj",
+    "translation": {"zh": "我醒来", "en": "I wake up"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je me réveille", "lemma": "réveiller", "ipa": "ʒə mə ʁevɛj", "translation": {"zh": "我醒来", "en": "I wake up"}, "emoji": "⏰"}
+    ]
+  },
+  {
+    "text": "une sorte de magie",
+    "ipa": "yn sɔʁt də maʒi",
+    "translation": {"zh": "一种魔法", "en": "a kind of magic"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une sorte de magie", "lemma": "sorte", "ipa": "yn sɔʁt də maʒi", "translation": {"zh": "一种魔法", "en": "a kind of magic"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "l'écrivain",
+    "ipa": "lekʁivɛ̃",
+    "translation": {"zh": "作家", "en": "the writer"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "l'écrivain", "lemma": "écrivain", "ipa": "lekʁivɛ̃", "translation": {"zh": "作家", "en": "the writer"}, "emoji": "✍️"}
+    ]
+  },
+  {
+    "text": "ils construisent une maison",
+    "ipa": "il kɔ̃stʁɥiz yn mɛzɔ̃",
+    "translation": {"zh": "他们在建房子", "en": "they are building a house"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "ils construisent", "lemma": "construire", "ipa": "il kɔ̃stʁɥiz", "translation": {"zh": "他们建造", "en": "they build"}, "emoji": "🏗️"},
+      {"text": "une maison", "lemma": "maison", "ipa": "yn mɛzɔ̃", "translation": {"zh": "一栋房子", "en": "a house"}, "emoji": "🏠"}
+    ]
+  },
+  {
+    "text": "je considère ça normal",
+    "ipa": "ʒə kɔ̃sidɛʁ sa nɔʁmal",
+    "translation": {"zh": "我认为这很正常", "en": "I consider that normal"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je considère", "lemma": "considérer", "ipa": "ʒə kɔ̃sidɛʁ", "translation": {"zh": "我认为", "en": "I consider"}, "emoji": "🤔"},
+      {"text": "ça normal", "lemma": "normal", "ipa": "sa nɔʁmal", "translation": {"zh": "这很正常", "en": "that normal"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "elle s'habille",
+    "ipa": "ɛl sabij",
+    "translation": {"zh": "她在穿衣服", "en": "she gets dressed"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "elle s'habille", "lemma": "habiller", "ipa": "ɛl sabij", "translation": {"zh": "她穿衣服", "en": "she gets dressed"}, "emoji": "👗"}
+    ]
+  },
+  {
+    "text": "le théâtre",
+    "ipa": "lə teatʁ",
+    "translation": {"zh": "剧院", "en": "the theatre"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le théâtre", "lemma": "théâtre", "ipa": "lə teatʁ", "translation": {"zh": "剧院", "en": "the theatre"}, "emoji": "🎭"}
+    ]
+  },
+  {
+    "text": "un personnage principal",
+    "ipa": "œ̃ pɛʁsɔnaʒ pʁɛ̃sipal",
+    "translation": {"zh": "主要角色", "en": "a main character"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un personnage principal", "lemma": "personnage", "ipa": "œ̃ pɛʁsɔnaʒ pʁɛ̃sipal", "translation": {"zh": "主要角色", "en": "a main character"}, "emoji": "🎭"}
+    ]
+  },
+  {
+    "text": "la qualité",
+    "ipa": "la kalite",
+    "translation": {"zh": "质量", "en": "the quality"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la qualité", "lemma": "qualité", "ipa": "la kalite", "translation": {"zh": "质量", "en": "the quality"}, "emoji": "⭐"}
+    ]
+  },
+  {
+    "text": "lors de la réunion",
+    "ipa": "lɔʁ də la ʁeynjɔ̃",
+    "translation": {"zh": "在会议期间", "en": "during the meeting"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "lors de la réunion", "lemma": "lors", "ipa": "lɔʁ də la ʁeynjɔ̃", "translation": {"zh": "会议期间", "en": "during the meeting"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "c'est terrible",
+    "ipa": "sɛ tɛʁibl",
+    "translation": {"zh": "太糟糕了", "en": "it's terrible"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "c'est terrible", "lemma": "terrible", "ipa": "sɛ tɛʁibl", "translation": {"zh": "太糟糕了", "en": "it's terrible"}, "emoji": "😱"}
+    ]
+  },
+  {
+    "text": "la première guerre mondiale",
+    "ipa": "la pʁəmjɛʁ ɡɛʁ mɔ̃djal",
+    "translation": {"zh": "第一次世界大战", "en": "the First World War"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la première guerre mondiale", "lemma": "mondial", "ipa": "la pʁəmjɛʁ ɡɛʁ mɔ̃djal", "translation": {"zh": "第一次世界大战", "en": "the First World War"}, "emoji": "🌍"}
+    ]
+  },
+  {
+    "text": "le programme",
+    "ipa": "lə pʁɔɡʁam",
+    "translation": {"zh": "节目单；程序", "en": "the programme"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le programme", "lemma": "programme", "ipa": "lə pʁɔɡʁam", "translation": {"zh": "节目；程序", "en": "the programme"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "un événement culturel",
+    "ipa": "œ̃ nevənmɑ̃ kyltɥʁɛl",
+    "translation": {"zh": "一场文化活动", "en": "a cultural event"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un événement culturel", "lemma": "culturel", "ipa": "œ̃ nevənmɑ̃ kyltɥʁɛl", "translation": {"zh": "文化活动", "en": "a cultural event"}, "emoji": "🎪"}
+    ]
+  },
+  {
+    "text": "un cri",
+    "ipa": "œ̃ kʁi",
+    "translation": {"zh": "一声叫喊", "en": "a cry"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un cri", "lemma": "cri", "ipa": "œ̃ kʁi", "translation": {"zh": "叫喊声", "en": "a cry"}, "emoji": "😱"}
+    ]
+  },
+  {
+    "text": "je rêve de voyager",
+    "ipa": "ʒə ʁɛv də vwajaʒe",
+    "translation": {"zh": "我梦想旅行", "en": "I dream of travelling"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je rêve", "lemma": "rêver", "ipa": "ʒə ʁɛv", "translation": {"zh": "我梦想", "en": "I dream"}, "emoji": "💭"},
+      {"text": "de voyager", "lemma": "voyager", "ipa": "də vwajaʒe", "translation": {"zh": "去旅行", "en": "of travelling"}, "emoji": "✈️"}
+    ]
+  },
+  {
+    "text": "un passage secret",
+    "ipa": "œ̃ pasaʒ səkʁɛ",
+    "translation": {"zh": "一条秘密通道", "en": "a secret passage"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un passage secret", "lemma": "passage", "ipa": "œ̃ pasaʒ səkʁɛ", "translation": {"zh": "秘密通道", "en": "a secret passage"}, "emoji": "🚪"}
+    ]
+  }
+]

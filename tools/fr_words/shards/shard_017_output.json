@@ -1,0 +1,287 @@
+[
+  {
+    "text": "provoquer une réaction",
+    "ipa": "pʁɔvɔke yn ʁeaksjɔ̃",
+    "translation": {"zh": "引发反应", "en": "provoke a reaction"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "provoquer une réaction", "lemma": "provoquer", "ipa": "pʁɔvɔke yn ʁeaksjɔ̃", "translation": {"zh": "引发反应", "en": "provoke a reaction"}, "emoji": "💥"}
+    ]
+  },
+  {
+    "text": "la durée du voyage",
+    "ipa": "la dyʁe dy vwajaʒ",
+    "translation": {"zh": "旅行时长", "en": "the duration of the trip"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la durée", "lemma": "durée", "ipa": "la dyʁe", "translation": {"zh": "时长", "en": "duration"}, "emoji": "⏱️"},
+      {"text": "du voyage", "lemma": "voyage", "ipa": "dy vwajaʒ", "translation": {"zh": "旅行", "en": "trip"}, "emoji": "✈️"}
+    ]
+  },
+  {
+    "text": "le contrôle des passeports",
+    "ipa": "lə kɔ̃tʁol de pasPɔʁ",
+    "translation": {"zh": "护照检查", "en": "passport control"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le contrôle", "lemma": "contrôle", "ipa": "lə kɔ̃tʁol", "translation": {"zh": "检查", "en": "control"}, "emoji": "🛂"},
+      {"text": "des passeports", "lemma": "passeport", "ipa": "de pasPɔʁ", "translation": {"zh": "护照", "en": "passports"}, "emoji": "📘"}
+    ]
+  },
+  {
+    "text": "les horaires d'ouverture",
+    "ipa": "le ɔʁɛʁ duvɛʁtyʁ",
+    "translation": {"zh": "营业时间", "en": "opening hours"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "les horaires", "lemma": "horaire", "ipa": "le ɔʁɛʁ", "translation": {"zh": "时间表", "en": "hours"}, "emoji": "🕐"},
+      {"text": "d'ouverture", "lemma": "ouverture", "ipa": "duvɛʁtyʁ", "translation": {"zh": "开放", "en": "opening"}, "emoji": "🔓"}
+    ]
+  },
+  {
+    "text": "limiter la vitesse",
+    "ipa": "limite la vitɛs",
+    "translation": {"zh": "限制速度", "en": "limit the speed"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "limiter la vitesse", "lemma": "limiter", "ipa": "limite la vitɛs", "translation": {"zh": "限制速度", "en": "limit the speed"}, "emoji": "🚦"}
+    ]
+  },
+  {
+    "text": "avoir confiance",
+    "ipa": "avwaʁ kɔ̃fjɑ̃s",
+    "translation": {"zh": "有信心", "en": "have confidence"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "avoir confiance", "lemma": "avoir", "ipa": "avwaʁ kɔ̃fjɑ̃s", "translation": {"zh": "有信心", "en": "have confidence"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "visiter un monument",
+    "ipa": "vizite œ̃ mɔnymɑ̃",
+    "translation": {"zh": "参观纪念碑", "en": "visit a monument"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "visiter un monument", "lemma": "visiter", "ipa": "vizite œ̃ mɔnymɑ̃", "translation": {"zh": "参观纪念碑", "en": "visit a monument"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "un débat politique",
+    "ipa": "œ̃ deba pɔlitik",
+    "translation": {"zh": "政治辩论", "en": "a political debate"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un débat", "lemma": "débat", "ipa": "œ̃ deba", "translation": {"zh": "辩论", "en": "debate"}, "emoji": "🗣️"},
+      {"text": "politique", "lemma": "politique", "ipa": "pɔlitik", "translation": {"zh": "政治", "en": "political"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "complètement épuisé",
+    "ipa": "kɔ̃plɛtmɑ̃ epɥize",
+    "translation": {"zh": "完全精疲力竭", "en": "completely exhausted"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "complètement épuisé", "lemma": "complètement", "ipa": "kɔ̃plɛtmɑ̃ epɥize", "translation": {"zh": "完全筋疲力尽", "en": "completely exhausted"}, "emoji": "😩"}
+    ]
+  },
+  {
+    "text": "à la mairie",
+    "ipa": "a la mɛʁi",
+    "translation": {"zh": "在市政厅", "en": "at the town hall"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "à la mairie", "lemma": "mairie", "ipa": "a la mɛʁi", "translation": {"zh": "市政厅", "en": "town hall"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "repartir le lendemain",
+    "ipa": "ʁəpaʁtiʁ lə lɑ̃dmɛ̃",
+    "translation": {"zh": "第二天再出发", "en": "leave again the next day"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "repartir", "lemma": "repartir", "ipa": "ʁəpaʁtiʁ", "translation": {"zh": "重新出发", "en": "leave again"}, "emoji": "🚶"},
+      {"text": "le lendemain", "lemma": "lendemain", "ipa": "lə lɑ̃dmɛ̃", "translation": {"zh": "第二天", "en": "next day"}, "emoji": "📅"}
+    ]
+  },
+  {
+    "text": "un événement récent",
+    "ipa": "œ̃n evɛnmɑ̃ ʁesɑ̃",
+    "translation": {"zh": "最近的事件", "en": "a recent event"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un événement", "lemma": "événement", "ipa": "œ̃n evɛnmɑ̃", "translation": {"zh": "事件", "en": "event"}, "emoji": "📰"},
+      {"text": "récent", "lemma": "récent", "ipa": "ʁesɑ̃", "translation": {"zh": "最近的", "en": "recent"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "s'enfuir en courant",
+    "ipa": "sɑ̃fɥiʁ ɑ̃ kuʁɑ̃",
+    "translation": {"zh": "飞奔逃跑", "en": "flee running"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "s'enfuir", "lemma": "enfuir", "ipa": "sɑ̃fɥiʁ", "translation": {"zh": "逃跑", "en": "flee"}, "emoji": "🏃"},
+      {"text": "en courant", "lemma": "courir", "ipa": "ɑ̃ kuʁɑ̃", "translation": {"zh": "跑着", "en": "running"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "je m'ennuie",
+    "ipa": "ʒə mɑ̃nɥi",
+    "translation": {"zh": "我很无聊", "en": "I'm bored"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je m'ennuie", "lemma": "ennuyer", "ipa": "ʒə mɑ̃nɥi", "translation": {"zh": "感到无聊", "en": "I'm bored"}, "emoji": "😐"}
+    ]
+  },
+  {
+    "text": "justement à temps",
+    "ipa": "ʒystəmɑ̃ a tɑ̃",
+    "translation": {"zh": "正好准时", "en": "just in time"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "justement", "lemma": "justement", "ipa": "ʒystəmɑ̃", "translation": {"zh": "正好", "en": "just"}, "emoji": ""},
+      {"text": "à temps", "lemma": "temps", "ipa": "a tɑ̃", "translation": {"zh": "准时", "en": "in time"}, "emoji": "⏰"}
+    ]
+  },
+  {
+    "text": "un modèle unique",
+    "ipa": "œ̃ mɔdɛl ynik",
+    "translation": {"zh": "独一无二的款式", "en": "a unique model"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un modèle", "lemma": "modèle", "ipa": "œ̃ mɔdɛl", "translation": {"zh": "款式", "en": "model"}, "emoji": ""},
+      {"text": "unique", "lemma": "unique", "ipa": "ynik", "translation": {"zh": "独特的", "en": "unique"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "le taux de chômage",
+    "ipa": "lə to də ʃomaʒ",
+    "translation": {"zh": "失业率", "en": "the unemployment rate"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le taux", "lemma": "taux", "ipa": "lə to", "translation": {"zh": "比率", "en": "rate"}, "emoji": "📊"},
+      {"text": "de chômage", "lemma": "chômage", "ipa": "də ʃomaʒ", "translation": {"zh": "失业", "en": "unemployment"}, "emoji": "💼"}
+    ]
+  },
+  {
+    "text": "indiquer le chemin",
+    "ipa": "ɛ̃dike lə ʃəmɛ̃",
+    "translation": {"zh": "指路", "en": "show the way"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "indiquer le chemin", "lemma": "indiquer", "ipa": "ɛ̃dike lə ʃəmɛ̃", "translation": {"zh": "指路", "en": "show the way"}, "emoji": "👆"}
+    ]
+  },
+  {
+    "text": "un tableau au mur",
+    "ipa": "œ̃ tablo o myʁ",
+    "translation": {"zh": "墙上的画", "en": "a painting on the wall"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un tableau", "lemma": "tableau", "ipa": "œ̃ tablo", "translation": {"zh": "画作", "en": "painting"}, "emoji": "🖼️"},
+      {"text": "au mur", "lemma": "mur", "ipa": "o myʁ", "translation": {"zh": "墙上", "en": "on the wall"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un consommateur averti",
+    "ipa": "œ̃ kɔ̃sɔmatœʁ avɛʁti",
+    "translation": {"zh": "精明的消费者", "en": "an informed consumer"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un consommateur", "lemma": "consommateur", "ipa": "œ̃ kɔ̃sɔmatœʁ", "translation": {"zh": "消费者", "en": "consumer"}, "emoji": "🛒"},
+      {"text": "averti", "lemma": "averti", "ipa": "avɛʁti", "translation": {"zh": "精明的", "en": "informed"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "ramener les enfants",
+    "ipa": "ʁamne le zɑ̃fɑ̃",
+    "translation": {"zh": "把孩子们带回来", "en": "bring the children back"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "ramener les enfants", "lemma": "ramener", "ipa": "ʁamne le zɑ̃fɑ̃", "translation": {"zh": "把孩子们带回来", "en": "bring the children back"}, "emoji": "👨‍👧"}
+    ]
+  },
+  {
+    "text": "se blesser au genou",
+    "ipa": "sə blɛse o ʒənu",
+    "translation": {"zh": "膝盖受伤", "en": "hurt one's knee"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "se blesser", "lemma": "blesser", "ipa": "sə blɛse", "translation": {"zh": "受伤", "en": "hurt oneself"}, "emoji": "🤕"},
+      {"text": "au genou", "lemma": "genou", "ipa": "o ʒənu", "translation": {"zh": "膝盖", "en": "knee"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "prononcer un discours",
+    "ipa": "pʁɔnɔ̃se œ̃ diskuʁ",
+    "translation": {"zh": "发表演讲", "en": "deliver a speech"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "prononcer un discours", "lemma": "prononcer", "ipa": "pʁɔnɔ̃se œ̃ diskuʁ", "translation": {"zh": "发表演讲", "en": "deliver a speech"}, "emoji": "🎤"}
+    ]
+  },
+  {
+    "text": "la République française",
+    "ipa": "la ʁepyblik fʁɑ̃sɛz",
+    "translation": {"zh": "法兰西共和国", "en": "the French Republic"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la République", "lemma": "république", "ipa": "la ʁepyblik", "translation": {"zh": "共和国", "en": "Republic"}, "emoji": "🇫🇷"},
+      {"text": "française", "lemma": "français", "ipa": "fʁɑ̃sɛz", "translation": {"zh": "法国的", "en": "French"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un modèle de voiture",
+    "ipa": "œ̃ mɔdɛl də vwatyʁ",
+    "translation": {"zh": "一款车型", "en": "a car model"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un modèle", "lemma": "modèle", "ipa": "œ̃ mɔdɛl", "translation": {"zh": "款式", "en": "model"}, "emoji": "🚗"},
+      {"text": "de voiture", "lemma": "voiture", "ipa": "də vwatyʁ", "translation": {"zh": "汽车", "en": "car"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "désirer quelque chose",
+    "ipa": "deziʁe kɛlkə ʃoz",
+    "translation": {"zh": "渴望某件事", "en": "desire something"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "désirer quelque chose", "lemma": "désirer", "ipa": "deziʁe kɛlkə ʃoz", "translation": {"zh": "渴望某事", "en": "desire something"}, "emoji": "🤩"}
+    ]
+  },
+  {
+    "text": "évidemment pas",
+    "ipa": "evidamɑ̃ pa",
+    "translation": {"zh": "显然不是", "en": "obviously not"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "évidemment pas", "lemma": "évidemment", "ipa": "evidamɑ̃ pa", "translation": {"zh": "显然不是", "en": "obviously not"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la nouvelle technologie",
+    "ipa": "la nuvɛl tɛknɔlɔʒi",
+    "translation": {"zh": "新技术", "en": "the new technology"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la nouvelle technologie", "lemma": "technologie", "ipa": "la nuvɛl tɛknɔlɔʒi", "translation": {"zh": "新技术", "en": "new technology"}, "emoji": "💻"}
+    ]
+  },
+  {
+    "text": "verser des larmes",
+    "ipa": "vɛʁse de laʁm",
+    "translation": {"zh": "流泪", "en": "shed tears"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "verser des larmes", "lemma": "verser", "ipa": "vɛʁse de laʁm", "translation": {"zh": "流眼泪", "en": "shed tears"}, "emoji": "😢"}
+    ]
+  },
+  {
+    "text": "hausser les épaules",
+    "ipa": "ose le zepol",
+    "translation": {"zh": "耸耸肩", "en": "shrug one's shoulders"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "hausser les épaules", "lemma": "hausser", "ipa": "ose le zepol", "translation": {"zh": "耸肩", "en": "shrug shoulders"}, "emoji": "🤷"}
+    ]
+  }
+]

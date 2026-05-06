@@ -1,0 +1,130 @@
+[
+  {
+    "text": "Les sanglots longs",
+    "ipa": "le sɑ̃ɡlo lɔ̃",
+    "translation": {
+      "zh": "悠长的呜咽",
+      "en": "The long sobs"
+    },
+    "cefr": "C2",
+    "tokens": [
+      {
+        "text": "Les sanglots",
+        "lemma": "sanglot",
+        "ipa": "le sɑ̃ɡlo",
+        "translation": {"zh": "呜咽", "en": "sobs"},
+        "emoji": "😢"
+      },
+      {
+        "text": "longs",
+        "lemma": "long",
+        "ipa": "lɔ̃",
+        "translation": {"zh": "悠长的", "en": "long"},
+        "emoji": "📏"
+      }
+    ],
+    "tags": [{"name": "Chanson d'automne", "index": 0}]
+  },
+  {
+    "text": "Des violons",
+    "ipa": "de vjɔlɔ̃",
+    "translation": {
+      "zh": "小提琴的",
+      "en": "Of violins"
+    },
+    "cefr": "C2",
+    "tokens": [
+      {
+        "text": "Des violons",
+        "lemma": "violon",
+        "ipa": "de vjɔlɔ̃",
+        "translation": {"zh": "小提琴", "en": "violins"},
+        "emoji": "🎻"
+      }
+    ],
+    "tags": [{"name": "Chanson d'automne", "index": 1}]
+  },
+  {
+    "text": "De l'automne",
+    "ipa": "də lotɔn",
+    "translation": {
+      "zh": "秋天的",
+      "en": "Of autumn"
+    },
+    "cefr": "C2",
+    "tokens": [
+      {
+        "text": "De l'automne",
+        "lemma": "automne",
+        "ipa": "də lotɔn",
+        "translation": {"zh": "秋天", "en": "autumn"},
+        "emoji": "🍂"
+      }
+    ],
+    "tags": [{"name": "Chanson d'automne", "index": 2}]
+  },
+  {
+    "text": "Blessent mon cœur",
+    "ipa": "blɛs mɔ̃ kœʁ",
+    "translation": {
+      "zh": "刺伤我的心",
+      "en": "Wound my heart"
+    },
+    "cefr": "C2",
+    "tokens": [
+      {
+        "text": "Blessent",
+        "lemma": "blesser",
+        "ipa": "blɛs",
+        "translation": {"zh": "刺伤", "en": "wound"},
+        "emoji": "💔"
+      },
+      {
+        "text": "mon cœur",
+        "lemma": "cœur",
+        "ipa": "mɔ̃ kœʁ",
+        "translation": {"zh": "我的心", "en": "my heart"},
+        "emoji": "❤️"
+      }
+    ],
+    "tags": [{"name": "Chanson d'automne", "index": 3}]
+  },
+  {
+    "text": "D'une langueur",
+    "ipa": "dyn lɑ̃ɡœʁ",
+    "translation": {
+      "zh": "以一种倦怠",
+      "en": "With a languor"
+    },
+    "cefr": "C2",
+    "tokens": [
+      {
+        "text": "D'une langueur",
+        "lemma": "langueur",
+        "ipa": "dyn lɑ̃ɡœʁ",
+        "translation": {"zh": "倦怠", "en": "languor"},
+        "emoji": "😮‍💨"
+      }
+    ],
+    "tags": [{"name": "Chanson d'automne", "index": 4}]
+  },
+  {
+    "text": "Monotone.",
+    "ipa": "mɔnɔtɔn",
+    "translation": {
+      "zh": "单调的。",
+      "en": "Monotonous."
+    },
+    "cefr": "C2",
+    "tokens": [
+      {
+        "text": "Monotone",
+        "lemma": "monotone",
+        "ipa": "mɔnɔtɔn",
+        "translation": {"zh": "单调的", "en": "monotonous"},
+        "emoji": "🔁"
+      }
+    ],
+    "tags": [{"name": "Chanson d'automne", "index": 5}]
+  }
+]

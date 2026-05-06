@@ -1,0 +1,180 @@
+[
+  {
+    "input_text": "机密",
+    "entries": [
+      {"text": "机密", "pinyin": "jī mì", "en": "secret; classified", "emoji": "🔒"}
+    ]
+  },
+  {
+    "input_text": "机械",
+    "entries": [
+      {"text": "机械", "pinyin": "jī xiè", "en": "machinery; mechanical", "emoji": "⚙️"}
+    ]
+  },
+  {
+    "input_text": "机遇",
+    "entries": [
+      {"text": "机遇", "pinyin": "jī yù", "en": "opportunity; chance", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "机智",
+    "entries": [
+      {"text": "机智", "pinyin": "jī zhì", "en": "quick-witted; resourceful", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "基地",
+    "entries": [
+      {"text": "基地", "pinyin": "jī dì", "en": "base; headquarters", "emoji": "🏕️"}
+    ]
+  },
+  {
+    "input_text": "基金",
+    "entries": [
+      {"text": "基金", "pinyin": "jī jīn", "en": "fund", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_text": "基因",
+    "entries": [
+      {"text": "基因", "pinyin": "jī yīn", "en": "gene", "emoji": "🧬"}
+    ]
+  },
+  {
+    "input_text": "激发",
+    "entries": [
+      {"text": "激发", "pinyin": "jī fā", "en": "inspire; stimulate", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "激励",
+    "entries": [
+      {"text": "激励", "pinyin": "jī lì", "en": "motivate; encourage", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "激情",
+    "entries": [
+      {"text": "激情", "pinyin": "jī qíng", "en": "passion; enthusiasm", "emoji": "🔥"}
+    ]
+  },
+  {
+    "input_text": "及早",
+    "entries": [
+      {"text": "及早", "pinyin": "jí zǎo", "en": "as early as possible", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "吉祥",
+    "entries": [
+      {"text": "吉祥", "pinyin": "jí xiáng", "en": "auspicious; lucky", "emoji": "🍀"}
+    ]
+  },
+  {
+    "input_text": "级别",
+    "entries": [
+      {"text": "级别", "pinyin": "jí bié", "en": "level; rank", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "极端",
+    "entries": [
+      {"text": "极端", "pinyin": "jí duān", "en": "extreme; extremity", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "极限",
+    "entries": [
+      {"text": "极限", "pinyin": "jí xiàn", "en": "limit; maximum", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "即便",
+    "entries": []
+  },
+  {
+    "input_text": "即将",
+    "entries": [
+      {"text": "即将", "pinyin": "jí jiāng", "en": "about to; imminent", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "急功近利",
+    "entries": [
+      {"text": "急功近利", "pinyin": "jí gōng jìn lì", "en": "seek quick gains", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "急剧",
+    "entries": [
+      {"text": "急剧", "pinyin": "jí jù", "en": "sharply; drastically", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "急切",
+    "entries": [
+      {"text": "急切", "pinyin": "jí qiè", "en": "eager; urgent", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "急于求成",
+    "entries": [
+      {"text": "急于求成", "pinyin": "jí yú qiú chéng", "en": "rush for success", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "急躁",
+    "entries": [
+      {"text": "急躁", "pinyin": "jí zào", "en": "impatient; irritable", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "疾病",
+    "entries": [
+      {"text": "疾病", "pinyin": "jí bìng", "en": "disease; illness", "emoji": "🤒"}
+    ]
+  },
+  {
+    "input_text": "集团",
+    "entries": [
+      {"text": "集团", "pinyin": "jí tuán", "en": "group; conglomerate", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "嫉妒",
+    "entries": [
+      {"text": "嫉妒", "pinyin": "jí dù", "en": "jealous; envy", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "籍贯",
+    "entries": [
+      {"text": "籍贯", "pinyin": "jí guàn", "en": "place of origin", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "给予",
+    "entries": [
+      {"text": "给予", "pinyin": "jǐ yǔ", "en": "give; grant", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "计较",
+    "entries": [
+      {"text": "计较", "pinyin": "jì jiào", "en": "mind; fuss over", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "记性",
+    "entries": [
+      {"text": "记性", "pinyin": "jì xing", "en": "memory ability", "emoji": "🧠"}
+    ]
+  },
+  {
+    "input_text": "记载",
+    "entries": [
+      {"text": "记载", "pinyin": "jì zǎi", "en": "record; document", "emoji": ""}
+    ]
+  }
+]

@@ -1,0 +1,325 @@
+[
+  {
+    "input_text": "只要",
+    "entries": [
+      {
+        "text": "只要",
+        "pinyin": "zhǐ yào",
+        "en": "as long as",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "指",
+    "entries": [
+      {
+        "text": "指",
+        "pinyin": "zhǐ",
+        "en": "to point; refer to",
+        "emoji": "👉"
+      }
+    ]
+  },
+  {
+    "input_text": "至少",
+    "entries": [
+      {
+        "text": "至少",
+        "pinyin": "zhì shǎo",
+        "en": "at least",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "质量",
+    "entries": [
+      {
+        "text": "质量",
+        "pinyin": "zhì liàng",
+        "en": "quality",
+        "emoji": "⭐"
+      }
+    ]
+  },
+  {
+    "input_text": "重",
+    "entries": [
+      {
+        "text": "重",
+        "pinyin": "zhòng",
+        "en": "heavy; important",
+        "emoji": "⚖️"
+      }
+    ]
+  },
+  {
+    "input_text": "重点",
+    "entries": [
+      {
+        "text": "重点",
+        "pinyin": "zhòng diǎn",
+        "en": "key point",
+        "emoji": "📌"
+      }
+    ]
+  },
+  {
+    "input_text": "重视",
+    "entries": [
+      {
+        "text": "重视",
+        "pinyin": "zhòng shì",
+        "en": "to value; take seriously",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "周围",
+    "entries": [
+      {
+        "text": "周围",
+        "pinyin": "zhōu wéi",
+        "en": "surroundings; around",
+        "emoji": "🔄"
+      }
+    ]
+  },
+  {
+    "input_text": "主意",
+    "entries": [
+      {
+        "text": "主意",
+        "pinyin": "zhǔ yi",
+        "en": "idea; plan",
+        "emoji": "💡"
+      }
+    ]
+  },
+  {
+    "input_text": "祝贺",
+    "entries": [
+      {
+        "text": "祝贺",
+        "pinyin": "zhù hè",
+        "en": "to congratulate",
+        "emoji": "🎉"
+      }
+    ]
+  },
+  {
+    "input_text": "著名",
+    "entries": [
+      {
+        "text": "著名",
+        "pinyin": "zhù míng",
+        "en": "famous; renowned",
+        "emoji": "🌟"
+      }
+    ]
+  },
+  {
+    "input_text": "专门",
+    "entries": [
+      {
+        "text": "专门",
+        "pinyin": "zhuān mén",
+        "en": "specially; dedicated",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "专业",
+    "entries": [
+      {
+        "text": "专业",
+        "pinyin": "zhuān yè",
+        "en": "major; professional",
+        "emoji": "🎓"
+      }
+    ]
+  },
+  {
+    "input_text": "转",
+    "entries": [
+      {
+        "text": "转",
+        "pinyin": "zhuǎn",
+        "en": "to turn; rotate",
+        "emoji": "🔄"
+      }
+    ]
+  },
+  {
+    "input_text": "赚",
+    "entries": [
+      {
+        "text": "赚",
+        "pinyin": "zhuàn",
+        "en": "to earn money",
+        "emoji": "💰"
+      }
+    ]
+  },
+  {
+    "input_text": "准确",
+    "entries": [
+      {
+        "text": "准确",
+        "pinyin": "zhǔn què",
+        "en": "accurate; precise",
+        "emoji": "🎯"
+      }
+    ]
+  },
+  {
+    "input_text": "准时",
+    "entries": [
+      {
+        "text": "准时",
+        "pinyin": "zhǔn shí",
+        "en": "on time; punctual",
+        "emoji": "⏰"
+      }
+    ]
+  },
+  {
+    "input_text": "仔细",
+    "entries": [
+      {
+        "text": "仔细",
+        "pinyin": "zǐ xì",
+        "en": "careful; attentive",
+        "emoji": "🔍"
+      }
+    ]
+  },
+  {
+    "input_text": "自然",
+    "entries": [
+      {
+        "text": "自然",
+        "pinyin": "zì rán",
+        "en": "nature; natural",
+        "emoji": "🌿"
+      }
+    ]
+  },
+  {
+    "input_text": "自信",
+    "entries": [
+      {
+        "text": "自信",
+        "pinyin": "zì xìn",
+        "en": "self-confident; confidence",
+        "emoji": "💪"
+      }
+    ]
+  },
+  {
+    "input_text": "总结",
+    "entries": [
+      {
+        "text": "总结",
+        "pinyin": "zǒng jié",
+        "en": "to summarize; summary",
+        "emoji": "📝"
+      }
+    ]
+  },
+  {
+    "input_text": "租",
+    "entries": [
+      {
+        "text": "租",
+        "pinyin": "zū",
+        "en": "to rent",
+        "emoji": "🏠"
+      }
+    ]
+  },
+  {
+    "input_text": "最好",
+    "entries": [
+      {
+        "text": "最好",
+        "pinyin": "zuì hǎo",
+        "en": "best; had better",
+        "emoji": "🏆"
+      }
+    ]
+  },
+  {
+    "input_text": "尊重",
+    "entries": [
+      {
+        "text": "尊重",
+        "pinyin": "zūn zhòng",
+        "en": "to respect",
+        "emoji": "🙏"
+      }
+    ]
+  },
+  {
+    "input_text": "左右",
+    "entries": [
+      {
+        "text": "左右",
+        "pinyin": "zuǒ yòu",
+        "en": "left and right; approximately",
+        "emoji": "↔️"
+      }
+    ]
+  },
+  {
+    "input_text": "作家",
+    "entries": [
+      {
+        "text": "作家",
+        "pinyin": "zuò jiā",
+        "en": "writer; author",
+        "emoji": "✍️"
+      }
+    ]
+  },
+  {
+    "input_text": "作用",
+    "entries": [
+      {
+        "text": "作用",
+        "pinyin": "zuò yòng",
+        "en": "function; effect",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "作者",
+    "entries": [
+      {
+        "text": "作者",
+        "pinyin": "zuò zhě",
+        "en": "author",
+        "emoji": "✍️"
+      }
+    ]
+  },
+  {
+    "input_text": "座",
+    "entries": []
+  },
+  {
+    "input_text": "座位",
+    "entries": [
+      {
+        "text": "座位",
+        "pinyin": "zuò wèi",
+        "en": "seat",
+        "emoji": "💺"
+      }
+    ]
+  }
+]

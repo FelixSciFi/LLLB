@@ -1,0 +1,74 @@
+[
+  {
+    "text": "Demain, dès l'aube,",
+    "ipa": "dəmɛ̃ dɛ lob",
+    "translation": {"zh": "明天，黎明时分，", "en": "Tomorrow, at dawn,"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "Demain", "lemma": "demain", "ipa": "dəmɛ̃", "translation": {"zh": "明天", "en": "tomorrow"}, "emoji": "📅"},
+      {"text": "dès", "lemma": "dès", "ipa": "dɛ", "translation": {"zh": "一…就", "en": "as soon as"}, "emoji": "⏱️"},
+      {"text": "l'aube", "lemma": "aube", "ipa": "lob", "translation": {"zh": "黎明", "en": "dawn"}, "emoji": "🌅"}
+    ],
+    "tags": [{"name": "Demain dès l'aube", "index": 1}]
+  },
+  {
+    "text": "à l'heure où blanchit la campagne,",
+    "ipa": "a lœʁ u blɑ̃ʃi la kɑ̃paɲ",
+    "translation": {"zh": "在田野泛白的时刻，", "en": "at the hour when the countryside whitens,"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "à l'heure", "lemma": "heure", "ipa": "a lœʁ", "translation": {"zh": "在…时刻", "en": "at the hour"}, "emoji": "🕰️"},
+      {"text": "où blanchit", "lemma": "blanchir", "ipa": "u blɑ̃ʃi", "translation": {"zh": "泛白时", "en": "when whitens"}, "emoji": "⚪"},
+      {"text": "la campagne", "lemma": "campagne", "ipa": "la kɑ̃paɲ", "translation": {"zh": "田野", "en": "countryside"}, "emoji": "🌾"}
+    ],
+    "tags": [{"name": "Demain dès l'aube", "index": 2}]
+  },
+  {
+    "text": "Je partirai.",
+    "ipa": "ʒə paʁtiʁe",
+    "translation": {"zh": "我将启程。", "en": "I shall depart."},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "Je partirai", "lemma": "partir", "ipa": "ʒə paʁtiʁe", "translation": {"zh": "我将启程", "en": "I shall depart"}, "emoji": "🚶"}
+    ],
+    "tags": [{"name": "Demain dès l'aube", "index": 3}]
+  },
+  {
+    "text": "Vois-tu, je sais que tu m'attends.",
+    "ipa": "vwa ty ʒə sɛ kə ty matɑ̃",
+    "translation": {"zh": "你瞧，我知道你在等我。", "en": "You see, I know that you await me."},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "Vois-tu", "lemma": "voir", "ipa": "vwa ty", "translation": {"zh": "你瞧", "en": "you see"}, "emoji": "👁️"},
+      {"text": "je sais", "lemma": "savoir", "ipa": "ʒə sɛ", "translation": {"zh": "我知道", "en": "I know"}, "emoji": "💭"},
+      {"text": "que", "lemma": "que", "ipa": "kə", "translation": {"zh": "（连词）", "en": "that"}, "emoji": ""},
+      {"text": "tu m'attends", "lemma": "attendre", "ipa": "ty matɑ̃", "translation": {"zh": "你等我", "en": "you await me"}, "emoji": "⏳"}
+    ],
+    "tags": [{"name": "Demain dès l'aube", "index": 4}]
+  },
+  {
+    "text": "J'irai par la forêt, j'irai par la montagne.",
+    "ipa": "ʒiʁe paʁ la fɔʁɛ ʒiʁe paʁ la mɔ̃taɲ",
+    "translation": {"zh": "我将穿越森林，我将翻越山峦。", "en": "I shall go through the forest, I shall go through the mountain."},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "J'irai", "lemma": "aller", "ipa": "ʒiʁe", "translation": {"zh": "我将去", "en": "I shall go"}, "emoji": "➡️"},
+      {"text": "par la forêt", "lemma": "forêt", "ipa": "paʁ la fɔʁɛ", "translation": {"zh": "穿越森林", "en": "through the forest"}, "emoji": "🌲"},
+      {"text": "j'irai", "lemma": "aller", "ipa": "ʒiʁe", "translation": {"zh": "我将去", "en": "I shall go"}, "emoji": "➡️"},
+      {"text": "par la montagne", "lemma": "montagne", "ipa": "paʁ la mɔ̃taɲ", "translation": {"zh": "翻越山峦", "en": "through the mountain"}, "emoji": "⛰️"}
+    ],
+    "tags": [{"name": "Demain dès l'aube", "index": 5}]
+  },
+  {
+    "text": "Je ne puis demeurer loin de toi plus longtemps.",
+    "ipa": "ʒə nə pɥi dəmœʁe lwɛ̃ də twa ply lɔ̃tɑ̃",
+    "translation": {"zh": "我再也无法远离你更久了。", "en": "I can no longer remain far from you any longer."},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "Je ne puis demeurer", "lemma": "demeurer", "ipa": "ʒə nə pɥi dəmœʁe", "translation": {"zh": "我无法停留", "en": "I cannot remain"}, "emoji": "🚫"},
+      {"text": "loin de toi", "lemma": "loin", "ipa": "lwɛ̃ də twa", "translation": {"zh": "远离你", "en": "far from you"}, "emoji": "💔"},
+      {"text": "plus longtemps", "lemma": "longtemps", "ipa": "ply lɔ̃tɑ̃", "translation": {"zh": "更久", "en": "any longer"}, "emoji": "⏳"}
+    ],
+    "tags": [{"name": "Demain dès l'aube", "index": 6}]
+  }
+]

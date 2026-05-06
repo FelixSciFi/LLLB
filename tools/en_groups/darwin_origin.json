@@ -1,0 +1,86 @@
+[
+  {
+    "text": "It is interesting to contemplate an entangled bank,",
+    "ipa": "ɪt ɪz ˈɪntrəstɪŋ tə ˈkɑntəmpleɪt ən ɪnˈtæŋɡəld bæŋk",
+    "translation": {"zh": "凝望一片繁茂的河岸，颇富意趣，"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "It is interesting", "lemma": "interesting", "ipa": "ɪt ɪz ˈɪntrəstɪŋ", "translation": {"zh": "颇有意趣", "en": "is interesting"}, "emoji": "🤔"},
+      {"text": "to contemplate", "lemma": "contemplate", "ipa": "tə ˈkɑntəmpleɪt", "translation": {"zh": "去凝望", "en": "to contemplate"}, "emoji": "👁️"},
+      {"text": "an entangled bank", "lemma": "bank", "ipa": "ən ɪnˈtæŋɡəld bæŋk", "translation": {"zh": "繁茂河岸", "en": "tangled bank"}, "emoji": "🌿"}
+    ],
+    "tags": [{"name": "Origin of Species", "index": 1}]
+  },
+  {
+    "text": "clothed with many plants of many kinds,",
+    "ipa": "kloʊðd wɪð ˈmɛni plænts ʌv ˈmɛni kaɪndz",
+    "translation": {"zh": "披覆着各色各样的植物，"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "clothed with many plants", "lemma": "plant", "ipa": "kloʊðd wɪð ˈmɛni plænts", "translation": {"zh": "披覆植物", "en": "covered with plants"}, "emoji": "🌱"},
+      {"text": "of many kinds", "lemma": "kind", "ipa": "ʌv ˈmɛni kaɪndz", "translation": {"zh": "各种各样", "en": "many kinds"}, "emoji": "🌸"}
+    ],
+    "tags": [{"name": "Origin of Species", "index": 2}]
+  },
+  {
+    "text": "with birds singing on the bushes,",
+    "ipa": "wɪð bɜːrdz ˈsɪŋɪŋ ɒn ðə ˈbʊʃɪz",
+    "translation": {"zh": "鸟儿在灌木上歌唱，"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "with birds", "lemma": "bird", "ipa": "wɪð bɜːrdz", "translation": {"zh": "鸟儿", "en": "with birds"}, "emoji": "🐦"},
+      {"text": "singing", "lemma": "sing", "ipa": "ˈsɪŋɪŋ", "translation": {"zh": "歌唱", "en": "singing"}, "emoji": "🎶"},
+      {"text": "on the bushes", "lemma": "bush", "ipa": "ɒn ðə ˈbʊʃɪz", "translation": {"zh": "在灌木上", "en": "on bushes"}, "emoji": "🌳"}
+    ],
+    "tags": [{"name": "Origin of Species", "index": 3}]
+  },
+  {
+    "text": "with various insects flitting about,",
+    "ipa": "wɪð ˈvɛəriəs ˈɪnsɛkts ˈflɪtɪŋ əˈbaʊt",
+    "translation": {"zh": "形形色色的昆虫翩然飞掠，"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "with various insects", "lemma": "insect", "ipa": "wɪð ˈvɛəriəs ˈɪnsɛkts", "translation": {"zh": "各种昆虫", "en": "various insects"}, "emoji": "🦋"},
+      {"text": "flitting about", "lemma": "flit", "ipa": "ˈflɪtɪŋ əˈbaʊt", "translation": {"zh": "翩然飞掠", "en": "flitting around"}, "emoji": "💫"}
+    ],
+    "tags": [{"name": "Origin of Species", "index": 4}]
+  },
+  {
+    "text": "and with worms crawling through the damp earth,",
+    "ipa": "ænd wɪð wɜːrmz ˈkrɔːlɪŋ θruː ðə dæmp ɜːrθ",
+    "translation": {"zh": "蠕虫在湿润的泥土中爬行，"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "and with worms", "lemma": "worm", "ipa": "ænd wɪð wɜːrmz", "translation": {"zh": "蠕虫", "en": "with worms"}, "emoji": "🪱"},
+      {"text": "crawling through", "lemma": "crawl", "ipa": "ˈkrɔːlɪŋ θruː", "translation": {"zh": "爬行穿过", "en": "crawling through"}, "emoji": "〰️"},
+      {"text": "the damp earth", "lemma": "earth", "ipa": "ðə dæmp ɜːrθ", "translation": {"zh": "湿润泥土", "en": "damp earth"}, "emoji": "🟫"}
+    ],
+    "tags": [{"name": "Origin of Species", "index": 5}]
+  },
+  {
+    "text": "and to reflect that these elaborately constructed forms, so different from each other, and dependent on each other in so complex a manner,",
+    "ipa": "ænd tə rɪˈflɛkt ðæt ðiːz ɪˈlæbərətli kənˈstrʌktɪd fɔːrmz soʊ ˈdɪfərənt frʌm iːtʃ ˈʌðər ænd dɪˈpɛndənt ɒn iːtʃ ˈʌðər ɪn soʊ ˈkɒmplɛks ə ˈmænər",
+    "translation": {"zh": "并思及这些构造精巧、彼此迥异、又以如此复杂方式相互依存的生命形式，"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "and to reflect", "lemma": "reflect", "ipa": "ænd tə rɪˈflɛkt", "translation": {"zh": "去思忖", "en": "to reflect"}, "emoji": "💭"},
+      {"text": "these elaborately constructed forms", "lemma": "form", "ipa": "ðiːz ɪˈlæbərətli kənˈstrʌktɪd fɔːrmz", "translation": {"zh": "精巧形态", "en": "elaborate forms"}, "emoji": "🧬"},
+      {"text": "so different from each other", "lemma": "different", "ipa": "soʊ ˈdɪfərənt frʌm iːtʃ ˈʌðər", "translation": {"zh": "彼此迥异", "en": "so different"}, "emoji": "🔀"},
+      {"text": "and dependent on each other", "lemma": "dependent", "ipa": "ænd dɪˈpɛndənt ɒn iːtʃ ˈʌðər", "translation": {"zh": "相互依存", "en": "dependent on"}, "emoji": "🔗"},
+      {"text": "in so complex a manner", "lemma": "complex", "ipa": "ɪn soʊ ˈkɒmplɛks ə ˈmænər", "translation": {"zh": "如此复杂", "en": "so complex"}, "emoji": "🕸️"}
+    ],
+    "tags": [{"name": "Origin of Species", "index": 6}]
+  },
+  {
+    "text": "have all been produced by laws acting around us.",
+    "ipa": "hæv ɔːl bɪn prəˈduːst baɪ lɔːz ˈæktɪŋ əˈraʊnd ʌs",
+    "translation": {"zh": "皆由作用于我们周遭的法则所造就。"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "have all been produced", "lemma": "produce", "ipa": "hæv ɔːl bɪn prəˈduːst", "translation": {"zh": "皆被造就", "en": "all produced"}, "emoji": "✨"},
+      {"text": "by laws", "lemma": "law", "ipa": "baɪ lɔːz", "translation": {"zh": "由法则", "en": "by laws"}, "emoji": "⚖️"},
+      {"text": "acting around us", "lemma": "act", "ipa": "ˈæktɪŋ əˈraʊnd ʌs", "translation": {"zh": "作用周遭", "en": "acting around"}, "emoji": "🌍"}
+    ],
+    "tags": [{"name": "Origin of Species", "index": 7}]
+  }
+]

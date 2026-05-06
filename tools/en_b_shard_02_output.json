@@ -1,0 +1,376 @@
+[
+  {
+    "input_word": "bet",
+    "entries": [
+      {
+        "text": "bet",
+        "ipa": "/bɛt/",
+        "cefr": "B2",
+        "zh": "打赌",
+        "emoji": "🎲"
+      }
+    ]
+  },
+  {
+    "input_word": "better",
+    "entries": [
+      {
+        "text": "better",
+        "ipa": "/ˈbɛtər/",
+        "cefr": "A1",
+        "zh": "更好的",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "between",
+    "entries": [
+      {
+        "text": "between",
+        "ipa": "/bɪˈtwiːn/",
+        "cefr": "A1",
+        "zh": "在…之间",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "beyond",
+    "entries": [
+      {
+        "text": "beyond",
+        "ipa": "/biˈɑːnd/",
+        "cefr": "B2",
+        "zh": "超越",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "bicycle",
+    "entries": [
+      {
+        "text": "bicycle",
+        "ipa": "/ˈbaɪsɪkəl/",
+        "cefr": "A1",
+        "zh": "自行车",
+        "emoji": "🚲"
+      }
+    ]
+  },
+  {
+    "input_word": "big",
+    "entries": [
+      {
+        "text": "big",
+        "ipa": "/bɪɡ/",
+        "cefr": "A1",
+        "zh": "大的",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "bike",
+    "entries": [
+      {
+        "text": "bike",
+        "ipa": "/baɪk/",
+        "cefr": "A1",
+        "zh": "自行车",
+        "emoji": "🚲"
+      }
+    ]
+  },
+  {
+    "input_word": "bill",
+    "entries": [
+      {
+        "text": "bill",
+        "ipa": "/bɪl/",
+        "cefr": "A1",
+        "zh": "账单",
+        "emoji": "🧾"
+      },
+      {
+        "text": "bill",
+        "ipa": "/bɪl/",
+        "cefr": "A1",
+        "zh": "纸币",
+        "emoji": "💵"
+      }
+    ]
+  },
+  {
+    "input_word": "billion",
+    "entries": [
+      {
+        "text": "billion",
+        "ipa": "/ˈbɪljən/",
+        "cefr": "A2",
+        "zh": "十亿",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "bin",
+    "entries": [
+      {
+        "text": "bin",
+        "ipa": "/bɪn/",
+        "cefr": "A2",
+        "zh": "垃圾桶",
+        "emoji": "🗑️"
+      }
+    ]
+  },
+  {
+    "input_word": "biology",
+    "entries": [
+      {
+        "text": "biology",
+        "ipa": "/baɪˈɑːlədʒi/",
+        "cefr": "A2",
+        "zh": "生物学",
+        "emoji": "🧬"
+      }
+    ]
+  },
+  {
+    "input_word": "bird",
+    "entries": [
+      {
+        "text": "bird",
+        "ipa": "/bɜːrd/",
+        "cefr": "A1",
+        "zh": "鸟",
+        "emoji": "🐦"
+      }
+    ]
+  },
+  {
+    "input_word": "birth",
+    "entries": [
+      {
+        "text": "birth",
+        "ipa": "/bɜːrθ/",
+        "cefr": "A2",
+        "zh": "出生",
+        "emoji": "👶"
+      }
+    ]
+  },
+  {
+    "input_word": "birthday",
+    "entries": [
+      {
+        "text": "birthday",
+        "ipa": "/ˈbɜːrθdeɪ/",
+        "cefr": "A1",
+        "zh": "生日",
+        "emoji": "🎂"
+      }
+    ]
+  },
+  {
+    "input_word": "biscuit",
+    "entries": [
+      {
+        "text": "biscuit",
+        "ipa": "/ˈbɪskɪt/",
+        "cefr": "A2",
+        "zh": "饼干",
+        "emoji": "🍪"
+      }
+    ]
+  },
+  {
+    "input_word": "bit",
+    "entries": [
+      {
+        "text": "bit",
+        "ipa": "/bɪt/",
+        "cefr": "A2",
+        "zh": "一点",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "bite",
+    "entries": [
+      {
+        "text": "bite",
+        "ipa": "/baɪt/",
+        "cefr": "B1",
+        "zh": "咬",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "bitter",
+    "entries": [
+      {
+        "text": "bitter",
+        "ipa": "/ˈbɪtər/",
+        "cefr": "B2",
+        "zh": "苦的",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "black",
+    "entries": [
+      {
+        "text": "black",
+        "ipa": "/blæk/",
+        "cefr": "A1",
+        "zh": "黑色",
+        "emoji": "⬛"
+      }
+    ]
+  },
+  {
+    "input_word": "blame",
+    "entries": [
+      {
+        "text": "blame",
+        "ipa": "/bleɪm/",
+        "cefr": "B2",
+        "zh": "责怪",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "blank",
+    "entries": [
+      {
+        "text": "blank",
+        "ipa": "/blæŋk/",
+        "cefr": "A2",
+        "zh": "空白的",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "blind",
+    "entries": [
+      {
+        "text": "blind",
+        "ipa": "/blaɪnd/",
+        "cefr": "B2",
+        "zh": "失明的",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "block",
+    "entries": [
+      {
+        "text": "block",
+        "ipa": "/blɑːk/",
+        "cefr": "B1",
+        "zh": "街区",
+        "emoji": ""
+      },
+      {
+        "text": "block",
+        "ipa": "/blɑːk/",
+        "cefr": "B1",
+        "zh": "阻挡",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "blog",
+    "entries": [
+      {
+        "text": "blog",
+        "ipa": "/blɑːɡ/",
+        "cefr": "A1",
+        "zh": "博客",
+        "emoji": "💻"
+      }
+    ]
+  },
+  {
+    "input_word": "blonde",
+    "entries": [
+      {
+        "text": "blonde",
+        "ipa": "/blɑːnd/",
+        "cefr": "A1",
+        "zh": "金发的",
+        "emoji": "👱"
+      }
+    ]
+  },
+  {
+    "input_word": "blood",
+    "entries": [
+      {
+        "text": "blood",
+        "ipa": "/blʌd/",
+        "cefr": "A2",
+        "zh": "血液",
+        "emoji": "🩸"
+      }
+    ]
+  },
+  {
+    "input_word": "blow",
+    "entries": [
+      {
+        "text": "blow",
+        "ipa": "/bloʊ/",
+        "cefr": "A2",
+        "zh": "吹",
+        "emoji": "💨"
+      }
+    ]
+  },
+  {
+    "input_word": "blue",
+    "entries": [
+      {
+        "text": "blue",
+        "ipa": "/bluː/",
+        "cefr": "A1",
+        "zh": "蓝色",
+        "emoji": "🟦"
+      }
+    ]
+  },
+  {
+    "input_word": "board",
+    "entries": [
+      {
+        "text": "board",
+        "ipa": "/bɔːrd/",
+        "cefr": "A2",
+        "zh": "板；董事会",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "boat",
+    "entries": [
+      {
+        "text": "boat",
+        "ipa": "/boʊt/",
+        "cefr": "A1",
+        "zh": "船",
+        "emoji": "⛵"
+      }
+    ]
+  }
+]

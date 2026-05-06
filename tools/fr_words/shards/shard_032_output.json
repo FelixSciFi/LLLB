@@ -1,0 +1,295 @@
+[
+  {
+    "text": "le loup",
+    "ipa": "lə lu",
+    "translation": {"zh": "狼", "en": "the wolf"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le loup", "lemma": "loup", "ipa": "lə lu", "translation": {"zh": "狼", "en": "wolf"}, "emoji": "🐺"}
+    ]
+  },
+  {
+    "text": "le courrier",
+    "ipa": "lə kuʁje",
+    "translation": {"zh": "邮件", "en": "the mail"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le courrier", "lemma": "courrier", "ipa": "lə kuʁje", "translation": {"zh": "邮件", "en": "mail"}, "emoji": "✉️"}
+    ]
+  },
+  {
+    "text": "ils désignent un chef",
+    "ipa": "il deziɲ œ̃ ʃɛf",
+    "translation": {"zh": "他们指定一位领导", "en": "they appoint a leader"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ils désignent", "lemma": "désigner", "ipa": "il deziɲ", "translation": {"zh": "他们指定", "en": "they appoint"}, "emoji": ""},
+      {"text": "un chef", "lemma": "chef", "ipa": "œ̃ ʃɛf", "translation": {"zh": "领导", "en": "a leader"}, "emoji": "👤"}
+    ]
+  },
+  {
+    "text": "je privilégie la qualité",
+    "ipa": "ʒə pʁivileʒi la kalite",
+    "translation": {"zh": "我优先注重质量", "en": "I prioritize quality"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "je privilégie", "lemma": "privilégier", "ipa": "ʒə pʁivileʒi", "translation": {"zh": "我优先重视", "en": "I prioritize"}, "emoji": ""},
+      {"text": "la qualité", "lemma": "qualité", "ipa": "la kalite", "translation": {"zh": "质量", "en": "quality"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une perte de temps",
+    "ipa": "yn pɛʁt də tɑ̃",
+    "translation": {"zh": "浪费时间", "en": "a waste of time"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une perte", "lemma": "perte", "ipa": "yn pɛʁt", "translation": {"zh": "损失", "en": "a loss"}, "emoji": ""},
+      {"text": "de temps", "lemma": "temps", "ipa": "də tɑ̃", "translation": {"zh": "时间", "en": "of time"}, "emoji": "⏰"}
+    ]
+  },
+  {
+    "text": "les maths",
+    "ipa": "le mat",
+    "translation": {"zh": "数学", "en": "math"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "les maths", "lemma": "maths", "ipa": "le mat", "translation": {"zh": "数学", "en": "math"}, "emoji": "📐"}
+    ]
+  },
+  {
+    "text": "ça bouleverse tout",
+    "ipa": "sa bulvɛʁs tu",
+    "translation": {"zh": "这彻底打乱了一切", "en": "it upsets everything"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ça bouleverse", "lemma": "bouleverser", "ipa": "sa bulvɛʁs", "translation": {"zh": "它打乱", "en": "it upsets"}, "emoji": ""},
+      {"text": "tout", "lemma": "tout", "ipa": "tu", "translation": {"zh": "一切", "en": "everything"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un conte de fées",
+    "ipa": "œ̃ kɔ̃t də fe",
+    "translation": {"zh": "一个童话故事", "en": "a fairy tale"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un conte", "lemma": "conte", "ipa": "œ̃ kɔ̃t", "translation": {"zh": "童话", "en": "a tale"}, "emoji": "📖"},
+      {"text": "de fées", "lemma": "fée", "ipa": "də fe", "translation": {"zh": "仙女", "en": "of fairies"}, "emoji": "🧚"}
+    ]
+  },
+  {
+    "text": "un espace individuel",
+    "ipa": "œ̃n‿ɛspas ɛ̃dividɥɛl",
+    "translation": {"zh": "一个个人空间", "en": "a personal space"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un espace", "lemma": "espace", "ipa": "œ̃n‿ɛspas", "translation": {"zh": "空间", "en": "a space"}, "emoji": ""},
+      {"text": "individuel", "lemma": "individuel", "ipa": "ɛ̃dividɥɛl", "translation": {"zh": "个人的", "en": "personal"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une épreuve difficile",
+    "ipa": "yn epʁœv difisl",
+    "translation": {"zh": "一次艰难的考验", "en": "a difficult test"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une épreuve", "lemma": "épreuve", "ipa": "yn epʁœv", "translation": {"zh": "考验", "en": "a test"}, "emoji": ""},
+      {"text": "difficile", "lemma": "difficile", "ipa": "difisl", "translation": {"zh": "艰难的", "en": "difficult"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "faire de la voile",
+    "ipa": "fɛʁ də la vwal",
+    "translation": {"zh": "去帆船运动", "en": "to go sailing"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "faire", "lemma": "faire", "ipa": "fɛʁ", "translation": {"zh": "做", "en": "to do"}, "emoji": ""},
+      {"text": "de la voile", "lemma": "voile", "ipa": "də la vwal", "translation": {"zh": "帆船运动", "en": "sailing"}, "emoji": "⛵"}
+    ]
+  },
+  {
+    "text": "une bière",
+    "ipa": "yn bjɛʁ",
+    "translation": {"zh": "一杯啤酒", "en": "a beer"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une bière", "lemma": "bière", "ipa": "yn bjɛʁ", "translation": {"zh": "啤酒", "en": "a beer"}, "emoji": "🍺"}
+    ]
+  },
+  {
+    "text": "son statut social",
+    "ipa": "sɔ̃ staty sɔsjal",
+    "translation": {"zh": "他的社会地位", "en": "his social status"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "son statut", "lemma": "statut", "ipa": "sɔ̃ staty", "translation": {"zh": "地位", "en": "his status"}, "emoji": ""},
+      {"text": "social", "lemma": "social", "ipa": "sɔsjal", "translation": {"zh": "社会的", "en": "social"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "ça peut causer des problèmes",
+    "ipa": "sa pø koze de pʁɔblɛm",
+    "translation": {"zh": "这可能会造成问题", "en": "it can cause problems"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ça peut causer", "lemma": "causer", "ipa": "sa pø koze", "translation": {"zh": "可能造成", "en": "it can cause"}, "emoji": ""},
+      {"text": "des problèmes", "lemma": "problème", "ipa": "de pʁɔblɛm", "translation": {"zh": "问题", "en": "problems"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "transporter des bagages",
+    "ipa": "tʁɑ̃spɔʁte de baɡaʒ",
+    "translation": {"zh": "搬运行李", "en": "to carry luggage"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "transporter", "lemma": "transporter", "ipa": "tʁɑ̃spɔʁte", "translation": {"zh": "运输", "en": "to transport"}, "emoji": ""},
+      {"text": "des bagages", "lemma": "bagage", "ipa": "de baɡaʒ", "translation": {"zh": "行李", "en": "luggage"}, "emoji": "🧳"}
+    ]
+  },
+  {
+    "text": "les prix varient",
+    "ipa": "le pʁi vaʁi",
+    "translation": {"zh": "价格各不相同", "en": "prices vary"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "les prix", "lemma": "prix", "ipa": "le pʁi", "translation": {"zh": "价格", "en": "prices"}, "emoji": "💰"},
+      {"text": "varient", "lemma": "varier", "ipa": "vaʁi", "translation": {"zh": "变化", "en": "vary"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une formule magique",
+    "ipa": "yn fɔʁmyl maʒik",
+    "translation": {"zh": "一句魔法咒语", "en": "a magic formula"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une formule", "lemma": "formule", "ipa": "yn fɔʁmyl", "translation": {"zh": "公式", "en": "a formula"}, "emoji": ""},
+      {"text": "magique", "lemma": "magique", "ipa": "maʒik", "translation": {"zh": "魔法的", "en": "magic"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "le ministère de l'éducation",
+    "ipa": "ləministɛʁ də ledykasjɔ̃",
+    "translation": {"zh": "教育部", "en": "the ministry of education"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le ministère", "lemma": "ministère", "ipa": "lə ministɛʁ", "translation": {"zh": "部门", "en": "the ministry"}, "emoji": "🏛️"},
+      {"text": "de l'éducation", "lemma": "éducation", "ipa": "də ledykasjɔ̃", "translation": {"zh": "教育", "en": "of education"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "nourrir un enfant",
+    "ipa": "nuʁiʁ œ̃n‿ɑ̃fɑ̃",
+    "translation": {"zh": "喂养孩子", "en": "to feed a child"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "nourrir", "lemma": "nourrir", "ipa": "nuʁiʁ", "translation": {"zh": "喂养", "en": "to feed"}, "emoji": ""},
+      {"text": "un enfant", "lemma": "enfant", "ipa": "œ̃n‿ɑ̃fɑ̃", "translation": {"zh": "孩子", "en": "a child"}, "emoji": "👶"}
+    ]
+  },
+  {
+    "text": "les pompiers interviennent",
+    "ipa": "le pɔ̃pje ɛ̃tɛʁvjɛn",
+    "translation": {"zh": "消防员进行干预", "en": "the firefighters intervene"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "les pompiers", "lemma": "pompier", "ipa": "le pɔ̃pje", "translation": {"zh": "消防员", "en": "firefighters"}, "emoji": "🚒"},
+      {"text": "interviennent", "lemma": "intervenir", "ipa": "ɛ̃tɛʁvjɛn", "translation": {"zh": "干预", "en": "intervene"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un éditeur de livres",
+    "ipa": "œ̃n‿editœʁ də livʁ",
+    "translation": {"zh": "一位图书出版商", "en": "a book publisher"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un éditeur", "lemma": "éditeur", "ipa": "œ̃n‿editœʁ", "translation": {"zh": "出版商", "en": "a publisher"}, "emoji": ""},
+      {"text": "de livres", "lemma": "livre", "ipa": "də livʁ", "translation": {"zh": "书籍", "en": "of books"}, "emoji": "📚"}
+    ]
+  },
+  {
+    "text": "ça complique les choses",
+    "ipa": "sa kɔ̃plik le ʃoz",
+    "translation": {"zh": "这让事情变得复杂", "en": "it complicates things"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "ça complique", "lemma": "compliquer", "ipa": "sa kɔ̃plik", "translation": {"zh": "使复杂", "en": "it complicates"}, "emoji": ""},
+      {"text": "les choses", "lemma": "chose", "ipa": "le ʃoz", "translation": {"zh": "事情", "en": "things"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "confier un secret",
+    "ipa": "kɔ̃fje œ̃ səkʁɛ",
+    "translation": {"zh": "倾诉一个秘密", "en": "to confide a secret"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "confier", "lemma": "confier", "ipa": "kɔ̃fje", "translation": {"zh": "倾诉", "en": "to confide"}, "emoji": ""},
+      {"text": "un secret", "lemma": "secret", "ipa": "œ̃ səkʁɛ", "translation": {"zh": "秘密", "en": "a secret"}, "emoji": "🤫"}
+    ]
+  },
+  {
+    "text": "une réserve naturelle",
+    "ipa": "yn ʁezɛʁv natyʁɛl",
+    "translation": {"zh": "一个自然保护区", "en": "a nature reserve"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une réserve", "lemma": "réserve", "ipa": "yn ʁezɛʁv", "translation": {"zh": "保护区", "en": "a reserve"}, "emoji": "🌿"},
+      {"text": "naturelle", "lemma": "naturel", "ipa": "natyʁɛl", "translation": {"zh": "自然的", "en": "natural"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "mes grands-parents",
+    "ipa": "me ɡʁɑ̃paʁɑ̃",
+    "translation": {"zh": "我的祖父母", "en": "my grandparents"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "mes grands-parents", "lemma": "grands-parents", "ipa": "me ɡʁɑ̃paʁɑ̃", "translation": {"zh": "祖父母", "en": "grandparents"}, "emoji": "👴👵"}
+    ]
+  },
+  {
+    "text": "une bonne nouvelle",
+    "ipa": "yn bɔn nuvɛl",
+    "translation": {"zh": "一个好消息", "en": "good news"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une bonne nouvelle", "lemma": "nouvelle", "ipa": "yn bɔn nuvɛl", "translation": {"zh": "好消息", "en": "good news"}, "emoji": "🎉"}
+    ]
+  },
+  {
+    "text": "c'est essentiellement vrai",
+    "ipa": "sɛt esɑ̃sjɛlmɑ̃ vʁɛ",
+    "translation": {"zh": "这基本上是真的", "en": "it is essentially true"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "c'est essentiellement", "lemma": "essentiellement", "ipa": "sɛt esɑ̃sjɛlmɑ̃", "translation": {"zh": "基本上是", "en": "it is essentially"}, "emoji": ""},
+      {"text": "vrai", "lemma": "vrai", "ipa": "vʁɛ", "translation": {"zh": "真的", "en": "true"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un ouvrage littéraire",
+    "ipa": "œ̃n‿uvʁaʒ litɛʁɛʁ",
+    "translation": {"zh": "一部文学作品", "en": "a literary work"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un ouvrage", "lemma": "ouvrage", "ipa": "œ̃n‿uvʁaʒ", "translation": {"zh": "作品", "en": "a work"}, "emoji": "📕"},
+      {"text": "littéraire", "lemma": "littéraire", "ipa": "litɛʁɛʁ", "translation": {"zh": "文学的", "en": "literary"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la piscine",
+    "ipa": "la pisin",
+    "translation": {"zh": "游泳池", "en": "the swimming pool"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la piscine", "lemma": "piscine", "ipa": "la pisin", "translation": {"zh": "游泳池", "en": "swimming pool"}, "emoji": "🏊"}
+    ]
+  },
+  {
+    "text": "prendre une initiative",
+    "ipa": "pʁɑ̃dʁ yn initjativ",
+    "translation": {"zh": "采取主动", "en": "to take an initiative"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "prendre", "lemma": "prendre", "ipa": "pʁɑ̃dʁ", "translation": {"zh": "采取", "en": "to take"}, "emoji": ""},
+      {"text": "une initiative", "lemma": "initiative", "ipa": "yn initjativ", "translation": {"zh": "主动行动", "en": "an initiative"}, "emoji": ""}
+    ]
+  }
+]

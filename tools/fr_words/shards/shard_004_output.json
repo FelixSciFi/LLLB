@@ -1,0 +1,272 @@
+[
+  {
+    "text": "il approche",
+    "ipa": "il apʁoʃ",
+    "translation": {"zh": "他靠近", "en": "he approaches"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "il approche", "lemma": "approcher", "ipa": "il apʁoʃ", "translation": {"zh": "他靠近", "en": "he approaches"}, "emoji": "🚶"}
+    ]
+  },
+  {
+    "text": "un client",
+    "ipa": "œ̃ klijɑ̃",
+    "translation": {"zh": "一位顾客", "en": "a customer"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un client", "lemma": "client", "ipa": "œ̃ klijɑ̃", "translation": {"zh": "顾客", "en": "customer"}, "emoji": "🛍️"}
+    ]
+  },
+  {
+    "text": "à cette époque",
+    "ipa": "a sɛt epɔk",
+    "translation": {"zh": "在那个时代", "en": "at that time"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "à cette époque", "lemma": "époque", "ipa": "a sɛt epɔk", "translation": {"zh": "那个时代", "en": "that era"}, "emoji": "🕰️"}
+    ]
+  },
+  {
+    "text": "partout",
+    "ipa": "paʁtu",
+    "translation": {"zh": "到处", "en": "everywhere"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "partout", "lemma": "partout", "ipa": "paʁtu", "translation": {"zh": "到处", "en": "everywhere"}, "emoji": "🌐"}
+    ]
+  },
+  {
+    "text": "il refuse",
+    "ipa": "il ʁəfyz",
+    "translation": {"zh": "他拒绝", "en": "he refuses"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "il refuse", "lemma": "refuser", "ipa": "il ʁəfyz", "translation": {"zh": "他拒绝", "en": "he refuses"}, "emoji": "🚫"}
+    ]
+  },
+  {
+    "text": "il apparaît",
+    "ipa": "il apaʁɛ",
+    "translation": {"zh": "它出现了", "en": "it appears"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "il apparaît", "lemma": "apparaître", "ipa": "il apaʁɛ", "translation": {"zh": "它出现", "en": "it appears"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "un grand nombre",
+    "ipa": "œ̃ ɡʁɑ̃ nɔ̃bʁ",
+    "translation": {"zh": "大量", "en": "a large number"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un grand nombre", "lemma": "nombre", "ipa": "œ̃ ɡʁɑ̃ nɔ̃bʁ", "translation": {"zh": "大量", "en": "large number"}, "emoji": "🔢"}
+    ]
+  },
+  {
+    "text": "cependant",
+    "ipa": "səpɑ̃dɑ̃",
+    "translation": {"zh": "然而", "en": "however"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "cependant", "lemma": "cependant", "ipa": "səpɑ̃dɑ̃", "translation": {"zh": "然而", "en": "however"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la loi",
+    "ipa": "la lwa",
+    "translation": {"zh": "法律", "en": "the law"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "la loi", "lemma": "loi", "ipa": "la lwa", "translation": {"zh": "法律", "en": "the law"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "un journaliste",
+    "ipa": "œ̃ ʒuʁnalist",
+    "translation": {"zh": "一位记者", "en": "a journalist"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un journaliste", "lemma": "journaliste", "ipa": "œ̃ ʒuʁnalist", "translation": {"zh": "记者", "en": "journalist"}, "emoji": "📰"}
+    ]
+  },
+  {
+    "text": "un produit",
+    "ipa": "œ̃ pʁodɥi",
+    "translation": {"zh": "一个产品", "en": "a product"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un produit", "lemma": "produit", "ipa": "œ̃ pʁodɥi", "translation": {"zh": "产品", "en": "product"}, "emoji": "📦"}
+    ]
+  },
+  {
+    "text": "il aperçoit",
+    "ipa": "il apɛʁswa",
+    "translation": {"zh": "他看见了", "en": "he notices"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "il aperçoit", "lemma": "apercevoir", "ipa": "il apɛʁswa", "translation": {"zh": "他看见", "en": "he notices"}, "emoji": "👁️"}
+    ]
+  },
+  {
+    "text": "au fond",
+    "ipa": "o fɔ̃",
+    "translation": {"zh": "在深处", "en": "at the bottom"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "au fond", "lemma": "fond", "ipa": "o fɔ̃", "translation": {"zh": "深处", "en": "at the bottom"}, "emoji": "🔽"}
+    ]
+  },
+  {
+    "text": "l'art",
+    "ipa": "laʁ",
+    "translation": {"zh": "艺术", "en": "art"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "l'art", "lemma": "art", "ipa": "laʁ", "translation": {"zh": "艺术", "en": "art"}, "emoji": "🎨"}
+    ]
+  },
+  {
+    "text": "international",
+    "ipa": "ɛ̃tɛʁnasjɔnal",
+    "translation": {"zh": "国际的", "en": "international"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "international", "lemma": "international", "ipa": "ɛ̃tɛʁnasjɔnal", "translation": {"zh": "国际的", "en": "international"}, "emoji": "🌍"}
+    ]
+  },
+  {
+    "text": "une image",
+    "ipa": "yn imaʒ",
+    "translation": {"zh": "一张图片", "en": "an image"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une image", "lemma": "image", "ipa": "yn imaʒ", "translation": {"zh": "图片", "en": "image"}, "emoji": "🖼️"}
+    ]
+  },
+  {
+    "text": "tant mieux",
+    "ipa": "tɑ̃ mjø",
+    "translation": {"zh": "那就更好了", "en": "so much the better"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "tant mieux", "lemma": "tant", "ipa": "tɑ̃ mjø", "translation": {"zh": "那就好", "en": "all the better"}, "emoji": "👍"}
+    ]
+  },
+  {
+    "text": "il réalise",
+    "ipa": "il ʁealize",
+    "translation": {"zh": "他意识到", "en": "he realizes"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "il réalise", "lemma": "réaliser", "ipa": "il ʁealize", "translation": {"zh": "他意识到", "en": "he realizes"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "autant",
+    "ipa": "otɑ̃",
+    "translation": {"zh": "同样多", "en": "as much"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "autant", "lemma": "autant", "ipa": "otɑ̃", "translation": {"zh": "同样多", "en": "as much"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "il frappe",
+    "ipa": "il fʁap",
+    "translation": {"zh": "他敲打", "en": "he knocks"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "il frappe", "lemma": "frapper", "ipa": "il fʁap", "translation": {"zh": "他敲打", "en": "he knocks"}, "emoji": "✊"}
+    ]
+  },
+  {
+    "text": "la mer",
+    "ipa": "la mɛʁ",
+    "translation": {"zh": "大海", "en": "the sea"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la mer", "lemma": "mer", "ipa": "la mɛʁ", "translation": {"zh": "大海", "en": "the sea"}, "emoji": "🌊"}
+    ]
+  },
+  {
+    "text": "un rapport",
+    "ipa": "œ̃ ʁapɔʁ",
+    "translation": {"zh": "一份报告", "en": "a report"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un rapport", "lemma": "rapport", "ipa": "œ̃ ʁapɔʁ", "translation": {"zh": "报告", "en": "report"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "il accepte",
+    "ipa": "il aksɛpt",
+    "translation": {"zh": "他接受", "en": "he accepts"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "il accepte", "lemma": "accepter", "ipa": "il aksɛpt", "translation": {"zh": "他接受", "en": "he accepts"}, "emoji": "✅"}
+    ]
+  },
+  {
+    "text": "un regard",
+    "ipa": "œ̃ ʁəɡaʁ",
+    "translation": {"zh": "一个眼神", "en": "a look"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un regard", "lemma": "regard", "ipa": "œ̃ ʁəɡaʁ", "translation": {"zh": "眼神", "en": "a look"}, "emoji": "👀"}
+    ]
+  },
+  {
+    "text": "le développement",
+    "ipa": "lə devlɔpmɑ̃",
+    "translation": {"zh": "发展", "en": "development"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le développement", "lemma": "développement", "ipa": "lə devlɔpmɑ̃", "translation": {"zh": "发展", "en": "development"}, "emoji": "📈"}
+    ]
+  },
+  {
+    "text": "la reine",
+    "ipa": "la ʁɛn",
+    "translation": {"zh": "王后", "en": "the queen"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la reine", "lemma": "reine", "ipa": "la ʁɛn", "translation": {"zh": "王后", "en": "queen"}, "emoji": "👑"}
+    ]
+  },
+  {
+    "text": "un instant",
+    "ipa": "œ̃ ɛ̃stɑ̃",
+    "translation": {"zh": "一瞬间", "en": "a moment"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un instant", "lemma": "instant", "ipa": "œ̃ ɛ̃stɑ̃", "translation": {"zh": "一瞬间", "en": "a moment"}, "emoji": "⏱️"}
+    ]
+  },
+  {
+    "text": "il lance",
+    "ipa": "il lɑ̃s",
+    "translation": {"zh": "他抛出", "en": "he throws"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "il lance", "lemma": "lancer", "ipa": "il lɑ̃s", "translation": {"zh": "他抛出", "en": "he throws"}, "emoji": "🏹"}
+    ]
+  },
+  {
+    "text": "il mène",
+    "ipa": "il mɛn",
+    "translation": {"zh": "他带领", "en": "he leads"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "il mène", "lemma": "mener", "ipa": "il mɛn", "translation": {"zh": "他带领", "en": "he leads"}, "emoji": "🧭"}
+    ]
+  },
+  {
+    "text": "or",
+    "ipa": "ɔʁ",
+    "translation": {"zh": "然而", "en": "now"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "or", "lemma": "or", "ipa": "ɔʁ", "translation": {"zh": "然而", "en": "now"}, "emoji": ""}
+    ]
+  }
+]

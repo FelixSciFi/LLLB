@@ -1,0 +1,232 @@
+[
+  {
+    "input_word": "unpleasant",
+    "entries": [
+      {
+        "text": "unpleasant",
+        "ipa": "/ʌnˈplɛzənt/",
+        "cefr": "B1",
+        "zh": "令人不快的",
+        "emoji": "😣"
+      }
+    ]
+  },
+  {
+    "input_word": "until",
+    "entries": []
+  },
+  {
+    "input_word": "unusual",
+    "entries": [
+      {
+        "text": "unusual",
+        "ipa": "/ʌnˈjuːʒuəl/",
+        "cefr": "A2",
+        "zh": "不寻常的",
+        "emoji": "🦄"
+      }
+    ]
+  },
+  {
+    "input_word": "up",
+    "entries": [
+      {
+        "text": "up",
+        "ipa": "/ʌp/",
+        "cefr": "A1",
+        "zh": "向上",
+        "emoji": "⬆️"
+      }
+    ]
+  },
+  {
+    "input_word": "update",
+    "entries": [
+      {
+        "text": "update",
+        "ipa": "/ˈʌpdeɪt/",
+        "cefr": "B1",
+        "zh": "更新",
+        "emoji": "🔄"
+      }
+    ]
+  },
+  {
+    "input_word": "upon",
+    "entries": []
+  },
+  {
+    "input_word": "upper",
+    "entries": [
+      {
+        "text": "upper",
+        "ipa": "/ˈʌpər/",
+        "cefr": "B2",
+        "zh": "上面的",
+        "emoji": "🔝"
+      }
+    ]
+  },
+  {
+    "input_word": "upset",
+    "entries": [
+      {
+        "text": "upset",
+        "ipa": "/ʌpˈsɛt/",
+        "cefr": "B1",
+        "zh": "沮丧的",
+        "emoji": "😢"
+      },
+      {
+        "text": "upset",
+        "ipa": "/ʌpˈsɛt/",
+        "cefr": "B1",
+        "zh": "使不安",
+        "emoji": "😟"
+      }
+    ]
+  },
+  {
+    "input_word": "upstairs",
+    "entries": [
+      {
+        "text": "upstairs",
+        "ipa": "/ˌʌpˈstɛrz/",
+        "cefr": "A1",
+        "zh": "楼上",
+        "emoji": "🏠"
+      }
+    ]
+  },
+  {
+    "input_word": "upwards",
+    "entries": [
+      {
+        "text": "upwards",
+        "ipa": "/ˈʌpwərdz/",
+        "cefr": "B2",
+        "zh": "向上地",
+        "emoji": "⬆️"
+      }
+    ]
+  },
+  {
+    "input_word": "urban",
+    "entries": [
+      {
+        "text": "urban",
+        "ipa": "/ˈɜːrbən/",
+        "cefr": "B2",
+        "zh": "城市的",
+        "emoji": "🏙️"
+      }
+    ]
+  },
+  {
+    "input_word": "urge",
+    "entries": [
+      {
+        "text": "urge",
+        "ipa": "/ɜːrdʒ/",
+        "cefr": "B2",
+        "zh": "冲动",
+        "emoji": "💭"
+      },
+      {
+        "text": "urge",
+        "ipa": "/ɜːrdʒ/",
+        "cefr": "B2",
+        "zh": "敦促",
+        "emoji": "📢"
+      }
+    ]
+  },
+  {
+    "input_word": "us",
+    "entries": []
+  },
+  {
+    "input_word": "use",
+    "entries": [
+      {
+        "text": "use",
+        "ipa": "/juːz/",
+        "cefr": "A1",
+        "zh": "使用",
+        "emoji": "🔧"
+      }
+    ]
+  },
+  {
+    "input_word": "used",
+    "entries": [
+      {
+        "text": "used",
+        "ipa": "/juːzd/",
+        "cefr": "B1",
+        "zh": "习惯于",
+        "emoji": "✅"
+      }
+    ]
+  },
+  {
+    "input_word": "used to",
+    "entries": [
+      {
+        "text": "used to",
+        "ipa": "/ˈjuːst tə/",
+        "cefr": "A2",
+        "zh": "曾经",
+        "emoji": "⏳"
+      }
+    ]
+  },
+  {
+    "input_word": "useful",
+    "entries": [
+      {
+        "text": "useful",
+        "ipa": "/ˈjuːsfəl/",
+        "cefr": "A1",
+        "zh": "有用的",
+        "emoji": "👍"
+      }
+    ]
+  },
+  {
+    "input_word": "user",
+    "entries": [
+      {
+        "text": "user",
+        "ipa": "/ˈjuːzər/",
+        "cefr": "A2",
+        "zh": "用户",
+        "emoji": "👤"
+      }
+    ]
+  },
+  {
+    "input_word": "usual",
+    "entries": [
+      {
+        "text": "usual",
+        "ipa": "/ˈjuːʒuəl/",
+        "cefr": "A2",
+        "zh": "通常的",
+        "emoji": "📅"
+      }
+    ]
+  },
+  {
+    "input_word": "usually",
+    "entries": [
+      {
+        "text": "usually",
+        "ipa": "/ˈjuːʒuəli/",
+        "cefr": "A1",
+        "zh": "通常",
+        "emoji": "🔁"
+      }
+    ]
+  }
+]

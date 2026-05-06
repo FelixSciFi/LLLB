@@ -1,0 +1,283 @@
+[
+  {
+    "text": "la crèche",
+    "ipa": "la kʁɛʃ",
+    "translation": {"zh": "托儿所", "en": "daycare / nursery"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "la crèche", "lemma": "crèche", "ipa": "la kʁɛʃ", "translation": {"zh": "托儿所", "en": "daycare"}, "emoji": "🍼"}
+    ]
+  },
+  {
+    "text": "une enveloppe",
+    "ipa": "yn ɑ̃vlɔp",
+    "translation": {"zh": "一个信封", "en": "an envelope"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une enveloppe", "lemma": "enveloppe", "ipa": "yn ɑ̃vlɔp", "translation": {"zh": "信封", "en": "envelope"}, "emoji": "✉️"}
+    ]
+  },
+  {
+    "text": "il dévore son repas",
+    "ipa": "il devɔʁ sɔ̃ ʁəpa",
+    "translation": {"zh": "他狼吞虎咽地吃饭", "en": "he devours his meal"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "il dévore", "lemma": "dévorer", "ipa": "il devɔʁ", "translation": {"zh": "他狼吞虎咽", "en": "he devours"}, "emoji": "😋"},
+      {"text": "son repas", "lemma": "repas", "ipa": "sɔ̃ ʁəpa", "translation": {"zh": "他的饭", "en": "his meal"}, "emoji": "🍽️"}
+    ]
+  },
+  {
+    "text": "un délinquant",
+    "ipa": "œ̃ delɛ̃kɑ̃",
+    "translation": {"zh": "一个违法者", "en": "a delinquent"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un délinquant", "lemma": "délinquant", "ipa": "œ̃ delɛ̃kɑ̃", "translation": {"zh": "违法者", "en": "delinquent"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "au contraire",
+    "ipa": "o kɔ̃tʁɛʁ",
+    "translation": {"zh": "相反", "en": "on the contrary"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "au contraire", "lemma": "contraire", "ipa": "o kɔ̃tʁɛʁ", "translation": {"zh": "相反", "en": "on the contrary"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "c'est valable",
+    "ipa": "sɛ valabl",
+    "translation": {"zh": "这是有效的", "en": "it's valid"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "c'est valable", "lemma": "valable", "ipa": "sɛ valabl", "translation": {"zh": "有效的", "en": "valid"}, "emoji": "✅"}
+    ]
+  },
+  {
+    "text": "illuminer la pièce",
+    "ipa": "ilymine la pjɛs",
+    "translation": {"zh": "照亮房间", "en": "to illuminate the room"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "illuminer", "lemma": "illuminer", "ipa": "ilymine", "translation": {"zh": "照亮", "en": "illuminate"}, "emoji": "💡"},
+      {"text": "la pièce", "lemma": "pièce", "ipa": "la pjɛs", "translation": {"zh": "房间", "en": "room"}, "emoji": "🏠"}
+    ]
+  },
+  {
+    "text": "un carnet",
+    "ipa": "œ̃ kaʁnɛ",
+    "translation": {"zh": "一本小册子", "en": "a notebook"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un carnet", "lemma": "carnet", "ipa": "œ̃ kaʁnɛ", "translation": {"zh": "小册子", "en": "notebook"}, "emoji": "📓"}
+    ]
+  },
+  {
+    "text": "des protéines",
+    "ipa": "de pʁɔtein",
+    "translation": {"zh": "蛋白质", "en": "proteins"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "des protéines", "lemma": "protéine", "ipa": "de pʁɔtein", "translation": {"zh": "蛋白质", "en": "proteins"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "clairement dit",
+    "ipa": "klɛʁəmɑ̃ di",
+    "translation": {"zh": "说得清楚", "en": "clearly stated"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "clairement", "lemma": "clairement", "ipa": "klɛʁəmɑ̃", "translation": {"zh": "清楚地", "en": "clearly"}, "emoji": ""},
+      {"text": "dit", "lemma": "dire", "ipa": "di", "translation": {"zh": "说", "en": "said"}, "emoji": "💬"}
+    ]
+  },
+  {
+    "text": "un incident",
+    "ipa": "œ̃ɛ̃sidɑ̃",
+    "translation": {"zh": "一起事故", "en": "an incident"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un incident", "lemma": "incident", "ipa": "œ̃ ɛ̃sidɑ̃", "translation": {"zh": "事故", "en": "incident"}, "emoji": "⚠️"}
+    ]
+  },
+  {
+    "text": "avec certitude",
+    "ipa": "avɛk sɛʁtityd",
+    "translation": {"zh": "确定地", "en": "with certainty"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "avec certitude", "lemma": "certitude", "ipa": "avɛk sɛʁtityd", "translation": {"zh": "确定", "en": "with certainty"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une hypothèse",
+    "ipa": "yn ipɔtɛz",
+    "translation": {"zh": "一个假设", "en": "a hypothesis"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une hypothèse", "lemma": "hypothèse", "ipa": "yn ipɔtɛz", "translation": {"zh": "假设", "en": "hypothesis"}, "emoji": "🔬"}
+    ]
+  },
+  {
+    "text": "se vêtir chaudement",
+    "ipa": "sə vetiʁ ʃodmɑ̃",
+    "translation": {"zh": "穿得暖和", "en": "to dress warmly"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "se vêtir", "lemma": "vêtir", "ipa": "sə vetiʁ", "translation": {"zh": "穿衣", "en": "dress oneself"}, "emoji": "👗"},
+      {"text": "chaudement", "lemma": "chaudement", "ipa": "ʃodmɑ̃", "translation": {"zh": "暖和地", "en": "warmly"}, "emoji": "🧥"}
+    ]
+  },
+  {
+    "text": "la prévention",
+    "ipa": "la pʁevɑ̃sjɔ̃",
+    "translation": {"zh": "预防", "en": "prevention"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la prévention", "lemma": "prévention", "ipa": "la pʁevɑ̃sjɔ̃", "translation": {"zh": "预防", "en": "prevention"}, "emoji": "🛡️"}
+    ]
+  },
+  {
+    "text": "le secteur audiovisuel",
+    "ipa": "lə sɛktœʁ odjovizɥɛl",
+    "translation": {"zh": "影视行业", "en": "the audiovisual sector"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le secteur", "lemma": "secteur", "ipa": "lə sɛktœʁ", "translation": {"zh": "行业", "en": "sector"}, "emoji": ""},
+      {"text": "audiovisuel", "lemma": "audiovisuel", "ipa": "odjovizɥɛl", "translation": {"zh": "影视的", "en": "audiovisual"}, "emoji": "📺"}
+    ]
+  },
+  {
+    "text": "un rocher",
+    "ipa": "œ̃ ʁɔʃe",
+    "translation": {"zh": "一块岩石", "en": "a rock"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un rocher", "lemma": "rocher", "ipa": "œ̃ ʁɔʃe", "translation": {"zh": "岩石", "en": "rock"}, "emoji": "🪨"}
+    ]
+  },
+  {
+    "text": "une panne mécanique",
+    "ipa": "yn pan mekanik",
+    "translation": {"zh": "机械故障", "en": "a mechanical breakdown"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une panne", "lemma": "panne", "ipa": "yn pan", "translation": {"zh": "故障", "en": "breakdown"}, "emoji": "🔧"},
+      {"text": "mécanique", "lemma": "mécanique", "ipa": "mekanik", "translation": {"zh": "机械的", "en": "mechanical"}, "emoji": "⚙️"}
+    ]
+  },
+  {
+    "text": "au galop",
+    "ipa": "o ɡalo",
+    "translation": {"zh": "飞奔", "en": "at a gallop"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "au galop", "lemma": "galop", "ipa": "o ɡalo", "translation": {"zh": "飞奔", "en": "at a gallop"}, "emoji": "🐎"}
+    ]
+  },
+  {
+    "text": "une perle",
+    "ipa": "yn pɛʁl",
+    "translation": {"zh": "一颗珍珠", "en": "a pearl"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une perle", "lemma": "perle", "ipa": "yn pɛʁl", "translation": {"zh": "珍珠", "en": "pearl"}, "emoji": "💎"}
+    ]
+  },
+  {
+    "text": "un procédé simple",
+    "ipa": "œ̃ pʁɔsede sɛ̃pl",
+    "translation": {"zh": "一种简单的方法", "en": "a simple process"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un procédé", "lemma": "procédé", "ipa": "œ̃ pʁɔsede", "translation": {"zh": "方法", "en": "process"}, "emoji": ""},
+      {"text": "simple", "lemma": "simple", "ipa": "sɛ̃pl", "translation": {"zh": "简单的", "en": "simple"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "écouter la radio",
+    "ipa": "ekute la ʁadjo",
+    "translation": {"zh": "听广播", "en": "to listen to the radio"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "écouter", "lemma": "écouter", "ipa": "ekute", "translation": {"zh": "听", "en": "listen to"}, "emoji": "👂"},
+      {"text": "la radio", "lemma": "radio", "ipa": "la ʁadjo", "translation": {"zh": "广播", "en": "the radio"}, "emoji": "📻"}
+    ]
+  },
+  {
+    "text": "il est exilé",
+    "ipa": "il ɛ tɛɡzile",
+    "translation": {"zh": "他被流放", "en": "he is exiled"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il est exilé", "lemma": "exiler", "ipa": "il ɛ tɛɡzile", "translation": {"zh": "他被流放", "en": "he is exiled"}, "emoji": "🌍"}
+    ]
+  },
+  {
+    "text": "nu-pieds",
+    "ipa": "ny pje",
+    "translation": {"zh": "赤脚", "en": "barefoot"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "nu-pieds", "lemma": "nu", "ipa": "ny pje", "translation": {"zh": "赤脚", "en": "barefoot"}, "emoji": "🦶"}
+    ]
+  },
+  {
+    "text": "un polluant",
+    "ipa": "œ̃ pɔlyɑ̃",
+    "translation": {"zh": "一种污染物", "en": "a pollutant"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un polluant", "lemma": "polluant", "ipa": "œ̃ pɔlyɑ̃", "translation": {"zh": "污染物", "en": "pollutant"}, "emoji": "🏭"}
+    ]
+  },
+  {
+    "text": "rendre hommage",
+    "ipa": "ʁɑ̃dʁ ɔmaʒ",
+    "translation": {"zh": "致敬", "en": "to pay tribute"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "rendre", "lemma": "rendre", "ipa": "ʁɑ̃dʁ", "translation": {"zh": "给予", "en": "pay"}, "emoji": ""},
+      {"text": "hommage", "lemma": "hommage", "ipa": "ɔmaʒ", "translation": {"zh": "致敬", "en": "tribute"}, "emoji": "🎖️"}
+    ]
+  },
+  {
+    "text": "un volontaire",
+    "ipa": "œ̃ vɔlɔ̃tɛʁ",
+    "translation": {"zh": "一名志愿者", "en": "a volunteer"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un volontaire", "lemma": "volontaire", "ipa": "œ̃ vɔlɔ̃tɛʁ", "translation": {"zh": "志愿者", "en": "volunteer"}, "emoji": "🙋"}
+    ]
+  },
+  {
+    "text": "un bûcheron",
+    "ipa": "œ̃ byʃʁɔ̃",
+    "translation": {"zh": "一名伐木工", "en": "a lumberjack"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un bûcheron", "lemma": "bûcheron", "ipa": "œ̃ byʃʁɔ̃", "translation": {"zh": "伐木工", "en": "lumberjack"}, "emoji": "🪓"}
+    ]
+  },
+  {
+    "text": "masquer la vérité",
+    "ipa": "maske la veʁite",
+    "translation": {"zh": "掩盖真相", "en": "to hide the truth"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "masquer", "lemma": "masquer", "ipa": "maske", "translation": {"zh": "掩盖", "en": "hide"}, "emoji": "🎭"},
+      {"text": "la vérité", "lemma": "vérité", "ipa": "la veʁite", "translation": {"zh": "真相", "en": "the truth"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "élaborer un plan",
+    "ipa": "elaboʁe œ̃ plɑ̃",
+    "translation": {"zh": "制定一个计划", "en": "to develop a plan"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "élaborer", "lemma": "élaborer", "ipa": "elaboʁe", "translation": {"zh": "制定", "en": "develop"}, "emoji": "📋"},
+      {"text": "un plan", "lemma": "plan", "ipa": "œ̃ plɑ̃", "translation": {"zh": "计划", "en": "a plan"}, "emoji": ""}
+    ]
+  }
+]

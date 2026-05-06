@@ -1,0 +1,234 @@
+[
+  {
+    "id": "64a914a2-e62c-43cf-bdbe-a566072d8ebb",
+    "text": "最后他还是回来了。",
+    "ipa": "zuì hòu tā hái shì huí lái le",
+    "translation": {
+      "zh": "最后他还是回来了。",
+      "en": "In the end, he came back after all."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "最后",
+        "lemma": "最后",
+        "ipa": "zuì hòu",
+        "translation": {
+          "zh": "最后",
+          "en": "in the end / finally"
+        },
+        "emoji": "🏁"
+      },
+      {
+        "text": "他还是",
+        "lemma": "他还是",
+        "ipa": "tā hái shì",
+        "translation": {
+          "zh": "他还是",
+          "en": "he still / he after all"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "回来了",
+        "lemma": "回来了",
+        "ipa": "huí lái le",
+        "translation": {
+          "zh": "回来了",
+          "en": "came back"
+        },
+        "emoji": "↩️"
+      }
+    ]
+  },
+  {
+    "id": "c04fcee8-e168-4b14-a9df-ed4c2e069e8b",
+    "text": "她是班里最后离开的。",
+    "ipa": "tā shì bān lǐ zuì hòu lí kāi de",
+    "translation": {
+      "zh": "她是班里最后离开的。",
+      "en": "She was the last one in the class to leave."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "她是",
+        "lemma": "她是",
+        "ipa": "tā shì",
+        "translation": {
+          "zh": "她是",
+          "en": "she is / she was"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "班里",
+        "lemma": "班里",
+        "ipa": "bān lǐ",
+        "translation": {
+          "zh": "班里",
+          "en": "in the class"
+        },
+        "emoji": "🏫"
+      },
+      {
+        "text": "最后离开的",
+        "lemma": "最后离开的",
+        "ipa": "zuì hòu lí kāi de",
+        "translation": {
+          "zh": "最后离开的",
+          "en": "the last to leave"
+        },
+        "emoji": "🚪"
+      }
+    ]
+  },
+  {
+    "id": "33ae7a05-f25a-4a19-8eb5-754399d3e05f",
+    "text": "最近天气越来越热了。",
+    "ipa": "zuì jìn tiān qì yuè lái yuè rè le",
+    "translation": {
+      "zh": "最近天气越来越热了。",
+      "en": "The weather has been getting hotter and hotter lately."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "最近",
+        "lemma": "最近",
+        "ipa": "zuì jìn",
+        "translation": {
+          "zh": "最近",
+          "en": "recently / lately"
+        },
+        "emoji": "📅"
+      },
+      {
+        "text": "天气",
+        "lemma": "天气",
+        "ipa": "tiān qì",
+        "translation": {
+          "zh": "天气",
+          "en": "weather"
+        },
+        "emoji": "🌤️"
+      },
+      {
+        "text": "越来越热了",
+        "lemma": "越来越热了",
+        "ipa": "yuè lái yuè rè le",
+        "translation": {
+          "zh": "越来越热了",
+          "en": "getting hotter and hotter"
+        },
+        "emoji": "🥵"
+      }
+    ]
+  },
+  {
+    "id": "066547b3-3758-48b4-b64b-bf6656cf36b7",
+    "text": "他最近工作很忙。",
+    "ipa": "tā zuì jìn gōng zuò hěn máng",
+    "translation": {
+      "zh": "他最近工作很忙。",
+      "en": "He has been very busy with work lately."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他最近",
+        "lemma": "他最近",
+        "ipa": "tā zuì jìn",
+        "translation": {
+          "zh": "他最近",
+          "en": "he recently / he lately"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "工作很忙",
+        "lemma": "工作很忙",
+        "ipa": "gōng zuò hěn máng",
+        "translation": {
+          "zh": "工作很忙",
+          "en": "very busy with work"
+        },
+        "emoji": "💼"
+      }
+    ]
+  },
+  {
+    "id": "e07e9f8d-0dd0-419f-b4bf-56e1fe213052",
+    "text": "我还没做完作业。",
+    "ipa": "wǒ hái méi zuò wán zuò yè",
+    "translation": {
+      "zh": "我还没做完作业。",
+      "en": "I haven't finished my homework yet."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我还没做完",
+        "lemma": "我还没做完",
+        "ipa": "wǒ hái méi zuò wán",
+        "translation": {
+          "zh": "我还没做完",
+          "en": "I haven't finished yet"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "作业",
+        "lemma": "作业",
+        "ipa": "zuò yè",
+        "translation": {
+          "zh": "作业",
+          "en": "homework / assignment"
+        },
+        "emoji": "📝"
+      }
+    ]
+  },
+  {
+    "id": "f7eb5879-6c45-4399-aec2-3c04a59332bd",
+    "text": "老师今天留了很多作业。",
+    "ipa": "lǎo shī jīn tiān liú le hěn duō zuò yè",
+    "translation": {
+      "zh": "老师今天留了很多作业。",
+      "en": "The teacher assigned a lot of homework today."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "老师",
+        "lemma": "老师",
+        "ipa": "lǎo shī",
+        "translation": {
+          "zh": "老师",
+          "en": "teacher"
+        },
+        "emoji": "👩‍🏫"
+      },
+      {
+        "text": "今天",
+        "lemma": "今天",
+        "ipa": "jīn tiān",
+        "translation": {
+          "zh": "今天",
+          "en": "today"
+        },
+        "emoji": "📅"
+      },
+      {
+        "text": "留了很多作业",
+        "lemma": "留了很多作业",
+        "ipa": "liú le hěn duō zuò yè",
+        "translation": {
+          "zh": "留了很多作业",
+          "en": "assigned a lot of homework"
+        },
+        "emoji": "📚"
+      }
+    ]
+  }
+]

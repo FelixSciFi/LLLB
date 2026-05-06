@@ -1,0 +1,61 @@
+[
+  {
+    "text": "La petite ville de Verrières peut passer pour l'une des plus jolies",
+    "ipa": "la pətit vil də vɛʁjɛʁ pø pase puʁ lyn de ply ʒɔli",
+    "translation": {
+      "zh": "维里埃这座小城可算得上最美的之一",
+      "en": "The little town of Verrières may pass for one of the prettiest"
+    },
+    "cefr": "C2",
+    "tokens": [
+      {"text": "La petite ville", "lemma": "ville", "ipa": "la pətit vil", "translation": {"zh": "小城", "en": "little town"}, "emoji": "🏘️"},
+      {"text": "de Verrières", "lemma": "Verrières", "ipa": "də vɛʁjɛʁ", "translation": {"zh": "维里埃的", "en": "of Verrières"}, "emoji": "📍"},
+      {"text": "peut passer", "lemma": "passer", "ipa": "pø pase", "translation": {"zh": "可算作", "en": "may pass"}, "emoji": "✨"},
+      {"text": "pour l'une des plus jolies", "lemma": "joli", "ipa": "puʁ lyn de ply ʒɔli", "translation": {"zh": "为最美之一", "en": "for one of the prettiest"}, "emoji": "🌸"}
+    ],
+    "tags": [{"name": "Le Rouge et le Noir", "index": 0}]
+  },
+  {
+    "text": "de la Franche-Comté",
+    "ipa": "də la fʁɑ̃ʃ kɔ̃te",
+    "translation": {
+      "zh": "弗朗什-孔泰地区的",
+      "en": "of Franche-Comté"
+    },
+    "cefr": "C2",
+    "tokens": [
+      {"text": "de la Franche-Comté", "lemma": "Franche-Comté", "ipa": "də la fʁɑ̃ʃ kɔ̃te", "translation": {"zh": "弗朗什-孔泰", "en": "Franche-Comté"}, "emoji": "🗺️"}
+    ],
+    "tags": [{"name": "Le Rouge et le Noir", "index": 1}]
+  },
+  {
+    "text": "Ses maisons blanches avec leurs toits pointus de tuiles rouges",
+    "ipa": "se mɛzɔ̃ blɑ̃ʃ avɛk lœʁ twa pwɛ̃ty də tɥil ʁuʒ",
+    "translation": {
+      "zh": "白色的房屋顶着红瓦的尖屋顶",
+      "en": "Its white houses with their pointed roofs of red tiles"
+    },
+    "cefr": "C2",
+    "tokens": [
+      {"text": "Ses maisons blanches", "lemma": "maison", "ipa": "se mɛzɔ̃ blɑ̃ʃ", "translation": {"zh": "白房屋", "en": "white houses"}, "emoji": "🏠"},
+      {"text": "avec leurs toits pointus", "lemma": "toit", "ipa": "avɛk lœʁ twa pwɛ̃ty", "translation": {"zh": "尖屋顶", "en": "pointed roofs"}, "emoji": "🔺"},
+      {"text": "de tuiles rouges", "lemma": "tuile", "ipa": "də tɥil ʁuʒ", "translation": {"zh": "红瓦的", "en": "of red tiles"}, "emoji": "🧱"}
+    ],
+    "tags": [{"name": "Le Rouge et le Noir", "index": 2}]
+  },
+  {
+    "text": "s'étendent sur la pente d'une colline",
+    "ipa": "setɑ̃d syʁ la pɑ̃t dyn kɔlin",
+    "translation": {
+      "zh": "在山坡上铺展开来",
+      "en": "spread out over the slope of a hill"
+    },
+    "cefr": "C2",
+    "tokens": [
+      {"text": "s'étendent", "lemma": "s'étendre", "ipa": "setɑ̃d", "translation": {"zh": "铺展", "en": "spread out"}, "emoji": "📏"},
+      {"text": "sur la pente", "lemma": "pente", "ipa": "syʁ la pɑ̃t", "translation": {"zh": "在斜坡上", "en": "on the slope"}, "emoji": "📐"},
+      {"text": "d'une colline", "lemma": "colline", "ipa": "dyn kɔlin", "translation": {"zh": "一座山的", "en": "of a hill"}, "emoji": "⛰️"}
+    ],
+    "tags": [{"name": "Le Rouge et le Noir", "index": 3}]
+  }
+]

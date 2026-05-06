@@ -1,0 +1,187 @@
+[
+  {
+    "input_text": "哎",
+    "entries": [
+      {"text": "哎", "pinyin": "āi", "en": "hey; oh", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "唉",
+    "entries": [
+      {"text": "唉", "pinyin": "āi", "en": "alas; sigh", "emoji": "😔"}
+    ]
+  },
+  {
+    "input_text": "爱护",
+    "entries": [
+      {"text": "爱护", "pinyin": "ài hù", "en": "to care for", "emoji": "🤲"}
+    ]
+  },
+  {
+    "input_text": "爱惜",
+    "entries": [
+      {"text": "爱惜", "pinyin": "ài xī", "en": "to treasure; cherish", "emoji": "💎"}
+    ]
+  },
+  {
+    "input_text": "爱心",
+    "entries": [
+      {"text": "爱心", "pinyin": "ài xīn", "en": "compassion; loving heart", "emoji": "❤️"}
+    ]
+  },
+  {
+    "input_text": "安慰",
+    "entries": [
+      {"text": "安慰", "pinyin": "ān wèi", "en": "to comfort; console", "emoji": "🫂"}
+    ]
+  },
+  {
+    "input_text": "安装",
+    "entries": [
+      {"text": "安装", "pinyin": "ān zhuāng", "en": "to install; set up", "emoji": "🔧"}
+    ]
+  },
+  {
+    "input_text": "岸",
+    "entries": [
+      {"text": "岸", "pinyin": "àn", "en": "shore; bank", "emoji": "🏖️"}
+    ]
+  },
+  {
+    "input_text": "暗",
+    "entries": [
+      {"text": "暗", "pinyin": "àn", "en": "dark; dim", "emoji": "🌑"}
+    ]
+  },
+  {
+    "input_text": "熬夜",
+    "entries": [
+      {"text": "熬夜", "pinyin": "áo yè", "en": "to stay up late", "emoji": "🌙"}
+    ]
+  },
+  {
+    "input_text": "把握",
+    "entries": [
+      {"text": "把握", "pinyin": "bǎ wò", "en": "to grasp; seize", "emoji": "✊"},
+      {"text": "把握", "pinyin": "bǎ wò", "en": "confidence; certainty", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "摆",
+    "entries": [
+      {"text": "摆", "pinyin": "bǎi", "en": "to place; arrange", "emoji": ""},
+      {"text": "摆", "pinyin": "bǎi", "en": "to swing; sway", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "办理",
+    "entries": [
+      {"text": "办理", "pinyin": "bàn lǐ", "en": "to handle; process", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_text": "傍晚",
+    "entries": [
+      {"text": "傍晚", "pinyin": "bàng wǎn", "en": "dusk; early evening", "emoji": "🌆"}
+    ]
+  },
+  {
+    "input_text": "包裹",
+    "entries": [
+      {"text": "包裹", "pinyin": "bāo guǒ", "en": "package; parcel", "emoji": "📦"}
+    ]
+  },
+  {
+    "input_text": "包含",
+    "entries": [
+      {"text": "包含", "pinyin": "bāo hán", "en": "to contain; include", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "包括",
+    "entries": [
+      {"text": "包括", "pinyin": "bāo kuò", "en": "to include; comprise", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "薄",
+    "entries": [
+      {"text": "薄", "pinyin": "báo", "en": "thin; flimsy", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "宝贝",
+    "entries": [
+      {"text": "宝贝", "pinyin": "bǎo bèi", "en": "treasure; darling", "emoji": "💝"}
+    ]
+  },
+  {
+    "input_text": "宝贵",
+    "entries": [
+      {"text": "宝贵", "pinyin": "bǎo guì", "en": "precious; valuable", "emoji": "💎"}
+    ]
+  },
+  {
+    "input_text": "保持",
+    "entries": [
+      {"text": "保持", "pinyin": "bǎo chí", "en": "to maintain; keep", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "保存",
+    "entries": [
+      {"text": "保存", "pinyin": "bǎo cún", "en": "to save; preserve", "emoji": "💾"}
+    ]
+  },
+  {
+    "input_text": "保留",
+    "entries": [
+      {"text": "保留", "pinyin": "bǎo liú", "en": "to retain; keep", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "保险",
+    "entries": [
+      {"text": "保险", "pinyin": "bǎo xiǎn", "en": "insurance", "emoji": "🛡️"},
+      {"text": "保险", "pinyin": "bǎo xiǎn", "en": "safe; reliable", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "报到",
+    "entries": [
+      {"text": "报到", "pinyin": "bào dào", "en": "to check in; register", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_text": "报道",
+    "entries": [
+      {"text": "报道", "pinyin": "bào dào", "en": "news report; coverage", "emoji": "📰"}
+    ]
+  },
+  {
+    "input_text": "报告",
+    "entries": [
+      {"text": "报告", "pinyin": "bào gào", "en": "report; presentation", "emoji": "📊"}
+    ]
+  },
+  {
+    "input_text": "报社",
+    "entries": [
+      {"text": "报社", "pinyin": "bào shè", "en": "newspaper office", "emoji": "🏢"}
+    ]
+  },
+  {
+    "input_text": "抱怨",
+    "entries": [
+      {"text": "抱怨", "pinyin": "bào yuàn", "en": "to complain; grumble", "emoji": "😤"}
+    ]
+  },
+  {
+    "input_text": "背",
+    "entries": [
+      {"text": "背", "pinyin": "bèi", "en": "back (of body)", "emoji": "🧍"},
+      {"text": "背", "pinyin": "bēi", "en": "to carry on back", "emoji": "🎒"},
+      {"text": "背", "pinyin": "bèi", "en": "to memorize; recite", "emoji": "📖"}
+    ]
+  }
+]

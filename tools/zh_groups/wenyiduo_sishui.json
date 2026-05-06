@@ -1,0 +1,141 @@
+[
+  {
+    "text": "这是一沟绝望的死水，",
+    "ipa": "zhè shì yī gōu jué wàng de sǐ shuǐ,",
+    "translation": {
+      "zh": "这是一沟绝望的死水，",
+      "en": "This is a ditch of hopeless dead water,"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "这是",
+        "lemma": "这",
+        "ipa": "zhè shì",
+        "translation": {"zh": "这就是", "en": "this is"},
+        "emoji": "👉"
+      },
+      {
+        "text": "一沟",
+        "lemma": "沟",
+        "ipa": "yī gōu",
+        "translation": {"zh": "一条沟", "en": "a ditch"},
+        "emoji": "🪣"
+      },
+      {
+        "text": "绝望的",
+        "lemma": "绝望",
+        "ipa": "jué wàng de",
+        "translation": {"zh": "毫无希望", "en": "hopeless"},
+        "emoji": "😩"
+      },
+      {
+        "text": "死水",
+        "lemma": "死水",
+        "ipa": "sǐ shuǐ",
+        "translation": {"zh": "不流动的水", "en": "stagnant water"},
+        "emoji": "🪦"
+      }
+    ],
+    "tags": [{"name": "死水", "index": 1}]
+  },
+  {
+    "text": "清风吹不起半点漪沦。",
+    "ipa": "qīng fēng chuī bù qǐ bàn diǎn yī lún.",
+    "translation": {
+      "zh": "清风吹不起半点漪沦。",
+      "en": "A fresh breeze cannot stir up the slightest ripple."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "清风",
+        "lemma": "清风",
+        "ipa": "qīng fēng",
+        "translation": {"zh": "清凉的风", "en": "fresh breeze"},
+        "emoji": "🍃"
+      },
+      {
+        "text": "吹不起",
+        "lemma": "吹",
+        "ipa": "chuī bù qǐ",
+        "translation": {"zh": "吹不动", "en": "cannot stir up"},
+        "emoji": "💨"
+      },
+      {
+        "text": "半点漪沦",
+        "lemma": "漪沦",
+        "ipa": "bàn diǎn yī lún",
+        "translation": {"zh": "一丝涟漪", "en": "the slightest ripple"},
+        "emoji": "🌊"
+      }
+    ],
+    "tags": [{"name": "死水", "index": 2}]
+  },
+  {
+    "text": "不如多扔些破铜烂铁，",
+    "ipa": "bù rú duō rēng xiē pò tóng làn tiě,",
+    "translation": {
+      "zh": "不如多扔些破铜烂铁，",
+      "en": "Better to throw in more broken copper and rusty iron,"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "不如多扔些",
+        "lemma": "扔",
+        "ipa": "bù rú duō rēng xiē",
+        "translation": {"zh": "倒不如多丢点", "en": "better to toss in more"},
+        "emoji": "🗑️"
+      },
+      {
+        "text": "破铜烂铁",
+        "lemma": "破铜烂铁",
+        "ipa": "pò tóng làn tiě",
+        "translation": {"zh": "废旧金属", "en": "scrap metal"},
+        "emoji": "🔩"
+      }
+    ],
+    "tags": [{"name": "死水", "index": 3}]
+  },
+  {
+    "text": "爽性泼你的剩菜残羹。",
+    "ipa": "shuǎng xìng pō nǐ de shèng cài cán gēng.",
+    "translation": {
+      "zh": "爽性泼你的剩菜残羹。",
+      "en": "Just go ahead and dump in your leftover scraps."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "爽性",
+        "lemma": "爽性",
+        "ipa": "shuǎng xìng",
+        "translation": {"zh": "干脆", "en": "outright"},
+        "emoji": "😤"
+      },
+      {
+        "text": "泼",
+        "lemma": "泼",
+        "ipa": "pō",
+        "translation": {"zh": "倒下去", "en": "splash"},
+        "emoji": "💦"
+      },
+      {
+        "text": "你的",
+        "lemma": "你",
+        "ipa": "nǐ de",
+        "translation": {"zh": "你的", "en": "your"},
+        "emoji": ""
+      },
+      {
+        "text": "剩菜残羹",
+        "lemma": "剩菜残羹",
+        "ipa": "shèng cài cán gēng",
+        "translation": {"zh": "吃剩的饭菜", "en": "leftover scraps"},
+        "emoji": "🍲"
+      }
+    ],
+    "tags": [{"name": "死水", "index": 4}]
+  }
+]

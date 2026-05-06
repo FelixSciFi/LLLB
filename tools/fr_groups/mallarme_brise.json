@@ -1,0 +1,172 @@
+[
+  {
+    "text": "La chair est triste, hélas !",
+    "ipa": "la ʃɛʁ ɛ tʁist elas",
+    "translation": {
+      "zh": "肉体是悲哀的，唉！",
+      "en": "The flesh is sad, alas!"
+    },
+    "cefr": "C2",
+    "tokens": [
+      {
+        "text": "La chair",
+        "lemma": "chair",
+        "ipa": "la ʃɛʁ",
+        "translation": {"zh": "肉体", "en": "the flesh"},
+        "emoji": "🫀"
+      },
+      {
+        "text": "est triste",
+        "lemma": "triste",
+        "ipa": "ɛ tʁist",
+        "translation": {"zh": "是悲哀的", "en": "is sad"},
+        "emoji": "😔"
+      },
+      {
+        "text": "hélas",
+        "lemma": "hélas",
+        "ipa": "elas",
+        "translation": {"zh": "唉", "en": "alas"},
+        "emoji": "😮‍💨"
+      }
+    ],
+    "tags": [{"name": "Brise marine", "index": 0}]
+  },
+  {
+    "text": "et j'ai lu tous les livres.",
+    "ipa": "e ʒe ly tu le livʁ",
+    "translation": {
+      "zh": "而我已读尽所有的书。",
+      "en": "and I have read all the books."
+    },
+    "cefr": "C2",
+    "tokens": [
+      {
+        "text": "et j'ai lu",
+        "lemma": "lire",
+        "ipa": "e ʒe ly",
+        "translation": {"zh": "而我读过", "en": "and I have read"},
+        "emoji": "📖"
+      },
+      {
+        "text": "tous les livres",
+        "lemma": "livre",
+        "ipa": "tu le livʁ",
+        "translation": {"zh": "所有的书", "en": "all the books"},
+        "emoji": "📚"
+      }
+    ],
+    "tags": [{"name": "Brise marine", "index": 1}]
+  },
+  {
+    "text": "Fuir ! là-bas fuir !",
+    "ipa": "fɥiʁ labɑ fɥiʁ",
+    "translation": {
+      "zh": "逃走吧！到远方去逃走吧！",
+      "en": "To flee! To flee far away!"
+    },
+    "cefr": "C2",
+    "tokens": [
+      {
+        "text": "Fuir",
+        "lemma": "fuir",
+        "ipa": "fɥiʁ",
+        "translation": {"zh": "逃走", "en": "to flee"},
+        "emoji": "🏃"
+      },
+      {
+        "text": "là-bas",
+        "lemma": "là-bas",
+        "ipa": "labɑ",
+        "translation": {"zh": "到那边", "en": "over there"},
+        "emoji": "🌅"
+      },
+      {
+        "text": "fuir",
+        "lemma": "fuir",
+        "ipa": "fɥiʁ",
+        "translation": {"zh": "逃走", "en": "flee"},
+        "emoji": "💨"
+      }
+    ],
+    "tags": [{"name": "Brise marine", "index": 2}]
+  },
+  {
+    "text": "Je sens que des oiseaux sont ivres",
+    "ipa": "ʒə sɑ̃ kə dez‿wazo sɔ̃t‿ivʁ",
+    "translation": {
+      "zh": "我感到鸟儿们已陶醉",
+      "en": "I sense that birds are drunk"
+    },
+    "cefr": "C2",
+    "tokens": [
+      {
+        "text": "Je sens",
+        "lemma": "sentir",
+        "ipa": "ʒə sɑ̃",
+        "translation": {"zh": "我感到", "en": "I sense"},
+        "emoji": "💭"
+      },
+      {
+        "text": "que des oiseaux",
+        "lemma": "oiseau",
+        "ipa": "kə dez‿wazo",
+        "translation": {"zh": "鸟儿们", "en": "that birds"},
+        "emoji": "🐦"
+      },
+      {
+        "text": "sont ivres",
+        "lemma": "ivre",
+        "ipa": "sɔ̃t‿ivʁ",
+        "translation": {"zh": "已陶醉", "en": "are drunk"},
+        "emoji": "🥴"
+      }
+    ],
+    "tags": [{"name": "Brise marine", "index": 3}]
+  },
+  {
+    "text": "D'être parmi l'écume inconnue",
+    "ipa": "dɛtʁə paʁmi lekym ɛ̃kɔny",
+    "translation": {
+      "zh": "因身处未知的浪沫之中",
+      "en": "From being amid the unknown foam"
+    },
+    "cefr": "C2",
+    "tokens": [
+      {
+        "text": "D'être parmi",
+        "lemma": "être",
+        "ipa": "dɛtʁə paʁmi",
+        "translation": {"zh": "身处之中", "en": "from being amid"},
+        "emoji": "🌫️"
+      },
+      {
+        "text": "l'écume inconnue",
+        "lemma": "écume",
+        "ipa": "lekym ɛ̃kɔny",
+        "translation": {"zh": "未知的浪沫", "en": "unknown foam"},
+        "emoji": "🌊"
+      }
+    ],
+    "tags": [{"name": "Brise marine", "index": 4}]
+  },
+  {
+    "text": "et les cieux !",
+    "ipa": "e le sjø",
+    "translation": {
+      "zh": "和苍天！",
+      "en": "and the heavens!"
+    },
+    "cefr": "C2",
+    "tokens": [
+      {
+        "text": "et les cieux",
+        "lemma": "ciel",
+        "ipa": "e le sjø",
+        "translation": {"zh": "和苍天", "en": "and the heavens"},
+        "emoji": "☁️"
+      }
+    ],
+    "tags": [{"name": "Brise marine", "index": 5}]
+  }
+]

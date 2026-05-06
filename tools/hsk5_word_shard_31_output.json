@@ -1,0 +1,184 @@
+[
+  {
+    "input_text": "体会",
+    "entries": [
+      {"text": "体会", "pinyin": "tǐ huì", "en": "realize; appreciate", "emoji": "💡"}
+    ]
+  },
+  {
+    "input_text": "体贴",
+    "entries": [
+      {"text": "体贴", "pinyin": "tǐ tiē", "en": "considerate; thoughtful", "emoji": "🤗"}
+    ]
+  },
+  {
+    "input_text": "体现",
+    "entries": [
+      {"text": "体现", "pinyin": "tǐ xiàn", "en": "embody; reflect", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "体验",
+    "entries": [
+      {"text": "体验", "pinyin": "tǐ yàn", "en": "experience; feel", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_text": "天空",
+    "entries": [
+      {"text": "天空", "pinyin": "tiān kōng", "en": "sky", "emoji": "🌤️"}
+    ]
+  },
+  {
+    "input_text": "天真",
+    "entries": [
+      {"text": "天真", "pinyin": "tiān zhēn", "en": "naive; innocent", "emoji": "🌸"}
+    ]
+  },
+  {
+    "input_text": "调皮",
+    "entries": [
+      {"text": "调皮", "pinyin": "tiáo pí", "en": "naughty; mischievous", "emoji": "😜"}
+    ]
+  },
+  {
+    "input_text": "调整",
+    "entries": [
+      {"text": "调整", "pinyin": "tiáo zhěng", "en": "adjust; regulate", "emoji": "🔧"}
+    ]
+  },
+  {
+    "input_text": "挑战",
+    "entries": [
+      {"text": "挑战", "pinyin": "tiǎo zhàn", "en": "challenge", "emoji": "⚔️"}
+    ]
+  },
+  {
+    "input_text": "通常",
+    "entries": [
+      {"text": "通常", "pinyin": "tōng cháng", "en": "usually; normally", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "统一",
+    "entries": [
+      {"text": "统一", "pinyin": "tǒng yī", "en": "unify; unified", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_text": "痛苦",
+    "entries": [
+      {"text": "痛苦", "pinyin": "tòng kǔ", "en": "pain; suffering", "emoji": "😣"}
+    ]
+  },
+  {
+    "input_text": "痛快",
+    "entries": [
+      {"text": "痛快", "pinyin": "tòng kuài", "en": "delighted; joyful", "emoji": "😄"}
+    ]
+  },
+  {
+    "input_text": "偷",
+    "entries": [
+      {"text": "偷", "pinyin": "tōu", "en": "steal; sneak", "emoji": "🕵️"}
+    ]
+  },
+  {
+    "input_text": "投入",
+    "entries": [
+      {"text": "投入", "pinyin": "tóu rù", "en": "invest; put into", "emoji": "💰"},
+      {"text": "投入", "pinyin": "tóu rù", "en": "absorbed; devoted", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_text": "投资",
+    "entries": [
+      {"text": "投资", "pinyin": "tóu zī", "en": "invest; investment", "emoji": "📈"}
+    ]
+  },
+  {
+    "input_text": "透明",
+    "entries": [
+      {"text": "透明", "pinyin": "tòu míng", "en": "transparent; clear", "emoji": "🔍"}
+    ]
+  },
+  {
+    "input_text": "突出",
+    "entries": [
+      {"text": "突出", "pinyin": "tū chū", "en": "outstanding; prominent", "emoji": "⭐"}
+    ]
+  },
+  {
+    "input_text": "土地",
+    "entries": [
+      {"text": "土地", "pinyin": "tǔ dì", "en": "land; soil", "emoji": "🌾"}
+    ]
+  },
+  {
+    "input_text": "土豆",
+    "entries": [
+      {"text": "土豆", "pinyin": "tǔ dòu", "en": "potato", "emoji": "🥔"}
+    ]
+  },
+  {
+    "input_text": "吐",
+    "entries": [
+      {"text": "吐", "pinyin": "tǔ", "en": "spit out", "emoji": "💬"},
+      {"text": "吐", "pinyin": "tù", "en": "vomit", "emoji": "🤢"}
+    ]
+  },
+  {
+    "input_text": "兔子",
+    "entries": [
+      {"text": "兔子", "pinyin": "tù zi", "en": "rabbit", "emoji": "🐰"}
+    ]
+  },
+  {
+    "input_text": "团",
+    "entries": [
+      {"text": "团", "pinyin": "tuán", "en": "group; team", "emoji": "👥"}
+    ]
+  },
+  {
+    "input_text": "推辞",
+    "entries": [
+      {"text": "推辞", "pinyin": "tuī cí", "en": "decline; refuse", "emoji": "🙅"}
+    ]
+  },
+  {
+    "input_text": "推广",
+    "entries": [
+      {"text": "推广", "pinyin": "tuī guǎng", "en": "promote; spread", "emoji": "📣"}
+    ]
+  },
+  {
+    "input_text": "推荐",
+    "entries": [
+      {"text": "推荐", "pinyin": "tuī jiàn", "en": "recommend", "emoji": "👍"}
+    ]
+  },
+  {
+    "input_text": "退",
+    "entries": [
+      {"text": "退", "pinyin": "tuì", "en": "retreat; withdraw", "emoji": "↩️"}
+    ]
+  },
+  {
+    "input_text": "退步",
+    "entries": [
+      {"text": "退步", "pinyin": "tuì bù", "en": "regress; fall behind", "emoji": "📉"}
+    ]
+  },
+  {
+    "input_text": "退休",
+    "entries": [
+      {"text": "退休", "pinyin": "tuì xiū", "en": "retire", "emoji": "🏖️"}
+    ]
+  },
+  {
+    "input_text": "歪",
+    "entries": [
+      {"text": "歪", "pinyin": "wāi", "en": "crooked; tilted", "emoji": "↗️"}
+    ]
+  }
+]

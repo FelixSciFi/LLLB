@@ -1,0 +1,62 @@
+[
+  {
+    "input_text": "嘴唇",
+    "entries": [
+      {"text": "嘴唇", "pinyin": "zuǐ chún", "en": "lips", "emoji": "👄"}
+    ]
+  },
+  {
+    "input_text": "罪犯",
+    "entries": [
+      {"text": "罪犯", "pinyin": "zuì fàn", "en": "criminal", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "尊严",
+    "entries": [
+      {"text": "尊严", "pinyin": "zūn yán", "en": "dignity", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "遵循",
+    "entries": [
+      {"text": "遵循", "pinyin": "zūn xún", "en": "follow; abide by", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "作弊",
+    "entries": [
+      {"text": "作弊", "pinyin": "zuò bì", "en": "cheat; fraud", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "作废",
+    "entries": [
+      {"text": "作废", "pinyin": "zuò fèi", "en": "become void; cancel", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "作风",
+    "entries": [
+      {"text": "作风", "pinyin": "zuò fēng", "en": "work style; conduct", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "作息",
+    "entries": [
+      {"text": "作息", "pinyin": "zuò xī", "en": "work-rest schedule", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "座右铭",
+    "entries": [
+      {"text": "座右铭", "pinyin": "zuò yòu míng", "en": "motto; maxim", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "做主",
+    "entries": [
+      {"text": "做主", "pinyin": "zuò zhǔ", "en": "make decisions", "emoji": ""}
+    ]
+  }
+]

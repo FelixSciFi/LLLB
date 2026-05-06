@@ -1,0 +1,144 @@
+[
+  {
+    "input_word": "jacket",
+    "entries": [
+      {"text": "jacket", "ipa": "/ˈdʒækɪt/", "cefr": "A1", "zh": "夹克", "emoji": "🧥"}
+    ]
+  },
+  {
+    "input_word": "jam",
+    "entries": [
+      {"text": "jam", "ipa": "/dʒæm/", "cefr": "A2", "zh": "果酱", "emoji": "🍓"},
+      {"text": "jam", "ipa": "/dʒæm/", "cefr": "A2", "zh": "堵塞", "emoji": "🚗"}
+    ]
+  },
+  {
+    "input_word": "january",
+    "entries": [
+      {"text": "January", "ipa": "/ˈdʒænjuˌɛri/", "cefr": "A1", "zh": "一月", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_word": "jazz",
+    "entries": [
+      {"text": "jazz", "ipa": "/dʒæz/", "cefr": "A2", "zh": "爵士乐", "emoji": "🎷"}
+    ]
+  },
+  {
+    "input_word": "jeans",
+    "entries": [
+      {"text": "jeans", "ipa": "/dʒiːnz/", "cefr": "A1", "zh": "牛仔裤", "emoji": "👖"}
+    ]
+  },
+  {
+    "input_word": "jewellery",
+    "entries": [
+      {"text": "jewellery", "ipa": "/ˈdʒuːəlri/", "cefr": "A2", "zh": "珠宝首饰", "emoji": "💍"}
+    ]
+  },
+  {
+    "input_word": "job",
+    "entries": [
+      {"text": "job", "ipa": "/dʒɑːb/", "cefr": "A1", "zh": "工作", "emoji": "💼"}
+    ]
+  },
+  {
+    "input_word": "join",
+    "entries": [
+      {"text": "join", "ipa": "/dʒɔɪn/", "cefr": "A1", "zh": "加入", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "joke",
+    "entries": [
+      {"text": "joke", "ipa": "/dʒoʊk/", "cefr": "A2", "zh": "笑话", "emoji": "😂"}
+    ]
+  },
+  {
+    "input_word": "journal",
+    "entries": [
+      {"text": "journal", "ipa": "/ˈdʒɜːrnəl/", "cefr": "B1", "zh": "日记本", "emoji": "📔"},
+      {"text": "journal", "ipa": "/ˈdʒɜːrnəl/", "cefr": "B1", "zh": "学术期刊", "emoji": "📰"}
+    ]
+  },
+  {
+    "input_word": "journalist",
+    "entries": [
+      {"text": "journalist", "ipa": "/ˈdʒɜːrnəlɪst/", "cefr": "A2", "zh": "记者", "emoji": "🗞️"}
+    ]
+  },
+  {
+    "input_word": "journey",
+    "entries": [
+      {"text": "journey", "ipa": "/ˈdʒɜːrni/", "cefr": "A1", "zh": "旅程", "emoji": "🗺️"}
+    ]
+  },
+  {
+    "input_word": "joy",
+    "entries": [
+      {"text": "joy", "ipa": "/dʒɔɪ/", "cefr": "B2", "zh": "喜悦", "emoji": "😊"}
+    ]
+  },
+  {
+    "input_word": "judge",
+    "entries": [
+      {"text": "judge", "ipa": "/dʒʌdʒ/", "cefr": "B1", "zh": "法官", "emoji": "⚖️"},
+      {"text": "judge", "ipa": "/dʒʌdʒ/", "cefr": "B1", "zh": "评判", "emoji": "🧑‍⚖️"}
+    ]
+  },
+  {
+    "input_word": "judgement",
+    "entries": [
+      {"text": "judgement", "ipa": "/ˈdʒʌdʒmənt/", "cefr": "B2", "zh": "判断力", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "juice",
+    "entries": [
+      {"text": "juice", "ipa": "/dʒuːs/", "cefr": "A1", "zh": "果汁", "emoji": "🍹"}
+    ]
+  },
+  {
+    "input_word": "july",
+    "entries": [
+      {"text": "July", "ipa": "/dʒuˈlaɪ/", "cefr": "A1", "zh": "七月", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_word": "jump",
+    "entries": [
+      {"text": "jump", "ipa": "/dʒʌmp/", "cefr": "A2", "zh": "跳跃", "emoji": "🦘"}
+    ]
+  },
+  {
+    "input_word": "june",
+    "entries": [
+      {"text": "June", "ipa": "/dʒuːn/", "cefr": "A1", "zh": "六月", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_word": "junior",
+    "entries": [
+      {"text": "junior", "ipa": "/ˈdʒuːniər/", "cefr": "B2", "zh": "初级的", "emoji": "🔰"},
+      {"text": "junior", "ipa": "/ˈdʒuːniər/", "cefr": "B2", "zh": "晚辈", "emoji": "👦"}
+    ]
+  },
+  {
+    "input_word": "just",
+    "entries": [
+      {"text": "just", "ipa": "/dʒʌst/", "cefr": "A1", "zh": "刚刚", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "justice",
+    "entries": [
+      {"text": "justice", "ipa": "/ˈdʒʌstɪs/", "cefr": "B2", "zh": "正义", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "justify",
+    "entries": [
+      {"text": "justify", "ipa": "/ˈdʒʌstɪfaɪ/", "cefr": "B2", "zh": "证明合理", "emoji": ""}
+    ]
+  }
+]

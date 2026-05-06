@@ -1,0 +1,192 @@
+[
+  {
+    "input_word": "confident",
+    "entries": [
+      {"text": "confident", "ipa": "/ˈkɑːnfɪdənt/", "cefr": "B1", "zh": "自信的", "emoji": "💪"}
+    ]
+  },
+  {
+    "input_word": "confirm",
+    "entries": [
+      {"text": "confirm", "ipa": "/kənˈfɜːrm/", "cefr": "B1", "zh": "确认", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_word": "conflict",
+    "entries": [
+      {"text": "conflict", "ipa": "/ˈkɑːnflɪkt/", "cefr": "B2", "zh": "冲突", "emoji": "⚔️"},
+      {"text": "conflict", "ipa": "/kənˈflɪkt/", "cefr": "B2", "zh": "相矛盾", "emoji": "❌"}
+    ]
+  },
+  {
+    "input_word": "confuse",
+    "entries": [
+      {"text": "confuse", "ipa": "/kənˈfjuːz/", "cefr": "B1", "zh": "使困惑", "emoji": "😵"}
+    ]
+  },
+  {
+    "input_word": "confused",
+    "entries": [
+      {"text": "confused", "ipa": "/kənˈfjuːzd/", "cefr": "B1", "zh": "困惑的", "emoji": "😕"}
+    ]
+  },
+  {
+    "input_word": "confusing",
+    "entries": [
+      {"text": "confusing", "ipa": "/kənˈfjuːzɪŋ/", "cefr": "B2", "zh": "令人困惑", "emoji": "🌀"}
+    ]
+  },
+  {
+    "input_word": "connect",
+    "entries": [
+      {"text": "connect", "ipa": "/kəˈnɛkt/", "cefr": "A2", "zh": "连接", "emoji": "🔗"}
+    ]
+  },
+  {
+    "input_word": "connected",
+    "entries": [
+      {"text": "connected", "ipa": "/kəˈnɛktɪd/", "cefr": "A2", "zh": "已连接的", "emoji": "🔗"}
+    ]
+  },
+  {
+    "input_word": "connection",
+    "entries": [
+      {"text": "connection", "ipa": "/kəˈnɛkʃən/", "cefr": "B1", "zh": "连接", "emoji": "🔗"},
+      {"text": "connection", "ipa": "/kəˈnɛkʃən/", "cefr": "B1", "zh": "关系", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "conscious",
+    "entries": [
+      {"text": "conscious", "ipa": "/ˈkɑːnʃəs/", "cefr": "B2", "zh": "有意识的", "emoji": "🧠"},
+      {"text": "conscious", "ipa": "/ˈkɑːnʃəs/", "cefr": "B2", "zh": "清醒的", "emoji": "👁️"}
+    ]
+  },
+  {
+    "input_word": "consequence",
+    "entries": [
+      {"text": "consequence", "ipa": "/ˈkɑːnsɪkwəns/", "cefr": "B1", "zh": "后果", "emoji": "⚠️"}
+    ]
+  },
+  {
+    "input_word": "conservative",
+    "entries": [
+      {"text": "conservative", "ipa": "/kənˈsɜːrvətɪv/", "cefr": "B2", "zh": "保守的", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_word": "consider",
+    "entries": [
+      {"text": "consider", "ipa": "/kənˈsɪdər/", "cefr": "A2", "zh": "考虑", "emoji": "🤔"}
+    ]
+  },
+  {
+    "input_word": "consideration",
+    "entries": [
+      {"text": "consideration", "ipa": "/kənˌsɪdəˈreɪʃən/", "cefr": "B2", "zh": "考虑", "emoji": "🤔"}
+    ]
+  },
+  {
+    "input_word": "consist",
+    "entries": [
+      {"text": "consist", "ipa": "/kənˈsɪst/", "cefr": "B1", "zh": "由…组成", "emoji": "📦"}
+    ]
+  },
+  {
+    "input_word": "consistent",
+    "entries": [
+      {"text": "consistent", "ipa": "/kənˈsɪstənt/", "cefr": "B2", "zh": "一贯的", "emoji": "📏"}
+    ]
+  },
+  {
+    "input_word": "constant",
+    "entries": [
+      {"text": "constant", "ipa": "/ˈkɑːnstənt/", "cefr": "B2", "zh": "不断的", "emoji": "🔄"},
+      {"text": "constant", "ipa": "/ˈkɑːnstənt/", "cefr": "B2", "zh": "常数", "emoji": "🔢"}
+    ]
+  },
+  {
+    "input_word": "constantly",
+    "entries": [
+      {"text": "constantly", "ipa": "/ˈkɑːnstəntli/", "cefr": "B2", "zh": "不断地", "emoji": "🔄"}
+    ]
+  },
+  {
+    "input_word": "construct",
+    "entries": [
+      {"text": "construct", "ipa": "/kənˈstrʌkt/", "cefr": "B2", "zh": "建造", "emoji": "🏗️"},
+      {"text": "construct", "ipa": "/ˈkɑːnstrʌkt/", "cefr": "B2", "zh": "概念构建", "emoji": "🧩"}
+    ]
+  },
+  {
+    "input_word": "construction",
+    "entries": [
+      {"text": "construction", "ipa": "/kənˈstrʌkʃən/", "cefr": "B2", "zh": "建设", "emoji": "🏗️"}
+    ]
+  },
+  {
+    "input_word": "consume",
+    "entries": [
+      {"text": "consume", "ipa": "/kənˈsuːm/", "cefr": "B1", "zh": "消耗", "emoji": "⚡"},
+      {"text": "consume", "ipa": "/kənˈsuːm/", "cefr": "B1", "zh": "消费", "emoji": "🛒"}
+    ]
+  },
+  {
+    "input_word": "consumer",
+    "entries": [
+      {"text": "consumer", "ipa": "/kənˈsuːmər/", "cefr": "B1", "zh": "消费者", "emoji": "🛒"}
+    ]
+  },
+  {
+    "input_word": "contact",
+    "entries": [
+      {"text": "contact", "ipa": "/ˈkɑːntækt/", "cefr": "B1", "zh": "联系", "emoji": "📞"},
+      {"text": "contact", "ipa": "/ˈkɑːntækt/", "cefr": "B1", "zh": "接触", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "contain",
+    "entries": [
+      {"text": "contain", "ipa": "/kənˈteɪn/", "cefr": "A2", "zh": "包含", "emoji": "📦"}
+    ]
+  },
+  {
+    "input_word": "container",
+    "entries": [
+      {"text": "container", "ipa": "/kənˈteɪnər/", "cefr": "B1", "zh": "容器", "emoji": "🫙"}
+    ]
+  },
+  {
+    "input_word": "contemporary",
+    "entries": [
+      {"text": "contemporary", "ipa": "/kənˈtɛmpəˌrɛri/", "cefr": "B2", "zh": "当代的", "emoji": "🕐"},
+      {"text": "contemporary", "ipa": "/kənˈtɛmpəˌrɛri/", "cefr": "B2", "zh": "同时代人", "emoji": "👥"}
+    ]
+  },
+  {
+    "input_word": "content",
+    "entries": [
+      {"text": "content", "ipa": "/ˈkɑːntɛnt/", "cefr": "B1", "zh": "内容", "emoji": "📄"},
+      {"text": "content", "ipa": "/kənˈtɛnt/", "cefr": "B1", "zh": "满足的", "emoji": "😊"}
+    ]
+  },
+  {
+    "input_word": "contest",
+    "entries": [
+      {"text": "contest", "ipa": "/ˈkɑːntɛst/", "cefr": "B2", "zh": "比赛", "emoji": "🏆"},
+      {"text": "contest", "ipa": "/kənˈtɛst/", "cefr": "B2", "zh": "反对", "emoji": "✋"}
+    ]
+  },
+  {
+    "input_word": "context",
+    "entries": [
+      {"text": "context", "ipa": "/ˈkɑːntɛkst/", "cefr": "A2", "zh": "背景", "emoji": "🔍"}
+    ]
+  },
+  {
+    "input_word": "continent",
+    "entries": [
+      {"text": "continent", "ipa": "/ˈkɑːntɪnənt/", "cefr": "A2", "zh": "大洲", "emoji": "🌍"}
+    ]
+  }
+]

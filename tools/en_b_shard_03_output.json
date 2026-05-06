@@ -1,0 +1,362 @@
+[
+  {
+    "input_word": "body",
+    "entries": [
+      {
+        "text": "body",
+        "ipa": "/ˈbɑː.di/",
+        "cefr": "A1",
+        "zh": "身体",
+        "emoji": "🧍"
+      }
+    ]
+  },
+  {
+    "input_word": "boil",
+    "entries": [
+      {
+        "text": "boil",
+        "ipa": "/bɔɪl/",
+        "cefr": "A2",
+        "zh": "沸腾；煮",
+        "emoji": "♨️"
+      }
+    ]
+  },
+  {
+    "input_word": "bomb",
+    "entries": [
+      {
+        "text": "bomb",
+        "ipa": "/bɑːm/",
+        "cefr": "B1",
+        "zh": "炸弹",
+        "emoji": "💣"
+      }
+    ]
+  },
+  {
+    "input_word": "bond",
+    "entries": [
+      {
+        "text": "bond",
+        "ipa": "/bɑːnd/",
+        "cefr": "B2",
+        "zh": "纽带；债券",
+        "emoji": "🔗"
+      }
+    ]
+  },
+  {
+    "input_word": "bone",
+    "entries": [
+      {
+        "text": "bone",
+        "ipa": "/boʊn/",
+        "cefr": "A2",
+        "zh": "骨头",
+        "emoji": "🦴"
+      }
+    ]
+  },
+  {
+    "input_word": "book",
+    "entries": [
+      {
+        "text": "book",
+        "ipa": "/bʊk/",
+        "cefr": "A1",
+        "zh": "书；预订",
+        "emoji": "📖"
+      }
+    ]
+  },
+  {
+    "input_word": "boot",
+    "entries": [
+      {
+        "text": "boot",
+        "ipa": "/buːt/",
+        "cefr": "A1",
+        "zh": "靴子",
+        "emoji": "👢"
+      }
+    ]
+  },
+  {
+    "input_word": "border",
+    "entries": [
+      {
+        "text": "border",
+        "ipa": "/ˈbɔːr.dər/",
+        "cefr": "B1",
+        "zh": "边境；边缘",
+        "emoji": "🗺️"
+      }
+    ]
+  },
+  {
+    "input_word": "bored",
+    "entries": [
+      {
+        "text": "bored",
+        "ipa": "/bɔːrd/",
+        "cefr": "A1",
+        "zh": "无聊的",
+        "emoji": "😑"
+      }
+    ]
+  },
+  {
+    "input_word": "boring",
+    "entries": [
+      {
+        "text": "boring",
+        "ipa": "/ˈbɔːr.ɪŋ/",
+        "cefr": "A1",
+        "zh": "乏味的",
+        "emoji": "😴"
+      }
+    ]
+  },
+  {
+    "input_word": "born",
+    "entries": [
+      {
+        "text": "born",
+        "ipa": "/bɔːrn/",
+        "cefr": "A1",
+        "zh": "出生",
+        "emoji": "👶"
+      }
+    ]
+  },
+  {
+    "input_word": "borrow",
+    "entries": [
+      {
+        "text": "borrow",
+        "ipa": "/ˈbɑːr.oʊ/",
+        "cefr": "A2",
+        "zh": "借入",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "boss",
+    "entries": [
+      {
+        "text": "boss",
+        "ipa": "/bɑːs/",
+        "cefr": "A2",
+        "zh": "老板",
+        "emoji": "👔"
+      }
+    ]
+  },
+  {
+    "input_word": "both",
+    "entries": [
+      {
+        "text": "both",
+        "ipa": "/boʊθ/",
+        "cefr": "A1",
+        "zh": "两者都",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "bother",
+    "entries": [
+      {
+        "text": "bother",
+        "ipa": "/ˈbɑː.ðər/",
+        "cefr": "B1",
+        "zh": "打扰；麻烦",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "bottle",
+    "entries": [
+      {
+        "text": "bottle",
+        "ipa": "/ˈbɑː.t̬əl/",
+        "cefr": "A1",
+        "zh": "瓶子",
+        "emoji": "🍾"
+      }
+    ]
+  },
+  {
+    "input_word": "bottom",
+    "entries": [
+      {
+        "text": "bottom",
+        "ipa": "/ˈbɑː.t̬əm/",
+        "cefr": "A2",
+        "zh": "底部",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "bowl",
+    "entries": [
+      {
+        "text": "bowl",
+        "ipa": "/boʊl/",
+        "cefr": "A2",
+        "zh": "碗",
+        "emoji": "🥣"
+      }
+    ]
+  },
+  {
+    "input_word": "box",
+    "entries": [
+      {
+        "text": "box",
+        "ipa": "/bɑːks/",
+        "cefr": "A1",
+        "zh": "箱子",
+        "emoji": "📦"
+      }
+    ]
+  },
+  {
+    "input_word": "boy",
+    "entries": [
+      {
+        "text": "boy",
+        "ipa": "/bɔɪ/",
+        "cefr": "A1",
+        "zh": "男孩",
+        "emoji": "👦"
+      }
+    ]
+  },
+  {
+    "input_word": "boyfriend",
+    "entries": [
+      {
+        "text": "boyfriend",
+        "ipa": "/ˈbɔɪ.frend/",
+        "cefr": "A1",
+        "zh": "男朋友",
+        "emoji": "💑"
+      }
+    ]
+  },
+  {
+    "input_word": "brain",
+    "entries": [
+      {
+        "text": "brain",
+        "ipa": "/breɪn/",
+        "cefr": "A2",
+        "zh": "大脑",
+        "emoji": "🧠"
+      }
+    ]
+  },
+  {
+    "input_word": "branch",
+    "entries": [
+      {
+        "text": "branch",
+        "ipa": "/bræntʃ/",
+        "cefr": "B1",
+        "zh": "树枝；分支",
+        "emoji": "🌿"
+      }
+    ]
+  },
+  {
+    "input_word": "brand",
+    "entries": [
+      {
+        "text": "brand",
+        "ipa": "/brænd/",
+        "cefr": "B1",
+        "zh": "品牌",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "brave",
+    "entries": [
+      {
+        "text": "brave",
+        "ipa": "/breɪv/",
+        "cefr": "B1",
+        "zh": "勇敢的",
+        "emoji": "🦁"
+      }
+    ]
+  },
+  {
+    "input_word": "bread",
+    "entries": [
+      {
+        "text": "bread",
+        "ipa": "/brɛd/",
+        "cefr": "A1",
+        "zh": "面包",
+        "emoji": "🍞"
+      }
+    ]
+  },
+  {
+    "input_word": "break",
+    "entries": [
+      {
+        "text": "break",
+        "ipa": "/breɪk/",
+        "cefr": "A1",
+        "zh": "打破；休息",
+        "emoji": "☕"
+      }
+    ]
+  },
+  {
+    "input_word": "breakfast",
+    "entries": [
+      {
+        "text": "breakfast",
+        "ipa": "/ˈbrɛk.fəst/",
+        "cefr": "A1",
+        "zh": "早餐",
+        "emoji": "🍳"
+      }
+    ]
+  },
+  {
+    "input_word": "breast",
+    "entries": [
+      {
+        "text": "breast",
+        "ipa": "/brɛst/",
+        "cefr": "B2",
+        "zh": "胸部",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "breath",
+    "entries": [
+      {
+        "text": "breath",
+        "ipa": "/brɛθ/",
+        "cefr": "B1",
+        "zh": "呼吸；气息",
+        "emoji": "💨"
+      }
+    ]
+  }
+]

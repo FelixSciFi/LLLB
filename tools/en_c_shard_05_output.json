@@ -1,0 +1,188 @@
+[
+  {
+    "input_word": "communicate",
+    "entries": [
+      {"text": "communicate", "ipa": "/kəˈmjuːnɪkeɪt/", "cefr": "A2", "zh": "交流沟通", "emoji": "💬"}
+    ]
+  },
+  {
+    "input_word": "communication",
+    "entries": [
+      {"text": "communication", "ipa": "/kəˌmjuːnɪˈkeɪʃən/", "cefr": "B1", "zh": "沟通交流", "emoji": "📡"}
+    ]
+  },
+  {
+    "input_word": "community",
+    "entries": [
+      {"text": "community", "ipa": "/kəˈmjuːnɪti/", "cefr": "A2", "zh": "社区社群", "emoji": "🏘️"}
+    ]
+  },
+  {
+    "input_word": "company",
+    "entries": [
+      {"text": "company", "ipa": "/ˈkʌmpəni/", "cefr": "A1", "zh": "公司企业", "emoji": "🏢"},
+      {"text": "company", "ipa": "/ˈkʌmpəni/", "cefr": "A1", "zh": "陪伴同伴", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "compare",
+    "entries": [
+      {"text": "compare", "ipa": "/kəmˈpɛr/", "cefr": "A1", "zh": "比较对比", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "comparison",
+    "entries": [
+      {"text": "comparison", "ipa": "/kəmˈpærɪsən/", "cefr": "B1", "zh": "比较对照", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "compete",
+    "entries": [
+      {"text": "compete", "ipa": "/kəmˈpiːt/", "cefr": "A2", "zh": "竞争参赛", "emoji": "🏆"}
+    ]
+  },
+  {
+    "input_word": "competition",
+    "entries": [
+      {"text": "competition", "ipa": "/ˌkɑːmpɪˈtɪʃən/", "cefr": "A2", "zh": "比赛竞争", "emoji": "🏆"}
+    ]
+  },
+  {
+    "input_word": "competitive",
+    "entries": [
+      {"text": "competitive", "ipa": "/kəmˈpɛtɪtɪv/", "cefr": "B1", "zh": "竞争性的", "emoji": "🥇"}
+    ]
+  },
+  {
+    "input_word": "competitor",
+    "entries": [
+      {"text": "competitor", "ipa": "/kəmˈpɛtɪtər/", "cefr": "B1", "zh": "竞争对手", "emoji": "🥊"}
+    ]
+  },
+  {
+    "input_word": "complain",
+    "entries": [
+      {"text": "complain", "ipa": "/kəmˈpleɪn/", "cefr": "A2", "zh": "抱怨投诉", "emoji": "😤"}
+    ]
+  },
+  {
+    "input_word": "complaint",
+    "entries": [
+      {"text": "complaint", "ipa": "/kəmˈpleɪnt/", "cefr": "B1", "zh": "投诉抱怨", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_word": "complete",
+    "entries": [
+      {"text": "complete", "ipa": "/kəmˈpliːt/", "cefr": "A1", "zh": "完成完整", "emoji": "✅"},
+      {"text": "complete", "ipa": "/kəmˈpliːt/", "cefr": "A1", "zh": "完全彻底", "emoji": "💯"}
+    ]
+  },
+  {
+    "input_word": "completely",
+    "entries": [
+      {"text": "completely", "ipa": "/kəmˈpliːtli/", "cefr": "A2", "zh": "完全彻底", "emoji": "💯"}
+    ]
+  },
+  {
+    "input_word": "complex",
+    "entries": [
+      {"text": "complex", "ipa": "/ˈkɑːmplɛks/", "cefr": "B1", "zh": "复杂的", "emoji": "🔀"},
+      {"text": "complex", "ipa": "/ˈkɑːmplɛks/", "cefr": "B1", "zh": "建筑综合体", "emoji": "🏗️"}
+    ]
+  },
+  {
+    "input_word": "complicated",
+    "entries": [
+      {"text": "complicated", "ipa": "/ˈkɑːmplɪkeɪtɪd/", "cefr": "B2", "zh": "复杂困难", "emoji": "🤯"}
+    ]
+  },
+  {
+    "input_word": "component",
+    "entries": [
+      {"text": "component", "ipa": "/kəmˈpoʊnənt/", "cefr": "B2", "zh": "组成部分", "emoji": "🔩"}
+    ]
+  },
+  {
+    "input_word": "computer",
+    "entries": [
+      {"text": "computer", "ipa": "/kəmˈpjuːtər/", "cefr": "A1", "zh": "电脑计算机", "emoji": "💻"}
+    ]
+  },
+  {
+    "input_word": "concentrate",
+    "entries": [
+      {"text": "concentrate", "ipa": "/ˈkɑːnsəntreɪt/", "cefr": "B1", "zh": "集中专注", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_word": "concentration",
+    "entries": [
+      {"text": "concentration", "ipa": "/ˌkɑːnsənˈtreɪʃən/", "cefr": "B2", "zh": "专注浓度", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_word": "concept",
+    "entries": [
+      {"text": "concept", "ipa": "/ˈkɑːnsɛpt/", "cefr": "B2", "zh": "概念理念", "emoji": "💡"}
+    ]
+  },
+  {
+    "input_word": "concern",
+    "entries": [
+      {"text": "concern", "ipa": "/kənˈsɜːrn/", "cefr": "B2", "zh": "担忧关切", "emoji": "😟"},
+      {"text": "concern", "ipa": "/kənˈsɜːrn/", "cefr": "B2", "zh": "涉及关系到", "emoji": "🔗"}
+    ]
+  },
+  {
+    "input_word": "concerned",
+    "entries": [
+      {"text": "concerned", "ipa": "/kənˈsɜːrnd/", "cefr": "B2", "zh": "担心忧虑", "emoji": "😟"}
+    ]
+  },
+  {
+    "input_word": "concert",
+    "entries": [
+      {"text": "concert", "ipa": "/ˈkɑːnsərt/", "cefr": "A1", "zh": "音乐会演唱会", "emoji": "🎵"}
+    ]
+  },
+  {
+    "input_word": "conclude",
+    "entries": [
+      {"text": "conclude", "ipa": "/kənˈkluːd/", "cefr": "B1", "zh": "得出结论", "emoji": "🏁"}
+    ]
+  },
+  {
+    "input_word": "conclusion",
+    "entries": [
+      {"text": "conclusion", "ipa": "/kənˈkluːʒən/", "cefr": "B1", "zh": "结论结尾", "emoji": "🏁"}
+    ]
+  },
+  {
+    "input_word": "condition",
+    "entries": [
+      {"text": "condition", "ipa": "/kənˈdɪʃən/", "cefr": "A2", "zh": "条件状况", "emoji": "📊"},
+      {"text": "condition", "ipa": "/kənˈdɪʃən/", "cefr": "A2", "zh": "健康状态", "emoji": "🏥"}
+    ]
+  },
+  {
+    "input_word": "conduct",
+    "entries": [
+      {"text": "conduct", "ipa": "/kənˈdʌkt/", "cefr": "B2", "zh": "进行实施", "emoji": "📋"},
+      {"text": "conduct", "ipa": "/ˈkɑːndʌkt/", "cefr": "B2", "zh": "行为举止", "emoji": "🎩"}
+    ]
+  },
+  {
+    "input_word": "conference",
+    "entries": [
+      {"text": "conference", "ipa": "/ˈkɑːnfərəns/", "cefr": "A2", "zh": "会议大会", "emoji": "🎙️"}
+    ]
+  },
+  {
+    "input_word": "confidence",
+    "entries": [
+      {"text": "confidence", "ipa": "/ˈkɑːnfɪdəns/", "cefr": "B2", "zh": "自信信心", "emoji": "💪"}
+    ]
+  }
+]

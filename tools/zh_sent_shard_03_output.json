@@ -1,0 +1,798 @@
+[
+  {
+    "input_word": "好吃",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-0001-0001-0001-000000000001",
+        "text": "这个好吃。",
+        "ipa": "zhè ge hǎo chī",
+        "translation": { "zh": "这个很好吃。", "en": "This is delicious." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "这个",
+            "lemma": "这个",
+            "ipa": "zhè ge",
+            "translation": { "zh": "这个", "en": "this" },
+            "emoji": "👆"
+          },
+          {
+            "text": "好吃",
+            "lemma": "好吃",
+            "ipa": "hǎo chī",
+            "translation": { "zh": "好吃", "en": "delicious" },
+            "emoji": "😋"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0001-0001-0001-000000000002",
+        "text": "苹果很好吃。",
+        "ipa": "píng guǒ hěn hǎo chī",
+        "translation": { "zh": "苹果很好吃。", "en": "The apple is very delicious." },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "苹果",
+            "lemma": "苹果",
+            "ipa": "píng guǒ",
+            "translation": { "zh": "苹果", "en": "apple" },
+            "emoji": "🍎"
+          },
+          {
+            "text": "很好吃",
+            "lemma": "好吃",
+            "ipa": "hěn hǎo chī",
+            "translation": { "zh": "很好吃", "en": "very delicious" },
+            "emoji": "😋"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0001-0001-0001-000000000003",
+        "text": "妈妈做的菜好吃。",
+        "ipa": "mā ma zuò de cài hǎo chī",
+        "translation": { "zh": "妈妈做的菜好吃。", "en": "Mom's cooking is delicious." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "妈妈",
+            "lemma": "妈妈",
+            "ipa": "mā ma",
+            "translation": { "zh": "妈妈", "en": "mom" },
+            "emoji": "👩"
+          },
+          {
+            "text": "做的",
+            "lemma": "做",
+            "ipa": "zuò de",
+            "translation": { "zh": "做的", "en": "made" },
+            "emoji": "👩‍🍳"
+          },
+          {
+            "text": "菜",
+            "lemma": "菜",
+            "ipa": "cài",
+            "translation": { "zh": "菜肴", "en": "dish" },
+            "emoji": "🥘"
+          },
+          {
+            "text": "好吃",
+            "lemma": "好吃",
+            "ipa": "hǎo chī",
+            "translation": { "zh": "好吃", "en": "delicious" },
+            "emoji": "😋"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "黑",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-0002-0002-0002-000000000001",
+        "text": "这只猫是黑的。",
+        "ipa": "zhè zhī māo shì hēi de",
+        "translation": { "zh": "这只猫是黑色的。", "en": "This cat is black." },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "这只",
+            "lemma": "这",
+            "ipa": "zhè zhī",
+            "translation": { "zh": "这只", "en": "this" },
+            "emoji": "👆"
+          },
+          {
+            "text": "猫",
+            "lemma": "猫",
+            "ipa": "māo",
+            "translation": { "zh": "猫", "en": "cat" },
+            "emoji": "🐱"
+          },
+          {
+            "text": "是黑的",
+            "lemma": "黑",
+            "ipa": "shì hēi de",
+            "translation": { "zh": "是黑色的", "en": "is black" },
+            "emoji": "⬛"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0002-0002-0002-000000000002",
+        "text": "天黑了。",
+        "ipa": "tiān hēi le",
+        "translation": { "zh": "天黑了。", "en": "It's gotten dark." },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "天",
+            "lemma": "天",
+            "ipa": "tiān",
+            "translation": { "zh": "天空", "en": "sky" },
+            "emoji": "🌑"
+          },
+          {
+            "text": "黑了",
+            "lemma": "黑",
+            "ipa": "hēi le",
+            "translation": { "zh": "变黑了", "en": "turned dark" },
+            "emoji": "🌙"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0002-0002-0002-000000000003",
+        "text": "我喜欢黑色。",
+        "ipa": "wǒ xǐ huān hēi sè",
+        "translation": { "zh": "我喜欢黑色。", "en": "I like black." },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "我喜欢",
+            "lemma": "喜欢",
+            "ipa": "wǒ xǐ huān",
+            "translation": { "zh": "我喜欢", "en": "I like" },
+            "emoji": "❤️"
+          },
+          {
+            "text": "黑色",
+            "lemma": "黑",
+            "ipa": "hēi sè",
+            "translation": { "zh": "黑色", "en": "black" },
+            "emoji": "⬛"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "红",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-0003-0003-0003-000000000001",
+        "text": "这朵花是红的。",
+        "ipa": "zhè duǒ huā shì hóng de",
+        "translation": { "zh": "这朵花是红色的。", "en": "This flower is red." },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "这朵",
+            "lemma": "这",
+            "ipa": "zhè duǒ",
+            "translation": { "zh": "这朵", "en": "this" },
+            "emoji": "👆"
+          },
+          {
+            "text": "花",
+            "lemma": "花",
+            "ipa": "huā",
+            "translation": { "zh": "花", "en": "flower" },
+            "emoji": "🌸"
+          },
+          {
+            "text": "是红的",
+            "lemma": "红",
+            "ipa": "shì hóng de",
+            "translation": { "zh": "是红色的", "en": "is red" },
+            "emoji": "🔴"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0003-0003-0003-000000000002",
+        "text": "他的脸红了。",
+        "ipa": "tā de liǎn hóng le",
+        "translation": { "zh": "他的脸红了。", "en": "His face turned red." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "他的",
+            "lemma": "他",
+            "ipa": "tā de",
+            "translation": { "zh": "他的", "en": "his" },
+            "emoji": ""
+          },
+          {
+            "text": "脸",
+            "lemma": "脸",
+            "ipa": "liǎn",
+            "translation": { "zh": "脸", "en": "face" },
+            "emoji": "😊"
+          },
+          {
+            "text": "红了",
+            "lemma": "红",
+            "ipa": "hóng le",
+            "translation": { "zh": "红了", "en": "turned red" },
+            "emoji": "😳"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0003-0003-0003-000000000003",
+        "text": "红苹果很甜。",
+        "ipa": "hóng píng guǒ hěn tián",
+        "translation": { "zh": "红苹果很甜。", "en": "Red apples are very sweet." },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "红苹果",
+            "lemma": "苹果",
+            "ipa": "hóng píng guǒ",
+            "translation": { "zh": "红苹果", "en": "red apple" },
+            "emoji": "🍎"
+          },
+          {
+            "text": "很甜",
+            "lemma": "甜",
+            "ipa": "hěn tián",
+            "translation": { "zh": "很甜", "en": "very sweet" },
+            "emoji": "🍬"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "火车站",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-0004-0004-0004-000000000001",
+        "text": "火车站在哪里？",
+        "ipa": "huǒ chē zhàn zài nǎ lǐ",
+        "translation": { "zh": "火车站在哪里？", "en": "Where is the train station?" },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "火车站",
+            "lemma": "火车站",
+            "ipa": "huǒ chē zhàn",
+            "translation": { "zh": "火车站", "en": "train station" },
+            "emoji": "🚉"
+          },
+          {
+            "text": "在哪里",
+            "lemma": "哪里",
+            "ipa": "zài nǎ lǐ",
+            "translation": { "zh": "在哪里", "en": "where is" },
+            "emoji": "📍"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0004-0004-0004-000000000002",
+        "text": "我在火车站等你。",
+        "ipa": "wǒ zài huǒ chē zhàn děng nǐ",
+        "translation": { "zh": "我在火车站等你。", "en": "I'm waiting for you at the train station." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我在火车站",
+            "lemma": "火车站",
+            "ipa": "wǒ zài huǒ chē zhàn",
+            "translation": { "zh": "我在火车站", "en": "I at the train station" },
+            "emoji": "🚉"
+          },
+          {
+            "text": "等你",
+            "lemma": "等",
+            "ipa": "děng nǐ",
+            "translation": { "zh": "等你", "en": "waiting for you" },
+            "emoji": "⏳"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0004-0004-0004-000000000003",
+        "text": "火车站很大。",
+        "ipa": "huǒ chē zhàn hěn dà",
+        "translation": { "zh": "火车站很大。", "en": "The train station is very big." },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "火车站",
+            "lemma": "火车站",
+            "ipa": "huǒ chē zhàn",
+            "translation": { "zh": "火车站", "en": "train station" },
+            "emoji": "🚉"
+          },
+          {
+            "text": "很大",
+            "lemma": "大",
+            "ipa": "hěn dà",
+            "translation": { "zh": "很大", "en": "very big" },
+            "emoji": "📏"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "机场",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-0005-0005-0005-000000000001",
+        "text": "机场离这里远吗？",
+        "ipa": "jī chǎng lí zhè lǐ yuǎn ma",
+        "translation": { "zh": "机场离这里远吗？", "en": "Is the airport far from here?" },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "机场",
+            "lemma": "机场",
+            "ipa": "jī chǎng",
+            "translation": { "zh": "机场", "en": "airport" },
+            "emoji": "✈️"
+          },
+          {
+            "text": "离这里",
+            "lemma": "这里",
+            "ipa": "lí zhè lǐ",
+            "translation": { "zh": "距这里", "en": "from here" },
+            "emoji": "📍"
+          },
+          {
+            "text": "远吗",
+            "lemma": "远",
+            "ipa": "yuǎn ma",
+            "translation": { "zh": "远吗", "en": "far?" },
+            "emoji": "🗺️"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0005-0005-0005-000000000002",
+        "text": "我们去机场。",
+        "ipa": "wǒ men qù jī chǎng",
+        "translation": { "zh": "我们去机场。", "en": "We're going to the airport." },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "我们去",
+            "lemma": "去",
+            "ipa": "wǒ men qù",
+            "translation": { "zh": "我们去", "en": "we go" },
+            "emoji": "🚶"
+          },
+          {
+            "text": "机场",
+            "lemma": "机场",
+            "ipa": "jī chǎng",
+            "translation": { "zh": "机场", "en": "airport" },
+            "emoji": "✈️"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0005-0005-0005-000000000003",
+        "text": "机场在城外。",
+        "ipa": "jī chǎng zài chéng wài",
+        "translation": { "zh": "机场在城外。", "en": "The airport is outside the city." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "机场",
+            "lemma": "机场",
+            "ipa": "jī chǎng",
+            "translation": { "zh": "机场", "en": "airport" },
+            "emoji": "✈️"
+          },
+          {
+            "text": "在城外",
+            "lemma": "城",
+            "ipa": "zài chéng wài",
+            "translation": { "zh": "在城外", "en": "outside the city" },
+            "emoji": "🏙️"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "鸡蛋",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-0006-0006-0006-000000000001",
+        "text": "我想吃鸡蛋。",
+        "ipa": "wǒ xiǎng chī jī dàn",
+        "translation": { "zh": "我想吃鸡蛋。", "en": "I want to eat eggs." },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "我想吃",
+            "lemma": "吃",
+            "ipa": "wǒ xiǎng chī",
+            "translation": { "zh": "我想吃", "en": "I want to eat" },
+            "emoji": "🍴"
+          },
+          {
+            "text": "鸡蛋",
+            "lemma": "鸡蛋",
+            "ipa": "jī dàn",
+            "translation": { "zh": "鸡蛋", "en": "egg" },
+            "emoji": "🥚"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0006-0006-0006-000000000002",
+        "text": "一个鸡蛋多少钱？",
+        "ipa": "yī gè jī dàn duō shao qián",
+        "translation": { "zh": "一个鸡蛋多少钱？", "en": "How much is one egg?" },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "一个鸡蛋",
+            "lemma": "鸡蛋",
+            "ipa": "yī gè jī dàn",
+            "translation": { "zh": "一个鸡蛋", "en": "one egg" },
+            "emoji": "🥚"
+          },
+          {
+            "text": "多少钱",
+            "lemma": "钱",
+            "ipa": "duō shao qián",
+            "translation": { "zh": "多少钱", "en": "how much" },
+            "emoji": "💰"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0006-0006-0006-000000000003",
+        "text": "鸡蛋很新鲜。",
+        "ipa": "jī dàn hěn xīn xiān",
+        "translation": { "zh": "鸡蛋很新鲜。", "en": "The eggs are very fresh." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "鸡蛋",
+            "lemma": "鸡蛋",
+            "ipa": "jī dàn",
+            "translation": { "zh": "鸡蛋", "en": "eggs" },
+            "emoji": "🥚"
+          },
+          {
+            "text": "很新鲜",
+            "lemma": "新鲜",
+            "ipa": "hěn xīn xiān",
+            "translation": { "zh": "很新鲜", "en": "very fresh" },
+            "emoji": "✨"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "教室",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-0007-0007-0007-000000000001",
+        "text": "教室里有很多学生。",
+        "ipa": "jiào shì lǐ yǒu hěn duō xué shēng",
+        "translation": { "zh": "教室里有很多学生。", "en": "There are many students in the classroom." },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "教室里",
+            "lemma": "教室",
+            "ipa": "jiào shì lǐ",
+            "translation": { "zh": "教室里面", "en": "in the classroom" },
+            "emoji": "🏫"
+          },
+          {
+            "text": "有很多",
+            "lemma": "有",
+            "ipa": "yǒu hěn duō",
+            "translation": { "zh": "有很多", "en": "there are many" },
+            "emoji": ""
+          },
+          {
+            "text": "学生",
+            "lemma": "学生",
+            "ipa": "xué shēng",
+            "translation": { "zh": "学生", "en": "students" },
+            "emoji": "🧑‍🎓"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0007-0007-0007-000000000002",
+        "text": "教室很大。",
+        "ipa": "jiào shì hěn dà",
+        "translation": { "zh": "教室很大。", "en": "The classroom is very big." },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "教室",
+            "lemma": "教室",
+            "ipa": "jiào shì",
+            "translation": { "zh": "教室", "en": "classroom" },
+            "emoji": "🏫"
+          },
+          {
+            "text": "很大",
+            "lemma": "大",
+            "ipa": "hěn dà",
+            "translation": { "zh": "很大", "en": "very big" },
+            "emoji": "📏"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0007-0007-0007-000000000003",
+        "text": "我们在教室学习。",
+        "ipa": "wǒ men zài jiào shì xué xí",
+        "translation": { "zh": "我们在教室里学习。", "en": "We study in the classroom." },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "我们在教室",
+            "lemma": "教室",
+            "ipa": "wǒ men zài jiào shì",
+            "translation": { "zh": "我们在教室", "en": "we in the classroom" },
+            "emoji": "🏫"
+          },
+          {
+            "text": "学习",
+            "lemma": "学习",
+            "ipa": "xué xí",
+            "translation": { "zh": "学习", "en": "study" },
+            "emoji": "📚"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "姐姐",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-0008-0008-0008-000000000001",
+        "text": "我姐姐很漂亮。",
+        "ipa": "wǒ jiě jie hěn piào liang",
+        "translation": { "zh": "我姐姐很漂亮。", "en": "My older sister is very pretty." },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "我姐姐",
+            "lemma": "姐姐",
+            "ipa": "wǒ jiě jie",
+            "translation": { "zh": "我的姐姐", "en": "my older sister" },
+            "emoji": "👩"
+          },
+          {
+            "text": "很漂亮",
+            "lemma": "漂亮",
+            "ipa": "hěn piào liang",
+            "translation": { "zh": "很漂亮", "en": "very pretty" },
+            "emoji": "✨"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0008-0008-0008-000000000002",
+        "text": "姐姐在家。",
+        "ipa": "jiě jie zài jiā",
+        "translation": { "zh": "姐姐在家。", "en": "My sister is at home." },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "姐姐",
+            "lemma": "姐姐",
+            "ipa": "jiě jie",
+            "translation": { "zh": "姐姐", "en": "older sister" },
+            "emoji": "👩"
+          },
+          {
+            "text": "在家",
+            "lemma": "家",
+            "ipa": "zài jiā",
+            "translation": { "zh": "在家", "en": "at home" },
+            "emoji": "🏠"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0008-0008-0008-000000000003",
+        "text": "姐姐喜欢唱歌。",
+        "ipa": "jiě jie xǐ huān chàng gē",
+        "translation": { "zh": "姐姐喜欢唱歌。", "en": "My sister likes to sing." },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "姐姐",
+            "lemma": "姐姐",
+            "ipa": "jiě jie",
+            "translation": { "zh": "姐姐", "en": "older sister" },
+            "emoji": "👩"
+          },
+          {
+            "text": "喜欢",
+            "lemma": "喜欢",
+            "ipa": "xǐ huān",
+            "translation": { "zh": "喜欢", "en": "likes" },
+            "emoji": "❤️"
+          },
+          {
+            "text": "唱歌",
+            "lemma": "唱歌",
+            "ipa": "chàng gē",
+            "translation": { "zh": "唱歌", "en": "to sing" },
+            "emoji": "🎤"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "介绍",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-0009-0009-0009-000000000001",
+        "text": "请介绍一下自己。",
+        "ipa": "qǐng jiè shào yī xià zì jǐ",
+        "translation": { "zh": "请介绍一下自己。", "en": "Please introduce yourself." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "请介绍",
+            "lemma": "介绍",
+            "ipa": "qǐng jiè shào",
+            "translation": { "zh": "请介绍", "en": "please introduce" },
+            "emoji": "🤝"
+          },
+          {
+            "text": "一下",
+            "lemma": "一下",
+            "ipa": "yī xià",
+            "translation": { "zh": "一下", "en": "briefly" },
+            "emoji": ""
+          },
+          {
+            "text": "自己",
+            "lemma": "自己",
+            "ipa": "zì jǐ",
+            "translation": { "zh": "自己", "en": "yourself" },
+            "emoji": "🙋"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0009-0009-0009-000000000002",
+        "text": "我来介绍一下。",
+        "ipa": "wǒ lái jiè shào yī xià",
+        "translation": { "zh": "我来介绍一下。", "en": "Let me make an introduction." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我来介绍",
+            "lemma": "介绍",
+            "ipa": "wǒ lái jiè shào",
+            "translation": { "zh": "我来介绍", "en": "let me introduce" },
+            "emoji": "🤝"
+          },
+          {
+            "text": "一下",
+            "lemma": "一下",
+            "ipa": "yī xià",
+            "translation": { "zh": "一下", "en": "briefly" },
+            "emoji": ""
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0009-0009-0009-000000000003",
+        "text": "他介绍了朋友。",
+        "ipa": "tā jiè shào le péng yǒu",
+        "translation": { "zh": "他介绍了朋友。", "en": "He introduced his friend." },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "他介绍了",
+            "lemma": "介绍",
+            "ipa": "tā jiè shào le",
+            "translation": { "zh": "他介绍了", "en": "he introduced" },
+            "emoji": "🤝"
+          },
+          {
+            "text": "朋友",
+            "lemma": "朋友",
+            "ipa": "péng yǒu",
+            "translation": { "zh": "朋友", "en": "friend" },
+            "emoji": "👫"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "进",
+    "sentences": [
+      {
+        "id": "a1b2c3d4-0010-0010-0010-000000000001",
+        "text": "请进！",
+        "ipa": "qǐng jìn",
+        "translation": { "zh": "请进！", "en": "Please come in!" },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "请进",
+            "lemma": "进",
+            "ipa": "qǐng jìn",
+            "translation": { "zh": "请进来", "en": "please come in" },
+            "emoji": "🚪"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0010-0010-0010-000000000002",
+        "text": "他走进了房间。",
+        "ipa": "tā zǒu jìn le fáng jiān",
+        "translation": { "zh": "他走进了房间。", "en": "He walked into the room." },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "他走进了",
+            "lemma": "进",
+            "ipa": "tā zǒu jìn le",
+            "translation": { "zh": "他走进了", "en": "he walked into" },
+            "emoji": "🚶"
+          },
+          {
+            "text": "房间",
+            "lemma": "房间",
+            "ipa": "fáng jiān",
+            "translation": { "zh": "房间", "en": "room" },
+            "emoji": "🚪"
+          }
+        ]
+      },
+      {
+        "id": "a1b2c3d4-0010-0010-0010-000000000003",
+        "text": "进来坐吧。",
+        "ipa": "jìn lái zuò ba",
+        "translation": { "zh": "进来坐吧。", "en": "Come in and sit down." },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "进来",
+            "lemma": "进",
+            "ipa": "jìn lái",
+            "translation": { "zh": "进来", "en": "come in" },
+            "emoji": "🚪"
+          },
+          {
+            "text": "坐吧",
+            "lemma": "坐",
+            "ipa": "zuò ba",
+            "translation": { "zh": "坐下吧", "en": "sit down" },
+            "emoji": "🪑"
+          }
+        ]
+      }
+    ]
+  }
+]

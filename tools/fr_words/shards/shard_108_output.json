@@ -1,0 +1,286 @@
+[
+  {
+    "text": "saucisson",
+    "ipa": "so.si.sɔ̃",
+    "translation": {"zh": "香肠", "en": "dry sausage"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "saucisson", "lemma": "saucisson", "ipa": "so.si.sɔ̃", "translation": {"zh": "香肠", "en": "dry sausage"}, "emoji": "🥩"}
+    ]
+  },
+  {
+    "text": "couronner le champion",
+    "ipa": "ku.ʁɔ.ne lə ʃɑ̃.pjɔ̃",
+    "translation": {"zh": "为冠军加冕", "en": "crown the champion"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "couronner", "lemma": "couronner", "ipa": "ku.ʁɔ.ne", "translation": {"zh": "加冕", "en": "crown"}, "emoji": "👑"},
+      {"text": "le champion", "lemma": "champion", "ipa": "lə ʃɑ̃.pjɔ̃", "translation": {"zh": "冠军", "en": "champion"}, "emoji": "🏆"}
+    ]
+  },
+  {
+    "text": "enflammer la foule",
+    "ipa": "ɑ̃.fla.me la ful",
+    "translation": {"zh": "点燃人群的激情", "en": "ignite the crowd"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "enflammer", "lemma": "enflammer", "ipa": "ɑ̃.fla.me", "translation": {"zh": "点燃", "en": "inflame"}, "emoji": "🔥"},
+      {"text": "la foule", "lemma": "foule", "ipa": "la ful", "translation": {"zh": "人群", "en": "crowd"}, "emoji": "👥"}
+    ]
+  },
+  {
+    "text": "jouer au loto",
+    "ipa": "ʒwe o lo.to",
+    "translation": {"zh": "玩乐透", "en": "play the lottery"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "jouer au", "lemma": "jouer", "ipa": "ʒwe o", "translation": {"zh": "玩", "en": "play"}, "emoji": "🎲"},
+      {"text": "loto", "lemma": "loto", "ipa": "lo.to", "translation": {"zh": "乐透", "en": "lottery"}, "emoji": "🎰"}
+    ]
+  },
+  {
+    "text": "admirateur",
+    "ipa": "ad.mi.ʁa.tœʁ",
+    "translation": {"zh": "崇拜者", "en": "admirer"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "admirateur", "lemma": "admirateur", "ipa": "ad.mi.ʁa.tœʁ", "translation": {"zh": "崇拜者", "en": "admirer"}, "emoji": "😍"}
+    ]
+  },
+  {
+    "text": "le pneu a crevé",
+    "ipa": "lə pnø a kʁə.ve",
+    "translation": {"zh": "轮胎爆了", "en": "the tyre blew out"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le pneu", "lemma": "pneu", "ipa": "lə pnø", "translation": {"zh": "轮胎", "en": "tyre"}, "emoji": "🚗"},
+      {"text": "a crevé", "lemma": "crever", "ipa": "a kʁə.ve", "translation": {"zh": "爆了", "en": "blew out"}, "emoji": "💥"}
+    ]
+  },
+  {
+    "text": "manœuvre",
+    "ipa": "ma.nœvʁ",
+    "translation": {"zh": "操作；机动", "en": "manoeuvre"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "manœuvre", "lemma": "manoeuvre", "ipa": "ma.nœvʁ", "translation": {"zh": "操作", "en": "manoeuvre"}, "emoji": "⚙️"}
+    ]
+  },
+  {
+    "text": "revêtir un uniforme",
+    "ipa": "ʁə.vɛ.tiʁ œ̃ ny.ni.fɔʁm",
+    "translation": {"zh": "穿上制服", "en": "put on a uniform"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "revêtir", "lemma": "revêtir", "ipa": "ʁə.vɛ.tiʁ", "translation": {"zh": "穿上", "en": "put on"}, "emoji": "👗"},
+      {"text": "un uniforme", "lemma": "uniforme", "ipa": "œ̃ ny.ni.fɔʁm", "translation": {"zh": "制服", "en": "uniform"}, "emoji": "👔"}
+    ]
+  },
+  {
+    "text": "sans interruption",
+    "ipa": "sɑ̃ ɛ̃.tɛ.ʁyp.sjɔ̃",
+    "translation": {"zh": "不间断地", "en": "without interruption"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "sans interruption", "lemma": "interruption", "ipa": "sɑ̃ ɛ̃.tɛ.ʁyp.sjɔ̃", "translation": {"zh": "不间断", "en": "without interruption"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "mentionner un détail",
+    "ipa": "mɑ̃.sjɔ.ne œ̃ de.taj",
+    "translation": {"zh": "提及一个细节", "en": "mention a detail"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "mentionner", "lemma": "mentionner", "ipa": "mɑ̃.sjɔ.ne", "translation": {"zh": "提及", "en": "mention"}, "emoji": "💬"},
+      {"text": "un détail", "lemma": "détail", "ipa": "œ̃ de.taj", "translation": {"zh": "细节", "en": "detail"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "confiner à la maison",
+    "ipa": "kɔ̃.fi.ne a la mɛ.zɔ̃",
+    "translation": {"zh": "居家隔离", "en": "confine at home"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "confiner", "lemma": "confiner", "ipa": "kɔ̃.fi.ne", "translation": {"zh": "隔离", "en": "confine"}, "emoji": "🏠"},
+      {"text": "à la maison", "lemma": "maison", "ipa": "a la mɛ.zɔ̃", "translation": {"zh": "在家", "en": "at home"}, "emoji": "🏡"}
+    ]
+  },
+  {
+    "text": "scandinave",
+    "ipa": "skɑ̃.di.nav",
+    "translation": {"zh": "斯堪的纳维亚的", "en": "Scandinavian"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "scandinave", "lemma": "scandinave", "ipa": "skɑ̃.di.nav", "translation": {"zh": "斯堪的纳维亚", "en": "Scandinavian"}, "emoji": "🇸🇪"}
+    ]
+  },
+  {
+    "text": "le design",
+    "ipa": "lə di.zajn",
+    "translation": {"zh": "设计", "en": "design"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le design", "lemma": "design", "ipa": "lə di.zajn", "translation": {"zh": "设计", "en": "design"}, "emoji": "✏️"}
+    ]
+  },
+  {
+    "text": "le lustre",
+    "ipa": "lə lystʁ",
+    "translation": {"zh": "枝形吊灯", "en": "chandelier"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le lustre", "lemma": "lustre", "ipa": "lə lystʁ", "translation": {"zh": "枝形吊灯", "en": "chandelier"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "agence immobilière",
+    "ipa": "a.ʒɑ̃s i.mo.bi.ljɛʁ",
+    "translation": {"zh": "房产中介", "en": "real estate agency"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "agence", "lemma": "agence", "ipa": "a.ʒɑ̃s", "translation": {"zh": "中介", "en": "agency"}, "emoji": "🏢"},
+      {"text": "immobilière", "lemma": "immobilier", "ipa": "i.mo.bi.ljɛʁ", "translation": {"zh": "房产的", "en": "real estate"}, "emoji": "🏠"}
+    ]
+  },
+  {
+    "text": "le défilé de mode",
+    "ipa": "lə de.fi.le də mɔd",
+    "translation": {"zh": "时装秀", "en": "fashion show"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le défilé", "lemma": "défilé", "ipa": "lə de.fi.le", "translation": {"zh": "游行；走秀", "en": "parade"}, "emoji": "👗"},
+      {"text": "de mode", "lemma": "mode", "ipa": "də mɔd", "translation": {"zh": "时尚", "en": "fashion"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "sèche-cheveux",
+    "ipa": "sɛʃ.ʃə.vø",
+    "translation": {"zh": "吹风机", "en": "hair dryer"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "sèche-cheveux", "lemma": "sèche", "ipa": "sɛʃ.ʃə.vø", "translation": {"zh": "吹风机", "en": "hair dryer"}, "emoji": "💨"}
+    ]
+  },
+  {
+    "text": "boucher",
+    "ipa": "bu.ʃe",
+    "translation": {"zh": "肉铺老板", "en": "butcher"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "boucher", "lemma": "boucher", "ipa": "bu.ʃe", "translation": {"zh": "肉铺老板", "en": "butcher"}, "emoji": "🥩"}
+    ]
+  },
+  {
+    "text": "jouer du piano",
+    "ipa": "ʒwe dy pja.no",
+    "translation": {"zh": "弹钢琴", "en": "play the piano"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "jouer du", "lemma": "jouer", "ipa": "ʒwe dy", "translation": {"zh": "演奏", "en": "play"}, "emoji": "🎵"},
+      {"text": "piano", "lemma": "piano", "ipa": "pja.no", "translation": {"zh": "钢琴", "en": "piano"}, "emoji": "🎹"}
+    ]
+  },
+  {
+    "text": "tolérer le bruit",
+    "ipa": "tɔ.le.ʁe lə bʁɥi",
+    "translation": {"zh": "忍受噪音", "en": "tolerate the noise"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "tolérer", "lemma": "tolérer", "ipa": "tɔ.le.ʁe", "translation": {"zh": "忍受", "en": "tolerate"}, "emoji": "😤"},
+      {"text": "le bruit", "lemma": "bruit", "ipa": "lə bʁɥi", "translation": {"zh": "噪音", "en": "noise"}, "emoji": "🔊"}
+    ]
+  },
+  {
+    "text": "parfumer l'air",
+    "ipa": "paʁ.fy.me lɛʁ",
+    "translation": {"zh": "让空气充满香气", "en": "perfume the air"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "parfumer", "lemma": "parfumer", "ipa": "paʁ.fy.me", "translation": {"zh": "使芳香", "en": "perfume"}, "emoji": "🌸"},
+      {"text": "l'air", "lemma": "air", "ipa": "lɛʁ", "translation": {"zh": "空气", "en": "air"}, "emoji": "🌬️"}
+    ]
+  },
+  {
+    "text": "un étang",
+    "ipa": "œ̃ ne.tɑ̃",
+    "translation": {"zh": "池塘", "en": "pond"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un étang", "lemma": "étang", "ipa": "œ̃ ne.tɑ̃", "translation": {"zh": "池塘", "en": "pond"}, "emoji": "🏞️"}
+    ]
+  },
+  {
+    "text": "caserne de pompiers",
+    "ipa": "ka.zɛʁn də pɔ̃.pje",
+    "translation": {"zh": "消防站", "en": "fire station"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "caserne", "lemma": "caserne", "ipa": "ka.zɛʁn", "translation": {"zh": "营房", "en": "barracks"}, "emoji": "🏛️"},
+      {"text": "de pompiers", "lemma": "pompier", "ipa": "də pɔ̃.pje", "translation": {"zh": "消防员的", "en": "firefighter"}, "emoji": "🚒"}
+    ]
+  },
+  {
+    "text": "un tuyau",
+    "ipa": "œ̃ tɥi.jo",
+    "translation": {"zh": "管子", "en": "pipe"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un tuyau", "lemma": "tuyau", "ipa": "œ̃ tɥi.jo", "translation": {"zh": "管子", "en": "pipe"}, "emoji": "🔧"}
+    ]
+  },
+  {
+    "text": "excessif",
+    "ipa": "ɛk.sɛ.sif",
+    "translation": {"zh": "过度的", "en": "excessive"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "excessif", "lemma": "excessif", "ipa": "ɛk.sɛ.sif", "translation": {"zh": "过度的", "en": "excessive"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un marteau",
+    "ipa": "œ̃ maʁ.to",
+    "translation": {"zh": "锤子", "en": "hammer"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un marteau", "lemma": "marteau", "ipa": "œ̃ maʁ.to", "translation": {"zh": "锤子", "en": "hammer"}, "emoji": "🔨"}
+    ]
+  },
+  {
+    "text": "une maquette",
+    "ipa": "yn ma.kɛt",
+    "translation": {"zh": "模型", "en": "model"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une maquette", "lemma": "maquette", "ipa": "yn ma.kɛt", "translation": {"zh": "模型", "en": "model"}, "emoji": "🏗️"}
+    ]
+  },
+  {
+    "text": "bienfait",
+    "ipa": "bjɛ̃.fɛ",
+    "translation": {"zh": "益处", "en": "benefit"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "bienfait", "lemma": "bienfait", "ipa": "bjɛ̃.fɛ", "translation": {"zh": "益处", "en": "benefit"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "un mets raffiné",
+    "ipa": "œ̃ mɛ ʁa.fi.ne",
+    "translation": {"zh": "一道精致菜肴", "en": "a refined dish"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un mets", "lemma": "mets", "ipa": "œ̃ mɛ", "translation": {"zh": "菜肴", "en": "dish"}, "emoji": "🍽️"},
+      {"text": "raffiné", "lemma": "raffiné", "ipa": "ʁa.fi.ne", "translation": {"zh": "精致的", "en": "refined"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "la digue",
+    "ipa": "la diɡ",
+    "translation": {"zh": "堤坝", "en": "dike"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la digue", "lemma": "digue", "ipa": "la diɡ", "translation": {"zh": "堤坝", "en": "dike"}, "emoji": "🌊"}
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {"text":"Two roads diverged in a yellow wood,","ipa":"tu roʊdz daɪˈvɜrdʒd ɪn ə ˈjɛl.oʊ wʊd","translation":{"zh":"金色林中两路分岔，"},"cefr":"C2","tokens":[
+    {"text":"Two roads","lemma":"road","ipa":"tu roʊdz","translation":{"zh":"两条路"},"emoji":"🛤️"},
+    {"text":"diverged","lemma":"diverge","ipa":"daɪˈvɜrdʒd","translation":{"zh":"分岔"},"emoji":"🔱"},
+    {"text":"in a yellow","lemma":"yellow","ipa":"ɪn ə ˈjɛl.oʊ","translation":{"zh":"于金黄"},"emoji":"🟡"},
+    {"text":"wood,","lemma":"wood","ipa":"wʊd","translation":{"zh":"树林"},"emoji":"🌳"}
+  ],"tags":[{"name":"The Road Not Taken","index":1}]},
+  {"text":"And sorry I could not travel both","ipa":"ænd ˈsɑr.i aɪ kʊd nɑt ˈtræv.əl boʊθ","translation":{"zh":"惜我无法两路兼行"},"cefr":"C2","tokens":[
+    {"text":"And sorry","lemma":"sorry","ipa":"ænd ˈsɑr.i","translation":{"zh":"而遗憾"},"emoji":"😔"},
+    {"text":"I could not travel","lemma":"travel","ipa":"aɪ kʊd nɑt ˈtræv.əl","translation":{"zh":"我无法行走"},"emoji":"🚶"},
+    {"text":"both","lemma":"both","ipa":"boʊθ","translation":{"zh":"两者"},"emoji":"✌️"}
+  ],"tags":[{"name":"The Road Not Taken","index":2}]},
+  {"text":"And be one traveler, long I stood","ipa":"ænd bi wʌn ˈtræv.əl.ər lɔŋ aɪ stʊd","translation":{"zh":"身为孤旅，我久伫立"},"cefr":"C2","tokens":[
+    {"text":"And be one traveler,","lemma":"traveler","ipa":"ænd bi wʌn ˈtræv.əl.ər","translation":{"zh":"身为一旅人"},"emoji":"🚶"},
+    {"text":"long","lemma":"long","ipa":"lɔŋ","translation":{"zh":"久久"},"emoji":"⏳"},
+    {"text":"I stood","lemma":"stand","ipa":"aɪ stʊd","translation":{"zh":"我伫立"},"emoji":"🧍"}
+  ],"tags":[{"name":"The Road Not Taken","index":3}]},
+  {"text":"And looked down one as far as I could","ipa":"ænd lʊkt daʊn wʌn æz fɑr æz aɪ kʊd","translation":{"zh":"极目远眺其中一条"},"cefr":"C2","tokens":[
+    {"text":"And looked down","lemma":"look","ipa":"ænd lʊkt daʊn","translation":{"zh":"并望去"},"emoji":"👀"},
+    {"text":"one","lemma":"one","ipa":"wʌn","translation":{"zh":"一条"},"emoji":"1️⃣"},
+    {"text":"as far","lemma":"far","ipa":"æz fɑr","translation":{"zh":"尽其远"},"emoji":"🔭"},
+    {"text":"as I could","lemma":"can","ipa":"æz aɪ kʊd","translation":{"zh":"我所能"},"emoji":"💪"}
+  ],"tags":[{"name":"The Road Not Taken","index":4}]},
+  {"text":"To where it bent in the undergrowth.","ipa":"tə wɛr ɪt bɛnt ɪn ði ˈʌn.dər.ɡroʊθ","translation":{"zh":"直至它弯入灌木丛深处。"},"cefr":"C2","tokens":[
+    {"text":"To where","lemma":"where","ipa":"tə wɛr","translation":{"zh":"直到处"},"emoji":"📍"},
+    {"text":"it bent","lemma":"bend","ipa":"ɪt bɛnt","translation":{"zh":"它弯曲"},"emoji":"↪️"},
+    {"text":"in the undergrowth.","lemma":"undergrowth","ipa":"ɪn ði ˈʌn.dər.ɡroʊθ","translation":{"zh":"于灌木丛"},"emoji":"🌿"}
+  ],"tags":[{"name":"The Road Not Taken","index":5}]}
+]

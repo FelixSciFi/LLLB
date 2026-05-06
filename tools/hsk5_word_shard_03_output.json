@@ -1,0 +1,184 @@
+[
+  {
+    "input_text": "产生",
+    "entries": [
+      {"text": "产生", "pinyin": "chǎn shēng", "en": "to produce; arise", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_text": "长途",
+    "entries": [
+      {"text": "长途", "pinyin": "cháng tú", "en": "long-distance", "emoji": "🛣️"}
+    ]
+  },
+  {
+    "input_text": "常识",
+    "entries": [
+      {"text": "常识", "pinyin": "cháng shí", "en": "common sense", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "抄",
+    "entries": [
+      {"text": "抄", "pinyin": "chāo", "en": "to copy; transcribe", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_text": "超级",
+    "entries": [
+      {"text": "超级", "pinyin": "chāo jí", "en": "super; ultra", "emoji": "⚡"}
+    ]
+  },
+  {
+    "input_text": "朝",
+    "entries": [
+      {"text": "朝", "pinyin": "cháo", "en": "dynasty", "emoji": "👑"},
+      {"text": "朝", "pinyin": "zhāo", "en": "morning", "emoji": "🌅"},
+      {"text": "朝", "pinyin": "cháo", "en": "toward; facing", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "潮湿",
+    "entries": [
+      {"text": "潮湿", "pinyin": "cháo shī", "en": "damp; humid", "emoji": "💧"}
+    ]
+  },
+  {
+    "input_text": "吵",
+    "entries": [
+      {"text": "吵", "pinyin": "chǎo", "en": "noisy; to quarrel", "emoji": "📢"}
+    ]
+  },
+  {
+    "input_text": "吵架",
+    "entries": [
+      {"text": "吵架", "pinyin": "chǎo jià", "en": "to quarrel; argue", "emoji": "😤"}
+    ]
+  },
+  {
+    "input_text": "炒",
+    "entries": [
+      {"text": "炒", "pinyin": "chǎo", "en": "to stir-fry", "emoji": "🍳"}
+    ]
+  },
+  {
+    "input_text": "车库",
+    "entries": [
+      {"text": "车库", "pinyin": "chē kù", "en": "garage", "emoji": "🏠"}
+    ]
+  },
+  {
+    "input_text": "车厢",
+    "entries": [
+      {"text": "车厢", "pinyin": "chē xiāng", "en": "train carriage", "emoji": "🚃"}
+    ]
+  },
+  {
+    "input_text": "彻底",
+    "entries": [
+      {"text": "彻底", "pinyin": "chè dǐ", "en": "thorough; complete", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "沉默",
+    "entries": [
+      {"text": "沉默", "pinyin": "chén mò", "en": "silence; silent", "emoji": "🤫"}
+    ]
+  },
+  {
+    "input_text": "趁",
+    "entries": [
+      {"text": "趁", "pinyin": "chèn", "en": "to seize (opportunity)", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "称",
+    "entries": [
+      {"text": "称", "pinyin": "chēng", "en": "to weigh; to call", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_text": "称呼",
+    "entries": [
+      {"text": "称呼", "pinyin": "chēng hu", "en": "to address; a title", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "称赞",
+    "entries": [
+      {"text": "称赞", "pinyin": "chēng zàn", "en": "to praise; compliment", "emoji": "👏"}
+    ]
+  },
+  {
+    "input_text": "成分",
+    "entries": [
+      {"text": "成分", "pinyin": "chéng fèn", "en": "component; ingredient", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "成果",
+    "entries": [
+      {"text": "成果", "pinyin": "chéng guǒ", "en": "result; achievement", "emoji": "🏆"}
+    ]
+  },
+  {
+    "input_text": "成就",
+    "entries": [
+      {"text": "成就", "pinyin": "chéng jiù", "en": "achievement; accomplishment", "emoji": "🏅"}
+    ]
+  },
+  {
+    "input_text": "成立",
+    "entries": [
+      {"text": "成立", "pinyin": "chéng lì", "en": "to establish; found", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_text": "成人",
+    "entries": [
+      {"text": "成人", "pinyin": "chéng rén", "en": "adult", "emoji": "🧑"}
+    ]
+  },
+  {
+    "input_text": "成熟",
+    "entries": [
+      {"text": "成熟", "pinyin": "chéng shú", "en": "mature; ripe", "emoji": "🍎"}
+    ]
+  },
+  {
+    "input_text": "成语",
+    "entries": [
+      {"text": "成语", "pinyin": "chéng yǔ", "en": "Chinese idiom", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_text": "成长",
+    "entries": [
+      {"text": "成长", "pinyin": "chéng zhǎng", "en": "to grow up", "emoji": "🌱"}
+    ]
+  },
+  {
+    "input_text": "诚恳",
+    "entries": [
+      {"text": "诚恳", "pinyin": "chéng kěn", "en": "sincere; earnest", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "承担",
+    "entries": [
+      {"text": "承担", "pinyin": "chéng dān", "en": "to undertake; bear", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "承认",
+    "entries": [
+      {"text": "承认", "pinyin": "chéng rèn", "en": "to admit; acknowledge", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "承受",
+    "entries": [
+      {"text": "承受", "pinyin": "chéng shòu", "en": "to bear; endure", "emoji": ""}
+    ]
+  }
+]

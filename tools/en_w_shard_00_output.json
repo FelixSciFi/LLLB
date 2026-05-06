@@ -1,0 +1,184 @@
+[
+  {
+    "input_word": "wage",
+    "entries": [
+      {"text": "wage", "ipa": "/weɪdʒ/", "cefr": "B2", "zh": "工资", "emoji": "💵"}
+    ]
+  },
+  {
+    "input_word": "wait",
+    "entries": [
+      {"text": "wait", "ipa": "/weɪt/", "cefr": "A1", "zh": "等待", "emoji": "⏳"}
+    ]
+  },
+  {
+    "input_word": "waiter",
+    "entries": [
+      {"text": "waiter", "ipa": "/ˈweɪtər/", "cefr": "A1", "zh": "服务员", "emoji": "🧑‍🍳"}
+    ]
+  },
+  {
+    "input_word": "wake",
+    "entries": [
+      {"text": "wake", "ipa": "/weɪk/", "cefr": "A1", "zh": "醒来", "emoji": "⏰"}
+    ]
+  },
+  {
+    "input_word": "walk",
+    "entries": [
+      {"text": "walk", "ipa": "/wɔːk/", "cefr": "A1", "zh": "走路", "emoji": "🚶"}
+    ]
+  },
+  {
+    "input_word": "wall",
+    "entries": [
+      {"text": "wall", "ipa": "/wɔːl/", "cefr": "A1", "zh": "墙", "emoji": "🧱"}
+    ]
+  },
+  {
+    "input_word": "want",
+    "entries": [
+      {"text": "want", "ipa": "/wɑːnt/", "cefr": "A1", "zh": "想要", "emoji": "🙋"}
+    ]
+  },
+  {
+    "input_word": "war",
+    "entries": [
+      {"text": "war", "ipa": "/wɔːr/", "cefr": "A2", "zh": "战争", "emoji": "⚔️"}
+    ]
+  },
+  {
+    "input_word": "warm",
+    "entries": [
+      {"text": "warm", "ipa": "/wɔːrm/", "cefr": "A1", "zh": "温暖的", "emoji": "🌤️"}
+    ]
+  },
+  {
+    "input_word": "warn",
+    "entries": [
+      {"text": "warn", "ipa": "/wɔːrn/", "cefr": "B1", "zh": "警告", "emoji": "⚠️"}
+    ]
+  },
+  {
+    "input_word": "warning",
+    "entries": [
+      {"text": "warning", "ipa": "/ˈwɔːrnɪŋ/", "cefr": "B1", "zh": "警告", "emoji": "⚠️"}
+    ]
+  },
+  {
+    "input_word": "wash",
+    "entries": [
+      {"text": "wash", "ipa": "/wɑːʃ/", "cefr": "A1", "zh": "洗涤", "emoji": "🧼"}
+    ]
+  },
+  {
+    "input_word": "washing",
+    "entries": [
+      {"text": "washing", "ipa": "/ˈwɑːʃɪŋ/", "cefr": "A2", "zh": "洗涤物", "emoji": "👕"}
+    ]
+  },
+  {
+    "input_word": "waste",
+    "entries": [
+      {"text": "waste", "ipa": "/weɪst/", "cefr": "B1", "zh": "浪费", "emoji": "🗑️"},
+      {"text": "waste", "ipa": "/weɪst/", "cefr": "B1", "zh": "废物", "emoji": "♻️"}
+    ]
+  },
+  {
+    "input_word": "watch",
+    "entries": [
+      {"text": "watch", "ipa": "/wɑːtʃ/", "cefr": "A1", "zh": "观看", "emoji": "👀"},
+      {"text": "watch", "ipa": "/wɑːtʃ/", "cefr": "A1", "zh": "手表", "emoji": "⌚"}
+    ]
+  },
+  {
+    "input_word": "water",
+    "entries": [
+      {"text": "water", "ipa": "/ˈwɔːtər/", "cefr": "A1", "zh": "水", "emoji": "💧"}
+    ]
+  },
+  {
+    "input_word": "wave",
+    "entries": [
+      {"text": "wave", "ipa": "/weɪv/", "cefr": "A2", "zh": "波浪", "emoji": "🌊"},
+      {"text": "wave", "ipa": "/weɪv/", "cefr": "A2", "zh": "挥手", "emoji": "👋"}
+    ]
+  },
+  {
+    "input_word": "way",
+    "entries": [
+      {"text": "way", "ipa": "/weɪ/", "cefr": "A1", "zh": "方式", "emoji": "🛣️"}
+    ]
+  },
+  {
+    "input_word": "we",
+    "entries": []
+  },
+  {
+    "input_word": "weak",
+    "entries": [
+      {"text": "weak", "ipa": "/wiːk/", "cefr": "A2", "zh": "虚弱的", "emoji": "😔"}
+    ]
+  },
+  {
+    "input_word": "weakness",
+    "entries": [
+      {"text": "weakness", "ipa": "/ˈwiːknəs/", "cefr": "B2", "zh": "弱点", "emoji": "😔"}
+    ]
+  },
+  {
+    "input_word": "wealth",
+    "entries": [
+      {"text": "wealth", "ipa": "/wɛlθ/", "cefr": "B2", "zh": "财富", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_word": "wealthy",
+    "entries": [
+      {"text": "wealthy", "ipa": "/ˈwɛlθi/", "cefr": "B2", "zh": "富裕的", "emoji": "💎"}
+    ]
+  },
+  {
+    "input_word": "weapon",
+    "entries": [
+      {"text": "weapon", "ipa": "/ˈwɛpən/", "cefr": "B1", "zh": "武器", "emoji": "⚔️"}
+    ]
+  },
+  {
+    "input_word": "wear",
+    "entries": [
+      {"text": "wear", "ipa": "/wɛr/", "cefr": "A1", "zh": "穿戴", "emoji": "👗"}
+    ]
+  },
+  {
+    "input_word": "weather",
+    "entries": [
+      {"text": "weather", "ipa": "/ˈwɛðər/", "cefr": "A1", "zh": "天气", "emoji": "🌤️"}
+    ]
+  },
+  {
+    "input_word": "web",
+    "entries": [
+      {"text": "web", "ipa": "/wɛb/", "cefr": "A2", "zh": "网络", "emoji": "🌐"},
+      {"text": "web", "ipa": "/wɛb/", "cefr": "A2", "zh": "蜘蛛网", "emoji": "🕸️"}
+    ]
+  },
+  {
+    "input_word": "website",
+    "entries": [
+      {"text": "website", "ipa": "/ˈwɛbˌsaɪt/", "cefr": "A1", "zh": "网站", "emoji": "🌐"}
+    ]
+  },
+  {
+    "input_word": "wedding",
+    "entries": [
+      {"text": "wedding", "ipa": "/ˈwɛdɪŋ/", "cefr": "A2", "zh": "婚礼", "emoji": "💒"}
+    ]
+  },
+  {
+    "input_word": "wednesday",
+    "entries": [
+      {"text": "Wednesday", "ipa": "/ˈwɛnzdeɪ/", "cefr": "A1", "zh": "星期三", "emoji": "📅"}
+    ]
+  }
+]

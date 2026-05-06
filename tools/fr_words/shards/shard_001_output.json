@@ -1,0 +1,272 @@
+[
+  {
+    "text": "mourir",
+    "ipa": "muʁiʁ",
+    "translation": {"zh": "死亡", "en": "to die"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "mourir", "lemma": "mourir", "ipa": "muʁiʁ", "translation": {"zh": "死亡", "en": "to die"}, "emoji": "💀"}
+    ]
+  },
+  {
+    "text": "longtemps",
+    "ipa": "lɔ̃tɑ̃",
+    "translation": {"zh": "很长时间", "en": "a long time"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "longtemps", "lemma": "longtemps", "ipa": "lɔ̃tɑ̃", "translation": {"zh": "很长时间", "en": "a long time"}, "emoji": "⏳"}
+    ]
+  },
+  {
+    "text": "tomber",
+    "ipa": "tɔ̃be",
+    "translation": {"zh": "摔倒，落下", "en": "to fall"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "tomber", "lemma": "tomber", "ipa": "tɔ̃be", "translation": {"zh": "摔倒", "en": "to fall"}, "emoji": "🤸"}
+    ]
+  },
+  {
+    "text": "d'abord",
+    "ipa": "daboʁ",
+    "translation": {"zh": "首先", "en": "first"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "d'abord", "lemma": "abord", "ipa": "daboʁ", "translation": {"zh": "首先", "en": "first"}, "emoji": "1️⃣"}
+    ]
+  },
+  {
+    "text": "quitter",
+    "ipa": "kite",
+    "translation": {"zh": "离开", "en": "to leave"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "quitter", "lemma": "quitter", "ipa": "kite", "translation": {"zh": "离开", "en": "to leave"}, "emoji": "🚪"}
+    ]
+  },
+  {
+    "text": "c'est important",
+    "ipa": "sɛ tɛ̃poʁtɑ̃",
+    "translation": {"zh": "这很重要", "en": "it's important"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "c'est important", "lemma": "important", "ipa": "sɛ tɛ̃poʁtɑ̃", "translation": {"zh": "这很重要", "en": "it's important"}, "emoji": "❗"}
+    ]
+  },
+  {
+    "text": "une pièce",
+    "ipa": "yn pjɛs",
+    "translation": {"zh": "一个房间；一枚硬币", "en": "a room; a coin"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une pièce", "lemma": "pièce", "ipa": "yn pjɛs", "translation": {"zh": "房间", "en": "room"}, "emoji": "🚪"}
+    ]
+  },
+  {
+    "text": "rencontrer",
+    "ipa": "ʁɑ̃kɔ̃tʁe",
+    "translation": {"zh": "遇见", "en": "to meet"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "rencontrer", "lemma": "rencontrer", "ipa": "ʁɑ̃kɔ̃tʁe", "translation": {"zh": "遇见", "en": "to meet"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "crier",
+    "ipa": "kʁije",
+    "translation": {"zh": "喊叫", "en": "to shout"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "crier", "lemma": "crier", "ipa": "kʁije", "translation": {"zh": "喊叫", "en": "to shout"}, "emoji": "📢"}
+    ]
+  },
+  {
+    "text": "découvrir",
+    "ipa": "dekuvʁiʁ",
+    "translation": {"zh": "发现", "en": "to discover"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "découvrir", "lemma": "découvrir", "ipa": "dekuvʁiʁ", "translation": {"zh": "发现", "en": "to discover"}, "emoji": "🔍"}
+    ]
+  },
+  {
+    "text": "un tour",
+    "ipa": "œ̃ tuʁ",
+    "translation": {"zh": "一圈；一次轮流", "en": "a turn; a tour"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un tour", "lemma": "tour", "ipa": "œ̃ tuʁ", "translation": {"zh": "一圈", "en": "a tour"}, "emoji": "🔄"}
+    ]
+  },
+  {
+    "text": "un million",
+    "ipa": "œ̃ miljɔ̃",
+    "translation": {"zh": "一百万", "en": "one million"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un million", "lemma": "million", "ipa": "œ̃ miljɔ̃", "translation": {"zh": "一百万", "en": "one million"}, "emoji": "💰"}
+    ]
+  },
+  {
+    "text": "une étude",
+    "ipa": "yn etyd",
+    "translation": {"zh": "一项研究", "en": "a study"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une étude", "lemma": "étude", "ipa": "yn etyd", "translation": {"zh": "研究", "en": "study"}, "emoji": "📚"}
+    ]
+  },
+  {
+    "text": "une affaire",
+    "ipa": "yn afɛʁ",
+    "translation": {"zh": "一件事；生意", "en": "a matter; business"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une affaire", "lemma": "affaire", "ipa": "yn afɛʁ", "translation": {"zh": "事情", "en": "matter"}, "emoji": "💼"}
+    ]
+  },
+  {
+    "text": "créer",
+    "ipa": "kʁee",
+    "translation": {"zh": "创造", "en": "to create"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "créer", "lemma": "créer", "ipa": "kʁee", "translation": {"zh": "创造", "en": "to create"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "proposer",
+    "ipa": "pʁopoze",
+    "translation": {"zh": "提议", "en": "to propose"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "proposer", "lemma": "proposer", "ipa": "pʁopoze", "translation": {"zh": "提议", "en": "to propose"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "s'occuper",
+    "ipa": "sɔkype",
+    "translation": {"zh": "照料；处理", "en": "to take care of"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "s'occuper", "lemma": "occuper", "ipa": "sɔkype", "translation": {"zh": "照料", "en": "to take care of"}, "emoji": "🙋"}
+    ]
+  },
+  {
+    "text": "le roi",
+    "ipa": "lə ʁwa",
+    "translation": {"zh": "国王", "en": "the king"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le roi", "lemma": "roi", "ipa": "lə ʁwa", "translation": {"zh": "国王", "en": "king"}, "emoji": "👑"}
+    ]
+  },
+  {
+    "text": "en fait",
+    "ipa": "ɑ̃ fɛ",
+    "translation": {"zh": "实际上", "en": "in fact"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "en fait", "lemma": "fait", "ipa": "ɑ̃ fɛ", "translation": {"zh": "实际上", "en": "in fact"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "reconnaître",
+    "ipa": "ʁəkɔnɛtʁ",
+    "translation": {"zh": "认出；承认", "en": "to recognize"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "reconnaître", "lemma": "reconnaître", "ipa": "ʁəkɔnɛtʁ", "translation": {"zh": "认出", "en": "to recognize"}, "emoji": "👁️"}
+    ]
+  },
+  {
+    "text": "dans ce cas",
+    "ipa": "dɑ̃ sə ka",
+    "translation": {"zh": "在这种情况下", "en": "in that case"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "dans ce cas", "lemma": "cas", "ipa": "dɑ̃ sə ka", "translation": {"zh": "这种情况", "en": "in that case"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une partie",
+    "ipa": "yn paʁti",
+    "translation": {"zh": "一部分；一场比赛", "en": "a part; a game"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une partie", "lemma": "partie", "ipa": "yn paʁti", "translation": {"zh": "部分", "en": "part"}, "emoji": "🧩"}
+    ]
+  },
+  {
+    "text": "tuer",
+    "ipa": "tɥe",
+    "translation": {"zh": "杀死", "en": "to kill"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "tuer", "lemma": "tuer", "ipa": "tɥe", "translation": {"zh": "杀死", "en": "to kill"}, "emoji": "⚔️"}
+    ]
+  },
+  {
+    "text": "une société",
+    "ipa": "yn sɔsjete",
+    "translation": {"zh": "一家公司；社会", "en": "a company; society"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une société", "lemma": "société", "ipa": "yn sɔsjete", "translation": {"zh": "公司", "en": "company"}, "emoji": "🏢"}
+    ]
+  },
+  {
+    "text": "recevoir",
+    "ipa": "ʁəsəvwaʁ",
+    "translation": {"zh": "收到", "en": "to receive"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "recevoir", "lemma": "recevoir", "ipa": "ʁəsəvwaʁ", "translation": {"zh": "收到", "en": "to receive"}, "emoji": "📬"}
+    ]
+  },
+  {
+    "text": "ne rien faire",
+    "ipa": "nə ʁjɛ̃ fɛʁ",
+    "translation": {"zh": "什么都不做", "en": "to do nothing"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "ne rien faire", "lemma": "faire", "ipa": "nə ʁjɛ̃ fɛʁ", "translation": {"zh": "什么都不做", "en": "to do nothing"}, "emoji": "🚫"}
+    ]
+  },
+  {
+    "text": "par la suite",
+    "ipa": "paʁ la sɥit",
+    "translation": {"zh": "随后；后来", "en": "subsequently"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "par la suite", "lemma": "suite", "ipa": "paʁ la sɥit", "translation": {"zh": "随后", "en": "subsequently"}, "emoji": "➡️"}
+    ]
+  },
+  {
+    "text": "présenter",
+    "ipa": "pʁezɑ̃te",
+    "translation": {"zh": "介绍；呈现", "en": "to present"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "présenter", "lemma": "présenter", "ipa": "pʁezɑ̃te", "translation": {"zh": "介绍", "en": "to present"}, "emoji": "🎤"}
+    ]
+  },
+  {
+    "text": "pourtant",
+    "ipa": "puʁtɑ̃",
+    "translation": {"zh": "然而", "en": "yet"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "pourtant", "lemma": "pourtant", "ipa": "puʁtɑ̃", "translation": {"zh": "然而", "en": "yet"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "s'asseoir",
+    "ipa": "saswaʁ",
+    "translation": {"zh": "坐下", "en": "to sit down"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "s'asseoir", "lemma": "asseoir", "ipa": "saswaʁ", "translation": {"zh": "坐下", "en": "to sit down"}, "emoji": "🪑"}
+    ]
+  }
+]

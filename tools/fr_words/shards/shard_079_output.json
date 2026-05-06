@@ -1,0 +1,285 @@
+[
+  {
+    "text": "la conquête",
+    "ipa": "la kɔ̃kɛt",
+    "translation": {"zh": "征服", "en": "conquest"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la conquête", "lemma": "conquête", "ipa": "la kɔ̃kɛt", "translation": {"zh": "征服", "en": "conquest"}, "emoji": "⚔️"}
+    ]
+  },
+  {
+    "text": "un philosophe",
+    "ipa": "œ̃ filɔzɔf",
+    "translation": {"zh": "哲学家", "en": "philosopher"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un philosophe", "lemma": "philosophe", "ipa": "œ̃ filɔzɔf", "translation": {"zh": "哲学家", "en": "philosopher"}, "emoji": "🧠"}
+    ]
+  },
+  {
+    "text": "ça m'affecte",
+    "ipa": "sa mafɛkt",
+    "translation": {"zh": "这影响了我", "en": "it affects me"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ça m'affecte", "lemma": "affecter", "ipa": "sa mafɛkt", "translation": {"zh": "影响我", "en": "affects me"}, "emoji": "😔"}
+    ]
+  },
+  {
+    "text": "mon assistant",
+    "ipa": "mɔ̃n asistɑ̃",
+    "translation": {"zh": "我的助手", "en": "my assistant"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "mon assistant", "lemma": "assistant", "ipa": "mɔ̃n asistɑ̃", "translation": {"zh": "我的助手", "en": "my assistant"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "une demande légitime",
+    "ipa": "yn dəmɑ̃d leʒitim",
+    "translation": {"zh": "合理的要求", "en": "a legitimate request"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une demande", "lemma": "demande", "ipa": "yn dəmɑ̃d", "translation": {"zh": "要求", "en": "request"}, "emoji": "📋"},
+      {"text": "légitime", "lemma": "légitime", "ipa": "leʒitim", "translation": {"zh": "合理的", "en": "legitimate"}, "emoji": "✅"}
+    ]
+  },
+  {
+    "text": "éditer un texte",
+    "ipa": "edite œ̃ tɛkst",
+    "translation": {"zh": "编辑一段文字", "en": "to edit a text"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "éditer", "lemma": "éditer", "ipa": "edite", "translation": {"zh": "编辑", "en": "edit"}, "emoji": "✏️"},
+      {"text": "un texte", "lemma": "texte", "ipa": "œ̃ tɛkst", "translation": {"zh": "文本", "en": "text"}, "emoji": "📄"}
+    ]
+  },
+  {
+    "text": "un gars sympa",
+    "ipa": "œ̃ ɡaʁ sɛ̃pa",
+    "translation": {"zh": "一个好小伙", "en": "a nice guy"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un gars", "lemma": "gars", "ipa": "œ̃ ɡaʁ", "translation": {"zh": "小伙子", "en": "guy"}, "emoji": "🙂"},
+      {"text": "sympa", "lemma": "sympa", "ipa": "sɛ̃pa", "translation": {"zh": "友善的", "en": "nice"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une molécule",
+    "ipa": "yn mɔlekyl",
+    "translation": {"zh": "一个分子", "en": "a molecule"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une molécule", "lemma": "molécule", "ipa": "yn mɔlekyl", "translation": {"zh": "分子", "en": "molecule"}, "emoji": "⚗️"}
+    ]
+  },
+  {
+    "text": "un défenseur",
+    "ipa": "œ̃ defɑ̃sœʁ",
+    "translation": {"zh": "一位捍卫者", "en": "a defender"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un défenseur", "lemma": "défenseur", "ipa": "œ̃ defɑ̃sœʁ", "translation": {"zh": "捍卫者", "en": "defender"}, "emoji": "🛡️"}
+    ]
+  },
+  {
+    "text": "le bassin",
+    "ipa": "lə basɛ̃",
+    "translation": {"zh": "盆地；骨盆；水盆", "en": "basin"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le bassin", "lemma": "bassin", "ipa": "lə basɛ̃", "translation": {"zh": "盆地", "en": "basin"}, "emoji": "🏞️"}
+    ]
+  },
+  {
+    "text": "une consultation médicale",
+    "ipa": "yn kɔ̃syltasjɔ̃ medikal",
+    "translation": {"zh": "一次医疗问诊", "en": "a medical consultation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une consultation", "lemma": "consultation", "ipa": "yn kɔ̃syltasjɔ̃", "translation": {"zh": "问诊", "en": "consultation"}, "emoji": "🩺"},
+      {"text": "médicale", "lemma": "médical", "ipa": "medikal", "translation": {"zh": "医疗的", "en": "medical"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un ruban rouge",
+    "ipa": "œ̃ ʁybɑ̃ ʁuʒ",
+    "translation": {"zh": "一条红丝带", "en": "a red ribbon"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un ruban", "lemma": "ruban", "ipa": "œ̃ ʁybɑ̃", "translation": {"zh": "丝带", "en": "ribbon"}, "emoji": "🎀"},
+      {"text": "rouge", "lemma": "rouge", "ipa": "ʁuʒ", "translation": {"zh": "红色的", "en": "red"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "j'ai un job",
+    "ipa": "ʒe œ̃ dʒɔb",
+    "translation": {"zh": "我有份工作", "en": "I have a job"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "j'ai un job", "lemma": "avoir", "ipa": "ʒe œ̃ dʒɔb", "translation": {"zh": "有份工作", "en": "have a job"}, "emoji": "💼"}
+    ]
+  },
+  {
+    "text": "il règne depuis dix ans",
+    "ipa": "il ʁɛɲ dəpɥi diz ɑ̃",
+    "translation": {"zh": "他统治了十年", "en": "he has reigned for ten years"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "il règne", "lemma": "régner", "ipa": "il ʁɛɲ", "translation": {"zh": "他统治", "en": "he reigns"}, "emoji": "👑"},
+      {"text": "depuis dix ans", "lemma": "an", "ipa": "dəpɥi diz ɑ̃", "translation": {"zh": "十年来", "en": "for ten years"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le placard",
+    "ipa": "lə plakaʁ",
+    "translation": {"zh": "壁柜", "en": "cupboard"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le placard", "lemma": "placard", "ipa": "lə plakaʁ", "translation": {"zh": "壁柜", "en": "cupboard"}, "emoji": "🚪"}
+    ]
+  },
+  {
+    "text": "je tousse",
+    "ipa": "ʒə tus",
+    "translation": {"zh": "我在咳嗽", "en": "I am coughing"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "je tousse", "lemma": "tousser", "ipa": "ʒə tus", "translation": {"zh": "我咳嗽", "en": "I cough"}, "emoji": "😷"}
+    ]
+  },
+  {
+    "text": "les travaux ménagers",
+    "ipa": "le tʁavo menaʒe",
+    "translation": {"zh": "家务活", "en": "household chores"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "les travaux ménagers", "lemma": "ménager", "ipa": "le tʁavo menaʒe", "translation": {"zh": "家务", "en": "household chores"}, "emoji": "🧹"}
+    ]
+  },
+  {
+    "text": "un feuilleton",
+    "ipa": "œ̃ fœjtɔ̃",
+    "translation": {"zh": "连续剧", "en": "soap opera"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un feuilleton", "lemma": "feuilleton", "ipa": "œ̃ fœjtɔ̃", "translation": {"zh": "连续剧", "en": "soap opera"}, "emoji": "📺"}
+    ]
+  },
+  {
+    "text": "vaincre ses peurs",
+    "ipa": "vɛ̃kʁ se pœʁ",
+    "translation": {"zh": "克服恐惧", "en": "to overcome one's fears"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "vaincre", "lemma": "vaincre", "ipa": "vɛ̃kʁ", "translation": {"zh": "克服", "en": "overcome"}, "emoji": "💪"},
+      {"text": "ses peurs", "lemma": "peur", "ipa": "se pœʁ", "translation": {"zh": "恐惧", "en": "one's fears"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un panier",
+    "ipa": "œ̃ panje",
+    "translation": {"zh": "一个篮子", "en": "a basket"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un panier", "lemma": "panier", "ipa": "œ̃ panje", "translation": {"zh": "篮子", "en": "basket"}, "emoji": "🧺"}
+    ]
+  },
+  {
+    "text": "il parle suédois",
+    "ipa": "il paʁl sɥedwa",
+    "translation": {"zh": "他说瑞典语", "en": "he speaks Swedish"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "il parle", "lemma": "parler", "ipa": "il paʁl", "translation": {"zh": "他说", "en": "he speaks"}, "emoji": "🗣️"},
+      {"text": "suédois", "lemma": "suédois", "ipa": "sɥedwa", "translation": {"zh": "瑞典语", "en": "Swedish"}, "emoji": "🇸🇪"}
+    ]
+  },
+  {
+    "text": "un geste symbolique",
+    "ipa": "œ̃ ʒɛst sɛ̃bɔlik",
+    "translation": {"zh": "一个象征性的举动", "en": "a symbolic gesture"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un geste", "lemma": "geste", "ipa": "œ̃ ʒɛst", "translation": {"zh": "举动", "en": "gesture"}, "emoji": "🤲"},
+      {"text": "symbolique", "lemma": "symbolique", "ipa": "sɛ̃bɔlik", "translation": {"zh": "象征性的", "en": "symbolic"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un problème éventuel",
+    "ipa": "œ̃ pʁɔblɛm evɑ̃tɥɛl",
+    "translation": {"zh": "一个可能的问题", "en": "a possible problem"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un problème", "lemma": "problème", "ipa": "œ̃ pʁɔblɛm", "translation": {"zh": "问题", "en": "problem"}, "emoji": "⚠️"},
+      {"text": "éventuel", "lemma": "éventuel", "ipa": "evɑ̃tɥɛl", "translation": {"zh": "可能的", "en": "possible"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un manuscrit ancien",
+    "ipa": "œ̃ manyskʁi ɑ̃sjɛ̃",
+    "translation": {"zh": "一份古老的手稿", "en": "an ancient manuscript"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un manuscrit", "lemma": "manuscrit", "ipa": "œ̃ manyskʁi", "translation": {"zh": "手稿", "en": "manuscript"}, "emoji": "📜"},
+      {"text": "ancien", "lemma": "ancien", "ipa": "ɑ̃sjɛ̃", "translation": {"zh": "古老的", "en": "ancient"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le temps s'écoule",
+    "ipa": "lə tɑ̃ sekul",
+    "translation": {"zh": "时光流逝", "en": "time flows by"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le temps s'écoule", "lemma": "écouler", "ipa": "lə tɑ̃ sekul", "translation": {"zh": "时光流逝", "en": "time flows by"}, "emoji": "⏳"}
+    ]
+  },
+  {
+    "text": "un rejet",
+    "ipa": "œ̃ ʁəʒɛ",
+    "translation": {"zh": "拒绝", "en": "rejection"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un rejet", "lemma": "rejet", "ipa": "œ̃ ʁəʒɛ", "translation": {"zh": "拒绝", "en": "rejection"}, "emoji": "❌"}
+    ]
+  },
+  {
+    "text": "la clôture du jardin",
+    "ipa": "la klotyʁ dy ʒaʁdɛ̃",
+    "translation": {"zh": "花园的围栏", "en": "the garden fence"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la clôture", "lemma": "clôture", "ipa": "la klotyʁ", "translation": {"zh": "围栏", "en": "fence"}, "emoji": "🌿"},
+      {"text": "du jardin", "lemma": "jardin", "ipa": "dy ʒaʁdɛ̃", "translation": {"zh": "花园的", "en": "of the garden"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "il est enthousiaste",
+    "ipa": "il ɛt ɑ̃tuzjast",
+    "translation": {"zh": "他很热情", "en": "he is enthusiastic"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "il est enthousiaste", "lemma": "enthousiaste", "ipa": "il ɛt ɑ̃tuzjast", "translation": {"zh": "热情的", "en": "enthusiastic"}, "emoji": "🌟"}
+    ]
+  },
+  {
+    "text": "l'excellence",
+    "ipa": "lɛksɛlɑ̃s",
+    "translation": {"zh": "卓越", "en": "excellence"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'excellence", "lemma": "excellence", "ipa": "lɛksɛlɑ̃s", "translation": {"zh": "卓越", "en": "excellence"}, "emoji": "🏆"}
+    ]
+  },
+  {
+    "text": "il la regarde fixement",
+    "ipa": "il la ʁəɡaʁdfiksmɑ̃",
+    "translation": {"zh": "他直盯着她看", "en": "he stares at her"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "il la regarde", "lemma": "regarder", "ipa": "il la ʁəɡaʁd", "translation": {"zh": "他看着她", "en": "he looks at her"}, "emoji": "👀"},
+      {"text": "fixement", "lemma": "fixement", "ipa": "fiksmɑ̃", "translation": {"zh": "目不转睛地", "en": "fixedly"}, "emoji": ""}
+    ]
+  }
+]

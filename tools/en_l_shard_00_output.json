@@ -1,0 +1,186 @@
+[
+  {
+    "input_word": "lab",
+    "entries": [
+      {"text": "lab", "ipa": "/læb/", "cefr": "A2", "zh": "实验室", "emoji": "🔬"}
+    ]
+  },
+  {
+    "input_word": "label",
+    "entries": [
+      {"text": "label", "ipa": "/ˈleɪbəl/", "cefr": "B1", "zh": "标签", "emoji": "🏷️"}
+    ]
+  },
+  {
+    "input_word": "laboratory",
+    "entries": [
+      {"text": "laboratory", "ipa": "/ˈlæbrəˌtɔːri/", "cefr": "B1", "zh": "实验室", "emoji": "🔬"}
+    ]
+  },
+  {
+    "input_word": "labour",
+    "entries": [
+      {"text": "labour", "ipa": "/ˈleɪbər/", "cefr": "B2", "zh": "劳动", "emoji": "⚒️"}
+    ]
+  },
+  {
+    "input_word": "lack",
+    "entries": [
+      {"text": "lack", "ipa": "/læk/", "cefr": "B1", "zh": "缺乏", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "lady",
+    "entries": [
+      {"text": "lady", "ipa": "/ˈleɪdi/", "cefr": "A2", "zh": "女士", "emoji": "👩"}
+    ]
+  },
+  {
+    "input_word": "lake",
+    "entries": [
+      {"text": "lake", "ipa": "/leɪk/", "cefr": "A2", "zh": "湖泊", "emoji": "🏞️"}
+    ]
+  },
+  {
+    "input_word": "lamp",
+    "entries": [
+      {"text": "lamp", "ipa": "/læmp/", "cefr": "A2", "zh": "台灯", "emoji": "🪔"}
+    ]
+  },
+  {
+    "input_word": "land",
+    "entries": [
+      {"text": "land", "ipa": "/lænd/", "cefr": "A1", "zh": "土地", "emoji": "🌍"},
+      {"text": "land", "ipa": "/lænd/", "cefr": "A1", "zh": "降落", "emoji": "✈️"}
+    ]
+  },
+  {
+    "input_word": "landscape",
+    "entries": [
+      {"text": "landscape", "ipa": "/ˈlændˌskeɪp/", "cefr": "B2", "zh": "风景", "emoji": "🏔️"}
+    ]
+  },
+  {
+    "input_word": "language",
+    "entries": [
+      {"text": "language", "ipa": "/ˈlæŋɡwɪdʒ/", "cefr": "A1", "zh": "语言", "emoji": "🗣️"}
+    ]
+  },
+  {
+    "input_word": "laptop",
+    "entries": [
+      {"text": "laptop", "ipa": "/ˈlæpˌtɑːp/", "cefr": "A2", "zh": "笔记本", "emoji": "💻"}
+    ]
+  },
+  {
+    "input_word": "large",
+    "entries": [
+      {"text": "large", "ipa": "/lɑːrdʒ/", "cefr": "A1", "zh": "大的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "largely",
+    "entries": [
+      {"text": "largely", "ipa": "/ˈlɑːrdʒli/", "cefr": "B2", "zh": "大体上", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "last",
+    "entries": [
+      {"text": "last", "ipa": "/læst/", "cefr": "A1", "zh": "最后的", "emoji": ""},
+      {"text": "last", "ipa": "/læst/", "cefr": "A1", "zh": "持续", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "late",
+    "entries": [
+      {"text": "late", "ipa": "/leɪt/", "cefr": "A1", "zh": "迟到的", "emoji": "⏰"}
+    ]
+  },
+  {
+    "input_word": "later",
+    "entries": [
+      {"text": "later", "ipa": "/ˈleɪtər/", "cefr": "A1", "zh": "之后", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "latest",
+    "entries": [
+      {"text": "latest", "ipa": "/ˈleɪtɪst/", "cefr": "B1", "zh": "最新的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "laugh",
+    "entries": [
+      {"text": "laugh", "ipa": "/læf/", "cefr": "A1", "zh": "笑", "emoji": "😄"}
+    ]
+  },
+  {
+    "input_word": "laughter",
+    "entries": [
+      {"text": "laughter", "ipa": "/ˈlæftər/", "cefr": "A2", "zh": "笑声", "emoji": "😂"}
+    ]
+  },
+  {
+    "input_word": "launch",
+    "entries": [
+      {"text": "launch", "ipa": "/lɔːntʃ/", "cefr": "B2", "zh": "发射", "emoji": "🚀"},
+      {"text": "launch", "ipa": "/lɔːntʃ/", "cefr": "B2", "zh": "发布", "emoji": "📢"}
+    ]
+  },
+  {
+    "input_word": "law",
+    "entries": [
+      {"text": "law", "ipa": "/lɔː/", "cefr": "A2", "zh": "法律", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "lawyer",
+    "entries": [
+      {"text": "lawyer", "ipa": "/ˈlɔːjər/", "cefr": "A2", "zh": "律师", "emoji": "👨‍⚖️"}
+    ]
+  },
+  {
+    "input_word": "lay",
+    "entries": [
+      {"text": "lay", "ipa": "/leɪ/", "cefr": "B1", "zh": "放置", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "layer",
+    "entries": [
+      {"text": "layer", "ipa": "/ˈleɪər/", "cefr": "B1", "zh": "层", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "lazy",
+    "entries": [
+      {"text": "lazy", "ipa": "/ˈleɪzi/", "cefr": "A2", "zh": "懒惰的", "emoji": "😴"}
+    ]
+  },
+  {
+    "input_word": "lead",
+    "entries": [
+      {"text": "lead", "ipa": "/liːd/", "cefr": "A2", "zh": "领导", "emoji": ""},
+      {"text": "lead", "ipa": "/lɛd/", "cefr": "A2", "zh": "铅", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "leader",
+    "entries": [
+      {"text": "leader", "ipa": "/ˈliːdər/", "cefr": "A2", "zh": "领导者", "emoji": "👑"}
+    ]
+  },
+  {
+    "input_word": "leadership",
+    "entries": [
+      {"text": "leadership", "ipa": "/ˈliːdərˌʃɪp/", "cefr": "B2", "zh": "领导力", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "leading",
+    "entries": [
+      {"text": "leading", "ipa": "/ˈliːdɪŋ/", "cefr": "B1", "zh": "主要的", "emoji": ""}
+    ]
+  }
+]

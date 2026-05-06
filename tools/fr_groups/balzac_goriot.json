@@ -1,0 +1,68 @@
+[
+  {
+    "text": "Madame Vauquer, née de Conflans, est une vieille femme",
+    "ipa": "madam vokɛʁ ne də kɔ̃flɑ̃ ɛt yn vjɛj fam",
+    "translation": {
+      "zh": "沃凯太太，娘家姓孔弗朗，是一位老妇人",
+      "en": "Madame Vauquer, born de Conflans, is an old woman"
+    },
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Madame Vauquer", "lemma": "Madame Vauquer", "ipa": "madam vokɛʁ", "translation": {"zh": "沃凯太太", "en": "Madame Vauquer"}, "emoji": "👵"},
+      {"text": "née", "lemma": "naître", "ipa": "ne", "translation": {"zh": "娘家姓", "en": "born"}, "emoji": "👶"},
+      {"text": "de Conflans", "lemma": "Conflans", "ipa": "də kɔ̃flɑ̃", "translation": {"zh": "孔弗朗家", "en": "of Conflans"}, "emoji": "🏷️"},
+      {"text": "est une vieille", "lemma": "vieux", "ipa": "ɛt yn vjɛj", "translation": {"zh": "是一位老的", "en": "is an old"}, "emoji": "👴"},
+      {"text": "femme", "lemma": "femme", "ipa": "fam", "translation": {"zh": "女人", "en": "woman"}, "emoji": "👩"}
+    ],
+    "tags": [{"name": "Le Père Goriot", "index": 0}]
+  },
+  {
+    "text": "qui, depuis quarante ans, tient à Paris une pension bourgeoise",
+    "ipa": "ki dəpɥi kaʁɑ̃t ɑ̃ tjɛ̃t a paʁi yn pɑ̃sjɔ̃ buʁʒwaz",
+    "translation": {
+      "zh": "四十年来在巴黎经营一家中产公寓",
+      "en": "who, for forty years, has run a middle-class boarding house in Paris"
+    },
+    "cefr": "C1",
+    "tokens": [
+      {"text": "qui tient", "lemma": "tenir", "ipa": "ki tjɛ̃", "translation": {"zh": "她经营", "en": "who runs"}, "emoji": "🏠"},
+      {"text": "depuis quarante ans", "lemma": "quarante", "ipa": "dəpɥi kaʁɑ̃t ɑ̃", "translation": {"zh": "四十年来", "en": "for forty years"}, "emoji": "📅"},
+      {"text": "à Paris", "lemma": "Paris", "ipa": "a paʁi", "translation": {"zh": "在巴黎", "en": "in Paris"}, "emoji": "🗼"},
+      {"text": "une pension", "lemma": "pension", "ipa": "yn pɑ̃sjɔ̃", "translation": {"zh": "一家公寓", "en": "a boarding house"}, "emoji": "🏨"},
+      {"text": "bourgeoise", "lemma": "bourgeois", "ipa": "buʁʒwaz", "translation": {"zh": "中产的", "en": "middle-class"}, "emoji": "🎩"}
+    ],
+    "tags": [{"name": "Le Père Goriot", "index": 1}]
+  },
+  {
+    "text": "établie rue Neuve-Sainte-Geneviève",
+    "ipa": "etabli ʁy nœv sɛ̃t ʒənvjɛv",
+    "translation": {
+      "zh": "开设在新圣热纳维耶芙街",
+      "en": "established on rue Neuve-Sainte-Geneviève"
+    },
+    "cefr": "C1",
+    "tokens": [
+      {"text": "établie", "lemma": "établir", "ipa": "etabli", "translation": {"zh": "开设的", "en": "established"}, "emoji": "🏗️"},
+      {"text": "rue", "lemma": "rue", "ipa": "ʁy", "translation": {"zh": "街道", "en": "street"}, "emoji": "🛣️"},
+      {"text": "Neuve-Sainte-Geneviève", "lemma": "Neuve-Sainte-Geneviève", "ipa": "nœv sɛ̃t ʒənvjɛv", "translation": {"zh": "新圣热纳维耶芙", "en": "Neuve-Sainte-Geneviève"}, "emoji": "⛪"}
+    ],
+    "tags": [{"name": "Le Père Goriot", "index": 2}]
+  },
+  {
+    "text": "entre le quartier Latin et le faubourg Saint-Marceau",
+    "ipa": "ɑ̃tʁə lə kaʁtje latɛ̃ e lə fobuʁ sɛ̃ maʁso",
+    "translation": {
+      "zh": "在拉丁区和圣马尔索郊区之间",
+      "en": "between the Latin Quarter and the Saint-Marceau suburb"
+    },
+    "cefr": "C1",
+    "tokens": [
+      {"text": "entre", "lemma": "entre", "ipa": "ɑ̃tʁə", "translation": {"zh": "在之间", "en": "between"}, "emoji": "↔️"},
+      {"text": "le quartier", "lemma": "quartier", "ipa": "lə kaʁtje", "translation": {"zh": "街区", "en": "the quarter"}, "emoji": "🏘️"},
+      {"text": "Latin", "lemma": "latin", "ipa": "latɛ̃", "translation": {"zh": "拉丁", "en": "Latin"}, "emoji": "📚"},
+      {"text": "et le faubourg", "lemma": "faubourg", "ipa": "e lə fobuʁ", "translation": {"zh": "和郊区", "en": "and the suburb"}, "emoji": "🌆"},
+      {"text": "Saint-Marceau", "lemma": "Saint-Marceau", "ipa": "sɛ̃ maʁso", "translation": {"zh": "圣马尔索", "en": "Saint-Marceau"}, "emoji": "🏛️"}
+    ],
+    "tags": [{"name": "Le Père Goriot", "index": 3}]
+  }
+]

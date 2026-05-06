@@ -1,0 +1,60 @@
+[
+  {
+    "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+    "ipa": "ɪt ɪz ə tɹuːθ ˌjuːnɪˈvɜːsəli əkˈnɒlɪdʒd, ðæt ə ˈsɪŋɡəl mæn ɪn pəˈzɛʃən əv ə ɡʊd ˈfɔːtʃuːn, mʌst biː ɪn wɒnt əv ə waɪf.",
+    "translation": {"zh": "举世公认的一个真理是，凡是有钱的单身汉，必定想娶位太太。"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "It is a truth", "lemma": "truth", "ipa": "ɪt ɪz ə tɹuːθ", "translation": {"zh": "是个真理"}, "emoji": "📜"},
+      {"text": "universally acknowledged", "lemma": "acknowledge", "ipa": "ˌjuːnɪˈvɜːsəli əkˈnɒlɪdʒd", "translation": {"zh": "举世公认"}, "emoji": "🌍"},
+      {"text": "that a single man", "lemma": "single man", "ipa": "ðæt ə ˈsɪŋɡəl mæn", "translation": {"zh": "单身汉"}, "emoji": "🤵"},
+      {"text": "in possession of", "lemma": "possession", "ipa": "ɪn pəˈzɛʃən əv", "translation": {"zh": "拥有"}, "emoji": "💼"},
+      {"text": "a good fortune", "lemma": "fortune", "ipa": "ə ɡʊd ˈfɔːtʃuːn", "translation": {"zh": "丰厚财产"}, "emoji": "💰"},
+      {"text": "must be in want of", "lemma": "want", "ipa": "mʌst biː ɪn wɒnt əv", "translation": {"zh": "必定想要"}, "emoji": "❤️"},
+      {"text": "a wife", "lemma": "wife", "ipa": "ə waɪf", "translation": {"zh": "妻子"}, "emoji": "👰"}
+    ],
+    "tags": [{"name": "Pride and Prejudice", "index": 1}]
+  },
+  {
+    "text": "However little known the feelings or views of such a man may be on his first entering a neighbourhood,",
+    "ipa": "haʊˈɛvə ˈlɪtəl nəʊn ðə ˈfiːlɪŋz ɔː vjuːz əv sʌtʃ ə mæn meɪ biː ɒn hɪz fɜːst ˈɛntəɹɪŋ ə ˈneɪbəhʊd,",
+    "translation": {"zh": "这样的单身汉初到一个地方，他的感情或看法即使无人知晓，"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "However little known", "lemma": "known", "ipa": "haʊˈɛvə ˈlɪtəl nəʊn", "translation": {"zh": "无论多鲜为人知"}, "emoji": "❓"},
+      {"text": "the feelings", "lemma": "feeling", "ipa": "ðə ˈfiːlɪŋz", "translation": {"zh": "感情"}, "emoji": "💭"},
+      {"text": "or views", "lemma": "view", "ipa": "ɔː vjuːz", "translation": {"zh": "或看法"}, "emoji": "👁️"},
+      {"text": "of such a man may be", "lemma": "man", "ipa": "əv sʌtʃ ə mæn meɪ biː", "translation": {"zh": "这样的人"}, "emoji": "🤵"},
+      {"text": "on his first entering", "lemma": "enter", "ipa": "ɒn hɪz fɜːst ˈɛntəɹɪŋ", "translation": {"zh": "初到"}, "emoji": "🚪"},
+      {"text": "a neighbourhood", "lemma": "neighbourhood", "ipa": "ə ˈneɪbəhʊd", "translation": {"zh": "邻里"}, "emoji": "🏘️"}
+    ],
+    "tags": [{"name": "Pride and Prejudice", "index": 2}]
+  },
+  {
+    "text": "this truth is so well fixed in the minds of the surrounding families,",
+    "ipa": "ðɪs tɹuːθ ɪz səʊ wɛl fɪkst ɪn ðə maɪndz əv ðə səˈɹaʊndɪŋ ˈfæmɪliz,",
+    "translation": {"zh": "这条真理已在四周人家的心中根深蒂固，"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "this truth", "lemma": "truth", "ipa": "ðɪs tɹuːθ", "translation": {"zh": "这真理"}, "emoji": "📜"},
+      {"text": "is so well fixed", "lemma": "fix", "ipa": "ɪz səʊ wɛl fɪkst", "translation": {"zh": "牢牢扎根"}, "emoji": "📌"},
+      {"text": "in the minds", "lemma": "mind", "ipa": "ɪn ðə maɪndz", "translation": {"zh": "心中"}, "emoji": "🧠"},
+      {"text": "of the surrounding", "lemma": "surrounding", "ipa": "əv ðə səˈɹaʊndɪŋ", "translation": {"zh": "四周的"}, "emoji": "🔄"},
+      {"text": "families", "lemma": "family", "ipa": "ˈfæmɪliz", "translation": {"zh": "人家"}, "emoji": "👨‍👩‍👧"}
+    ],
+    "tags": [{"name": "Pride and Prejudice", "index": 3}]
+  },
+  {
+    "text": "that he is considered the rightful property of some one or other of their daughters.",
+    "ipa": "ðæt hiː ɪz kənˈsɪdəd ðə ˈɹaɪtfʊl ˈpɹɒpəti əv sʌm wʌn ɔː ˈʌðə əv ðɛə ˈdɔːtəz.",
+    "translation": {"zh": "因此都把他看作自己某个女儿理所应得的财产。"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "that he is considered", "lemma": "consider", "ipa": "ðæt hiː ɪz kənˈsɪdəd", "translation": {"zh": "他被视为"}, "emoji": "🤔"},
+      {"text": "the rightful property", "lemma": "property", "ipa": "ðə ˈɹaɪtfʊl ˈpɹɒpəti", "translation": {"zh": "理所应得的财产"}, "emoji": "🏷️"},
+      {"text": "of some one or other", "lemma": "someone", "ipa": "əv sʌm wʌn ɔː ˈʌðə", "translation": {"zh": "某一位"}, "emoji": "👤"},
+      {"text": "of their daughters", "lemma": "daughter", "ipa": "əv ðɛə ˈdɔːtəz", "translation": {"zh": "她们的女儿"}, "emoji": "👧"}
+    ],
+    "tags": [{"name": "Pride and Prejudice", "index": 4}]
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "input_word": "a",
+    "entries": []
+  },
+  {
+    "input_word": "abandon",
+    "entries": [
+      {"text": "abandon", "ipa": "/əˈbæn.dən/", "cefr": "B2", "zh": "放弃", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "ability",
+    "entries": [
+      {"text": "ability", "ipa": "/əˈbɪl.ɪ.ti/", "cefr": "A2", "zh": "能力", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "able",
+    "entries": [
+      {"text": "able", "ipa": "/ˈeɪ.bəl/", "cefr": "A2", "zh": "能够", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "about",
+    "entries": [
+      {"text": "about", "ipa": "/əˈbaʊt/", "cefr": "A1", "zh": "关于", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "above",
+    "entries": [
+      {"text": "above", "ipa": "/əˈbʌv/", "cefr": "A1", "zh": "在…上方", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "abroad",
+    "entries": [
+      {"text": "abroad", "ipa": "/əˈbrɔːd/", "cefr": "A2", "zh": "在国外", "emoji": "✈️"}
+    ]
+  },
+  {
+    "input_word": "absolute",
+    "entries": [
+      {"text": "absolute", "ipa": "/ˈæb.sə.luːt/", "cefr": "B2", "zh": "绝对的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "absolutely",
+    "entries": [
+      {"text": "absolutely", "ipa": "/ˈæb.sə.luːt.li/", "cefr": "B1", "zh": "完全地", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "academic",
+    "entries": [
+      {"text": "academic", "ipa": "/ˌæk.əˈdem.ɪk/", "cefr": "B1", "zh": "学术的", "emoji": "🎓"}
+    ]
+  },
+  {
+    "input_word": "accept",
+    "entries": [
+      {"text": "accept", "ipa": "/əkˈsept/", "cefr": "A2", "zh": "接受", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "acceptable",
+    "entries": [
+      {"text": "acceptable", "ipa": "/əkˈsep.tə.bəl/", "cefr": "B2", "zh": "可接受的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "access",
+    "entries": [
+      {"text": "access", "ipa": "/ˈæk.ses/", "cefr": "B1", "zh": "访问；通道", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "accident",
+    "entries": [
+      {"text": "accident", "ipa": "/ˈæk.sɪ.dənt/", "cefr": "A2", "zh": "事故", "emoji": "🚨"}
+    ]
+  },
+  {
+    "input_word": "accommodation",
+    "entries": [
+      {"text": "accommodation", "ipa": "/əˌkɒm.əˈdeɪ.ʃən/", "cefr": "B1", "zh": "住所", "emoji": "🏠"}
+    ]
+  },
+  {
+    "input_word": "accompany",
+    "entries": [
+      {"text": "accompany", "ipa": "/əˈkʌm.pə.ni/", "cefr": "B2", "zh": "陪同", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "according to",
+    "entries": [
+      {"text": "according to", "ipa": "/əˈkɔːr.dɪŋ tuː/", "cefr": "A2", "zh": "根据", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "account",
+    "entries": [
+      {"text": "account", "ipa": "/əˈkaʊnt/", "cefr": "B1", "zh": "账户；描述", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "accurate",
+    "entries": [
+      {"text": "accurate", "ipa": "/ˈæk.jʊ.rɪt/", "cefr": "B2", "zh": "准确的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "accuse",
+    "entries": [
+      {"text": "accuse", "ipa": "/əˈkjuːz/", "cefr": "B2", "zh": "指控", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "achieve",
+    "entries": [
+      {"text": "achieve", "ipa": "/əˈtʃiːv/", "cefr": "A2", "zh": "实现", "emoji": "🏆"}
+    ]
+  },
+  {
+    "input_word": "achievement",
+    "entries": [
+      {"text": "achievement", "ipa": "/əˈtʃiːv.mənt/", "cefr": "B1", "zh": "成就", "emoji": "🏆"}
+    ]
+  },
+  {
+    "input_word": "acknowledge",
+    "entries": [
+      {"text": "acknowledge", "ipa": "/əkˈnɒl.ɪdʒ/", "cefr": "B2", "zh": "承认", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "acquire",
+    "entries": [
+      {"text": "acquire", "ipa": "/əˈkwaɪər/", "cefr": "B2", "zh": "获得", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "across",
+    "entries": [
+      {"text": "across", "ipa": "/əˈkrɒs/", "cefr": "A1", "zh": "穿过", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "act",
+    "entries": [
+      {"text": "act", "ipa": "/ækt/", "cefr": "A2", "zh": "行动", "emoji": ""},
+      {"text": "act", "ipa": "/ækt/", "cefr": "A2", "zh": "表演", "emoji": "🎭"}
+    ]
+  },
+  {
+    "input_word": "action",
+    "entries": [
+      {"text": "action", "ipa": "/ˈæk.ʃən/", "cefr": "A1", "zh": "行动", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "active",
+    "entries": [
+      {"text": "active", "ipa": "/ˈæk.tɪv/", "cefr": "A2", "zh": "活跃的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "activity",
+    "entries": [
+      {"text": "activity", "ipa": "/ækˈtɪv.ɪ.ti/", "cefr": "A1", "zh": "活动", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "actor",
+    "entries": [
+      {"text": "actor", "ipa": "/ˈæk.tər/", "cefr": "A1", "zh": "演员", "emoji": "🎭"}
+    ]
+  }
+]

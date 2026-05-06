@@ -1,0 +1,285 @@
+[
+  {
+    "text": "hébergement",
+    "ipa": "ebeʁʒəmɑ̃",
+    "translation": {"zh": "住宿", "en": "accommodation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "hébergement", "lemma": "hébergement", "ipa": "ebeʁʒəmɑ̃", "translation": {"zh": "住宿", "en": "accommodation"}, "emoji": "🏨"}
+    ]
+  },
+  {
+    "text": "le jardinier",
+    "ipa": "lə ʒaʁdinje",
+    "translation": {"zh": "园丁", "en": "the gardener"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le jardinier", "lemma": "jardinier", "ipa": "lə ʒaʁdinje", "translation": {"zh": "园丁", "en": "the gardener"}, "emoji": "🧑‍🌾"}
+    ]
+  },
+  {
+    "text": "vitalité",
+    "ipa": "vitalite",
+    "translation": {"zh": "活力", "en": "vitality"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "vitalité", "lemma": "vitalité", "ipa": "vitalite", "translation": {"zh": "活力", "en": "vitality"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "la roche",
+    "ipa": "la ʁɔʃ",
+    "translation": {"zh": "岩石", "en": "the rock"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la roche", "lemma": "roche", "ipa": "la ʁɔʃ", "translation": {"zh": "岩石", "en": "the rock"}, "emoji": "🪨"}
+    ]
+  },
+  {
+    "text": "un fût de vin",
+    "ipa": "œ̃ fy də vɛ̃",
+    "translation": {"zh": "一桶葡萄酒", "en": "a barrel of wine"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un fût", "lemma": "fût", "ipa": "œ̃ fy", "translation": {"zh": "一个桶", "en": "a barrel"}, "emoji": "🪣"},
+      {"text": "de vin", "lemma": "vin", "ipa": "də vɛ̃", "translation": {"zh": "葡萄酒", "en": "of wine"}, "emoji": "🍷"}
+    ]
+  },
+  {
+    "text": "surmonter une difficulté",
+    "ipa": "syʁmɔ̃te yn difikyltе",
+    "translation": {"zh": "克服困难", "en": "overcome a difficulty"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "surmonter", "lemma": "surmonter", "ipa": "syʁmɔ̃te", "translation": {"zh": "克服", "en": "overcome"}, "emoji": "💪"},
+      {"text": "une difficulté", "lemma": "difficulté", "ipa": "yn difikylte", "translation": {"zh": "困难", "en": "a difficulty"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le littoral",
+    "ipa": "lə litɔʁal",
+    "translation": {"zh": "海岸", "en": "the coastline"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le littoral", "lemma": "littoral", "ipa": "lə litɔʁal", "translation": {"zh": "海岸", "en": "the coastline"}, "emoji": "🏖️"}
+    ]
+  },
+  {
+    "text": "prospérité",
+    "ipa": "pʁɔspeʁite",
+    "translation": {"zh": "繁荣", "en": "prosperity"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "prospérité", "lemma": "prospérité", "ipa": "pʁɔspeʁite", "translation": {"zh": "繁荣", "en": "prosperity"}, "emoji": "🌟"}
+    ]
+  },
+  {
+    "text": "banaliser",
+    "ipa": "banalize",
+    "translation": {"zh": "使平庸化", "en": "to trivialize"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "banaliser", "lemma": "banaliser", "ipa": "banalize", "translation": {"zh": "使平庸化", "en": "to trivialize"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "l'orthographe",
+    "ipa": "lɔʁtɔɡʁaf",
+    "translation": {"zh": "拼写", "en": "spelling"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'orthographe", "lemma": "orthographe", "ipa": "lɔʁtɔɡʁaf", "translation": {"zh": "拼写", "en": "spelling"}, "emoji": "✏️"}
+    ]
+  },
+  {
+    "text": "la porcelaine",
+    "ipa": "la pɔʁsəlɛn",
+    "translation": {"zh": "瓷器", "en": "porcelain"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la porcelaine", "lemma": "porcelaine", "ipa": "la pɔʁsəlɛn", "translation": {"zh": "瓷器", "en": "porcelain"}, "emoji": "🏺"}
+    ]
+  },
+  {
+    "text": "littéralement",
+    "ipa": "liteʁalmɑ̃",
+    "translation": {"zh": "字面上地", "en": "literally"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "littéralement", "lemma": "littéralement", "ipa": "liteʁalmɑ̃", "translation": {"zh": "字面上地", "en": "literally"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un plan de la ville",
+    "ipa": "œ̃ plɑ̃ də la vil",
+    "translation": {"zh": "城市地图", "en": "a city map"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un plan", "lemma": "plan", "ipa": "œ̃ plɑ̃", "translation": {"zh": "地图", "en": "a map"}, "emoji": "🗺️"},
+      {"text": "de la ville", "lemma": "ville", "ipa": "də la vil", "translation": {"zh": "城市的", "en": "of the city"}, "emoji": "🏙️"}
+    ]
+  },
+  {
+    "text": "populariser",
+    "ipa": "pɔpylaʁize",
+    "translation": {"zh": "使普及", "en": "to popularize"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "populariser", "lemma": "populariser", "ipa": "pɔpylaʁize", "translation": {"zh": "使普及", "en": "to popularize"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la prose",
+    "ipa": "la pʁoz",
+    "translation": {"zh": "散文", "en": "prose"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la prose", "lemma": "prose", "ipa": "la pʁoz", "translation": {"zh": "散文", "en": "prose"}, "emoji": "📖"}
+    ]
+  },
+  {
+    "text": "c'est réciproque",
+    "ipa": "se ʁesipʁɔk",
+    "translation": {"zh": "这是相互的", "en": "it's mutual"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "c'est réciproque", "lemma": "réciproque", "ipa": "se ʁesipʁɔk", "translation": {"zh": "这是相互的", "en": "it's mutual"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "la mobylette",
+    "ipa": "la mɔbilɛt",
+    "translation": {"zh": "轻便摩托", "en": "the moped"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la mobylette", "lemma": "mobylette", "ipa": "la mɔbilɛt", "translation": {"zh": "轻便摩托", "en": "the moped"}, "emoji": "🛵"}
+    ]
+  },
+  {
+    "text": "des yeux pers",
+    "ipa": "de zjø peʁ",
+    "translation": {"zh": "蓝绿色的眼睛", "en": "blue-green eyes"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "des yeux", "lemma": "œil", "ipa": "de zjø", "translation": {"zh": "眼睛", "en": "eyes"}, "emoji": "👁️"},
+      {"text": "pers", "lemma": "pers", "ipa": "peʁ", "translation": {"zh": "蓝绿色", "en": "blue-green"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "approfondir ses connaissances",
+    "ipa": "apʁɔfɔ̃diʁ se kɔnɛsɑ̃s",
+    "translation": {"zh": "深化知识", "en": "deepen one's knowledge"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "approfondir", "lemma": "approfondir", "ipa": "apʁɔfɔ̃diʁ", "translation": {"zh": "深化", "en": "to deepen"}, "emoji": ""},
+      {"text": "ses connaissances", "lemma": "connaissance", "ipa": "se kɔnɛsɑ̃s", "translation": {"zh": "知识", "en": "one's knowledge"}, "emoji": "📚"}
+    ]
+  },
+  {
+    "text": "conjuguer un verbe",
+    "ipa": "kɔ̃ʒyɡe œ̃ veʁb",
+    "translation": {"zh": "变位动词", "en": "conjugate a verb"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "conjuguer", "lemma": "conjuguer", "ipa": "kɔ̃ʒyɡe", "translation": {"zh": "变位", "en": "to conjugate"}, "emoji": ""},
+      {"text": "un verbe", "lemma": "verbe", "ipa": "œ̃ veʁb", "translation": {"zh": "动词", "en": "a verb"}, "emoji": "📝"}
+    ]
+  },
+  {
+    "text": "eau potable",
+    "ipa": "o pɔtabl",
+    "translation": {"zh": "饮用水", "en": "drinking water"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "eau potable", "lemma": "potable", "ipa": "o pɔtabl", "translation": {"zh": "饮用水", "en": "drinking water"}, "emoji": "💧"}
+    ]
+  },
+  {
+    "text": "un engin de chantier",
+    "ipa": "œ̃ ɑ̃ʒɛ̃ də ʃɑ̃tje",
+    "translation": {"zh": "一台工地机械", "en": "a construction machine"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un engin", "lemma": "engin", "ipa": "œ̃ ɑ̃ʒɛ̃", "translation": {"zh": "机械", "en": "a machine"}, "emoji": "🚜"},
+      {"text": "de chantier", "lemma": "chantier", "ipa": "də ʃɑ̃tje", "translation": {"zh": "工地的", "en": "of the site"}, "emoji": "🏗️"}
+    ]
+  },
+  {
+    "text": "tomber lourdement",
+    "ipa": "tɔ̃be luʁdəmɑ̃",
+    "translation": {"zh": "重重地摔倒", "en": "fall heavily"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "tomber", "lemma": "tomber", "ipa": "tɔ̃be", "translation": {"zh": "摔倒", "en": "to fall"}, "emoji": ""},
+      {"text": "lourdement", "lemma": "lourdement", "ipa": "luʁdəmɑ̃", "translation": {"zh": "沉重地", "en": "heavily"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "se démunir de ses économies",
+    "ipa": "sə demyniʁ də se ekɔnɔmi",
+    "translation": {"zh": "耗尽积蓄", "en": "deplete one's savings"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "se démunir", "lemma": "démunir", "ipa": "sə demyniʁ", "translation": {"zh": "耗尽", "en": "to deplete"}, "emoji": ""},
+      {"text": "de ses économies", "lemma": "économie", "ipa": "də se ekɔnɔmi", "translation": {"zh": "积蓄", "en": "one's savings"}, "emoji": "💸"}
+    ]
+  },
+  {
+    "text": "l'abbé",
+    "ipa": "labe",
+    "translation": {"zh": "神父", "en": "the abbot"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'abbé", "lemma": "abbé", "ipa": "labe", "translation": {"zh": "神父", "en": "the abbot"}, "emoji": "⛪"}
+    ]
+  },
+  {
+    "text": "agresser quelqu'un",
+    "ipa": "aɡʁese kɛlkœ̃",
+    "translation": {"zh": "攻击某人", "en": "to attack someone"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "agresser", "lemma": "agresser", "ipa": "aɡʁese", "translation": {"zh": "攻击", "en": "to attack"}, "emoji": ""},
+      {"text": "quelqu'un", "lemma": "quelqu'un", "ipa": "kɛlkœ̃", "translation": {"zh": "某人", "en": "someone"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "se débrouiller",
+    "ipa": "sə debʁuje",
+    "translation": {"zh": "自己想办法", "en": "to manage on one's own"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "se débrouiller", "lemma": "débrouiller", "ipa": "sə debʁuje", "translation": {"zh": "自己想办法", "en": "to manage alone"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "un expert en informatique",
+    "ipa": "œ̃ ɛkspeʁ ɑ̃ ɛ̃fɔʁmatik",
+    "translation": {"zh": "一位计算机专家", "en": "a computer expert"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un expert", "lemma": "expert", "ipa": "œ̃ ɛkspeʁ", "translation": {"zh": "专家", "en": "an expert"}, "emoji": "🧑‍💻"},
+      {"text": "en informatique", "lemma": "informatique", "ipa": "ɑ̃ ɛ̃fɔʁmatik", "translation": {"zh": "计算机领域", "en": "in computing"}, "emoji": "💻"}
+    ]
+  },
+  {
+    "text": "un conservateur de musée",
+    "ipa": "œ̃ kɔ̃seʁvatœʁ də myze",
+    "translation": {"zh": "博物馆馆长", "en": "a museum curator"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un conservateur", "lemma": "conservateur", "ipa": "œ̃ kɔ̃seʁvatœʁ", "translation": {"zh": "馆长", "en": "a curator"}, "emoji": "🏛️"},
+      {"text": "de musée", "lemma": "musée", "ipa": "də myze", "translation": {"zh": "博物馆的", "en": "of museum"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une couleur voyante",
+    "ipa": "yn kulœʁ vwajɑ̃t",
+    "translation": {"zh": "一种鲜艳的颜色", "en": "a flashy color"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une couleur", "lemma": "couleur", "ipa": "yn kulœʁ", "translation": {"zh": "颜色", "en": "a color"}, "emoji": "🎨"},
+      {"text": "voyante", "lemma": "voyant", "ipa": "vwajɑ̃t", "translation": {"zh": "鲜艳的", "en": "flashy"}, "emoji": ""}
+    ]
+  }
+]

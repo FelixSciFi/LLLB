@@ -1,0 +1,179 @@
+[
+  {
+    "input_word": "week",
+    "entries": [
+      {"text": "week", "ipa": "/wiːk/", "cefr": "A1", "zh": "周", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_word": "weekend",
+    "entries": [
+      {"text": "weekend", "ipa": "/ˈwiːkɛnd/", "cefr": "A1", "zh": "周末", "emoji": "🏖️"}
+    ]
+  },
+  {
+    "input_word": "weigh",
+    "entries": [
+      {"text": "weigh", "ipa": "/weɪ/", "cefr": "B1", "zh": "称重", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "weight",
+    "entries": [
+      {"text": "weight", "ipa": "/weɪt/", "cefr": "A2", "zh": "重量", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "welcome",
+    "entries": [
+      {"text": "welcome", "ipa": "/ˈwɛlkəm/", "cefr": "A1", "zh": "欢迎", "emoji": "🤗"}
+    ]
+  },
+  {
+    "input_word": "well",
+    "entries": [
+      {"text": "well", "ipa": "/wɛl/", "cefr": "A1", "zh": "好；井", "emoji": "✅"},
+      {"text": "well", "ipa": "/wɛl/", "cefr": "A1", "zh": "水井", "emoji": "🪣"}
+    ]
+  },
+  {
+    "input_word": "west",
+    "entries": [
+      {"text": "west", "ipa": "/wɛst/", "cefr": "A1", "zh": "西方", "emoji": "🧭"}
+    ]
+  },
+  {
+    "input_word": "western",
+    "entries": [
+      {"text": "western", "ipa": "/ˈwɛstərn/", "cefr": "B1", "zh": "西部的", "emoji": "🤠"}
+    ]
+  },
+  {
+    "input_word": "wet",
+    "entries": [
+      {"text": "wet", "ipa": "/wɛt/", "cefr": "A2", "zh": "湿的", "emoji": "💧"}
+    ]
+  },
+  {
+    "input_word": "what",
+    "entries": [
+      {"text": "what", "ipa": "/wʌt/", "cefr": "A1", "zh": "什么", "emoji": "❓"}
+    ]
+  },
+  {
+    "input_word": "whatever",
+    "entries": [
+      {"text": "whatever", "ipa": "/wʌtˈɛvər/", "cefr": "B1", "zh": "无论什么", "emoji": "🤷"}
+    ]
+  },
+  {
+    "input_word": "wheel",
+    "entries": [
+      {"text": "wheel", "ipa": "/wiːl/", "cefr": "A2", "zh": "轮子", "emoji": "🛞"}
+    ]
+  },
+  {
+    "input_word": "when",
+    "entries": [
+      {"text": "when", "ipa": "/wɛn/", "cefr": "A1", "zh": "什么时候", "emoji": "⏰"}
+    ]
+  },
+  {
+    "input_word": "whenever",
+    "entries": [
+      {"text": "whenever", "ipa": "/wɛnˈɛvər/", "cefr": "B1", "zh": "每当", "emoji": "🔄"}
+    ]
+  },
+  {
+    "input_word": "where",
+    "entries": [
+      {"text": "where", "ipa": "/wɛr/", "cefr": "A1", "zh": "哪里", "emoji": "📍"}
+    ]
+  },
+  {
+    "input_word": "whereas",
+    "entries": []
+  },
+  {
+    "input_word": "wherever",
+    "entries": [
+      {"text": "wherever", "ipa": "/wɛrˈɛvər/", "cefr": "B2", "zh": "无论哪里", "emoji": "🗺️"}
+    ]
+  },
+  {
+    "input_word": "whether",
+    "entries": []
+  },
+  {
+    "input_word": "which",
+    "entries": [
+      {"text": "which", "ipa": "/wɪtʃ/", "cefr": "A1", "zh": "哪个", "emoji": "🔀"}
+    ]
+  },
+  {
+    "input_word": "while",
+    "entries": [
+      {"text": "while", "ipa": "/waɪl/", "cefr": "A2", "zh": "一段时间", "emoji": "⏳"}
+    ]
+  },
+  {
+    "input_word": "whisper",
+    "entries": [
+      {"text": "whisper", "ipa": "/ˈwɪspər/", "cefr": "B2", "zh": "低声说", "emoji": "🤫"}
+    ]
+  },
+  {
+    "input_word": "white",
+    "entries": [
+      {"text": "white", "ipa": "/waɪt/", "cefr": "A1", "zh": "白色", "emoji": "⬜"}
+    ]
+  },
+  {
+    "input_word": "who",
+    "entries": [
+      {"text": "who", "ipa": "/huː/", "cefr": "A1", "zh": "谁", "emoji": "👤"}
+    ]
+  },
+  {
+    "input_word": "whole",
+    "entries": [
+      {"text": "whole", "ipa": "/hoʊl/", "cefr": "A2", "zh": "整个", "emoji": "🔵"}
+    ]
+  },
+  {
+    "input_word": "whom",
+    "entries": [
+      {"text": "whom", "ipa": "/huːm/", "cefr": "B2", "zh": "谁（宾格）", "emoji": "👤"}
+    ]
+  },
+  {
+    "input_word": "whose",
+    "entries": [
+      {"text": "whose", "ipa": "/huːz/", "cefr": "A2", "zh": "谁的", "emoji": "👤"}
+    ]
+  },
+  {
+    "input_word": "why",
+    "entries": [
+      {"text": "why", "ipa": "/waɪ/", "cefr": "A1", "zh": "为什么", "emoji": "❓"}
+    ]
+  },
+  {
+    "input_word": "wide",
+    "entries": [
+      {"text": "wide", "ipa": "/waɪd/", "cefr": "A2", "zh": "宽的", "emoji": "↔️"}
+    ]
+  },
+  {
+    "input_word": "widely",
+    "entries": [
+      {"text": "widely", "ipa": "/ˈwaɪdli/", "cefr": "B2", "zh": "广泛地", "emoji": "🌐"}
+    ]
+  },
+  {
+    "input_word": "wife",
+    "entries": [
+      {"text": "wife", "ipa": "/waɪf/", "cefr": "A1", "zh": "妻子", "emoji": "👩"}
+    ]
+  }
+]

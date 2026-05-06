@@ -1,0 +1,281 @@
+[
+  {
+    "text": "l'ennui",
+    "ipa": "lɑ̃nɥi",
+    "translation": {"zh": "无聊；烦恼", "en": "boredom; trouble"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'ennui", "lemma": "ennui", "ipa": "lɑ̃nɥi", "translation": {"zh": "无聊；烦恼", "en": "boredom"}, "emoji": "😒"}
+    ]
+  },
+  {
+    "text": "la fée",
+    "ipa": "la fe",
+    "translation": {"zh": "仙女", "en": "fairy"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la fée", "lemma": "fée", "ipa": "la fe", "translation": {"zh": "仙女", "en": "fairy"}, "emoji": "🧚"}
+    ]
+  },
+  {
+    "text": "ne désespère pas",
+    "ipa": "nə dezɛspɛʁ pa",
+    "translation": {"zh": "别绝望", "en": "don't despair"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "ne désespère pas", "lemma": "désespérer", "ipa": "nə dezɛspɛʁ pa", "translation": {"zh": "别绝望", "en": "don't despair"}, "emoji": "😔"}
+    ]
+  },
+  {
+    "text": "une heure et demie",
+    "ipa": "yn œʁ e dəmi",
+    "translation": {"zh": "一点半", "en": "one thirty"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une heure", "lemma": "heure", "ipa": "yn œʁ", "translation": {"zh": "一小时", "en": "one hour"}, "emoji": "🕐"},
+      {"text": "et demie", "lemma": "demi", "ipa": "e dəmi", "translation": {"zh": "半小时", "en": "and a half"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la publication",
+    "ipa": "la pyblikasjɔ̃",
+    "translation": {"zh": "出版；发布", "en": "publication"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la publication", "lemma": "publication", "ipa": "la pyblikasjɔ̃", "translation": {"zh": "出版；发布", "en": "publication"}, "emoji": "📰"}
+    ]
+  },
+  {
+    "text": "le seigneur",
+    "ipa": "lə sɛɲœʁ",
+    "translation": {"zh": "领主；君主", "en": "lord"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le seigneur", "lemma": "seigneur", "ipa": "lə sɛɲœʁ", "translation": {"zh": "领主；君主", "en": "lord"}, "emoji": "👑"}
+    ]
+  },
+  {
+    "text": "il domine la région",
+    "ipa": "il dɔmin la ʁeʒjɔ̃",
+    "translation": {"zh": "他统治这片地区", "en": "he dominates the region"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il domine", "lemma": "dominer", "ipa": "il dɔmin", "translation": {"zh": "他统治", "en": "he dominates"}, "emoji": ""},
+      {"text": "la région", "lemma": "région", "ipa": "la ʁeʒjɔ̃", "translation": {"zh": "地区", "en": "region"}, "emoji": "🗺️"}
+    ]
+  },
+  {
+    "text": "intime",
+    "ipa": "ɛ̃tim",
+    "translation": {"zh": "亲密的；私密的", "en": "intimate"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "intime", "lemma": "intime", "ipa": "ɛ̃tim", "translation": {"zh": "亲密的", "en": "intimate"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "le poing",
+    "ipa": "lə pwɛ̃",
+    "translation": {"zh": "拳头", "en": "fist"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le poing", "lemma": "poing", "ipa": "lə pwɛ̃", "translation": {"zh": "拳头", "en": "fist"}, "emoji": "✊"}
+    ]
+  },
+  {
+    "text": "sec",
+    "ipa": "sɛk",
+    "translation": {"zh": "干燥的；干的", "en": "dry"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "sec", "lemma": "sec", "ipa": "sɛk", "translation": {"zh": "干燥的", "en": "dry"}, "emoji": "🌵"}
+    ]
+  },
+  {
+    "text": "une zone touristique",
+    "ipa": "yn zɔn tuʁistik",
+    "translation": {"zh": "旅游区", "en": "tourist area"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une zone", "lemma": "zone", "ipa": "yn zɔn", "translation": {"zh": "区域", "en": "area"}, "emoji": ""},
+      {"text": "touristique", "lemma": "touristique", "ipa": "tuʁistik", "translation": {"zh": "旅游的", "en": "tourist"}, "emoji": "📸"}
+    ]
+  },
+  {
+    "text": "elle vise la perfection",
+    "ipa": "ɛl viz la pɛʁfɛksjɔ̃",
+    "translation": {"zh": "她追求完美", "en": "she aims for perfection"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "elle vise", "lemma": "viser", "ipa": "ɛl viz", "translation": {"zh": "她追求", "en": "she aims for"}, "emoji": "🎯"},
+      {"text": "la perfection", "lemma": "perfection", "ipa": "la pɛʁfɛksjɔ̃", "translation": {"zh": "完美", "en": "perfection"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un indice",
+    "ipa": "œ̃ ɛ̃dis",
+    "translation": {"zh": "线索；指数", "en": "clue; index"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un indice", "lemma": "indice", "ipa": "œ̃ ɛ̃dis", "translation": {"zh": "线索；指数", "en": "clue"}, "emoji": "🔍"}
+    ]
+  },
+  {
+    "text": "déchirer du papier",
+    "ipa": "deʃiʁe dy papje",
+    "translation": {"zh": "撕纸", "en": "tear paper"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "déchirer", "lemma": "déchirer", "ipa": "deʃiʁe", "translation": {"zh": "撕破", "en": "tear"}, "emoji": ""},
+      {"text": "du papier", "lemma": "papier", "ipa": "dy papje", "translation": {"zh": "纸", "en": "paper"}, "emoji": "📄"}
+    ]
+  },
+  {
+    "text": "un habit de cérémonie",
+    "ipa": "œ̃ nabi də seʁemɔni",
+    "translation": {"zh": "礼服", "en": "ceremonial dress"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un habit", "lemma": "habit", "ipa": "œ̃ nabi", "translation": {"zh": "礼服；衣服", "en": "dress; outfit"}, "emoji": "👔"},
+      {"text": "de cérémonie", "lemma": "cérémonie", "ipa": "də seʁemɔni", "translation": {"zh": "典礼的", "en": "ceremonial"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une salade",
+    "ipa": "yn salad",
+    "translation": {"zh": "沙拉", "en": "salad"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une salade", "lemma": "salade", "ipa": "yn salad", "translation": {"zh": "沙拉", "en": "salad"}, "emoji": "🥗"}
+    ]
+  },
+  {
+    "text": "le chasseur",
+    "ipa": "lə ʃasœʁ",
+    "translation": {"zh": "猎人", "en": "hunter"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le chasseur", "lemma": "chasseur", "ipa": "lə ʃasœʁ", "translation": {"zh": "猎人", "en": "hunter"}, "emoji": "🏹"}
+    ]
+  },
+  {
+    "text": "c'est le pire",
+    "ipa": "sɛ lə piʁ",
+    "translation": {"zh": "这是最糟的", "en": "it's the worst"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "c'est le pire", "lemma": "pire", "ipa": "sɛ lə piʁ", "translation": {"zh": "最糟的", "en": "the worst"}, "emoji": "😱"}
+    ]
+  },
+  {
+    "text": "la joue",
+    "ipa": "la ʒu",
+    "translation": {"zh": "脸颊", "en": "cheek"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la joue", "lemma": "joue", "ipa": "la ʒu", "translation": {"zh": "脸颊", "en": "cheek"}, "emoji": "😊"}
+    ]
+  },
+  {
+    "text": "une référence",
+    "ipa": "yn ʁefeʁɑ̃s",
+    "translation": {"zh": "参考；引用", "en": "reference"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une référence", "lemma": "référence", "ipa": "yn ʁefeʁɑ̃s", "translation": {"zh": "参考；引用", "en": "reference"}, "emoji": "📖"}
+    ]
+  },
+  {
+    "text": "le champion du monde",
+    "ipa": "lə ʃɑ̃pjɔ̃ dy mɔ̃d",
+    "translation": {"zh": "世界冠军", "en": "world champion"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le champion", "lemma": "champion", "ipa": "lə ʃɑ̃pjɔ̃", "translation": {"zh": "冠军", "en": "champion"}, "emoji": "🏆"},
+      {"text": "du monde", "lemma": "monde", "ipa": "dy mɔ̃d", "translation": {"zh": "世界的", "en": "of the world"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "fournir des documents",
+    "ipa": "fuʁniʁ de dɔkymɑ̃",
+    "translation": {"zh": "提供文件", "en": "provide documents"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "fournir", "lemma": "fournir", "ipa": "fuʁniʁ", "translation": {"zh": "提供", "en": "provide"}, "emoji": ""},
+      {"text": "des documents", "lemma": "document", "ipa": "de dɔkymɑ̃", "translation": {"zh": "文件", "en": "documents"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "c'est fondamental",
+    "ipa": "sɛ fɔ̃damɑ̃tal",
+    "translation": {"zh": "这是根本的", "en": "it's fundamental"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "c'est fondamental", "lemma": "fondamental", "ipa": "sɛ fɔ̃damɑ̃tal", "translation": {"zh": "根本的", "en": "fundamental"}, "emoji": "🏗️"}
+    ]
+  },
+  {
+    "text": "un végétal",
+    "ipa": "œ̃ veʒetal",
+    "translation": {"zh": "植物", "en": "plant; vegetable matter"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un végétal", "lemma": "végétal", "ipa": "œ̃ veʒetal", "translation": {"zh": "植物", "en": "plant"}, "emoji": "🌿"}
+    ]
+  },
+  {
+    "text": "la fortune",
+    "ipa": "la fɔʁtyn",
+    "translation": {"zh": "财富；命运", "en": "fortune"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la fortune", "lemma": "fortune", "ipa": "la fɔʁtyn", "translation": {"zh": "财富；命运", "en": "fortune"}, "emoji": "💰"}
+    ]
+  },
+  {
+    "text": "favorable",
+    "ipa": "favɔʁabl",
+    "translation": {"zh": "有利的；赞同的", "en": "favorable"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "favorable", "lemma": "favorable", "ipa": "favɔʁabl", "translation": {"zh": "有利的", "en": "favorable"}, "emoji": "👍"}
+    ]
+  },
+  {
+    "text": "une observation",
+    "ipa": "yn ɔpsɛʁvasjɔ̃",
+    "translation": {"zh": "观察；备注", "en": "observation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une observation", "lemma": "observation", "ipa": "yn ɔpsɛʁvasjɔ̃", "translation": {"zh": "观察；备注", "en": "observation"}, "emoji": "🔭"}
+    ]
+  },
+  {
+    "text": "c'est exceptionnel",
+    "ipa": "sɛt ɛksɛpsjɔnɛl",
+    "translation": {"zh": "这是例外的；这很出色", "en": "it's exceptional"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est exceptionnel", "lemma": "exceptionnel", "ipa": "sɛt ɛksɛpsjɔnɛl", "translation": {"zh": "出色的", "en": "exceptional"}, "emoji": "⭐"}
+    ]
+  },
+  {
+    "text": "un rapport annuel",
+    "ipa": "œ̃ ʁapɔʁ anɥɛl",
+    "translation": {"zh": "年度报告", "en": "annual report"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un rapport", "lemma": "rapport", "ipa": "œ̃ ʁapɔʁ", "translation": {"zh": "报告", "en": "report"}, "emoji": "📊"},
+      {"text": "annuel", "lemma": "annuel", "ipa": "anɥɛl", "translation": {"zh": "年度的", "en": "annual"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "là-haut",
+    "ipa": "la o",
+    "translation": {"zh": "在上面；在那高处", "en": "up there"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "là-haut", "lemma": "là-haut", "ipa": "la o", "translation": {"zh": "在上面", "en": "up there"}, "emoji": "⬆️"}
+    ]
+  }
+]

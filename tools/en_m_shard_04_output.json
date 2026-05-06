@@ -1,0 +1,145 @@
+[
+  {
+    "input_word": "mum",
+    "entries": [
+      {
+        "text": "mum",
+        "ipa": "/mʌm/",
+        "cefr": "A1",
+        "zh": "妈妈",
+        "emoji": "👩"
+      }
+    ]
+  },
+  {
+    "input_word": "murder",
+    "entries": [
+      {
+        "text": "murder",
+        "ipa": "/ˈmɜːrdər/",
+        "cefr": "B1",
+        "zh": "谋杀",
+        "emoji": "🔪"
+      }
+    ]
+  },
+  {
+    "input_word": "muscle",
+    "entries": [
+      {
+        "text": "muscle",
+        "ipa": "/ˈmʌsəl/",
+        "cefr": "B1",
+        "zh": "肌肉",
+        "emoji": "💪"
+      }
+    ]
+  },
+  {
+    "input_word": "museum",
+    "entries": [
+      {
+        "text": "museum",
+        "ipa": "/mjuˈziːəm/",
+        "cefr": "A1",
+        "zh": "博物馆",
+        "emoji": "🏛️"
+      }
+    ]
+  },
+  {
+    "input_word": "music",
+    "entries": [
+      {
+        "text": "music",
+        "ipa": "/ˈmjuːzɪk/",
+        "cefr": "A1",
+        "zh": "音乐",
+        "emoji": "🎵"
+      }
+    ]
+  },
+  {
+    "input_word": "musical",
+    "entries": [
+      {
+        "text": "musical",
+        "ipa": "/ˈmjuːzɪkəl/",
+        "cefr": "A2",
+        "zh": "音乐剧",
+        "emoji": "🎭"
+      },
+      {
+        "text": "musical",
+        "ipa": "/ˈmjuːzɪkəl/",
+        "cefr": "A2",
+        "zh": "音乐的",
+        "emoji": "🎶"
+      }
+    ]
+  },
+  {
+    "input_word": "musician",
+    "entries": [
+      {
+        "text": "musician",
+        "ipa": "/mjuˈzɪʃən/",
+        "cefr": "A2",
+        "zh": "音乐家",
+        "emoji": "🎸"
+      }
+    ]
+  },
+  {
+    "input_word": "must",
+    "entries": [
+      {
+        "text": "must",
+        "ipa": "/mʌst/",
+        "cefr": "A1",
+        "zh": "必须",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "my",
+    "entries": []
+  },
+  {
+    "input_word": "myself",
+    "entries": [
+      {
+        "text": "myself",
+        "ipa": "/maɪˈsɛlf/",
+        "cefr": "A2",
+        "zh": "我自己",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "mysterious",
+    "entries": [
+      {
+        "text": "mysterious",
+        "ipa": "/mɪˈstɪriəs/",
+        "cefr": "B2",
+        "zh": "神秘的",
+        "emoji": "🔮"
+      }
+    ]
+  },
+  {
+    "input_word": "mystery",
+    "entries": [
+      {
+        "text": "mystery",
+        "ipa": "/ˈmɪstəri/",
+        "cefr": "B1",
+        "zh": "谜团",
+        "emoji": "🕵️"
+      }
+    ]
+  }
+]

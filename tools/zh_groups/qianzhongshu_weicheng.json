@@ -1,0 +1,226 @@
+[
+  {
+    "text": "红海早过了，",
+    "ipa": "hóng hǎi zǎo guò le,",
+    "translation": {
+      "zh": "红海早过了，",
+      "en": "The Red Sea had long since been left behind,"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "红海",
+        "lemma": "红海",
+        "ipa": "hóng hǎi",
+        "translation": {"zh": "红海这片海", "en": "the Red Sea"},
+        "emoji": "🌊"
+      },
+      {
+        "text": "早过了",
+        "lemma": "过",
+        "ipa": "zǎo guò le",
+        "translation": {"zh": "早就驶过", "en": "long since passed"},
+        "emoji": "⏪"
+      }
+    ],
+    "tags": [{"name": "围城", "index": 1}]
+  },
+  {
+    "text": "船在印度洋面上开驶着，",
+    "ipa": "chuán zài yìn dù yáng miàn shàng kāi shǐ zhe,",
+    "translation": {
+      "zh": "船在印度洋面上开驶着，",
+      "en": "the ship was steaming across the surface of the Indian Ocean,"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "船",
+        "lemma": "船",
+        "ipa": "chuán",
+        "translation": {"zh": "船只", "en": "ship"},
+        "emoji": "🚢"
+      },
+      {
+        "text": "在印度洋面上",
+        "lemma": "印度洋",
+        "ipa": "zài yìn dù yáng miàn shàng",
+        "translation": {"zh": "在印度洋海面上", "en": "on Indian Ocean"},
+        "emoji": "🌏"
+      },
+      {
+        "text": "开驶着",
+        "lemma": "开驶",
+        "ipa": "kāi shǐ zhe",
+        "translation": {"zh": "正航行着", "en": "sailing along"},
+        "emoji": "⛵"
+      }
+    ],
+    "tags": [{"name": "围城", "index": 2}]
+  },
+  {
+    "text": "但是太阳依然不饶人地迟落早起，侵占去大部分的夜。",
+    "ipa": "dàn shì tài yáng yī rán bù ráo rén de chí luò zǎo qǐ, qīn zhàn qù dà bù fèn de yè.",
+    "translation": {
+      "zh": "但是太阳依然不饶人地迟落早起，侵占去大部分的夜。",
+      "en": "but the sun, as relentless as ever, set late and rose early, devouring most of the night."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "但是",
+        "lemma": "但是",
+        "ipa": "dàn shì",
+        "translation": {"zh": "可是", "en": "but"},
+        "emoji": ""
+      },
+      {
+        "text": "太阳依然",
+        "lemma": "太阳",
+        "ipa": "tài yáng yī rán",
+        "translation": {"zh": "太阳还是", "en": "the sun still"},
+        "emoji": "☀️"
+      },
+      {
+        "text": "不饶人地迟落早起",
+        "lemma": "迟落早起",
+        "ipa": "bù ráo rén de chí luò zǎo qǐ",
+        "translation": {"zh": "毫不留情晚下早升", "en": "set late, rose early"},
+        "emoji": "🌅"
+      },
+      {
+        "text": "侵占去大部分的夜",
+        "lemma": "侵占",
+        "ipa": "qīn zhàn qù dà bù fèn de yè",
+        "translation": {"zh": "霸占大半个夜晚", "en": "encroached on most night"},
+        "emoji": "🌙"
+      }
+    ],
+    "tags": [{"name": "围城", "index": 3}]
+  },
+  {
+    "text": "夜仿佛纸浸了油，变成半透明体；",
+    "ipa": "yè fǎng fú zhǐ jìn le yóu, biàn chéng bàn tòu míng tǐ;",
+    "translation": {
+      "zh": "夜仿佛纸浸了油，变成半透明体；",
+      "en": "Night seemed like paper soaked in oil, turned translucent;"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "夜仿佛",
+        "lemma": "夜",
+        "ipa": "yè fǎng fú",
+        "translation": {"zh": "夜晚好像", "en": "night seemed like"},
+        "emoji": "🌃"
+      },
+      {
+        "text": "纸浸了油",
+        "lemma": "浸",
+        "ipa": "zhǐ jìn le yóu",
+        "translation": {"zh": "纸沾透了油", "en": "paper soaked in oil"},
+        "emoji": "📄"
+      },
+      {
+        "text": "变成半透明体",
+        "lemma": "半透明",
+        "ipa": "biàn chéng bàn tòu míng tǐ",
+        "translation": {"zh": "成了半透明的东西", "en": "became translucent thing"},
+        "emoji": "🪟"
+      }
+    ],
+    "tags": [{"name": "围城", "index": 4}]
+  },
+  {
+    "text": "它给太阳拥抱住了，分不出身来，",
+    "ipa": "tā gěi tài yáng yōng bào zhù le, fēn bù chū shēn lái,",
+    "translation": {
+      "zh": "它给太阳拥抱住了，分不出身来，",
+      "en": "held tight in the sun's embrace, it could not pull itself free,"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "它给太阳拥抱住了",
+        "lemma": "拥抱",
+        "ipa": "tā gěi tài yáng yōng bào zhù le",
+        "translation": {"zh": "它被太阳搂紧了", "en": "sun held it tight"},
+        "emoji": "🤗"
+      },
+      {
+        "text": "分不出身来",
+        "lemma": "分身",
+        "ipa": "fēn bù chū shēn lái",
+        "translation": {"zh": "脱不开身", "en": "can't pull free"},
+        "emoji": "🫂"
+      }
+    ],
+    "tags": [{"name": "围城", "index": 5}]
+  },
+  {
+    "text": "也许是给太阳陶醉了，",
+    "ipa": "yě xǔ shì gěi tài yáng táo zuì le,",
+    "translation": {
+      "zh": "也许是给太阳陶醉了，",
+      "en": "or perhaps it was intoxicated by the sun,"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "也许是",
+        "lemma": "也许",
+        "ipa": "yě xǔ shì",
+        "translation": {"zh": "或许是", "en": "perhaps it was"},
+        "emoji": "🤔"
+      },
+      {
+        "text": "给太阳陶醉了",
+        "lemma": "陶醉",
+        "ipa": "gěi tài yáng táo zuì le",
+        "translation": {"zh": "被太阳灌醉了", "en": "drunk on sun"},
+        "emoji": "🥴"
+      }
+    ],
+    "tags": [{"name": "围城", "index": 6}]
+  },
+  {
+    "text": "所以夕照晚霞褪后的夜色也带着酡红。",
+    "ipa": "suǒ yǐ xī zhào wǎn xiá tuì hòu de yè sè yě dài zhe tuó hóng.",
+    "translation": {
+      "zh": "所以夕照晚霞褪后的夜色也带着酡红。",
+      "en": "so even after the sunset glow had faded, the night carried a flushed pink."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "所以",
+        "lemma": "所以",
+        "ipa": "suǒ yǐ",
+        "translation": {"zh": "因此", "en": "so"},
+        "emoji": ""
+      },
+      {
+        "text": "夕照晚霞褪后",
+        "lemma": "晚霞",
+        "ipa": "xī zhào wǎn xiá tuì hòu",
+        "translation": {"zh": "晚霞退去之后", "en": "after sunset glow faded"},
+        "emoji": "🌇"
+      },
+      {
+        "text": "的夜色",
+        "lemma": "夜色",
+        "ipa": "de yè sè",
+        "translation": {"zh": "的夜景", "en": "night scene"},
+        "emoji": "🌌"
+      },
+      {
+        "text": "也带着酡红",
+        "lemma": "酡红",
+        "ipa": "yě dài zhe tuó hóng",
+        "translation": {"zh": "也透着醉酒般的红", "en": "tinged with flushed red"},
+        "emoji": "🍷"
+      }
+    ],
+    "tags": [{"name": "围城", "index": 7}]
+  }
+]

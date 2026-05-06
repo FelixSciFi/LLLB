@@ -1,0 +1,272 @@
+[
+  {
+    "text": "la fibre",
+    "ipa": "la fibʁ",
+    "translation": {"zh": "纤维", "en": "fiber"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la fibre", "lemma": "fibre", "ipa": "la fibʁ", "translation": {"zh": "纤维", "en": "fiber"}, "emoji": "🧵"}
+    ]
+  },
+  {
+    "text": "bénéfique",
+    "ipa": "benefik",
+    "translation": {"zh": "有益的", "en": "beneficial"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "bénéfique", "lemma": "bénéfique", "ipa": "benefik", "translation": {"zh": "有益的", "en": "beneficial"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "se disperser",
+    "ipa": "sə dispɛʁse",
+    "translation": {"zh": "分散", "en": "to disperse"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "se disperser", "lemma": "disperser", "ipa": "sə dispɛʁse", "translation": {"zh": "分散开来", "en": "to disperse"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "résistant",
+    "ipa": "ʁezistɑ̃",
+    "translation": {"zh": "耐用的", "en": "resistant"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "résistant", "lemma": "résistant", "ipa": "ʁezistɑ̃", "translation": {"zh": "耐用的", "en": "resistant"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "raisonner",
+    "ipa": "ʁɛzɔne",
+    "translation": {"zh": "推理", "en": "to reason"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "raisonner", "lemma": "raisonner", "ipa": "ʁɛzɔne", "translation": {"zh": "推理思考", "en": "to reason"}, "emoji": "🧠"}
+    ]
+  },
+  {
+    "text": "le demandeur",
+    "ipa": "lə dmɑ̃dœʁ",
+    "translation": {"zh": "申请人", "en": "applicant"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le demandeur", "lemma": "demandeur", "ipa": "lə dmɑ̃dœʁ", "translation": {"zh": "申请人", "en": "applicant"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le campus",
+    "ipa": "lə kɑ̃pys",
+    "translation": {"zh": "校园", "en": "campus"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le campus", "lemma": "campus", "ipa": "lə kɑ̃pys", "translation": {"zh": "校园", "en": "campus"}, "emoji": "🏫"}
+    ]
+  },
+  {
+    "text": "une opportunité",
+    "ipa": "yn ɔpɔʁtynite",
+    "translation": {"zh": "机会", "en": "opportunity"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une opportunité", "lemma": "opportunité", "ipa": "yn ɔpɔʁtynite", "translation": {"zh": "机会", "en": "opportunity"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "prôner",
+    "ipa": "pʁone",
+    "translation": {"zh": "提倡", "en": "to advocate"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "prôner", "lemma": "prôner", "ipa": "pʁone", "translation": {"zh": "提倡倡导", "en": "to advocate"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "isolé",
+    "ipa": "izɔle",
+    "translation": {"zh": "孤立的", "en": "isolated"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "isolé", "lemma": "isolé", "ipa": "izɔle", "translation": {"zh": "孤立的", "en": "isolated"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le séminaire",
+    "ipa": "lə seminɛʁ",
+    "translation": {"zh": "研讨会", "en": "seminar"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le séminaire", "lemma": "séminaire", "ipa": "lə seminɛʁ", "translation": {"zh": "研讨会", "en": "seminar"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "se vouer à",
+    "ipa": "sə vue a",
+    "translation": {"zh": "献身于", "en": "to dedicate oneself to"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "se vouer à", "lemma": "vouer", "ipa": "sə vue a", "translation": {"zh": "献身于", "en": "to dedicate to"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "l'indemnité",
+    "ipa": "lɛ̃dɛmnite",
+    "translation": {"zh": "补贴", "en": "allowance"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'indemnité", "lemma": "indemnité", "ipa": "lɛ̃dɛmnite", "translation": {"zh": "补贴赔偿", "en": "allowance"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la préservation",
+    "ipa": "la pʁezɛʁvasjɔ̃",
+    "translation": {"zh": "保护", "en": "preservation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la préservation", "lemma": "préservation", "ipa": "la pʁezɛʁvasjɔ̃", "translation": {"zh": "保护保存", "en": "preservation"}, "emoji": "🌿"}
+    ]
+  },
+  {
+    "text": "familier",
+    "ipa": "familje",
+    "translation": {"zh": "熟悉的", "en": "familiar"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "familier", "lemma": "familier", "ipa": "familje", "translation": {"zh": "熟悉的", "en": "familiar"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "l'habileté",
+    "ipa": "labilte",
+    "translation": {"zh": "技巧", "en": "skill"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'habileté", "lemma": "habileté", "ipa": "labilte", "translation": {"zh": "技巧能力", "en": "skill"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "subtil",
+    "ipa": "syptil",
+    "translation": {"zh": "微妙的", "en": "subtle"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "subtil", "lemma": "subtil", "ipa": "syptil", "translation": {"zh": "微妙的", "en": "subtle"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "engendrer",
+    "ipa": "ɑ̃ʒɑ̃dʁe",
+    "translation": {"zh": "产生", "en": "to generate"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "engendrer", "lemma": "engendrer", "ipa": "ɑ̃ʒɑ̃dʁe", "translation": {"zh": "产生引发", "en": "to generate"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "spatial",
+    "ipa": "spasjal",
+    "translation": {"zh": "空间的", "en": "spatial"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "spatial", "lemma": "spatial", "ipa": "spasjal", "translation": {"zh": "空间的", "en": "spatial"}, "emoji": "🚀"}
+    ]
+  },
+  {
+    "text": "un salarié",
+    "ipa": "œ̃ salaʁje",
+    "translation": {"zh": "受薪雇员", "en": "salaried employee"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un salarié", "lemma": "salarier", "ipa": "œ̃ salaʁje", "translation": {"zh": "受薪雇员", "en": "salaried employee"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "grandiose",
+    "ipa": "ɡʁɑ̃djoz",
+    "translation": {"zh": "宏伟的", "en": "grandiose"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "grandiose", "lemma": "grandiose", "ipa": "ɡʁɑ̃djoz", "translation": {"zh": "宏伟壮观", "en": "grandiose"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le présentateur",
+    "ipa": "lə pʁezɑ̃tatœʁ",
+    "translation": {"zh": "主持人", "en": "presenter"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le présentateur", "lemma": "présentateur", "ipa": "lə pʁezɑ̃tatœʁ", "translation": {"zh": "主持人", "en": "presenter"}, "emoji": "🎙️"}
+    ]
+  },
+  {
+    "text": "foncé",
+    "ipa": "fɔ̃se",
+    "translation": {"zh": "深色的", "en": "dark"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "foncé", "lemma": "foncé", "ipa": "fɔ̃se", "translation": {"zh": "深色的", "en": "dark"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le cadavre",
+    "ipa": "lə kadavʁ",
+    "translation": {"zh": "尸体", "en": "corpse"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le cadavre", "lemma": "cadavre", "ipa": "lə kadavʁ", "translation": {"zh": "尸体", "en": "corpse"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la bonté",
+    "ipa": "la bɔ̃te",
+    "translation": {"zh": "善良", "en": "kindness"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la bonté", "lemma": "bonté", "ipa": "la bɔ̃te", "translation": {"zh": "善良", "en": "kindness"}, "emoji": "💛"}
+    ]
+  },
+  {
+    "text": "l'implication",
+    "ipa": "lɛ̃plikasjɔ̃",
+    "translation": {"zh": "含义", "en": "implication"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'implication", "lemma": "implication", "ipa": "lɛ̃plikasjɔ̃", "translation": {"zh": "含义影响", "en": "implication"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "à des lieues",
+    "ipa": "a de ljø",
+    "translation": {"zh": "相距甚远", "en": "leagues away"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "à des lieues", "lemma": "lieue", "ipa": "a de ljø", "translation": {"zh": "相距甚远", "en": "leagues away"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la récolte",
+    "ipa": "la ʁekɔlt",
+    "translation": {"zh": "收成", "en": "harvest"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la récolte", "lemma": "récolte", "ipa": "la ʁekɔlt", "translation": {"zh": "收成收获", "en": "harvest"}, "emoji": "🌾"}
+    ]
+  },
+  {
+    "text": "renchérir",
+    "ipa": "ʁɑ̃ʃeʁiʁ",
+    "translation": {"zh": "进一步补充", "en": "to add further"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "renchérir", "lemma": "renchérir", "ipa": "ʁɑ̃ʃeʁiʁ", "translation": {"zh": "补充强调", "en": "to add further"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le reflet",
+    "ipa": "lə ʁəflɛ",
+    "translation": {"zh": "倒影", "en": "reflection"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le reflet", "lemma": "reflet", "ipa": "lə ʁəflɛ", "translation": {"zh": "倒影反射", "en": "reflection"}, "emoji": ""}
+    ]
+  }
+]

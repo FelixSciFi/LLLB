@@ -1,0 +1,68 @@
+[
+  {
+    "text": "Quelle journée admirable !",
+    "ipa": "kɛl ʒuʁne admiʁabl",
+    "translation": {"zh": "多么美妙的一天！", "en": "What a wonderful day!"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Quelle", "lemma": "quel", "ipa": "kɛl", "translation": {"zh": "多么", "en": "what a"}, "emoji": "❓"},
+      {"text": "journée", "lemma": "journée", "ipa": "ʒuʁne", "translation": {"zh": "一天", "en": "day"}, "emoji": "📅"},
+      {"text": "admirable", "lemma": "admirable", "ipa": "admiʁabl", "translation": {"zh": "极好的", "en": "wonderful"}, "emoji": "✨"}
+    ],
+    "tags": [{"name": "Le Horla", "index": 0}]
+  },
+  {
+    "text": "J'ai passé toute la matinée étendu sur l'herbe,",
+    "ipa": "ʒe pɑse tut la matine etɑ̃dy syʁ lɛʁb",
+    "translation": {"zh": "我整个上午躺在草地上，", "en": "I spent the whole morning lying on the grass,"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "J'ai passé", "lemma": "passer", "ipa": "ʒe pɑse", "translation": {"zh": "我度过了", "en": "I spent"}, "emoji": "⏳"},
+      {"text": "toute la matinée", "lemma": "matinée", "ipa": "tut la matine", "translation": {"zh": "整个上午", "en": "the whole morning"}, "emoji": "🌅"},
+      {"text": "étendu", "lemma": "étendre", "ipa": "etɑ̃dy", "translation": {"zh": "躺着", "en": "lying"}, "emoji": "🛌"},
+      {"text": "sur l'herbe", "lemma": "herbe", "ipa": "syʁ lɛʁb", "translation": {"zh": "在草地上", "en": "on the grass"}, "emoji": "🌿"}
+    ],
+    "tags": [{"name": "Le Horla", "index": 0}]
+  },
+  {
+    "text": "devant ma maison, sous l'énorme platane",
+    "ipa": "dəvɑ̃ ma mɛzɔ̃ su lenɔʁm platan",
+    "translation": {"zh": "在我家前面，巨大的悬铃木下", "en": "in front of my house, under the huge plane tree"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "devant", "lemma": "devant", "ipa": "dəvɑ̃", "translation": {"zh": "在…前面", "en": "in front of"}, "emoji": "⬅️"},
+      {"text": "ma maison", "lemma": "maison", "ipa": "ma mɛzɔ̃", "translation": {"zh": "我家", "en": "my house"}, "emoji": "🏠"},
+      {"text": "sous", "lemma": "sous", "ipa": "su", "translation": {"zh": "在…下", "en": "under"}, "emoji": "⬇️"},
+      {"text": "l'énorme", "lemma": "énorme", "ipa": "lenɔʁm", "translation": {"zh": "巨大的", "en": "huge"}, "emoji": "🦣"},
+      {"text": "platane", "lemma": "platane", "ipa": "platan", "translation": {"zh": "悬铃木", "en": "plane tree"}, "emoji": "🌳"}
+    ],
+    "tags": [{"name": "Le Horla", "index": 0}]
+  },
+  {
+    "text": "qui la couvre, l'abrite et l'ombrage tout entière.",
+    "ipa": "ki la kuvʁ labʁit e lɔ̃bʁaʒ tut ɑ̃tjɛʁ",
+    "translation": {"zh": "完全覆盖、庇护并遮蔽着它。", "en": "which covers, shelters and shades it entirely."},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "qui la couvre", "lemma": "couvrir", "ipa": "ki la kuvʁ", "translation": {"zh": "覆盖它", "en": "which covers it"}, "emoji": "☂️"},
+      {"text": "l'abrite", "lemma": "abriter", "ipa": "labʁit", "translation": {"zh": "庇护它", "en": "shelters it"}, "emoji": "🛡️"},
+      {"text": "et l'ombrage", "lemma": "ombrager", "ipa": "e lɔ̃bʁaʒ", "translation": {"zh": "并遮蔽它", "en": "and shades it"}, "emoji": "🌑"},
+      {"text": "tout entière", "lemma": "entier", "ipa": "tut ɑ̃tjɛʁ", "translation": {"zh": "完全地", "en": "entirely"}, "emoji": "💯"}
+    ],
+    "tags": [{"name": "Le Horla", "index": 0}]
+  },
+  {
+    "text": "J'aime ce pays parce que j'y ai mes racines.",
+    "ipa": "ʒɛm sə pei paʁs kə ʒi e me ʁasin",
+    "translation": {"zh": "我爱这片土地，因为我的根在这里。", "en": "I love this land because my roots are here."},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "J'aime", "lemma": "aimer", "ipa": "ʒɛm", "translation": {"zh": "我爱", "en": "I love"}, "emoji": "❤️"},
+      {"text": "ce pays", "lemma": "pays", "ipa": "sə pei", "translation": {"zh": "这片土地", "en": "this land"}, "emoji": "🗺️"},
+      {"text": "parce que", "lemma": "parce que", "ipa": "paʁs kə", "translation": {"zh": "因为", "en": "because"}, "emoji": "➡️"},
+      {"text": "j'y ai", "lemma": "avoir", "ipa": "ʒi e", "translation": {"zh": "我在那里有", "en": "I have there"}, "emoji": "📍"},
+      {"text": "mes racines", "lemma": "racine", "ipa": "me ʁasin", "translation": {"zh": "我的根", "en": "my roots"}, "emoji": "🌱"}
+    ],
+    "tags": [{"name": "Le Horla", "index": 0}]
+  }
+]

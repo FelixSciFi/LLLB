@@ -1,0 +1,185 @@
+[
+  {
+    "input_word": "receipt",
+    "entries": [
+      {"text": "receipt", "ipa": "/rɪˈsiːt/", "cefr": "B1", "zh": "收据", "emoji": "🧾"}
+    ]
+  },
+  {
+    "input_word": "receive",
+    "entries": [
+      {"text": "receive", "ipa": "/rɪˈsiːv/", "cefr": "A2", "zh": "收到", "emoji": "📬"}
+    ]
+  },
+  {
+    "input_word": "recent",
+    "entries": [
+      {"text": "recent", "ipa": "/ˈriːsənt/", "cefr": "A2", "zh": "最近的", "emoji": "🕐"}
+    ]
+  },
+  {
+    "input_word": "recently",
+    "entries": [
+      {"text": "recently", "ipa": "/ˈriːsəntli/", "cefr": "A2", "zh": "最近", "emoji": "🕐"}
+    ]
+  },
+  {
+    "input_word": "reception",
+    "entries": [
+      {"text": "reception", "ipa": "/rɪˈsɛpʃən/", "cefr": "A2", "zh": "前台", "emoji": "🏨"},
+      {"text": "reception", "ipa": "/rɪˈsɛpʃən/", "cefr": "A2", "zh": "招待会", "emoji": "🥂"}
+    ]
+  },
+  {
+    "input_word": "recipe",
+    "entries": [
+      {"text": "recipe", "ipa": "/ˈrɛsɪpi/", "cefr": "A2", "zh": "食谱", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_word": "recognize",
+    "entries": [
+      {"text": "recognize", "ipa": "/ˈrɛkəɡˌnaɪz/", "cefr": "A2", "zh": "认出", "emoji": "👀"}
+    ]
+  },
+  {
+    "input_word": "recommend",
+    "entries": [
+      {"text": "recommend", "ipa": "/ˌrɛkəˈmɛnd/", "cefr": "A2", "zh": "推荐", "emoji": "👍"}
+    ]
+  },
+  {
+    "input_word": "recommendation",
+    "entries": [
+      {"text": "recommendation", "ipa": "/ˌrɛkəmɛnˈdeɪʃən/", "cefr": "B1", "zh": "推荐意见", "emoji": "👍"}
+    ]
+  },
+  {
+    "input_word": "record",
+    "entries": [
+      {"text": "record", "ipa": "/ˈrɛkərd/", "cefr": "A2", "zh": "记录", "emoji": "📋"},
+      {"text": "record", "ipa": "/rɪˈkɔːrd/", "cefr": "A2", "zh": "录制", "emoji": "🎙️"}
+    ]
+  },
+  {
+    "input_word": "recording",
+    "entries": [
+      {"text": "recording", "ipa": "/rɪˈkɔːrdɪŋ/", "cefr": "A2", "zh": "录音", "emoji": "🎙️"}
+    ]
+  },
+  {
+    "input_word": "recover",
+    "entries": [
+      {"text": "recover", "ipa": "/rɪˈkʌvər/", "cefr": "B2", "zh": "康复", "emoji": "🏥"}
+    ]
+  },
+  {
+    "input_word": "recycle",
+    "entries": [
+      {"text": "recycle", "ipa": "/riːˈsaɪkəl/", "cefr": "A2", "zh": "回收", "emoji": "♻️"}
+    ]
+  },
+  {
+    "input_word": "red",
+    "entries": [
+      {"text": "red", "ipa": "/rɛd/", "cefr": "A1", "zh": "红色", "emoji": "🔴"}
+    ]
+  },
+  {
+    "input_word": "reduce",
+    "entries": [
+      {"text": "reduce", "ipa": "/rɪˈduːs/", "cefr": "A2", "zh": "减少", "emoji": "📉"}
+    ]
+  },
+  {
+    "input_word": "reduction",
+    "entries": [
+      {"text": "reduction", "ipa": "/rɪˈdʌkʃən/", "cefr": "B2", "zh": "减少量", "emoji": "📉"}
+    ]
+  },
+  {
+    "input_word": "refer",
+    "entries": [
+      {"text": "refer", "ipa": "/rɪˈfɜːr/", "cefr": "A2", "zh": "提及", "emoji": "👉"}
+    ]
+  },
+  {
+    "input_word": "reference",
+    "entries": [
+      {"text": "reference", "ipa": "/ˈrɛfərəns/", "cefr": "B1", "zh": "参考", "emoji": "📚"}
+    ]
+  },
+  {
+    "input_word": "reflect",
+    "entries": [
+      {"text": "reflect", "ipa": "/rɪˈflɛkt/", "cefr": "B1", "zh": "反思", "emoji": "🪞"},
+      {"text": "reflect", "ipa": "/rɪˈflɛkt/", "cefr": "B1", "zh": "反射", "emoji": "💡"}
+    ]
+  },
+  {
+    "input_word": "refuse",
+    "entries": [
+      {"text": "refuse", "ipa": "/rɪˈfjuːz/", "cefr": "A2", "zh": "拒绝", "emoji": "🙅"}
+    ]
+  },
+  {
+    "input_word": "regard",
+    "entries": [
+      {"text": "regard", "ipa": "/rɪˈɡɑːrd/", "cefr": "B2", "zh": "看待", "emoji": "👁️"}
+    ]
+  },
+  {
+    "input_word": "region",
+    "entries": [
+      {"text": "region", "ipa": "/ˈriːdʒən/", "cefr": "A2", "zh": "地区", "emoji": "🗺️"}
+    ]
+  },
+  {
+    "input_word": "regional",
+    "entries": [
+      {"text": "regional", "ipa": "/ˈriːdʒənəl/", "cefr": "B2", "zh": "地区性的", "emoji": "🗺️"}
+    ]
+  },
+  {
+    "input_word": "register",
+    "entries": [
+      {"text": "register", "ipa": "/ˈrɛdʒɪstər/", "cefr": "B2", "zh": "注册", "emoji": "📝"}
+    ]
+  },
+  {
+    "input_word": "regret",
+    "entries": [
+      {"text": "regret", "ipa": "/rɪˈɡrɛt/", "cefr": "B2", "zh": "遗憾", "emoji": "😔"}
+    ]
+  },
+  {
+    "input_word": "regular",
+    "entries": [
+      {"text": "regular", "ipa": "/ˈrɛɡjələr/", "cefr": "A2", "zh": "定期的", "emoji": "🔄"}
+    ]
+  },
+  {
+    "input_word": "regularly",
+    "entries": [
+      {"text": "regularly", "ipa": "/ˈrɛɡjələrli/", "cefr": "B1", "zh": "定期地", "emoji": "🔄"}
+    ]
+  },
+  {
+    "input_word": "regulation",
+    "entries": [
+      {"text": "regulation", "ipa": "/ˌrɛɡjəˈleɪʃən/", "cefr": "B2", "zh": "规定", "emoji": "📜"}
+    ]
+  },
+  {
+    "input_word": "reject",
+    "entries": [
+      {"text": "reject", "ipa": "/rɪˈdʒɛkt/", "cefr": "B1", "zh": "拒绝", "emoji": "❌"}
+    ]
+  },
+  {
+    "input_word": "relate",
+    "entries": [
+      {"text": "relate", "ipa": "/rɪˈleɪt/", "cefr": "B1", "zh": "关联", "emoji": "🔗"}
+    ]
+  }
+]

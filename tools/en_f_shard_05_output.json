@@ -1,0 +1,62 @@
+[
+  {
+    "input_word": "fur",
+    "entries": [
+      {
+        "text": "fur",
+        "ipa": "/fɜːr/",
+        "cefr": "B1",
+        "zh": "皮毛",
+        "emoji": "🦊"
+      }
+    ]
+  },
+  {
+    "input_word": "furniture",
+    "entries": [
+      {
+        "text": "furniture",
+        "ipa": "/ˈfɜːrnɪtʃər/",
+        "cefr": "A2",
+        "zh": "家具",
+        "emoji": "🪑"
+      }
+    ]
+  },
+  {
+    "input_word": "further",
+    "entries": [
+      {
+        "text": "further",
+        "ipa": "/ˈfɜːrðər/",
+        "cefr": "A2",
+        "zh": "更远地",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "furthermore",
+    "entries": [
+      {
+        "text": "furthermore",
+        "ipa": "/ˌfɜːrðərˈmɔːr/",
+        "cefr": "B2",
+        "zh": "此外",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "future",
+    "entries": [
+      {
+        "text": "future",
+        "ipa": "/ˈfjuːtʃər/",
+        "cefr": "A1",
+        "zh": "未来",
+        "emoji": "🔮"
+      }
+    ]
+  }
+]

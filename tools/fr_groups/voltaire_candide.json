@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Il y avait en Westphalie,",
+    "ipa": "il j avɛ ɑ̃ vɛstfali",
+    "translation": {"zh": "在威斯特法利亚，", "en": "There was in Westphalia,"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Il y avait", "lemma": "il y avoir", "ipa": "il j avɛ", "translation": {"zh": "曾有", "en": "there was"}, "emoji": ""},
+      {"text": "en Westphalie", "lemma": "Westphalie", "ipa": "ɑ̃ vɛstfali", "translation": {"zh": "在威斯特法利亚", "en": "in Westphalia"}, "emoji": ""}
+    ],
+    "tags": [{"name": "Candide", "index": 1}]
+  },
+  {
+    "text": "dans le château de monsieur le baron de Thunder-ten-tronckh,",
+    "ipa": "dɑ̃ lə ʃɑto də məsjø lə baʁɔ̃ də tundɛʁtɛ̃tʁɔ̃k",
+    "translation": {"zh": "在敦德腾特龙克男爵先生的城堡里，", "en": "in the castle of My Lord the Baron of Thunder-ten-tronckh,"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "dans le château", "lemma": "château", "ipa": "dɑ̃ lə ʃɑto", "translation": {"zh": "在城堡里", "en": "in the castle"}, "emoji": ""},
+      {"text": "de monsieur", "lemma": "monsieur", "ipa": "də məsjø", "translation": {"zh": "先生的", "en": "of My Lord"}, "emoji": ""},
+      {"text": "le baron", "lemma": "baron", "ipa": "lə baʁɔ̃", "translation": {"zh": "男爵", "en": "the Baron"}, "emoji": ""},
+      {"text": "de Thunder-ten-tronckh", "lemma": "Thunder-ten-tronckh", "ipa": "də tundɛʁtɛ̃tʁɔ̃k", "translation": {"zh": "敦德腾特龙克的", "en": "of Thunder-ten-tronckh"}, "emoji": ""}
+    ],
+    "tags": [{"name": "Candide", "index": 2}]
+  },
+  {
+    "text": "un jeune garçon à qui la nature avait donné les mœurs les plus douces.",
+    "ipa": "œ̃ ʒœn ɡaʁsɔ̃ a ki la natyʁ avɛ dɔne le mœʁ le ply dus",
+    "translation": {"zh": "一个被大自然赋予了最温和性情的年轻男孩。", "en": "a young boy to whom nature had given the gentlest of manners."},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "un jeune garçon", "lemma": "garçon", "ipa": "œ̃ ʒœn ɡaʁsɔ̃", "translation": {"zh": "一个年轻男孩", "en": "a young boy"}, "emoji": ""},
+      {"text": "à qui", "lemma": "qui", "ipa": "a ki", "translation": {"zh": "对他", "en": "to whom"}, "emoji": ""},
+      {"text": "la nature", "lemma": "nature", "ipa": "la natyʁ", "translation": {"zh": "大自然", "en": "nature"}, "emoji": ""},
+      {"text": "avait donné", "lemma": "donner", "ipa": "avɛ dɔne", "translation": {"zh": "曾赋予", "en": "had given"}, "emoji": ""},
+      {"text": "les mœurs les plus douces", "lemma": "mœurs", "ipa": "le mœʁ le ply dus", "translation": {"zh": "最温和的性情", "en": "gentlest manners"}, "emoji": ""}
+    ],
+    "tags": [{"name": "Candide", "index": 3}]
+  },
+  {
+    "text": "Sa physionomie annonçait son âme.",
+    "ipa": "sa fizjɔnɔmi anɔ̃sɛ sɔ̃ ɑm",
+    "translation": {"zh": "他的相貌彰显着他的灵魂。", "en": "His countenance announced his soul."},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Sa physionomie", "lemma": "physionomie", "ipa": "sa fizjɔnɔmi", "translation": {"zh": "他的相貌", "en": "his countenance"}, "emoji": ""},
+      {"text": "annonçait", "lemma": "annoncer", "ipa": "anɔ̃sɛ", "translation": {"zh": "彰显", "en": "announced"}, "emoji": ""},
+      {"text": "son âme", "lemma": "âme", "ipa": "sɔ̃ ɑm", "translation": {"zh": "他的灵魂", "en": "his soul"}, "emoji": ""}
+    ],
+    "tags": [{"name": "Candide", "index": 4}]
+  }
+]

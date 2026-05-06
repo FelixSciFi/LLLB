@@ -1,0 +1,802 @@
+[
+  {
+    "input_word": "服务员",
+    "sentences": [
+      {
+        "text": "服务员来了。",
+        "ipa": "fú wù yuán lái le",
+        "translation": {
+          "zh": "服务员来了。",
+          "en": "The waiter is here."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "服务员",
+            "lemma": "服务员",
+            "ipa": "fú wù yuán",
+            "translation": { "zh": "服务员", "en": "waiter" },
+            "emoji": "🧑‍🍳"
+          },
+          {
+            "text": "来了",
+            "lemma": "来",
+            "ipa": "lái le",
+            "translation": { "zh": "来了", "en": "came / is here" },
+            "emoji": "👋"
+          }
+        ]
+      },
+      {
+        "text": "我叫服务员。",
+        "ipa": "wǒ jiào fú wù yuán",
+        "translation": {
+          "zh": "我叫了服务员。",
+          "en": "I called the waiter."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我叫",
+            "lemma": "叫",
+            "ipa": "wǒ jiào",
+            "translation": { "zh": "我叫", "en": "I called" },
+            "emoji": "📢"
+          },
+          {
+            "text": "服务员",
+            "lemma": "服务员",
+            "ipa": "fú wù yuán",
+            "translation": { "zh": "服务员", "en": "the waiter" },
+            "emoji": "🧑‍🍳"
+          }
+        ]
+      },
+      {
+        "text": "服务员很忙。",
+        "ipa": "fú wù yuán hěn máng",
+        "translation": {
+          "zh": "服务员很忙。",
+          "en": "The waiter is very busy."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "服务员",
+            "lemma": "服务员",
+            "ipa": "fú wù yuán",
+            "translation": { "zh": "服务员", "en": "the waiter" },
+            "emoji": "🧑‍🍳"
+          },
+          {
+            "text": "很忙",
+            "lemma": "忙",
+            "ipa": "hěn máng",
+            "translation": { "zh": "很忙", "en": "very busy" },
+            "emoji": "😓"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "高",
+    "sentences": [
+      {
+        "text": "他很高。",
+        "ipa": "tā hěn gāo",
+        "translation": {
+          "zh": "他很高。",
+          "en": "He is very tall."
+        },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "他很高",
+            "lemma": "高",
+            "ipa": "tā hěn gāo",
+            "translation": { "zh": "他很高", "en": "he is very tall" },
+            "emoji": "📏"
+          }
+        ]
+      },
+      {
+        "text": "那座山很高。",
+        "ipa": "nà zuò shān hěn gāo",
+        "translation": {
+          "zh": "那座山很高。",
+          "en": "That mountain is very tall."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "那座",
+            "lemma": "那",
+            "ipa": "nà zuò",
+            "translation": { "zh": "那座", "en": "that (one)" },
+            "emoji": ""
+          },
+          {
+            "text": "山",
+            "lemma": "山",
+            "ipa": "shān",
+            "translation": { "zh": "山", "en": "mountain" },
+            "emoji": "⛰️"
+          },
+          {
+            "text": "很高",
+            "lemma": "高",
+            "ipa": "hěn gāo",
+            "translation": { "zh": "很高", "en": "very tall" },
+            "emoji": "📏"
+          }
+        ]
+      },
+      {
+        "text": "哥哥比我高。",
+        "ipa": "gē ge bǐ wǒ gāo",
+        "translation": {
+          "zh": "哥哥比我高。",
+          "en": "My older brother is taller than me."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "哥哥",
+            "lemma": "哥哥",
+            "ipa": "gē ge",
+            "translation": { "zh": "哥哥", "en": "older brother" },
+            "emoji": "👦"
+          },
+          {
+            "text": "比我",
+            "lemma": "比",
+            "ipa": "bǐ wǒ",
+            "translation": { "zh": "比我", "en": "than me" },
+            "emoji": ""
+          },
+          {
+            "text": "高",
+            "lemma": "高",
+            "ipa": "gāo",
+            "translation": { "zh": "高", "en": "taller" },
+            "emoji": "📏"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "告诉",
+    "sentences": [
+      {
+        "text": "我告诉你。",
+        "ipa": "wǒ gào su nǐ",
+        "translation": {
+          "zh": "我告诉你。",
+          "en": "I'll tell you."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我告诉",
+            "lemma": "告诉",
+            "ipa": "wǒ gào su",
+            "translation": { "zh": "我告诉", "en": "I'll tell" },
+            "emoji": "🗣️"
+          },
+          {
+            "text": "你",
+            "lemma": "你",
+            "ipa": "nǐ",
+            "translation": { "zh": "你", "en": "you" },
+            "emoji": ""
+          }
+        ]
+      },
+      {
+        "text": "他告诉我了。",
+        "ipa": "tā gào su wǒ le",
+        "translation": {
+          "zh": "他告诉我了。",
+          "en": "He already told me."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "他告诉",
+            "lemma": "告诉",
+            "ipa": "tā gào su",
+            "translation": { "zh": "他告诉", "en": "he told" },
+            "emoji": "🗣️"
+          },
+          {
+            "text": "我了",
+            "lemma": "我",
+            "ipa": "wǒ le",
+            "translation": { "zh": "我了", "en": "me (already)" },
+            "emoji": ""
+          }
+        ]
+      },
+      {
+        "text": "请告诉我。",
+        "ipa": "qǐng gào su wǒ",
+        "translation": {
+          "zh": "请告诉我。",
+          "en": "Please tell me."
+        },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "请告诉",
+            "lemma": "告诉",
+            "ipa": "qǐng gào su",
+            "translation": { "zh": "请告诉", "en": "please tell" },
+            "emoji": "🙏"
+          },
+          {
+            "text": "我",
+            "lemma": "我",
+            "ipa": "wǒ",
+            "translation": { "zh": "我", "en": "me" },
+            "emoji": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "哥哥",
+    "sentences": [
+      {
+        "text": "我哥哥很高。",
+        "ipa": "wǒ gē ge hěn gāo",
+        "translation": {
+          "zh": "我哥哥很高。",
+          "en": "My older brother is very tall."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我哥哥",
+            "lemma": "哥哥",
+            "ipa": "wǒ gē ge",
+            "translation": { "zh": "我哥哥", "en": "my older brother" },
+            "emoji": "👦"
+          },
+          {
+            "text": "很高",
+            "lemma": "高",
+            "ipa": "hěn gāo",
+            "translation": { "zh": "很高", "en": "very tall" },
+            "emoji": "📏"
+          }
+        ]
+      },
+      {
+        "text": "哥哥在家。",
+        "ipa": "gē ge zài jiā",
+        "translation": {
+          "zh": "哥哥在家。",
+          "en": "My older brother is at home."
+        },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "哥哥",
+            "lemma": "哥哥",
+            "ipa": "gē ge",
+            "translation": { "zh": "哥哥", "en": "older brother" },
+            "emoji": "👦"
+          },
+          {
+            "text": "在家",
+            "lemma": "家",
+            "ipa": "zài jiā",
+            "translation": { "zh": "在家", "en": "at home" },
+            "emoji": "🏠"
+          }
+        ]
+      },
+      {
+        "text": "我有一个哥哥。",
+        "ipa": "wǒ yǒu yī gè gē ge",
+        "translation": {
+          "zh": "我有一个哥哥。",
+          "en": "I have one older brother."
+        },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "我有",
+            "lemma": "有",
+            "ipa": "wǒ yǒu",
+            "translation": { "zh": "我有", "en": "I have" },
+            "emoji": ""
+          },
+          {
+            "text": "一个哥哥",
+            "lemma": "哥哥",
+            "ipa": "yī gè gē ge",
+            "translation": { "zh": "一个哥哥", "en": "one older brother" },
+            "emoji": "👦"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "给",
+    "sentences": [
+      {
+        "text": "给我看看。",
+        "ipa": "gěi wǒ kàn kan",
+        "translation": {
+          "zh": "给我看看。",
+          "en": "Let me see it."
+        },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "给我",
+            "lemma": "给",
+            "ipa": "gěi wǒ",
+            "translation": { "zh": "给我", "en": "for me / let me" },
+            "emoji": ""
+          },
+          {
+            "text": "看看",
+            "lemma": "看",
+            "ipa": "kàn kan",
+            "translation": { "zh": "看看", "en": "have a look" },
+            "emoji": "👀"
+          }
+        ]
+      },
+      {
+        "text": "我给你水。",
+        "ipa": "wǒ gěi nǐ shuǐ",
+        "translation": {
+          "zh": "我给你水。",
+          "en": "I'll give you water."
+        },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "我给你",
+            "lemma": "给",
+            "ipa": "wǒ gěi nǐ",
+            "translation": { "zh": "我给你", "en": "I give you" },
+            "emoji": "🤲"
+          },
+          {
+            "text": "水",
+            "lemma": "水",
+            "ipa": "shuǐ",
+            "translation": { "zh": "水", "en": "water" },
+            "emoji": "💧"
+          }
+        ]
+      },
+      {
+        "text": "妈妈给我钱。",
+        "ipa": "mā ma gěi wǒ qián",
+        "translation": {
+          "zh": "妈妈给我钱。",
+          "en": "Mom gave me money."
+        },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "妈妈",
+            "lemma": "妈妈",
+            "ipa": "mā ma",
+            "translation": { "zh": "妈妈", "en": "mom" },
+            "emoji": "👩"
+          },
+          {
+            "text": "给我",
+            "lemma": "给",
+            "ipa": "gěi wǒ",
+            "translation": { "zh": "给我", "en": "gave me" },
+            "emoji": "🤲"
+          },
+          {
+            "text": "钱",
+            "lemma": "钱",
+            "ipa": "qián",
+            "translation": { "zh": "钱", "en": "money" },
+            "emoji": "💰"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "公共汽车",
+    "sentences": [
+      {
+        "text": "我坐公共汽车。",
+        "ipa": "wǒ zuò gōng gòng qì chē",
+        "translation": {
+          "zh": "我坐公共汽车。",
+          "en": "I take the bus."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我坐",
+            "lemma": "坐",
+            "ipa": "wǒ zuò",
+            "translation": { "zh": "我坐", "en": "I take / I ride" },
+            "emoji": "🪑"
+          },
+          {
+            "text": "公共汽车",
+            "lemma": "公共汽车",
+            "ipa": "gōng gòng qì chē",
+            "translation": { "zh": "公共汽车", "en": "bus" },
+            "emoji": "🚌"
+          }
+        ]
+      },
+      {
+        "text": "公共汽车来了。",
+        "ipa": "gōng gòng qì chē lái le",
+        "translation": {
+          "zh": "公共汽车来了。",
+          "en": "The bus is here."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "公共汽车",
+            "lemma": "公共汽车",
+            "ipa": "gōng gòng qì chē",
+            "translation": { "zh": "公共汽车", "en": "the bus" },
+            "emoji": "🚌"
+          },
+          {
+            "text": "来了",
+            "lemma": "来",
+            "ipa": "lái le",
+            "translation": { "zh": "来了", "en": "is here / has arrived" },
+            "emoji": "👋"
+          }
+        ]
+      },
+      {
+        "text": "坐公共汽车去。",
+        "ipa": "zuò gōng gòng qì chē qù",
+        "translation": {
+          "zh": "坐公共汽车去。",
+          "en": "Go by bus."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "坐",
+            "lemma": "坐",
+            "ipa": "zuò",
+            "translation": { "zh": "坐", "en": "take / ride" },
+            "emoji": "🪑"
+          },
+          {
+            "text": "公共汽车",
+            "lemma": "公共汽车",
+            "ipa": "gōng gòng qì chē",
+            "translation": { "zh": "公共汽车", "en": "bus" },
+            "emoji": "🚌"
+          },
+          {
+            "text": "去",
+            "lemma": "去",
+            "ipa": "qù",
+            "translation": { "zh": "去", "en": "go" },
+            "emoji": "➡️"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "公司",
+    "sentences": [
+      {
+        "text": "我去公司。",
+        "ipa": "wǒ qù gōng sī",
+        "translation": {
+          "zh": "我去公司。",
+          "en": "I'm going to the office."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我去",
+            "lemma": "去",
+            "ipa": "wǒ qù",
+            "translation": { "zh": "我去", "en": "I'm going" },
+            "emoji": "🚶"
+          },
+          {
+            "text": "公司",
+            "lemma": "公司",
+            "ipa": "gōng sī",
+            "translation": { "zh": "公司", "en": "company / office" },
+            "emoji": "🏢"
+          }
+        ]
+      },
+      {
+        "text": "他在公司。",
+        "ipa": "tā zài gōng sī",
+        "translation": {
+          "zh": "他在公司。",
+          "en": "He is at the office."
+        },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "他在",
+            "lemma": "在",
+            "ipa": "tā zài",
+            "translation": { "zh": "他在", "en": "he is at" },
+            "emoji": ""
+          },
+          {
+            "text": "公司",
+            "lemma": "公司",
+            "ipa": "gōng sī",
+            "translation": { "zh": "公司", "en": "the office" },
+            "emoji": "🏢"
+          }
+        ]
+      },
+      {
+        "text": "这是我们公司。",
+        "ipa": "zhè shì wǒ men gōng sī",
+        "translation": {
+          "zh": "这是我们公司。",
+          "en": "This is our company."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "这",
+            "lemma": "这",
+            "ipa": "zhè",
+            "translation": { "zh": "这", "en": "this" },
+            "emoji": ""
+          },
+          {
+            "text": "是我们公司",
+            "lemma": "公司",
+            "ipa": "shì wǒ men gōng sī",
+            "translation": { "zh": "是我们公司", "en": "is our company" },
+            "emoji": "🏢"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "贵",
+    "sentences": [
+      {
+        "text": "太贵了。",
+        "ipa": "tài guì le",
+        "translation": {
+          "zh": "太贵了。",
+          "en": "Too expensive."
+        },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "太贵了",
+            "lemma": "贵",
+            "ipa": "tài guì le",
+            "translation": { "zh": "太贵了", "en": "too expensive" },
+            "emoji": "💸"
+          }
+        ]
+      },
+      {
+        "text": "这个很贵。",
+        "ipa": "zhè gè hěn guì",
+        "translation": {
+          "zh": "这个很贵。",
+          "en": "This is very expensive."
+        },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "这个",
+            "lemma": "这",
+            "ipa": "zhè gè",
+            "translation": { "zh": "这个", "en": "this one" },
+            "emoji": "👆"
+          },
+          {
+            "text": "很贵",
+            "lemma": "贵",
+            "ipa": "hěn guì",
+            "translation": { "zh": "很贵", "en": "very expensive" },
+            "emoji": "💸"
+          }
+        ]
+      },
+      {
+        "text": "苹果贵吗？",
+        "ipa": "píng guǒ guì ma",
+        "translation": {
+          "zh": "苹果贵吗？",
+          "en": "Are apples expensive?"
+        },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "苹果",
+            "lemma": "苹果",
+            "ipa": "píng guǒ",
+            "translation": { "zh": "苹果", "en": "apple" },
+            "emoji": "🍎"
+          },
+          {
+            "text": "贵吗",
+            "lemma": "贵",
+            "ipa": "guì ma",
+            "translation": { "zh": "贵吗", "en": "expensive?" },
+            "emoji": "💸"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "过",
+    "sentences": [
+      {
+        "text": "我去过北京。",
+        "ipa": "wǒ qù guò běi jīng",
+        "translation": {
+          "zh": "我去过北京。",
+          "en": "I've been to Beijing."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我去过",
+            "lemma": "去",
+            "ipa": "wǒ qù guò",
+            "translation": { "zh": "我去过", "en": "I've been to" },
+            "emoji": "✈️"
+          },
+          {
+            "text": "北京",
+            "lemma": "北京",
+            "ipa": "běi jīng",
+            "translation": { "zh": "北京", "en": "Beijing" },
+            "emoji": "🏙️"
+          }
+        ]
+      },
+      {
+        "text": "我吃过了。",
+        "ipa": "wǒ chī guò le",
+        "translation": {
+          "zh": "我吃过了。",
+          "en": "I've already eaten."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "我吃过了",
+            "lemma": "吃",
+            "ipa": "wǒ chī guò le",
+            "translation": { "zh": "我吃过了", "en": "I've already eaten" },
+            "emoji": "🍽️"
+          }
+        ]
+      },
+      {
+        "text": "他来过。",
+        "ipa": "tā lái guò",
+        "translation": {
+          "zh": "他来过。",
+          "en": "He has been here before."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "他来过",
+            "lemma": "来",
+            "ipa": "tā lái guò",
+            "translation": { "zh": "他来过", "en": "he has been here" },
+            "emoji": "🚶"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "孩子",
+    "sentences": [
+      {
+        "text": "孩子很小。",
+        "ipa": "hái zi hěn xiǎo",
+        "translation": {
+          "zh": "孩子很小。",
+          "en": "The child is very young."
+        },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "孩子",
+            "lemma": "孩子",
+            "ipa": "hái zi",
+            "translation": { "zh": "孩子", "en": "the child" },
+            "emoji": "👶"
+          },
+          {
+            "text": "很小",
+            "lemma": "小",
+            "ipa": "hěn xiǎo",
+            "translation": { "zh": "很小", "en": "very young / small" },
+            "emoji": "🐣"
+          }
+        ]
+      },
+      {
+        "text": "她有两个孩子。",
+        "ipa": "tā yǒu liǎng gè hái zi",
+        "translation": {
+          "zh": "她有两个孩子。",
+          "en": "She has two children."
+        },
+        "cefr": "HSK1",
+        "tokens": [
+          {
+            "text": "她有",
+            "lemma": "有",
+            "ipa": "tā yǒu",
+            "translation": { "zh": "她有", "en": "she has" },
+            "emoji": ""
+          },
+          {
+            "text": "两个孩子",
+            "lemma": "孩子",
+            "ipa": "liǎng gè hái zi",
+            "translation": { "zh": "两个孩子", "en": "two children" },
+            "emoji": "👶"
+          }
+        ]
+      },
+      {
+        "text": "孩子们在玩。",
+        "ipa": "hái zi men zài wán",
+        "translation": {
+          "zh": "孩子们在玩。",
+          "en": "The children are playing."
+        },
+        "cefr": "HSK2",
+        "tokens": [
+          {
+            "text": "孩子们",
+            "lemma": "孩子",
+            "ipa": "hái zi men",
+            "translation": { "zh": "孩子们", "en": "the children" },
+            "emoji": "👶"
+          },
+          {
+            "text": "在玩",
+            "lemma": "玩",
+            "ipa": "zài wán",
+            "translation": { "zh": "在玩", "en": "are playing" },
+            "emoji": "🎮"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "input_text": "生病",
+    "entries": [
+      {
+        "text": "生病",
+        "pinyin": "shēng bìng",
+        "en": "get sick",
+        "emoji": "🤒"
+      }
+    ]
+  },
+  {
+    "input_text": "生日",
+    "entries": [
+      {
+        "text": "生日",
+        "pinyin": "shēng rì",
+        "en": "birthday",
+        "emoji": "🎂"
+      }
+    ]
+  },
+  {
+    "input_text": "时间",
+    "entries": [
+      {
+        "text": "时间",
+        "pinyin": "shí jiān",
+        "en": "time",
+        "emoji": "⏰"
+      }
+    ]
+  },
+  {
+    "input_text": "事情",
+    "entries": [
+      {
+        "text": "事情",
+        "pinyin": "shì qing",
+        "en": "matter, thing",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "手表",
+    "entries": [
+      {
+        "text": "手表",
+        "pinyin": "shǒu biǎo",
+        "en": "wristwatch",
+        "emoji": "⌚"
+      }
+    ]
+  },
+  {
+    "input_text": "手机",
+    "entries": [
+      {
+        "text": "手机",
+        "pinyin": "shǒu jī",
+        "en": "mobile phone",
+        "emoji": "📱"
+      }
+    ]
+  },
+  {
+    "input_text": "说话",
+    "entries": [
+      {
+        "text": "说话",
+        "pinyin": "shuō huà",
+        "en": "speak, talk",
+        "emoji": "🗣️"
+      }
+    ]
+  },
+  {
+    "input_text": "送",
+    "entries": [
+      {
+        "text": "送",
+        "pinyin": "sòng",
+        "en": "give, send",
+        "emoji": "🎁"
+      }
+    ]
+  },
+  {
+    "input_text": "虽然",
+    "entries": [
+      {
+        "text": "虽然",
+        "pinyin": "suī rán",
+        "en": "although",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "但是",
+    "entries": [
+      {
+        "text": "但是",
+        "pinyin": "dàn shì",
+        "en": "but, however",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "它",
+    "entries": [
+      {
+        "text": "它",
+        "pinyin": "tā",
+        "en": "it",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "踢足球",
+    "entries": [
+      {
+        "text": "踢足球",
+        "pinyin": "tī zú qiú",
+        "en": "play football",
+        "emoji": "⚽"
+      }
+    ]
+  },
+  {
+    "input_text": "题",
+    "entries": [
+      {
+        "text": "题",
+        "pinyin": "tí",
+        "en": "question, topic",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "跳舞",
+    "entries": [
+      {
+        "text": "跳舞",
+        "pinyin": "tiào wǔ",
+        "en": "dance",
+        "emoji": "💃"
+      }
+    ]
+  },
+  {
+    "input_text": "外",
+    "entries": [
+      {
+        "text": "外",
+        "pinyin": "wài",
+        "en": "outside",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "完",
+    "entries": [
+      {
+        "text": "完",
+        "pinyin": "wán",
+        "en": "finish, done",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "玩",
+    "entries": [
+      {
+        "text": "玩",
+        "pinyin": "wán",
+        "en": "play, have fun",
+        "emoji": "🎮"
+      }
+    ]
+  },
+  {
+    "input_text": "晚上",
+    "entries": [
+      {
+        "text": "晚上",
+        "pinyin": "wǎn shang",
+        "en": "evening, night",
+        "emoji": "🌙"
+      }
+    ]
+  },
+  {
+    "input_text": "往",
+    "entries": [
+      {
+        "text": "往",
+        "pinyin": "wǎng",
+        "en": "toward",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "为什么",
+    "entries": [
+      {
+        "text": "为什么",
+        "pinyin": "wèi shén me",
+        "en": "why",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "问",
+    "entries": [
+      {
+        "text": "问",
+        "pinyin": "wèn",
+        "en": "ask",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "问题",
+    "entries": [
+      {
+        "text": "问题",
+        "pinyin": "wèn tí",
+        "en": "question, problem",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "西瓜",
+    "entries": [
+      {
+        "text": "西瓜",
+        "pinyin": "xī guā",
+        "en": "watermelon",
+        "emoji": "🍉"
+      }
+    ]
+  },
+  {
+    "input_text": "希望",
+    "entries": [
+      {
+        "text": "希望",
+        "pinyin": "xī wàng",
+        "en": "hope, wish",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "洗",
+    "entries": [
+      {
+        "text": "洗",
+        "pinyin": "xǐ",
+        "en": "wash",
+        "emoji": "🧼"
+      }
+    ]
+  },
+  {
+    "input_text": "小时",
+    "entries": [
+      {
+        "text": "小时",
+        "pinyin": "xiǎo shí",
+        "en": "hour",
+        "emoji": "🕐"
+      }
+    ]
+  },
+  {
+    "input_text": "笑",
+    "entries": [
+      {
+        "text": "笑",
+        "pinyin": "xiào",
+        "en": "laugh, smile",
+        "emoji": "😄"
+      }
+    ]
+  },
+  {
+    "input_text": "新",
+    "entries": [
+      {
+        "text": "新",
+        "pinyin": "xīn",
+        "en": "new",
+        "emoji": "✨"
+      }
+    ]
+  },
+  {
+    "input_text": "姓",
+    "entries": [
+      {
+        "text": "姓",
+        "pinyin": "xìng",
+        "en": "surname, be surnamed",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "休息",
+    "entries": [
+      {
+        "text": "休息",
+        "pinyin": "xiū xi",
+        "en": "rest, take a break",
+        "emoji": "😴"
+      }
+    ]
+  }
+]

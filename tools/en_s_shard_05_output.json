@@ -1,0 +1,190 @@
+[
+  {
+    "input_word": "situation",
+    "entries": [
+      {"text": "situation", "ipa": "/ˌsɪtʃuˈeɪʃən/", "cefr": "A1", "zh": "情况", "emoji": "📍"}
+    ]
+  },
+  {
+    "input_word": "six",
+    "entries": [
+      {"text": "six", "ipa": "/sɪks/", "cefr": "A1", "zh": "六", "emoji": "6️⃣"}
+    ]
+  },
+  {
+    "input_word": "sixteen",
+    "entries": [
+      {"text": "sixteen", "ipa": "/ˌsɪkˈstiːn/", "cefr": "A1", "zh": "十六", "emoji": "🔢"}
+    ]
+  },
+  {
+    "input_word": "sixty",
+    "entries": [
+      {"text": "sixty", "ipa": "/ˈsɪksti/", "cefr": "A1", "zh": "六十", "emoji": "🔢"}
+    ]
+  },
+  {
+    "input_word": "size",
+    "entries": [
+      {"text": "size", "ipa": "/saɪz/", "cefr": "A2", "zh": "尺寸", "emoji": "📏"}
+    ]
+  },
+  {
+    "input_word": "ski",
+    "entries": [
+      {"text": "ski", "ipa": "/skiː/", "cefr": "A2", "zh": "滑雪板", "emoji": "🎿"},
+      {"text": "ski", "ipa": "/skiː/", "cefr": "A2", "zh": "滑雪", "emoji": "⛷️"}
+    ]
+  },
+  {
+    "input_word": "skiing",
+    "entries": [
+      {"text": "skiing", "ipa": "/ˈskiːɪŋ/", "cefr": "A2", "zh": "滑雪运动", "emoji": "⛷️"}
+    ]
+  },
+  {
+    "input_word": "skill",
+    "entries": [
+      {"text": "skill", "ipa": "/skɪl/", "cefr": "A1", "zh": "技能", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_word": "skin",
+    "entries": [
+      {"text": "skin", "ipa": "/skɪn/", "cefr": "A2", "zh": "皮肤", "emoji": "🤲"}
+    ]
+  },
+  {
+    "input_word": "skirt",
+    "entries": [
+      {"text": "skirt", "ipa": "/skɜːrt/", "cefr": "A1", "zh": "裙子", "emoji": "👗"}
+    ]
+  },
+  {
+    "input_word": "sky",
+    "entries": [
+      {"text": "sky", "ipa": "/skaɪ/", "cefr": "A2", "zh": "天空", "emoji": "🌤️"}
+    ]
+  },
+  {
+    "input_word": "slave",
+    "entries": [
+      {"text": "slave", "ipa": "/sleɪv/", "cefr": "B2", "zh": "奴隶", "emoji": "⛓️"}
+    ]
+  },
+  {
+    "input_word": "sleep",
+    "entries": [
+      {"text": "sleep", "ipa": "/sliːp/", "cefr": "A1", "zh": "睡眠", "emoji": "😴"}
+    ]
+  },
+  {
+    "input_word": "slice",
+    "entries": [
+      {"text": "slice", "ipa": "/slaɪs/", "cefr": "B1", "zh": "薄片", "emoji": "🍕"},
+      {"text": "slice", "ipa": "/slaɪs/", "cefr": "B1", "zh": "切片", "emoji": "🔪"}
+    ]
+  },
+  {
+    "input_word": "slide",
+    "entries": [
+      {"text": "slide", "ipa": "/slaɪd/", "cefr": "B2", "zh": "滑动", "emoji": "🛝"},
+      {"text": "slide", "ipa": "/slaɪd/", "cefr": "B2", "zh": "幻灯片", "emoji": "📊"}
+    ]
+  },
+  {
+    "input_word": "slight",
+    "entries": [
+      {"text": "slight", "ipa": "/slaɪt/", "cefr": "B2", "zh": "轻微的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "slightly",
+    "entries": [
+      {"text": "slightly", "ipa": "/ˈslaɪtli/", "cefr": "B1", "zh": "稍微", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "slip",
+    "entries": [
+      {"text": "slip", "ipa": "/slɪp/", "cefr": "B2", "zh": "滑倒", "emoji": "🫨"},
+      {"text": "slip", "ipa": "/slɪp/", "cefr": "B2", "zh": "失误", "emoji": "⚠️"}
+    ]
+  },
+  {
+    "input_word": "slope",
+    "entries": [
+      {"text": "slope", "ipa": "/sloʊp/", "cefr": "B2", "zh": "斜坡", "emoji": "⛰️"}
+    ]
+  },
+  {
+    "input_word": "slow",
+    "entries": [
+      {"text": "slow", "ipa": "/sloʊ/", "cefr": "A1", "zh": "慢的", "emoji": "🐢"}
+    ]
+  },
+  {
+    "input_word": "slowly",
+    "entries": [
+      {"text": "slowly", "ipa": "/ˈsloʊli/", "cefr": "A2", "zh": "慢慢地", "emoji": "🐢"}
+    ]
+  },
+  {
+    "input_word": "small",
+    "entries": [
+      {"text": "small", "ipa": "/smɔːl/", "cefr": "A1", "zh": "小的", "emoji": "🔬"}
+    ]
+  },
+  {
+    "input_word": "smart",
+    "entries": [
+      {"text": "smart", "ipa": "/smɑːrt/", "cefr": "B1", "zh": "聪明的", "emoji": "🧠"},
+      {"text": "smart", "ipa": "/smɑːrt/", "cefr": "B1", "zh": "时髦的", "emoji": "👔"}
+    ]
+  },
+  {
+    "input_word": "smartphone",
+    "entries": [
+      {"text": "smartphone", "ipa": "/ˈsmɑːrtfoʊn/", "cefr": "A2", "zh": "智能手机", "emoji": "📱"}
+    ]
+  },
+  {
+    "input_word": "smell",
+    "entries": [
+      {"text": "smell", "ipa": "/smɛl/", "cefr": "A2", "zh": "气味", "emoji": "👃"},
+      {"text": "smell", "ipa": "/smɛl/", "cefr": "A2", "zh": "闻到", "emoji": "🌸"}
+    ]
+  },
+  {
+    "input_word": "smile",
+    "entries": [
+      {"text": "smile", "ipa": "/smaɪl/", "cefr": "A2", "zh": "微笑", "emoji": "😊"}
+    ]
+  },
+  {
+    "input_word": "smoke",
+    "entries": [
+      {"text": "smoke", "ipa": "/smoʊk/", "cefr": "A2", "zh": "烟雾", "emoji": "💨"},
+      {"text": "smoke", "ipa": "/smoʊk/", "cefr": "A2", "zh": "抽烟", "emoji": "🚬"}
+    ]
+  },
+  {
+    "input_word": "smoking",
+    "entries": [
+      {"text": "smoking", "ipa": "/ˈsmoʊkɪŋ/", "cefr": "A2", "zh": "吸烟", "emoji": "🚬"}
+    ]
+  },
+  {
+    "input_word": "smooth",
+    "entries": [
+      {"text": "smooth", "ipa": "/smuːð/", "cefr": "B1", "zh": "光滑的", "emoji": "🪨"},
+      {"text": "smooth", "ipa": "/smuːð/", "cefr": "B1", "zh": "顺畅的", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_word": "snake",
+    "entries": [
+      {"text": "snake", "ipa": "/sneɪk/", "cefr": "A1", "zh": "蛇", "emoji": "🐍"}
+    ]
+  }
+]

@@ -1,0 +1,293 @@
+[
+  {
+    "text": "une blouse blanche",
+    "ipa": "yn bluz blɑ̃ʃ",
+    "translation": {"zh": "一件白大褂", "en": "a white lab coat"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une blouse", "lemma": "blouse", "ipa": "yn bluz", "translation": {"zh": "一件工作服", "en": "a blouse"}, "emoji": "👚"},
+      {"text": "blanche", "lemma": "blanc", "ipa": "blɑ̃ʃ", "translation": {"zh": "白色的", "en": "white"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un torrent de pluie",
+    "ipa": "œ̃ tɔʁɑ̃ də plɥi",
+    "translation": {"zh": "倾盆大雨", "en": "a torrential rain"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un torrent", "lemma": "torrent", "ipa": "œ̃ tɔʁɑ̃", "translation": {"zh": "激流", "en": "a torrent"}, "emoji": "🌊"},
+      {"text": "de pluie", "lemma": "pluie", "ipa": "də plɥi", "translation": {"zh": "雨水", "en": "of rain"}, "emoji": "🌧️"}
+    ]
+  },
+  {
+    "text": "un réflexe naturel",
+    "ipa": "œ̃ ʁeflɛks natyʁɛl",
+    "translation": {"zh": "一种自然反应", "en": "a natural reflex"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un réflexe", "lemma": "réflexe", "ipa": "œ̃ ʁeflɛks", "translation": {"zh": "反射动作", "en": "a reflex"}, "emoji": "⚡"},
+      {"text": "naturel", "lemma": "naturel", "ipa": "natyʁɛl", "translation": {"zh": "自然的", "en": "natural"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "c'est surprenant",
+    "ipa": "sɛ syʁpʁənɑ̃",
+    "translation": {"zh": "真令人惊讶", "en": "it's surprising"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "c'est surprenant", "lemma": "surprenant", "ipa": "sɛ syʁpʁənɑ̃", "translation": {"zh": "真令人惊讶", "en": "it's surprising"}, "emoji": "😲"}
+    ]
+  },
+  {
+    "text": "un cigare",
+    "ipa": "œ̃ siɡaʁ",
+    "translation": {"zh": "一根雪茄", "en": "a cigar"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un cigare", "lemma": "cigare", "ipa": "œ̃ siɡaʁ", "translation": {"zh": "雪茄", "en": "a cigar"}, "emoji": "🚬"}
+    ]
+  },
+  {
+    "text": "une combinaison gagnante",
+    "ipa": "yn kɔ̃binɛzɔ̃ ɡɑɲɑ̃t",
+    "translation": {"zh": "一个制胜组合", "en": "a winning combination"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une combinaison", "lemma": "combinaison", "ipa": "yn kɔ̃binɛzɔ̃", "translation": {"zh": "组合", "en": "a combination"}, "emoji": "🔗"},
+      {"text": "gagnante", "lemma": "gagnant", "ipa": "ɡɑɲɑ̃t", "translation": {"zh": "获胜的", "en": "winning"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "accumuler des erreurs",
+    "ipa": "akymyle de zɛʁœʁ",
+    "translation": {"zh": "积累错误", "en": "to accumulate mistakes"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "accumuler", "lemma": "accumuler", "ipa": "akymyle", "translation": {"zh": "积累", "en": "to accumulate"}, "emoji": "📦"},
+      {"text": "des erreurs", "lemma": "erreur", "ipa": "de zɛʁœʁ", "translation": {"zh": "错误", "en": "mistakes"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une traversée en bateau",
+    "ipa": "yn tʁavɛʁse ɑ̃ bato",
+    "translation": {"zh": "一次乘船渡行", "en": "a crossing by boat"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une traversée", "lemma": "traversée", "ipa": "yn tʁavɛʁse", "translation": {"zh": "渡行", "en": "a crossing"}, "emoji": "⛴️"},
+      {"text": "en bateau", "lemma": "bateau", "ipa": "ɑ̃ bato", "translation": {"zh": "乘船", "en": "by boat"}, "emoji": "🚢"}
+    ]
+  },
+  {
+    "text": "un double café",
+    "ipa": "œ̃ dubl kafe",
+    "translation": {"zh": "一杯双份咖啡", "en": "a double coffee"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un double", "lemma": "double", "ipa": "œ̃ dubl", "translation": {"zh": "双份", "en": "a double"}, "emoji": "2️⃣"},
+      {"text": "café", "lemma": "café", "ipa": "kafe", "translation": {"zh": "咖啡", "en": "coffee"}, "emoji": "☕"}
+    ]
+  },
+  {
+    "text": "soupçonner quelqu'un",
+    "ipa": "supsonе kɛlkœ̃",
+    "translation": {"zh": "怀疑某人", "en": "to suspect someone"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "soupçonner", "lemma": "soupçonner", "ipa": "supsɔne", "translation": {"zh": "怀疑", "en": "to suspect"}, "emoji": "🔍"},
+      {"text": "quelqu'un", "lemma": "quelqu'un", "ipa": "kɛlkœ̃", "translation": {"zh": "某人", "en": "someone"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "fredonner le refrain",
+    "ipa": "fʁədɔne lə ʁəfʁɛ̃",
+    "translation": {"zh": "哼唱副歌", "en": "to hum the chorus"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "fredonner", "lemma": "fredonner", "ipa": "fʁədɔne", "translation": {"zh": "哼唱", "en": "to hum"}, "emoji": "🎵"},
+      {"text": "le refrain", "lemma": "refrain", "ipa": "lə ʁəfʁɛ̃", "translation": {"zh": "副歌", "en": "the chorus"}, "emoji": "🎶"}
+    ]
+  },
+  {
+    "text": "un regard menaçant",
+    "ipa": "œ̃ ʁəɡaʁ mənasɑ̃",
+    "translation": {"zh": "一个凶狠的眼神", "en": "a threatening look"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un regard", "lemma": "regard", "ipa": "œ̃ ʁəɡaʁ", "translation": {"zh": "眼神", "en": "a look"}, "emoji": "👀"},
+      {"text": "menaçant", "lemma": "menaçant", "ipa": "mənasɑ̃", "translation": {"zh": "威胁性的", "en": "threatening"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "de la sympathie",
+    "ipa": "də la sɛ̃pati",
+    "translation": {"zh": "一些同情", "en": "some sympathy"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "de la sympathie", "lemma": "sympathie", "ipa": "də la sɛ̃pati", "translation": {"zh": "同情", "en": "sympathy"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "un sourire séduisant",
+    "ipa": "œ̃ suʁiʁ sedɥizɑ̃",
+    "translation": {"zh": "一个迷人的微笑", "en": "a seductive smile"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un sourire", "lemma": "sourire", "ipa": "œ̃ suʁiʁ", "translation": {"zh": "微笑", "en": "a smile"}, "emoji": "😊"},
+      {"text": "séduisant", "lemma": "séduisant", "ipa": "sedɥizɑ̃", "translation": {"zh": "迷人的", "en": "seductive"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "il est gourmand",
+    "ipa": "il ɛ ɡuʁmɑ̃",
+    "translation": {"zh": "他嘴很馋", "en": "he's a foodie"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "il est gourmand", "lemma": "gourmand", "ipa": "il ɛ ɡuʁmɑ̃", "translation": {"zh": "他很馋", "en": "he's greedy for food"}, "emoji": "😋"}
+    ]
+  },
+  {
+    "text": "une adoption",
+    "ipa": "yn adɔpsjɔ̃",
+    "translation": {"zh": "一次收养", "en": "an adoption"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une adoption", "lemma": "adoption", "ipa": "yn adɔpsjɔ̃", "translation": {"zh": "收养", "en": "an adoption"}, "emoji": "👨‍👩‍👧"}
+    ]
+  },
+  {
+    "text": "l'exploitation des ressources",
+    "ipa": "lɛksplwatasjɔ̃ de ʁəsuʁs",
+    "translation": {"zh": "资源开采", "en": "the exploitation of resources"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'exploitation", "lemma": "exploitation", "ipa": "lɛksplwatasjɔ̃", "translation": {"zh": "开发利用", "en": "exploitation"}, "emoji": "⛏️"},
+      {"text": "des ressources", "lemma": "ressource", "ipa": "de ʁəsuʁs", "translation": {"zh": "资源", "en": "of resources"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "il est étonné",
+    "ipa": "il ɛ etɔne",
+    "translation": {"zh": "他很惊讶", "en": "he is astonished"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "il est étonné", "lemma": "étonné", "ipa": "il ɛ etɔne", "translation": {"zh": "他很惊讶", "en": "he is astonished"}, "emoji": "😮"}
+    ]
+  },
+  {
+    "text": "émigrer à l'étranger",
+    "ipa": "emiɡʁe a letʁɑ̃ʒe",
+    "translation": {"zh": "移居海外", "en": "to emigrate abroad"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "émigrer", "lemma": "émigrer", "ipa": "emiɡʁe", "translation": {"zh": "移民", "en": "to emigrate"}, "emoji": "✈️"},
+      {"text": "à l'étranger", "lemma": "étranger", "ipa": "a letʁɑ̃ʒe", "translation": {"zh": "到海外", "en": "abroad"}, "emoji": "🌍"}
+    ]
+  },
+  {
+    "text": "un supplice douloureux",
+    "ipa": "œ̃ syplis dulurø",
+    "translation": {"zh": "一种痛苦的折磨", "en": "a painful torment"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un supplice", "lemma": "supplice", "ipa": "œ̃ syplis", "translation": {"zh": "折磨", "en": "a torment"}, "emoji": "😣"},
+      {"text": "douloureux", "lemma": "douloureux", "ipa": "dulurø", "translation": {"zh": "痛苦的", "en": "painful"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "dans le sens inverse",
+    "ipa": "dɑ̃ lə sɑ̃s ɛ̃vɛʁs",
+    "translation": {"zh": "在相反方向", "en": "in the opposite direction"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "dans le sens", "lemma": "sens", "ipa": "dɑ̃ lə sɑ̃s", "translation": {"zh": "方向", "en": "in the direction"}, "emoji": ""},
+      {"text": "inverse", "lemma": "inverse", "ipa": "ɛ̃vɛʁs", "translation": {"zh": "相反的", "en": "opposite"}, "emoji": "🔄"}
+    ]
+  },
+  {
+    "text": "être autonome",
+    "ipa": "ɛtʁ otɔnom",
+    "translation": {"zh": "自立自主", "en": "to be independent"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "être autonome", "lemma": "autonome", "ipa": "ɛtʁ otɔnom", "translation": {"zh": "自主的", "en": "to be independent"}, "emoji": "🦅"}
+    ]
+  },
+  {
+    "text": "une hache",
+    "ipa": "yn aʃ",
+    "translation": {"zh": "一把斧头", "en": "an axe"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une hache", "lemma": "hache", "ipa": "yn aʃ", "translation": {"zh": "斧头", "en": "an axe"}, "emoji": "🪓"}
+    ]
+  },
+  {
+    "text": "le boulanger",
+    "ipa": "lə bulɑ̃ʒe",
+    "translation": {"zh": "面包师", "en": "the baker"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le boulanger", "lemma": "boulanger", "ipa": "lə bulɑ̃ʒe", "translation": {"zh": "面包师", "en": "the baker"}, "emoji": "🥖"}
+    ]
+  },
+  {
+    "text": "une courbe descendante",
+    "ipa": "yn kuʁb desɑ̃dɑ̃t",
+    "translation": {"zh": "一条下降曲线", "en": "a descending curve"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une courbe", "lemma": "courbe", "ipa": "yn kuʁb", "translation": {"zh": "曲线", "en": "a curve"}, "emoji": "📉"},
+      {"text": "descendante", "lemma": "descendant", "ipa": "desɑ̃dɑ̃t", "translation": {"zh": "下降的", "en": "descending"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un ressort cassé",
+    "ipa": "œ̃ ʁəsɔʁ kɑse",
+    "translation": {"zh": "一根断了的弹簧", "en": "a broken spring"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un ressort", "lemma": "ressort", "ipa": "œ̃ ʁəsɔʁ", "translation": {"zh": "弹簧", "en": "a spring"}, "emoji": "🔧"},
+      {"text": "cassé", "lemma": "cassé", "ipa": "kɑse", "translation": {"zh": "断了的", "en": "broken"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "dans la vie réelle",
+    "ipa": "dɑ̃ la vi ʁeɛl",
+    "translation": {"zh": "在现实生活中", "en": "in real life"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "dans la vie", "lemma": "vie", "ipa": "dɑ̃ la vi", "translation": {"zh": "在生活中", "en": "in life"}, "emoji": ""},
+      {"text": "réelle", "lemma": "réel", "ipa": "ʁeɛl", "translation": {"zh": "真实的", "en": "real"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "sincèrement désolé",
+    "ipa": "sɛ̃sɛʁmɑ̃ dezɔle",
+    "translation": {"zh": "真诚地道歉", "en": "sincerely sorry"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "sincèrement", "lemma": "sincèrement", "ipa": "sɛ̃sɛʁmɑ̃", "translation": {"zh": "真诚地", "en": "sincerely"}, "emoji": ""},
+      {"text": "désolé", "lemma": "désolé", "ipa": "dezɔle", "translation": {"zh": "抱歉的", "en": "sorry"}, "emoji": "🙏"}
+    ]
+  },
+  {
+    "text": "déclencher l'alarme",
+    "ipa": "deklɑ̃ʃe lalaʁm",
+    "translation": {"zh": "触发警报", "en": "to trigger the alarm"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "déclencher", "lemma": "déclencher", "ipa": "deklɑ̃ʃe", "translation": {"zh": "触发", "en": "to trigger"}, "emoji": "🔔"},
+      {"text": "l'alarme", "lemma": "alarme", "ipa": "lalaʁm", "translation": {"zh": "警报", "en": "the alarm"}, "emoji": "🚨"}
+    ]
+  },
+  {
+    "text": "une paire de jumelles",
+    "ipa": "yn pɛʁ də ʒymɛl",
+    "translation": {"zh": "一副双筒望远镜", "en": "a pair of binoculars"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une paire", "lemma": "paire", "ipa": "yn pɛʁ", "translation": {"zh": "一副", "en": "a pair"}, "emoji": ""},
+      {"text": "de jumelles", "lemma": "jumelle", "ipa": "də ʒymɛl", "translation": {"zh": "双筒望远镜", "en": "binoculars"}, "emoji": "🔭"}
+    ]
+  }
+]

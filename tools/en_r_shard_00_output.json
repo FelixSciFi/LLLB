@@ -1,0 +1,186 @@
+[
+  {
+    "input_word": "race",
+    "entries": [
+      {"text": "race", "ipa": "/reɪs/", "cefr": "A2", "zh": "比赛", "emoji": "🏁"},
+      {"text": "race", "ipa": "/reɪs/", "cefr": "A2", "zh": "种族", "emoji": "🌍"}
+    ]
+  },
+  {
+    "input_word": "racing",
+    "entries": [
+      {"text": "racing", "ipa": "/ˈreɪsɪŋ/", "cefr": "B1", "zh": "赛车运动", "emoji": "🏎️"}
+    ]
+  },
+  {
+    "input_word": "radio",
+    "entries": [
+      {"text": "radio", "ipa": "/ˈreɪdiˌoʊ/", "cefr": "A1", "zh": "收音机", "emoji": "📻"}
+    ]
+  },
+  {
+    "input_word": "railway",
+    "entries": [
+      {"text": "railway", "ipa": "/ˈreɪlˌweɪ/", "cefr": "A2", "zh": "铁路", "emoji": "🚂"}
+    ]
+  },
+  {
+    "input_word": "rain",
+    "entries": [
+      {"text": "rain", "ipa": "/reɪn/", "cefr": "A1", "zh": "雨", "emoji": "🌧️"}
+    ]
+  },
+  {
+    "input_word": "raise",
+    "entries": [
+      {"text": "raise", "ipa": "/reɪz/", "cefr": "A2", "zh": "举起", "emoji": "🙋"},
+      {"text": "raise", "ipa": "/reɪz/", "cefr": "A2", "zh": "加薪", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_word": "range",
+    "entries": [
+      {"text": "range", "ipa": "/reɪndʒ/", "cefr": "B1", "zh": "范围", "emoji": "📊"},
+      {"text": "range", "ipa": "/reɪndʒ/", "cefr": "B1", "zh": "山脉", "emoji": "⛰️"}
+    ]
+  },
+  {
+    "input_word": "rank",
+    "entries": [
+      {"text": "rank", "ipa": "/ræŋk/", "cefr": "B2", "zh": "排名", "emoji": "🏅"}
+    ]
+  },
+  {
+    "input_word": "rapid",
+    "entries": [
+      {"text": "rapid", "ipa": "/ˈræpɪd/", "cefr": "B2", "zh": "迅速的", "emoji": "⚡"}
+    ]
+  },
+  {
+    "input_word": "rapidly",
+    "entries": [
+      {"text": "rapidly", "ipa": "/ˈræpɪdli/", "cefr": "B2", "zh": "迅速地", "emoji": "⚡"}
+    ]
+  },
+  {
+    "input_word": "rare",
+    "entries": [
+      {"text": "rare", "ipa": "/rɛr/", "cefr": "B1", "zh": "罕见的", "emoji": "💎"}
+    ]
+  },
+  {
+    "input_word": "rarely",
+    "entries": [
+      {"text": "rarely", "ipa": "/ˈrɛrli/", "cefr": "B1", "zh": "很少地", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "rate",
+    "entries": [
+      {"text": "rate", "ipa": "/reɪt/", "cefr": "A2", "zh": "比率", "emoji": "📈"},
+      {"text": "rate", "ipa": "/reɪt/", "cefr": "A2", "zh": "评价", "emoji": "⭐"}
+    ]
+  },
+  {
+    "input_word": "rather",
+    "entries": [
+      {"text": "rather", "ipa": "/ˈræðər/", "cefr": "A2", "zh": "宁愿", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "raw",
+    "entries": [
+      {"text": "raw", "ipa": "/rɔː/", "cefr": "B2", "zh": "生的", "emoji": "🥩"}
+    ]
+  },
+  {
+    "input_word": "reach",
+    "entries": [
+      {"text": "reach", "ipa": "/riːtʃ/", "cefr": "A2", "zh": "到达", "emoji": "🤲"}
+    ]
+  },
+  {
+    "input_word": "react",
+    "entries": [
+      {"text": "react", "ipa": "/riˈækt/", "cefr": "A2", "zh": "反应", "emoji": "💥"}
+    ]
+  },
+  {
+    "input_word": "reaction",
+    "entries": [
+      {"text": "reaction", "ipa": "/riˈækʃən/", "cefr": "B1", "zh": "反应", "emoji": "💥"}
+    ]
+  },
+  {
+    "input_word": "read",
+    "entries": [
+      {"text": "read", "ipa": "/riːd/", "cefr": "A1", "zh": "阅读", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_word": "reader",
+    "entries": [
+      {"text": "reader", "ipa": "/ˈriːdər/", "cefr": "A1", "zh": "读者", "emoji": "📚"}
+    ]
+  },
+  {
+    "input_word": "reading",
+    "entries": [
+      {"text": "reading", "ipa": "/ˈriːdɪŋ/", "cefr": "A1", "zh": "阅读", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_word": "ready",
+    "entries": [
+      {"text": "ready", "ipa": "/ˈrɛdi/", "cefr": "A1", "zh": "准备好的", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_word": "real",
+    "entries": [
+      {"text": "real", "ipa": "/riːl/", "cefr": "A1", "zh": "真实的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "realistic",
+    "entries": [
+      {"text": "realistic", "ipa": "/ˌriəˈlɪstɪk/", "cefr": "B2", "zh": "现实的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "reality",
+    "entries": [
+      {"text": "reality", "ipa": "/riˈæləti/", "cefr": "B1", "zh": "现实", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "realize",
+    "entries": [
+      {"text": "realize", "ipa": "/ˈriːəˌlaɪz/", "cefr": "A2", "zh": "意识到", "emoji": "💡"}
+    ]
+  },
+  {
+    "input_word": "really",
+    "entries": [
+      {"text": "really", "ipa": "/ˈriːli/", "cefr": "A1", "zh": "真正地", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "reason",
+    "entries": [
+      {"text": "reason", "ipa": "/ˈriːzən/", "cefr": "A1", "zh": "原因", "emoji": "🤔"}
+    ]
+  },
+  {
+    "input_word": "reasonable",
+    "entries": [
+      {"text": "reasonable", "ipa": "/ˈriːzənəbəl/", "cefr": "B2", "zh": "合理的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "recall",
+    "entries": [
+      {"text": "recall", "ipa": "/rɪˈkɔːl/", "cefr": "B2", "zh": "回忆", "emoji": "🧠"}
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "input_text": "良好",
+    "entries": [
+      {"text": "良好", "pinyin": "liáng hǎo", "en": "good; fine", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "粮食",
+    "entries": [
+      {"text": "粮食", "pinyin": "liáng shi", "en": "grain; food", "emoji": "🌾"}
+    ]
+  },
+  {
+    "input_text": "亮",
+    "entries": [
+      {"text": "亮", "pinyin": "liàng", "en": "bright; light", "emoji": "💡"}
+    ]
+  },
+  {
+    "input_text": "了不起",
+    "entries": [
+      {"text": "了不起", "pinyin": "liǎo bu qǐ", "en": "amazing; remarkable", "emoji": "⭐"}
+    ]
+  },
+  {
+    "input_text": "列车",
+    "entries": [
+      {"text": "列车", "pinyin": "liè chē", "en": "train", "emoji": "🚆"}
+    ]
+  },
+  {
+    "input_text": "临时",
+    "entries": [
+      {"text": "临时", "pinyin": "lín shí", "en": "temporary; makeshift", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "灵活",
+    "entries": [
+      {"text": "灵活", "pinyin": "líng huó", "en": "flexible; agile", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "铃",
+    "entries": [
+      {"text": "铃", "pinyin": "líng", "en": "bell; ring", "emoji": "🔔"}
+    ]
+  },
+  {
+    "input_text": "零件",
+    "entries": [
+      {"text": "零件", "pinyin": "líng jiàn", "en": "spare part; component", "emoji": "🔩"}
+    ]
+  },
+  {
+    "input_text": "零食",
+    "entries": [
+      {"text": "零食", "pinyin": "líng shí", "en": "snack", "emoji": "🍿"}
+    ]
+  },
+  {
+    "input_text": "领导",
+    "entries": [
+      {"text": "领导", "pinyin": "lǐng dǎo", "en": "leader; boss", "emoji": "👔"},
+      {"text": "领导", "pinyin": "lǐng dǎo", "en": "to lead", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "领域",
+    "entries": [
+      {"text": "领域", "pinyin": "lǐng yù", "en": "field; domain", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "浏览",
+    "entries": [
+      {"text": "浏览", "pinyin": "liú lǎn", "en": "to browse; skim", "emoji": "🌐"}
+    ]
+  },
+  {
+    "input_text": "流传",
+    "entries": [
+      {"text": "流传", "pinyin": "liú chuán", "en": "to spread; circulate", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "流泪",
+    "entries": [
+      {"text": "流泪", "pinyin": "liú lèi", "en": "to shed tears", "emoji": "😢"}
+    ]
+  },
+  {
+    "input_text": "龙",
+    "entries": [
+      {"text": "龙", "pinyin": "lóng", "en": "dragon", "emoji": "🐉"}
+    ]
+  },
+  {
+    "input_text": "漏",
+    "entries": [
+      {"text": "漏", "pinyin": "lòu", "en": "to leak; to drip", "emoji": "💧"}
+    ]
+  },
+  {
+    "input_text": "陆地",
+    "entries": [
+      {"text": "陆地", "pinyin": "lù dì", "en": "land; dry land", "emoji": "🌍"}
+    ]
+  },
+  {
+    "input_text": "陆续",
+    "entries": [
+      {"text": "陆续", "pinyin": "lù xù", "en": "one after another", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "录取",
+    "entries": [
+      {"text": "录取", "pinyin": "lù qǔ", "en": "to admit; enroll", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "录音",
+    "entries": [
+      {"text": "录音", "pinyin": "lù yīn", "en": "to record; recording", "emoji": "🎙️"}
+    ]
+  },
+  {
+    "input_text": "轮流",
+    "entries": [
+      {"text": "轮流", "pinyin": "lún liú", "en": "to take turns", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "论文",
+    "entries": [
+      {"text": "论文", "pinyin": "lùn wén", "en": "thesis; paper", "emoji": "📄"}
+    ]
+  },
+  {
+    "input_text": "逻辑",
+    "entries": [
+      {"text": "逻辑", "pinyin": "luó ji", "en": "logic", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "落后",
+    "entries": [
+      {"text": "落后", "pinyin": "luò hòu", "en": "to fall behind; backward", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "骂",
+    "entries": [
+      {"text": "骂", "pinyin": "mà", "en": "to scold; curse", "emoji": "😠"}
+    ]
+  },
+  {
+    "input_text": "麦克风",
+    "entries": [
+      {"text": "麦克风", "pinyin": "mài kè fēng", "en": "microphone", "emoji": "🎤"}
+    ]
+  },
+  {
+    "input_text": "馒头",
+    "entries": [
+      {"text": "馒头", "pinyin": "mán tou", "en": "steamed bun", "emoji": "🥐"}
+    ]
+  },
+  {
+    "input_text": "满足",
+    "entries": [
+      {"text": "满足", "pinyin": "mǎn zú", "en": "to satisfy; satisfied", "emoji": "😊"}
+    ]
+  },
+  {
+    "input_text": "毛病",
+    "entries": [
+      {"text": "毛病", "pinyin": "máo bìng", "en": "fault; defect", "emoji": ""},
+      {"text": "毛病", "pinyin": "máo bìng", "en": "illness; ailment", "emoji": "🤒"}
+    ]
+  }
+]

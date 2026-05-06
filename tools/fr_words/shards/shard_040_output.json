@@ -1,0 +1,272 @@
+[
+  {
+    "text": "il chasse",
+    "ipa": "il ʃas",
+    "translation": {"zh": "他在打猎", "en": "he hunts"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il chasse", "lemma": "chasser", "ipa": "il ʃas", "translation": {"zh": "他打猎", "en": "he hunts"}, "emoji": "🏹"}
+    ]
+  },
+  {
+    "text": "timide",
+    "ipa": "timid",
+    "translation": {"zh": "害羞的", "en": "shy"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "timide", "lemma": "timide", "ipa": "timid", "translation": {"zh": "害羞的", "en": "shy"}, "emoji": "😳"}
+    ]
+  },
+  {
+    "text": "par-dessus",
+    "ipa": "paʁ dəsy",
+    "translation": {"zh": "在……上面", "en": "above / over"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "par-dessus", "lemma": "dessus", "ipa": "paʁ dəsy", "translation": {"zh": "在上方", "en": "over"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "accomplir une tâche",
+    "ipa": "akɔ̃pliʁ yn tɑʃ",
+    "translation": {"zh": "完成一项任务", "en": "accomplish a task"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "accomplir une tâche", "lemma": "accomplir", "ipa": "akɔ̃pliʁ yn tɑʃ", "translation": {"zh": "完成任务", "en": "accomplish a task"}, "emoji": "✅"}
+    ]
+  },
+  {
+    "text": "enrichir son vocabulaire",
+    "ipa": "ɑ̃ʁiʃiʁ sɔ̃ vɔkabyˈlɛʁ",
+    "translation": {"zh": "丰富词汇量", "en": "enrich one's vocabulary"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "enrichir son vocabulaire", "lemma": "enrichir", "ipa": "ɑ̃ʁiʃiʁ sɔ̃ vɔkabylɛʁ", "translation": {"zh": "丰富词汇量", "en": "enrich vocabulary"}, "emoji": "📚"}
+    ]
+  },
+  {
+    "text": "un chèque",
+    "ipa": "œ̃ ʃɛk",
+    "translation": {"zh": "一张支票", "en": "a cheque"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un chèque", "lemma": "chèque", "ipa": "œ̃ ʃɛk", "translation": {"zh": "支票", "en": "cheque"}, "emoji": "💳"}
+    ]
+  },
+  {
+    "text": "une transformation",
+    "ipa": "yn tʁɑ̃sfɔʁmasjɔ̃",
+    "translation": {"zh": "一次转变", "en": "a transformation"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une transformation", "lemma": "transformation", "ipa": "yn tʁɑ̃sfɔʁmasjɔ̃", "translation": {"zh": "转变", "en": "transformation"}, "emoji": "🔄"}
+    ]
+  },
+  {
+    "text": "un comédien",
+    "ipa": "œ̃ kɔmedjɛ̃",
+    "translation": {"zh": "一位演员", "en": "an actor"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un comédien", "lemma": "comédien", "ipa": "œ̃ kɔmedjɛ̃", "translation": {"zh": "演员", "en": "actor"}, "emoji": "🎭"}
+    ]
+  },
+  {
+    "text": "à distance",
+    "ipa": "a distɑ̃s",
+    "translation": {"zh": "远程地", "en": "at a distance"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "à distance", "lemma": "distance", "ipa": "a distɑ̃s", "translation": {"zh": "远程", "en": "at a distance"}, "emoji": "📡"}
+    ]
+  },
+  {
+    "text": "un pays lointain",
+    "ipa": "œ̃ pei lwɛ̃tɛ̃",
+    "translation": {"zh": "一个遥远的国家", "en": "a distant country"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un pays lointain", "lemma": "lointain", "ipa": "œ̃ pei lwɛ̃tɛ̃", "translation": {"zh": "遥远的国家", "en": "distant country"}, "emoji": "🌍"}
+    ]
+  },
+  {
+    "text": "écologique",
+    "ipa": "ekɔlɔʒik",
+    "translation": {"zh": "生态的", "en": "ecological"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "écologique", "lemma": "écologique", "ipa": "ekɔlɔʒik", "translation": {"zh": "生态的", "en": "ecological"}, "emoji": "🌿"}
+    ]
+  },
+  {
+    "text": "sur le trottoir",
+    "ipa": "syʁ lə tʁɔtwaʁ",
+    "translation": {"zh": "在人行道上", "en": "on the pavement"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "sur le trottoir", "lemma": "trottoir", "ipa": "syʁ lə tʁɔtwaʁ", "translation": {"zh": "人行道上", "en": "on the pavement"}, "emoji": "🚶"}
+    ]
+  },
+  {
+    "text": "isoler une pièce",
+    "ipa": "izɔle yn pjɛs",
+    "translation": {"zh": "隔离一个房间", "en": "insulate a room"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "isoler une pièce", "lemma": "isoler", "ipa": "izɔle yn pjɛs", "translation": {"zh": "隔离房间", "en": "insulate a room"}, "emoji": "🏠"}
+    ]
+  },
+  {
+    "text": "un accent",
+    "ipa": "œ̃ naksɑ̃",
+    "translation": {"zh": "一种口音", "en": "an accent"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un accent", "lemma": "accent", "ipa": "œ̃ naksɑ̃", "translation": {"zh": "口音", "en": "accent"}, "emoji": "🗣️"}
+    ]
+  },
+  {
+    "text": "initier un projet",
+    "ipa": "inisje œ̃ pʁɔʒɛ",
+    "translation": {"zh": "启动一个项目", "en": "initiate a project"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "initier un projet", "lemma": "initier", "ipa": "inisje œ̃ pʁɔʒɛ", "translation": {"zh": "启动项目", "en": "initiate a project"}, "emoji": "🚀"}
+    ]
+  },
+  {
+    "text": "rejeter une idée",
+    "ipa": "ʁəʒəte yn ide",
+    "translation": {"zh": "拒绝一个想法", "en": "reject an idea"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "rejeter une idée", "lemma": "rejeter", "ipa": "ʁəʒəte yn ide", "translation": {"zh": "拒绝想法", "en": "reject an idea"}, "emoji": "❌"}
+    ]
+  },
+  {
+    "text": "fuir le danger",
+    "ipa": "fɥiʁ lə dɑ̃ʒe",
+    "translation": {"zh": "逃离危险", "en": "flee danger"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "fuir le danger", "lemma": "fuir", "ipa": "fɥiʁ lə dɑ̃ʒe", "translation": {"zh": "逃离危险", "en": "flee danger"}, "emoji": "🏃"}
+    ]
+  },
+  {
+    "text": "comparer les prix",
+    "ipa": "kɔ̃paʁe le pʁi",
+    "translation": {"zh": "比较价格", "en": "compare prices"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "comparer les prix", "lemma": "comparer", "ipa": "kɔ̃paʁe le pʁi", "translation": {"zh": "比较价格", "en": "compare prices"}, "emoji": "🔍"}
+    ]
+  },
+  {
+    "text": "une animation",
+    "ipa": "yn animasjɔ̃",
+    "translation": {"zh": "一个动画", "en": "an animation"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une animation", "lemma": "animation", "ipa": "yn animasjɔ̃", "translation": {"zh": "动画", "en": "animation"}, "emoji": "🎬"}
+    ]
+  },
+  {
+    "text": "une taxe",
+    "ipa": "yn taks",
+    "translation": {"zh": "一项税", "en": "a tax"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une taxe", "lemma": "taxe", "ipa": "yn taks", "translation": {"zh": "税", "en": "tax"}, "emoji": "💰"}
+    ]
+  },
+  {
+    "text": "fortement recommandé",
+    "ipa": "fɔʁtəmɑ̃ ʁəkɔmɑ̃de",
+    "translation": {"zh": "强烈推荐", "en": "strongly recommended"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "fortement recommandé", "lemma": "fortement", "ipa": "fɔʁtəmɑ̃ ʁəkɔmɑ̃de", "translation": {"zh": "强烈推荐", "en": "strongly recommended"}, "emoji": "👍"}
+    ]
+  },
+  {
+    "text": "la circulation",
+    "ipa": "la siʁkylasjɔ̃",
+    "translation": {"zh": "交通", "en": "traffic"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la circulation", "lemma": "circulation", "ipa": "la siʁkylasjɔ̃", "translation": {"zh": "交通", "en": "traffic"}, "emoji": "🚗"}
+    ]
+  },
+  {
+    "text": "affronter ses peurs",
+    "ipa": "afʁɔ̃te se pœʁ",
+    "translation": {"zh": "面对自己的恐惧", "en": "face one's fears"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "affronter ses peurs", "lemma": "affronter", "ipa": "afʁɔ̃te se pœʁ", "translation": {"zh": "面对恐惧", "en": "face one's fears"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "concevoir un plan",
+    "ipa": "kɔ̃səvwaʁ œ̃ plɑ̃",
+    "translation": {"zh": "设计一个方案", "en": "conceive a plan"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "concevoir un plan", "lemma": "concevoir", "ipa": "kɔ̃səvwaʁ œ̃ plɑ̃", "translation": {"zh": "设计方案", "en": "conceive a plan"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "le plafond",
+    "ipa": "lə plafɔ̃",
+    "translation": {"zh": "天花板", "en": "the ceiling"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le plafond", "lemma": "plafond", "ipa": "lə plafɔ̃", "translation": {"zh": "天花板", "en": "ceiling"}, "emoji": "🏠"}
+    ]
+  },
+  {
+    "text": "avec enthousiasme",
+    "ipa": "avɛk ɑ̃tuzjasm",
+    "translation": {"zh": "充满热情地", "en": "with enthusiasm"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "avec enthousiasme", "lemma": "enthousiasme", "ipa": "avɛk ɑ̃tuzjasm", "translation": {"zh": "满腔热情", "en": "with enthusiasm"}, "emoji": "🎉"}
+    ]
+  },
+  {
+    "text": "sous pression",
+    "ipa": "su pʁɛsjɔ̃",
+    "translation": {"zh": "在压力下", "en": "under pressure"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "sous pression", "lemma": "pression", "ipa": "su pʁɛsjɔ̃", "translation": {"zh": "压力下", "en": "under pressure"}, "emoji": "😰"}
+    ]
+  },
+  {
+    "text": "une notion",
+    "ipa": "yn nɔsjɔ̃",
+    "translation": {"zh": "一个概念", "en": "a notion"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une notion", "lemma": "notion", "ipa": "yn nɔsjɔ̃", "translation": {"zh": "概念", "en": "notion"}, "emoji": "💭"}
+    ]
+  },
+  {
+    "text": "il tremble",
+    "ipa": "il tʁɑ̃bl",
+    "translation": {"zh": "他在颤抖", "en": "he trembles"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il tremble", "lemma": "trembler", "ipa": "il tʁɑ̃bl", "translation": {"zh": "他颤抖", "en": "he trembles"}, "emoji": "😨"}
+    ]
+  },
+  {
+    "text": "dehors",
+    "ipa": "dəɔʁ",
+    "translation": {"zh": "在外面", "en": "outside"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "dehors", "lemma": "dehors", "ipa": "dəɔʁ", "translation": {"zh": "外面", "en": "outside"}, "emoji": "🌳"}
+    ]
+  }
+]

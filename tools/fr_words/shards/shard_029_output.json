@@ -1,0 +1,272 @@
+[
+  {
+    "text": "soigner",
+    "ipa": "swaɲe",
+    "translation": {"zh": "护理，治疗", "en": "to treat, to care for"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "soigner", "lemma": "soigner", "ipa": "swaɲe", "translation": {"zh": "护理", "en": "to treat"}, "emoji": "🩺"}
+    ]
+  },
+  {
+    "text": "c'est formidable",
+    "ipa": "sɛ fɔʁmidabl",
+    "translation": {"zh": "太棒了", "en": "it's wonderful"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "c'est formidable", "lemma": "formidable", "ipa": "sɛ fɔʁmidabl", "translation": {"zh": "太棒了", "en": "it's wonderful"}, "emoji": "🌟"}
+    ]
+  },
+  {
+    "text": "ne me dérange pas",
+    "ipa": "nə mə deʁɑ̃ʒ pa",
+    "translation": {"zh": "别打扰我", "en": "don't bother me"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "ne me dérange pas", "lemma": "déranger", "ipa": "nə mə deʁɑ̃ʒ pa", "translation": {"zh": "别打扰", "en": "don't bother"}, "emoji": "🤫"}
+    ]
+  },
+  {
+    "text": "rassembler les gens",
+    "ipa": "ʁasɑ̃ble le ʒɑ̃",
+    "translation": {"zh": "聚集人们", "en": "to gather people"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "rassembler les gens", "lemma": "rassembler", "ipa": "ʁasɑ̃ble le ʒɑ̃", "translation": {"zh": "聚集大家", "en": "gather people"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "réalisateur",
+    "ipa": "ʁealizatœʁ",
+    "translation": {"zh": "导演", "en": "film director"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "réalisateur", "lemma": "réalisateur", "ipa": "ʁealizatœʁ", "translation": {"zh": "导演", "en": "director"}, "emoji": "🎬"}
+    ]
+  },
+  {
+    "text": "largement",
+    "ipa": "laʁʒəmɑ̃",
+    "translation": {"zh": "大量地，充分地", "en": "largely, widely"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "largement", "lemma": "largement", "ipa": "laʁʒəmɑ̃", "translation": {"zh": "大量地", "en": "largely"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "urgence",
+    "ipa": "yʁʒɑ̃s",
+    "translation": {"zh": "紧急，急诊", "en": "emergency"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "urgence", "lemma": "urgence", "ipa": "yʁʒɑ̃s", "translation": {"zh": "紧急情况", "en": "emergency"}, "emoji": "🚨"}
+    ]
+  },
+  {
+    "text": "copine",
+    "ipa": "kɔpin",
+    "translation": {"zh": "女朋友，女性朋友", "en": "girlfriend, female friend"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "copine", "lemma": "copine", "ipa": "kɔpin", "translation": {"zh": "女友", "en": "girlfriend"}, "emoji": "👭"}
+    ]
+  },
+  {
+    "text": "diviser en deux",
+    "ipa": "divize ɑ̃ dø",
+    "translation": {"zh": "分成两部分", "en": "to divide in two"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "diviser en deux", "lemma": "diviser", "ipa": "divize ɑ̃ dø", "translation": {"zh": "分成两份", "en": "divide in two"}, "emoji": "✂️"}
+    ]
+  },
+  {
+    "text": "bouton",
+    "ipa": "butɔ̃",
+    "translation": {"zh": "按钮，纽扣，痘痘", "en": "button, pimple"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "bouton", "lemma": "bouton", "ipa": "butɔ̃", "translation": {"zh": "按钮", "en": "button"}, "emoji": "🔘"}
+    ]
+  },
+  {
+    "text": "rire",
+    "ipa": "ʁiʁ",
+    "translation": {"zh": "笑，大笑", "en": "to laugh"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "rire", "lemma": "rire", "ipa": "ʁiʁ", "translation": {"zh": "笑", "en": "to laugh"}, "emoji": "😄"}
+    ]
+  },
+  {
+    "text": "citer un exemple",
+    "ipa": "site œ̃n‿ɛɡzɑ̃pl",
+    "translation": {"zh": "举一个例子", "en": "to cite an example"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "citer un exemple", "lemma": "citer", "ipa": "site œ̃n‿ɛɡzɑ̃pl", "translation": {"zh": "举例子", "en": "cite an example"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "se disputer",
+    "ipa": "sə dispyte",
+    "translation": {"zh": "争吵，吵架", "en": "to argue, to quarrel"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "se disputer", "lemma": "disputer", "ipa": "sə dispyte", "translation": {"zh": "吵架", "en": "to argue"}, "emoji": "🗣️"}
+    ]
+  },
+  {
+    "text": "sondage",
+    "ipa": "sɔ̃daʒ",
+    "translation": {"zh": "民意调查，民调", "en": "poll, survey"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "sondage", "lemma": "sondage", "ipa": "sɔ̃daʒ", "translation": {"zh": "民调", "en": "poll"}, "emoji": "📊"}
+    ]
+  },
+  {
+    "text": "conserver au frais",
+    "ipa": "kɔ̃sɛʁve o fʁɛ",
+    "translation": {"zh": "低温保存", "en": "keep refrigerated"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "conserver au frais", "lemma": "conserver", "ipa": "kɔ̃sɛʁve o fʁɛ", "translation": {"zh": "冷藏保存", "en": "keep refrigerated"}, "emoji": "❄️"}
+    ]
+  },
+  {
+    "text": "vie urbaine",
+    "ipa": "vi yʁbɛn",
+    "translation": {"zh": "城市生活", "en": "urban life"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "vie urbaine", "lemma": "urbain", "ipa": "vi yʁbɛn", "translation": {"zh": "城市生活", "en": "urban life"}, "emoji": "🏙️"}
+    ]
+  },
+  {
+    "text": "détruire",
+    "ipa": "detʁɥiʁ",
+    "translation": {"zh": "摧毁，破坏", "en": "to destroy"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "détruire", "lemma": "détruire", "ipa": "detʁɥiʁ", "translation": {"zh": "摧毁", "en": "to destroy"}, "emoji": "💥"}
+    ]
+  },
+  {
+    "text": "curiosité",
+    "ipa": "kyʁjozite",
+    "translation": {"zh": "好奇心", "en": "curiosity"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "curiosité", "lemma": "curiosité", "ipa": "kyʁjozite", "translation": {"zh": "好奇心", "en": "curiosity"}, "emoji": "🔍"}
+    ]
+  },
+  {
+    "text": "un animal de compagnie",
+    "ipa": "œ̃n‿animal də kɔ̃paɲi",
+    "translation": {"zh": "一只宠物", "en": "a pet"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un animal de compagnie", "lemma": "animal", "ipa": "œ̃n‿animal də kɔ̃paɲi", "translation": {"zh": "宠物", "en": "a pet"}, "emoji": "🐾"}
+    ]
+  },
+  {
+    "text": "univers",
+    "ipa": "ynivɛʁ",
+    "translation": {"zh": "宇宙，世界", "en": "universe"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "univers", "lemma": "univers", "ipa": "ynivɛʁ", "translation": {"zh": "宇宙", "en": "universe"}, "emoji": "🌌"}
+    ]
+  },
+  {
+    "text": "intelligence",
+    "ipa": "ɛ̃teliʒɑ̃s",
+    "translation": {"zh": "智慧，智力", "en": "intelligence"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "intelligence", "lemma": "intelligence", "ipa": "ɛ̃teliʒɑ̃s", "translation": {"zh": "智慧", "en": "intelligence"}, "emoji": "🧠"}
+    ]
+  },
+  {
+    "text": "déjeuner",
+    "ipa": "deʒøne",
+    "translation": {"zh": "午餐，吃午饭", "en": "lunch, to have lunch"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "déjeuner", "lemma": "déjeuner", "ipa": "deʒøne", "translation": {"zh": "午餐", "en": "lunch"}, "emoji": "🍽️"}
+    ]
+  },
+  {
+    "text": "fonctionnement",
+    "ipa": "fɔ̃ksjɔnmɑ̃",
+    "translation": {"zh": "运作方式，运转", "en": "functioning, operation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "fonctionnement", "lemma": "fonctionnement", "ipa": "fɔ̃ksjɔnmɑ̃", "translation": {"zh": "运作方式", "en": "functioning"}, "emoji": "⚙️"}
+    ]
+  },
+  {
+    "text": "naturellement",
+    "ipa": "natyʁɛlmɑ̃",
+    "translation": {"zh": "自然地，当然", "en": "naturally, of course"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "naturellement", "lemma": "naturellement", "ipa": "natyʁɛlmɑ̃", "translation": {"zh": "自然地", "en": "naturally"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "circuler en ville",
+    "ipa": "siʁkyle ɑ̃ vil",
+    "translation": {"zh": "在城市里通行", "en": "to get around the city"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "circuler en ville", "lemma": "circuler", "ipa": "siʁkyle ɑ̃ vil", "translation": {"zh": "在市内通行", "en": "get around the city"}, "emoji": "🚶"}
+    ]
+  },
+  {
+    "text": "résister à la tentation",
+    "ipa": "ʁeziste a la tɑ̃tasjɔ̃",
+    "translation": {"zh": "抵制诱惑", "en": "to resist temptation"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "résister à la tentation", "lemma": "résister", "ipa": "ʁeziste a la tɑ̃tasjɔ̃", "translation": {"zh": "抵制诱惑", "en": "resist temptation"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "éprouver de la joie",
+    "ipa": "epʁuve də la ʒwa",
+    "translation": {"zh": "感受到喜悦", "en": "to feel joy"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "éprouver de la joie", "lemma": "éprouver", "ipa": "epʁuve də la ʒwa", "translation": {"zh": "感受喜悦", "en": "feel joy"}, "emoji": "😊"}
+    ]
+  },
+  {
+    "text": "introduire",
+    "ipa": "ɛ̃tʁodɥiʁ",
+    "translation": {"zh": "引入，介绍", "en": "to introduce, to insert"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "introduire", "lemma": "introduire", "ipa": "ɛ̃tʁodɥiʁ", "translation": {"zh": "引入", "en": "to introduce"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "promenade",
+    "ipa": "pʁɔmnad",
+    "translation": {"zh": "散步，漫步", "en": "walk, stroll"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "promenade", "lemma": "promenade", "ipa": "pʁɔmnad", "translation": {"zh": "散步", "en": "walk"}, "emoji": "🚶"}
+    ]
+  },
+  {
+    "text": "c'est égal",
+    "ipa": "sɛt‿eɡal",
+    "translation": {"zh": "无所谓，都一样", "en": "it doesn't matter"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est égal", "lemma": "égal", "ipa": "sɛt‿eɡal", "translation": {"zh": "无所谓", "en": "doesn't matter"}, "emoji": "🤷"}
+    ]
+  }
+]

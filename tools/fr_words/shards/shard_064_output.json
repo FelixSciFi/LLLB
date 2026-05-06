@@ -1,0 +1,272 @@
+[
+  {
+    "text": "le fournisseur",
+    "ipa": "lə fuʁnisœʁ",
+    "translation": {"zh": "供应商", "en": "supplier"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le fournisseur", "lemma": "fournisseur", "ipa": "lə fuʁnisœʁ", "translation": {"zh": "供应商", "en": "supplier"}, "emoji": "🏭"}
+    ]
+  },
+  {
+    "text": "un abonnement mensuel",
+    "ipa": "œ̃n‿abɔnmɑ̃ mɑ̃sɥɛl",
+    "translation": {"zh": "月度订阅", "en": "monthly subscription"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un abonnement mensuel", "lemma": "abonnement mensuel", "ipa": "œ̃n‿abɔnmɑ̃ mɑ̃sɥɛl", "translation": {"zh": "月度订阅", "en": "monthly subscription"}, "emoji": "📅"}
+    ]
+  },
+  {
+    "text": "tant pis",
+    "ipa": "tɑ̃ pi",
+    "translation": {"zh": "没办法，算了", "en": "too bad"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "tant pis", "lemma": "pis", "ipa": "tɑ̃ pi", "translation": {"zh": "算了", "en": "too bad"}, "emoji": "🤷"}
+    ]
+  },
+  {
+    "text": "le sculpteur",
+    "ipa": "lə skyltœʁ",
+    "translation": {"zh": "雕塑家", "en": "sculptor"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le sculpteur", "lemma": "sculpteur", "ipa": "lə skyltœʁ", "translation": {"zh": "雕塑家", "en": "sculptor"}, "emoji": "🗿"}
+    ]
+  },
+  {
+    "text": "ne t'affole pas",
+    "ipa": "nə tafɔl pa",
+    "translation": {"zh": "别慌", "en": "don't panic"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "ne t'affole pas", "lemma": "affoler", "ipa": "nə tafɔl pa", "translation": {"zh": "别慌", "en": "don't panic"}, "emoji": "😰"}
+    ]
+  },
+  {
+    "text": "c'est délicat",
+    "ipa": "se delika",
+    "translation": {"zh": "这很微妙", "en": "it's delicate"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "c'est délicat", "lemma": "délicat", "ipa": "se delika", "translation": {"zh": "这很微妙", "en": "it's delicate"}, "emoji": "🌸"}
+    ]
+  },
+  {
+    "text": "souffle la bougie",
+    "ipa": "sufl la buʒi",
+    "translation": {"zh": "吹蜡烛", "en": "blow out the candle"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "souffle la bougie", "lemma": "souffler", "ipa": "sufl la buʒi", "translation": {"zh": "吹蜡烛", "en": "blow out the candle"}, "emoji": "🕯️"}
+    ]
+  },
+  {
+    "text": "la constitution",
+    "ipa": "la kɔ̃stitysjɔ̃",
+    "translation": {"zh": "宪法", "en": "constitution"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la constitution", "lemma": "constitution", "ipa": "la kɔ̃stitysjɔ̃", "translation": {"zh": "宪法", "en": "constitution"}, "emoji": "📜"}
+    ]
+  },
+  {
+    "text": "la performance",
+    "ipa": "la pɛʁfɔʁmɑ̃s",
+    "translation": {"zh": "表现，性能", "en": "performance"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la performance", "lemma": "performance", "ipa": "la pɛʁfɔʁmɑ̃s", "translation": {"zh": "表现", "en": "performance"}, "emoji": "📊"}
+    ]
+  },
+  {
+    "text": "préserver l'environnement",
+    "ipa": "pʁezɛʁve lɑ̃viʁɔnmɑ̃",
+    "translation": {"zh": "保护环境", "en": "protect the environment"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "préserver l'environnement", "lemma": "préserver", "ipa": "pʁezɛʁve lɑ̃viʁɔnmɑ̃", "translation": {"zh": "保护环境", "en": "protect the environment"}, "emoji": "🌍"}
+    ]
+  },
+  {
+    "text": "deux hectares",
+    "ipa": "dø ɛktaʁ",
+    "translation": {"zh": "两公顷", "en": "two hectares"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "deux hectares", "lemma": "hectare", "ipa": "dø ɛktaʁ", "translation": {"zh": "两公顷", "en": "two hectares"}, "emoji": "🌾"}
+    ]
+  },
+  {
+    "text": "il a raté le bus",
+    "ipa": "il a ʁate lə bys",
+    "translation": {"zh": "他错过了公交车", "en": "he missed the bus"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il a raté le bus", "lemma": "rater", "ipa": "il a ʁate lə bys", "translation": {"zh": "错过公交车", "en": "missed the bus"}, "emoji": "🚌"}
+    ]
+  },
+  {
+    "text": "la touche entrée",
+    "ipa": "la tuʃ ɑ̃tʁe",
+    "translation": {"zh": "回车键", "en": "enter key"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la touche entrée", "lemma": "touche", "ipa": "la tuʃ ɑ̃tʁe", "translation": {"zh": "回车键", "en": "enter key"}, "emoji": "⌨️"}
+    ]
+  },
+  {
+    "text": "une créature étrange",
+    "ipa": "yn kʁeatyʁ etʁɑ̃ʒ",
+    "translation": {"zh": "一个奇怪的生物", "en": "a strange creature"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une créature étrange", "lemma": "créature", "ipa": "yn kʁeatyʁ etʁɑ̃ʒ", "translation": {"zh": "奇怪的生物", "en": "strange creature"}, "emoji": "👾"}
+    ]
+  },
+  {
+    "text": "ériger une statue",
+    "ipa": "eʁiʒe yn staty",
+    "translation": {"zh": "竖立一座雕像", "en": "erect a statue"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ériger une statue", "lemma": "ériger", "ipa": "eʁiʒe yn staty", "translation": {"zh": "竖立雕像", "en": "erect a statue"}, "emoji": "🗽"}
+    ]
+  },
+  {
+    "text": "une tenue élégante",
+    "ipa": "yn tny eleɡɑ̃t",
+    "translation": {"zh": "一套优雅的服装", "en": "an elegant outfit"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une tenue élégante", "lemma": "tenue", "ipa": "yn tny eleɡɑ̃t", "translation": {"zh": "优雅的服装", "en": "elegant outfit"}, "emoji": "👗"}
+    ]
+  },
+  {
+    "text": "précède le déjeuner",
+    "ipa": "pʁesed lə deʒœne",
+    "translation": {"zh": "在午餐之前", "en": "precedes lunch"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "précède le déjeuner", "lemma": "précéder", "ipa": "pʁesed lə deʒœne", "translation": {"zh": "在午餐前", "en": "precedes lunch"}, "emoji": "🕛"}
+    ]
+  },
+  {
+    "text": "la grille du jardin",
+    "ipa": "la ɡʁij dy ʒaʁdɛ̃",
+    "translation": {"zh": "花园的铁栅栏", "en": "the garden gate"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la grille du jardin", "lemma": "grille", "ipa": "la ɡʁij dy ʒaʁdɛ̃", "translation": {"zh": "花园铁栅栏", "en": "garden gate"}, "emoji": "🚪"}
+    ]
+  },
+  {
+    "text": "le climat méditerranéen",
+    "ipa": "lə klima meditɛʁane ɛ̃",
+    "translation": {"zh": "地中海气候", "en": "Mediterranean climate"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le climat méditerranéen", "lemma": "méditerranéen", "ipa": "lə klima meditɛʁaneɛ̃", "translation": {"zh": "地中海气候", "en": "Mediterranean climate"}, "emoji": "☀️"}
+    ]
+  },
+  {
+    "text": "bienvenue",
+    "ipa": "bjɛ̃vny",
+    "translation": {"zh": "欢迎", "en": "welcome"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "bienvenue", "lemma": "bienvenir", "ipa": "bjɛ̃vny", "translation": {"zh": "欢迎", "en": "welcome"}, "emoji": "👋"}
+    ]
+  },
+  {
+    "text": "en plein essor",
+    "ipa": "ɑ̃ plɛ̃n‿esɔʁ",
+    "translation": {"zh": "蓬勃发展中", "en": "booming"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "en plein essor", "lemma": "essor", "ipa": "ɑ̃ plɛ̃n‿esɔʁ", "translation": {"zh": "蓬勃发展", "en": "booming"}, "emoji": "🚀"}
+    ]
+  },
+  {
+    "text": "en dépit des difficultés",
+    "ipa": "ɑ̃ depi de difikylte",
+    "translation": {"zh": "尽管有困难", "en": "despite the difficulties"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "en dépit des difficultés", "lemma": "dépit", "ipa": "ɑ̃ depi de difikylte", "translation": {"zh": "尽管有困难", "en": "despite the difficulties"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "j'envie ta liberté",
+    "ipa": "ʒɑ̃vi ta libɛʁte",
+    "translation": {"zh": "我羡慕你的自由", "en": "I envy your freedom"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "j'envie ta liberté", "lemma": "envier", "ipa": "ʒɑ̃vi ta libɛʁte", "translation": {"zh": "羡慕你的自由", "en": "envy your freedom"}, "emoji": "😍"}
+    ]
+  },
+  {
+    "text": "un arrêté municipal",
+    "ipa": "œ̃n‿aʁɛte mynisipal",
+    "translation": {"zh": "市政令", "en": "municipal decree"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un arrêté municipal", "lemma": "arrêté", "ipa": "œ̃n‿aʁɛte mynisipal", "translation": {"zh": "市政令", "en": "municipal decree"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "ça m'intrigue",
+    "ipa": "sa mɛ̃tʁiɡ",
+    "translation": {"zh": "这让我很好奇", "en": "that intrigues me"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ça m'intrigue", "lemma": "intriguer", "ipa": "sa mɛ̃tʁiɡ", "translation": {"zh": "让我好奇", "en": "intrigues me"}, "emoji": "🤔"}
+    ]
+  },
+  {
+    "text": "la fabrication maison",
+    "ipa": "la fabʁikasjɔ̃ mɛzɔ̃",
+    "translation": {"zh": "手工制作", "en": "homemade production"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la fabrication maison", "lemma": "fabrication", "ipa": "la fabʁikasjɔ̃ mɛzɔ̃", "translation": {"zh": "手工制作", "en": "homemade production"}, "emoji": "🛠️"}
+    ]
+  },
+  {
+    "text": "ne tardez pas",
+    "ipa": "nə taʁde pa",
+    "translation": {"zh": "不要拖延", "en": "don't delay"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ne tardez pas", "lemma": "tarder", "ipa": "nə taʁde pa", "translation": {"zh": "不要拖延", "en": "don't delay"}, "emoji": "⏰"}
+    ]
+  },
+  {
+    "text": "un échec cuisant",
+    "ipa": "œ̃n‿eʃɛk kɥizɑ̃",
+    "translation": {"zh": "一次惨败", "en": "a bitter failure"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un échec cuisant", "lemma": "échec", "ipa": "œ̃n‿eʃɛk kɥizɑ̃", "translation": {"zh": "惨败", "en": "bitter failure"}, "emoji": "😞"}
+    ]
+  },
+  {
+    "text": "survivre à l'hiver",
+    "ipa": "syʁvivʁ a livɛʁ",
+    "translation": {"zh": "熬过冬天", "en": "survive the winter"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "survivre à l'hiver", "lemma": "survivre", "ipa": "syʁvivʁ a livɛʁ", "translation": {"zh": "熬过冬天", "en": "survive the winter"}, "emoji": "❄️"}
+    ]
+  },
+  {
+    "text": "la barre de métal",
+    "ipa": "la baʁ də metal",
+    "translation": {"zh": "金属棒", "en": "metal bar"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la barre de métal", "lemma": "barre", "ipa": "la baʁ də metal", "translation": {"zh": "金属棒", "en": "metal bar"}, "emoji": "🔩"}
+    ]
+  }
+]

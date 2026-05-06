@@ -1,0 +1,80 @@
+[
+  {
+    "text": "To believe your own thought,",
+    "ipa": "tə bɪˈliv jɔr oʊn θɔt",
+    "translation": {"zh": "相信你自己的思想，"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "To believe", "lemma": "believe", "ipa": "tə bɪˈliv", "translation": {"zh": "去相信", "en": "to trust"}, "emoji": ""},
+      {"text": "your", "lemma": "your", "ipa": "jɔr", "translation": {"zh": "你的", "en": "your"}, "emoji": ""},
+      {"text": "own", "lemma": "own", "ipa": "oʊn", "translation": {"zh": "自己的", "en": "own"}, "emoji": ""},
+      {"text": "thought,", "lemma": "thought", "ipa": "θɔt", "translation": {"zh": "想法", "en": "thought"}, "emoji": "💭"}
+    ],
+    "tags": [{"name": "Self-Reliance", "index": 1}]
+  },
+  {
+    "text": "to believe that what is true for you in your private heart is true for all men,",
+    "ipa": "tə bɪˈliv ðæt wʌt ɪz tru fɔr ju ɪn jɔr ˈpraɪvət hɑrt ɪz tru fɔr ɔl mɛn",
+    "translation": {"zh": "相信在你内心深处对你为真的事，对所有人也为真，"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "to believe", "lemma": "believe", "ipa": "tə bɪˈliv", "translation": {"zh": "相信", "en": "believe"}, "emoji": ""},
+      {"text": "that what is true", "lemma": "true", "ipa": "ðæt wʌt ɪz tru", "translation": {"zh": "真的事物", "en": "what's true"}, "emoji": "✅"},
+      {"text": "for you", "lemma": "you", "ipa": "fɔr ju", "translation": {"zh": "对你", "en": "for you"}, "emoji": ""},
+      {"text": "in your private heart", "lemma": "heart", "ipa": "ɪn jɔr ˈpraɪvət hɑrt", "translation": {"zh": "在内心深处", "en": "in private heart"}, "emoji": "❤️"},
+      {"text": "is true", "lemma": "true", "ipa": "ɪz tru", "translation": {"zh": "也为真", "en": "is true"}, "emoji": ""},
+      {"text": "for all men,", "lemma": "men", "ipa": "fɔr ɔl mɛn", "translation": {"zh": "对所有人", "en": "for everyone"}, "emoji": "👥"}
+    ],
+    "tags": [{"name": "Self-Reliance", "index": 2}]
+  },
+  {
+    "text": "that is genius.",
+    "ipa": "ðæt ɪz ˈdʒinjəs",
+    "translation": {"zh": "这就是天才。"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "that", "lemma": "that", "ipa": "ðæt", "translation": {"zh": "这", "en": "that"}, "emoji": ""},
+      {"text": "is genius.", "lemma": "genius", "ipa": "ɪz ˈdʒinjəs", "translation": {"zh": "是天才", "en": "is genius"}, "emoji": "💡"}
+    ],
+    "tags": [{"name": "Self-Reliance", "index": 3}]
+  },
+  {
+    "text": "Speak your latent conviction,",
+    "ipa": "spik jɔr ˈleɪtənt kənˈvɪkʃən",
+    "translation": {"zh": "说出你潜藏的信念，"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Speak", "lemma": "speak", "ipa": "spik", "translation": {"zh": "说出", "en": "speak"}, "emoji": "🗣️"},
+      {"text": "your", "lemma": "your", "ipa": "jɔr", "translation": {"zh": "你的", "en": "your"}, "emoji": ""},
+      {"text": "latent", "lemma": "latent", "ipa": "ˈleɪtənt", "translation": {"zh": "潜藏的", "en": "hidden"}, "emoji": ""},
+      {"text": "conviction,", "lemma": "conviction", "ipa": "kənˈvɪkʃən", "translation": {"zh": "信念", "en": "belief"}, "emoji": "🎯"}
+    ],
+    "tags": [{"name": "Self-Reliance", "index": 4}]
+  },
+  {
+    "text": "and it shall be the universal sense;",
+    "ipa": "ənd ɪt ʃæl bi ði ˌjunəˈvɜrsəl sɛns",
+    "translation": {"zh": "它将成为普世的共识；"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "and it", "lemma": "it", "ipa": "ənd ɪt", "translation": {"zh": "而它", "en": "and it"}, "emoji": ""},
+      {"text": "shall be", "lemma": "be", "ipa": "ʃæl bi", "translation": {"zh": "将成为", "en": "will become"}, "emoji": ""},
+      {"text": "the universal", "lemma": "universal", "ipa": "ði ˌjunəˈvɜrsəl", "translation": {"zh": "普世的", "en": "universal"}, "emoji": "🌍"},
+      {"text": "sense;", "lemma": "sense", "ipa": "sɛns", "translation": {"zh": "共识", "en": "sense"}, "emoji": ""}
+    ],
+    "tags": [{"name": "Self-Reliance", "index": 5}]
+  },
+  {
+    "text": "for the inmost in due time becomes the outmost.",
+    "ipa": "fɔr ði ˈɪnˌmoʊst ɪn du taɪm bɪˈkʌmz ði ˈaʊtˌmoʊst",
+    "translation": {"zh": "因为最内在的，终将显于最外在。"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "for the inmost", "lemma": "inmost", "ipa": "fɔr ði ˈɪnˌmoʊst", "translation": {"zh": "最内在的", "en": "innermost"}, "emoji": "🫀"},
+      {"text": "in due time", "lemma": "time", "ipa": "ɪn du taɪm", "translation": {"zh": "终将", "en": "in time"}, "emoji": "⏳"},
+      {"text": "becomes", "lemma": "become", "ipa": "bɪˈkʌmz", "translation": {"zh": "成为", "en": "becomes"}, "emoji": ""},
+      {"text": "the outmost.", "lemma": "outmost", "ipa": "ði ˈaʊtˌmoʊst", "translation": {"zh": "最外在的", "en": "outermost"}, "emoji": "🌐"}
+    ],
+    "tags": [{"name": "Self-Reliance", "index": 6}]
+  }
+]

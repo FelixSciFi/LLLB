@@ -1,0 +1,272 @@
+[
+  {
+    "text": "je suis heureux",
+    "ipa": "ʒə sɥi øʁø",
+    "translation": {"zh": "我很开心", "en": "I am happy"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je suis heureux", "lemma": "être", "ipa": "ʒə sɥi øʁø", "translation": {"zh": "我很开心", "en": "I am happy"}, "emoji": "😊"}
+    ]
+  },
+  {
+    "text": "autour de la table",
+    "ipa": "otuʁ də la tabl",
+    "translation": {"zh": "桌子旁边", "en": "around the table"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "autour de la table", "lemma": "table", "ipa": "otuʁ də la tabl", "translation": {"zh": "桌子周围", "en": "around the table"}, "emoji": "🪑"}
+    ]
+  },
+  {
+    "text": "ça existe",
+    "ipa": "sa ɛɡzist",
+    "translation": {"zh": "这是存在的", "en": "that exists"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "ça existe", "lemma": "exister", "ipa": "sa ɛɡzist", "translation": {"zh": "这存在", "en": "that exists"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "de cette façon",
+    "ipa": "də sɛt fasɔ̃",
+    "translation": {"zh": "用这种方式", "en": "in this way"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "de cette façon", "lemma": "façon", "ipa": "də sɛt fasɔ̃", "translation": {"zh": "用这方式", "en": "in this way"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "il faut agir",
+    "ipa": "il fo aʒiʁ",
+    "translation": {"zh": "必须行动", "en": "we must act"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "il faut agir", "lemma": "agir", "ipa": "il fo aʒiʁ", "translation": {"zh": "必须行动", "en": "must act"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "c'est presque fini",
+    "ipa": "sɛ pʁɛsk fini",
+    "translation": {"zh": "几乎完成了", "en": "it's almost done"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "c'est presque fini", "lemma": "être", "ipa": "sɛ pʁɛsk fini", "translation": {"zh": "几乎完成", "en": "almost done"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "poser une question",
+    "ipa": "poze yn kɛstjɔ̃",
+    "translation": {"zh": "提一个问题", "en": "to ask a question"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "poser une question", "lemma": "poser", "ipa": "poze yn kɛstjɔ̃", "translation": {"zh": "提问", "en": "ask a question"}, "emoji": "❓"}
+    ]
+  },
+  {
+    "text": "un petit village",
+    "ipa": "œ̃ pəti vilaʒ",
+    "translation": {"zh": "一个小村庄", "en": "a small village"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un petit village", "lemma": "village", "ipa": "œ̃ pəti vilaʒ", "translation": {"zh": "小村庄", "en": "small village"}, "emoji": "🏡"}
+    ]
+  },
+  {
+    "text": "un jeune homme",
+    "ipa": "œ̃ ʒœn ɔm",
+    "translation": {"zh": "一个年轻男子", "en": "a young man"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un jeune homme", "lemma": "homme", "ipa": "œ̃ ʒœn ɔm", "translation": {"zh": "年轻男子", "en": "young man"}, "emoji": "👦"}
+    ]
+  },
+  {
+    "text": "ça me plaît",
+    "ipa": "sa mə plɛ",
+    "translation": {"zh": "我喜欢这个", "en": "I like it"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "ça me plaît", "lemma": "plaire", "ipa": "sa mə plɛ", "translation": {"zh": "我喜欢", "en": "I like it"}, "emoji": "👍"}
+    ]
+  },
+  {
+    "text": "grâce à toi",
+    "ipa": "ɡʁas a twa",
+    "translation": {"zh": "多亏了你", "en": "thanks to you"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "grâce à toi", "lemma": "grâce", "ipa": "ɡʁas a twa", "translation": {"zh": "多亏你", "en": "thanks to you"}, "emoji": "🙏"}
+    ]
+  },
+  {
+    "text": "de ma part",
+    "ipa": "də ma paʁ",
+    "translation": {"zh": "代表我", "en": "on my behalf"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "de ma part", "lemma": "part", "ipa": "də ma paʁ", "translation": {"zh": "代我", "en": "on my part"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "l'amour",
+    "ipa": "lamuʁ",
+    "translation": {"zh": "爱", "en": "love"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "l'amour", "lemma": "amour", "ipa": "lamuʁ", "translation": {"zh": "爱", "en": "love"}, "emoji": "❤️"}
+    ]
+  },
+  {
+    "text": "la police arrive",
+    "ipa": "la pɔlis aʁiv",
+    "translation": {"zh": "警察来了", "en": "the police are coming"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la police arrive", "lemma": "police", "ipa": "la pɔlis aʁiv", "translation": {"zh": "警察到了", "en": "police arrive"}, "emoji": "🚓"}
+    ]
+  },
+  {
+    "text": "préparer le dîner",
+    "ipa": "pʁepaʁe lə dine",
+    "translation": {"zh": "准备晚餐", "en": "to prepare dinner"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "préparer le dîner", "lemma": "préparer", "ipa": "pʁepaʁe lə dine", "translation": {"zh": "准备晚餐", "en": "prepare dinner"}, "emoji": "🍽️"}
+    ]
+  },
+  {
+    "text": "le meilleur ami",
+    "ipa": "lə mɛjœʁ ami",
+    "translation": {"zh": "最好的朋友", "en": "the best friend"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le meilleur ami", "lemma": "ami", "ipa": "lə mɛjœʁ ami", "translation": {"zh": "最好的朋友", "en": "best friend"}, "emoji": "👫"}
+    ]
+  },
+  {
+    "text": "gagner la course",
+    "ipa": "ɡaɲe la kuʁs",
+    "translation": {"zh": "赢得比赛", "en": "to win the race"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "gagner la course", "lemma": "gagner", "ipa": "ɡaɲe la kuʁs", "translation": {"zh": "赢得比赛", "en": "win the race"}, "emoji": "🏆"}
+    ]
+  },
+  {
+    "text": "les vacances",
+    "ipa": "le vakɑ̃s",
+    "translation": {"zh": "假期", "en": "the holidays"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "les vacances", "lemma": "vacance", "ipa": "le vakɑ̃s", "translation": {"zh": "假期", "en": "holidays"}, "emoji": "🏖️"}
+    ]
+  },
+  {
+    "text": "apporter à manger",
+    "ipa": "apɔʁte a mɑ̃ʒe",
+    "translation": {"zh": "带食物来", "en": "to bring food"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "apporter à manger", "lemma": "apporter", "ipa": "apɔʁte a mɑ̃ʒe", "translation": {"zh": "带食物", "en": "bring food"}, "emoji": "🍱"}
+    ]
+  },
+  {
+    "text": "tu te rappelles",
+    "ipa": "ty tə ʁapɛl",
+    "translation": {"zh": "你还记得吗", "en": "do you remember"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "tu te rappelles", "lemma": "rappeler", "ipa": "ty tə ʁapɛl", "translation": {"zh": "你记得", "en": "you remember"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un bruit fort",
+    "ipa": "œ̃ bʁɥi fɔʁ",
+    "translation": {"zh": "一个很响的声音", "en": "a loud noise"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un bruit fort", "lemma": "bruit", "ipa": "œ̃ bʁɥi fɔʁ", "translation": {"zh": "很响的声音", "en": "loud noise"}, "emoji": "🔊"}
+    ]
+  },
+  {
+    "text": "ne mange pas",
+    "ipa": "nə mɑ̃ʒ pa",
+    "translation": {"zh": "不要吃", "en": "don't eat"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "ne mange pas", "lemma": "manger", "ipa": "nə mɑ̃ʒ pa", "translation": {"zh": "不要吃", "en": "don't eat"}, "emoji": "🚫"}
+    ]
+  },
+  {
+    "text": "j'ai envie de dormir",
+    "ipa": "ʒe ɑ̃vi də dɔʁmiʁ",
+    "translation": {"zh": "我想睡觉", "en": "I feel like sleeping"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "j'ai envie de dormir", "lemma": "avoir", "ipa": "ʒe ɑ̃vi də dɔʁmiʁ", "translation": {"zh": "我想睡觉", "en": "I feel like sleeping"}, "emoji": "😴"}
+    ]
+  },
+  {
+    "text": "tu parles anglais",
+    "ipa": "ty paʁl ɑ̃ɡlɛ",
+    "translation": {"zh": "你说英语", "en": "you speak English"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "tu parles anglais", "lemma": "parler", "ipa": "ty paʁl ɑ̃ɡlɛ", "translation": {"zh": "说英语", "en": "speak English"}, "emoji": "🇬🇧"}
+    ]
+  },
+  {
+    "text": "une belle région",
+    "ipa": "yn bɛl ʁeʒjɔ̃",
+    "translation": {"zh": "一个美丽的地区", "en": "a beautiful region"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une belle région", "lemma": "région", "ipa": "yn bɛl ʁeʒjɔ̃", "translation": {"zh": "美丽地区", "en": "beautiful region"}, "emoji": "🗺️"}
+    ]
+  },
+  {
+    "text": "ça m'intéresse",
+    "ipa": "sa m‿ɛ̃tɛʁɛs",
+    "translation": {"zh": "这让我感兴趣", "en": "that interests me"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "ça m'intéresse", "lemma": "intéresser", "ipa": "sa m‿ɛ̃tɛʁɛs", "translation": {"zh": "我感兴趣", "en": "interests me"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "se cacher derrière",
+    "ipa": "sə kaʃe dɛʁjɛʁ",
+    "translation": {"zh": "躲在后面", "en": "to hide behind"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "se cacher derrière", "lemma": "cacher", "ipa": "sə kaʃe dɛʁjɛʁ", "translation": {"zh": "躲在后面", "en": "hide behind"}, "emoji": "🙈"}
+    ]
+  },
+  {
+    "text": "c'est également possible",
+    "ipa": "sɛ eɡalmɑ̃ pɔsibl",
+    "translation": {"zh": "这也是可能的", "en": "it's also possible"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "c'est également possible", "lemma": "être", "ipa": "sɛ eɡalmɑ̃ pɔsibl", "translation": {"zh": "也是可能的", "en": "also possible"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un groupe d'amis",
+    "ipa": "œ̃ ɡʁup dami",
+    "translation": {"zh": "一群朋友", "en": "a group of friends"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un groupe d'amis", "lemma": "groupe", "ipa": "œ̃ ɡʁup dami", "translation": {"zh": "一群朋友", "en": "group of friends"}, "emoji": "👥"}
+    ]
+  },
+  {
+    "text": "offrir un cadeau",
+    "ipa": "ɔfʁiʁ œ̃ kado",
+    "translation": {"zh": "送一份礼物", "en": "to give a gift"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "offrir un cadeau", "lemma": "offrir", "ipa": "ɔfʁiʁ œ̃ kado", "translation": {"zh": "送礼物", "en": "give a gift"}, "emoji": "🎁"}
+    ]
+  }
+]

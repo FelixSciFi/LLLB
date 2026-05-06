@@ -1,0 +1,337 @@
+[
+  {
+    "input_word": "近",
+    "sentences": [
+      {
+        "text": "学校很近。",
+        "ipa": "xué xiào hěn jìn",
+        "translation": {"zh": "学校很近。", "en": "The school is very close."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "学校", "lemma": "学校", "ipa": "xué xiào", "translation": {"zh": "学校", "en": "school"}, "emoji": "🏫"},
+          {"text": "很近", "lemma": "近", "ipa": "hěn jìn", "translation": {"zh": "很近", "en": "very close"}, "emoji": "📍"}
+        ]
+      },
+      {
+        "text": "我家很近。",
+        "ipa": "wǒ jiā hěn jìn",
+        "translation": {"zh": "我家很近。", "en": "My home is very close."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "我家", "lemma": "家", "ipa": "wǒ jiā", "translation": {"zh": "我家", "en": "my home"}, "emoji": "🏠"},
+          {"text": "很近", "lemma": "近", "ipa": "hěn jìn", "translation": {"zh": "很近", "en": "very close"}, "emoji": "📍"}
+        ]
+      },
+      {
+        "text": "医院近吗？",
+        "ipa": "yī yuàn jìn ma",
+        "translation": {"zh": "医院近吗？", "en": "Is the hospital close?"},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "医院", "lemma": "医院", "ipa": "yī yuàn", "translation": {"zh": "医院", "en": "hospital"}, "emoji": "🏥"},
+          {"text": "近吗", "lemma": "近", "ipa": "jìn ma", "translation": {"zh": "近吗", "en": "is it close?"}, "emoji": ""}
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "就",
+    "sentences": [
+      {
+        "text": "我就来。",
+        "ipa": "wǒ jiù lái",
+        "translation": {"zh": "我马上来。", "en": "I'll be right there."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "我就来", "lemma": "来", "ipa": "wǒ jiù lái", "translation": {"zh": "我马上来", "en": "I'll come right away"}, "emoji": "🏃"}
+        ]
+      },
+      {
+        "text": "就在这里。",
+        "ipa": "jiù zài zhè lǐ",
+        "translation": {"zh": "就在这里。", "en": "Right here."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "就在这里", "lemma": "这里", "ipa": "jiù zài zhè lǐ", "translation": {"zh": "就在这里", "en": "right here"}, "emoji": "📌"}
+        ]
+      },
+      {
+        "text": "她就走了。",
+        "ipa": "tā jiù zǒu le",
+        "translation": {"zh": "她就走了。", "en": "She just left."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "她就走了", "lemma": "走", "ipa": "tā jiù zǒu le", "translation": {"zh": "她就走了", "en": "she just left"}, "emoji": "🚶"}
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "觉得",
+    "sentences": [
+      {
+        "text": "我觉得冷。",
+        "ipa": "wǒ jué de lěng",
+        "translation": {"zh": "我觉得冷。", "en": "I feel cold."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "我觉得", "lemma": "觉得", "ipa": "wǒ jué de", "translation": {"zh": "我觉得", "en": "I feel"}, "emoji": ""},
+          {"text": "冷", "lemma": "冷", "ipa": "lěng", "translation": {"zh": "冷", "en": "cold"}, "emoji": "🥶"}
+        ]
+      },
+      {
+        "text": "你觉得呢？",
+        "ipa": "nǐ jué de ne",
+        "translation": {"zh": "你觉得呢？", "en": "What do you think?"},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "你觉得呢", "lemma": "觉得", "ipa": "nǐ jué de ne", "translation": {"zh": "你觉得呢", "en": "what do you think?"}, "emoji": "💭"}
+        ]
+      },
+      {
+        "text": "我觉得很好。",
+        "ipa": "wǒ jué de hěn hǎo",
+        "translation": {"zh": "我觉得很好。", "en": "I think it's very good."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "我觉得", "lemma": "觉得", "ipa": "wǒ jué de", "translation": {"zh": "我觉得", "en": "I think"}, "emoji": ""},
+          {"text": "很好", "lemma": "好", "ipa": "hěn hǎo", "translation": {"zh": "很好", "en": "very good"}, "emoji": "👍"}
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "咖啡",
+    "sentences": [
+      {
+        "text": "我喝咖啡。",
+        "ipa": "wǒ hē kā fēi",
+        "translation": {"zh": "我喝咖啡。", "en": "I drink coffee."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "我喝", "lemma": "喝", "ipa": "wǒ hē", "translation": {"zh": "我喝", "en": "I drink"}, "emoji": ""},
+          {"text": "咖啡", "lemma": "咖啡", "ipa": "kā fēi", "translation": {"zh": "咖啡", "en": "coffee"}, "emoji": "☕"}
+        ]
+      },
+      {
+        "text": "咖啡很好喝。",
+        "ipa": "kā fēi hěn hǎo hē",
+        "translation": {"zh": "咖啡很好喝。", "en": "The coffee tastes great."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "咖啡", "lemma": "咖啡", "ipa": "kā fēi", "translation": {"zh": "咖啡", "en": "coffee"}, "emoji": "☕"},
+          {"text": "很好喝", "lemma": "好喝", "ipa": "hěn hǎo hē", "translation": {"zh": "很好喝", "en": "very tasty"}, "emoji": "😋"}
+        ]
+      },
+      {
+        "text": "要咖啡吗？",
+        "ipa": "yào kā fēi ma",
+        "translation": {"zh": "要咖啡吗？", "en": "Do you want coffee?"},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "要咖啡吗", "lemma": "咖啡", "ipa": "yào kā fēi ma", "translation": {"zh": "要咖啡吗", "en": "want coffee?"}, "emoji": "☕"}
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "开始",
+    "sentences": [
+      {
+        "text": "开始吧。",
+        "ipa": "kāi shǐ ba",
+        "translation": {"zh": "开始吧。", "en": "Let's start."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "开始吧", "lemma": "开始", "ipa": "kāi shǐ ba", "translation": {"zh": "开始吧", "en": "let's start"}, "emoji": "▶️"}
+        ]
+      },
+      {
+        "text": "课开始了。",
+        "ipa": "kè kāi shǐ le",
+        "translation": {"zh": "课开始了。", "en": "Class has started."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "课", "lemma": "课", "ipa": "kè", "translation": {"zh": "课", "en": "class"}, "emoji": "📚"},
+          {"text": "开始了", "lemma": "开始", "ipa": "kāi shǐ le", "translation": {"zh": "开始了", "en": "has started"}, "emoji": "▶️"}
+        ]
+      },
+      {
+        "text": "我们开始吧。",
+        "ipa": "wǒ men kāi shǐ ba",
+        "translation": {"zh": "我们开始吧。", "en": "Let's begin."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "我们开始吧", "lemma": "开始", "ipa": "wǒ men kāi shǐ ba", "translation": {"zh": "我们开始吧", "en": "let's begin"}, "emoji": "▶️"}
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "考试",
+    "sentences": [
+      {
+        "text": "考试难吗？",
+        "ipa": "kǎo shì nán ma",
+        "translation": {"zh": "考试难吗？", "en": "Is the exam hard?"},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "考试", "lemma": "考试", "ipa": "kǎo shì", "translation": {"zh": "考试", "en": "exam"}, "emoji": "📝"},
+          {"text": "难吗", "lemma": "难", "ipa": "nán ma", "translation": {"zh": "难吗", "en": "difficult?"}, "emoji": "😰"}
+        ]
+      },
+      {
+        "text": "明天考试。",
+        "ipa": "míng tiān kǎo shì",
+        "translation": {"zh": "明天考试。", "en": "The exam is tomorrow."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "明天", "lemma": "明天", "ipa": "míng tiān", "translation": {"zh": "明天", "en": "tomorrow"}, "emoji": "📅"},
+          {"text": "考试", "lemma": "考试", "ipa": "kǎo shì", "translation": {"zh": "考试", "en": "exam"}, "emoji": "📝"}
+        ]
+      },
+      {
+        "text": "考试很难。",
+        "ipa": "kǎo shì hěn nán",
+        "translation": {"zh": "考试很难。", "en": "The exam is very hard."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "考试", "lemma": "考试", "ipa": "kǎo shì", "translation": {"zh": "考试", "en": "exam"}, "emoji": "📝"},
+          {"text": "很难", "lemma": "难", "ipa": "hěn nán", "translation": {"zh": "很难", "en": "very hard"}, "emoji": "😰"}
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "可能",
+    "sentences": [
+      {
+        "text": "可能下雨。",
+        "ipa": "kě néng xià yǔ",
+        "translation": {"zh": "可能会下雨。", "en": "It might rain."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "可能", "lemma": "可能", "ipa": "kě néng", "translation": {"zh": "可能", "en": "maybe"}, "emoji": ""},
+          {"text": "下雨", "lemma": "下雨", "ipa": "xià yǔ", "translation": {"zh": "下雨", "en": "rain"}, "emoji": "🌧️"}
+        ]
+      },
+      {
+        "text": "他可能来。",
+        "ipa": "tā kě néng lái",
+        "translation": {"zh": "他可能会来。", "en": "He might come."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "他可能来", "lemma": "来", "ipa": "tā kě néng lái", "translation": {"zh": "他可能来", "en": "he might come"}, "emoji": "🚶"}
+        ]
+      },
+      {
+        "text": "可能是对的。",
+        "ipa": "kě néng shì duì de",
+        "translation": {"zh": "可能是对的。", "en": "It's probably correct."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "可能", "lemma": "可能", "ipa": "kě néng", "translation": {"zh": "可能", "en": "probably"}, "emoji": ""},
+          {"text": "是对的", "lemma": "对", "ipa": "shì duì de", "translation": {"zh": "是对的", "en": "is correct"}, "emoji": "✅"}
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "可以",
+    "sentences": [
+      {
+        "text": "我可以进吗？",
+        "ipa": "wǒ kě yǐ jìn ma",
+        "translation": {"zh": "我可以进去吗？", "en": "May I come in?"},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "我可以进吗", "lemma": "进", "ipa": "wǒ kě yǐ jìn ma", "translation": {"zh": "我可以进吗", "en": "may I come in?"}, "emoji": "🚪"}
+        ]
+      },
+      {
+        "text": "可以走了。",
+        "ipa": "kě yǐ zǒu le",
+        "translation": {"zh": "可以走了。", "en": "You can go now."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "可以走了", "lemma": "走", "ipa": "kě yǐ zǒu le", "translation": {"zh": "可以走了", "en": "can go now"}, "emoji": "🚶"}
+        ]
+      },
+      {
+        "text": "你可以坐。",
+        "ipa": "nǐ kě yǐ zuò",
+        "translation": {"zh": "你可以坐下。", "en": "You can sit down."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "你可以坐", "lemma": "坐", "ipa": "nǐ kě yǐ zuò", "translation": {"zh": "你可以坐", "en": "you can sit"}, "emoji": "🪑"}
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "课",
+    "sentences": [
+      {
+        "text": "有课吗？",
+        "ipa": "yǒu kè ma",
+        "translation": {"zh": "有课吗？", "en": "Do you have class?"},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "有课吗", "lemma": "课", "ipa": "yǒu kè ma", "translation": {"zh": "有课吗", "en": "have class?"}, "emoji": "📚"}
+        ]
+      },
+      {
+        "text": "今天有课。",
+        "ipa": "jīn tiān yǒu kè",
+        "translation": {"zh": "今天有课。", "en": "There's class today."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "今天", "lemma": "今天", "ipa": "jīn tiān", "translation": {"zh": "今天", "en": "today"}, "emoji": "📅"},
+          {"text": "有课", "lemma": "课", "ipa": "yǒu kè", "translation": {"zh": "有课", "en": "have class"}, "emoji": "📚"}
+        ]
+      },
+      {
+        "text": "课很有意思。",
+        "ipa": "kè hěn yǒu yì si",
+        "translation": {"zh": "课很有意思。", "en": "The class is very interesting."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "课", "lemma": "课", "ipa": "kè", "translation": {"zh": "课", "en": "class"}, "emoji": "📚"},
+          {"text": "很有意思", "lemma": "有意思", "ipa": "hěn yǒu yì si", "translation": {"zh": "很有意思", "en": "very interesting"}, "emoji": "✨"}
+        ]
+      }
+    ]
+  },
+  {
+    "input_word": "快",
+    "sentences": [
+      {
+        "text": "太快了。",
+        "ipa": "tài kuài le",
+        "translation": {"zh": "太快了。", "en": "Too fast."},
+        "cefr": "HSK1",
+        "tokens": [
+          {"text": "太快了", "lemma": "快", "ipa": "tài kuài le", "translation": {"zh": "太快了", "en": "too fast"}, "emoji": "💨"}
+        ]
+      },
+      {
+        "text": "快点儿！",
+        "ipa": "kuài diǎnr",
+        "translation": {"zh": "快点儿！", "en": "Hurry up!"},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "快点儿", "lemma": "快", "ipa": "kuài diǎnr", "translation": {"zh": "快点儿", "en": "hurry up"}, "emoji": "⚡"}
+        ]
+      },
+      {
+        "text": "你走得很快。",
+        "ipa": "nǐ zǒu de hěn kuài",
+        "translation": {"zh": "你走得很快。", "en": "You walk very fast."},
+        "cefr": "HSK2",
+        "tokens": [
+          {"text": "你走得很快", "lemma": "快", "ipa": "nǐ zǒu de hěn kuài", "translation": {"zh": "你走得很快", "en": "you walk very fast"}, "emoji": "🏃"}
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "input_word": "guarantee",
+    "entries": [
+      {"text": "guarantee", "ipa": "/ˌɡærənˈtiː/", "cefr": "B2", "zh": "保证", "emoji": "✅"},
+      {"text": "guarantee", "ipa": "/ˌɡærənˈtiː/", "cefr": "B2", "zh": "担保书", "emoji": "📄"}
+    ]
+  },
+  {
+    "input_word": "guard",
+    "entries": [
+      {"text": "guard", "ipa": "/ɡɑːrd/", "cefr": "B1", "zh": "警卫", "emoji": "💂"},
+      {"text": "guard", "ipa": "/ɡɑːrd/", "cefr": "B1", "zh": "守卫", "emoji": "🛡️"}
+    ]
+  },
+  {
+    "input_word": "guess",
+    "entries": [
+      {"text": "guess", "ipa": "/ɡɛs/", "cefr": "A1", "zh": "猜测", "emoji": "🤔"}
+    ]
+  },
+  {
+    "input_word": "guest",
+    "entries": [
+      {"text": "guest", "ipa": "/ɡɛst/", "cefr": "A2", "zh": "客人", "emoji": "🙋"}
+    ]
+  },
+  {
+    "input_word": "guide",
+    "entries": [
+      {"text": "guide", "ipa": "/ɡaɪd/", "cefr": "A2", "zh": "导游", "emoji": "🗺️"},
+      {"text": "guide", "ipa": "/ɡaɪd/", "cefr": "A2", "zh": "指导", "emoji": "👆"}
+    ]
+  },
+  {
+    "input_word": "guilty",
+    "entries": [
+      {"text": "guilty", "ipa": "/ˈɡɪlti/", "cefr": "B1", "zh": "有罪的", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "guitar",
+    "entries": [
+      {"text": "guitar", "ipa": "/ɡɪˈtɑːr/", "cefr": "A1", "zh": "吉他", "emoji": "🎸"}
+    ]
+  },
+  {
+    "input_word": "gun",
+    "entries": [
+      {"text": "gun", "ipa": "/ɡʌn/", "cefr": "A2", "zh": "枪", "emoji": "🔫"}
+    ]
+  },
+  {
+    "input_word": "guy",
+    "entries": [
+      {"text": "guy", "ipa": "/ɡaɪ/", "cefr": "A2", "zh": "家伙", "emoji": "🙍‍♂️"}
+    ]
+  },
+  {
+    "input_word": "gym",
+    "entries": [
+      {"text": "gym", "ipa": "/dʒɪm/", "cefr": "A1", "zh": "健身房", "emoji": "🏋️"}
+    ]
+  }
+]

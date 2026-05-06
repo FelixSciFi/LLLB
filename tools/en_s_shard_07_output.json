@@ -1,0 +1,195 @@
+[
+  {
+    "input_word": "source",
+    "entries": [
+      {"text": "source", "ipa": "/sɔːrs/", "cefr": "A2", "zh": "来源", "emoji": "🔍"}
+    ]
+  },
+  {
+    "input_word": "south",
+    "entries": [
+      {"text": "south", "ipa": "/saʊθ/", "cefr": "A1", "zh": "南方", "emoji": "🧭"}
+    ]
+  },
+  {
+    "input_word": "southern",
+    "entries": [
+      {"text": "southern", "ipa": "/ˈsʌðərn/", "cefr": "B1", "zh": "南部的", "emoji": "🧭"}
+    ]
+  },
+  {
+    "input_word": "space",
+    "entries": [
+      {"text": "space", "ipa": "/speɪs/", "cefr": "A1", "zh": "空间", "emoji": "🌌"},
+      {"text": "space", "ipa": "/speɪs/", "cefr": "A1", "zh": "太空", "emoji": "🚀"}
+    ]
+  },
+  {
+    "input_word": "speak",
+    "entries": [
+      {"text": "speak", "ipa": "/spiːk/", "cefr": "A1", "zh": "说话", "emoji": "🗣️"}
+    ]
+  },
+  {
+    "input_word": "speaker",
+    "entries": [
+      {"text": "speaker", "ipa": "/ˈspiːkər/", "cefr": "A2", "zh": "说话者", "emoji": "🎙️"},
+      {"text": "speaker", "ipa": "/ˈspiːkər/", "cefr": "A2", "zh": "扬声器", "emoji": "🔊"}
+    ]
+  },
+  {
+    "input_word": "special",
+    "entries": [
+      {"text": "special", "ipa": "/ˈspɛʃəl/", "cefr": "A1", "zh": "特别的", "emoji": "⭐"}
+    ]
+  },
+  {
+    "input_word": "specialist",
+    "entries": [
+      {"text": "specialist", "ipa": "/ˈspɛʃələst/", "cefr": "B2", "zh": "专家", "emoji": "🔬"}
+    ]
+  },
+  {
+    "input_word": "species",
+    "entries": [
+      {"text": "species", "ipa": "/ˈspiːʃiːz/", "cefr": "B2", "zh": "物种", "emoji": "🦎"}
+    ]
+  },
+  {
+    "input_word": "specific",
+    "entries": [
+      {"text": "specific", "ipa": "/spəˈsɪfɪk/", "cefr": "A2", "zh": "具体的", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_word": "specifically",
+    "entries": [
+      {"text": "specifically", "ipa": "/spəˈsɪfɪkli/", "cefr": "B1", "zh": "具体地", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_word": "speech",
+    "entries": [
+      {"text": "speech", "ipa": "/spiːtʃ/", "cefr": "A2", "zh": "演讲", "emoji": "🎤"},
+      {"text": "speech", "ipa": "/spiːtʃ/", "cefr": "A2", "zh": "言语", "emoji": "💬"}
+    ]
+  },
+  {
+    "input_word": "speed",
+    "entries": [
+      {"text": "speed", "ipa": "/spiːd/", "cefr": "A2", "zh": "速度", "emoji": "⚡"}
+    ]
+  },
+  {
+    "input_word": "spell",
+    "entries": [
+      {"text": "spell", "ipa": "/spɛl/", "cefr": "A1", "zh": "拼写", "emoji": "🔤"},
+      {"text": "spell", "ipa": "/spɛl/", "cefr": "A1", "zh": "咒语", "emoji": "🪄"}
+    ]
+  },
+  {
+    "input_word": "spelling",
+    "entries": [
+      {"text": "spelling", "ipa": "/ˈspɛlɪŋ/", "cefr": "A1", "zh": "拼写", "emoji": "🔤"}
+    ]
+  },
+  {
+    "input_word": "spend",
+    "entries": [
+      {"text": "spend", "ipa": "/spɛnd/", "cefr": "A1", "zh": "花费", "emoji": "💸"},
+      {"text": "spend", "ipa": "/spɛnd/", "cefr": "A1", "zh": "度过", "emoji": "⏳"}
+    ]
+  },
+  {
+    "input_word": "spending",
+    "entries": [
+      {"text": "spending", "ipa": "/ˈspɛndɪŋ/", "cefr": "B1", "zh": "支出", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_word": "spicy",
+    "entries": [
+      {"text": "spicy", "ipa": "/ˈspaɪsi/", "cefr": "B1", "zh": "辛辣的", "emoji": "🌶️"}
+    ]
+  },
+  {
+    "input_word": "spider",
+    "entries": [
+      {"text": "spider", "ipa": "/ˈspaɪdər/", "cefr": "A2", "zh": "蜘蛛", "emoji": "🕷️"}
+    ]
+  },
+  {
+    "input_word": "spirit",
+    "entries": [
+      {"text": "spirit", "ipa": "/ˈspɪrɪt/", "cefr": "B1", "zh": "精神", "emoji": "✨"},
+      {"text": "spirit", "ipa": "/ˈspɪrɪt/", "cefr": "B1", "zh": "幽灵", "emoji": "👻"}
+    ]
+  },
+  {
+    "input_word": "spiritual",
+    "entries": [
+      {"text": "spiritual", "ipa": "/ˈspɪrɪtʃuəl/", "cefr": "B2", "zh": "精神的", "emoji": "🙏"}
+    ]
+  },
+  {
+    "input_word": "split",
+    "entries": [
+      {"text": "split", "ipa": "/splɪt/", "cefr": "B2", "zh": "分裂", "emoji": "✂️"},
+      {"text": "split", "ipa": "/splɪt/", "cefr": "B2", "zh": "劈开", "emoji": "🪓"}
+    ]
+  },
+  {
+    "input_word": "spoken",
+    "entries": [
+      {"text": "spoken", "ipa": "/ˈspoʊkən/", "cefr": "B1", "zh": "口语的", "emoji": "🗣️"}
+    ]
+  },
+  {
+    "input_word": "sponsor",
+    "entries": [
+      {"text": "sponsor", "ipa": "/ˈspɑːnsər/", "cefr": "B2", "zh": "赞助商", "emoji": "🤝"},
+      {"text": "sponsor", "ipa": "/ˈspɑːnsər/", "cefr": "B2", "zh": "赞助", "emoji": "💼"}
+    ]
+  },
+  {
+    "input_word": "spoon",
+    "entries": [
+      {"text": "spoon", "ipa": "/spuːn/", "cefr": "A2", "zh": "勺子", "emoji": "🥄"}
+    ]
+  },
+  {
+    "input_word": "sport",
+    "entries": [
+      {"text": "sport", "ipa": "/spɔːrt/", "cefr": "A1", "zh": "运动", "emoji": "⚽"}
+    ]
+  },
+  {
+    "input_word": "spot",
+    "entries": [
+      {"text": "spot", "ipa": "/spɑːt/", "cefr": "B1", "zh": "地点", "emoji": "📍"},
+      {"text": "spot", "ipa": "/spɑːt/", "cefr": "B1", "zh": "发现", "emoji": "👀"},
+      {"text": "spot", "ipa": "/spɑːt/", "cefr": "B1", "zh": "斑点", "emoji": "🔵"}
+    ]
+  },
+  {
+    "input_word": "spread",
+    "entries": [
+      {"text": "spread", "ipa": "/sprɛd/", "cefr": "B1", "zh": "传播", "emoji": "📡"},
+      {"text": "spread", "ipa": "/sprɛd/", "cefr": "B1", "zh": "涂抹", "emoji": "🧈"}
+    ]
+  },
+  {
+    "input_word": "spring",
+    "entries": [
+      {"text": "spring", "ipa": "/sprɪŋ/", "cefr": "A1", "zh": "春天", "emoji": "🌸"},
+      {"text": "spring", "ipa": "/sprɪŋ/", "cefr": "A1", "zh": "弹簧", "emoji": "🔩"}
+    ]
+  },
+  {
+    "input_word": "square",
+    "entries": [
+      {"text": "square", "ipa": "/skwɛr/", "cefr": "A2", "zh": "正方形", "emoji": "🟦"},
+      {"text": "square", "ipa": "/skwɛr/", "cefr": "A2", "zh": "广场", "emoji": "🏛️"}
+    ]
+  }
+]

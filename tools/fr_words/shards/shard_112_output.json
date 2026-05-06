@@ -1,0 +1,284 @@
+[
+  {
+    "text": "un engouement",
+    "ipa": "œ̃ ɑ̃ɡum ɑ̃",
+    "translation": {"zh": "热情，迷恋", "en": "a craze, enthusiasm"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un engouement", "lemma": "engouement", "ipa": "œ̃ ɑ̃ɡumɑ̃", "translation": {"zh": "一种迷恋", "en": "a craze"}, "emoji": "🔥"}
+    ]
+  },
+  {
+    "text": "un exode",
+    "ipa": "œ̃ nɛɡzɔd",
+    "translation": {"zh": "大规模迁移", "en": "an exodus"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un exode", "lemma": "exode", "ipa": "œ̃ nɛɡzɔd", "translation": {"zh": "一场大迁移", "en": "an exodus"}, "emoji": "🚶"}
+    ]
+  },
+  {
+    "text": "l'organisateur",
+    "ipa": "lɔʁɡanizatœʁ",
+    "translation": {"zh": "组织者", "en": "the organizer"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'organisateur", "lemma": "organisateur", "ipa": "lɔʁɡanizatœʁ", "translation": {"zh": "组织者", "en": "organizer"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "la devise",
+    "ipa": "la dəviz",
+    "translation": {"zh": "格言；货币", "en": "the motto; currency"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la devise", "lemma": "devise", "ipa": "la dəviz", "translation": {"zh": "格言；货币", "en": "motto; currency"}, "emoji": "💬"}
+    ]
+  },
+  {
+    "text": "inéluctable",
+    "ipa": "inelykταbl",
+    "translation": {"zh": "不可避免的", "en": "inescapable"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "inéluctable", "lemma": "inéluctable", "ipa": "inelykταbl", "translation": {"zh": "不可避免的", "en": "inescapable"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "ça résonne",
+    "ipa": "sa ʁezɔn",
+    "translation": {"zh": "它在回响", "en": "it resonates"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ça résonne", "lemma": "résonner", "ipa": "sa ʁezɔn", "translation": {"zh": "它在回响", "en": "it resonates"}, "emoji": "🔔"}
+    ]
+  },
+  {
+    "text": "d'emblée",
+    "ipa": "dɑ̃ble",
+    "translation": {"zh": "立刻，一开始就", "en": "right away"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "d'emblée", "lemma": "emblée", "ipa": "dɑ̃ble", "translation": {"zh": "立刻", "en": "right away"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une halte",
+    "ipa": "yn alt",
+    "translation": {"zh": "停留，休息站", "en": "a stop, halt"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une halte", "lemma": "halte", "ipa": "yn alt", "translation": {"zh": "一次停留", "en": "a stop"}, "emoji": "⛺"}
+    ]
+  },
+  {
+    "text": "bercer un enfant",
+    "ipa": "bɛʁse œ̃ nɑ̃fɑ̃",
+    "translation": {"zh": "摇哄孩子", "en": "to rock a child"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "bercer", "lemma": "bercer", "ipa": "bɛʁse", "translation": {"zh": "摇哄", "en": "to rock"}, "emoji": "🍼"},
+      {"text": "un enfant", "lemma": "enfant", "ipa": "œ̃ nɑ̃fɑ̃", "translation": {"zh": "一个孩子", "en": "a child"}, "emoji": "👶"}
+    ]
+  },
+  {
+    "text": "pointer du doigt",
+    "ipa": "pwɛ̃te dy dwa",
+    "translation": {"zh": "用手指指出", "en": "to point with a finger"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "pointer", "lemma": "pointer", "ipa": "pwɛ̃te", "translation": {"zh": "指向", "en": "to point"}, "emoji": "👆"},
+      {"text": "du doigt", "lemma": "doigt", "ipa": "dy dwa", "translation": {"zh": "用手指", "en": "with finger"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "valider un billet",
+    "ipa": "valide œ̃ bijɛ",
+    "translation": {"zh": "检票，验票", "en": "to validate a ticket"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "valider", "lemma": "valider", "ipa": "valide", "translation": {"zh": "验证", "en": "to validate"}, "emoji": "✅"},
+      {"text": "un billet", "lemma": "billet", "ipa": "œ̃ bijɛ", "translation": {"zh": "一张票", "en": "a ticket"}, "emoji": "🎫"}
+    ]
+  },
+  {
+    "text": "mesdemoiselles",
+    "ipa": "medmwazɛl",
+    "translation": {"zh": "女士们（复数称呼）", "en": "young ladies"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "mesdemoiselles", "lemma": "mesdemoiselles", "ipa": "medmwazɛl", "translation": {"zh": "女士们", "en": "young ladies"}, "emoji": "👩"}
+    ]
+  },
+  {
+    "text": "une hormone",
+    "ipa": "yn ɔʁmɔn",
+    "translation": {"zh": "一种激素", "en": "a hormone"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une hormone", "lemma": "hormone", "ipa": "yn ɔʁmɔn", "translation": {"zh": "一种激素", "en": "a hormone"}, "emoji": "🧬"}
+    ]
+  },
+  {
+    "text": "une écurie",
+    "ipa": "yn ekyʁi",
+    "translation": {"zh": "马厩", "en": "a stable"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une écurie", "lemma": "écurie", "ipa": "yn ekyʁi", "translation": {"zh": "马厩", "en": "a stable"}, "emoji": "🐴"}
+    ]
+  },
+  {
+    "text": "la grisaille",
+    "ipa": "la ɡʁizaj",
+    "translation": {"zh": "阴郁，灰色调", "en": "the gloom, greyness"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la grisaille", "lemma": "grisaille", "ipa": "la ɡʁizaj", "translation": {"zh": "阴郁", "en": "the gloom"}, "emoji": "🌫️"}
+    ]
+  },
+  {
+    "text": "le savoir-vivre",
+    "ipa": "lə savwaʁ vivʁ",
+    "translation": {"zh": "礼仪，待人之道", "en": "good manners"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le savoir-vivre", "lemma": "savoir-vivre", "ipa": "lə savwaʁ vivʁ", "translation": {"zh": "礼仪", "en": "good manners"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "un restaurant réputé",
+    "ipa": "œ̃ ʁɛstoʁɑ̃ ʁepyte",
+    "translation": {"zh": "一家知名餐厅", "en": "a renowned restaurant"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un restaurant", "lemma": "restaurant", "ipa": "œ̃ ʁɛstoʁɑ̃", "translation": {"zh": "一家餐厅", "en": "a restaurant"}, "emoji": "🍽️"},
+      {"text": "réputé", "lemma": "réputé", "ipa": "ʁepyte", "translation": {"zh": "知名的", "en": "renowned"}, "emoji": "⭐"}
+    ]
+  },
+  {
+    "text": "une constatation",
+    "ipa": "yn kɔ̃statasjɔ̃",
+    "translation": {"zh": "一项观察，发现", "en": "an observation, finding"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une constatation", "lemma": "constatation", "ipa": "yn kɔ̃statasjɔ̃", "translation": {"zh": "一项发现", "en": "a finding"}, "emoji": "🔍"}
+    ]
+  },
+  {
+    "text": "plaider coupable",
+    "ipa": "plede kupabl",
+    "translation": {"zh": "认罪", "en": "to plead guilty"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "plaider", "lemma": "plaider", "ipa": "plede", "translation": {"zh": "辩护；认罪", "en": "to plead"}, "emoji": "⚖️"},
+      {"text": "coupable", "lemma": "coupable", "ipa": "kupabl", "translation": {"zh": "有罪的", "en": "guilty"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "tenir le volant",
+    "ipa": "təniʁ lə vɔlɑ̃",
+    "translation": {"zh": "握着方向盘", "en": "to hold the steering wheel"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "tenir", "lemma": "tenir", "ipa": "təniʁ", "translation": {"zh": "握住", "en": "to hold"}, "emoji": ""},
+      {"text": "le volant", "lemma": "volant", "ipa": "lə vɔlɑ̃", "translation": {"zh": "方向盘", "en": "steering wheel"}, "emoji": "🚗"}
+    ]
+  },
+  {
+    "text": "un périple",
+    "ipa": "œ̃ peʁipl",
+    "translation": {"zh": "一段长途旅行", "en": "a long journey"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un périple", "lemma": "périple", "ipa": "œ̃ peʁipl", "translation": {"zh": "一段旅程", "en": "a long journey"}, "emoji": "🗺️"}
+    ]
+  },
+  {
+    "text": "c'est inévitable",
+    "ipa": "sɛ t‿inevitabl",
+    "translation": {"zh": "这是不可避免的", "en": "it's inevitable"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "c'est inévitable", "lemma": "inévitable", "ipa": "sɛ t‿inevitabl", "translation": {"zh": "不可避免", "en": "inevitable"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "défaire un nœud",
+    "ipa": "defɛʁ œ̃ nø",
+    "translation": {"zh": "解开一个结", "en": "to undo a knot"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "défaire", "lemma": "défaire", "ipa": "defɛʁ", "translation": {"zh": "解开", "en": "to undo"}, "emoji": ""},
+      {"text": "un nœud", "lemma": "nœud", "ipa": "œ̃ nø", "translation": {"zh": "一个结", "en": "a knot"}, "emoji": "🪢"}
+    ]
+  },
+  {
+    "text": "atténuer la douleur",
+    "ipa": "atenɥe la dulœʁ",
+    "translation": {"zh": "减轻疼痛", "en": "to ease the pain"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "atténuer", "lemma": "atténuer", "ipa": "atenɥe", "translation": {"zh": "减轻", "en": "to ease"}, "emoji": ""},
+      {"text": "la douleur", "lemma": "douleur", "ipa": "la dulœʁ", "translation": {"zh": "疼痛", "en": "the pain"}, "emoji": "💊"}
+    ]
+  },
+  {
+    "text": "leurs rôles respectifs",
+    "ipa": "lœʁ ʁol ʁɛspɛktif",
+    "translation": {"zh": "他们各自的角色", "en": "their respective roles"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "leurs rôles", "lemma": "rôle", "ipa": "lœʁ ʁol", "translation": {"zh": "他们的角色", "en": "their roles"}, "emoji": ""},
+      {"text": "respectifs", "lemma": "respectif", "ipa": "ʁɛspɛktif", "translation": {"zh": "各自的", "en": "respective"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "contester une décision",
+    "ipa": "kɔ̃tɛste yn desisjɔ̃",
+    "translation": {"zh": "质疑一个决定", "en": "to contest a decision"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "contester", "lemma": "contester", "ipa": "kɔ̃tɛste", "translation": {"zh": "质疑", "en": "to contest"}, "emoji": ""},
+      {"text": "une décision", "lemma": "décision", "ipa": "yn desisjɔ̃", "translation": {"zh": "一个决定", "en": "a decision"}, "emoji": "📝"}
+    ]
+  },
+  {
+    "text": "une communion",
+    "ipa": "yn kɔmynjɔ̃",
+    "translation": {"zh": "圣餐礼；情感共鸣", "en": "a communion"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une communion", "lemma": "communion", "ipa": "yn kɔmynjɔ̃", "translation": {"zh": "圣餐礼", "en": "a communion"}, "emoji": "⛪"}
+    ]
+  },
+  {
+    "text": "défiler dans la rue",
+    "ipa": "defile dɑ̃ la ʁy",
+    "translation": {"zh": "在街上游行", "en": "to march in the street"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "défiler", "lemma": "défiler", "ipa": "defile", "translation": {"zh": "游行", "en": "to march"}, "emoji": "🚶"},
+      {"text": "dans la rue", "lemma": "rue", "ipa": "dɑ̃ la ʁy", "translation": {"zh": "在街上", "en": "in the street"}, "emoji": "🏙️"}
+    ]
+  },
+  {
+    "text": "une brique",
+    "ipa": "yn bʁik",
+    "translation": {"zh": "一块砖", "en": "a brick"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une brique", "lemma": "brique", "ipa": "yn bʁik", "translation": {"zh": "一块砖", "en": "a brick"}, "emoji": "🧱"}
+    ]
+  },
+  {
+    "text": "carrément non",
+    "ipa": "kaʁemɑ̃ nɔ̃",
+    "translation": {"zh": "直接说不，断然拒绝", "en": "flatly no"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "carrément", "lemma": "carrément", "ipa": "kaʁemɑ̃", "translation": {"zh": "直接地", "en": "flatly"}, "emoji": ""},
+      {"text": "non", "lemma": "non", "ipa": "nɔ̃", "translation": {"zh": "不", "en": "no"}, "emoji": "🚫"}
+    ]
+  }
+]

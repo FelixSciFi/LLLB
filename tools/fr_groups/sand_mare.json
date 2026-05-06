@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Quand j'ai commencé à publier",
+    "ipa": "kɑ̃ ʒe kɔmɑ̃se a pyblije",
+    "translation": {
+      "zh": "当我开始发表",
+      "en": "When I began to publish"
+    },
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Quand", "lemma": "quand", "ipa": "kɑ̃", "translation": {"zh": "当时", "en": "when"}, "emoji": "⏰"},
+      {"text": "j'ai commencé", "lemma": "commencer", "ipa": "ʒe kɔmɑ̃se", "translation": {"zh": "我开始了", "en": "I began"}, "emoji": "🚀"},
+      {"text": "à publier", "lemma": "publier", "ipa": "a pyblije", "translation": {"zh": "去发表", "en": "to publish"}, "emoji": "📖"}
+    ],
+    "tags": [{"name": "La Mare au diable", "index": 0}]
+  },
+  {
+    "text": "une série d'essais champêtres,",
+    "ipa": "yn seʁi desɛ ʃɑ̃pɛtʁ",
+    "translation": {
+      "zh": "一系列田园随笔，",
+      "en": "a series of rustic essays,"
+    },
+    "cefr": "C1",
+    "tokens": [
+      {"text": "une série", "lemma": "série", "ipa": "yn seʁi", "translation": {"zh": "一系列", "en": "a series"}, "emoji": "📚"},
+      {"text": "d'essais", "lemma": "essai", "ipa": "desɛ", "translation": {"zh": "随笔的", "en": "of essays"}, "emoji": "✍️"},
+      {"text": "champêtres", "lemma": "champêtre", "ipa": "ʃɑ̃pɛtʁ", "translation": {"zh": "田园的", "en": "rustic"}, "emoji": "🌾"}
+    ],
+    "tags": [{"name": "La Mare au diable", "index": 1}]
+  },
+  {
+    "text": "un de mes amis m'a reproché",
+    "ipa": "œ̃ də mez‿ami ma ʁəpʁɔʃe",
+    "translation": {
+      "zh": "我的一位朋友责怪我",
+      "en": "one of my friends reproached me"
+    },
+    "cefr": "C1",
+    "tokens": [
+      {"text": "un de mes amis", "lemma": "ami", "ipa": "œ̃ də mez‿ami", "translation": {"zh": "我的一位朋友", "en": "one of my friends"}, "emoji": "👥"},
+      {"text": "m'a reproché", "lemma": "reprocher", "ipa": "ma ʁəpʁɔʃe", "translation": {"zh": "责怪了我", "en": "reproached me"}, "emoji": "😠"}
+    ],
+    "tags": [{"name": "La Mare au diable", "index": 2}]
+  },
+  {
+    "text": "de prêter aux paysans un langage",
+    "ipa": "də pʁɛte o pɛizɑ̃ œ̃ lɑ̃ɡaʒ",
+    "translation": {
+      "zh": "把一种语言加给农民",
+      "en": "for lending peasants a language"
+    },
+    "cefr": "C1",
+    "tokens": [
+      {"text": "de prêter", "lemma": "prêter", "ipa": "də pʁɛte", "translation": {"zh": "去借给", "en": "to lend"}, "emoji": "🤲"},
+      {"text": "aux paysans", "lemma": "paysan", "ipa": "o pɛizɑ̃", "translation": {"zh": "给农民", "en": "to peasants"}, "emoji": "👨‍🌾"},
+      {"text": "un langage", "lemma": "langage", "ipa": "œ̃ lɑ̃ɡaʒ", "translation": {"zh": "一种语言", "en": "a language"}, "emoji": "🗣️"}
+    ],
+    "tags": [{"name": "La Mare au diable", "index": 3}]
+  },
+  {
+    "text": "que ces gens-là ne pouvaient pas parler.",
+    "ipa": "kə se ʒɑ̃ la nə puvɛ pa paʁle",
+    "translation": {
+      "zh": "那种人根本说不出来的话",
+      "en": "that those folk could not speak"
+    },
+    "cefr": "C1",
+    "tokens": [
+      {"text": "que ces gens-là", "lemma": "gens", "ipa": "kə se ʒɑ̃ la", "translation": {"zh": "那些人", "en": "that those folk"}, "emoji": "👨‍👩‍👧"},
+      {"text": "ne pouvaient pas", "lemma": "pouvoir", "ipa": "nə puvɛ pa", "translation": {"zh": "不能够", "en": "could not"}, "emoji": "🚫"},
+      {"text": "parler", "lemma": "parler", "ipa": "paʁle", "translation": {"zh": "说话", "en": "speak"}, "emoji": "💬"}
+    ],
+    "tags": [{"name": "La Mare au diable", "index": 4}]
+  }
+]

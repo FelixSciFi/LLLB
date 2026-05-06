@@ -1,0 +1,196 @@
+[
+  {
+    "input_word": "prime",
+    "entries": [
+      {"text": "prime", "ipa": "/praɪm/", "cefr": "B2", "zh": "最优质的", "emoji": "⭐"},
+      {"text": "prime", "ipa": "/praɪm/", "cefr": "B2", "zh": "质数", "emoji": "🔢"},
+      {"text": "prime", "ipa": "/praɪm/", "cefr": "B2", "zh": "准备好", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_word": "prince",
+    "entries": [
+      {"text": "prince", "ipa": "/prɪns/", "cefr": "B1", "zh": "王子", "emoji": "🤴"}
+    ]
+  },
+  {
+    "input_word": "princess",
+    "entries": [
+      {"text": "princess", "ipa": "/ˈprɪnsɛs/", "cefr": "B1", "zh": "公主", "emoji": "👸"}
+    ]
+  },
+  {
+    "input_word": "principle",
+    "entries": [
+      {"text": "principle", "ipa": "/ˈprɪnsɪpəl/", "cefr": "B2", "zh": "原则", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "print",
+    "entries": [
+      {"text": "print", "ipa": "/prɪnt/", "cefr": "A2", "zh": "打印", "emoji": "🖨️"},
+      {"text": "print", "ipa": "/prɪnt/", "cefr": "A2", "zh": "印刷品", "emoji": "📄"}
+    ]
+  },
+  {
+    "input_word": "printer",
+    "entries": [
+      {"text": "printer", "ipa": "/ˈprɪntər/", "cefr": "A2", "zh": "打印机", "emoji": "🖨️"}
+    ]
+  },
+  {
+    "input_word": "printing",
+    "entries": [
+      {"text": "printing", "ipa": "/ˈprɪntɪŋ/", "cefr": "B1", "zh": "印刷", "emoji": "📰"}
+    ]
+  },
+  {
+    "input_word": "priority",
+    "entries": [
+      {"text": "priority", "ipa": "/praɪˈɔːrɪti/", "cefr": "B2", "zh": "优先级", "emoji": "🔝"}
+    ]
+  },
+  {
+    "input_word": "prison",
+    "entries": [
+      {"text": "prison", "ipa": "/ˈprɪzən/", "cefr": "A2", "zh": "监狱", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_word": "prisoner",
+    "entries": [
+      {"text": "prisoner", "ipa": "/ˈprɪzənər/", "cefr": "B1", "zh": "囚犯", "emoji": "⛓️"}
+    ]
+  },
+  {
+    "input_word": "privacy",
+    "entries": [
+      {"text": "privacy", "ipa": "/ˈpraɪvəsi/", "cefr": "B2", "zh": "隐私", "emoji": "🔒"}
+    ]
+  },
+  {
+    "input_word": "private",
+    "entries": [
+      {"text": "private", "ipa": "/ˈpraɪvɪt/", "cefr": "B1", "zh": "私人的", "emoji": "🔐"},
+      {"text": "private", "ipa": "/ˈpraɪvɪt/", "cefr": "B1", "zh": "列兵", "emoji": "🪖"}
+    ]
+  },
+  {
+    "input_word": "prize",
+    "entries": [
+      {"text": "prize", "ipa": "/praɪz/", "cefr": "A2", "zh": "奖品", "emoji": "🏆"}
+    ]
+  },
+  {
+    "input_word": "probably",
+    "entries": [
+      {"text": "probably", "ipa": "/ˈprɑːbəbli/", "cefr": "A1", "zh": "可能", "emoji": "🤔"}
+    ]
+  },
+  {
+    "input_word": "problem",
+    "entries": [
+      {"text": "problem", "ipa": "/ˈprɑːbləm/", "cefr": "A1", "zh": "问题", "emoji": "❓"}
+    ]
+  },
+  {
+    "input_word": "procedure",
+    "entries": [
+      {"text": "procedure", "ipa": "/prəˈsiːdʒər/", "cefr": "B2", "zh": "程序", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_word": "process",
+    "entries": [
+      {"text": "process", "ipa": "/ˈprɑːsɛs/", "cefr": "A2", "zh": "过程", "emoji": "⚙️"},
+      {"text": "process", "ipa": "/ˈprɑːsɛs/", "cefr": "A2", "zh": "处理", "emoji": "🔄"}
+    ]
+  },
+  {
+    "input_word": "produce",
+    "entries": [
+      {"text": "produce", "ipa": "/prəˈduːs/", "cefr": "A2", "zh": "生产", "emoji": "🏭"},
+      {"text": "produce", "ipa": "/ˈproʊduːs/", "cefr": "A2", "zh": "农产品", "emoji": "🥦"}
+    ]
+  },
+  {
+    "input_word": "producer",
+    "entries": [
+      {"text": "producer", "ipa": "/prəˈduːsər/", "cefr": "B1", "zh": "制作人", "emoji": "🎬"},
+      {"text": "producer", "ipa": "/prəˈduːsər/", "cefr": "B1", "zh": "生产者", "emoji": "🏭"}
+    ]
+  },
+  {
+    "input_word": "product",
+    "entries": [
+      {"text": "product", "ipa": "/ˈprɑːdʌkt/", "cefr": "A1", "zh": "产品", "emoji": "📦"}
+    ]
+  },
+  {
+    "input_word": "production",
+    "entries": [
+      {"text": "production", "ipa": "/prəˈdʌkʃən/", "cefr": "B1", "zh": "生产", "emoji": "🏭"},
+      {"text": "production", "ipa": "/prəˈdʌkʃən/", "cefr": "B1", "zh": "演出制作", "emoji": "🎭"}
+    ]
+  },
+  {
+    "input_word": "profession",
+    "entries": [
+      {"text": "profession", "ipa": "/prəˈfɛʃən/", "cefr": "B1", "zh": "职业", "emoji": "💼"}
+    ]
+  },
+  {
+    "input_word": "professional",
+    "entries": [
+      {"text": "professional", "ipa": "/prəˈfɛʃənəl/", "cefr": "A2", "zh": "专业的", "emoji": "👔"},
+      {"text": "professional", "ipa": "/prəˈfɛʃənəl/", "cefr": "A2", "zh": "专业人士", "emoji": "🧑‍💼"}
+    ]
+  },
+  {
+    "input_word": "professor",
+    "entries": [
+      {"text": "professor", "ipa": "/prəˈfɛsər/", "cefr": "A2", "zh": "教授", "emoji": "👨‍🏫"}
+    ]
+  },
+  {
+    "input_word": "profile",
+    "entries": [
+      {"text": "profile", "ipa": "/ˈproʊfaɪl/", "cefr": "A2", "zh": "档案", "emoji": "👤"},
+      {"text": "profile", "ipa": "/ˈproʊfaɪl/", "cefr": "A2", "zh": "侧脸", "emoji": "🧑"}
+    ]
+  },
+  {
+    "input_word": "profit",
+    "entries": [
+      {"text": "profit", "ipa": "/ˈprɑːfɪt/", "cefr": "B1", "zh": "利润", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_word": "program",
+    "entries": [
+      {"text": "program", "ipa": "/ˈproʊɡræm/", "cefr": "A2", "zh": "程序", "emoji": "💻"},
+      {"text": "program", "ipa": "/ˈproʊɡræm/", "cefr": "A2", "zh": "节目", "emoji": "📺"}
+    ]
+  },
+  {
+    "input_word": "programme",
+    "entries": [
+      {"text": "programme", "ipa": "/ˈproʊɡræm/", "cefr": "A1", "zh": "节目", "emoji": "📺"},
+      {"text": "programme", "ipa": "/ˈproʊɡræm/", "cefr": "A1", "zh": "计划", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_word": "progress",
+    "entries": [
+      {"text": "progress", "ipa": "/ˈprɑːɡrɛs/", "cefr": "A2", "zh": "进步", "emoji": "📈"},
+      {"text": "progress", "ipa": "/prəˈɡrɛs/", "cefr": "A2", "zh": "前进", "emoji": "🚶"}
+    ]
+  },
+  {
+    "input_word": "project",
+    "entries": [
+      {"text": "project", "ipa": "/ˈprɑːdʒɛkt/", "cefr": "A1", "zh": "项目", "emoji": "📁"},
+      {"text": "project", "ipa": "/prəˈdʒɛkt/", "cefr": "A1", "zh": "投影", "emoji": "📽️"}
+    ]
+  }
+]

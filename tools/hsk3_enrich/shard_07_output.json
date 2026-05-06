@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "da51f895-037b-489c-a0c2-d09dffdb96b9",
+    "text": "他把房间打扫得很干净。",
+    "ipa": "tā bǎ fáng jiān dǎ sǎo de hěn gān jìng",
+    "translation": {
+      "zh": "他把房间打扫得很干净。",
+      "en": "He cleaned the room very thoroughly."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他",
+        "lemma": "他",
+        "ipa": "tā",
+        "translation": {
+          "zh": "他",
+          "en": "he"
+        },
+        "emoji": "🧑"
+      },
+      {
+        "text": "把房间",
+        "lemma": "把房间",
+        "ipa": "bǎ fáng jiān",
+        "translation": {
+          "zh": "把房间",
+          "en": "the room (object marker)"
+        },
+        "emoji": "🛏️"
+      },
+      {
+        "text": "打扫得",
+        "lemma": "打扫得",
+        "ipa": "dǎ sǎo de",
+        "translation": {
+          "zh": "打扫得",
+          "en": "swept/cleaned (to the extent that)"
+        },
+        "emoji": "🧹"
+      },
+      {
+        "text": "很干净",
+        "lemma": "很干净",
+        "ipa": "hěn gān jìng",
+        "translation": {
+          "zh": "很干净",
+          "en": "very clean"
+        },
+        "emoji": "✨"
+      }
+    ]
+  },
+  {
+    "id": "5921d5eb-5a40-4615-add3-b2d6fde77b94",
+    "text": "这件衣服洗得干净吗？",
+    "ipa": "zhè jiàn yī fu xǐ de gān jìng ma",
+    "translation": {
+      "zh": "这件衣服洗得干净吗？",
+      "en": "Did this piece of clothing get washed clean?"
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这件衣服",
+        "lemma": "这件衣服",
+        "ipa": "zhè jiàn yī fu",
+        "translation": {
+          "zh": "这件衣服",
+          "en": "this piece of clothing"
+        },
+        "emoji": "👕"
+      },
+      {
+        "text": "洗得",
+        "lemma": "洗得",
+        "ipa": "xǐ de",
+        "translation": {
+          "zh": "洗得",
+          "en": "washed (to the extent that)"
+        },
+        "emoji": "🫧"
+      },
+      {
+        "text": "干净吗",
+        "lemma": "干净吗",
+        "ipa": "gān jìng ma",
+        "translation": {
+          "zh": "干净吗",
+          "en": "clean? (question)"
+        },
+        "emoji": "✨"
+      }
+    ]
+  },
+  {
+    "id": "56f78006-1df2-4ff9-8a9f-2f93d30df32d",
+    "text": "最近天气变化大，容易感冒。",
+    "ipa": "zuì jìn tiān qì biàn huà dà róng yì gǎn mào",
+    "translation": {
+      "zh": "最近天气变化大，容易感冒。",
+      "en": "The weather has been changing a lot lately, making it easy to catch a cold."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "最近",
+        "lemma": "最近",
+        "ipa": "zuì jìn",
+        "translation": {
+          "zh": "最近",
+          "en": "recently"
+        },
+        "emoji": "📅"
+      },
+      {
+        "text": "天气",
+        "lemma": "天气",
+        "ipa": "tiān qì",
+        "translation": {
+          "zh": "天气",
+          "en": "weather"
+        },
+        "emoji": "🌤️"
+      },
+      {
+        "text": "变化大",
+        "lemma": "变化大",
+        "ipa": "biàn huà dà",
+        "translation": {
+          "zh": "变化大",
+          "en": "changes greatly"
+        },
+        "emoji": "🌡️"
+      },
+      {
+        "text": "容易",
+        "lemma": "容易",
+        "ipa": "róng yì",
+        "translation": {
+          "zh": "容易",
+          "en": "easy / prone to"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "感冒",
+        "lemma": "感冒",
+        "ipa": "gǎn mào",
+        "translation": {
+          "zh": "感冒",
+          "en": "catch a cold"
+        },
+        "emoji": "🤧"
+      }
+    ]
+  },
+  {
+    "id": "d30480e1-1e3b-40b9-addc-0c916076faf9",
+    "text": "我感冒了，头很疼。",
+    "ipa": "wǒ gǎn mào le tóu hěn téng",
+    "translation": {
+      "zh": "我感冒了，头很疼。",
+      "en": "I have a cold and my head hurts a lot."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我",
+        "lemma": "我",
+        "ipa": "wǒ",
+        "translation": {
+          "zh": "我",
+          "en": "I"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "感冒了",
+        "lemma": "感冒了",
+        "ipa": "gǎn mào le",
+        "translation": {
+          "zh": "感冒了",
+          "en": "have caught a cold"
+        },
+        "emoji": "🤧"
+      },
+      {
+        "text": "头",
+        "lemma": "头",
+        "ipa": "tóu",
+        "translation": {
+          "zh": "头",
+          "en": "head"
+        },
+        "emoji": "🤕"
+      },
+      {
+        "text": "很疼",
+        "lemma": "很疼",
+        "ipa": "hěn téng",
+        "translation": {
+          "zh": "很疼",
+          "en": "hurts a lot"
+        },
+        "emoji": "😣"
+      }
+    ]
+  },
+  {
+    "id": "3087dd5a-569f-47aa-9c85-a145d221c0e5",
+    "text": "他对历史很感兴趣。",
+    "ipa": "tā duì lì shǐ hěn gǎn xìng qù",
+    "translation": {
+      "zh": "他对历史很感兴趣。",
+      "en": "He is very interested in history."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他",
+        "lemma": "他",
+        "ipa": "tā",
+        "translation": {
+          "zh": "他",
+          "en": "he"
+        },
+        "emoji": "🧑"
+      },
+      {
+        "text": "对历史",
+        "lemma": "对历史",
+        "ipa": "duì lì shǐ",
+        "translation": {
+          "zh": "对历史",
+          "en": "in history / regarding history"
+        },
+        "emoji": "📜"
+      },
+      {
+        "text": "很感兴趣",
+        "lemma": "很感兴趣",
+        "ipa": "hěn gǎn xìng qù",
+        "translation": {
+          "zh": "很感兴趣",
+          "en": "is very interested"
+        },
+        "emoji": "🤩"
+      }
+    ]
+  },
+  {
+    "id": "77c4ef16-a2e1-43ac-b344-97ad5ba3c7bb",
+    "text": "你对什么运动感兴趣？",
+    "ipa": "nǐ duì shén me yùn dòng gǎn xìng qù",
+    "translation": {
+      "zh": "你对什么运动感兴趣？",
+      "en": "What sports are you interested in?"
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "你",
+        "lemma": "你",
+        "ipa": "nǐ",
+        "translation": {
+          "zh": "你",
+          "en": "you"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "对什么运动",
+        "lemma": "对什么运动",
+        "ipa": "duì shén me yùn dòng",
+        "translation": {
+          "zh": "对什么运动",
+          "en": "in what sport"
+        },
+        "emoji": "🏅"
+      },
+      {
+        "text": "感兴趣",
+        "lemma": "感兴趣",
+        "ipa": "gǎn xìng qù",
+        "translation": {
+          "zh": "感兴趣",
+          "en": "be interested"
+        },
+        "emoji": "🤩"
+      }
+    ]
+  },
+  {
+    "id": "7a0c6061-c412-4522-ae7c-dbc3d8bd782a",
+    "text": "刚才你打电话来了。",
+    "ipa": "gāng cái nǐ dǎ diàn huà lái le",
+    "translation": {
+      "zh": "刚才你打电话来了。",
+      "en": "You called just a moment ago."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "刚才",
+        "lemma": "刚才",
+        "ipa": "gāng cái",
+        "translation": {
+          "zh": "刚才",
+          "en": "just now / a moment ago"
+        },
+        "emoji": "⏱️"
+      },
+      {
+        "text": "你",
+        "lemma": "你",
+        "ipa": "nǐ",
+        "translation": {
+          "zh": "你",
+          "en": "you"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "打电话来了",
+        "lemma": "打电话来了",
+        "ipa": "dǎ diàn huà lái le",
+        "translation": {
+          "zh": "打电话来了",
+          "en": "called (phoned here)"
+        },
+        "emoji": "📞"
+      }
+    ]
+  },
+  {
+    "id": "1cd0d4d8-7810-4e0c-b0dd-61dac006ae97",
+    "text": "我刚才在洗澡，没听到。",
+    "ipa": "wǒ gāng cái zài xǐ zǎo méi tīng dào",
+    "translation": {
+      "zh": "我刚才在洗澡，没听到。",
+      "en": "I was taking a shower just now and didn't hear it."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我",
+        "lemma": "我",
+        "ipa": "wǒ",
+        "translation": {
+          "zh": "我",
+          "en": "I"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "刚才",
+        "lemma": "刚才",
+        "ipa": "gāng cái",
+        "translation": {
+          "zh": "刚才",
+          "en": "just now"
+        },
+        "emoji": "⏱️"
+      },
+      {
+        "text": "在洗澡",
+        "lemma": "在洗澡",
+        "ipa": "zài xǐ zǎo",
+        "translation": {
+          "zh": "在洗澡",
+          "en": "was taking a shower"
+        },
+        "emoji": "🚿"
+      },
+      {
+        "text": "没听到",
+        "lemma": "没听到",
+        "ipa": "méi tīng dào",
+        "translation": {
+          "zh": "没听到",
+          "en": "didn't hear"
+        },
+        "emoji": "🔇"
+      }
+    ]
+  },
+  {
+    "id": "73e1f495-9fe7-4888-9eee-f52114576ac8",
+    "text": "他个子很高，像打篮球的。",
+    "ipa": "tā gè zi hěn gāo xiàng dǎ lán qiú de",
+    "translation": {
+      "zh": "他个子很高，像打篮球的。",
+      "en": "He is very tall, like someone who plays basketball."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他",
+        "lemma": "他",
+        "ipa": "tā",
+        "translation": {
+          "zh": "他",
+          "en": "he"
+        },
+        "emoji": "🧑"
+      },
+      {
+        "text": "个子",
+        "lemma": "个子",
+        "ipa": "gè zi",
+        "translation": {
+          "zh": "个子",
+          "en": "height / stature"
+        },
+        "emoji": "📏"
+      },
+      {
+        "text": "很高",
+        "lemma": "很高",
+        "ipa": "hěn gāo",
+        "translation": {
+          "zh": "很高",
+          "en": "very tall"
+        },
+        "emoji": "⬆️"
+      },
+      {
+        "text": "像",
+        "lemma": "像",
+        "ipa": "xiàng",
+        "translation": {
+          "zh": "像",
+          "en": "like / resembles"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "打篮球的",
+        "lemma": "打篮球的",
+        "ipa": "dǎ lán qiú de",
+        "translation": {
+          "zh": "打篮球的",
+          "en": "someone who plays basketball"
+        },
+        "emoji": "🏀"
+      }
+    ]
+  },
+  {
+    "id": "8794df9c-903f-43cf-87b6-9609e316c61f",
+    "text": "她个子不高，但很有自信。",
+    "ipa": "tā gè zi bù gāo dàn hěn yǒu zì xìn",
+    "translation": {
+      "zh": "她个子不高，但很有自信。",
+      "en": "She is not tall, but she is very confident."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "她",
+        "lemma": "她",
+        "ipa": "tā",
+        "translation": {
+          "zh": "她",
+          "en": "she"
+        },
+        "emoji": "👩"
+      },
+      {
+        "text": "个子",
+        "lemma": "个子",
+        "ipa": "gè zi",
+        "translation": {
+          "zh": "个子",
+          "en": "height / stature"
+        },
+        "emoji": "📏"
+      },
+      {
+        "text": "不高",
+        "lemma": "不高",
+        "ipa": "bù gāo",
+        "translation": {
+          "zh": "不高",
+          "en": "not tall"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "但",
+        "lemma": "但",
+        "ipa": "dàn",
+        "translation": {
+          "zh": "但",
+          "en": "but"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "很有",
+        "lemma": "很有",
+        "ipa": "hěn yǒu",
+        "translation": {
+          "zh": "很有",
+          "en": "very much has"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "自信",
+        "lemma": "自信",
+        "ipa": "zì xìn",
+        "translation": {
+          "zh": "自信",
+          "en": "confidence / self-confidence"
+        },
+        "emoji": "💪"
+      }
+    ]
+  },
+  {
+    "id": "07bf0c4f-c6c3-4102-88ee-8dafedabacbe",
+    "text": "根据天气预报，明天会下雨。",
+    "ipa": "gēn jù tiān qì yù bào míng tiān huì xià yǔ",
+    "translation": {
+      "zh": "根据天气预报，明天会下雨。",
+      "en": "According to the weather forecast, it will rain tomorrow."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "根据",
+        "lemma": "根据",
+        "ipa": "gēn jù",
+        "translation": {
+          "zh": "根据",
+          "en": "according to / based on"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "天气预报",
+        "lemma": "天气预报",
+        "ipa": "tiān qì yù bào",
+        "translation": {
+          "zh": "天气预报",
+          "en": "weather forecast"
+        },
+        "emoji": "📻"
+      },
+      {
+        "text": "明天",
+        "lemma": "明天",
+        "ipa": "míng tiān",
+        "translation": {
+          "zh": "明天",
+          "en": "tomorrow"
+        },
+        "emoji": "📅"
+      },
+      {
+        "text": "会下雨",
+        "lemma": "会下雨",
+        "ipa": "huì xià yǔ",
+        "translation": {
+          "zh": "会下雨",
+          "en": "will rain"
+        },
+        "emoji": "🌧️"
+      }
+    ]
+  },
+  {
+    "id": "04681457-02ca-477c-b35e-a097c6f7d1d4",
+    "text": "根据他说的，事情不复杂。",
+    "ipa": "gēn jù tā shuō de shì qing bù fù zá",
+    "translation": {
+      "zh": "根据他说的，事情不复杂。",
+      "en": "According to what he said, the matter is not complicated."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "根据",
+        "lemma": "根据",
+        "ipa": "gēn jù",
+        "translation": {
+          "zh": "根据",
+          "en": "according to"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "他说的",
+        "lemma": "他说的",
+        "ipa": "tā shuō de",
+        "translation": {
+          "zh": "他说的",
+          "en": "what he said"
+        },
+        "emoji": "💬"
+      },
+      {
+        "text": "事情",
+        "lemma": "事情",
+        "ipa": "shì qing",
+        "translation": {
+          "zh": "事情",
+          "en": "the matter / the situation"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "不复杂",
+        "lemma": "不复杂",
+        "ipa": "bù fù zá",
+        "translation": {
+          "zh": "不复杂",
+          "en": "not complicated"
+        },
+        "emoji": "✅"
+      }
+    ]
+  },
+  {
+    "id": "5f9f70cf-f871-4296-b460-9b2daa91b151",
+    "text": "我跟朋友一起去看电影。",
+    "ipa": "wǒ gēn péng yǒu yī qǐ qù kàn diàn yǐng",
+    "translation": {
+      "zh": "我跟朋友一起去看电影。",
+      "en": "I went to watch a movie together with a friend."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我跟",
+        "lemma": "我跟",
+        "ipa": "wǒ gēn",
+        "translation": {
+          "zh": "我跟",
+          "en": "I and / together with me"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "朋友",
+        "lemma": "朋友",
+        "ipa": "péng yǒu",
+        "translation": {
+          "zh": "朋友",
+          "en": "friend"
+        },
+        "emoji": "👫"
+      },
+      {
+        "text": "一起去",
+        "lemma": "一起去",
+        "ipa": "yī qǐ qù",
+        "translation": {
+          "zh": "一起去",
+          "en": "go together"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "看电影",
+        "lemma": "看电影",
+        "ipa": "kàn diàn yǐng",
+        "translation": {
+          "zh": "看电影",
+          "en": "watch a movie"
+        },
+        "emoji": "🎬"
+      }
+    ]
+  },
+  {
+    "id": "d1cc4d21-09ff-4209-958b-9223dc0d8662",
+    "text": "他跟我说他要换工作了。",
+    "ipa": "tā gēn wǒ shuō tā yào huàn gōng zuò le",
+    "translation": {
+      "zh": "他跟我说他要换工作了。",
+      "en": "He told me he is going to change jobs."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他跟我",
+        "lemma": "他跟我",
+        "ipa": "tā gēn wǒ",
+        "translation": {
+          "zh": "他跟我",
+          "en": "he told me"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "说",
+        "lemma": "说",
+        "ipa": "shuō",
+        "translation": {
+          "zh": "说",
+          "en": "said / told"
+        },
+        "emoji": "💬"
+      },
+      {
+        "text": "他要",
+        "lemma": "他要",
+        "ipa": "tā yào",
+        "translation": {
+          "zh": "他要",
+          "en": "he is going to"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "换工作了",
+        "lemma": "换工作了",
+        "ipa": "huàn gōng zuò le",
+        "translation": {
+          "zh": "换工作了",
+          "en": "change jobs"
+        },
+        "emoji": "💼"
+      }
+    ]
+  },
+  {
+    "id": "a5a8e82e-3298-4441-9214-c7343c5b552d",
+    "text": "他一个月减了三公斤。",
+    "ipa": "tā yī gè yuè jiǎn le sān gōng jīn",
+    "translation": {
+      "zh": "他一个月减了三公斤。",
+      "en": "He lost three kilograms in one month."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他",
+        "lemma": "他",
+        "ipa": "tā",
+        "translation": {
+          "zh": "他",
+          "en": "he"
+        },
+        "emoji": "🧑"
+      },
+      {
+        "text": "一个月",
+        "lemma": "一个月",
+        "ipa": "yī gè yuè",
+        "translation": {
+          "zh": "一个月",
+          "en": "one month"
+        },
+        "emoji": "📅"
+      },
+      {
+        "text": "减了",
+        "lemma": "减了",
+        "ipa": "jiǎn le",
+        "translation": {
+          "zh": "减了",
+          "en": "lost / reduced"
+        },
+        "emoji": "📉"
+      },
+      {
+        "text": "三公斤",
+        "lemma": "三公斤",
+        "ipa": "sān gōng jīn",
+        "translation": {
+          "zh": "三公斤",
+          "en": "three kilograms"
+        },
+        "emoji": "⚖️"
+      }
+    ]
+  },
+  {
+    "id": "0a782091-96ef-46b3-8816-c2860e4dc069",
+    "text": "这箱水果有五公斤。",
+    "ipa": "zhè xiāng shuǐ guǒ yǒu wǔ gōng jīn",
+    "translation": {
+      "zh": "这箱水果有五公斤。",
+      "en": "This box of fruit weighs five kilograms."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这箱",
+        "lemma": "这箱",
+        "ipa": "zhè xiāng",
+        "translation": {
+          "zh": "这箱",
+          "en": "this box of"
+        },
+        "emoji": "📦"
+      },
+      {
+        "text": "水果",
+        "lemma": "水果",
+        "ipa": "shuǐ guǒ",
+        "translation": {
+          "zh": "水果",
+          "en": "fruit"
+        },
+        "emoji": "🍎"
+      },
+      {
+        "text": "有",
+        "lemma": "有",
+        "ipa": "yǒu",
+        "translation": {
+          "zh": "有",
+          "en": "has / weighs"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "五公斤",
+        "lemma": "五公斤",
+        "ipa": "wǔ gōng jīn",
+        "translation": {
+          "zh": "五公斤",
+          "en": "five kilograms"
+        },
+        "emoji": "⚖️"
+      }
+    ]
+  },
+  {
+    "id": "af8f420e-abe2-46f7-8e9d-a6faf0b4967a",
+    "text": "我们周末去公园散步吧。",
+    "ipa": "wǒ men zhōu mò qù gōng yuán sàn bù ba",
+    "translation": {
+      "zh": "我们周末去公园散步吧。",
+      "en": "Let's go for a walk in the park this weekend."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我们",
+        "lemma": "我们",
+        "ipa": "wǒ men",
+        "translation": {
+          "zh": "我们",
+          "en": "we"
+        },
+        "emoji": "👥"
+      },
+      {
+        "text": "周末",
+        "lemma": "周末",
+        "ipa": "zhōu mò",
+        "translation": {
+          "zh": "周末",
+          "en": "weekend"
+        },
+        "emoji": "📅"
+      },
+      {
+        "text": "去公园",
+        "lemma": "去公园",
+        "ipa": "qù gōng yuán",
+        "translation": {
+          "zh": "去公园",
+          "en": "go to the park"
+        },
+        "emoji": "🌳"
+      },
+      {
+        "text": "散步吧",
+        "lemma": "散步吧",
+        "ipa": "sàn bù ba",
+        "translation": {
+          "zh": "散步吧",
+          "en": "take a walk, shall we"
+        },
+        "emoji": "🚶"
+      }
+    ]
+  },
+  {
+    "id": "715f5c6d-81f3-4a52-9821-094dba1f40c6",
+    "text": "附近的公园早上有很多人。",
+    "ipa": "fù jìn de gōng yuán zǎo shang yǒu hěn duō rén",
+    "translation": {
+      "zh": "附近的公园早上有很多人。",
+      "en": "The nearby park has a lot of people in the morning."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "附近的",
+        "lemma": "附近的",
+        "ipa": "fù jìn de",
+        "translation": {
+          "zh": "附近的",
+          "en": "nearby / in the vicinity"
+        },
+        "emoji": "📍"
+      },
+      {
+        "text": "公园",
+        "lemma": "公园",
+        "ipa": "gōng yuán",
+        "translation": {
+          "zh": "公园",
+          "en": "park"
+        },
+        "emoji": "🌳"
+      },
+      {
+        "text": "早上",
+        "lemma": "早上",
+        "ipa": "zǎo shang",
+        "translation": {
+          "zh": "早上",
+          "en": "in the morning"
+        },
+        "emoji": "🌅"
+      },
+      {
+        "text": "有很多人",
+        "lemma": "有很多人",
+        "ipa": "yǒu hěn duō rén",
+        "translation": {
+          "zh": "有很多人",
+          "en": "has many people"
+        },
+        "emoji": "👥"
+      }
+    ]
+  },
+  {
+    "id": "8e2ea2ed-d932-4979-86b1-f104c83f1bc4",
+    "text": "妈妈每晚给孩子讲故事。",
+    "ipa": "mā ma měi wǎn gěi hái zi jiǎng gù shi",
+    "translation": {
+      "zh": "妈妈每晚给孩子讲故事。",
+      "en": "Mom tells the children a story every evening."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "妈妈",
+        "lemma": "妈妈",
+        "ipa": "mā ma",
+        "translation": {
+          "zh": "妈妈",
+          "en": "mom / mother"
+        },
+        "emoji": "👩"
+      },
+      {
+        "text": "每晚",
+        "lemma": "每晚",
+        "ipa": "měi wǎn",
+        "translation": {
+          "zh": "每晚",
+          "en": "every evening"
+        },
+        "emoji": "🌙"
+      },
+      {
+        "text": "给孩子",
+        "lemma": "给孩子",
+        "ipa": "gěi hái zi",
+        "translation": {
+          "zh": "给孩子",
+          "en": "to the child / for the children"
+        },
+        "emoji": "👦"
+      },
+      {
+        "text": "讲故事",
+        "lemma": "讲故事",
+        "ipa": "jiǎng gù shi",
+        "translation": {
+          "zh": "讲故事",
+          "en": "tell a story"
+        },
+        "emoji": "📖"
+      }
+    ]
+  },
+  {
+    "id": "9b426fb4-81c9-41f5-bd39-f3d35b8c6001",
+    "text": "这个故事让我很感动。",
+    "ipa": "zhè gè gù shi ràng wǒ hěn gǎn dòng",
+    "translation": {
+      "zh": "这个故事让我很感动。",
+      "en": "This story moved me deeply."
+    },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这个",
+        "lemma": "这个",
+        "ipa": "zhè gè",
+        "translation": {
+          "zh": "这个",
+          "en": "this"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "故事",
+        "lemma": "故事",
+        "ipa": "gù shi",
+        "translation": {
+          "zh": "故事",
+          "en": "story"
+        },
+        "emoji": "📖"
+      },
+      {
+        "text": "让我",
+        "lemma": "让我",
+        "ipa": "ràng wǒ",
+        "translation": {
+          "zh": "让我",
+          "en": "made me"
+        },
+        "emoji": ""
+      },
+      {
+        "text": "很感动",
+        "lemma": "很感动",
+        "ipa": "hěn gǎn dòng",
+        "translation": {
+          "zh": "很感动",
+          "en": "very moved / deeply touched"
+        },
+        "emoji": "🥹"
+      }
+    ]
+  }
+]

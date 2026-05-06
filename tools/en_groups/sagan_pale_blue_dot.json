@@ -1,0 +1,85 @@
+[
+  {
+    "text": "Look again at that dot.",
+    "ipa": "lʊk əˈɡɛn æt ðæt dɒt",
+    "translation": {"zh": "再看那个小点。"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Look again", "lemma": "look", "ipa": "lʊk əˈɡɛn", "translation": {"zh": "再看"}, "emoji": "👀"},
+      {"text": "at that dot", "lemma": "dot", "ipa": "æt ðæt dɒt", "translation": {"zh": "那个点"}, "emoji": "•"}
+    ],
+    "tags": [{"name": "Pale Blue Dot", "index": 1}]
+  },
+  {
+    "text": "That's here.",
+    "ipa": "ðæts hɪər",
+    "translation": {"zh": "那就是这里。"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "That's here", "lemma": "here", "ipa": "ðæts hɪər", "translation": {"zh": "就是这里"}, "emoji": "📍"}
+    ],
+    "tags": [{"name": "Pale Blue Dot", "index": 2}]
+  },
+  {
+    "text": "That's home.",
+    "ipa": "ðæts hoʊm",
+    "translation": {"zh": "那就是家园。"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "That's home", "lemma": "home", "ipa": "ðæts hoʊm", "translation": {"zh": "就是家园"}, "emoji": "🏠"}
+    ],
+    "tags": [{"name": "Pale Blue Dot", "index": 3}]
+  },
+  {
+    "text": "That's us.",
+    "ipa": "ðæts ʌs",
+    "translation": {"zh": "那就是我们。"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "That's us", "lemma": "us", "ipa": "ðæts ʌs", "translation": {"zh": "就是我们"}, "emoji": "👥"}
+    ],
+    "tags": [{"name": "Pale Blue Dot", "index": 4}]
+  },
+  {
+    "text": "On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives.",
+    "ipa": "ɒn ɪt ˈɛvriwʌn juː lʌv ˈɛvriwʌn juː noʊ ˈɛvriwʌn juː ˈɛvər hɜːrd ʌv ˈɛvri ˈhjuːmən ˈbiːɪŋ huː ˈɛvər wɒz lɪvd aʊt ðɛər laɪvz",
+    "translation": {"zh": "在它上面，你爱的每个人、你认识的每个人、你听说过的每个人、所有曾经存在过的人，都在那里度过了一生。"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "On it", "lemma": "on", "ipa": "ɒn ɪt", "translation": {"zh": "在它上面"}, "emoji": "🌐"},
+      {"text": "everyone you love", "lemma": "love", "ipa": "ˈɛvriwʌn juː lʌv", "translation": {"zh": "你爱的人"}, "emoji": "❤️"},
+      {"text": "everyone you know", "lemma": "know", "ipa": "ˈɛvriwʌn juː noʊ", "translation": {"zh": "你认识的人"}, "emoji": "🤝"},
+      {"text": "everyone you ever heard of", "lemma": "hear", "ipa": "ˈɛvriwʌn juː ˈɛvər hɜːrd ʌv", "translation": {"zh": "你听说过的人"}, "emoji": "👂"},
+      {"text": "every human being who ever was", "lemma": "human", "ipa": "ˈɛvri ˈhjuːmən ˈbiːɪŋ huː ˈɛvər wɒz", "translation": {"zh": "所有人类"}, "emoji": "🧑"},
+      {"text": "lived out their lives", "lemma": "live", "ipa": "lɪvd aʊt ðɛər laɪvz", "translation": {"zh": "度过一生"}, "emoji": "🌱"}
+    ],
+    "tags": [{"name": "Pale Blue Dot", "index": 5}]
+  },
+  {
+    "text": "Every saint and sinner in the history of our species lived there.",
+    "ipa": "ˈɛvri seɪnt ænd ˈsɪnər ɪn ðə ˈhɪstəri ʌv ˈaʊər ˈspiːʃiːz lɪvd ðɛər",
+    "translation": {"zh": "我们物种历史上的每一位圣人和罪人都曾住在那里。"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Every saint", "lemma": "saint", "ipa": "ˈɛvri seɪnt", "translation": {"zh": "每位圣人"}, "emoji": "😇"},
+      {"text": "and sinner", "lemma": "sinner", "ipa": "ænd ˈsɪnər", "translation": {"zh": "和罪人"}, "emoji": "😈"},
+      {"text": "in the history", "lemma": "history", "ipa": "ɪn ðə ˈhɪstəri", "translation": {"zh": "在历史上"}, "emoji": "📜"},
+      {"text": "of our species", "lemma": "species", "ipa": "ʌv ˈaʊər ˈspiːʃiːz", "translation": {"zh": "我们物种的"}, "emoji": "🧬"},
+      {"text": "lived there", "lemma": "live", "ipa": "lɪvd ðɛər", "translation": {"zh": "住在那里"}, "emoji": "🏘️"}
+    ],
+    "tags": [{"name": "Pale Blue Dot", "index": 6}]
+  },
+  {
+    "text": "On a mote of dust suspended in a sunbeam.",
+    "ipa": "ɒn ə moʊt ʌv dʌst səˈspɛndɪd ɪn ə ˈsʌnbiːm",
+    "translation": {"zh": "在一束阳光中悬浮的一粒尘埃上。"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "On a mote", "lemma": "mote", "ipa": "ɒn ə moʊt", "translation": {"zh": "在一粒上"}, "emoji": "·"},
+      {"text": "of dust", "lemma": "dust", "ipa": "ʌv dʌst", "translation": {"zh": "尘埃的"}, "emoji": "💨"},
+      {"text": "suspended", "lemma": "suspend", "ipa": "səˈspɛndɪd", "translation": {"zh": "悬浮的"}, "emoji": "🪶"},
+      {"text": "in a sunbeam", "lemma": "sunbeam", "ipa": "ɪn ə ˈsʌnbiːm", "translation": {"zh": "在阳光中"}, "emoji": "🌞"}
+    ],
+    "tags": [{"name": "Pale Blue Dot", "index": 7}]
+  }
+]

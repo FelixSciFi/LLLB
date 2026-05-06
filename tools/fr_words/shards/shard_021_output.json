@@ -1,0 +1,286 @@
+[
+  {
+    "text": "une opération",
+    "ipa": "yn ɔpeʁasjɔ̃",
+    "translation": {"zh": "一次手术／运算", "en": "an operation"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une opération", "lemma": "opération", "ipa": "yn ɔpeʁasjɔ̃", "translation": {"zh": "手术/运算", "en": "operation"}, "emoji": "🔢"}
+    ]
+  },
+  {
+    "text": "mon cousin",
+    "ipa": "mɔ̃ kuzɛ̃",
+    "translation": {"zh": "我的表哥", "en": "my cousin"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "mon cousin", "lemma": "cousin", "ipa": "mɔ̃ kuzɛ̃", "translation": {"zh": "表哥/表弟", "en": "cousin"}, "emoji": "👦"}
+    ]
+  },
+  {
+    "text": "avoir conscience",
+    "ipa": "avwaʁ kɔ̃sjɑ̃s",
+    "translation": {"zh": "有意识", "en": "to be aware"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "avoir conscience", "lemma": "avoir conscience", "ipa": "avwaʁ kɔ̃sjɑ̃s", "translation": {"zh": "意识到", "en": "be aware"}, "emoji": "🧠"}
+    ]
+  },
+  {
+    "text": "parler fort",
+    "ipa": "paʁle fɔʁ",
+    "translation": {"zh": "大声说话", "en": "speak loudly"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "parler fort", "lemma": "parler fort", "ipa": "paʁle fɔʁ", "translation": {"zh": "大声说话", "en": "speak loudly"}, "emoji": "📢"}
+    ]
+  },
+  {
+    "text": "africain",
+    "ipa": "afʁikɛ̃",
+    "translation": {"zh": "非洲的", "en": "African"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "africain", "lemma": "africain", "ipa": "afʁikɛ̃", "translation": {"zh": "非洲的", "en": "African"}, "emoji": "🌍"}
+    ]
+  },
+  {
+    "text": "modifier un fichier",
+    "ipa": "mɔdifje œ̃ fiʃje",
+    "translation": {"zh": "修改一个文件", "en": "edit a file"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "modifier", "lemma": "modifier", "ipa": "mɔdifje", "translation": {"zh": "修改", "en": "modify"}, "emoji": "✏️"},
+      {"text": "un fichier", "lemma": "fichier", "ipa": "œ̃ fiʃje", "translation": {"zh": "文件", "en": "file"}, "emoji": "📄"}
+    ]
+  },
+  {
+    "text": "admirer le paysage",
+    "ipa": "admiʁe lə pejzaʒ",
+    "translation": {"zh": "欣赏风景", "en": "admire the scenery"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "admirer", "lemma": "admirer", "ipa": "admiʁe", "translation": {"zh": "欣赏", "en": "admire"}, "emoji": "😍"},
+      {"text": "le paysage", "lemma": "paysage", "ipa": "lə pejzaʒ", "translation": {"zh": "风景", "en": "scenery"}, "emoji": "🏞️"}
+    ]
+  },
+  {
+    "text": "en revanche",
+    "ipa": "ɑ̃ ʁəvɑ̃ʃ",
+    "translation": {"zh": "相反地", "en": "on the other hand"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "en revanche", "lemma": "revanche", "ipa": "ɑ̃ ʁəvɑ̃ʃ", "translation": {"zh": "相反/作为补偿", "en": "on the other hand"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "c'est important",
+    "ipa": "sɛ tɛ̃pɔʁtɑ̃",
+    "translation": {"zh": "这很重要", "en": "it's important"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est important", "lemma": "importance", "ipa": "sɛ tɛ̃pɔʁtɑ̃", "translation": {"zh": "重要", "en": "important"}, "emoji": "⭐"}
+    ]
+  },
+  {
+    "text": "les prix diminuent",
+    "ipa": "le pʁi diminɥ",
+    "translation": {"zh": "价格在降低", "en": "prices are falling"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "les prix", "lemma": "prix", "ipa": "le pʁi", "translation": {"zh": "价格", "en": "prices"}, "emoji": "💰"},
+      {"text": "diminuent", "lemma": "diminuer", "ipa": "diminɥ", "translation": {"zh": "降低", "en": "decrease"}, "emoji": "📉"}
+    ]
+  },
+  {
+    "text": "accorder de l'importance",
+    "ipa": "akɔʁde də lɛ̃pɔʁtɑ̃s",
+    "translation": {"zh": "重视", "en": "attach importance"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "accorder", "lemma": "accorder", "ipa": "akɔʁde", "translation": {"zh": "给予/赋予", "en": "grant"}, "emoji": "🤝"},
+      {"text": "de l'importance", "lemma": "importance", "ipa": "də lɛ̃pɔʁtɑ̃s", "translation": {"zh": "重要性", "en": "importance"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le prince",
+    "ipa": "lə pʁɛ̃s",
+    "translation": {"zh": "王子", "en": "the prince"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le prince", "lemma": "prince", "ipa": "lə pʁɛ̃s", "translation": {"zh": "王子", "en": "prince"}, "emoji": "🤴"}
+    ]
+  },
+  {
+    "text": "amener un ami",
+    "ipa": "amne œ̃ nami",
+    "translation": {"zh": "带一个朋友来", "en": "bring a friend"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "amener", "lemma": "amener", "ipa": "amne", "translation": {"zh": "带来", "en": "bring"}, "emoji": ""},
+      {"text": "un ami", "lemma": "ami", "ipa": "œ̃ nami", "translation": {"zh": "朋友", "en": "friend"}, "emoji": "👫"}
+    ]
+  },
+  {
+    "text": "les cheveux blonds",
+    "ipa": "le ʃəvø blɔ̃",
+    "translation": {"zh": "金色的头发", "en": "blond hair"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "les cheveux", "lemma": "cheveu", "ipa": "le ʃəvø", "translation": {"zh": "头发", "en": "hair"}, "emoji": "💇"},
+      {"text": "blonds", "lemma": "blond", "ipa": "blɔ̃", "translation": {"zh": "金色的", "en": "blond"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une épée",
+    "ipa": "yn epe",
+    "translation": {"zh": "一把剑", "en": "a sword"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une épée", "lemma": "épée", "ipa": "yn epe", "translation": {"zh": "剑", "en": "sword"}, "emoji": "⚔️"}
+    ]
+  },
+  {
+    "text": "une bande de copains",
+    "ipa": "yn bɑ̃d də kɔpɛ̃",
+    "translation": {"zh": "一帮朋友", "en": "a group of friends"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une bande", "lemma": "bande", "ipa": "yn bɑ̃d", "translation": {"zh": "一帮/一群", "en": "group"}, "emoji": "👥"},
+      {"text": "de copains", "lemma": "copain", "ipa": "də kɔpɛ̃", "translation": {"zh": "朋友们", "en": "friends"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "je suppose",
+    "ipa": "ʒə sypoz",
+    "translation": {"zh": "我猜想", "en": "I suppose"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "je suppose", "lemma": "supposer", "ipa": "ʒə sypoz", "translation": {"zh": "猜想/假设", "en": "suppose"}, "emoji": "🤔"}
+    ]
+  },
+  {
+    "text": "une annonce",
+    "ipa": "yn anɔ̃s",
+    "translation": {"zh": "一则公告", "en": "an announcement"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une annonce", "lemma": "annonce", "ipa": "yn anɔ̃s", "translation": {"zh": "公告/广告", "en": "announcement"}, "emoji": "📢"}
+    ]
+  },
+  {
+    "text": "louer un appartement",
+    "ipa": "lwe œ̃ napaʁtəmɑ̃",
+    "translation": {"zh": "租一套公寓", "en": "rent an apartment"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "louer", "lemma": "louer", "ipa": "lwe", "translation": {"zh": "租/出租", "en": "rent"}, "emoji": "🏠"},
+      {"text": "un appartement", "lemma": "appartement", "ipa": "œ̃ napaʁtəmɑ̃", "translation": {"zh": "公寓", "en": "apartment"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "destiné à",
+    "ipa": "dɛstine a",
+    "translation": {"zh": "专为…设计的", "en": "meant for"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "destiné à", "lemma": "destiner", "ipa": "dɛstine a", "translation": {"zh": "专为…的", "en": "destined for"}, "emoji": "🎯"}
+    ]
+  },
+  {
+    "text": "se précipiter vers la sortie",
+    "ipa": "sə pʁesipite vɛʁ la sɔʁti",
+    "translation": {"zh": "向出口冲去", "en": "rush towards the exit"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "se précipiter", "lemma": "précipiter", "ipa": "sə pʁesipite", "translation": {"zh": "冲向/猛扑", "en": "rush"}, "emoji": "🏃"},
+      {"text": "vers la sortie", "lemma": "sortie", "ipa": "vɛʁ la sɔʁti", "translation": {"zh": "出口", "en": "exit"}, "emoji": "🚪"}
+    ]
+  },
+  {
+    "text": "un outil",
+    "ipa": "œ̃ nuti",
+    "translation": {"zh": "一件工具", "en": "a tool"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un outil", "lemma": "outil", "ipa": "œ̃ nuti", "translation": {"zh": "工具", "en": "tool"}, "emoji": "🔧"}
+    ]
+  },
+  {
+    "text": "les cheveux bruns",
+    "ipa": "le ʃəvø bʁœ̃",
+    "translation": {"zh": "棕色的头发", "en": "brown hair"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "les cheveux", "lemma": "cheveu", "ipa": "le ʃəvø", "translation": {"zh": "头发", "en": "hair"}, "emoji": "💇"},
+      {"text": "bruns", "lemma": "brun", "ipa": "bʁœ̃", "translation": {"zh": "棕色的", "en": "brown"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "au lycée",
+    "ipa": "o lise",
+    "translation": {"zh": "在高中", "en": "at high school"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "au lycée", "lemma": "lycée", "ipa": "o lise", "translation": {"zh": "高中", "en": "high school"}, "emoji": "🏫"}
+    ]
+  },
+  {
+    "text": "un institut de beauté",
+    "ipa": "œ̃ nɛ̃stity də bote",
+    "translation": {"zh": "一家美容院", "en": "a beauty institute"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un institut", "lemma": "institut", "ipa": "œ̃ nɛ̃stity", "translation": {"zh": "学院/机构", "en": "institute"}, "emoji": "🏛️"},
+      {"text": "de beauté", "lemma": "beauté", "ipa": "də bote", "translation": {"zh": "美丽/美容", "en": "beauty"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un projet artistique",
+    "ipa": "œ̃ pʁɔʒɛ aʁtistik",
+    "translation": {"zh": "一个艺术项目", "en": "an artistic project"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un projet", "lemma": "projet", "ipa": "œ̃ pʁɔʒɛ", "translation": {"zh": "项目", "en": "project"}, "emoji": ""},
+      {"text": "artistique", "lemma": "artistique", "ipa": "aʁtistik", "translation": {"zh": "艺术的", "en": "artistic"}, "emoji": "🎨"}
+    ]
+  },
+  {
+    "text": "le secteur financier",
+    "ipa": "lə sɛktœʁ finɑ̃sje",
+    "translation": {"zh": "金融业", "en": "the financial sector"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le secteur", "lemma": "secteur", "ipa": "lə sɛktœʁ", "translation": {"zh": "行业/部门", "en": "sector"}, "emoji": ""},
+      {"text": "financier", "lemma": "financier", "ipa": "finɑ̃sje", "translation": {"zh": "金融的", "en": "financial"}, "emoji": "💹"}
+    ]
+  },
+  {
+    "text": "autrefois",
+    "ipa": "otʁəfwa",
+    "translation": {"zh": "从前", "en": "in the past"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "autrefois", "lemma": "autrefois", "ipa": "otʁəfwa", "translation": {"zh": "从前", "en": "in the past"}, "emoji": "⏳"}
+    ]
+  },
+  {
+    "text": "en savoir davantage",
+    "ipa": "ɑ̃ savwaʁ davɑ̃taʒ",
+    "translation": {"zh": "了解更多", "en": "learn more"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "en savoir", "lemma": "savoir", "ipa": "ɑ̃ savwaʁ", "translation": {"zh": "了解", "en": "know"}, "emoji": ""},
+      {"text": "davantage", "lemma": "davantage", "ipa": "davɑ̃taʒ", "translation": {"zh": "更多", "en": "more"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le toit",
+    "ipa": "lə twa",
+    "translation": {"zh": "屋顶", "en": "the roof"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le toit", "lemma": "toit", "ipa": "lə twa", "translation": {"zh": "屋顶", "en": "roof"}, "emoji": "🏠"}
+    ]
+  }
+]

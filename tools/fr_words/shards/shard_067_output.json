@@ -1,0 +1,273 @@
+[
+  {
+    "text": "mérite",
+    "ipa": "meʁit",
+    "translation": {"zh": "功绩", "en": "merit"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "mérite", "lemma": "mérite", "ipa": "meʁit", "translation": {"zh": "功绩，优点", "en": "merit"}, "emoji": "🏅"}
+    ]
+  },
+  {
+    "text": "la signification",
+    "ipa": "la siɲifikasjɔ̃",
+    "translation": {"zh": "含义", "en": "meaning"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la signification", "lemma": "signification", "ipa": "la siɲifikasjɔ̃", "translation": {"zh": "含义，意义", "en": "meaning"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "allier qualité et prix",
+    "ipa": "alje kalite e pʁi",
+    "translation": {"zh": "兼顾质量与价格", "en": "combine quality and price"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "allier qualité", "lemma": "allier", "ipa": "alje kalite", "translation": {"zh": "结合质量", "en": "combine quality"}, "emoji": "🔗"},
+      {"text": "et prix", "lemma": "prix", "ipa": "e pʁi", "translation": {"zh": "和价格", "en": "and price"}, "emoji": "💰"}
+    ]
+  },
+  {
+    "text": "nettement mieux",
+    "ipa": "nɛtmɑ̃ mjø",
+    "translation": {"zh": "明显更好", "en": "clearly better"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "nettement mieux", "lemma": "nettement", "ipa": "nɛtmɑ̃ mjø", "translation": {"zh": "明显更好", "en": "clearly better"}, "emoji": "✅"}
+    ]
+  },
+  {
+    "text": "un réseau routier",
+    "ipa": "œ̃ ʁezo ʁutje",
+    "translation": {"zh": "公路网", "en": "road network"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un réseau routier", "lemma": "routier", "ipa": "œ̃ ʁezo ʁutje", "translation": {"zh": "公路网", "en": "road network"}, "emoji": "🛣️"}
+    ]
+  },
+  {
+    "text": "négocier un accord",
+    "ipa": "neɡɔsje œ̃n‿akoʁ",
+    "translation": {"zh": "谈判达成协议", "en": "negotiate an agreement"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "négocier un accord", "lemma": "négocier", "ipa": "neɡɔsje œ̃n‿akoʁ", "translation": {"zh": "谈判协议", "en": "negotiate an agreement"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "une barque",
+    "ipa": "yn baʁk",
+    "translation": {"zh": "小船", "en": "small boat"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une barque", "lemma": "barque", "ipa": "yn baʁk", "translation": {"zh": "小船", "en": "small boat"}, "emoji": "🚣"}
+    ]
+  },
+  {
+    "text": "en version définitive",
+    "ipa": "ɑ̃ vɛʁsjɔ̃ definitiv",
+    "translation": {"zh": "终版", "en": "final version"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "en version définitive", "lemma": "définitif", "ipa": "ɑ̃ vɛʁsjɔ̃ definitiv", "translation": {"zh": "最终版本", "en": "final version"}, "emoji": "📌"}
+    ]
+  },
+  {
+    "text": "la bourse",
+    "ipa": "la buʁs",
+    "translation": {"zh": "股票交易所", "en": "stock exchange"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la bourse", "lemma": "bourse", "ipa": "la buʁs", "translation": {"zh": "证券交易所", "en": "stock exchange"}, "emoji": "📈"}
+    ]
+  },
+  {
+    "text": "un brevet d'invention",
+    "ipa": "œ̃ bʁəvɛ dɛ̃vɑ̃sjɔ̃",
+    "translation": {"zh": "发明专利", "en": "invention patent"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un brevet d'invention", "lemma": "brevet", "ipa": "œ̃ bʁəvɛ dɛ̃vɑ̃sjɔ̃", "translation": {"zh": "发明专利", "en": "invention patent"}, "emoji": "📜"}
+    ]
+  },
+  {
+    "text": "la clientèle",
+    "ipa": "la kljɑ̃tɛl",
+    "translation": {"zh": "客户群", "en": "clientele"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la clientèle", "lemma": "clientèle", "ipa": "la kljɑ̃tɛl", "translation": {"zh": "顾客群", "en": "clientele"}, "emoji": "👥"}
+    ]
+  },
+  {
+    "text": "un os",
+    "ipa": "œ̃n‿os",
+    "translation": {"zh": "骨头", "en": "bone"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un os", "lemma": "os", "ipa": "œ̃n‿os", "translation": {"zh": "骨头", "en": "bone"}, "emoji": "🦴"}
+    ]
+  },
+  {
+    "text": "la coupole",
+    "ipa": "la kupɔl",
+    "translation": {"zh": "穹顶", "en": "dome"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la coupole", "lemma": "coupole", "ipa": "la kupɔl", "translation": {"zh": "圆顶，穹顶", "en": "dome"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "le monde anglo-saxon",
+    "ipa": "lə mɔ̃d ɑ̃ɡlosaksɔ̃",
+    "translation": {"zh": "英语世界", "en": "the Anglo-Saxon world"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le monde anglo-saxon", "lemma": "anglo-saxon", "ipa": "lə mɔ̃d ɑ̃ɡlosaksɔ̃", "translation": {"zh": "英语世界", "en": "Anglo-Saxon world"}, "emoji": "🌍"}
+    ]
+  },
+  {
+    "text": "bénéficier d'une aide",
+    "ipa": "benefisje dyn‿ɛd",
+    "translation": {"zh": "享受补助", "en": "benefit from aid"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "bénéficier d'une aide", "lemma": "bénéficier", "ipa": "benefisje dyn‿ɛd", "translation": {"zh": "享受援助", "en": "benefit from aid"}, "emoji": "🎁"}
+    ]
+  },
+  {
+    "text": "se déguiser en pirate",
+    "ipa": "sə deɡize ɑ̃ piʁat",
+    "translation": {"zh": "装扮成海盗", "en": "dress up as a pirate"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "se déguiser en pirate", "lemma": "déguiser", "ipa": "sə deɡize ɑ̃ piʁat", "translation": {"zh": "装扮成海盗", "en": "dress up as a pirate"}, "emoji": "🏴‍☠️"}
+    ]
+  },
+  {
+    "text": "gâcher une occasion",
+    "ipa": "ɡɑʃe yn‿okazjɔ̃",
+    "translation": {"zh": "错过机会", "en": "waste an opportunity"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "gâcher une occasion", "lemma": "gâcher", "ipa": "ɡɑʃe yn‿okazjɔ̃", "translation": {"zh": "浪费机会", "en": "waste an opportunity"}, "emoji": "😤"}
+    ]
+  },
+  {
+    "text": "promouvoir un produit",
+    "ipa": "pʁomuvwaʁ œ̃ pʁodɥi",
+    "translation": {"zh": "推广产品", "en": "promote a product"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "promouvoir un produit", "lemma": "promouvoir", "ipa": "pʁomuvwaʁ œ̃ pʁodɥi", "translation": {"zh": "推广产品", "en": "promote a product"}, "emoji": "📣"}
+    ]
+  },
+  {
+    "text": "insulter quelqu'un",
+    "ipa": "ɛ̃sylte kɛlkœ̃",
+    "translation": {"zh": "侮辱某人", "en": "insult someone"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "insulter quelqu'un", "lemma": "insulter", "ipa": "ɛ̃sylte kɛlkœ̃", "translation": {"zh": "侮辱某人", "en": "insult someone"}, "emoji": "😡"}
+    ]
+  },
+  {
+    "text": "un poil de chat",
+    "ipa": "œ̃ pwal də ʃa",
+    "translation": {"zh": "猫毛", "en": "cat hair"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un poil de chat", "lemma": "poil", "ipa": "œ̃ pwal də ʃa", "translation": {"zh": "猫毛", "en": "cat hair"}, "emoji": "🐱"}
+    ]
+  },
+  {
+    "text": "une gamme de produits",
+    "ipa": "yn ɡam də pʁodɥi",
+    "translation": {"zh": "产品系列", "en": "product range"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une gamme de produits", "lemma": "gamme", "ipa": "yn ɡam də pʁodɥi", "translation": {"zh": "产品系列", "en": "product range"}, "emoji": "🗂️"}
+    ]
+  },
+  {
+    "text": "le secteur agricole",
+    "ipa": "lə sɛktœʁ aɡʁikɔl",
+    "translation": {"zh": "农业部门", "en": "agricultural sector"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le secteur agricole", "lemma": "agricole", "ipa": "lə sɛktœʁ aɡʁikɔl", "translation": {"zh": "农业部门", "en": "agricultural sector"}, "emoji": "🌾"}
+    ]
+  },
+  {
+    "text": "un appel téléphonique",
+    "ipa": "œ̃n‿apɛl telefonik",
+    "translation": {"zh": "电话通话", "en": "phone call"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un appel téléphonique", "lemma": "téléphonique", "ipa": "œ̃n‿apɛl telefonik", "translation": {"zh": "电话通话", "en": "phone call"}, "emoji": "📞"}
+    ]
+  },
+  {
+    "text": "parler librement",
+    "ipa": "paʁle libʁəmɑ̃",
+    "translation": {"zh": "自由发言", "en": "speak freely"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "parler librement", "lemma": "librement", "ipa": "paʁle libʁəmɑ̃", "translation": {"zh": "自由地说", "en": "speak freely"}, "emoji": "🗣️"}
+    ]
+  },
+  {
+    "text": "empoisonner quelqu'un",
+    "ipa": "ɑ̃pwazɔne kɛlkœ̃",
+    "translation": {"zh": "毒害某人", "en": "poison someone"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "empoisonner quelqu'un", "lemma": "empoisonner", "ipa": "ɑ̃pwazɔne kɛlkœ̃", "translation": {"zh": "毒害某人", "en": "poison someone"}, "emoji": "☠️"}
+    ]
+  },
+  {
+    "text": "le pic de la montagne",
+    "ipa": "lə pik də la mɔ̃taɲ",
+    "translation": {"zh": "山顶", "en": "mountain peak"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le pic de la montagne", "lemma": "pic", "ipa": "lə pik də la mɔ̃taɲ", "translation": {"zh": "山顶山峰", "en": "mountain peak"}, "emoji": "⛰️"}
+    ]
+  },
+  {
+    "text": "pas grand-chose",
+    "ipa": "pa ɡʁɑ̃ʃoz",
+    "translation": {"zh": "没什么", "en": "not much"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "pas grand-chose", "lemma": "grand-chose", "ipa": "pa ɡʁɑ̃ʃoz", "translation": {"zh": "没什么", "en": "not much"}, "emoji": "🤷"}
+    ]
+  },
+  {
+    "text": "un fonctionnaire",
+    "ipa": "œ̃ fɔ̃ksjɔnɛʁ",
+    "translation": {"zh": "公务员", "en": "civil servant"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un fonctionnaire", "lemma": "fonctionnaire", "ipa": "œ̃ fɔ̃ksjɔnɛʁ", "translation": {"zh": "公务员", "en": "civil servant"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "une plantation de café",
+    "ipa": "yn plɑ̃tasjɔ̃ də kafe",
+    "translation": {"zh": "咖啡种植园", "en": "coffee plantation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une plantation de café", "lemma": "plantation", "ipa": "yn plɑ̃tasjɔ̃ də kafe", "translation": {"zh": "咖啡种植园", "en": "coffee plantation"}, "emoji": "☕"}
+    ]
+  },
+  {
+    "text": "se mouiller les pieds",
+    "ipa": "sə muje le pje",
+    "translation": {"zh": "弄湿脚", "en": "get one's feet wet"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "se mouiller les pieds", "lemma": "mouiller", "ipa": "sə muje le pje", "translation": {"zh": "弄湿脚", "en": "get feet wet"}, "emoji": "💧"}
+    ]
+  }
+]

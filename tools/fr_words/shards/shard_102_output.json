@@ -1,0 +1,282 @@
+[
+  {
+    "text": "socialiste",
+    "ipa": "sɔsjalist",
+    "translation": {"zh": "社会主义者", "en": "socialist"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "socialiste", "lemma": "socialiste", "ipa": "sɔsjalist", "translation": {"zh": "社会主义者", "en": "socialist"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "orner une salle",
+    "ipa": "ɔʁne yn sal",
+    "translation": {"zh": "装饰大厅", "en": "decorate a hall"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "orner", "lemma": "orner", "ipa": "ɔʁne", "translation": {"zh": "装饰", "en": "decorate"}, "emoji": ""},
+      {"text": "une salle", "lemma": "salle", "ipa": "yn sal", "translation": {"zh": "一个大厅", "en": "a hall"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "quasi impossible",
+    "ipa": "kazi ɛ̃pɔsibl",
+    "translation": {"zh": "几乎不可能", "en": "nearly impossible"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "quasi impossible", "lemma": "impossible", "ipa": "kazi ɛ̃pɔsibl", "translation": {"zh": "几乎不可能", "en": "nearly impossible"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "effrayant",
+    "ipa": "efʁɛjɑ̃",
+    "translation": {"zh": "令人恐惧的", "en": "frightening"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "effrayant", "lemma": "effrayant", "ipa": "efʁɛjɑ̃", "translation": {"zh": "令人恐惧的", "en": "frightening"}, "emoji": "😨"}
+    ]
+  },
+  {
+    "text": "communautaire",
+    "ipa": "kɔmynotɛʁ",
+    "translation": {"zh": "社区的", "en": "community"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "communautaire", "lemma": "communautaire", "ipa": "kɔmynotɛʁ", "translation": {"zh": "社区的", "en": "community"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "rentable",
+    "ipa": "ʁɑ̃tabl",
+    "translation": {"zh": "有利可图的", "en": "profitable"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "rentable", "lemma": "rentable", "ipa": "ʁɑ̃tabl", "translation": {"zh": "有利可图的", "en": "profitable"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "au ciné",
+    "ipa": "o sine",
+    "translation": {"zh": "去电影院", "en": "at the cinema"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "au ciné", "lemma": "ciné", "ipa": "o sine", "translation": {"zh": "去电影院", "en": "at the cinema"}, "emoji": "🎬"}
+    ]
+  },
+  {
+    "text": "signer un pacte",
+    "ipa": "siɲe ɛ̃ pakt",
+    "translation": {"zh": "签订协议", "en": "sign a pact"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "signer", "lemma": "signer", "ipa": "siɲe", "translation": {"zh": "签署", "en": "sign"}, "emoji": "✍️"},
+      {"text": "un pacte", "lemma": "pacte", "ipa": "ɛ̃ pakt", "translation": {"zh": "一个协议", "en": "a pact"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "psychanalyste",
+    "ipa": "psikanalist",
+    "translation": {"zh": "精神分析师", "en": "psychoanalyst"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "psychanalyste", "lemma": "psychanalyste", "ipa": "psikanalist", "translation": {"zh": "精神分析师", "en": "psychoanalyst"}, "emoji": "🛋️"}
+    ]
+  },
+  {
+    "text": "maltraiter un animal",
+    "ipa": "maltʁɛte ɛ̃ animal",
+    "translation": {"zh": "虐待动物", "en": "mistreat an animal"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "maltraiter", "lemma": "maltraiter", "ipa": "maltʁɛte", "translation": {"zh": "虐待", "en": "mistreat"}, "emoji": ""},
+      {"text": "un animal", "lemma": "animal", "ipa": "ɛ̃ animal", "translation": {"zh": "一只动物", "en": "an animal"}, "emoji": "🐾"}
+    ]
+  },
+  {
+    "text": "la rémunération",
+    "ipa": "la ʁemyneʁasjɔ̃",
+    "translation": {"zh": "薪酬", "en": "remuneration"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la rémunération", "lemma": "rémunération", "ipa": "la ʁemyneʁasjɔ̃", "translation": {"zh": "薪酬", "en": "remuneration"}, "emoji": "💰"}
+    ]
+  },
+  {
+    "text": "foncer tout droit",
+    "ipa": "fɔ̃se tu dʁwa",
+    "translation": {"zh": "径直冲去", "en": "rush straight ahead"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "foncer", "lemma": "foncer", "ipa": "fɔ̃se", "translation": {"zh": "冲去", "en": "rush ahead"}, "emoji": ""},
+      {"text": "tout droit", "lemma": "droit", "ipa": "tu dʁwa", "translation": {"zh": "径直", "en": "straight ahead"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la sensibilisation",
+    "ipa": "la sɑ̃sibilizasjɔ̃",
+    "translation": {"zh": "意识提升", "en": "awareness raising"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la sensibilisation", "lemma": "sensibilisation", "ipa": "la sɑ̃sibilizasjɔ̃", "translation": {"zh": "意识提升", "en": "awareness raising"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "électromagnétique",
+    "ipa": "elɛktʁɔmaɲetik",
+    "translation": {"zh": "电磁的", "en": "electromagnetic"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "électromagnétique", "lemma": "électromagnétique", "ipa": "elɛktʁɔmaɲetik", "translation": {"zh": "电磁的", "en": "electromagnetic"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "vulnérable",
+    "ipa": "vylneʁabl",
+    "translation": {"zh": "脆弱的", "en": "vulnerable"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "vulnérable", "lemma": "vulnérable", "ipa": "vylneʁabl", "translation": {"zh": "脆弱的", "en": "vulnerable"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "l'écosystème",
+    "ipa": "lekɔsistɛm",
+    "translation": {"zh": "生态系统", "en": "the ecosystem"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'écosystème", "lemma": "écosystème", "ipa": "lekɔsistɛm", "translation": {"zh": "生态系统", "en": "the ecosystem"}, "emoji": "🌿"}
+    ]
+  },
+  {
+    "text": "un bâtiment imposant",
+    "ipa": "ɛ̃ batimɑ̃ ɛ̃pozɑ̃",
+    "translation": {"zh": "一座宏伟的建筑", "en": "an imposing building"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un bâtiment", "lemma": "bâtiment", "ipa": "ɛ̃ batimɑ̃", "translation": {"zh": "一座建筑", "en": "a building"}, "emoji": "🏢"},
+      {"text": "imposant", "lemma": "imposant", "ipa": "ɛ̃pozɑ̃", "translation": {"zh": "宏伟的", "en": "imposing"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "chérir sa famille",
+    "ipa": "ʃeʁiʁ sa famij",
+    "translation": {"zh": "珍爱自己的家人", "en": "cherish one's family"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "chérir", "lemma": "chérir", "ipa": "ʃeʁiʁ", "translation": {"zh": "珍爱", "en": "cherish"}, "emoji": "❤️"},
+      {"text": "sa famille", "lemma": "famille", "ipa": "sa famij", "translation": {"zh": "自己的家人", "en": "one's family"}, "emoji": "👨‍👩‍👧"}
+    ]
+  },
+  {
+    "text": "une tapisserie",
+    "ipa": "yn tapisʁi",
+    "translation": {"zh": "一幅挂毯", "en": "a tapestry"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une tapisserie", "lemma": "tapisserie", "ipa": "yn tapisʁi", "translation": {"zh": "一幅挂毯", "en": "a tapestry"}, "emoji": "🖼️"}
+    ]
+  },
+  {
+    "text": "un vieillard",
+    "ipa": "ɛ̃ vjɛjaʁ",
+    "translation": {"zh": "一位老人", "en": "an old man"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un vieillard", "lemma": "vieillard", "ipa": "ɛ̃ vjɛjaʁ", "translation": {"zh": "一位老人", "en": "an old man"}, "emoji": "👴"}
+    ]
+  },
+  {
+    "text": "purement décoratif",
+    "ipa": "pyʁmɑ̃ dekɔʁatif",
+    "translation": {"zh": "纯粹装饰性的", "en": "purely decorative"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "purement décoratif", "lemma": "décoratif", "ipa": "pyʁmɑ̃ dekɔʁatif", "translation": {"zh": "纯粹装饰性的", "en": "purely decorative"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "remédier au problème",
+    "ipa": "ʁemedje o pʁɔblɛm",
+    "translation": {"zh": "解决问题", "en": "remedy the problem"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "remédier", "lemma": "remédier", "ipa": "ʁemedje", "translation": {"zh": "解决", "en": "remedy"}, "emoji": ""},
+      {"text": "au problème", "lemma": "problème", "ipa": "o pʁɔblɛm", "translation": {"zh": "问题", "en": "the problem"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "musculaire",
+    "ipa": "myskylaʁ",
+    "translation": {"zh": "肌肉的", "en": "muscular"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "musculaire", "lemma": "musculaire", "ipa": "myskylaʁ", "translation": {"zh": "肌肉的", "en": "muscular"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "triompher",
+    "ipa": "tʁijɔ̃fe",
+    "translation": {"zh": "获胜", "en": "triumph"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "triompher", "lemma": "triompher", "ipa": "tʁijɔ̃fe", "translation": {"zh": "获胜", "en": "triumph"}, "emoji": "🏆"}
+    ]
+  },
+  {
+    "text": "le secrétariat",
+    "ipa": "lə sekʁetaʁja",
+    "translation": {"zh": "秘书处", "en": "the secretariat"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le secrétariat", "lemma": "secrétariat", "ipa": "lə sekʁetaʁja", "translation": {"zh": "秘书处", "en": "the secretariat"}, "emoji": "🗂️"}
+    ]
+  },
+  {
+    "text": "une protestation",
+    "ipa": "yn pʁɔtɛstasjɔ̃",
+    "translation": {"zh": "一次抗议", "en": "a protest"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une protestation", "lemma": "protestation", "ipa": "yn pʁɔtɛstasjɔ̃", "translation": {"zh": "一次抗议", "en": "a protest"}, "emoji": "✊"}
+    ]
+  },
+  {
+    "text": "combler un vide",
+    "ipa": "kɔ̃ble ɛ̃ vid",
+    "translation": {"zh": "填补空缺", "en": "fill a gap"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "combler", "lemma": "combler", "ipa": "kɔ̃ble", "translation": {"zh": "填补", "en": "fill"}, "emoji": ""},
+      {"text": "un vide", "lemma": "vide", "ipa": "ɛ̃ vid", "translation": {"zh": "一个空缺", "en": "a gap"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une polémique",
+    "ipa": "yn pɔlemik",
+    "translation": {"zh": "一场争论", "en": "a controversy"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une polémique", "lemma": "polémique", "ipa": "yn pɔlemik", "translation": {"zh": "一场争论", "en": "a controversy"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un accessoire de mode",
+    "ipa": "ɛ̃ aksɛswaʁ də mɔd",
+    "translation": {"zh": "一件时尚配饰", "en": "a fashion accessory"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un accessoire", "lemma": "accessoire", "ipa": "ɛ̃ aksɛswaʁ", "translation": {"zh": "一件配饰", "en": "an accessory"}, "emoji": "👜"},
+      {"text": "de mode", "lemma": "mode", "ipa": "də mɔd", "translation": {"zh": "时尚", "en": "fashion"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un tube de dentifrice",
+    "ipa": "ɛ̃ tyb də dɑ̃tifʁis",
+    "translation": {"zh": "一管牙膏", "en": "a tube of toothpaste"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un tube", "lemma": "tube", "ipa": "ɛ̃ tyb", "translation": {"zh": "一管", "en": "a tube"}, "emoji": ""},
+      {"text": "de dentifrice", "lemma": "dentifrice", "ipa": "də dɑ̃tifʁis", "translation": {"zh": "牙膏", "en": "toothpaste"}, "emoji": "🪥"}
+    ]
+  }
+]

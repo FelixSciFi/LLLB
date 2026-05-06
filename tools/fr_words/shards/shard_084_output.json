@@ -1,0 +1,256 @@
+[
+  {
+    "text": "un mode de vie sain",
+    "ipa": "œ̃ mɔd də vi sɛ̃",
+    "translation": {"zh": "健康的生活方式", "en": "a healthy lifestyle"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un mode de vie sain", "lemma": "sain", "ipa": "œ̃ mɔd də vi sɛ̃", "translation": {"zh": "健康的生活方式", "en": "healthy lifestyle"}, "emoji": "🥗"}
+    ]
+  },
+  {
+    "text": "l'exécution du plan",
+    "ipa": "lɛɡzekysj ɔ̃ dy plɑ̃",
+    "translation": {"zh": "计划的执行", "en": "the execution of the plan"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'exécution du plan", "lemma": "exécution", "ipa": "lɛɡzekysj ɔ̃ dy plɑ̃", "translation": {"zh": "执行计划", "en": "execute the plan"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "reporter une réunion",
+    "ipa": "ʁəpɔʁte yn ʁeynjɔ̃",
+    "translation": {"zh": "推迟一次会议", "en": "to postpone a meeting"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "reporter une réunion", "lemma": "reporter", "ipa": "ʁəpɔʁte yn ʁeynjɔ̃", "translation": {"zh": "推迟会议", "en": "postpone a meeting"}, "emoji": "📅"}
+    ]
+  },
+  {
+    "text": "à l'instar de son frère",
+    "ipa": "a lɛ̃staʁ də sɔ̃ fʁɛʁ",
+    "translation": {"zh": "像他哥哥一样", "en": "just like his brother"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "à l'instar de son frère", "lemma": "instar", "ipa": "a lɛ̃staʁ də sɔ̃ fʁɛʁ", "translation": {"zh": "仿照，像……一样", "en": "just like"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la fontaine du village",
+    "ipa": "la fɔ̃tɛn dy vilaʒ",
+    "translation": {"zh": "村里的喷泉", "en": "the village fountain"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "la fontaine du village", "lemma": "fontaine", "ipa": "la fɔ̃tɛn dy vilaʒ", "translation": {"zh": "村里的喷泉", "en": "village fountain"}, "emoji": "⛲"}
+    ]
+  },
+  {
+    "text": "c'est suffisant",
+    "ipa": "sɛ syfizɑ̃",
+    "translation": {"zh": "这就够了", "en": "that's enough"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est suffisant", "lemma": "suffisant", "ipa": "sɛ syfizɑ̃", "translation": {"zh": "足够的", "en": "enough"}, "emoji": "✅"}
+    ]
+  },
+  {
+    "text": "une tribune publique",
+    "ipa": "yn tʁibyn pyblik",
+    "translation": {"zh": "公开论坛", "en": "a public forum"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une tribune publique", "lemma": "tribune", "ipa": "yn tʁibyn pyblik", "translation": {"zh": "论坛；讲台", "en": "public forum"}, "emoji": "🎤"}
+    ]
+  },
+  {
+    "text": "un symptôme de la maladie",
+    "ipa": "œ̃ sɛ̃ptom də la maladi",
+    "translation": {"zh": "疾病的一种症状", "en": "a symptom of the illness"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un symptôme de la maladie", "lemma": "symptôme", "ipa": "œ̃ sɛ̃ptom də la maladi", "translation": {"zh": "症状", "en": "symptom"}, "emoji": "🤒"}
+    ]
+  },
+  {
+    "text": "la torture est interdite",
+    "ipa": "la tɔʁtyʁ ɛ tɛ̃tɛʁdi",
+    "translation": {"zh": "酷刑是被禁止的", "en": "torture is forbidden"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la torture", "lemma": "torture", "ipa": "la tɔʁtyʁ", "translation": {"zh": "酷刑", "en": "torture"}, "emoji": "😖"},
+      {"text": "est interdite", "lemma": "être interdit", "ipa": "ɛ tɛ̃tɛʁdi", "translation": {"zh": "是被禁止的", "en": "is forbidden"}, "emoji": "🚫"}
+    ]
+  },
+  {
+    "text": "une ancienne abbaye",
+    "ipa": "yn ɑ̃sjɛn abɛi",
+    "translation": {"zh": "一座古老的修道院", "en": "an old abbey"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une ancienne abbaye", "lemma": "abbaye", "ipa": "yn ɑ̃sjɛn abɛi", "translation": {"zh": "修道院", "en": "abbey"}, "emoji": "⛪"}
+    ]
+  },
+  {
+    "text": "le passif du verbe",
+    "ipa": "lə pasif dy vɛʁb",
+    "translation": {"zh": "动词的被动式", "en": "the passive of the verb"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le passif du verbe", "lemma": "passif", "ipa": "lə pasif dy vɛʁb", "translation": {"zh": "被动式", "en": "passive form"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le soleil luit",
+    "ipa": "lə sɔlɛj lɥi",
+    "translation": {"zh": "太阳在发光", "en": "the sun shines"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le soleil", "lemma": "soleil", "ipa": "lə sɔlɛj", "translation": {"zh": "太阳", "en": "the sun"}, "emoji": "☀️"},
+      {"text": "luit", "lemma": "luire", "ipa": "lɥi", "translation": {"zh": "发光", "en": "shines"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "une vigne en fleur",
+    "ipa": "yn viɲ ɑ̃ flœʁ",
+    "translation": {"zh": "开花的葡萄藤", "en": "a flowering vine"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une vigne en fleur", "lemma": "vigne", "ipa": "yn viɲ ɑ̃ flœʁ", "translation": {"zh": "葡萄藤", "en": "grapevine"}, "emoji": "🍇"}
+    ]
+  },
+  {
+    "text": "lancer un assaut",
+    "ipa": "lɑ̃se œ̃n aso",
+    "translation": {"zh": "发动攻击", "en": "to launch an assault"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "lancer un assaut", "lemma": "assaut", "ipa": "lɑ̃se œ̃n aso", "translation": {"zh": "发动攻击", "en": "launch an assault"}, "emoji": "⚔️"}
+    ]
+  },
+  {
+    "text": "un troupeau de moutons",
+    "ipa": "œ̃ tʁupo də mutɔ̃",
+    "translation": {"zh": "一群羊", "en": "a flock of sheep"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un troupeau de moutons", "lemma": "troupeau", "ipa": "œ̃ tʁupo də mutɔ̃", "translation": {"zh": "畜群；羊群", "en": "flock of sheep"}, "emoji": "🐑"}
+    ]
+  },
+  {
+    "text": "la vie terrestre",
+    "ipa": "la vi tɛʁɛstʁ",
+    "translation": {"zh": "尘世生活", "en": "earthly life"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la vie terrestre", "lemma": "terrestre", "ipa": "la vi tɛʁɛstʁ", "translation": {"zh": "陆地的；尘世的", "en": "earthly"}, "emoji": "🌍"}
+    ]
+  },
+  {
+    "text": "consulter le calendrier",
+    "ipa": "kɔ̃sylte lə kalɑ̃dʁije",
+    "translation": {"zh": "查看日历", "en": "to check the calendar"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "consulter le calendrier", "lemma": "calendrier", "ipa": "kɔ̃sylte lə kalɑ̃dʁije", "translation": {"zh": "查看日历", "en": "check the calendar"}, "emoji": "📆"}
+    ]
+  },
+  {
+    "text": "tomber dans le désespoir",
+    "ipa": "tɔ̃be dɑ̃ lə dezɛspwaʁ",
+    "translation": {"zh": "陷入绝望", "en": "to fall into despair"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "tomber dans le désespoir", "lemma": "désespoir", "ipa": "tɔ̃be dɑ̃ lə dezɛspwaʁ", "translation": {"zh": "陷入绝望", "en": "fall into despair"}, "emoji": "😞"}
+    ]
+  },
+  {
+    "text": "cela équivaut à rien",
+    "ipa": "səla ekivot a ʁjɛ̃",
+    "translation": {"zh": "这等同于什么都没有", "en": "that amounts to nothing"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "cela équivaut à rien", "lemma": "équivaloir", "ipa": "səla ekivot a ʁjɛ̃", "translation": {"zh": "等同于什么都没有", "en": "amounts to nothing"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "assimiler une nouvelle langue",
+    "ipa": "asimile yn nuvɛl lɑ̃ɡ",
+    "translation": {"zh": "习得一门新语言", "en": "to absorb a new language"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "assimiler une nouvelle langue", "lemma": "assimiler", "ipa": "asimile yn nuvɛl lɑ̃ɡ", "translation": {"zh": "吸收；习得", "en": "absorb a language"}, "emoji": "🧠"}
+    ]
+  },
+  {
+    "text": "tester une recette",
+    "ipa": "tɛste yn ʁəsɛt",
+    "translation": {"zh": "试做一道食谱", "en": "to test a recipe"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "tester une recette", "lemma": "tester", "ipa": "tɛste yn ʁəsɛt", "translation": {"zh": "测试；试用", "en": "test a recipe"}, "emoji": "🧪"}
+    ]
+  },
+  {
+    "text": "un satellite en orbite",
+    "ipa": "œ̃ satelit ɑ̃n ɔʁbit",
+    "translation": {"zh": "一颗在轨卫星", "en": "a satellite in orbit"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un satellite en orbite", "lemma": "satellite", "ipa": "œ̃ satelit ɑ̃n ɔʁbit", "translation": {"zh": "卫星", "en": "satellite in orbit"}, "emoji": "🛰️"}
+    ]
+  },
+  {
+    "text": "un collaborateur fiable",
+    "ipa": "œ̃ kɔlabɔʁatœʁ fjabl",
+    "translation": {"zh": "一个可靠的合作者", "en": "a reliable collaborator"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un collaborateur fiable", "lemma": "collaborateur", "ipa": "œ̃ kɔlabɔʁatœʁ fjabl", "translation": {"zh": "合作者", "en": "collaborator"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "la séparation des pouvoirs",
+    "ipa": "la sepaʁasjɔ̃ de puvwaʁ",
+    "translation": {"zh": "权力的分立", "en": "the separation of powers"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la séparation des pouvoirs", "lemma": "séparation", "ipa": "la sepaʁasjɔ̃ de puvwaʁ", "translation": {"zh": "分离；分立", "en": "separation of powers"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "exécuter un ordre",
+    "ipa": "ɛɡzekyte œ̃n ɔʁdʁ",
+    "translation": {"zh": "执行一项命令", "en": "to carry out an order"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "exécuter un ordre", "lemma": "exécuter", "ipa": "ɛɡzekyte œ̃n ɔʁdʁ", "translation": {"zh": "执行；实施", "en": "carry out an order"}, "emoji": "✅"}
+    ]
+  },
+  {
+    "text": "un neurone actif",
+    "ipa": "œ̃ nøʁɔn aktif",
+    "translation": {"zh": "一个活跃的神经元", "en": "an active neuron"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un neurone actif", "lemma": "neurone", "ipa": "œ̃ nøʁɔn aktif", "translation": {"zh": "神经元", "en": "active neuron"}, "emoji": "🧠"}
+    ]
+  },
+  {
+    "text": "un support technique",
+    "ipa": "œ̃ sypɔʁ tɛknik",
+    "translation": {"zh": "技术支持", "en": "technical support"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un support technique", "lemma": "support", "ipa": "œ̃ sypɔʁ tɛknik", "translation": {"zh": "技术支持", "en": "technical support"}, "emoji": "🛠️"}
+    ]
+  },
+  {
+    "text": "une poutre en acier",
+    "ipa": "yn putʁ ɑ̃n asje",
+    "translation": {"zh": "一根钢梁", "en": "a steel beam"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une poutre en acier", "lemma": "acier", "ipa": "yn putʁ ɑ̃n asje", "translation": {"zh": "钢铁", "en": "steel"}, "emoji": "🔩"}
+    ]
+  }
+]

@@ -1,0 +1,273 @@
+[
+  {
+    "text": "traître",
+    "ipa": "tʁɛtʁ",
+    "translation": {"zh": "叛徒", "en": "traitor"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "traître", "lemma": "traître", "ipa": "tʁɛtʁ", "translation": {"zh": "叛徒", "en": "traitor"}, "emoji": "🗡️"}
+    ]
+  },
+  {
+    "text": "crise cardiaque",
+    "ipa": "kʁiz kaʁdjak",
+    "translation": {"zh": "心脏病发作", "en": "heart attack"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "crise cardiaque", "lemma": "crise cardiaque", "ipa": "kʁiz kaʁdjak", "translation": {"zh": "心脏病发作", "en": "heart attack"}, "emoji": "❤️"}
+    ]
+  },
+  {
+    "text": "élevage",
+    "ipa": "elvɑʒ",
+    "translation": {"zh": "畜牧业", "en": "livestock farming"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "élevage", "lemma": "élevage", "ipa": "elvɑʒ", "translation": {"zh": "畜牧业", "en": "livestock farming"}, "emoji": "🐄"}
+    ]
+  },
+  {
+    "text": "faire un cauchemar",
+    "ipa": "fɛʁ œ̃ koʃmaʁ",
+    "translation": {"zh": "做噩梦", "en": "have a nightmare"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "faire un cauchemar", "lemma": "faire", "ipa": "fɛʁ œ̃ koʃmaʁ", "translation": {"zh": "做噩梦", "en": "have a nightmare"}, "emoji": "😱"}
+    ]
+  },
+  {
+    "text": "synonyme",
+    "ipa": "sinɔnim",
+    "translation": {"zh": "同义词", "en": "synonym"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "synonyme", "lemma": "synonyme", "ipa": "sinɔnim", "translation": {"zh": "同义词", "en": "synonym"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "envoi",
+    "ipa": "ɑ̃vwa",
+    "translation": {"zh": "发送", "en": "sending"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "envoi", "lemma": "envoi", "ipa": "ɑ̃vwa", "translation": {"zh": "发送", "en": "sending"}, "emoji": "📤"}
+    ]
+  },
+  {
+    "text": "diplômé",
+    "ipa": "diplome",
+    "translation": {"zh": "毕业生", "en": "graduate"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "diplômé", "lemma": "diplômé", "ipa": "diplome", "translation": {"zh": "毕业生", "en": "graduate"}, "emoji": "🎓"}
+    ]
+  },
+  {
+    "text": "banquier",
+    "ipa": "bɑ̃kje",
+    "translation": {"zh": "银行家", "en": "banker"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "banquier", "lemma": "banquier", "ipa": "bɑ̃kje", "translation": {"zh": "银行家", "en": "banker"}, "emoji": "🏦"}
+    ]
+  },
+  {
+    "text": "démocratique",
+    "ipa": "demɔkʁatik",
+    "translation": {"zh": "民主的", "en": "democratic"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "démocratique", "lemma": "démocratique", "ipa": "demɔkʁatik", "translation": {"zh": "民主的", "en": "democratic"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "dégradation",
+    "ipa": "deɡʁadasjɔ̃",
+    "translation": {"zh": "退化", "en": "degradation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "dégradation", "lemma": "dégradation", "ipa": "deɡʁadasjɔ̃", "translation": {"zh": "退化", "en": "degradation"}, "emoji": "📉"}
+    ]
+  },
+  {
+    "text": "tremper dans l'eau",
+    "ipa": "tʁɑ̃pe dɑ̃ lo",
+    "translation": {"zh": "浸泡在水中", "en": "soak in water"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "tremper dans l'eau", "lemma": "tremper", "ipa": "tʁɑ̃pe dɑ̃ lo", "translation": {"zh": "浸泡在水中", "en": "soak in water"}, "emoji": "💧"}
+    ]
+  },
+  {
+    "text": "faible",
+    "ipa": "fɛbl",
+    "translation": {"zh": "虚弱的", "en": "weak"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "faible", "lemma": "faible", "ipa": "fɛbl", "translation": {"zh": "虚弱的", "en": "weak"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "lot",
+    "ipa": "lo",
+    "translation": {"zh": "批次", "en": "batch"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "lot", "lemma": "lot", "ipa": "lo", "translation": {"zh": "批次", "en": "batch"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "appellation",
+    "ipa": "apɛlasjɔ̃",
+    "translation": {"zh": "名称", "en": "appellation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "appellation", "lemma": "appellation", "ipa": "apɛlasjɔ̃", "translation": {"zh": "名称", "en": "appellation"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "colonne",
+    "ipa": "kɔlɔn",
+    "translation": {"zh": "柱子", "en": "column"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "colonne", "lemma": "colonne", "ipa": "kɔlɔn", "translation": {"zh": "柱子", "en": "column"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "formuler une demande",
+    "ipa": "fɔʁmyle yn dəmɑ̃d",
+    "translation": {"zh": "提出请求", "en": "formulate a request"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "formuler une demande", "lemma": "formuler", "ipa": "fɔʁmyle yn dəmɑ̃d", "translation": {"zh": "提出请求", "en": "formulate a request"}, "emoji": "📝"}
+    ]
+  },
+  {
+    "text": "barrière",
+    "ipa": "baʁjɛʁ",
+    "translation": {"zh": "障碍", "en": "barrier"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "barrière", "lemma": "barrière", "ipa": "baʁjɛʁ", "translation": {"zh": "障碍", "en": "barrier"}, "emoji": "🚧"}
+    ]
+  },
+  {
+    "text": "syndicat",
+    "ipa": "sɛ̃dika",
+    "translation": {"zh": "工会", "en": "trade union"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "syndicat", "lemma": "syndicat", "ipa": "sɛ̃dika", "translation": {"zh": "工会", "en": "trade union"}, "emoji": "✊"}
+    ]
+  },
+  {
+    "text": "site archéologique",
+    "ipa": "sit aʁkeɔlɔʒik",
+    "translation": {"zh": "考古遗址", "en": "archaeological site"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "site archéologique", "lemma": "site archéologique", "ipa": "sit aʁkeɔlɔʒik", "translation": {"zh": "考古遗址", "en": "archaeological site"}, "emoji": "🏺"}
+    ]
+  },
+  {
+    "text": "considérablement",
+    "ipa": "kɔ̃sideʁabləmɑ̃",
+    "translation": {"zh": "大幅地", "en": "considerably"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "considérablement", "lemma": "considérablement", "ipa": "kɔ̃sideʁabləmɑ̃", "translation": {"zh": "大幅地", "en": "considerably"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "ballet",
+    "ipa": "balɛ",
+    "translation": {"zh": "芭蕾舞", "en": "ballet"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ballet", "lemma": "ballet", "ipa": "balɛ", "translation": {"zh": "芭蕾舞", "en": "ballet"}, "emoji": "🩰"}
+    ]
+  },
+  {
+    "text": "radical",
+    "ipa": "ʁadikal",
+    "translation": {"zh": "激进的", "en": "radical"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "radical", "lemma": "radical", "ipa": "ʁadikal", "translation": {"zh": "激进的", "en": "radical"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "suggestion",
+    "ipa": "syɡɛstjɔ̃",
+    "translation": {"zh": "建议", "en": "suggestion"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "suggestion", "lemma": "suggestion", "ipa": "syɡɛstjɔ̃", "translation": {"zh": "建议", "en": "suggestion"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "minuscule",
+    "ipa": "minɥskyl",
+    "translation": {"zh": "微小的", "en": "tiny"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "minuscule", "lemma": "minuscule", "ipa": "minɥskyl", "translation": {"zh": "微小的", "en": "tiny"}, "emoji": "🔬"}
+    ]
+  },
+  {
+    "text": "mouche",
+    "ipa": "muʃ",
+    "translation": {"zh": "苍蝇", "en": "fly"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "mouche", "lemma": "mouche", "ipa": "muʃ", "translation": {"zh": "苍蝇", "en": "fly"}, "emoji": "🪰"}
+    ]
+  },
+  {
+    "text": "les fleurs fleurissent",
+    "ipa": "le flœʁ flœʁis",
+    "translation": {"zh": "花朵盛开", "en": "the flowers bloom"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "les fleurs", "lemma": "fleur", "ipa": "le flœʁ", "translation": {"zh": "花朵", "en": "the flowers"}, "emoji": "🌸"},
+      {"text": "fleurissent", "lemma": "fleurir", "ipa": "flœʁis", "translation": {"zh": "盛开", "en": "bloom"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "terroriser",
+    "ipa": "teʁɔʁize",
+    "translation": {"zh": "恐吓", "en": "to terrorize"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "terroriser", "lemma": "terroriser", "ipa": "teʁɔʁize", "translation": {"zh": "恐吓", "en": "to terrorize"}, "emoji": "😨"}
+    ]
+  },
+  {
+    "text": "gant",
+    "ipa": "ɡɑ̃",
+    "translation": {"zh": "手套", "en": "glove"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "gant", "lemma": "gant", "ipa": "ɡɑ̃", "translation": {"zh": "手套", "en": "glove"}, "emoji": "🧤"}
+    ]
+  },
+  {
+    "text": "indignation",
+    "ipa": "ɛ̃diɲasjɔ̃",
+    "translation": {"zh": "愤慨", "en": "indignation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "indignation", "lemma": "indignation", "ipa": "ɛ̃diɲasjɔ̃", "translation": {"zh": "愤慨", "en": "indignation"}, "emoji": "😤"}
+    ]
+  },
+  {
+    "text": "incontournable",
+    "ipa": "ɛ̃kɔ̃tuʁnabl",
+    "translation": {"zh": "不可回避的", "en": "unavoidable"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "incontournable", "lemma": "incontournable", "ipa": "ɛ̃kɔ̃tuʁnabl", "translation": {"zh": "不可回避的", "en": "unavoidable"}, "emoji": ""}
+    ]
+  }
+]

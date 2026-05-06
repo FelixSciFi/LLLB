@@ -1,0 +1,183 @@
+[
+  {
+    "input_word": "nail",
+    "entries": [
+      {"text": "nail", "ipa": "/neɪl/", "cefr": "B1", "zh": "钉子", "emoji": "🔨"},
+      {"text": "nail", "ipa": "/neɪl/", "cefr": "B1", "zh": "指甲", "emoji": "💅"}
+    ]
+  },
+  {
+    "input_word": "name",
+    "entries": [
+      {"text": "name", "ipa": "/neɪm/", "cefr": "A1", "zh": "名字", "emoji": "🏷️"}
+    ]
+  },
+  {
+    "input_word": "narrative",
+    "entries": [
+      {"text": "narrative", "ipa": "/ˈnærətɪv/", "cefr": "B1", "zh": "叙述", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_word": "narrow",
+    "entries": [
+      {"text": "narrow", "ipa": "/ˈnæroʊ/", "cefr": "A2", "zh": "狭窄的", "emoji": "↔️"}
+    ]
+  },
+  {
+    "input_word": "nation",
+    "entries": [
+      {"text": "nation", "ipa": "/ˈneɪʃən/", "cefr": "B1", "zh": "国家", "emoji": "🌍"}
+    ]
+  },
+  {
+    "input_word": "national",
+    "entries": [
+      {"text": "national", "ipa": "/ˈnæʃənəl/", "cefr": "A2", "zh": "国家的", "emoji": "🏳️"}
+    ]
+  },
+  {
+    "input_word": "native",
+    "entries": [
+      {"text": "native", "ipa": "/ˈneɪtɪv/", "cefr": "B1", "zh": "本地的", "emoji": "🏡"}
+    ]
+  },
+  {
+    "input_word": "natural",
+    "entries": [
+      {"text": "natural", "ipa": "/ˈnætʃərəl/", "cefr": "A1", "zh": "自然的", "emoji": "🌿"}
+    ]
+  },
+  {
+    "input_word": "naturally",
+    "entries": [
+      {"text": "naturally", "ipa": "/ˈnætʃərəli/", "cefr": "B1", "zh": "自然地", "emoji": "🌱"}
+    ]
+  },
+  {
+    "input_word": "nature",
+    "entries": [
+      {"text": "nature", "ipa": "/ˈneɪtʃər/", "cefr": "A2", "zh": "自然", "emoji": "🌲"}
+    ]
+  },
+  {
+    "input_word": "near",
+    "entries": [
+      {"text": "near", "ipa": "/nɪr/", "cefr": "A1", "zh": "靠近", "emoji": "📍"}
+    ]
+  },
+  {
+    "input_word": "nearly",
+    "entries": [
+      {"text": "nearly", "ipa": "/ˈnɪrli/", "cefr": "A2", "zh": "几乎", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "neat",
+    "entries": [
+      {"text": "neat", "ipa": "/niːt/", "cefr": "B2", "zh": "整洁的", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_word": "necessarily",
+    "entries": [
+      {"text": "necessarily", "ipa": "/ˌnesəˈserəli/", "cefr": "B1", "zh": "必然地", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "necessary",
+    "entries": [
+      {"text": "necessary", "ipa": "/ˈnesəˌseri/", "cefr": "A2", "zh": "必要的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "neck",
+    "entries": [
+      {"text": "neck", "ipa": "/nɛk/", "cefr": "A2", "zh": "脖子", "emoji": "🦒"}
+    ]
+  },
+  {
+    "input_word": "need",
+    "entries": [
+      {"text": "need", "ipa": "/niːd/", "cefr": "A1", "zh": "需要", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "needle",
+    "entries": [
+      {"text": "needle", "ipa": "/ˈniːdəl/", "cefr": "B1", "zh": "针", "emoji": "🧵"}
+    ]
+  },
+  {
+    "input_word": "negative",
+    "entries": [
+      {"text": "negative", "ipa": "/ˈnɛɡətɪv/", "cefr": "A1", "zh": "负面的", "emoji": "➖"}
+    ]
+  },
+  {
+    "input_word": "neighbour",
+    "entries": [
+      {"text": "neighbour", "ipa": "/ˈneɪbər/", "cefr": "A1", "zh": "邻居", "emoji": "🏘️"}
+    ]
+  },
+  {
+    "input_word": "neighbourhood",
+    "entries": [
+      {"text": "neighbourhood", "ipa": "/ˈneɪbərˌhʊd/", "cefr": "B1", "zh": "街区", "emoji": "🏙️"}
+    ]
+  },
+  {
+    "input_word": "neither",
+    "entries": []
+  },
+  {
+    "input_word": "nerve",
+    "entries": [
+      {"text": "nerve", "ipa": "/nɜːrv/", "cefr": "B2", "zh": "神经", "emoji": "⚡"},
+      {"text": "nerve", "ipa": "/nɜːrv/", "cefr": "B2", "zh": "胆量", "emoji": "💪"}
+    ]
+  },
+  {
+    "input_word": "nervous",
+    "entries": [
+      {"text": "nervous", "ipa": "/ˈnɜːrvəs/", "cefr": "A2", "zh": "紧张的", "emoji": "😬"}
+    ]
+  },
+  {
+    "input_word": "net",
+    "entries": [
+      {"text": "net", "ipa": "/nɛt/", "cefr": "B1", "zh": "网", "emoji": "🕸️"},
+      {"text": "net", "ipa": "/nɛt/", "cefr": "B1", "zh": "净额", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_word": "network",
+    "entries": [
+      {"text": "network", "ipa": "/ˈnɛtˌwɜːrk/", "cefr": "A2", "zh": "网络", "emoji": "🌐"}
+    ]
+  },
+  {
+    "input_word": "never",
+    "entries": [
+      {"text": "never", "ipa": "/ˈnɛvər/", "cefr": "A1", "zh": "从不", "emoji": "🚫"}
+    ]
+  },
+  {
+    "input_word": "nevertheless",
+    "entries": [
+      {"text": "nevertheless", "ipa": "/ˌnɛvərðəˈlɛs/", "cefr": "B2", "zh": "尽管如此", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "new",
+    "entries": [
+      {"text": "new", "ipa": "/njuː/", "cefr": "A1", "zh": "新的", "emoji": "🆕"}
+    ]
+  },
+  {
+    "input_word": "news",
+    "entries": [
+      {"text": "news", "ipa": "/njuːz/", "cefr": "A1", "zh": "新闻", "emoji": "📰"}
+    ]
+  }
+]

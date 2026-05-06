@@ -1,0 +1,182 @@
+[
+  {
+    "input_text": "报警",
+    "entries": [
+      {"text": "报警", "pinyin": "bào jǐng", "en": "call the police", "emoji": "🚨"}
+    ]
+  },
+  {
+    "input_text": "报销",
+    "entries": [
+      {"text": "报销", "pinyin": "bào xiāo", "en": "reimburse expenses", "emoji": "🧾"}
+    ]
+  },
+  {
+    "input_text": "抱负",
+    "entries": [
+      {"text": "抱负", "pinyin": "bào fù", "en": "ambition", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "暴力",
+    "entries": [
+      {"text": "暴力", "pinyin": "bào lì", "en": "violence", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "暴露",
+    "entries": [
+      {"text": "暴露", "pinyin": "bào lù", "en": "expose; reveal", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "曝光",
+    "entries": [
+      {"text": "曝光", "pinyin": "pù guāng", "en": "expose; leak", "emoji": "📸"}
+    ]
+  },
+  {
+    "input_text": "爆发",
+    "entries": [
+      {"text": "爆发", "pinyin": "bào fā", "en": "erupt; break out", "emoji": "🌋"}
+    ]
+  },
+  {
+    "input_text": "爆炸",
+    "entries": [
+      {"text": "爆炸", "pinyin": "bào zhà", "en": "explosion", "emoji": "💥"}
+    ]
+  },
+  {
+    "input_text": "卑鄙",
+    "entries": [
+      {"text": "卑鄙", "pinyin": "bēi bǐ", "en": "despicable; mean", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "悲哀",
+    "entries": [
+      {"text": "悲哀", "pinyin": "bēi āi", "en": "sorrowful; grieved", "emoji": "😢"}
+    ]
+  },
+  {
+    "input_text": "悲惨",
+    "entries": [
+      {"text": "悲惨", "pinyin": "bēi cǎn", "en": "tragic; miserable", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "北极",
+    "entries": [
+      {"text": "北极", "pinyin": "běi jí", "en": "North Pole", "emoji": "🧊"}
+    ]
+  },
+  {
+    "input_text": "贝壳",
+    "entries": [
+      {"text": "贝壳", "pinyin": "bèi ké", "en": "seashell", "emoji": "🐚"}
+    ]
+  },
+  {
+    "input_text": "备份",
+    "entries": [
+      {"text": "备份", "pinyin": "bèi fèn", "en": "backup", "emoji": "💾"}
+    ]
+  },
+  {
+    "input_text": "备忘录",
+    "entries": [
+      {"text": "备忘录", "pinyin": "bèi wàng lù", "en": "memo; memorandum", "emoji": "📝"}
+    ]
+  },
+  {
+    "input_text": "背叛",
+    "entries": [
+      {"text": "背叛", "pinyin": "bèi pàn", "en": "betray", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "背诵",
+    "entries": [
+      {"text": "背诵", "pinyin": "bèi sòng", "en": "recite from memory", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "被动",
+    "entries": [
+      {"text": "被动", "pinyin": "bèi dòng", "en": "passive", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "被告",
+    "entries": [
+      {"text": "被告", "pinyin": "bèi gào", "en": "defendant", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_text": "奔波",
+    "entries": [
+      {"text": "奔波", "pinyin": "bēn bō", "en": "rush about; bustle", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "奔驰",
+    "entries": [
+      {"text": "奔驰", "pinyin": "bēn chí", "en": "gallop; speed along", "emoji": "🏇"}
+    ]
+  },
+  {
+    "input_text": "本能",
+    "entries": [
+      {"text": "本能", "pinyin": "běn néng", "en": "instinct", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "本钱",
+    "entries": [
+      {"text": "本钱", "pinyin": "běn qián", "en": "capital; principal", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_text": "本人",
+    "entries": [
+      {"text": "本人", "pinyin": "běn rén", "en": "oneself; in person", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "本身",
+    "entries": [
+      {"text": "本身", "pinyin": "běn shēn", "en": "itself; in itself", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "本事",
+    "entries": [
+      {"text": "本事", "pinyin": "běn shì", "en": "ability; skill", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "笨拙",
+    "entries": [
+      {"text": "笨拙", "pinyin": "bèn zhuō", "en": "clumsy; awkward", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "崩溃",
+    "entries": [
+      {"text": "崩溃", "pinyin": "bēng kuì", "en": "collapse; break down", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "甭",
+    "entries": [
+      {"text": "甭", "pinyin": "béng", "en": "need not (colloquial)", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "迸发",
+    "entries": [
+      {"text": "迸发", "pinyin": "bèng fā", "en": "burst forth; gush", "emoji": "✨"}
+    ]
+  }
+]

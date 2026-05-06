@@ -1,0 +1,296 @@
+[
+  {
+    "text": "une usine",
+    "ipa": "yn y.zin",
+    "translation": {"zh": "一座工厂", "en": "a factory"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une usine", "lemma": "usine", "ipa": "yn y.zin", "translation": {"zh": "工厂", "en": "factory"}, "emoji": "🏭"}
+    ]
+  },
+  {
+    "text": "guérir une maladie",
+    "ipa": "ɡe.ʁiʁ yn ma.la.di",
+    "translation": {"zh": "治愈一种疾病", "en": "cure a disease"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "guérir", "lemma": "guérir", "ipa": "ɡe.ʁiʁ", "translation": {"zh": "治愈", "en": "heal"}, "emoji": "💊"},
+      {"text": "une maladie", "lemma": "maladie", "ipa": "yn ma.la.di", "translation": {"zh": "疾病", "en": "illness"}, "emoji": "🤒"}
+    ]
+  },
+  {
+    "text": "un moteur puissant",
+    "ipa": "œ̃ mɔ.tœʁ pɥi.sɑ̃",
+    "translation": {"zh": "一台强劲的发动机", "en": "a powerful engine"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un moteur", "lemma": "moteur", "ipa": "œ̃ mɔ.tœʁ", "translation": {"zh": "发动机", "en": "engine"}, "emoji": "⚙️"},
+      {"text": "puissant", "lemma": "puissant", "ipa": "pɥi.sɑ̃", "translation": {"zh": "强劲的", "en": "powerful"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "la surface de la table",
+    "ipa": "la syʁ.fas də la tabl",
+    "translation": {"zh": "桌子的表面", "en": "the surface of the table"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la surface", "lemma": "surface", "ipa": "la syʁ.fas", "translation": {"zh": "表面", "en": "surface"}, "emoji": ""},
+      {"text": "de la table", "lemma": "table", "ipa": "də la tabl", "translation": {"zh": "桌子的", "en": "of the table"}, "emoji": "🪑"}
+    ]
+  },
+  {
+    "text": "une star du cinéma",
+    "ipa": "yn staʁ dy si.ne.ma",
+    "translation": {"zh": "一位电影明星", "en": "a movie star"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une star", "lemma": "star", "ipa": "yn staʁ", "translation": {"zh": "明星", "en": "star"}, "emoji": "⭐"},
+      {"text": "du cinéma", "lemma": "cinéma", "ipa": "dy si.ne.ma", "translation": {"zh": "电影的", "en": "of cinema"}, "emoji": "🎬"}
+    ]
+  },
+  {
+    "text": "l'accès au bâtiment",
+    "ipa": "la.ksɛ o bɑ.ti.mɑ̃",
+    "translation": {"zh": "进入大楼的通道", "en": "access to the building"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'accès", "lemma": "accès", "ipa": "la.ksɛ", "translation": {"zh": "通道", "en": "access"}, "emoji": "🚪"},
+      {"text": "au bâtiment", "lemma": "bâtiment", "ipa": "o bɑ.ti.mɑ̃", "translation": {"zh": "大楼", "en": "building"}, "emoji": "🏢"}
+    ]
+  },
+  {
+    "text": "voter aux élections",
+    "ipa": "vɔ.te o ze.lɛk.sjɔ̃",
+    "translation": {"zh": "参加选举投票", "en": "vote in the elections"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "voter", "lemma": "voter", "ipa": "vɔ.te", "translation": {"zh": "投票", "en": "vote"}, "emoji": "🗳️"},
+      {"text": "aux élections", "lemma": "élection", "ipa": "o ze.lɛk.sjɔ̃", "translation": {"zh": "选举", "en": "elections"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un tissu doux",
+    "ipa": "œ̃ ti.sy du",
+    "translation": {"zh": "一块柔软的布料", "en": "a soft fabric"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un tissu", "lemma": "tissu", "ipa": "œ̃ ti.sy", "translation": {"zh": "布料", "en": "fabric"}, "emoji": "🧵"},
+      {"text": "doux", "lemma": "doux", "ipa": "du", "translation": {"zh": "柔软的", "en": "soft"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "c'est solide",
+    "ipa": "sɛ sɔ.lid",
+    "translation": {"zh": "这很坚固", "en": "it's solid"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est solide", "lemma": "solide", "ipa": "sɛ sɔ.lid", "translation": {"zh": "坚固的", "en": "solid"}, "emoji": "🪨"}
+    ]
+  },
+  {
+    "text": "un don pour la musique",
+    "ipa": "œ̃ dɔ̃ puʁ la my.zik",
+    "translation": {"zh": "音乐天赋", "en": "a gift for music"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un don", "lemma": "don", "ipa": "œ̃ dɔ̃", "translation": {"zh": "天赋", "en": "gift"}, "emoji": "🎁"},
+      {"text": "pour la musique", "lemma": "musique", "ipa": "puʁ la my.zik", "translation": {"zh": "音乐", "en": "for music"}, "emoji": "🎵"}
+    ]
+  },
+  {
+    "text": "une grande quantité",
+    "ipa": "yn ɡʁɑ̃d kɑ̃.ti.te",
+    "translation": {"zh": "大量", "en": "a large quantity"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une grande quantité", "lemma": "quantité", "ipa": "yn ɡʁɑ̃d kɑ̃.ti.te", "translation": {"zh": "大量", "en": "large quantity"}, "emoji": "📦"}
+    ]
+  },
+  {
+    "text": "une grève des transports",
+    "ipa": "yn ɡʁɛv de tʁɑ̃s.pɔʁ",
+    "translation": {"zh": "一次交通罢工", "en": "a transport strike"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une grève", "lemma": "grève", "ipa": "yn ɡʁɛv", "translation": {"zh": "罢工", "en": "strike"}, "emoji": "✊"},
+      {"text": "des transports", "lemma": "transport", "ipa": "de tʁɑ̃s.pɔʁ", "translation": {"zh": "交通", "en": "transport"}, "emoji": "🚌"}
+    ]
+  },
+  {
+    "text": "répandre une rumeur",
+    "ipa": "ʁe.pɑ̃dʁ yn ʁy.mœʁ",
+    "translation": {"zh": "散布谣言", "en": "spread a rumor"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "répandre", "lemma": "répandre", "ipa": "ʁe.pɑ̃dʁ", "translation": {"zh": "散布", "en": "spread"}, "emoji": ""},
+      {"text": "une rumeur", "lemma": "rumeur", "ipa": "yn ʁy.mœʁ", "translation": {"zh": "谣言", "en": "rumor"}, "emoji": "💬"}
+    ]
+  },
+  {
+    "text": "le sexe opposé",
+    "ipa": "lə sɛks ɔ.po.ze",
+    "translation": {"zh": "异性", "en": "the opposite sex"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le sexe", "lemma": "sexe", "ipa": "lə sɛks", "translation": {"zh": "性别", "en": "sex"}, "emoji": ""},
+      {"text": "opposé", "lemma": "opposé", "ipa": "ɔ.po.ze", "translation": {"zh": "相反的", "en": "opposite"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un journal régional",
+    "ipa": "œ̃ ʒuʁ.nal ʁe.ʒjɔ.nal",
+    "translation": {"zh": "一份地方报纸", "en": "a regional newspaper"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un journal", "lemma": "journal", "ipa": "œ̃ ʒuʁ.nal", "translation": {"zh": "报纸", "en": "newspaper"}, "emoji": "📰"},
+      {"text": "régional", "lemma": "régional", "ipa": "ʁe.ʒjɔ.nal", "translation": {"zh": "地方的", "en": "regional"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une assurance maladie",
+    "ipa": "yn a.sy.ʁɑ̃s ma.la.di",
+    "translation": {"zh": "健康保险", "en": "health insurance"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une assurance", "lemma": "assurance", "ipa": "yn a.sy.ʁɑ̃s", "translation": {"zh": "保险", "en": "insurance"}, "emoji": "📋"},
+      {"text": "maladie", "lemma": "maladie", "ipa": "ma.la.di", "translation": {"zh": "疾病", "en": "health"}, "emoji": "🏥"}
+    ]
+  },
+  {
+    "text": "échanger des idées",
+    "ipa": "e.ʃɑ̃.ʒe de zi.de",
+    "translation": {"zh": "交流想法", "en": "exchange ideas"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "échanger", "lemma": "échanger", "ipa": "e.ʃɑ̃.ʒe", "translation": {"zh": "交换", "en": "exchange"}, "emoji": "🔄"},
+      {"text": "des idées", "lemma": "idée", "ipa": "de zi.de", "translation": {"zh": "想法", "en": "ideas"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "ça te rassure",
+    "ipa": "sa tə ʁa.syʁ",
+    "translation": {"zh": "这让你放心", "en": "that reassures you"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "ça te rassure", "lemma": "rassurer", "ipa": "sa tə ʁa.syʁ", "translation": {"zh": "让你放心", "en": "reassures you"}, "emoji": "😌"}
+    ]
+  },
+  {
+    "text": "fréquenter une école",
+    "ipa": "fʁe.kɑ̃.te yn e.kɔl",
+    "translation": {"zh": "就读一所学校", "en": "attend a school"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "fréquenter", "lemma": "fréquenter", "ipa": "fʁe.kɑ̃.te", "translation": {"zh": "就读", "en": "attend"}, "emoji": "🎒"},
+      {"text": "une école", "lemma": "école", "ipa": "yn e.kɔl", "translation": {"zh": "学校", "en": "school"}, "emoji": "🏫"}
+    ]
+  },
+  {
+    "text": "avoir tort",
+    "ipa": "a.vwaʁ tɔʁ",
+    "translation": {"zh": "犯错，不对", "en": "to be wrong"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "avoir tort", "lemma": "tort", "ipa": "a.vwaʁ tɔʁ", "translation": {"zh": "犯错", "en": "be wrong"}, "emoji": "❌"}
+    ]
+  },
+  {
+    "text": "certes, c'est difficile",
+    "ipa": "sɛʁt sɛ di.fi.sil",
+    "translation": {"zh": "确实，这很难", "en": "admittedly, it's difficult"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "certes", "lemma": "certes", "ipa": "sɛʁt", "translation": {"zh": "确实", "en": "admittedly"}, "emoji": ""},
+      {"text": "c'est difficile", "lemma": "difficile", "ipa": "sɛ di.fi.sil", "translation": {"zh": "很难", "en": "it's difficult"}, "emoji": "😓"}
+    ]
+  },
+  {
+    "text": "à l'arrière du bus",
+    "ipa": "a la.ʁjɛʁ dy bys",
+    "translation": {"zh": "在公共汽车后面", "en": "at the back of the bus"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "à l'arrière", "lemma": "arrière", "ipa": "a la.ʁjɛʁ", "translation": {"zh": "后面", "en": "at the back"}, "emoji": ""},
+      {"text": "du bus", "lemma": "bus", "ipa": "dy bys", "translation": {"zh": "公共汽车", "en": "of the bus"}, "emoji": "🚌"}
+    ]
+  },
+  {
+    "text": "d'autant plus facile",
+    "ipa": "do.tɑ̃ ply fa.sil",
+    "translation": {"zh": "更加容易", "en": "all the more easy"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "d'autant plus facile", "lemma": "d'autant", "ipa": "do.tɑ̃ ply fa.sil", "translation": {"zh": "更加容易", "en": "all the more easy"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un œuf dur",
+    "ipa": "œ̃ nœf dyʁ",
+    "translation": {"zh": "一个煮熟的鸡蛋", "en": "a hard-boiled egg"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un œuf", "lemma": "œuf", "ipa": "œ̃ nœf", "translation": {"zh": "鸡蛋", "en": "egg"}, "emoji": "🥚"},
+      {"text": "dur", "lemma": "dur", "ipa": "dyʁ", "translation": {"zh": "硬的", "en": "hard"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le climat change",
+    "ipa": "lə kli.ma ʃɑ̃ʒ",
+    "translation": {"zh": "气候在变化", "en": "the climate changes"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "le climat", "lemma": "climat", "ipa": "lə kli.ma", "translation": {"zh": "气候", "en": "climate"}, "emoji": "🌍"},
+      {"text": "change", "lemma": "changer", "ipa": "ʃɑ̃ʒ", "translation": {"zh": "变化", "en": "changes"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "éteindre la lumière",
+    "ipa": "e.tɛ̃dʁ la ly.mjɛʁ",
+    "translation": {"zh": "关灯", "en": "turn off the light"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "éteindre", "lemma": "éteindre", "ipa": "e.tɛ̃dʁ", "translation": {"zh": "关掉", "en": "turn off"}, "emoji": ""},
+      {"text": "la lumière", "lemma": "lumière", "ipa": "la ly.mjɛʁ", "translation": {"zh": "灯", "en": "light"}, "emoji": "💡"}
+    ]
+  },
+  {
+    "text": "un club de sport",
+    "ipa": "œ̃ klœb də spɔʁ",
+    "translation": {"zh": "一个运动俱乐部", "en": "a sports club"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un club", "lemma": "club", "ipa": "œ̃ klœb", "translation": {"zh": "俱乐部", "en": "club"}, "emoji": "🏟️"},
+      {"text": "de sport", "lemma": "sport", "ipa": "də spɔʁ", "translation": {"zh": "运动", "en": "sports"}, "emoji": "⚽"}
+    ]
+  },
+  {
+    "text": "renvoyer un employé",
+    "ipa": "ʁɑ̃.vwa.je œ̃ nɑ̃.plwa.je",
+    "translation": {"zh": "解雇一名员工", "en": "dismiss an employee"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "renvoyer", "lemma": "renvoyer", "ipa": "ʁɑ̃.vwa.je", "translation": {"zh": "解雇", "en": "dismiss"}, "emoji": ""},
+      {"text": "un employé", "lemma": "employé", "ipa": "œ̃ nɑ̃.plwa.je", "translation": {"zh": "员工", "en": "employee"}, "emoji": "👔"}
+    ]
+  },
+  {
+    "text": "l'administration publique",
+    "ipa": "lad.mi.nis.tʁa.sjɔ̃ py.blik",
+    "translation": {"zh": "公共行政机构", "en": "the public administration"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'administration", "lemma": "administration", "ipa": "lad.mi.nis.tʁa.sjɔ̃", "translation": {"zh": "行政机构", "en": "administration"}, "emoji": "🏛️"},
+      {"text": "publique", "lemma": "public", "ipa": "py.blik", "translation": {"zh": "公共的", "en": "public"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "s'inscrire à un cours",
+    "ipa": "sɛ̃s.kʁiʁ a œ̃ kuʁ",
+    "translation": {"zh": "报名参加课程", "en": "sign up for a course"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "s'inscrire", "lemma": "inscrire", "ipa": "sɛ̃s.kʁiʁ", "translation": {"zh": "报名", "en": "sign up"}, "emoji": "📝"},
+      {"text": "à un cours", "lemma": "cours", "ipa": "a œ̃ kuʁ", "translation": {"zh": "课程", "en": "for a course"}, "emoji": "📚"}
+    ]
+  }
+]

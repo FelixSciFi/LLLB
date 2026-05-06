@@ -1,0 +1,279 @@
+[
+  {
+    "text": "hebdomadaire",
+    "ipa": "ɛbdɔmadɛʁ",
+    "translation": {"zh": "每周的", "en": "weekly"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "hebdomadaire", "lemma": "hebdomadaire", "ipa": "ɛbdɔmadɛʁ", "translation": {"zh": "每周的", "en": "weekly"}, "emoji": "📅"}
+    ]
+  },
+  {
+    "text": "une alternative",
+    "ipa": "yn altɛʁnativ",
+    "translation": {"zh": "一个替代方案", "en": "an alternative"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une alternative", "lemma": "alternative", "ipa": "yn altɛʁnativ", "translation": {"zh": "替代方案", "en": "alternative"}, "emoji": "🔄"}
+    ]
+  },
+  {
+    "text": "le réalisme",
+    "ipa": "lə ʁealism",
+    "translation": {"zh": "现实主义", "en": "realism"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le réalisme", "lemma": "réalisme", "ipa": "lə ʁealism", "translation": {"zh": "现实主义", "en": "realism"}, "emoji": "🎨"}
+    ]
+  },
+  {
+    "text": "un enregistrement",
+    "ipa": "œ̃ ɑ̃ʁəʒistʁəmɑ̃",
+    "translation": {"zh": "一段录音", "en": "a recording"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un enregistrement", "lemma": "enregistrement", "ipa": "œ̃ ɑ̃ʁəʒistʁəmɑ̃", "translation": {"zh": "录音", "en": "recording"}, "emoji": "🎙️"}
+    ]
+  },
+  {
+    "text": "une pièce lumineuse",
+    "ipa": "yn pjɛs lyminøz",
+    "translation": {"zh": "一间明亮的房间", "en": "a bright room"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une pièce", "lemma": "pièce", "ipa": "yn pjɛs", "translation": {"zh": "房间", "en": "room"}, "emoji": "🏠"},
+      {"text": "lumineuse", "lemma": "lumineux", "ipa": "lyminøz", "translation": {"zh": "明亮的", "en": "bright"}, "emoji": "☀️"}
+    ]
+  },
+  {
+    "text": "gâter ses enfants",
+    "ipa": "ɡɑte sez ɑ̃fɑ̃",
+    "translation": {"zh": "宠溺孩子们", "en": "to spoil one's children"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "gâter", "lemma": "gâter", "ipa": "ɡɑte", "translation": {"zh": "宠溺", "en": "spoil"}, "emoji": "🎁"},
+      {"text": "ses enfants", "lemma": "enfant", "ipa": "sez ɑ̃fɑ̃", "translation": {"zh": "孩子们", "en": "children"}, "emoji": "👶"}
+    ]
+  },
+  {
+    "text": "la charcuterie",
+    "ipa": "la ʃaʁkytʁi",
+    "translation": {"zh": "熟食店", "en": "deli"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "la charcuterie", "lemma": "charcuterie", "ipa": "la ʃaʁkytʁi", "translation": {"zh": "熟食店", "en": "deli"}, "emoji": "🥩"}
+    ]
+  },
+  {
+    "text": "un bonnet",
+    "ipa": "œ̃ bɔnɛ",
+    "translation": {"zh": "一顶帽子", "en": "a beanie"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un bonnet", "lemma": "bonnet", "ipa": "œ̃ bɔnɛ", "translation": {"zh": "帽子", "en": "beanie"}, "emoji": "🧢"}
+    ]
+  },
+  {
+    "text": "une chèvre",
+    "ipa": "yn ʃɛvʁ",
+    "translation": {"zh": "一只山羊", "en": "a goat"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une chèvre", "lemma": "chèvre", "ipa": "yn ʃɛvʁ", "translation": {"zh": "山羊", "en": "goat"}, "emoji": "🐐"}
+    ]
+  },
+  {
+    "text": "un jeu ludique",
+    "ipa": "œ̃ ʒø lydik",
+    "translation": {"zh": "一个有趣的游戏", "en": "a fun game"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un jeu", "lemma": "jeu", "ipa": "œ̃ ʒø", "translation": {"zh": "游戏", "en": "game"}, "emoji": "🎮"},
+      {"text": "ludique", "lemma": "ludique", "ipa": "lydik", "translation": {"zh": "有趣的", "en": "playful"}, "emoji": "😄"}
+    ]
+  },
+  {
+    "text": "gravement malade",
+    "ipa": "ɡʁavmɑ̃ malad",
+    "translation": {"zh": "病得很重", "en": "seriously ill"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "gravement", "lemma": "gravement", "ipa": "ɡʁavmɑ̃", "translation": {"zh": "严重地", "en": "seriously"}, "emoji": "⚠️"},
+      {"text": "malade", "lemma": "malade", "ipa": "malad", "translation": {"zh": "生病的", "en": "ill"}, "emoji": "🤒"}
+    ]
+  },
+  {
+    "text": "un climat humide",
+    "ipa": "œ̃ klima ymid",
+    "translation": {"zh": "潮湿的气候", "en": "a humid climate"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un climat", "lemma": "climat", "ipa": "œ̃ klima", "translation": {"zh": "气候", "en": "climate"}, "emoji": "🌤️"},
+      {"text": "humide", "lemma": "humide", "ipa": "ymid", "translation": {"zh": "潮湿的", "en": "humid"}, "emoji": "💧"}
+    ]
+  },
+  {
+    "text": "un ancien ami",
+    "ipa": "œ̃ ɑ̃sjɛ̃ ami",
+    "translation": {"zh": "一位老朋友", "en": "an old friend"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un ancien ami", "lemma": "ami", "ipa": "œ̃ ɑ̃sjɛ̃ ami", "translation": {"zh": "老朋友", "en": "old friend"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "admirable",
+    "ipa": "admiʁabl",
+    "translation": {"zh": "令人钦佩的", "en": "admirable"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "admirable", "lemma": "admirable", "ipa": "admiʁabl", "translation": {"zh": "令人钦佩的", "en": "admirable"}, "emoji": "🌟"}
+    ]
+  },
+  {
+    "text": "un pique-nique",
+    "ipa": "œ̃ piknik",
+    "translation": {"zh": "一次野餐", "en": "a picnic"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un pique-nique", "lemma": "pique-nique", "ipa": "œ̃ piknik", "translation": {"zh": "野餐", "en": "picnic"}, "emoji": "🧺"}
+    ]
+  },
+  {
+    "text": "un enfant sage",
+    "ipa": "œ̃ ɑ̃fɑ̃ saʒ",
+    "translation": {"zh": "一个乖巧的孩子", "en": "a well-behaved child"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un enfant", "lemma": "enfant", "ipa": "œ̃ ɑ̃fɑ̃", "translation": {"zh": "孩子", "en": "child"}, "emoji": "👶"},
+      {"text": "sage", "lemma": "sage", "ipa": "saʒ", "translation": {"zh": "乖巧的", "en": "well-behaved"}, "emoji": "😇"}
+    ]
+  },
+  {
+    "text": "se réjouir",
+    "ipa": "sə ʁeʒwiʁ",
+    "translation": {"zh": "感到高兴", "en": "to rejoice"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "se réjouir", "lemma": "réjouir", "ipa": "sə ʁeʒwiʁ", "translation": {"zh": "感到高兴", "en": "rejoice"}, "emoji": "😊"}
+    ]
+  },
+  {
+    "text": "une fureur",
+    "ipa": "yn fyʁœʁ",
+    "translation": {"zh": "一阵狂怒", "en": "a fury"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une fureur", "lemma": "fureur", "ipa": "yn fyʁœʁ", "translation": {"zh": "狂怒", "en": "fury"}, "emoji": "😡"}
+    ]
+  },
+  {
+    "text": "l'héroïne",
+    "ipa": "leʁɔin",
+    "translation": {"zh": "女主角", "en": "heroine"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'héroïne", "lemma": "héroïne", "ipa": "leʁɔin", "translation": {"zh": "女主角", "en": "heroine"}, "emoji": "🦸‍♀️"}
+    ]
+  },
+  {
+    "text": "une poupée",
+    "ipa": "yn pupe",
+    "translation": {"zh": "一个洋娃娃", "en": "a doll"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une poupée", "lemma": "poupée", "ipa": "yn pupe", "translation": {"zh": "洋娃娃", "en": "doll"}, "emoji": "🪆"}
+    ]
+  },
+  {
+    "text": "une correspondance",
+    "ipa": "yn kɔʁɛspɔ̃dɑ̃s",
+    "translation": {"zh": "一封往来信件", "en": "correspondence"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une correspondance", "lemma": "correspondance", "ipa": "yn kɔʁɛspɔ̃dɑ̃s", "translation": {"zh": "往来信件", "en": "correspondence"}, "emoji": "✉️"}
+    ]
+  },
+  {
+    "text": "terrifier quelqu'un",
+    "ipa": "tɛʁifje kɛlkœ̃",
+    "translation": {"zh": "吓坏某人", "en": "to terrify someone"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "terrifier", "lemma": "terrifier", "ipa": "tɛʁifje", "translation": {"zh": "使恐惧", "en": "terrify"}, "emoji": "😱"},
+      {"text": "quelqu'un", "lemma": "quelqu'un", "ipa": "kɛlkœ̃", "translation": {"zh": "某人", "en": "someone"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la flore",
+    "ipa": "la flɔʁ",
+    "translation": {"zh": "植物群", "en": "flora"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la flore", "lemma": "flore", "ipa": "la flɔʁ", "translation": {"zh": "植物群", "en": "flora"}, "emoji": "🌿"}
+    ]
+  },
+  {
+    "text": "un reportage",
+    "ipa": "œ̃ ʁəpɔʁtaʒ",
+    "translation": {"zh": "一篇报道", "en": "a news report"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un reportage", "lemma": "reportage", "ipa": "œ̃ ʁəpɔʁtaʒ", "translation": {"zh": "新闻报道", "en": "news report"}, "emoji": "📰"}
+    ]
+  },
+  {
+    "text": "un handicap",
+    "ipa": "œ̃ ɑ̃dikap",
+    "translation": {"zh": "一种残疾", "en": "a disability"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un handicap", "lemma": "handicap", "ipa": "œ̃ ɑ̃dikap", "translation": {"zh": "残疾", "en": "disability"}, "emoji": "♿"}
+    ]
+  },
+  {
+    "text": "non-fumeur",
+    "ipa": "nɔ̃ fymœʁ",
+    "translation": {"zh": "禁烟的", "en": "non-smoking"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "non-fumeur", "lemma": "non-fumeur", "ipa": "nɔ̃ fymœʁ", "translation": {"zh": "禁烟的", "en": "non-smoking"}, "emoji": "🚭"}
+    ]
+  },
+  {
+    "text": "insuffisant",
+    "ipa": "ɛ̃syfizɑ̃",
+    "translation": {"zh": "不足的", "en": "insufficient"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "insuffisant", "lemma": "insuffisant", "ipa": "ɛ̃syfizɑ̃", "translation": {"zh": "不足的", "en": "insufficient"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "l'insécurité",
+    "ipa": "lɛ̃sekyʁite",
+    "translation": {"zh": "不安全感", "en": "insecurity"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'insécurité", "lemma": "insécurité", "ipa": "lɛ̃sekyʁite", "translation": {"zh": "不安全感", "en": "insecurity"}, "emoji": "😰"}
+    ]
+  },
+  {
+    "text": "la paternité",
+    "ipa": "la patɛʁnite",
+    "translation": {"zh": "父亲身份", "en": "fatherhood"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la paternité", "lemma": "paternité", "ipa": "la patɛʁnite", "translation": {"zh": "父亲身份", "en": "fatherhood"}, "emoji": "👨‍👧"}
+    ]
+  },
+  {
+    "text": "automatiquement",
+    "ipa": "otomatikəmɑ̃",
+    "translation": {"zh": "自动地", "en": "automatically"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "automatiquement", "lemma": "automatiquement", "ipa": "otomatikəmɑ̃", "translation": {"zh": "自动地", "en": "automatically"}, "emoji": "⚙️"}
+    ]
+  }
+]

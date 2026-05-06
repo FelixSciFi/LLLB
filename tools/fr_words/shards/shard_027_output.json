@@ -1,0 +1,276 @@
+[
+  {
+    "text": "sans alcool",
+    "ipa": "sɑ̃z‿alkɔl",
+    "translation": {"zh": "不含酒精", "en": "alcohol-free"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "sans alcool", "lemma": "alcool", "ipa": "sɑ̃z‿alkɔl", "translation": {"zh": "不含酒精", "en": "alcohol-free"}, "emoji": "🍹"}
+    ]
+  },
+  {
+    "text": "ben oui",
+    "ipa": "bɛ̃ wi",
+    "translation": {"zh": "嗯，是啊", "en": "well, yeah"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "ben", "lemma": "ben", "ipa": "bɛ̃", "translation": {"zh": "嗯", "en": "well"}, "emoji": ""},
+      {"text": "oui", "lemma": "oui", "ipa": "wi", "translation": {"zh": "是的", "en": "yes"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "ça glisse",
+    "ipa": "sa ɡlis",
+    "translation": {"zh": "很滑", "en": "it's slippery"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "ça glisse", "lemma": "glisser", "ipa": "sa ɡlis", "translation": {"zh": "很滑", "en": "it's slippery"}, "emoji": "🧊"}
+    ]
+  },
+  {
+    "text": "candidat",
+    "ipa": "kɑ̃dida",
+    "translation": {"zh": "候选人", "en": "candidate"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "candidat", "lemma": "candidat", "ipa": "kɑ̃dida", "translation": {"zh": "候选人", "en": "candidate"}, "emoji": "🙋"}
+    ]
+  },
+  {
+    "text": "témoignage",
+    "ipa": "temwaɲaʒ",
+    "translation": {"zh": "证词", "en": "testimony"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "témoignage", "lemma": "témoignage", "ipa": "temwaɲaʒ", "translation": {"zh": "证词", "en": "testimony"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "solidarité",
+    "ipa": "sɔlidaʁite",
+    "translation": {"zh": "团结", "en": "solidarity"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "solidarité", "lemma": "solidarité", "ipa": "sɔlidaʁite", "translation": {"zh": "团结", "en": "solidarity"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "issu de",
+    "ipa": "isy də",
+    "translation": {"zh": "来自，出身于", "en": "coming from"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "issu de", "lemma": "issu", "ipa": "isy də", "translation": {"zh": "来自", "en": "from"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "protection",
+    "ipa": "pʁɔtɛksjɔ̃",
+    "translation": {"zh": "保护", "en": "protection"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "protection", "lemma": "protection", "ipa": "pʁɔtɛksjɔ̃", "translation": {"zh": "保护", "en": "protection"}, "emoji": "🛡️"}
+    ]
+  },
+  {
+    "text": "soulever une question",
+    "ipa": "sulve yn kɛstjɔ̃",
+    "translation": {"zh": "提出一个问题", "en": "raise a question"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "soulever", "lemma": "soulever", "ipa": "sulve", "translation": {"zh": "提出", "en": "raise"}, "emoji": ""},
+      {"text": "une question", "lemma": "question", "ipa": "yn kɛstjɔ̃", "translation": {"zh": "一个问题", "en": "a question"}, "emoji": "❓"}
+    ]
+  },
+  {
+    "text": "côte à côte",
+    "ipa": "kot a kot",
+    "translation": {"zh": "并排", "en": "side by side"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "côte à côte", "lemma": "côte", "ipa": "kot a kot", "translation": {"zh": "并排", "en": "side by side"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "prendre soin",
+    "ipa": "pʁɑ̃dʁ swɛ̃",
+    "translation": {"zh": "照顾", "en": "take care"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "prendre soin", "lemma": "soin", "ipa": "pʁɑ̃dʁ swɛ̃", "translation": {"zh": "照顾", "en": "take care"}, "emoji": "🩺"}
+    ]
+  },
+  {
+    "text": "agence de voyage",
+    "ipa": "aʒɑ̃s də vwajaʒ",
+    "translation": {"zh": "旅行社", "en": "travel agency"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "agence de voyage", "lemma": "agence", "ipa": "aʒɑ̃s də vwajaʒ", "translation": {"zh": "旅行社", "en": "travel agency"}, "emoji": "✈️"}
+    ]
+  },
+  {
+    "text": "accuser",
+    "ipa": "akyze",
+    "translation": {"zh": "指责", "en": "to accuse"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "accuser", "lemma": "accuser", "ipa": "akyze", "translation": {"zh": "指责", "en": "accuse"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "préciser",
+    "ipa": "pʁesize",
+    "translation": {"zh": "说明，明确", "en": "to specify"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "préciser", "lemma": "préciser", "ipa": "pʁesize", "translation": {"zh": "说明", "en": "specify"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "album photo",
+    "ipa": "albɔm fɔto",
+    "translation": {"zh": "相册", "en": "photo album"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "album photo", "lemma": "album", "ipa": "albɔm fɔto", "translation": {"zh": "相册", "en": "photo album"}, "emoji": "📷"}
+    ]
+  },
+  {
+    "text": "roman policier",
+    "ipa": "ʁɔmɑ̃ pɔlisje",
+    "translation": {"zh": "侦探小说", "en": "detective novel"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "roman", "lemma": "roman", "ipa": "ʁɔmɑ̃", "translation": {"zh": "小说", "en": "novel"}, "emoji": "📚"},
+      {"text": "policier", "lemma": "policier", "ipa": "pɔlisje", "translation": {"zh": "侦探的", "en": "detective"}, "emoji": "🔍"}
+    ]
+  },
+  {
+    "text": "c'est magique",
+    "ipa": "se maʒik",
+    "translation": {"zh": "太神奇了", "en": "it's magic"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est magique", "lemma": "magique", "ipa": "se maʒik", "translation": {"zh": "太神奇了", "en": "it's magic"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "j'avoue",
+    "ipa": "ʒavuː",
+    "translation": {"zh": "我承认", "en": "I admit"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "j'avoue", "lemma": "avouer", "ipa": "ʒavuː", "translation": {"zh": "我承认", "en": "I admit"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "respect",
+    "ipa": "ʁɛspɛ",
+    "translation": {"zh": "尊重", "en": "respect"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "respect", "lemma": "respect", "ipa": "ʁɛspɛ", "translation": {"zh": "尊重", "en": "respect"}, "emoji": "🫡"}
+    ]
+  },
+  {
+    "text": "armée",
+    "ipa": "aʁme",
+    "translation": {"zh": "军队", "en": "army"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "armée", "lemma": "armée", "ipa": "aʁme", "translation": {"zh": "军队", "en": "army"}, "emoji": "⚔️"}
+    ]
+  },
+  {
+    "text": "siège",
+    "ipa": "sjɛʒ",
+    "translation": {"zh": "座位；总部", "en": "seat; headquarters"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "siège", "lemma": "siège", "ipa": "sjɛʒ", "translation": {"zh": "座位", "en": "seat"}, "emoji": "💺"}
+    ]
+  },
+  {
+    "text": "mystère",
+    "ipa": "mistɛʁ",
+    "translation": {"zh": "谜，神秘", "en": "mystery"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "mystère", "lemma": "mystère", "ipa": "mistɛʁ", "translation": {"zh": "谜", "en": "mystery"}, "emoji": "🔮"}
+    ]
+  },
+  {
+    "text": "généralement",
+    "ipa": "ʒeneʁalmɑ̃",
+    "translation": {"zh": "通常，一般来说", "en": "generally"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "généralement", "lemma": "généralement", "ipa": "ʒeneʁalmɑ̃", "translation": {"zh": "通常", "en": "generally"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une boule de neige",
+    "ipa": "yn bul də nɛʒ",
+    "translation": {"zh": "一个雪球", "en": "a snowball"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une boule de neige", "lemma": "boule", "ipa": "yn bul də nɛʒ", "translation": {"zh": "雪球", "en": "snowball"}, "emoji": "⛄"}
+    ]
+  },
+  {
+    "text": "malheureusement",
+    "ipa": "malœʁøzmɑ̃",
+    "translation": {"zh": "不幸地，遗憾地", "en": "unfortunately"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "malheureusement", "lemma": "malheureusement", "ipa": "malœʁøzmɑ̃", "translation": {"zh": "遗憾地", "en": "unfortunately"}, "emoji": "😔"}
+    ]
+  },
+  {
+    "text": "mesurer",
+    "ipa": "məzyʁe",
+    "translation": {"zh": "测量", "en": "to measure"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "mesurer", "lemma": "mesurer", "ipa": "məzyʁe", "translation": {"zh": "测量", "en": "measure"}, "emoji": "📏"}
+    ]
+  },
+  {
+    "text": "conseil municipal",
+    "ipa": "kɔ̃sɛj mynisipal",
+    "translation": {"zh": "市议会", "en": "municipal council"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "conseil", "lemma": "conseil", "ipa": "kɔ̃sɛj", "translation": {"zh": "议会", "en": "council"}, "emoji": "🏛️"},
+      {"text": "municipal", "lemma": "municipal", "ipa": "mynisipal", "translation": {"zh": "市政的", "en": "municipal"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un milliard",
+    "ipa": "œ̃ miljaʁ",
+    "translation": {"zh": "十亿", "en": "one billion"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un milliard", "lemma": "milliard", "ipa": "œ̃ miljaʁ", "translation": {"zh": "十亿", "en": "one billion"}, "emoji": "💰"}
+    ]
+  },
+  {
+    "text": "offre d'emploi",
+    "ipa": "ɔfʁ dɑ̃plwa",
+    "translation": {"zh": "招聘广告", "en": "job offer"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "offre d'emploi", "lemma": "offre", "ipa": "ɔfʁ dɑ̃plwa", "translation": {"zh": "招聘广告", "en": "job offer"}, "emoji": "💼"}
+    ]
+  },
+  {
+    "text": "architecte",
+    "ipa": "aʁʃitɛkt",
+    "translation": {"zh": "建筑师", "en": "architect"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "architecte", "lemma": "architecte", "ipa": "aʁʃitɛkt", "translation": {"zh": "建筑师", "en": "architect"}, "emoji": "🏗️"}
+    ]
+  }
+]

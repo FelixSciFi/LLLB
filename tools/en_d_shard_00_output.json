@@ -1,0 +1,185 @@
+[
+  {
+    "input_word": "dad",
+    "entries": [
+      {"text": "dad", "ipa": "/dæd/", "cefr": "A1", "zh": "爸爸", "emoji": "👨"}
+    ]
+  },
+  {
+    "input_word": "daily",
+    "entries": [
+      {"text": "daily", "ipa": "/ˈdeɪli/", "cefr": "A2", "zh": "每日的", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_word": "damage",
+    "entries": [
+      {"text": "damage", "ipa": "/ˈdæmɪdʒ/", "cefr": "B1", "zh": "损害", "emoji": "💥"}
+    ]
+  },
+  {
+    "input_word": "dance",
+    "entries": [
+      {"text": "dance", "ipa": "/dæns/", "cefr": "A1", "zh": "跳舞", "emoji": "💃"}
+    ]
+  },
+  {
+    "input_word": "dancer",
+    "entries": [
+      {"text": "dancer", "ipa": "/ˈdænsər/", "cefr": "A1", "zh": "舞蹈者", "emoji": "🩰"}
+    ]
+  },
+  {
+    "input_word": "dancing",
+    "entries": [
+      {"text": "dancing", "ipa": "/ˈdænsɪŋ/", "cefr": "A1", "zh": "舞蹈", "emoji": "🕺"}
+    ]
+  },
+  {
+    "input_word": "danger",
+    "entries": [
+      {"text": "danger", "ipa": "/ˈdeɪndʒər/", "cefr": "A2", "zh": "危险", "emoji": "⚠️"}
+    ]
+  },
+  {
+    "input_word": "dangerous",
+    "entries": [
+      {"text": "dangerous", "ipa": "/ˈdeɪndʒərəs/", "cefr": "A1", "zh": "危险的", "emoji": "⚠️"}
+    ]
+  },
+  {
+    "input_word": "dark",
+    "entries": [
+      {"text": "dark", "ipa": "/dɑːrk/", "cefr": "A1", "zh": "黑暗的", "emoji": "🌑"}
+    ]
+  },
+  {
+    "input_word": "data",
+    "entries": [
+      {"text": "data", "ipa": "/ˈdeɪtə/", "cefr": "A2", "zh": "数据", "emoji": "📊"}
+    ]
+  },
+  {
+    "input_word": "date",
+    "entries": [
+      {"text": "date", "ipa": "/deɪt/", "cefr": "A1", "zh": "日期", "emoji": "📆"},
+      {"text": "date", "ipa": "/deɪt/", "cefr": "A1", "zh": "约会", "emoji": "❤️"}
+    ]
+  },
+  {
+    "input_word": "daughter",
+    "entries": [
+      {"text": "daughter", "ipa": "/ˈdɔːtər/", "cefr": "A1", "zh": "女儿", "emoji": "👧"}
+    ]
+  },
+  {
+    "input_word": "day",
+    "entries": [
+      {"text": "day", "ipa": "/deɪ/", "cefr": "A1", "zh": "一天", "emoji": "☀️"}
+    ]
+  },
+  {
+    "input_word": "dead",
+    "entries": [
+      {"text": "dead", "ipa": "/dɛd/", "cefr": "A2", "zh": "死亡的", "emoji": "💀"}
+    ]
+  },
+  {
+    "input_word": "deal",
+    "entries": [
+      {"text": "deal", "ipa": "/diːl/", "cefr": "A2", "zh": "交易", "emoji": "🤝"},
+      {"text": "deal", "ipa": "/diːl/", "cefr": "A2", "zh": "处理", "emoji": "🗂️"}
+    ]
+  },
+  {
+    "input_word": "dear",
+    "entries": [
+      {"text": "dear", "ipa": "/dɪr/", "cefr": "A1", "zh": "亲爱的", "emoji": "💌"}
+    ]
+  },
+  {
+    "input_word": "death",
+    "entries": [
+      {"text": "death", "ipa": "/dɛθ/", "cefr": "A2", "zh": "死亡", "emoji": "💀"}
+    ]
+  },
+  {
+    "input_word": "debate",
+    "entries": [
+      {"text": "debate", "ipa": "/dɪˈbeɪt/", "cefr": "B2", "zh": "辩论", "emoji": "🗣️"}
+    ]
+  },
+  {
+    "input_word": "debt",
+    "entries": [
+      {"text": "debt", "ipa": "/dɛt/", "cefr": "B2", "zh": "债务", "emoji": "💳"}
+    ]
+  },
+  {
+    "input_word": "decade",
+    "entries": [
+      {"text": "decade", "ipa": "/ˈdɛkeɪd/", "cefr": "B1", "zh": "十年", "emoji": "🗓️"}
+    ]
+  },
+  {
+    "input_word": "december",
+    "entries": [
+      {"text": "december", "ipa": "/dɪˈsɛmbər/", "cefr": "A1", "zh": "十二月", "emoji": "🎄"}
+    ]
+  },
+  {
+    "input_word": "decent",
+    "entries": [
+      {"text": "decent", "ipa": "/ˈdiːsənt/", "cefr": "B2", "zh": "像样的", "emoji": "👍"}
+    ]
+  },
+  {
+    "input_word": "decide",
+    "entries": [
+      {"text": "decide", "ipa": "/dɪˈsaɪd/", "cefr": "A1", "zh": "决定", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_word": "decision",
+    "entries": [
+      {"text": "decision", "ipa": "/dɪˈsɪʒən/", "cefr": "A2", "zh": "决定", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "declare",
+    "entries": [
+      {"text": "declare", "ipa": "/dɪˈklɛr/", "cefr": "B2", "zh": "宣布", "emoji": "📢"}
+    ]
+  },
+  {
+    "input_word": "decline",
+    "entries": [
+      {"text": "decline", "ipa": "/dɪˈklaɪn/", "cefr": "B2", "zh": "下降", "emoji": "📉"},
+      {"text": "decline", "ipa": "/dɪˈklaɪn/", "cefr": "B2", "zh": "拒绝", "emoji": "🚫"}
+    ]
+  },
+  {
+    "input_word": "decorate",
+    "entries": [
+      {"text": "decorate", "ipa": "/ˈdɛkəreɪt/", "cefr": "B1", "zh": "装饰", "emoji": "🎀"}
+    ]
+  },
+  {
+    "input_word": "decoration",
+    "entries": [
+      {"text": "decoration", "ipa": "/ˌdɛkəˈreɪʃən/", "cefr": "B2", "zh": "装饰品", "emoji": "🎊"}
+    ]
+  },
+  {
+    "input_word": "decrease",
+    "entries": [
+      {"text": "decrease", "ipa": "/dɪˈkriːs/", "cefr": "B2", "zh": "减少", "emoji": "📉"}
+    ]
+  },
+  {
+    "input_word": "deep",
+    "entries": [
+      {"text": "deep", "ipa": "/diːp/", "cefr": "A2", "zh": "深的", "emoji": "🌊"}
+    ]
+  }
+]

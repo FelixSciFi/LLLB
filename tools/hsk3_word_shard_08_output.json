@@ -1,0 +1,325 @@
+[
+  {
+    "input_text": "向",
+    "entries": []
+  },
+  {
+    "input_text": "像",
+    "entries": [
+      {
+        "text": "像",
+        "pinyin": "xiàng",
+        "en": "resemble, like",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "小心",
+    "entries": [
+      {
+        "text": "小心",
+        "pinyin": "xiǎo xīn",
+        "en": "be careful",
+        "emoji": "⚠️"
+      }
+    ]
+  },
+  {
+    "input_text": "校长",
+    "entries": [
+      {
+        "text": "校长",
+        "pinyin": "xiào zhǎng",
+        "en": "school principal",
+        "emoji": "🏫"
+      }
+    ]
+  },
+  {
+    "input_text": "新闻",
+    "entries": [
+      {
+        "text": "新闻",
+        "pinyin": "xīn wén",
+        "en": "news",
+        "emoji": "📰"
+      }
+    ]
+  },
+  {
+    "input_text": "新鲜",
+    "entries": [
+      {
+        "text": "新鲜",
+        "pinyin": "xīn xiān",
+        "en": "fresh",
+        "emoji": "🌿"
+      }
+    ]
+  },
+  {
+    "input_text": "信用卡",
+    "entries": [
+      {
+        "text": "信用卡",
+        "pinyin": "xìn yòng kǎ",
+        "en": "credit card",
+        "emoji": "💳"
+      }
+    ]
+  },
+  {
+    "input_text": "行李箱",
+    "entries": [
+      {
+        "text": "行李箱",
+        "pinyin": "xíng lǐ xiāng",
+        "en": "suitcase",
+        "emoji": "🧳"
+      }
+    ]
+  },
+  {
+    "input_text": "熊猫",
+    "entries": [
+      {
+        "text": "熊猫",
+        "pinyin": "xióng māo",
+        "en": "panda",
+        "emoji": "🐼"
+      }
+    ]
+  },
+  {
+    "input_text": "需要",
+    "entries": [
+      {
+        "text": "需要",
+        "pinyin": "xū yào",
+        "en": "need, require",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "选择",
+    "entries": [
+      {
+        "text": "选择",
+        "pinyin": "xuǎn zé",
+        "en": "choose, select",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "要求",
+    "entries": [
+      {
+        "text": "要求",
+        "pinyin": "yāo qiú",
+        "en": "requirement, demand",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "爷爷",
+    "entries": [
+      {
+        "text": "爷爷",
+        "pinyin": "yé ye",
+        "en": "grandpa (paternal)",
+        "emoji": "👴"
+      }
+    ]
+  },
+  {
+    "input_text": "一般",
+    "entries": [
+      {
+        "text": "一般",
+        "pinyin": "yī bān",
+        "en": "ordinary, general",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "一边",
+    "entries": [
+      {
+        "text": "一边",
+        "pinyin": "yī biān",
+        "en": "while, at the same time",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "一定",
+    "entries": [
+      {
+        "text": "一定",
+        "pinyin": "yī dìng",
+        "en": "certainly, definite",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "一共",
+    "entries": [
+      {
+        "text": "一共",
+        "pinyin": "yī gòng",
+        "en": "in total",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "一会儿",
+    "entries": [
+      {
+        "text": "一会儿",
+        "pinyin": "yī huì r",
+        "en": "a moment, a while",
+        "emoji": "⏱️"
+      }
+    ]
+  },
+  {
+    "input_text": "一样",
+    "entries": [
+      {
+        "text": "一样",
+        "pinyin": "yī yàng",
+        "en": "the same, alike",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "一直",
+    "entries": [
+      {
+        "text": "一直",
+        "pinyin": "yī zhí",
+        "en": "always, straight on",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "以前",
+    "entries": [
+      {
+        "text": "以前",
+        "pinyin": "yǐ qián",
+        "en": "before, in the past",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "音乐",
+    "entries": [
+      {
+        "text": "音乐",
+        "pinyin": "yīn yuè",
+        "en": "music",
+        "emoji": "🎵"
+      }
+    ]
+  },
+  {
+    "input_text": "银行",
+    "entries": [
+      {
+        "text": "银行",
+        "pinyin": "yín háng",
+        "en": "bank",
+        "emoji": "🏦"
+      }
+    ]
+  },
+  {
+    "input_text": "饮料",
+    "entries": [
+      {
+        "text": "饮料",
+        "pinyin": "yǐn liào",
+        "en": "beverage, drink",
+        "emoji": "🥤"
+      }
+    ]
+  },
+  {
+    "input_text": "应该",
+    "entries": [
+      {
+        "text": "应该",
+        "pinyin": "yīng gāi",
+        "en": "should, ought to",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "影响",
+    "entries": [
+      {
+        "text": "影响",
+        "pinyin": "yǐng xiǎng",
+        "en": "influence, affect",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "用",
+    "entries": [
+      {
+        "text": "用",
+        "pinyin": "yòng",
+        "en": "use",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "游戏",
+    "entries": [
+      {
+        "text": "游戏",
+        "pinyin": "yóu xì",
+        "en": "game",
+        "emoji": "🎮"
+      }
+    ]
+  },
+  {
+    "input_text": "有名",
+    "entries": [
+      {
+        "text": "有名",
+        "pinyin": "yǒu míng",
+        "en": "famous",
+        "emoji": "⭐"
+      }
+    ]
+  },
+  {
+    "input_text": "又",
+    "entries": [
+      {
+        "text": "又",
+        "pinyin": "yòu",
+        "en": "again, also",
+        "emoji": ""
+      }
+    ]
+  }
+]

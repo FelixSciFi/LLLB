@@ -1,0 +1,185 @@
+[
+  {
+    "input_text": "典礼",
+    "entries": [
+      {"text": "典礼", "pinyin": "diǎn lǐ", "en": "ceremony", "emoji": "🎖️"}
+    ]
+  },
+  {
+    "input_text": "典型",
+    "entries": [
+      {"text": "典型", "pinyin": "diǎn xíng", "en": "typical", "emoji": ""},
+      {"text": "典型", "pinyin": "diǎn xíng", "en": "model example", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "点缀",
+    "entries": [
+      {"text": "点缀", "pinyin": "diǎn zhuì", "en": "to embellish", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_text": "电源",
+    "entries": [
+      {"text": "电源", "pinyin": "diàn yuán", "en": "power source", "emoji": "🔌"}
+    ]
+  },
+  {
+    "input_text": "垫",
+    "entries": [
+      {"text": "垫", "pinyin": "diàn", "en": "cushion; pad", "emoji": "🛏️"},
+      {"text": "垫", "pinyin": "diàn", "en": "to pad; to prop up", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "惦记",
+    "entries": [
+      {"text": "惦记", "pinyin": "diàn jì", "en": "to keep thinking about", "emoji": "💭"}
+    ]
+  },
+  {
+    "input_text": "奠定",
+    "entries": [
+      {"text": "奠定", "pinyin": "diàn dìng", "en": "to lay; to establish", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "叼",
+    "entries": [
+      {"text": "叼", "pinyin": "diāo", "en": "to hold in mouth", "emoji": "🐕"}
+    ]
+  },
+  {
+    "input_text": "雕刻",
+    "entries": [
+      {"text": "雕刻", "pinyin": "diāo kè", "en": "to carve; engraving", "emoji": "🗿"}
+    ]
+  },
+  {
+    "input_text": "雕塑",
+    "entries": [
+      {"text": "雕塑", "pinyin": "diāo sù", "en": "sculpture", "emoji": "🗿"}
+    ]
+  },
+  {
+    "input_text": "吊",
+    "entries": [
+      {"text": "吊", "pinyin": "diào", "en": "to hang; to suspend", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "调动",
+    "entries": [
+      {"text": "调动", "pinyin": "diào dòng", "en": "to transfer; to mobilize", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "跌",
+    "entries": [
+      {"text": "跌", "pinyin": "diē", "en": "to fall; to tumble", "emoji": "📉"}
+    ]
+  },
+  {
+    "input_text": "丁",
+    "entries": [
+      {"text": "丁", "pinyin": "dīng", "en": "fourth; small cube", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "叮嘱",
+    "entries": [
+      {"text": "叮嘱", "pinyin": "dīng zhǔ", "en": "to urge; to exhort", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "盯",
+    "entries": [
+      {"text": "盯", "pinyin": "dīng", "en": "to stare at; to fix eyes on", "emoji": "👁️"}
+    ]
+  },
+  {
+    "input_text": "定期",
+    "entries": [
+      {"text": "定期", "pinyin": "dìng qī", "en": "regular; periodic", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_text": "定义",
+    "entries": [
+      {"text": "定义", "pinyin": "dìng yì", "en": "definition", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_text": "丢人",
+    "entries": [
+      {"text": "丢人", "pinyin": "diū rén", "en": "to lose face", "emoji": "😳"}
+    ]
+  },
+  {
+    "input_text": "丢三落四",
+    "entries": [
+      {"text": "丢三落四", "pinyin": "diū sān là sì", "en": "scatterbrained", "emoji": "🤦"}
+    ]
+  },
+  {
+    "input_text": "东道主",
+    "entries": [
+      {"text": "东道主", "pinyin": "dōng dào zhǔ", "en": "host", "emoji": "🏠"}
+    ]
+  },
+  {
+    "input_text": "东张西望",
+    "entries": [
+      {"text": "东张西望", "pinyin": "dōng zhāng xī wàng", "en": "to look around", "emoji": "👀"}
+    ]
+  },
+  {
+    "input_text": "董事长",
+    "entries": [
+      {"text": "董事长", "pinyin": "dǒng shì zhǎng", "en": "chairman of the board", "emoji": "👔"}
+    ]
+  },
+  {
+    "input_text": "动荡",
+    "entries": [
+      {"text": "动荡", "pinyin": "dòng dàng", "en": "turmoil; turbulence", "emoji": "🌪️"}
+    ]
+  },
+  {
+    "input_text": "动机",
+    "entries": [
+      {"text": "动机", "pinyin": "dòng jī", "en": "motive; motivation", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "动静",
+    "entries": [
+      {"text": "动静", "pinyin": "dòng jìng", "en": "movement; activity", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "动力",
+    "entries": [
+      {"text": "动力", "pinyin": "dòng lì", "en": "driving force; power", "emoji": "⚡"}
+    ]
+  },
+  {
+    "input_text": "动脉",
+    "entries": [
+      {"text": "动脉", "pinyin": "dòng mài", "en": "artery", "emoji": "🫀"}
+    ]
+  },
+  {
+    "input_text": "动身",
+    "entries": [
+      {"text": "动身", "pinyin": "dòng shēn", "en": "to set out; to depart", "emoji": "🚶"}
+    ]
+  },
+  {
+    "input_text": "动手",
+    "entries": [
+      {"text": "动手", "pinyin": "dòng shǒu", "en": "to get started; to do", "emoji": "🙌"},
+      {"text": "动手", "pinyin": "dòng shǒu", "en": "to hit; to strike", "emoji": "👊"}
+    ]
+  }
+]

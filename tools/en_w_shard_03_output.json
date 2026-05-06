@@ -1,0 +1,84 @@
+[
+  {
+    "input_word": "worried",
+    "entries": [
+      {"text": "worried", "ipa": "/ˈwɜːrid/", "cefr": "A2", "zh": "担心的", "emoji": "😟"}
+    ]
+  },
+  {
+    "input_word": "worry",
+    "entries": [
+      {"text": "worry", "ipa": "/ˈwɜːri/", "cefr": "A2", "zh": "担心", "emoji": "😰"}
+    ]
+  },
+  {
+    "input_word": "worse",
+    "entries": [
+      {"text": "worse", "ipa": "/wɜːrs/", "cefr": "A2", "zh": "更差的", "emoji": "📉"}
+    ]
+  },
+  {
+    "input_word": "worst",
+    "entries": [
+      {"text": "worst", "ipa": "/wɜːrst/", "cefr": "A2", "zh": "最差的", "emoji": "👎"}
+    ]
+  },
+  {
+    "input_word": "worth",
+    "entries": [
+      {"text": "worth", "ipa": "/wɜːrθ/", "cefr": "B1", "zh": "价值", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_word": "would",
+    "entries": []
+  },
+  {
+    "input_word": "wound",
+    "entries": [
+      {"text": "wound", "ipa": "/wuːnd/", "cefr": "B2", "zh": "伤口", "emoji": "🩹"}
+    ]
+  },
+  {
+    "input_word": "wow",
+    "entries": [
+      {"text": "wow", "ipa": "/waʊ/", "cefr": "A2", "zh": "哇", "emoji": "😮"}
+    ]
+  },
+  {
+    "input_word": "wrap",
+    "entries": [
+      {"text": "wrap", "ipa": "/ræp/", "cefr": "B2", "zh": "包裹", "emoji": "🎁"}
+    ]
+  },
+  {
+    "input_word": "write",
+    "entries": [
+      {"text": "write", "ipa": "/raɪt/", "cefr": "A1", "zh": "写", "emoji": "✍️"}
+    ]
+  },
+  {
+    "input_word": "writer",
+    "entries": [
+      {"text": "writer", "ipa": "/ˈraɪtər/", "cefr": "A1", "zh": "作家", "emoji": "🖊️"}
+    ]
+  },
+  {
+    "input_word": "writing",
+    "entries": [
+      {"text": "writing", "ipa": "/ˈraɪtɪŋ/", "cefr": "A1", "zh": "写作", "emoji": "📝"}
+    ]
+  },
+  {
+    "input_word": "written",
+    "entries": [
+      {"text": "written", "ipa": "/ˈrɪtən/", "cefr": "B1", "zh": "书面的", "emoji": "📄"}
+    ]
+  },
+  {
+    "input_word": "wrong",
+    "entries": [
+      {"text": "wrong", "ipa": "/rɔːŋ/", "cefr": "A1", "zh": "错误的", "emoji": "❌"}
+    ]
+  }
+]

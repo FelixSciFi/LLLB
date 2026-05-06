@@ -1,0 +1,182 @@
+[
+  {
+    "input_text": "少",
+    "entries": [
+      {"text": "少", "pinyin": "shǎo", "en": "few / little", "emoji": "🤏"}
+    ]
+  },
+  {
+    "input_text": "谁",
+    "entries": [
+      {"text": "谁", "pinyin": "shéi", "en": "who", "emoji": "❓"}
+    ]
+  },
+  {
+    "input_text": "什么",
+    "entries": [
+      {"text": "什么", "pinyin": "shénme", "en": "what", "emoji": "❓"}
+    ]
+  },
+  {
+    "input_text": "十",
+    "entries": [
+      {"text": "十", "pinyin": "shí", "en": "ten", "emoji": "🔟"}
+    ]
+  },
+  {
+    "input_text": "时候",
+    "entries": [
+      {"text": "时候", "pinyin": "shíhou", "en": "time", "emoji": "⏰"}
+    ]
+  },
+  {
+    "input_text": "是",
+    "entries": [
+      {"text": "是", "pinyin": "shì", "en": "to be", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "书",
+    "entries": [
+      {"text": "书", "pinyin": "shū", "en": "book", "emoji": "📚"}
+    ]
+  },
+  {
+    "input_text": "水",
+    "entries": [
+      {"text": "水", "pinyin": "shuǐ", "en": "water", "emoji": "💧"}
+    ]
+  },
+  {
+    "input_text": "水果",
+    "entries": [
+      {"text": "水果", "pinyin": "shuǐguǒ", "en": "fruit", "emoji": "🍎"}
+    ]
+  },
+  {
+    "input_text": "睡觉",
+    "entries": [
+      {"text": "睡觉", "pinyin": "shuìjiào", "en": "to sleep", "emoji": "😴"}
+    ]
+  },
+  {
+    "input_text": "说",
+    "entries": [
+      {"text": "说", "pinyin": "shuō", "en": "to speak", "emoji": "🗣️"}
+    ]
+  },
+  {
+    "input_text": "四",
+    "entries": [
+      {"text": "四", "pinyin": "sì", "en": "four", "emoji": "4️⃣"}
+    ]
+  },
+  {
+    "input_text": "岁",
+    "entries": [
+      {"text": "岁", "pinyin": "suì", "en": "years old", "emoji": "🎂"}
+    ]
+  },
+  {
+    "input_text": "他",
+    "entries": [
+      {"text": "他", "pinyin": "tā", "en": "he / him", "emoji": "👨"}
+    ]
+  },
+  {
+    "input_text": "她",
+    "entries": [
+      {"text": "她", "pinyin": "tā", "en": "she / her", "emoji": "👩"}
+    ]
+  },
+  {
+    "input_text": "太",
+    "entries": [
+      {"text": "太", "pinyin": "tài", "en": "too (much)", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "天气",
+    "entries": [
+      {"text": "天气", "pinyin": "tiānqì", "en": "weather", "emoji": "🌤️"}
+    ]
+  },
+  {
+    "input_text": "听",
+    "entries": [
+      {"text": "听", "pinyin": "tīng", "en": "to listen", "emoji": "👂"}
+    ]
+  },
+  {
+    "input_text": "同学",
+    "entries": [
+      {"text": "同学", "pinyin": "tóngxué", "en": "classmate", "emoji": "🧑‍🎓"}
+    ]
+  },
+  {
+    "input_text": "喂",
+    "entries": [
+      {"text": "喂", "pinyin": "wèi", "en": "hello (on phone)", "emoji": "📞"}
+    ]
+  },
+  {
+    "input_text": "我",
+    "entries": [
+      {"text": "我", "pinyin": "wǒ", "en": "I / me", "emoji": "🙋"}
+    ]
+  },
+  {
+    "input_text": "我们",
+    "entries": [
+      {"text": "我们", "pinyin": "wǒmen", "en": "we / us", "emoji": "👥"}
+    ]
+  },
+  {
+    "input_text": "五",
+    "entries": [
+      {"text": "五", "pinyin": "wǔ", "en": "five", "emoji": "5️⃣"}
+    ]
+  },
+  {
+    "input_text": "喜欢",
+    "entries": [
+      {"text": "喜欢", "pinyin": "xǐhuan", "en": "to like", "emoji": "❤️"}
+    ]
+  },
+  {
+    "input_text": "下",
+    "entries": [
+      {"text": "下", "pinyin": "xià", "en": "below / down", "emoji": "⬇️"}
+    ]
+  },
+  {
+    "input_text": "下午",
+    "entries": [
+      {"text": "下午", "pinyin": "xiàwǔ", "en": "afternoon", "emoji": "🌇"}
+    ]
+  },
+  {
+    "input_text": "下雨",
+    "entries": [
+      {"text": "下雨", "pinyin": "xiàyǔ", "en": "to rain", "emoji": "🌧️"}
+    ]
+  },
+  {
+    "input_text": "先生",
+    "entries": [
+      {"text": "先生", "pinyin": "xiānsheng", "en": "Mr. / Sir", "emoji": "🤵"}
+    ]
+  },
+  {
+    "input_text": "现在",
+    "entries": [
+      {"text": "现在", "pinyin": "xiànzài", "en": "now", "emoji": "⏰"}
+    ]
+  },
+  {
+    "input_text": "想",
+    "entries": [
+      {"text": "想", "pinyin": "xiǎng", "en": "to think / would like to", "emoji": "💭"}
+    ]
+  }
+]

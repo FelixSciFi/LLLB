@@ -1,0 +1,272 @@
+[
+  {
+    "text": "attachant",
+    "ipa": "a.ta.ʃɑ̃",
+    "translation": {"zh": "迷人的", "en": "endearing"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "attachant", "lemma": "attachant", "ipa": "a.ta.ʃɑ̃", "translation": {"zh": "迷人的", "en": "endearing"}, "emoji": "🥰"}
+    ]
+  },
+  {
+    "text": "antérieur",
+    "ipa": "ɑ̃.te.ʁjœʁ",
+    "translation": {"zh": "前面的", "en": "prior"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "antérieur", "lemma": "antérieur", "ipa": "ɑ̃.te.ʁjœʁ", "translation": {"zh": "先前的", "en": "prior"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "égarer",
+    "ipa": "e.ɡa.ʁe",
+    "translation": {"zh": "迷路", "en": "to lose one's way"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "égarer", "lemma": "égarer", "ipa": "e.ɡa.ʁe", "translation": {"zh": "使迷路", "en": "to lose"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "injuste",
+    "ipa": "ɛ̃.ʒyst",
+    "translation": {"zh": "不公平的", "en": "unfair"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "injuste", "lemma": "injuste", "ipa": "ɛ̃.ʒyst", "translation": {"zh": "不公平的", "en": "unfair"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "colocataire",
+    "ipa": "kɔ.lɔ.ka.tɛʁ",
+    "translation": {"zh": "室友", "en": "roommate"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "colocataire", "lemma": "colocataire", "ipa": "kɔ.lɔ.ka.tɛʁ", "translation": {"zh": "室友", "en": "roommate"}, "emoji": "🏠"}
+    ]
+  },
+  {
+    "text": "refroidir",
+    "ipa": "ʁə.fʁwa.diʁ",
+    "translation": {"zh": "冷却", "en": "to cool down"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "refroidir", "lemma": "refroidir", "ipa": "ʁə.fʁwa.diʁ", "translation": {"zh": "冷却", "en": "to cool down"}, "emoji": "❄️"}
+    ]
+  },
+  {
+    "text": "ut",
+    "ipa": "yt",
+    "translation": {"zh": "do音（音乐）", "en": "musical note C"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ut", "lemma": "ut", "ipa": "yt", "translation": {"zh": "do音", "en": "note C"}, "emoji": "🎵"}
+    ]
+  },
+  {
+    "text": "multitude",
+    "ipa": "myl.ti.tyd",
+    "translation": {"zh": "大量", "en": "multitude"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "multitude", "lemma": "multitude", "ipa": "myl.ti.tyd", "translation": {"zh": "大量", "en": "multitude"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "stocker",
+    "ipa": "stɔ.ke",
+    "translation": {"zh": "储存", "en": "to store"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "stocker", "lemma": "stocker", "ipa": "stɔ.ke", "translation": {"zh": "储存", "en": "to store"}, "emoji": "📦"}
+    ]
+  },
+  {
+    "text": "suprême",
+    "ipa": "sy.pʁɛm",
+    "translation": {"zh": "至高的", "en": "supreme"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "suprême", "lemma": "suprême", "ipa": "sy.pʁɛm", "translation": {"zh": "至高的", "en": "supreme"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "interdit",
+    "ipa": "ɛ̃.tɛʁ.di",
+    "translation": {"zh": "禁止的", "en": "forbidden"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "interdit", "lemma": "interdit", "ipa": "ɛ̃.tɛʁ.di", "translation": {"zh": "禁止的", "en": "forbidden"}, "emoji": "🚫"}
+    ]
+  },
+  {
+    "text": "métallique",
+    "ipa": "me.ta.lik",
+    "translation": {"zh": "金属的", "en": "metallic"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "métallique", "lemma": "métallique", "ipa": "me.ta.lik", "translation": {"zh": "金属的", "en": "metallic"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "provision",
+    "ipa": "pʁɔ.vi.zjɔ̃",
+    "translation": {"zh": "储备", "en": "provision"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "provision", "lemma": "provision", "ipa": "pʁɔ.vi.zjɔ̃", "translation": {"zh": "储备", "en": "provision"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "provocateur",
+    "ipa": "pʁɔ.vɔ.ka.tœʁ",
+    "translation": {"zh": "挑衅者", "en": "provocateur"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "provocateur", "lemma": "provocateur", "ipa": "pʁɔ.vɔ.ka.tœʁ", "translation": {"zh": "挑衅者", "en": "provocateur"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "pénal",
+    "ipa": "pe.nal",
+    "translation": {"zh": "刑事的", "en": "penal"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "pénal", "lemma": "pénal", "ipa": "pe.nal", "translation": {"zh": "刑事的", "en": "penal"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "plomb",
+    "ipa": "plɔ̃",
+    "translation": {"zh": "铅", "en": "lead"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "plomb", "lemma": "plomb", "ipa": "plɔ̃", "translation": {"zh": "铅", "en": "lead"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "élucider",
+    "ipa": "e.ly.si.de",
+    "translation": {"zh": "阐明", "en": "to elucidate"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "élucider", "lemma": "élucider", "ipa": "e.ly.si.de", "translation": {"zh": "阐明", "en": "to elucidate"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "grammaire",
+    "ipa": "ɡʁa.mɛʁ",
+    "translation": {"zh": "语法", "en": "grammar"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "grammaire", "lemma": "grammaire", "ipa": "ɡʁa.mɛʁ", "translation": {"zh": "语法", "en": "grammar"}, "emoji": "📚"}
+    ]
+  },
+  {
+    "text": "proche",
+    "ipa": "pʁɔʃ",
+    "translation": {"zh": "近的", "en": "close"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "proche", "lemma": "proche", "ipa": "pʁɔʃ", "translation": {"zh": "接近的", "en": "close"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "précédent",
+    "ipa": "pʁe.se.dɑ̃",
+    "translation": {"zh": "先前的", "en": "previous"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "précédent", "lemma": "précédent", "ipa": "pʁe.se.dɑ̃", "translation": {"zh": "先前的", "en": "previous"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "légal",
+    "ipa": "le.ɡal",
+    "translation": {"zh": "合法的", "en": "legal"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "légal", "lemma": "légal", "ipa": "le.ɡal", "translation": {"zh": "合法的", "en": "legal"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "escalade",
+    "ipa": "ɛs.ka.lad",
+    "translation": {"zh": "攀岩", "en": "climbing"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "escalade", "lemma": "escalade", "ipa": "ɛs.ka.lad", "translation": {"zh": "攀岩", "en": "climbing"}, "emoji": "🧗"}
+    ]
+  },
+  {
+    "text": "exprès",
+    "ipa": "ɛks.pʁɛ",
+    "translation": {"zh": "故意地", "en": "on purpose"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "exprès", "lemma": "exprès", "ipa": "ɛks.pʁɛ", "translation": {"zh": "故意地", "en": "on purpose"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "bohémien",
+    "ipa": "bɔ.e.mjɛ̃",
+    "translation": {"zh": "波西米亚人", "en": "bohemian"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "bohémien", "lemma": "bohémien", "ipa": "bɔ.e.mjɛ̃", "translation": {"zh": "波西米亚人", "en": "bohemian"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "condamnation",
+    "ipa": "kɔ̃.da.na.sjɔ̃",
+    "translation": {"zh": "定罪", "en": "conviction"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "condamnation", "lemma": "condamnation", "ipa": "kɔ̃.da.na.sjɔ̃", "translation": {"zh": "定罪", "en": "conviction"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "phonétique",
+    "ipa": "fɔ.ne.tik",
+    "translation": {"zh": "语音学", "en": "phonetics"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "phonétique", "lemma": "phonétique", "ipa": "fɔ.ne.tik", "translation": {"zh": "语音学", "en": "phonetics"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "pourcentage",
+    "ipa": "puʁ.sɑ̃.taʒ",
+    "translation": {"zh": "百分比", "en": "percentage"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "pourcentage", "lemma": "pourcentage", "ipa": "puʁ.sɑ̃.taʒ", "translation": {"zh": "百分比", "en": "percentage"}, "emoji": "%"}
+    ]
+  },
+  {
+    "text": "cinquième",
+    "ipa": "sɛ̃.kjɛm",
+    "translation": {"zh": "第五", "en": "fifth"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "cinquième", "lemma": "cinquième", "ipa": "sɛ̃.kjɛm", "translation": {"zh": "第五", "en": "fifth"}, "emoji": "5️⃣"}
+    ]
+  },
+  {
+    "text": "sobre",
+    "ipa": "sɔbʁ",
+    "translation": {"zh": "清醒的", "en": "sober"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "sobre", "lemma": "sobre", "ipa": "sɔbʁ", "translation": {"zh": "清醒的", "en": "sober"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "pasteur",
+    "ipa": "pas.tœʁ",
+    "translation": {"zh": "牧师", "en": "pastor"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "pasteur", "lemma": "pasteur", "ipa": "pas.tœʁ", "translation": {"zh": "牧师", "en": "pastor"}, "emoji": "⛪"}
+    ]
+  }
+]

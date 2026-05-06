@@ -1,0 +1,139 @@
+[
+  {
+    "text": "轻轻的我走了，",
+    "ipa": "qīng qīng de wǒ zǒu le,",
+    "translation": {
+      "zh": "轻轻的我走了，",
+      "en": "Softly I am leaving,"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "轻轻的我走了",
+        "lemma": "走",
+        "ipa": "qīng qīng de wǒ zǒu le",
+        "translation": {"zh": "我悄悄地离开", "en": "I quietly leave"},
+        "emoji": "🚶"
+      }
+    ],
+    "tags": [{"name": "再别康桥", "index": 1}]
+  },
+  {
+    "text": "正如我轻轻的来；",
+    "ipa": "zhèng rú wǒ qīng qīng de lái;",
+    "translation": {
+      "zh": "正如我轻轻的来；",
+      "en": "just as softly I came;"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "正如",
+        "lemma": "正如",
+        "ipa": "zhèng rú",
+        "translation": {"zh": "就像", "en": "just as"},
+        "emoji": ""
+      },
+      {
+        "text": "我轻轻的来",
+        "lemma": "来",
+        "ipa": "wǒ qīng qīng de lái",
+        "translation": {"zh": "我悄悄地来到", "en": "I quietly came"},
+        "emoji": "🌫️"
+      }
+    ],
+    "tags": [{"name": "再别康桥", "index": 2}]
+  },
+  {
+    "text": "我轻轻的招手，作别西天的云彩。",
+    "ipa": "wǒ qīng qīng de zhāo shǒu, zuò bié xī tiān de yún cǎi.",
+    "translation": {
+      "zh": "我轻轻的招手，作别西天的云彩。",
+      "en": "I gently wave my hand, bidding farewell to the western sky's clouds."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "我轻轻的招手",
+        "lemma": "招手",
+        "ipa": "wǒ qīng qīng de zhāo shǒu",
+        "translation": {"zh": "我轻轻摆手", "en": "I gently wave"},
+        "emoji": "👋"
+      },
+      {
+        "text": "作别",
+        "lemma": "作别",
+        "ipa": "zuò bié",
+        "translation": {"zh": "告别", "en": "bid farewell"},
+        "emoji": "👋"
+      },
+      {
+        "text": "西天的云彩",
+        "lemma": "云彩",
+        "ipa": "xī tiān de yún cǎi",
+        "translation": {"zh": "西边天上的云", "en": "western sky clouds"},
+        "emoji": "☁️"
+      }
+    ],
+    "tags": [{"name": "再别康桥", "index": 3}]
+  },
+  {
+    "text": "那河畔的金柳，是夕阳中的新娘；",
+    "ipa": "nà hé pàn de jīn liǔ, shì xī yáng zhōng de xīn niáng;",
+    "translation": {
+      "zh": "那河畔的金柳，是夕阳中的新娘；",
+      "en": "The golden willows by the river are brides in the setting sun;"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "那河畔的金柳",
+        "lemma": "金柳",
+        "ipa": "nà hé pàn de jīn liǔ",
+        "translation": {"zh": "河边那金色柳树", "en": "golden willows by river"},
+        "emoji": "🌳"
+      },
+      {
+        "text": "是夕阳中的新娘",
+        "lemma": "新娘",
+        "ipa": "shì xī yáng zhōng de xīn niáng",
+        "translation": {"zh": "像落日里的新娘", "en": "is bride in sunset"},
+        "emoji": "👰"
+      }
+    ],
+    "tags": [{"name": "再别康桥", "index": 4}]
+  },
+  {
+    "text": "波光里的艳影，在我的心头荡漾。",
+    "ipa": "bō guāng lǐ de yàn yǐng, zài wǒ de xīn tóu dàng yàng.",
+    "translation": {
+      "zh": "波光里的艳影，在我的心头荡漾。",
+      "en": "Her bright shadow on the rippling water sways within my heart."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "波光里的艳影",
+        "lemma": "艳影",
+        "ipa": "bō guāng lǐ de yàn yǐng",
+        "translation": {"zh": "粼粼水波中倩影", "en": "bright shadow in ripples"},
+        "emoji": "🌊"
+      },
+      {
+        "text": "在我的心头",
+        "lemma": "心头",
+        "ipa": "zài wǒ de xīn tóu",
+        "translation": {"zh": "在我心里", "en": "in my heart"},
+        "emoji": "💗"
+      },
+      {
+        "text": "荡漾",
+        "lemma": "荡漾",
+        "ipa": "dàng yàng",
+        "translation": {"zh": "轻轻摇晃", "en": "ripple, sway"},
+        "emoji": "〰️"
+      }
+    ],
+    "tags": [{"name": "再别康桥", "index": 5}]
+  }
+]

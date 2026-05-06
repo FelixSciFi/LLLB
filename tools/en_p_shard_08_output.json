@@ -1,0 +1,38 @@
+[
+  {
+    "input_word": "pursue",
+    "entries": [
+      {
+        "text": "pursue",
+        "ipa": "/pərˈsuː/",
+        "cefr": "B2",
+        "zh": "追求",
+        "emoji": "🎯"
+      }
+    ]
+  },
+  {
+    "input_word": "push",
+    "entries": [
+      {
+        "text": "push",
+        "ipa": "/pʊʃ/",
+        "cefr": "A2",
+        "zh": "推",
+        "emoji": "🫸"
+      }
+    ]
+  },
+  {
+    "input_word": "put",
+    "entries": [
+      {
+        "text": "put",
+        "ipa": "/pʊt/",
+        "cefr": "A1",
+        "zh": "放置",
+        "emoji": "📥"
+      }
+    ]
+  }
+]

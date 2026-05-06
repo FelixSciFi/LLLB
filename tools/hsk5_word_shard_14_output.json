@@ -1,0 +1,164 @@
+[
+  {
+    "input_text": "幻想",
+    "entries": [
+      {"text": "幻想", "pinyin": "huàn xiǎng", "en": "fantasy; illusion", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_text": "慌张",
+    "entries": [
+      {"text": "慌张", "pinyin": "huāng zhāng", "en": "flustered; panicked", "emoji": "😰"}
+    ]
+  },
+  {
+    "input_text": "黄金",
+    "entries": [
+      {"text": "黄金", "pinyin": "huáng jīn", "en": "gold", "emoji": "🥇"}
+    ]
+  },
+  {
+    "input_text": "灰",
+    "entries": [
+      {"text": "灰", "pinyin": "huī", "en": "grey; ash", "emoji": "🩶"}
+    ]
+  },
+  {
+    "input_text": "灰尘",
+    "entries": [
+      {"text": "灰尘", "pinyin": "huī chén", "en": "dust", "emoji": "🌫️"}
+    ]
+  },
+  {
+    "input_text": "灰心",
+    "entries": [
+      {"text": "灰心", "pinyin": "huī xīn", "en": "discouraged; lose heart", "emoji": "😔"}
+    ]
+  },
+  {
+    "input_text": "挥",
+    "entries": [
+      {"text": "挥", "pinyin": "huī", "en": "wave; swing", "emoji": "👋"}
+    ]
+  },
+  {
+    "input_text": "恢复",
+    "entries": [
+      {"text": "恢复", "pinyin": "huī fù", "en": "recover; restore", "emoji": "🔄"}
+    ]
+  },
+  {
+    "input_text": "汇率",
+    "entries": [
+      {"text": "汇率", "pinyin": "huì lǜ", "en": "exchange rate", "emoji": "💱"}
+    ]
+  },
+  {
+    "input_text": "婚礼",
+    "entries": [
+      {"text": "婚礼", "pinyin": "hūn lǐ", "en": "wedding ceremony", "emoji": "💒"}
+    ]
+  },
+  {
+    "input_text": "婚姻",
+    "entries": [
+      {"text": "婚姻", "pinyin": "hūn yīn", "en": "marriage", "emoji": "💍"}
+    ]
+  },
+  {
+    "input_text": "活跃",
+    "entries": [
+      {"text": "活跃", "pinyin": "huó yuè", "en": "active; lively", "emoji": "⚡"}
+    ]
+  },
+  {
+    "input_text": "火柴",
+    "entries": [
+      {"text": "火柴", "pinyin": "huǒ chái", "en": "match (fire)", "emoji": "🔥"}
+    ]
+  },
+  {
+    "input_text": "伙伴",
+    "entries": [
+      {"text": "伙伴", "pinyin": "huǒ bàn", "en": "partner; companion", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_text": "机器",
+    "entries": [
+      {"text": "机器", "pinyin": "jī qì", "en": "machine", "emoji": "⚙️"}
+    ]
+  },
+  {
+    "input_text": "肌肉",
+    "entries": [
+      {"text": "肌肉", "pinyin": "jī ròu", "en": "muscle", "emoji": "💪"}
+    ]
+  },
+  {
+    "input_text": "基本",
+    "entries": [
+      {"text": "基本", "pinyin": "jī běn", "en": "basic; fundamental", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "激烈",
+    "entries": [
+      {"text": "激烈", "pinyin": "jī liè", "en": "fierce; intense", "emoji": "🔥"}
+    ]
+  },
+  {
+    "input_text": "及格",
+    "entries": [
+      {"text": "及格", "pinyin": "jí gé", "en": "pass (a test)", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_text": "急诊",
+    "entries": [
+      {"text": "急诊", "pinyin": "jí zhěn", "en": "emergency (medical)", "emoji": "🚑"}
+    ]
+  },
+  {
+    "input_text": "集合",
+    "entries": [
+      {"text": "集合", "pinyin": "jí hé", "en": "assemble; gather", "emoji": "👥"}
+    ]
+  },
+  {
+    "input_text": "集体",
+    "entries": [
+      {"text": "集体", "pinyin": "jí tǐ", "en": "collective; group", "emoji": "👥"}
+    ]
+  },
+  {
+    "input_text": "集中",
+    "entries": [
+      {"text": "集中", "pinyin": "jí zhōng", "en": "concentrate; focus", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_text": "计算",
+    "entries": [
+      {"text": "计算", "pinyin": "jì suàn", "en": "calculate; compute", "emoji": "🧮"}
+    ]
+  },
+  {
+    "input_text": "记录",
+    "entries": [
+      {"text": "记录", "pinyin": "jì lù", "en": "record; document", "emoji": "📝"}
+    ]
+  },
+  {
+    "input_text": "记忆",
+    "entries": [
+      {"text": "记忆", "pinyin": "jì yì", "en": "memory; remember", "emoji": "🧠"}
+    ]
+  },
+  {
+    "input_text": "纪录",
+    "entries": [
+      {"text": "纪录", "pinyin": "jì lù", "en": "(performance) record", "emoji": "🏆"}
+    ]
+  }
+]

@@ -1,0 +1,376 @@
+[
+  {
+    "input_word": "actress",
+    "entries": [
+      {
+        "text": "actress",
+        "ipa": "/ˈæk.trəs/",
+        "cefr": "A1",
+        "zh": "女演员",
+        "emoji": "🎭"
+      }
+    ]
+  },
+  {
+    "input_word": "actual",
+    "entries": [
+      {
+        "text": "actual",
+        "ipa": "/ˈæk.tʃu.əl/",
+        "cefr": "B2",
+        "zh": "实际的",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "actually",
+    "entries": [
+      {
+        "text": "actually",
+        "ipa": "/ˈæk.tʃu.ə.li/",
+        "cefr": "A2",
+        "zh": "实际上",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "ad",
+    "entries": [
+      {
+        "text": "ad",
+        "ipa": "/æd/",
+        "cefr": "B1",
+        "zh": "广告",
+        "emoji": "📢"
+      }
+    ]
+  },
+  {
+    "input_word": "adapt",
+    "entries": [
+      {
+        "text": "adapt",
+        "ipa": "/əˈdæpt/",
+        "cefr": "B2",
+        "zh": "适应",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "add",
+    "entries": [
+      {
+        "text": "add",
+        "ipa": "/æd/",
+        "cefr": "A1",
+        "zh": "添加",
+        "emoji": "➕"
+      }
+    ]
+  },
+  {
+    "input_word": "addition",
+    "entries": [
+      {
+        "text": "addition",
+        "ipa": "/əˈdɪʃ.ən/",
+        "cefr": "B1",
+        "zh": "增加",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "additional",
+    "entries": [
+      {
+        "text": "additional",
+        "ipa": "/əˈdɪʃ.ən.əl/",
+        "cefr": "B2",
+        "zh": "额外的",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "address",
+    "entries": [
+      {
+        "text": "address",
+        "ipa": "/ˈæd.res/",
+        "cefr": "A1",
+        "zh": "地址",
+        "emoji": "📍"
+      },
+      {
+        "text": "address",
+        "ipa": "/əˈdres/",
+        "cefr": "A1",
+        "zh": "发表演讲",
+        "emoji": "🎤"
+      }
+    ]
+  },
+  {
+    "input_word": "administration",
+    "entries": [
+      {
+        "text": "administration",
+        "ipa": "/ədˌmɪn.ɪˈstreɪ.ʃən/",
+        "cefr": "B2",
+        "zh": "管理",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "admire",
+    "entries": [
+      {
+        "text": "admire",
+        "ipa": "/ədˈmaɪr/",
+        "cefr": "B1",
+        "zh": "钦佩",
+        "emoji": "😍"
+      }
+    ]
+  },
+  {
+    "input_word": "admit",
+    "entries": [
+      {
+        "text": "admit",
+        "ipa": "/ədˈmɪt/",
+        "cefr": "B1",
+        "zh": "承认",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "adopt",
+    "entries": [
+      {
+        "text": "adopt",
+        "ipa": "/əˈdɑpt/",
+        "cefr": "B2",
+        "zh": "收养",
+        "emoji": "👨‍👧"
+      }
+    ]
+  },
+  {
+    "input_word": "adult",
+    "entries": [
+      {
+        "text": "adult",
+        "ipa": "/ˈeɪ.dʌlt/",
+        "cefr": "A1",
+        "zh": "成年人",
+        "emoji": "🧑"
+      }
+    ]
+  },
+  {
+    "input_word": "advance",
+    "entries": [
+      {
+        "text": "advance",
+        "ipa": "/ədˈvæns/",
+        "cefr": "B2",
+        "zh": "前进",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "advanced",
+    "entries": [
+      {
+        "text": "advanced",
+        "ipa": "/ədˈvænst/",
+        "cefr": "B1",
+        "zh": "高级的",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "advantage",
+    "entries": [
+      {
+        "text": "advantage",
+        "ipa": "/ədˈvæn.tɪdʒ/",
+        "cefr": "A2",
+        "zh": "优势",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "adventure",
+    "entries": [
+      {
+        "text": "adventure",
+        "ipa": "/ədˈven.tʃər/",
+        "cefr": "A2",
+        "zh": "冒险",
+        "emoji": "🗺️"
+      }
+    ]
+  },
+  {
+    "input_word": "advertise",
+    "entries": [
+      {
+        "text": "advertise",
+        "ipa": "/ˈæd.vər.taɪz/",
+        "cefr": "A2",
+        "zh": "打广告",
+        "emoji": "📣"
+      }
+    ]
+  },
+  {
+    "input_word": "advertisement",
+    "entries": [
+      {
+        "text": "advertisement",
+        "ipa": "/ˌæd.vərˈtaɪz.mənt/",
+        "cefr": "A2",
+        "zh": "广告",
+        "emoji": "📢"
+      }
+    ]
+  },
+  {
+    "input_word": "advertising",
+    "entries": [
+      {
+        "text": "advertising",
+        "ipa": "/ˈæd.vər.taɪ.zɪŋ/",
+        "cefr": "A2",
+        "zh": "广告业",
+        "emoji": "📣"
+      }
+    ]
+  },
+  {
+    "input_word": "advice",
+    "entries": [
+      {
+        "text": "advice",
+        "ipa": "/ədˈvaɪs/",
+        "cefr": "A1",
+        "zh": "建议",
+        "emoji": "💡"
+      }
+    ]
+  },
+  {
+    "input_word": "advise",
+    "entries": [
+      {
+        "text": "advise",
+        "ipa": "/ədˈvaɪz/",
+        "cefr": "B1",
+        "zh": "建议",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "affair",
+    "entries": [
+      {
+        "text": "affair",
+        "ipa": "/əˈfer/",
+        "cefr": "B2",
+        "zh": "事务",
+        "emoji": ""
+      },
+      {
+        "text": "affair",
+        "ipa": "/əˈfer/",
+        "cefr": "B2",
+        "zh": "婚外情",
+        "emoji": "💔"
+      }
+    ]
+  },
+  {
+    "input_word": "affect",
+    "entries": [
+      {
+        "text": "affect",
+        "ipa": "/əˈfekt/",
+        "cefr": "A2",
+        "zh": "影响",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "afford",
+    "entries": [
+      {
+        "text": "afford",
+        "ipa": "/əˈfɔrd/",
+        "cefr": "B1",
+        "zh": "负担得起",
+        "emoji": "💰"
+      }
+    ]
+  },
+  {
+    "input_word": "afraid",
+    "entries": [
+      {
+        "text": "afraid",
+        "ipa": "/əˈfreɪd/",
+        "cefr": "A1",
+        "zh": "害怕的",
+        "emoji": "😨"
+      }
+    ]
+  },
+  {
+    "input_word": "after",
+    "entries": [
+      {
+        "text": "after",
+        "ipa": "/ˈæf.tər/",
+        "cefr": "A1",
+        "zh": "之后",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "afternoon",
+    "entries": [
+      {
+        "text": "afternoon",
+        "ipa": "/ˌæf.tərˈnuːn/",
+        "cefr": "A1",
+        "zh": "下午",
+        "emoji": "🌤️"
+      }
+    ]
+  },
+  {
+    "input_word": "afterwards",
+    "entries": [
+      {
+        "text": "afterwards",
+        "ipa": "/ˈæf.tər.wərdz/",
+        "cefr": "B2",
+        "zh": "之后",
+        "emoji": ""
+      }
+    ]
+  }
+]

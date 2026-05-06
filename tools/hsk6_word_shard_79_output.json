@@ -1,0 +1,182 @@
+[
+  {
+    "input_text": "治安",
+    "entries": [
+      {"text": "治安", "pinyin": "zhì ān", "en": "public order", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "治理",
+    "entries": [
+      {"text": "治理", "pinyin": "zhì lǐ", "en": "govern; manage", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "致辞",
+    "entries": [
+      {"text": "致辞", "pinyin": "zhì cí", "en": "give a speech", "emoji": "🎤"}
+    ]
+  },
+  {
+    "input_text": "致力",
+    "entries": [
+      {"text": "致力", "pinyin": "zhì lì", "en": "devote effort to", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "致使",
+    "entries": [
+      {"text": "致使", "pinyin": "zhì shǐ", "en": "cause; lead to", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "智力",
+    "entries": [
+      {"text": "智力", "pinyin": "zhì lì", "en": "intelligence", "emoji": "🧠"}
+    ]
+  },
+  {
+    "input_text": "智能",
+    "entries": [
+      {"text": "智能", "pinyin": "zhì néng", "en": "smart; intelligent", "emoji": "🤖"}
+    ]
+  },
+  {
+    "input_text": "智商",
+    "entries": [
+      {"text": "智商", "pinyin": "zhì shāng", "en": "IQ", "emoji": "🧠"}
+    ]
+  },
+  {
+    "input_text": "滞留",
+    "entries": [
+      {"text": "滞留", "pinyin": "zhì liú", "en": "be stranded; detained", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "中断",
+    "entries": [
+      {"text": "中断", "pinyin": "zhōng duàn", "en": "interrupt; break off", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "中立",
+    "entries": [
+      {"text": "中立", "pinyin": "zhōng lì", "en": "neutral; neutrality", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "中央",
+    "entries": [
+      {"text": "中央", "pinyin": "zhōng yāng", "en": "center; central", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "忠诚",
+    "entries": [
+      {"text": "忠诚", "pinyin": "zhōng chéng", "en": "loyal; loyalty", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "忠实",
+    "entries": [
+      {"text": "忠实", "pinyin": "zhōng shí", "en": "faithful; devoted", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "终点",
+    "entries": [
+      {"text": "终点", "pinyin": "zhōng diǎn", "en": "finish line; endpoint", "emoji": "🏁"}
+    ]
+  },
+  {
+    "input_text": "终究",
+    "entries": [
+      {"text": "终究", "pinyin": "zhōng jiū", "en": "ultimately; after all", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "终身",
+    "entries": [
+      {"text": "终身", "pinyin": "zhōng shēn", "en": "lifelong; for life", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "终止",
+    "entries": [
+      {"text": "终止", "pinyin": "zhōng zhǐ", "en": "terminate; end", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "衷心",
+    "entries": [
+      {"text": "衷心", "pinyin": "zhōng xīn", "en": "heartfelt; sincere", "emoji": "❤️"}
+    ]
+  },
+  {
+    "input_text": "肿瘤",
+    "entries": [
+      {"text": "肿瘤", "pinyin": "zhǒng liú", "en": "tumor", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "种子",
+    "entries": [
+      {"text": "种子", "pinyin": "zhǒng zi", "en": "seed", "emoji": "🌱"}
+    ]
+  },
+  {
+    "input_text": "种族",
+    "entries": [
+      {"text": "种族", "pinyin": "zhǒng zú", "en": "race; ethnicity", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "众所周知",
+    "entries": [
+      {"text": "众所周知", "pinyin": "zhòng suǒ zhōu zhī", "en": "as everyone knows", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "种植",
+    "entries": [
+      {"text": "种植", "pinyin": "zhòng zhí", "en": "plant; cultivate", "emoji": "🌾"}
+    ]
+  },
+  {
+    "input_text": "重心",
+    "entries": [
+      {"text": "重心", "pinyin": "zhòng xīn", "en": "center of gravity; focus", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "舟",
+    "entries": [
+      {"text": "舟", "pinyin": "zhōu", "en": "boat", "emoji": "🚣"}
+    ]
+  },
+  {
+    "input_text": "州",
+    "entries": [
+      {"text": "州", "pinyin": "zhōu", "en": "state; province", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "周边",
+    "entries": [
+      {"text": "周边", "pinyin": "zhōu biān", "en": "surrounding area", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "周密",
+    "entries": [
+      {"text": "周密", "pinyin": "zhōu mì", "en": "thorough; meticulous", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "周年",
+    "entries": [
+      {"text": "周年", "pinyin": "zhōu nián", "en": "anniversary", "emoji": "🎂"}
+    ]
+  }
+]

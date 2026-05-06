@@ -1,0 +1,141 @@
+[
+  {
+    "input_word": "expose",
+    "entries": [
+      {
+        "text": "expose",
+        "ipa": "/ɪkˈspoʊz/",
+        "cefr": "B2",
+        "zh": "暴露",
+        "emoji": "🔍"
+      }
+    ]
+  },
+  {
+    "input_word": "express",
+    "entries": [
+      {
+        "text": "express",
+        "ipa": "/ɪkˈsprɛs/",
+        "cefr": "A2",
+        "zh": "表达",
+        "emoji": "💬"
+      },
+      {
+        "text": "express",
+        "ipa": "/ɪkˈsprɛs/",
+        "cefr": "A2",
+        "zh": "快速的",
+        "emoji": "🚄"
+      }
+    ]
+  },
+  {
+    "input_word": "expression",
+    "entries": [
+      {
+        "text": "expression",
+        "ipa": "/ɪkˈsprɛʃən/",
+        "cefr": "A2",
+        "zh": "表达",
+        "emoji": "😊"
+      }
+    ]
+  },
+  {
+    "input_word": "extend",
+    "entries": [
+      {
+        "text": "extend",
+        "ipa": "/ɪkˈstɛnd/",
+        "cefr": "B2",
+        "zh": "延伸",
+        "emoji": "↔️"
+      }
+    ]
+  },
+  {
+    "input_word": "extent",
+    "entries": [
+      {
+        "text": "extent",
+        "ipa": "/ɪkˈstɛnt/",
+        "cefr": "B2",
+        "zh": "程度",
+        "emoji": "📏"
+      }
+    ]
+  },
+  {
+    "input_word": "external",
+    "entries": [
+      {
+        "text": "external",
+        "ipa": "/ɪkˈstɜːrnəl/",
+        "cefr": "B2",
+        "zh": "外部的",
+        "emoji": "🔗"
+      }
+    ]
+  },
+  {
+    "input_word": "extra",
+    "entries": [
+      {
+        "text": "extra",
+        "ipa": "/ˈɛkstrə/",
+        "cefr": "A1",
+        "zh": "额外的",
+        "emoji": "➕"
+      }
+    ]
+  },
+  {
+    "input_word": "extraordinary",
+    "entries": [
+      {
+        "text": "extraordinary",
+        "ipa": "/ɪkˈstrɔːrdənɛri/",
+        "cefr": "B2",
+        "zh": "非凡的",
+        "emoji": "✨"
+      }
+    ]
+  },
+  {
+    "input_word": "extreme",
+    "entries": [
+      {
+        "text": "extreme",
+        "ipa": "/ɪkˈstriːm/",
+        "cefr": "A2",
+        "zh": "极端的",
+        "emoji": "⚡"
+      }
+    ]
+  },
+  {
+    "input_word": "extremely",
+    "entries": [
+      {
+        "text": "extremely",
+        "ipa": "/ɪkˈstriːmli/",
+        "cefr": "A2",
+        "zh": "极其",
+        "emoji": "🔥"
+      }
+    ]
+  },
+  {
+    "input_word": "eye",
+    "entries": [
+      {
+        "text": "eye",
+        "ipa": "/aɪ/",
+        "cefr": "A1",
+        "zh": "眼睛",
+        "emoji": "👁️"
+      }
+    ]
+  }
+]

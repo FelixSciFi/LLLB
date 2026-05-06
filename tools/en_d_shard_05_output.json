@@ -1,0 +1,103 @@
+[
+  {
+    "input_word": "dress",
+    "entries": [
+      {"text": "dress", "ipa": "/drɛs/", "cefr": "A1", "zh": "连衣裙", "emoji": "👗"},
+      {"text": "dress", "ipa": "/drɛs/", "cefr": "A1", "zh": "穿衣", "emoji": "🧥"}
+    ]
+  },
+  {
+    "input_word": "dressed",
+    "entries": [
+      {"text": "dressed", "ipa": "/drɛst/", "cefr": "B1", "zh": "穿好衣服", "emoji": "👔"}
+    ]
+  },
+  {
+    "input_word": "drink",
+    "entries": [
+      {"text": "drink", "ipa": "/drɪŋk/", "cefr": "A1", "zh": "饮料", "emoji": "🥤"},
+      {"text": "drink", "ipa": "/drɪŋk/", "cefr": "A1", "zh": "喝", "emoji": "🍹"}
+    ]
+  },
+  {
+    "input_word": "drive",
+    "entries": [
+      {"text": "drive", "ipa": "/draɪv/", "cefr": "A1", "zh": "驾驶", "emoji": "🚗"},
+      {"text": "drive", "ipa": "/draɪv/", "cefr": "A1", "zh": "驱动力", "emoji": "💪"}
+    ]
+  },
+  {
+    "input_word": "driver",
+    "entries": [
+      {"text": "driver", "ipa": "/ˈdraɪvər/", "cefr": "A1", "zh": "司机", "emoji": "🧑‍✈️"}
+    ]
+  },
+  {
+    "input_word": "driving",
+    "entries": [
+      {"text": "driving", "ipa": "/ˈdraɪvɪŋ/", "cefr": "A2", "zh": "驾车", "emoji": "🚘"}
+    ]
+  },
+  {
+    "input_word": "drop",
+    "entries": [
+      {"text": "drop", "ipa": "/drɑp/", "cefr": "A2", "zh": "滴", "emoji": "💧"},
+      {"text": "drop", "ipa": "/drɑp/", "cefr": "A2", "zh": "落下", "emoji": "⬇️"}
+    ]
+  },
+  {
+    "input_word": "drug",
+    "entries": [
+      {"text": "drug", "ipa": "/drʌɡ/", "cefr": "A2", "zh": "药物", "emoji": "💊"},
+      {"text": "drug", "ipa": "/drʌɡ/", "cefr": "A2", "zh": "毒品", "emoji": "🚫"}
+    ]
+  },
+  {
+    "input_word": "drum",
+    "entries": [
+      {"text": "drum", "ipa": "/drʌm/", "cefr": "B1", "zh": "鼓", "emoji": "🥁"}
+    ]
+  },
+  {
+    "input_word": "drunk",
+    "entries": [
+      {"text": "drunk", "ipa": "/drʌŋk/", "cefr": "B1", "zh": "醉酒", "emoji": "🍺"}
+    ]
+  },
+  {
+    "input_word": "dry",
+    "entries": [
+      {"text": "dry", "ipa": "/draɪ/", "cefr": "A2", "zh": "干燥", "emoji": "🌵"},
+      {"text": "dry", "ipa": "/draɪ/", "cefr": "A2", "zh": "烘干", "emoji": "🌬️"}
+    ]
+  },
+  {
+    "input_word": "due",
+    "entries": [
+      {"text": "due", "ipa": "/duː/", "cefr": "B1", "zh": "到期的", "emoji": "📅"}
+    ]
+  },
+  {
+    "input_word": "during",
+    "entries": []
+  },
+  {
+    "input_word": "dust",
+    "entries": [
+      {"text": "dust", "ipa": "/dʌst/", "cefr": "B1", "zh": "灰尘", "emoji": "🌫️"},
+      {"text": "dust", "ipa": "/dʌst/", "cefr": "B1", "zh": "掸灰", "emoji": "🧹"}
+    ]
+  },
+  {
+    "input_word": "duty",
+    "entries": [
+      {"text": "duty", "ipa": "/ˈduːti/", "cefr": "B1", "zh": "职责", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "dvd",
+    "entries": [
+      {"text": "DVD", "ipa": "/ˌdiːˌviːˈdiː/", "cefr": "A1", "zh": "光盘", "emoji": "💿"}
+    ]
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "text": "le foie",
+    "ipa": "lə fwa",
+    "translation": {"zh": "肝脏", "en": "the liver"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le foie", "lemma": "foie", "ipa": "lə fwa", "translation": {"zh": "肝脏", "en": "liver"}, "emoji": "🫀"}
+    ]
+  },
+  {
+    "text": "dominant",
+    "ipa": "dɔminɑ̃",
+    "translation": {"zh": "占主导的", "en": "dominant"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "dominant", "lemma": "dominant", "ipa": "dɔminɑ̃", "translation": {"zh": "占主导的", "en": "dominant"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "l'estime",
+    "ipa": "lɛstim",
+    "translation": {"zh": "尊重", "en": "esteem"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'estime", "lemma": "estime", "ipa": "lɛstim", "translation": {"zh": "尊重", "en": "esteem"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la tendresse",
+    "ipa": "la tɑ̃dʁɛs",
+    "translation": {"zh": "温柔", "en": "tenderness"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la tendresse", "lemma": "tendresse", "ipa": "la tɑ̃dʁɛs", "translation": {"zh": "温柔", "en": "tenderness"}, "emoji": "🤍"}
+    ]
+  },
+  {
+    "text": "là-dedans",
+    "ipa": "la dədɑ̃",
+    "translation": {"zh": "在里面", "en": "inside there"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "là-dedans", "lemma": "là-dedans", "ipa": "la dədɑ̃", "translation": {"zh": "在里面", "en": "inside there"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le cuisinier",
+    "ipa": "lə kɥizinje",
+    "translation": {"zh": "厨师", "en": "the cook"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le cuisinier", "lemma": "cuisinier", "ipa": "lə kɥizinje", "translation": {"zh": "厨师", "en": "cook"}, "emoji": "👨‍🍳"}
+    ]
+  },
+  {
+    "text": "gouvernemental",
+    "ipa": "ɡuvɛʁnəmɑ̃tal",
+    "translation": {"zh": "政府的", "en": "governmental"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "gouvernemental", "lemma": "gouvernemental", "ipa": "ɡuvɛʁnəmɑ̃tal", "translation": {"zh": "政府的", "en": "governmental"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "parental",
+    "ipa": "paʁɑ̃tal",
+    "translation": {"zh": "父母的", "en": "parental"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "parental", "lemma": "parental", "ipa": "paʁɑ̃tal", "translation": {"zh": "父母的", "en": "parental"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "il est gêné",
+    "ipa": "il ɛ ʒɛne",
+    "translation": {"zh": "他很尴尬", "en": "he is embarrassed"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il est gêné", "lemma": "être gêné", "ipa": "il ɛ ʒɛne", "translation": {"zh": "感到尴尬", "en": "feel embarrassed"}, "emoji": "😳"}
+    ]
+  },
+  {
+    "text": "fabuleux",
+    "ipa": "fabylø",
+    "translation": {"zh": "极好的", "en": "fabulous"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "fabuleux", "lemma": "fabuleux", "ipa": "fabylø", "translation": {"zh": "极好的", "en": "fabulous"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "les instructions",
+    "ipa": "le ɛ̃stʁyksjɔ̃",
+    "translation": {"zh": "说明指示", "en": "the instructions"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "les instructions", "lemma": "instruction", "ipa": "le ɛ̃stʁyksjɔ̃", "translation": {"zh": "说明指示", "en": "instructions"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "le porc",
+    "ipa": "lə pɔʁ",
+    "translation": {"zh": "猪肉", "en": "pork"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le porc", "lemma": "porc", "ipa": "lə pɔʁ", "translation": {"zh": "猪肉", "en": "pork"}, "emoji": "🐷"}
+    ]
+  },
+  {
+    "text": "forestier",
+    "ipa": "fɔʁɛstje",
+    "translation": {"zh": "森林的", "en": "forest"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "forestier", "lemma": "forestier", "ipa": "fɔʁɛstje", "translation": {"zh": "森林的", "en": "forest"}, "emoji": "🌲"}
+    ]
+  },
+  {
+    "text": "arroser les plantes",
+    "ipa": "aʁoze le plɑ̃t",
+    "translation": {"zh": "给植物浇水", "en": "water the plants"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "arroser", "lemma": "arroser", "ipa": "aʁoze", "translation": {"zh": "浇水", "en": "water"}, "emoji": "💧"},
+      {"text": "les plantes", "lemma": "plante", "ipa": "le plɑ̃t", "translation": {"zh": "植物", "en": "plants"}, "emoji": "🪴"}
+    ]
+  },
+  {
+    "text": "se vanter",
+    "ipa": "sə vɑ̃te",
+    "translation": {"zh": "自吹自擂", "en": "to boast"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "se vanter", "lemma": "vanter", "ipa": "sə vɑ̃te", "translation": {"zh": "自吹自擂", "en": "boast"}, "emoji": "😤"}
+    ]
+  },
+  {
+    "text": "secouer la tête",
+    "ipa": "səkwe la tɛt",
+    "translation": {"zh": "摇头", "en": "shake one's head"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "secouer", "lemma": "secouer", "ipa": "səkwe", "translation": {"zh": "摇动", "en": "shake"}, "emoji": ""},
+      {"text": "la tête", "lemma": "tête", "ipa": "la tɛt", "translation": {"zh": "头", "en": "head"}, "emoji": "🗣️"}
+    ]
+  },
+  {
+    "text": "solidaire",
+    "ipa": "sɔlidɛʁ",
+    "translation": {"zh": "团结一致的", "en": "united"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "solidaire", "lemma": "solidaire", "ipa": "sɔlidɛʁ", "translation": {"zh": "团结一致的", "en": "united"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "c'est payant",
+    "ipa": "sɛ pɛjɑ̃",
+    "translation": {"zh": "这是收费的", "en": "it costs money"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est payant", "lemma": "payant", "ipa": "sɛ pɛjɑ̃", "translation": {"zh": "收费的", "en": "paid"}, "emoji": "💰"}
+    ]
+  },
+  {
+    "text": "délivrer un passeport",
+    "ipa": "deliвʁe ɛ̃ paspɔʁ",
+    "translation": {"zh": "签发护照", "en": "issue a passport"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "délivrer", "lemma": "délivrer", "ipa": "delivʁe", "translation": {"zh": "签发", "en": "issue"}, "emoji": ""},
+      {"text": "un passeport", "lemma": "passeport", "ipa": "ɛ̃ paspɔʁ", "translation": {"zh": "护照", "en": "passport"}, "emoji": "🛂"}
+    ]
+  },
+  {
+    "text": "progressif",
+    "ipa": "pʁɔɡʁɛsif",
+    "translation": {"zh": "渐进的", "en": "progressive"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "progressif", "lemma": "progressif", "ipa": "pʁɔɡʁɛsif", "translation": {"zh": "渐进的", "en": "progressive"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "contraindre quelqu'un",
+    "ipa": "kɔ̃tʁɛ̃dʁ kɛlkœ̃",
+    "translation": {"zh": "强迫某人", "en": "compel someone"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "contraindre", "lemma": "contraindre", "ipa": "kɔ̃tʁɛ̃dʁ", "translation": {"zh": "强迫", "en": "compel"}, "emoji": ""},
+      {"text": "quelqu'un", "lemma": "quelqu'un", "ipa": "kɛlkœ̃", "translation": {"zh": "某人", "en": "someone"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un château médiéval",
+    "ipa": "ɛ̃ ʃato medjeval",
+    "translation": {"zh": "一座中世纪城堡", "en": "a medieval castle"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un château", "lemma": "château", "ipa": "ɛ̃ ʃato", "translation": {"zh": "城堡", "en": "castle"}, "emoji": "🏰"},
+      {"text": "médiéval", "lemma": "médiéval", "ipa": "medjeval", "translation": {"zh": "中世纪的", "en": "medieval"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "systématiquement",
+    "ipa": "sistematikəmɑ̃",
+    "translation": {"zh": "系统地", "en": "systematically"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "systématiquement", "lemma": "systématiquement", "ipa": "sistematikəmɑ̃", "translation": {"zh": "系统地", "en": "systematically"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la servante",
+    "ipa": "la sɛʁvɑ̃t",
+    "translation": {"zh": "女仆", "en": "the maidservant"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la servante", "lemma": "servante", "ipa": "la sɛʁvɑ̃t", "translation": {"zh": "女仆", "en": "maidservant"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la vengeance",
+    "ipa": "la vɑ̃ʒɑ̃s",
+    "translation": {"zh": "复仇", "en": "vengeance"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la vengeance", "lemma": "vengeance", "ipa": "la vɑ̃ʒɑ̃s", "translation": {"zh": "复仇", "en": "vengeance"}, "emoji": "⚔️"}
+    ]
+  },
+  {
+    "text": "l'énergie renouvelable",
+    "ipa": "leneʁʒi ʁənuvlabl",
+    "translation": {"zh": "可再生能源", "en": "renewable energy"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'énergie", "lemma": "énergie", "ipa": "leneʁʒi", "translation": {"zh": "能源", "en": "energy"}, "emoji": "⚡"},
+      {"text": "renouvelable", "lemma": "renouvelable", "ipa": "ʁənuvlabl", "translation": {"zh": "可再生的", "en": "renewable"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "nos ancêtres",
+    "ipa": "no zɑ̃sɛtʁ",
+    "translation": {"zh": "我们的祖先", "en": "our ancestors"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "nos ancêtres", "lemma": "ancêtre", "ipa": "no zɑ̃sɛtʁ", "translation": {"zh": "祖先", "en": "ancestors"}, "emoji": "👴"}
+    ]
+  },
+  {
+    "text": "nécessairement",
+    "ipa": "nesesɛʁmɑ̃",
+    "translation": {"zh": "必然地", "en": "necessarily"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "nécessairement", "lemma": "nécessairement", "ipa": "nesesɛʁmɑ̃", "translation": {"zh": "必然地", "en": "necessarily"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la loge",
+    "ipa": "la lɔʒ",
+    "translation": {"zh": "包厢", "en": "the box"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la loge", "lemma": "loge", "ipa": "la lɔʒ", "translation": {"zh": "包厢", "en": "box"}, "emoji": "🎭"}
+    ]
+  },
+  {
+    "text": "le détective",
+    "ipa": "lə detɛktiv",
+    "translation": {"zh": "侦探", "en": "the detective"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le détective", "lemma": "détective", "ipa": "lə detɛktiv", "translation": {"zh": "侦探", "en": "detective"}, "emoji": "🔍"}
+    ]
+  }
+]

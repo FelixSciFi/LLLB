@@ -1,0 +1,190 @@
+[
+  {
+    "input_word": "face",
+    "entries": [
+      {"text": "face", "ipa": "/feɪs/", "cefr": "A1", "zh": "脸", "emoji": "😊"},
+      {"text": "face", "ipa": "/feɪs/", "cefr": "A1", "zh": "面对", "emoji": "🫵"}
+    ]
+  },
+  {
+    "input_word": "facility",
+    "entries": [
+      {"text": "facility", "ipa": "/fəˈsɪlɪti/", "cefr": "B2", "zh": "设施", "emoji": "🏢"}
+    ]
+  },
+  {
+    "input_word": "fact",
+    "entries": [
+      {"text": "fact", "ipa": "/fækt/", "cefr": "A1", "zh": "事实", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_word": "factor",
+    "entries": [
+      {"text": "factor", "ipa": "/ˈfæktər/", "cefr": "A2", "zh": "因素", "emoji": "🔢"}
+    ]
+  },
+  {
+    "input_word": "factory",
+    "entries": [
+      {"text": "factory", "ipa": "/ˈfæktri/", "cefr": "A2", "zh": "工厂", "emoji": "🏭"}
+    ]
+  },
+  {
+    "input_word": "fail",
+    "entries": [
+      {"text": "fail", "ipa": "/feɪl/", "cefr": "A2", "zh": "失败", "emoji": "❌"}
+    ]
+  },
+  {
+    "input_word": "failure",
+    "entries": [
+      {"text": "failure", "ipa": "/ˈfeɪljər/", "cefr": "B2", "zh": "失败", "emoji": "💔"}
+    ]
+  },
+  {
+    "input_word": "fair",
+    "entries": [
+      {"text": "fair", "ipa": "/fɛr/", "cefr": "A2", "zh": "公平的", "emoji": "⚖️"},
+      {"text": "fair", "ipa": "/fɛr/", "cefr": "A2", "zh": "集市", "emoji": "🎡"}
+    ]
+  },
+  {
+    "input_word": "fairly",
+    "entries": [
+      {"text": "fairly", "ipa": "/ˈfɛrli/", "cefr": "B1", "zh": "相当地", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "faith",
+    "entries": [
+      {"text": "faith", "ipa": "/feɪθ/", "cefr": "B2", "zh": "信念", "emoji": "🙏"}
+    ]
+  },
+  {
+    "input_word": "fall",
+    "entries": [
+      {"text": "fall", "ipa": "/fɔːl/", "cefr": "A1", "zh": "落下", "emoji": "🍂"},
+      {"text": "fall", "ipa": "/fɔːl/", "cefr": "A1", "zh": "秋天", "emoji": "🍁"}
+    ]
+  },
+  {
+    "input_word": "false",
+    "entries": [
+      {"text": "false", "ipa": "/fɔːls/", "cefr": "A1", "zh": "错误的", "emoji": "❌"}
+    ]
+  },
+  {
+    "input_word": "familiar",
+    "entries": [
+      {"text": "familiar", "ipa": "/fəˈmɪljər/", "cefr": "B1", "zh": "熟悉的", "emoji": "🤗"}
+    ]
+  },
+  {
+    "input_word": "family",
+    "entries": [
+      {"text": "family", "ipa": "/ˈfæməli/", "cefr": "A1", "zh": "家庭", "emoji": "👨‍👩‍👧‍👦"}
+    ]
+  },
+  {
+    "input_word": "famous",
+    "entries": [
+      {"text": "famous", "ipa": "/ˈfeɪməs/", "cefr": "A1", "zh": "著名的", "emoji": "⭐"}
+    ]
+  },
+  {
+    "input_word": "fan",
+    "entries": [
+      {"text": "fan", "ipa": "/fæn/", "cefr": "A2", "zh": "粉丝", "emoji": "🤩"},
+      {"text": "fan", "ipa": "/fæn/", "cefr": "A2", "zh": "风扇", "emoji": "💨"}
+    ]
+  },
+  {
+    "input_word": "fancy",
+    "entries": [
+      {"text": "fancy", "ipa": "/ˈfænsi/", "cefr": "B1", "zh": "奢华的", "emoji": "✨"},
+      {"text": "fancy", "ipa": "/ˈfænsi/", "cefr": "B1", "zh": "想要", "emoji": "💭"}
+    ]
+  },
+  {
+    "input_word": "fantastic",
+    "entries": [
+      {"text": "fantastic", "ipa": "/fænˈtæstɪk/", "cefr": "A1", "zh": "极好的", "emoji": "🎉"}
+    ]
+  },
+  {
+    "input_word": "far",
+    "entries": [
+      {"text": "far", "ipa": "/fɑːr/", "cefr": "A1", "zh": "遥远的", "emoji": "🌅"}
+    ]
+  },
+  {
+    "input_word": "farm",
+    "entries": [
+      {"text": "farm", "ipa": "/fɑːrm/", "cefr": "A1", "zh": "农场", "emoji": "🚜"}
+    ]
+  },
+  {
+    "input_word": "farmer",
+    "entries": [
+      {"text": "farmer", "ipa": "/ˈfɑːrmər/", "cefr": "A1", "zh": "农民", "emoji": "👨‍🌾"}
+    ]
+  },
+  {
+    "input_word": "farming",
+    "entries": [
+      {"text": "farming", "ipa": "/ˈfɑːrmɪŋ/", "cefr": "A2", "zh": "农业", "emoji": "🌾"}
+    ]
+  },
+  {
+    "input_word": "fascinating",
+    "entries": [
+      {"text": "fascinating", "ipa": "/ˈfæsɪneɪtɪŋ/", "cefr": "B1", "zh": "迷人的", "emoji": "🤩"}
+    ]
+  },
+  {
+    "input_word": "fashion",
+    "entries": [
+      {"text": "fashion", "ipa": "/ˈfæʃən/", "cefr": "A2", "zh": "时尚", "emoji": "👗"}
+    ]
+  },
+  {
+    "input_word": "fashionable",
+    "entries": [
+      {"text": "fashionable", "ipa": "/ˈfæʃənəbəl/", "cefr": "B1", "zh": "时髦的", "emoji": "💅"}
+    ]
+  },
+  {
+    "input_word": "fast",
+    "entries": [
+      {"text": "fast", "ipa": "/fæst/", "cefr": "A1", "zh": "快速的", "emoji": "⚡"},
+      {"text": "fast", "ipa": "/fæst/", "cefr": "A1", "zh": "禁食", "emoji": "🍽️"}
+    ]
+  },
+  {
+    "input_word": "fasten",
+    "entries": [
+      {"text": "fasten", "ipa": "/ˈfæsən/", "cefr": "B1", "zh": "系紧", "emoji": "🔗"}
+    ]
+  },
+  {
+    "input_word": "fat",
+    "entries": [
+      {"text": "fat", "ipa": "/fæt/", "cefr": "A1", "zh": "肥胖的", "emoji": "🫃"},
+      {"text": "fat", "ipa": "/fæt/", "cefr": "A1", "zh": "脂肪", "emoji": "🥓"}
+    ]
+  },
+  {
+    "input_word": "father",
+    "entries": [
+      {"text": "father", "ipa": "/ˈfɑːðər/", "cefr": "A1", "zh": "父亲", "emoji": "👨"}
+    ]
+  },
+  {
+    "input_word": "fault",
+    "entries": [
+      {"text": "fault", "ipa": "/fɔːlt/", "cefr": "B2", "zh": "过错", "emoji": "⚠️"},
+      {"text": "fault", "ipa": "/fɔːlt/", "cefr": "B2", "zh": "断层", "emoji": "🌍"}
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "text": "Like most of my generation, I was brought up on the saying:",
+    "ipa": "laɪk moʊst əv maɪ ˌdʒɛnəˈreɪʃən aɪ wəz brɔt ʌp ɑn ðə ˈseɪɪŋ",
+    "translation": {"zh": "和我同代的多数人一样，我从小被这句话教导："},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Like most", "lemma": "like", "ipa": "laɪk moʊst", "translation": {"zh": "如同多数"}, "emoji": ""},
+      {"text": "of my generation", "lemma": "generation", "ipa": "əv maɪ ˌdʒɛnəˈreɪʃən", "translation": {"zh": "我这一代"}, "emoji": "👥"},
+      {"text": "I", "lemma": "I", "ipa": "aɪ", "translation": {"zh": "我"}, "emoji": ""},
+      {"text": "was brought up", "lemma": "bring up", "ipa": "wəz brɔt ʌp", "translation": {"zh": "被教养长大"}, "emoji": "🌱"},
+      {"text": "on the saying", "lemma": "saying", "ipa": "ɑn ðə ˈseɪɪŋ", "translation": {"zh": "靠这句格言"}, "emoji": "💬"}
+    ],
+    "tags": [{"name": "In Praise of Idleness", "index": 1}]
+  },
+  {
+    "text": "\"Satan finds some mischief still for idle hands to do.\"",
+    "ipa": "ˈseɪtən faɪndz səm ˈmɪstʃɪf stɪl fɔr ˈaɪdəl hændz tə du",
+    "translation": {"zh": "“懒惰之手，撒旦总能找到坏事让其去做。”"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Satan", "lemma": "Satan", "ipa": "ˈseɪtən", "translation": {"zh": "撒旦"}, "emoji": "😈"},
+      {"text": "finds", "lemma": "find", "ipa": "faɪndz", "translation": {"zh": "找到"}, "emoji": "🔍"},
+      {"text": "some mischief", "lemma": "mischief", "ipa": "səm ˈmɪstʃɪf", "translation": {"zh": "些坏事"}, "emoji": "😼"},
+      {"text": "still", "lemma": "still", "ipa": "stɪl", "translation": {"zh": "总会"}, "emoji": ""},
+      {"text": "for idle hands", "lemma": "idle", "ipa": "fɔr ˈaɪdəl hændz", "translation": {"zh": "给闲手"}, "emoji": "🖐️"},
+      {"text": "to do", "lemma": "do", "ipa": "tə du", "translation": {"zh": "去做"}, "emoji": ""}
+    ],
+    "tags": [{"name": "In Praise of Idleness", "index": 2}]
+  },
+  {
+    "text": "Being a highly virtuous child, I believed all that I was told,",
+    "ipa": "ˈbiɪŋ ə ˈhaɪli ˈvɜrtʃuəs tʃaɪld aɪ bɪˈlivd ɔl ðət aɪ wəz toʊld",
+    "translation": {"zh": "作为一个极守德行的孩子，我相信别人告诉我的一切，"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "Being a highly virtuous", "lemma": "virtuous", "ipa": "ˈbiɪŋ ə ˈhaɪli ˈvɜrtʃuəs", "translation": {"zh": "身为极有德"}, "emoji": "😇"},
+      {"text": "child", "lemma": "child", "ipa": "tʃaɪld", "translation": {"zh": "孩子"}, "emoji": "🧒"},
+      {"text": "I believed all", "lemma": "believe", "ipa": "aɪ bɪˈlivd ɔl", "translation": {"zh": "我都相信"}, "emoji": "🙏"},
+      {"text": "that I was told", "lemma": "tell", "ipa": "ðət aɪ wəz toʊld", "translation": {"zh": "被告知的话"}, "emoji": "👂"}
+    ],
+    "tags": [{"name": "In Praise of Idleness", "index": 3}]
+  },
+  {
+    "text": "and acquired a conscience which has kept me working hard down to the present moment.",
+    "ipa": "ənd əˈkwaɪərd ə ˈkɑnʃəns wɪtʃ həz kɛpt mi ˈwɜrkɪŋ hɑrd daʊn tə ðə ˈprɛzənt ˈmoʊmənt",
+    "translation": {"zh": "并养成一种良知，让我至今仍在勤奋工作。"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "and acquired", "lemma": "acquire", "ipa": "ənd əˈkwaɪərd", "translation": {"zh": "并获得"}, "emoji": "🎯"},
+      {"text": "a conscience", "lemma": "conscience", "ipa": "ə ˈkɑnʃəns", "translation": {"zh": "良知"}, "emoji": "🧠"},
+      {"text": "which has kept me working hard", "lemma": "work", "ipa": "wɪtʃ həz kɛpt mi ˈwɜrkɪŋ hɑrd", "translation": {"zh": "使我一直勤奋工作"}, "emoji": "💼"},
+      {"text": "down to the present moment", "lemma": "present", "ipa": "daʊn tə ðə ˈprɛzənt ˈmoʊmənt", "translation": {"zh": "直到此刻"}, "emoji": "⏳"}
+    ],
+    "tags": [{"name": "In Praise of Idleness", "index": 4}]
+  },
+  {
+    "text": "But although my conscience has controlled my actions, my opinions have undergone a revolution.",
+    "ipa": "bət ɔlˈðoʊ maɪ ˈkɑnʃəns həz kənˈtroʊld maɪ ˈækʃənz maɪ əˈpɪnjənz həv ˌʌndərˈɡɔn ə ˌrɛvəˈluʃən",
+    "translation": {"zh": "但虽然我的良知支配着我的行为，我的观点却经历了一场革命。"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "But although", "lemma": "although", "ipa": "bət ɔlˈðoʊ", "translation": {"zh": "但尽管"}, "emoji": ""},
+      {"text": "my conscience", "lemma": "conscience", "ipa": "maɪ ˈkɑnʃəns", "translation": {"zh": "我的良知"}, "emoji": "🧠"},
+      {"text": "has controlled", "lemma": "control", "ipa": "həz kənˈtroʊld", "translation": {"zh": "已支配"}, "emoji": "🎛️"},
+      {"text": "my actions", "lemma": "action", "ipa": "maɪ ˈækʃənz", "translation": {"zh": "我的行为"}, "emoji": "🏃"},
+      {"text": "my opinions", "lemma": "opinion", "ipa": "maɪ əˈpɪnjənz", "translation": {"zh": "我的观点"}, "emoji": "💭"},
+      {"text": "have undergone", "lemma": "undergo", "ipa": "həv ˌʌndərˈɡɔn", "translation": {"zh": "已经历"}, "emoji": ""},
+      {"text": "a revolution", "lemma": "revolution", "ipa": "ə ˌrɛvəˈluʃən", "translation": {"zh": "一场革命"}, "emoji": "🔄"}
+    ],
+    "tags": [{"name": "In Praise of Idleness", "index": 5}]
+  }
+]

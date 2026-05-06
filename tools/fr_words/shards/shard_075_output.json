@@ -1,0 +1,284 @@
+[
+  {
+    "text": "un fouet",
+    "ipa": "œ̃ fwɛ",
+    "translation": {"zh": "一根鞭子", "en": "a whip"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un fouet", "lemma": "fouet", "ipa": "œ̃ fwɛ", "translation": {"zh": "鞭子", "en": "whip"}, "emoji": "🪶"}
+    ]
+  },
+  {
+    "text": "un lien affectif",
+    "ipa": "œ̃ ljɛ̃ afɛktif",
+    "translation": {"zh": "一种情感纽带", "en": "an emotional bond"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un lien", "lemma": "lien", "ipa": "œ̃ ljɛ̃", "translation": {"zh": "纽带", "en": "bond"}, "emoji": "🔗"},
+      {"text": "affectif", "lemma": "affectif", "ipa": "afɛktif", "translation": {"zh": "情感的", "en": "emotional"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "félicitations",
+    "ipa": "felisitasjɔ̃",
+    "translation": {"zh": "恭喜", "en": "congratulations"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "félicitations", "lemma": "félicitation", "ipa": "felisitasjɔ̃", "translation": {"zh": "恭喜", "en": "congratulations"}, "emoji": "🎉"}
+    ]
+  },
+  {
+    "text": "un préjugé",
+    "ipa": "œ̃ pʁeʒyʒe",
+    "translation": {"zh": "一种偏见", "en": "a prejudice"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un préjugé", "lemma": "préjugé", "ipa": "œ̃ pʁeʒyʒe", "translation": {"zh": "偏见", "en": "prejudice"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un timbre",
+    "ipa": "œ̃ tɛ̃bʁ",
+    "translation": {"zh": "一张邮票", "en": "a stamp"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un timbre", "lemma": "timbre", "ipa": "œ̃ tɛ̃bʁ", "translation": {"zh": "邮票", "en": "stamp"}, "emoji": "✉️"}
+    ]
+  },
+  {
+    "text": "c'est dedans",
+    "ipa": "se dədɑ̃",
+    "translation": {"zh": "在里面", "en": "it's inside"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est dedans", "lemma": "dedans", "ipa": "se dədɑ̃", "translation": {"zh": "在里面", "en": "inside"}, "emoji": "📦"}
+    ]
+  },
+  {
+    "text": "une pension",
+    "ipa": "yn pɑ̃sjɔ̃",
+    "translation": {"zh": "一份退休金", "en": "a pension"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une pension", "lemma": "pension", "ipa": "yn pɑ̃sjɔ̃", "translation": {"zh": "退休金", "en": "pension"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le chien aboie",
+    "ipa": "lə ʃjɛ̃ abwa",
+    "translation": {"zh": "狗在叫", "en": "the dog barks"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le chien", "lemma": "chien", "ipa": "lə ʃjɛ̃", "translation": {"zh": "狗", "en": "dog"}, "emoji": "🐕"},
+      {"text": "aboie", "lemma": "aboyer", "ipa": "abwa", "translation": {"zh": "叫", "en": "barks"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un adhérent",
+    "ipa": "œ̃adeʁɑ̃",
+    "translation": {"zh": "一位会员", "en": "a member"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un adhérent", "lemma": "adhérent", "ipa": "œ̃ adeʁɑ̃", "translation": {"zh": "会员", "en": "member"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "émettre un son",
+    "ipa": "emɛtʁ œ̃ sɔ̃",
+    "translation": {"zh": "发出声音", "en": "to emit a sound"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "émettre un son", "lemma": "émettre", "ipa": "emɛtʁ œ̃ sɔ̃", "translation": {"zh": "发出声音", "en": "emit a sound"}, "emoji": "🔊"}
+    ]
+  },
+  {
+    "text": "exciter la curiosité",
+    "ipa": "ɛksite la kyʁjɔzite",
+    "translation": {"zh": "激起好奇心", "en": "to excite curiosity"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "exciter", "lemma": "exciter", "ipa": "ɛksite", "translation": {"zh": "激起", "en": "excite"}, "emoji": ""},
+      {"text": "la curiosité", "lemma": "curiosité", "ipa": "la kyʁjɔzite", "translation": {"zh": "好奇心", "en": "curiosity"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une tache",
+    "ipa": "yn taʃ",
+    "translation": {"zh": "一个污点", "en": "a stain"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une tache", "lemma": "tache", "ipa": "yn taʃ", "translation": {"zh": "污点", "en": "stain"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un tournant décisif",
+    "ipa": "œ̃ tuʁnɑ̃ desizif",
+    "translation": {"zh": "一个决定性转折点", "en": "a decisive turning point"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un tournant", "lemma": "tournant", "ipa": "œ̃ tuʁnɑ̃", "translation": {"zh": "转折点", "en": "turning point"}, "emoji": ""},
+      {"text": "décisif", "lemma": "décisif", "ipa": "desizif", "translation": {"zh": "决定性的", "en": "decisive"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "c'est affreux",
+    "ipa": "se afʁø",
+    "translation": {"zh": "太可怕了", "en": "it's awful"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est affreux", "lemma": "affreux", "ipa": "se afʁø", "translation": {"zh": "可怕的", "en": "awful"}, "emoji": "😱"}
+    ]
+  },
+  {
+    "text": "payer une cotisation",
+    "ipa": "peje yn kotizasjɔ̃",
+    "translation": {"zh": "缴纳会费", "en": "to pay a subscription fee"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "payer", "lemma": "payer", "ipa": "peje", "translation": {"zh": "支付", "en": "pay"}, "emoji": ""},
+      {"text": "une cotisation", "lemma": "cotisation", "ipa": "yn kotizasjɔ̃", "translation": {"zh": "会费", "en": "subscription fee"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "tendre la main",
+    "ipa": "tɑ̃dʁ la mɛ̃",
+    "translation": {"zh": "伸出手", "en": "to hold out one's hand"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "tendre", "lemma": "tendre", "ipa": "tɑ̃dʁ", "translation": {"zh": "伸出", "en": "hold out"}, "emoji": ""},
+      {"text": "la main", "lemma": "main", "ipa": "la mɛ̃", "translation": {"zh": "手", "en": "hand"}, "emoji": "✋"}
+    ]
+  },
+  {
+    "text": "un agriculteur",
+    "ipa": "œ̃ aɡʁikyltoɛʁ",
+    "translation": {"zh": "一位农民", "en": "a farmer"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un agriculteur", "lemma": "agriculteur", "ipa": "œ̃ aɡʁikyltoɛʁ", "translation": {"zh": "农民", "en": "farmer"}, "emoji": "👨‍🌾"}
+    ]
+  },
+  {
+    "text": "le partage des tâches",
+    "ipa": "lə paʁtaʒ de tɑʃ",
+    "translation": {"zh": "任务的分配", "en": "the sharing of tasks"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le partage", "lemma": "partage", "ipa": "lə paʁtaʒ", "translation": {"zh": "分配", "en": "sharing"}, "emoji": ""},
+      {"text": "des tâches", "lemma": "tâche", "ipa": "de tɑʃ", "translation": {"zh": "任务", "en": "tasks"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une évaluation",
+    "ipa": "yn evalɥasjɔ̃",
+    "translation": {"zh": "一次评估", "en": "an evaluation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une évaluation", "lemma": "évaluation", "ipa": "yn evalɥasjɔ̃", "translation": {"zh": "评估", "en": "evaluation"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la tolérance",
+    "ipa": "la tɔleʁɑ̃s",
+    "translation": {"zh": "宽容", "en": "tolerance"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la tolérance", "lemma": "tolérance", "ipa": "la tɔleʁɑ̃s", "translation": {"zh": "宽容", "en": "tolerance"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une photographie",
+    "ipa": "yn fɔtɔɡʁafi",
+    "translation": {"zh": "一张照片", "en": "a photograph"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une photographie", "lemma": "photographie", "ipa": "yn fɔtɔɡʁafi", "translation": {"zh": "照片", "en": "photograph"}, "emoji": "📷"}
+    ]
+  },
+  {
+    "text": "une négociation",
+    "ipa": "yn neɡɔsjasjɔ̃",
+    "translation": {"zh": "一次谈判", "en": "a negotiation"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une négociation", "lemma": "négociation", "ipa": "yn neɡɔsjasjɔ̃", "translation": {"zh": "谈判", "en": "negotiation"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un moustique",
+    "ipa": "œ̃ mustik",
+    "translation": {"zh": "一只蚊子", "en": "a mosquito"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un moustique", "lemma": "moustique", "ipa": "œ̃ mustik", "translation": {"zh": "蚊子", "en": "mosquito"}, "emoji": "🦟"}
+    ]
+  },
+  {
+    "text": "prédire l'avenir",
+    "ipa": "pʁediʁ lavniʁ",
+    "translation": {"zh": "预测未来", "en": "to predict the future"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "prédire", "lemma": "prédire", "ipa": "pʁediʁ", "translation": {"zh": "预测", "en": "predict"}, "emoji": ""},
+      {"text": "l'avenir", "lemma": "avenir", "ipa": "lavniʁ", "translation": {"zh": "未来", "en": "future"}, "emoji": "🔮"}
+    ]
+  },
+  {
+    "text": "la criminalité",
+    "ipa": "la kʁiminalite",
+    "translation": {"zh": "犯罪率", "en": "crime"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la criminalité", "lemma": "criminalité", "ipa": "la kʁiminalite", "translation": {"zh": "犯罪", "en": "crime"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un opérateur téléphonique",
+    "ipa": "œ̃ ɔpeʁatoɛʁ telefɔnik",
+    "translation": {"zh": "一家电话运营商", "en": "a phone operator"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un opérateur", "lemma": "opérateur", "ipa": "œ̃ ɔpeʁatoɛʁ", "translation": {"zh": "运营商", "en": "operator"}, "emoji": ""},
+      {"text": "téléphonique", "lemma": "téléphonique", "ipa": "telefɔnik", "translation": {"zh": "电话的", "en": "phone"}, "emoji": "📱"}
+    ]
+  },
+  {
+    "text": "ne pas avoir un sou",
+    "ipa": "nə pa avwaʁ œ̃ su",
+    "translation": {"zh": "一分钱都没有", "en": "to not have a penny"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ne pas avoir", "lemma": "avoir", "ipa": "nə pa avwaʁ", "translation": {"zh": "没有", "en": "not have"}, "emoji": ""},
+      {"text": "un sou", "lemma": "sou", "ipa": "œ̃ su", "translation": {"zh": "一分钱", "en": "a penny"}, "emoji": "🪙"}
+    ]
+  },
+  {
+    "text": "un apéritif",
+    "ipa": "œ̃ apeʁitif",
+    "translation": {"zh": "一杯开胃酒", "en": "an aperitif"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un apéritif", "lemma": "apéritif", "ipa": "œ̃ apeʁitif", "translation": {"zh": "开胃酒", "en": "aperitif"}, "emoji": "🍷"}
+    ]
+  },
+  {
+    "text": "remplir une fiche",
+    "ipa": "ʁɑ̃pliʁ yn fiʃ",
+    "translation": {"zh": "填写一张表格", "en": "to fill in a form"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "remplir", "lemma": "remplir", "ipa": "ʁɑ̃pliʁ", "translation": {"zh": "填写", "en": "fill in"}, "emoji": ""},
+      {"text": "une fiche", "lemma": "fiche", "ipa": "yn fiʃ", "translation": {"zh": "表格", "en": "form"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "un dépôt bancaire",
+    "ipa": "œ̃ depo bɑ̃kɛʁ",
+    "translation": {"zh": "一笔银行存款", "en": "a bank deposit"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un dépôt", "lemma": "dépôt", "ipa": "œ̃ depo", "translation": {"zh": "存款", "en": "deposit"}, "emoji": ""},
+      {"text": "bancaire", "lemma": "bancaire", "ipa": "bɑ̃kɛʁ", "translation": {"zh": "银行的", "en": "bank"}, "emoji": "🏦"}
+    ]
+  }
+]

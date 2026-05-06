@@ -1,0 +1,446 @@
+[
+  {
+    "input_word": "countryside",
+    "entries": [
+      {
+        "text": "countryside",
+        "ipa": "/ˈkʌntrisaɪd/",
+        "cefr": "B1",
+        "zh": "乡村",
+        "emoji": "🌄"
+      }
+    ]
+  },
+  {
+    "input_word": "county",
+    "entries": [
+      {
+        "text": "county",
+        "ipa": "/ˈkaʊnti/",
+        "cefr": "B2",
+        "zh": "县；郡",
+        "emoji": "🗺️"
+      }
+    ]
+  },
+  {
+    "input_word": "couple",
+    "entries": [
+      {
+        "text": "couple",
+        "ipa": "/ˈkʌpəl/",
+        "cefr": "A2",
+        "zh": "一对；夫妇",
+        "emoji": "👫"
+      }
+    ]
+  },
+  {
+    "input_word": "courage",
+    "entries": [
+      {
+        "text": "courage",
+        "ipa": "/ˈkɜːrɪdʒ/",
+        "cefr": "B2",
+        "zh": "勇气",
+        "emoji": "🦁"
+      }
+    ]
+  },
+  {
+    "input_word": "course",
+    "entries": [
+      {
+        "text": "course",
+        "ipa": "/kɔːrs/",
+        "cefr": "A1",
+        "zh": "课程",
+        "emoji": "📚"
+      },
+      {
+        "text": "course",
+        "ipa": "/kɔːrs/",
+        "cefr": "A1",
+        "zh": "道；路线",
+        "emoji": "🛤️"
+      },
+      {
+        "text": "course",
+        "ipa": "/kɔːrs/",
+        "cefr": "A1",
+        "zh": "（餐）道",
+        "emoji": "🍽️"
+      }
+    ]
+  },
+  {
+    "input_word": "court",
+    "entries": [
+      {
+        "text": "court",
+        "ipa": "/kɔːrt/",
+        "cefr": "B1",
+        "zh": "法院",
+        "emoji": "⚖️"
+      },
+      {
+        "text": "court",
+        "ipa": "/kɔːrt/",
+        "cefr": "B1",
+        "zh": "球场",
+        "emoji": "🎾"
+      },
+      {
+        "text": "court",
+        "ipa": "/kɔːrt/",
+        "cefr": "B1",
+        "zh": "宫廷",
+        "emoji": "👑"
+      }
+    ]
+  },
+  {
+    "input_word": "cousin",
+    "entries": [
+      {
+        "text": "cousin",
+        "ipa": "/ˈkʌzən/",
+        "cefr": "A1",
+        "zh": "堂/表兄弟姐妹",
+        "emoji": "👦"
+      }
+    ]
+  },
+  {
+    "input_word": "cover",
+    "entries": [
+      {
+        "text": "cover",
+        "ipa": "/ˈkʌvər/",
+        "cefr": "A2",
+        "zh": "覆盖；遮盖",
+        "emoji": "🫙"
+      },
+      {
+        "text": "cover",
+        "ipa": "/ˈkʌvər/",
+        "cefr": "A2",
+        "zh": "封面；盖子",
+        "emoji": "📖"
+      }
+    ]
+  },
+  {
+    "input_word": "covered",
+    "entries": [
+      {
+        "text": "covered",
+        "ipa": "/ˈkʌvərd/",
+        "cefr": "B1",
+        "zh": "被覆盖的",
+        "emoji": "🌫️"
+      }
+    ]
+  },
+  {
+    "input_word": "cow",
+    "entries": [
+      {
+        "text": "cow",
+        "ipa": "/kaʊ/",
+        "cefr": "A1",
+        "zh": "奶牛",
+        "emoji": "🐄"
+      }
+    ]
+  },
+  {
+    "input_word": "crash",
+    "entries": [
+      {
+        "text": "crash",
+        "ipa": "/kræʃ/",
+        "cefr": "B2",
+        "zh": "撞车；崩溃",
+        "emoji": "💥"
+      },
+      {
+        "text": "crash",
+        "ipa": "/kræʃ/",
+        "cefr": "B2",
+        "zh": "系统崩溃",
+        "emoji": "💻"
+      }
+    ]
+  },
+  {
+    "input_word": "crazy",
+    "entries": [
+      {
+        "text": "crazy",
+        "ipa": "/ˈkreɪzi/",
+        "cefr": "A2",
+        "zh": "疯狂的",
+        "emoji": "🤪"
+      }
+    ]
+  },
+  {
+    "input_word": "cream",
+    "entries": [
+      {
+        "text": "cream",
+        "ipa": "/kriːm/",
+        "cefr": "A1",
+        "zh": "奶油；乳霜",
+        "emoji": "🍦"
+      }
+    ]
+  },
+  {
+    "input_word": "create",
+    "entries": [
+      {
+        "text": "create",
+        "ipa": "/kriˈeɪt/",
+        "cefr": "A1",
+        "zh": "创造；创建",
+        "emoji": "✨"
+      }
+    ]
+  },
+  {
+    "input_word": "creation",
+    "entries": [
+      {
+        "text": "creation",
+        "ipa": "/kriˈeɪʃən/",
+        "cefr": "B2",
+        "zh": "创作；创造物",
+        "emoji": "🎨"
+      }
+    ]
+  },
+  {
+    "input_word": "creative",
+    "entries": [
+      {
+        "text": "creative",
+        "ipa": "/kriˈeɪtɪv/",
+        "cefr": "A2",
+        "zh": "有创造力的",
+        "emoji": "💡"
+      }
+    ]
+  },
+  {
+    "input_word": "creature",
+    "entries": [
+      {
+        "text": "creature",
+        "ipa": "/ˈkriːtʃər/",
+        "cefr": "B2",
+        "zh": "生物；动物",
+        "emoji": "🐾"
+      }
+    ]
+  },
+  {
+    "input_word": "credit",
+    "entries": [
+      {
+        "text": "credit",
+        "ipa": "/ˈkrɛdɪt/",
+        "cefr": "A2",
+        "zh": "信用；学分",
+        "emoji": "💳"
+      },
+      {
+        "text": "credit",
+        "ipa": "/ˈkrɛdɪt/",
+        "cefr": "A2",
+        "zh": "功劳；赞誉",
+        "emoji": "🏅"
+      }
+    ]
+  },
+  {
+    "input_word": "crew",
+    "entries": [
+      {
+        "text": "crew",
+        "ipa": "/kruː/",
+        "cefr": "B2",
+        "zh": "机组；船员",
+        "emoji": "👨‍✈️"
+      }
+    ]
+  },
+  {
+    "input_word": "crime",
+    "entries": [
+      {
+        "text": "crime",
+        "ipa": "/kraɪm/",
+        "cefr": "A2",
+        "zh": "犯罪",
+        "emoji": "🔫"
+      }
+    ]
+  },
+  {
+    "input_word": "criminal",
+    "entries": [
+      {
+        "text": "criminal",
+        "ipa": "/ˈkrɪmɪnəl/",
+        "cefr": "A2",
+        "zh": "罪犯",
+        "emoji": "🦹"
+      },
+      {
+        "text": "criminal",
+        "ipa": "/ˈkrɪmɪnəl/",
+        "cefr": "A2",
+        "zh": "犯罪的",
+        "emoji": "⛓️"
+      }
+    ]
+  },
+  {
+    "input_word": "crisis",
+    "entries": [
+      {
+        "text": "crisis",
+        "ipa": "/ˈkraɪsɪs/",
+        "cefr": "B2",
+        "zh": "危机",
+        "emoji": "🚨"
+      }
+    ]
+  },
+  {
+    "input_word": "criterion",
+    "entries": [
+      {
+        "text": "criterion",
+        "ipa": "/kraɪˈtɪriən/",
+        "cefr": "B2",
+        "zh": "标准；准则",
+        "emoji": "📋"
+      }
+    ]
+  },
+  {
+    "input_word": "critic",
+    "entries": [
+      {
+        "text": "critic",
+        "ipa": "/ˈkrɪtɪk/",
+        "cefr": "B2",
+        "zh": "评论家",
+        "emoji": "🎭"
+      }
+    ]
+  },
+  {
+    "input_word": "critical",
+    "entries": [
+      {
+        "text": "critical",
+        "ipa": "/ˈkrɪtɪkəl/",
+        "cefr": "B2",
+        "zh": "关键的",
+        "emoji": "⚠️"
+      },
+      {
+        "text": "critical",
+        "ipa": "/ˈkrɪtɪkəl/",
+        "cefr": "B2",
+        "zh": "批判性的",
+        "emoji": "🔍"
+      }
+    ]
+  },
+  {
+    "input_word": "criticism",
+    "entries": [
+      {
+        "text": "criticism",
+        "ipa": "/ˈkrɪtɪsɪzəm/",
+        "cefr": "B2",
+        "zh": "批评；批判",
+        "emoji": "🗣️"
+      }
+    ]
+  },
+  {
+    "input_word": "criticize",
+    "entries": [
+      {
+        "text": "criticize",
+        "ipa": "/ˈkrɪtɪsaɪz/",
+        "cefr": "B2",
+        "zh": "批评；指责",
+        "emoji": "👎"
+      }
+    ]
+  },
+  {
+    "input_word": "crop",
+    "entries": [
+      {
+        "text": "crop",
+        "ipa": "/krɑːp/",
+        "cefr": "B2",
+        "zh": "庄稼；农作物",
+        "emoji": "🌾"
+      },
+      {
+        "text": "crop",
+        "ipa": "/krɑːp/",
+        "cefr": "B2",
+        "zh": "裁剪",
+        "emoji": "✂️"
+      }
+    ]
+  },
+  {
+    "input_word": "cross",
+    "entries": [
+      {
+        "text": "cross",
+        "ipa": "/krɔːs/",
+        "cefr": "A2",
+        "zh": "穿越；横过",
+        "emoji": "🚶"
+      },
+      {
+        "text": "cross",
+        "ipa": "/krɔːs/",
+        "cefr": "A2",
+        "zh": "十字架；十字形",
+        "emoji": "✝️"
+      },
+      {
+        "text": "cross",
+        "ipa": "/krɔːs/",
+        "cefr": "A2",
+        "zh": "生气的",
+        "emoji": "😠"
+      }
+    ]
+  },
+  {
+    "input_word": "crowd",
+    "entries": [
+      {
+        "text": "crowd",
+        "ipa": "/kraʊd/",
+        "cefr": "A2",
+        "zh": "人群",
+        "emoji": "👥"
+      }
+    ]
+  }
+]

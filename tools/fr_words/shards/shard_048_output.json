@@ -1,0 +1,287 @@
+[
+  {
+    "text": "vieillir",
+    "ipa": "vjɛjiʁ",
+    "translation": {"zh": "变老", "en": "to age"},
+    "cefr": "B1",
+    "tokens": [{"text": "vieillir", "lemma": "vieillir", "ipa": "vjɛjiʁ", "translation": {"zh": "变老", "en": "to age"}, "emoji": "👴"}]
+  },
+  {
+    "text": "un commentaire négatif",
+    "ipa": "œ̃ kɔmɑ̃tɛʁ neɡatif",
+    "translation": {"zh": "一条负面评论", "en": "a negative comment"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un commentaire", "lemma": "commentaire", "ipa": "œ̃ kɔmɑ̃tɛʁ", "translation": {"zh": "评论", "en": "comment"}, "emoji": "💬"},
+      {"text": "négatif", "lemma": "négatif", "ipa": "neɡatif", "translation": {"zh": "负面的", "en": "negative"}, "emoji": "👎"}
+    ]
+  },
+  {
+    "text": "c'est essentiel",
+    "ipa": "sɛ esɑ̃sjɛl",
+    "translation": {"zh": "这很重要", "en": "it's essential"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "c'est essentiel", "lemma": "essentiel", "ipa": "sɛ esɑ̃sjɛl", "translation": {"zh": "这很重要", "en": "it's essential"}, "emoji": "⭐"}
+    ]
+  },
+  {
+    "text": "une lésion cérébrale",
+    "ipa": "yn lezjɔ̃ seʁebʁal",
+    "translation": {"zh": "脑部损伤", "en": "a brain injury"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une lésion", "lemma": "lésion", "ipa": "yn lezjɔ̃", "translation": {"zh": "损伤", "en": "injury"}, "emoji": "🩹"},
+      {"text": "cérébrale", "lemma": "cérébral", "ipa": "seʁebʁal", "translation": {"zh": "大脑的", "en": "cerebral"}, "emoji": "🧠"}
+    ]
+  },
+  {
+    "text": "il bouge constamment",
+    "ipa": "il buʒ kɔ̃stamɑ̃",
+    "translation": {"zh": "他不停地动", "en": "he moves constantly"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il bouge", "lemma": "bouger", "ipa": "il buʒ", "translation": {"zh": "他动", "en": "he moves"}, "emoji": "🏃"},
+      {"text": "constamment", "lemma": "constamment", "ipa": "kɔ̃stamɑ̃", "translation": {"zh": "不断地", "en": "constantly"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une affiche publicitaire",
+    "ipa": "yn afiʃ pyblisitɛʁ",
+    "translation": {"zh": "一张广告海报", "en": "an advertising poster"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une affiche", "lemma": "affiche", "ipa": "yn afiʃ", "translation": {"zh": "海报", "en": "poster"}, "emoji": "📋"},
+      {"text": "publicitaire", "lemma": "publicitaire", "ipa": "pyblisitɛʁ", "translation": {"zh": "广告的", "en": "advertising"}, "emoji": "📢"}
+    ]
+  },
+  {
+    "text": "la libération",
+    "ipa": "la libe ʁasjɔ̃",
+    "translation": {"zh": "解放", "en": "liberation"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "la libération", "lemma": "libération", "ipa": "la libeʁasjɔ̃", "translation": {"zh": "解放", "en": "liberation"}, "emoji": "🕊️"}
+    ]
+  },
+  {
+    "text": "faciliter le travail",
+    "ipa": "fasiliite lə tʁavaj",
+    "translation": {"zh": "使工作更轻松", "en": "to make work easier"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "faciliter", "lemma": "faciliter", "ipa": "facilite", "translation": {"zh": "使容易", "en": "to facilitate"}, "emoji": ""},
+      {"text": "le travail", "lemma": "travail", "ipa": "lə tʁavaj", "translation": {"zh": "工作", "en": "work"}, "emoji": "💼"}
+    ]
+  },
+  {
+    "text": "la mondialisation",
+    "ipa": "la mɔ̃djalizasjɔ̃",
+    "translation": {"zh": "全球化", "en": "globalization"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la mondialisation", "lemma": "mondialisation", "ipa": "la mɔ̃djalizasjɔ̃", "translation": {"zh": "全球化", "en": "globalization"}, "emoji": "🌍"}
+    ]
+  },
+  {
+    "text": "l'avenue",
+    "ipa": "lavny",
+    "translation": {"zh": "大道", "en": "avenue"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "l'avenue", "lemma": "avenue", "ipa": "lavny", "translation": {"zh": "大道", "en": "avenue"}, "emoji": "🛣️"}
+    ]
+  },
+  {
+    "text": "la profondeur de l'eau",
+    "ipa": "la pʁɔfɔ̃dœʁ də lo",
+    "translation": {"zh": "水的深度", "en": "the depth of the water"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la profondeur", "lemma": "profondeur", "ipa": "la pʁɔfɔ̃dœʁ", "translation": {"zh": "深度", "en": "depth"}, "emoji": "🌊"},
+      {"text": "de l'eau", "lemma": "eau", "ipa": "də lo", "translation": {"zh": "水的", "en": "of the water"}, "emoji": "💧"}
+    ]
+  },
+  {
+    "text": "il parle longuement",
+    "ipa": "il paʁl lɔ̃ɡmɑ̃",
+    "translation": {"zh": "他讲了很久", "en": "he speaks at length"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il parle", "lemma": "parler", "ipa": "il paʁl", "translation": {"zh": "他说话", "en": "he speaks"}, "emoji": "🗣️"},
+      {"text": "longuement", "lemma": "longuement", "ipa": "lɔ̃ɡmɑ̃", "translation": {"zh": "长时间地", "en": "at length"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "à domicile",
+    "ipa": "a dɔmisil",
+    "translation": {"zh": "在家", "en": "at home"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "à domicile", "lemma": "domicile", "ipa": "a dɔmisil", "translation": {"zh": "在家", "en": "at home"}, "emoji": "🏠"}
+    ]
+  },
+  {
+    "text": "une grande proportion",
+    "ipa": "yn ɡʁɑ̃d pʁɔpɔʁsjɔ̃",
+    "translation": {"zh": "很大的比例", "en": "a large proportion"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une grande", "lemma": "grand", "ipa": "yn ɡʁɑ̃d", "translation": {"zh": "大的", "en": "large"}, "emoji": ""},
+      {"text": "proportion", "lemma": "proportion", "ipa": "pʁɔpɔʁsjɔ̃", "translation": {"zh": "比例", "en": "proportion"}, "emoji": "📊"}
+    ]
+  },
+  {
+    "text": "la transmission de données",
+    "ipa": "la tʁɑ̃smisjɔ̃ də dɔne",
+    "translation": {"zh": "数据传输", "en": "data transmission"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la transmission", "lemma": "transmission", "ipa": "la tʁɑ̃smisjɔ̃", "translation": {"zh": "传输", "en": "transmission"}, "emoji": "📡"},
+      {"text": "de données", "lemma": "donnée", "ipa": "də dɔne", "translation": {"zh": "数据的", "en": "of data"}, "emoji": "💾"}
+    ]
+  },
+  {
+    "text": "le gardien",
+    "ipa": "lə ɡaʁdjɛ̃",
+    "translation": {"zh": "守卫", "en": "guard"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le gardien", "lemma": "gardien", "ipa": "lə ɡaʁdjɛ̃", "translation": {"zh": "守卫", "en": "guard"}, "emoji": "💂"}
+    ]
+  },
+  {
+    "text": "elle rougit",
+    "ipa": "ɛl ʁuʒi",
+    "translation": {"zh": "她脸红了", "en": "she blushes"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "elle rougit", "lemma": "rougir", "ipa": "ɛl ʁuʒi", "translation": {"zh": "她脸红", "en": "she blushes"}, "emoji": "😳"}
+    ]
+  },
+  {
+    "text": "le réchauffement climatique",
+    "ipa": "lə ʁeʃofmɑ̃ klimatik",
+    "translation": {"zh": "全球变暖", "en": "global warming"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le réchauffement", "lemma": "réchauffement", "ipa": "lə ʁeʃofmɑ̃", "translation": {"zh": "升温", "en": "warming"}, "emoji": "🌡️"},
+      {"text": "climatique", "lemma": "climatique", "ipa": "klimatik", "translation": {"zh": "气候的", "en": "climate"}, "emoji": "🌍"}
+    ]
+  },
+  {
+    "text": "je me baigne",
+    "ipa": "ʒə mə bɛɲ",
+    "translation": {"zh": "我在游泳", "en": "I'm swimming"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je me baigne", "lemma": "baigner", "ipa": "ʒə mə bɛɲ", "translation": {"zh": "我游泳", "en": "I swim"}, "emoji": "🏊"}
+    ]
+  },
+  {
+    "text": "un régime alimentaire",
+    "ipa": "œ̃ ʁeʒim alimɑ̃tɛʁ",
+    "translation": {"zh": "饮食习惯", "en": "a diet"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un régime", "lemma": "régime", "ipa": "œ̃ ʁeʒim", "translation": {"zh": "饮食/制度", "en": "diet / regime"}, "emoji": "🥗"},
+      {"text": "alimentaire", "lemma": "alimentaire", "ipa": "alimɑ̃tɛʁ", "translation": {"zh": "饮食的", "en": "dietary"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "les inégalités sociales",
+    "ipa": "le zineɡalite sɔsjal",
+    "translation": {"zh": "社会不平等", "en": "social inequalities"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "les inégalités", "lemma": "inégalité", "ipa": "le zineɡalite", "translation": {"zh": "不平等", "en": "inequalities"}, "emoji": "⚖️"},
+      {"text": "sociales", "lemma": "social", "ipa": "sɔsjal", "translation": {"zh": "社会的", "en": "social"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "prolonger un séjour",
+    "ipa": "pʁɔlɔ̃ʒe œ̃ seʒuʁ",
+    "translation": {"zh": "延长逗留时间", "en": "to extend a stay"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "prolonger", "lemma": "prolonger", "ipa": "pʁɔlɔ̃ʒe", "translation": {"zh": "延长", "en": "to extend"}, "emoji": ""},
+      {"text": "un séjour", "lemma": "séjour", "ipa": "œ̃ seʒuʁ", "translation": {"zh": "逗留", "en": "stay"}, "emoji": "🏨"}
+    ]
+  },
+  {
+    "text": "pénétrer dans la salle",
+    "ipa": "penetʁe dɑ̃ la sal",
+    "translation": {"zh": "进入房间", "en": "to enter the room"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "pénétrer", "lemma": "pénétrer", "ipa": "penetʁe", "translation": {"zh": "进入", "en": "to enter"}, "emoji": "🚪"},
+      {"text": "dans la salle", "lemma": "salle", "ipa": "dɑ̃ la sal", "translation": {"zh": "房间里", "en": "into the room"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "enfoncer un clou",
+    "ipa": "ɑ̃fɔ̃se œ̃ klu",
+    "translation": {"zh": "钉一颗钉子", "en": "to drive in a nail"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "enfoncer", "lemma": "enfoncer", "ipa": "ɑ̃fɔ̃se", "translation": {"zh": "钉入", "en": "to drive in"}, "emoji": "🔨"},
+      {"text": "un clou", "lemma": "clou", "ipa": "œ̃ klu", "translation": {"zh": "钉子", "en": "nail"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une base militaire",
+    "ipa": "yn baz militɛʁ",
+    "translation": {"zh": "军事基地", "en": "a military base"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une base", "lemma": "base", "ipa": "yn baz", "translation": {"zh": "基地", "en": "base"}, "emoji": "🏗️"},
+      {"text": "militaire", "lemma": "militaire", "ipa": "militɛʁ", "translation": {"zh": "军事的", "en": "military"}, "emoji": "🪖"}
+    ]
+  },
+  {
+    "text": "un édifice historique",
+    "ipa": "œ̃ nedifis istɔʁik",
+    "translation": {"zh": "一座历史建筑", "en": "a historic building"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un édifice", "lemma": "édifice", "ipa": "œ̃ nedifis", "translation": {"zh": "建筑", "en": "building"}, "emoji": "🏛️"},
+      {"text": "historique", "lemma": "historique", "ipa": "istɔʁik", "translation": {"zh": "历史的", "en": "historic"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "l'officier",
+    "ipa": "lɔfisje",
+    "translation": {"zh": "军官", "en": "officer"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'officier", "lemma": "officier", "ipa": "lɔfisje", "translation": {"zh": "军官", "en": "officer"}, "emoji": "🫡"}
+    ]
+  },
+  {
+    "text": "un meurtre",
+    "ipa": "œ̃ mœʁtʁ",
+    "translation": {"zh": "一起谋杀", "en": "a murder"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un meurtre", "lemma": "meurtre", "ipa": "œ̃ mœʁtʁ", "translation": {"zh": "谋杀", "en": "murder"}, "emoji": "🔪"}
+    ]
+  },
+  {
+    "text": "je suis perdu",
+    "ipa": "ʒə sɥi pɛʁdy",
+    "translation": {"zh": "我迷路了", "en": "I'm lost"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "je suis perdu", "lemma": "perdre", "ipa": "ʒə sɥi pɛʁdy", "translation": {"zh": "我迷路了", "en": "I'm lost"}, "emoji": "🗺️"}
+    ]
+  },
+  {
+    "text": "ça me convient",
+    "ipa": "sa mə kɔ̃vjɛ̃",
+    "translation": {"zh": "这对我合适", "en": "that suits me"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ça me convient", "lemma": "convenir", "ipa": "sa mə kɔ̃vjɛ̃", "translation": {"zh": "这合适我", "en": "that suits me"}, "emoji": "👍"}
+    ]
+  }
+]

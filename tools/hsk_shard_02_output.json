@@ -1,0 +1,332 @@
+[
+  {
+    "input_text": "买",
+    "entries": [
+      {
+        "text": "买",
+        "pinyin": "mǎi",
+        "en": "to buy",
+        "emoji": "🛒"
+      }
+    ]
+  },
+  {
+    "input_text": "猫",
+    "entries": [
+      {
+        "text": "猫",
+        "pinyin": "māo",
+        "en": "cat",
+        "emoji": "🐱"
+      }
+    ]
+  },
+  {
+    "input_text": "没关系",
+    "entries": [
+      {
+        "text": "没关系",
+        "pinyin": "méi guānxi",
+        "en": "it doesn't matter",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "没有",
+    "entries": [
+      {
+        "text": "没有",
+        "pinyin": "méiyǒu",
+        "en": "not have / there is not",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "米饭",
+    "entries": [
+      {
+        "text": "米饭",
+        "pinyin": "mǐfàn",
+        "en": "(cooked) rice",
+        "emoji": "🍚"
+      }
+    ]
+  },
+  {
+    "input_text": "明天",
+    "entries": [
+      {
+        "text": "明天",
+        "pinyin": "míngtiān",
+        "en": "tomorrow",
+        "emoji": "📅"
+      }
+    ]
+  },
+  {
+    "input_text": "名字",
+    "entries": [
+      {
+        "text": "名字",
+        "pinyin": "míngzi",
+        "en": "name",
+        "emoji": "📛"
+      }
+    ]
+  },
+  {
+    "input_text": "哪",
+    "entries": [
+      {
+        "text": "哪",
+        "pinyin": "nǎ",
+        "en": "which",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "哪儿",
+    "entries": [
+      {
+        "text": "哪儿",
+        "pinyin": "nǎr",
+        "en": "where",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "那",
+    "entries": [
+      {
+        "text": "那",
+        "pinyin": "nà",
+        "en": "that",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "呢",
+    "entries": [
+      {
+        "text": "呢",
+        "pinyin": "ne",
+        "en": "(question particle)",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "能",
+    "entries": [
+      {
+        "text": "能",
+        "pinyin": "néng",
+        "en": "can / be able to",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "你",
+    "entries": [
+      {
+        "text": "你",
+        "pinyin": "nǐ",
+        "en": "you",
+        "emoji": "👉"
+      }
+    ]
+  },
+  {
+    "input_text": "年",
+    "entries": [
+      {
+        "text": "年",
+        "pinyin": "nián",
+        "en": "year",
+        "emoji": "📅"
+      }
+    ]
+  },
+  {
+    "input_text": "女儿",
+    "entries": [
+      {
+        "text": "女儿",
+        "pinyin": "nǚ'ér",
+        "en": "daughter",
+        "emoji": "👧"
+      }
+    ]
+  },
+  {
+    "input_text": "朋友",
+    "entries": [
+      {
+        "text": "朋友",
+        "pinyin": "péngyou",
+        "en": "friend",
+        "emoji": "👫"
+      }
+    ]
+  },
+  {
+    "input_text": "漂亮",
+    "entries": [
+      {
+        "text": "漂亮",
+        "pinyin": "piàoliang",
+        "en": "pretty / beautiful",
+        "emoji": "💅"
+      }
+    ]
+  },
+  {
+    "input_text": "苹果",
+    "entries": [
+      {
+        "text": "苹果",
+        "pinyin": "píngguǒ",
+        "en": "apple",
+        "emoji": "🍎"
+      }
+    ]
+  },
+  {
+    "input_text": "七",
+    "entries": [
+      {
+        "text": "七",
+        "pinyin": "qī",
+        "en": "seven",
+        "emoji": "7️⃣"
+      }
+    ]
+  },
+  {
+    "input_text": "钱",
+    "entries": [
+      {
+        "text": "钱",
+        "pinyin": "qián",
+        "en": "money",
+        "emoji": "💰"
+      }
+    ]
+  },
+  {
+    "input_text": "前面",
+    "entries": [
+      {
+        "text": "前面",
+        "pinyin": "qiánmiàn",
+        "en": "in front",
+        "emoji": "⬆️"
+      }
+    ]
+  },
+  {
+    "input_text": "请",
+    "entries": [
+      {
+        "text": "请",
+        "pinyin": "qǐng",
+        "en": "please / to invite",
+        "emoji": "🙏"
+      }
+    ]
+  },
+  {
+    "input_text": "去",
+    "entries": [
+      {
+        "text": "去",
+        "pinyin": "qù",
+        "en": "to go",
+        "emoji": "🚶"
+      }
+    ]
+  },
+  {
+    "input_text": "热",
+    "entries": [
+      {
+        "text": "热",
+        "pinyin": "rè",
+        "en": "hot",
+        "emoji": "🔥"
+      }
+    ]
+  },
+  {
+    "input_text": "人",
+    "entries": [
+      {
+        "text": "人",
+        "pinyin": "rén",
+        "en": "person",
+        "emoji": "🧑"
+      }
+    ]
+  },
+  {
+    "input_text": "认识",
+    "entries": [
+      {
+        "text": "认识",
+        "pinyin": "rènshi",
+        "en": "to know (a person) / recognize",
+        "emoji": "🤝"
+      }
+    ]
+  },
+  {
+    "input_text": "三",
+    "entries": [
+      {
+        "text": "三",
+        "pinyin": "sān",
+        "en": "three",
+        "emoji": "3️⃣"
+      }
+    ]
+  },
+  {
+    "input_text": "商店",
+    "entries": [
+      {
+        "text": "商店",
+        "pinyin": "shāngdiàn",
+        "en": "shop / store",
+        "emoji": "🏪"
+      }
+    ]
+  },
+  {
+    "input_text": "上",
+    "entries": [
+      {
+        "text": "上",
+        "pinyin": "shàng",
+        "en": "above / up",
+        "emoji": "⬆️"
+      }
+    ]
+  },
+  {
+    "input_text": "上午",
+    "entries": [
+      {
+        "text": "上午",
+        "pinyin": "shàngwǔ",
+        "en": "morning (before noon)",
+        "emoji": "🌅"
+      }
+    ]
+  }
+]

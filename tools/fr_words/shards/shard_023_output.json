@@ -1,0 +1,278 @@
+[
+  {
+    "text": "régulièrement",
+    "ipa": "ʁeɡyljɛʁmɑ̃",
+    "translation": {"zh": "定期地", "en": "regularly"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "régulièrement", "lemma": "régulièrement", "ipa": "ʁeɡyljɛʁmɑ̃", "translation": {"zh": "定期地", "en": "regularly"}, "emoji": "🔄"}
+    ]
+  },
+  {
+    "text": "c'est précieux",
+    "ipa": "sɛ pʁesjø",
+    "translation": {"zh": "这很珍贵", "en": "it's precious"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "c'est précieux", "lemma": "précieux", "ipa": "sɛ pʁesjø", "translation": {"zh": "这很珍贵", "en": "it's precious"}, "emoji": "💎"}
+    ]
+  },
+  {
+    "text": "l'aspect général",
+    "ipa": "laspɛ ʒeneʁal",
+    "translation": {"zh": "总体外观", "en": "the general aspect"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'aspect général", "lemma": "aspect", "ipa": "laspɛ ʒeneʁal", "translation": {"zh": "总体面貌", "en": "general aspect"}, "emoji": "🔍"}
+    ]
+  },
+  {
+    "text": "une somme importante",
+    "ipa": "yn sɔm ɛ̃pɔʁtɑ̃t",
+    "translation": {"zh": "一大笔钱", "en": "a large sum"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une somme importante", "lemma": "somme", "ipa": "yn sɔm ɛ̃pɔʁtɑ̃t", "translation": {"zh": "一大笔钱", "en": "a large sum"}, "emoji": "💰"}
+    ]
+  },
+  {
+    "text": "un document officiel",
+    "ipa": "œ̃ dɔkymɑ̃ ɔfisjɛl",
+    "translation": {"zh": "一份官方文件", "en": "an official document"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un document officiel", "lemma": "officiel", "ipa": "œ̃ dɔkymɑ̃ ɔfisjɛl", "translation": {"zh": "官方文件", "en": "official document"}, "emoji": "📄"}
+    ]
+  },
+  {
+    "text": "ça dépend",
+    "ipa": "sa depɑ̃",
+    "translation": {"zh": "要看情况", "en": "it depends"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "ça dépend", "lemma": "dépendre", "ipa": "sa depɑ̃", "translation": {"zh": "要看情况", "en": "it depends"}, "emoji": "🤷"}
+    ]
+  },
+  {
+    "text": "les visiteurs",
+    "ipa": "le vizitœʁ",
+    "translation": {"zh": "游客们", "en": "the visitors"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "les visiteurs", "lemma": "visiteur", "ipa": "le vizitœʁ", "translation": {"zh": "游客们", "en": "the visitors"}, "emoji": "👥"}
+    ]
+  },
+  {
+    "text": "ma taille",
+    "ipa": "ma taj",
+    "translation": {"zh": "我的身高", "en": "my height"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "ma taille", "lemma": "taille", "ipa": "ma taj", "translation": {"zh": "我的身高", "en": "my height"}, "emoji": "📏"}
+    ]
+  },
+  {
+    "text": "la disparition d'une espèce",
+    "ipa": "la dispaʁisjɔ̃ dyn ɛspɛs",
+    "translation": {"zh": "一个物种的消亡", "en": "the disappearance of a species"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la disparition", "lemma": "disparition", "ipa": "la dispaʁisjɔ̃", "translation": {"zh": "消亡", "en": "disappearance"}, "emoji": "💨"},
+      {"text": "d'une espèce", "lemma": "espèce", "ipa": "dyn ɛspɛs", "translation": {"zh": "一个物种", "en": "of a species"}, "emoji": "🦎"}
+    ]
+  },
+  {
+    "text": "au sommet de la montagne",
+    "ipa": "o sɔmɛ də la mɔ̃taɲ",
+    "translation": {"zh": "在山顶", "en": "at the top of the mountain"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "au sommet", "lemma": "sommet", "ipa": "o sɔmɛ", "translation": {"zh": "在山顶", "en": "at the top"}, "emoji": "⛰️"},
+      {"text": "de la montagne", "lemma": "montagne", "ipa": "də la mɔ̃taɲ", "translation": {"zh": "山", "en": "mountain"}, "emoji": "🏔️"}
+    ]
+  },
+  {
+    "text": "contribuer à la société",
+    "ipa": "kɔ̃tʁibɥe a la sɔsjete",
+    "translation": {"zh": "为社会做贡献", "en": "to contribute to society"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "contribuer à la société", "lemma": "contribuer", "ipa": "kɔ̃tʁibɥe a la sɔsjete", "translation": {"zh": "为社会贡献", "en": "contribute to society"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "absolument pas",
+    "ipa": "absɔlymɑ̃ pa",
+    "translation": {"zh": "绝对不", "en": "absolutely not"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "absolument pas", "lemma": "absolument", "ipa": "absɔlymɑ̃ pa", "translation": {"zh": "绝对不", "en": "absolutely not"}, "emoji": "🚫"}
+    ]
+  },
+  {
+    "text": "un organisme vivant",
+    "ipa": "œ̃ ɔʁɡanism vivɑ̃",
+    "translation": {"zh": "一个活的生物体", "en": "a living organism"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un organisme vivant", "lemma": "organisme", "ipa": "œ̃ ɔʁɡanism vivɑ̃", "translation": {"zh": "活的生物体", "en": "living organism"}, "emoji": "🦠"}
+    ]
+  },
+  {
+    "text": "se rapprocher de lui",
+    "ipa": "sə ʁapʁɔʃe də lɥi",
+    "translation": {"zh": "靠近他", "en": "to get closer to him"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "se rapprocher", "lemma": "rapprocher", "ipa": "sə ʁapʁɔʃe", "translation": {"zh": "靠近", "en": "get closer"}, "emoji": "🚶"},
+      {"text": "de lui", "lemma": "lui", "ipa": "də lɥi", "translation": {"zh": "他", "en": "him"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "évoquer un souvenir",
+    "ipa": "evɔke œ̃ suvniʁ",
+    "translation": {"zh": "唤起一段回忆", "en": "to evoke a memory"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "évoquer un souvenir", "lemma": "évoquer", "ipa": "evɔke œ̃ suvniʁ", "translation": {"zh": "唤起回忆", "en": "evoke a memory"}, "emoji": "💭"}
+    ]
+  },
+  {
+    "text": "une représentation théâtrale",
+    "ipa": "yn ʁəpʁezɑ̃tasjɔ̃ teatʁal",
+    "translation": {"zh": "一场戏剧演出", "en": "a theatrical performance"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une représentation théâtrale", "lemma": "représentation", "ipa": "yn ʁəpʁezɑ̃tasjɔ̃ teatʁal", "translation": {"zh": "戏剧演出", "en": "theatrical performance"}, "emoji": "🎭"}
+    ]
+  },
+  {
+    "text": "une augmentation de salaire",
+    "ipa": "yn oɡmɑ̃tasjɔ̃ də salɛʁ",
+    "translation": {"zh": "一次加薪", "en": "a pay raise"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une augmentation", "lemma": "augmentation", "ipa": "yn oɡmɑ̃tasjɔ̃", "translation": {"zh": "增加", "en": "increase"}, "emoji": "📈"},
+      {"text": "de salaire", "lemma": "salaire", "ipa": "də salɛʁ", "translation": {"zh": "薪资", "en": "salary"}, "emoji": "💵"}
+    ]
+  },
+  {
+    "text": "le thème principal",
+    "ipa": "lə tɛm pʁɛ̃sipal",
+    "translation": {"zh": "主要主题", "en": "the main theme"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le thème principal", "lemma": "thème", "ipa": "lə tɛm pʁɛ̃sipal", "translation": {"zh": "主要主题", "en": "main theme"}, "emoji": "📌"}
+    ]
+  },
+  {
+    "text": "le genre féminin",
+    "ipa": "lə ʒɑ̃ʁ feminin",
+    "translation": {"zh": "阴性", "en": "the feminine gender"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le genre féminin", "lemma": "féminin", "ipa": "lə ʒɑ̃ʁ feminin", "translation": {"zh": "阴性", "en": "feminine gender"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un lien fort",
+    "ipa": "œ̃ ljɛ̃ fɔʁ",
+    "translation": {"zh": "一条牢固的纽带", "en": "a strong bond"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un lien fort", "lemma": "lien", "ipa": "œ̃ ljɛ̃ fɔʁ", "translation": {"zh": "牢固的纽带", "en": "strong bond"}, "emoji": "🔗"}
+    ]
+  },
+  {
+    "text": "mon vol est annulé",
+    "ipa": "mɔ̃ vɔl ɛ tanyle",
+    "translation": {"zh": "我的航班被取消了", "en": "my flight is cancelled"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "mon vol", "lemma": "vol", "ipa": "mɔ̃ vɔl", "translation": {"zh": "我的航班", "en": "my flight"}, "emoji": "✈️"},
+      {"text": "est annulé", "lemma": "annuler", "ipa": "ɛ tanyle", "translation": {"zh": "被取消了", "en": "is cancelled"}, "emoji": "❌"}
+    ]
+  },
+  {
+    "text": "c'est mince",
+    "ipa": "sɛ mɛ̃s",
+    "translation": {"zh": "这很薄", "en": "it's thin"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "c'est mince", "lemma": "mince", "ipa": "sɛ mɛ̃s", "translation": {"zh": "很薄", "en": "it's thin"}, "emoji": "📄"}
+    ]
+  },
+  {
+    "text": "le ton de sa voix",
+    "ipa": "lə tɔ̃ də sa vwa",
+    "translation": {"zh": "他声音的语气", "en": "the tone of his voice"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le ton", "lemma": "ton", "ipa": "lə tɔ̃", "translation": {"zh": "语气", "en": "tone"}, "emoji": "🎵"},
+      {"text": "de sa voix", "lemma": "voix", "ipa": "də sa vwa", "translation": {"zh": "他的声音", "en": "his voice"}, "emoji": "🗣️"}
+    ]
+  },
+  {
+    "text": "acquérir de l'expérience",
+    "ipa": "akeʁiʁ də lɛkspeʁjɑ̃s",
+    "translation": {"zh": "积累经验", "en": "to gain experience"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "acquérir de l'expérience", "lemma": "acquérir", "ipa": "akeʁiʁ də lɛkspeʁjɑ̃s", "translation": {"zh": "积累经验", "en": "gain experience"}, "emoji": "📚"}
+    ]
+  },
+  {
+    "text": "pressez le citron",
+    "ipa": "pʁese lə sitʁɔ̃",
+    "translation": {"zh": "把柠檬榨汁", "en": "squeeze the lemon"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "pressez le citron", "lemma": "presser", "ipa": "pʁese lə sitʁɔ̃", "translation": {"zh": "榨柠檬", "en": "squeeze the lemon"}, "emoji": "🍋"}
+    ]
+  },
+  {
+    "text": "livrer une commande",
+    "ipa": "livʁe yn kɔmɑ̃d",
+    "translation": {"zh": "送货", "en": "to deliver an order"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "livrer une commande", "lemma": "livrer", "ipa": "livʁe yn kɔmɑ̃d", "translation": {"zh": "送货", "en": "deliver an order"}, "emoji": "📦"}
+    ]
+  },
+  {
+    "text": "en province",
+    "ipa": "ɑ̃ pʁɔvɛ̃s",
+    "translation": {"zh": "在外省", "en": "in the provinces"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "en province", "lemma": "province", "ipa": "ɑ̃ pʁɔvɛ̃s", "translation": {"zh": "外省", "en": "the provinces"}, "emoji": "🏡"}
+    ]
+  },
+  {
+    "text": "l'atmosphère est lourde",
+    "ipa": "latmɔsfɛʁ ɛ luʁd",
+    "translation": {"zh": "气氛很沉重", "en": "the atmosphere is heavy"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'atmosphère est lourde", "lemma": "atmosphère", "ipa": "latmɔsfɛʁ ɛ luʁd", "translation": {"zh": "气氛沉重", "en": "heavy atmosphere"}, "emoji": "😶‍🌫️"}
+    ]
+  },
+  {
+    "text": "appeler un gendarme",
+    "ipa": "aple œ̃ ʒɑ̃daʁm",
+    "translation": {"zh": "叫一名宪兵", "en": "to call a gendarme"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "appeler un gendarme", "lemma": "gendarme", "ipa": "aple œ̃ ʒɑ̃daʁm", "translation": {"zh": "叫宪兵", "en": "call a gendarme"}, "emoji": "👮"}
+    ]
+  },
+  {
+    "text": "le campus universitaire",
+    "ipa": "lə kɑ̃pys ynivɛʁsitɛʁ",
+    "translation": {"zh": "大学校园", "en": "the university campus"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le campus universitaire", "lemma": "universitaire", "ipa": "lə kɑ̃pys ynivɛʁsitɛʁ", "translation": {"zh": "大学校园", "en": "university campus"}, "emoji": "🎓"}
+    ]
+  }
+]

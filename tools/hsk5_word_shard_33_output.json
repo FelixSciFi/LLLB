@@ -1,0 +1,187 @@
+[
+  {
+    "input_text": "文具",
+    "entries": [
+      {"text": "文具", "pinyin": "wén jù", "en": "stationery; school supplies", "emoji": "✏️"}
+    ]
+  },
+  {
+    "input_text": "文明",
+    "entries": [
+      {"text": "文明", "pinyin": "wén míng", "en": "civilization", "emoji": "🏛️"},
+      {"text": "文明", "pinyin": "wén míng", "en": "civilized; cultured", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "文学",
+    "entries": [
+      {"text": "文学", "pinyin": "wén xué", "en": "literature", "emoji": "📚"}
+    ]
+  },
+  {
+    "input_text": "文字",
+    "entries": [
+      {"text": "文字", "pinyin": "wén zì", "en": "written characters; script", "emoji": "📝"}
+    ]
+  },
+  {
+    "input_text": "闻",
+    "entries": [
+      {"text": "闻", "pinyin": "wén", "en": "to smell", "emoji": "👃"},
+      {"text": "闻", "pinyin": "wén", "en": "to hear; to learn of", "emoji": "👂"}
+    ]
+  },
+  {
+    "input_text": "吻",
+    "entries": [
+      {"text": "吻", "pinyin": "wěn", "en": "to kiss", "emoji": "💋"},
+      {"text": "吻", "pinyin": "wěn", "en": "a kiss", "emoji": "💋"}
+    ]
+  },
+  {
+    "input_text": "稳定",
+    "entries": [
+      {"text": "稳定", "pinyin": "wěn dìng", "en": "stable; steady", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "问候",
+    "entries": [
+      {"text": "问候", "pinyin": "wèn hòu", "en": "to greet; regards", "emoji": "👋"}
+    ]
+  },
+  {
+    "input_text": "卧室",
+    "entries": [
+      {"text": "卧室", "pinyin": "wò shì", "en": "bedroom", "emoji": "🛏️"}
+    ]
+  },
+  {
+    "input_text": "握手",
+    "entries": [
+      {"text": "握手", "pinyin": "wò shǒu", "en": "to shake hands", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_text": "屋子",
+    "entries": [
+      {"text": "屋子", "pinyin": "wū zi", "en": "room; house", "emoji": "🏠"}
+    ]
+  },
+  {
+    "input_text": "无奈",
+    "entries": [
+      {"text": "无奈", "pinyin": "wú nài", "en": "helpless; resigned", "emoji": "😔"}
+    ]
+  },
+  {
+    "input_text": "无数",
+    "entries": [
+      {"text": "无数", "pinyin": "wú shù", "en": "countless; innumerable", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "无所谓",
+    "entries": [
+      {"text": "无所谓", "pinyin": "wú suǒ wèi", "en": "doesn't matter; indifferent", "emoji": "🤷"}
+    ]
+  },
+  {
+    "input_text": "武术",
+    "entries": [
+      {"text": "武术", "pinyin": "wǔ shù", "en": "martial arts", "emoji": "🥋"}
+    ]
+  },
+  {
+    "input_text": "勿",
+    "entries": [
+      {"text": "勿", "pinyin": "wù", "en": "do not (formal)", "emoji": "🚫"}
+    ]
+  },
+  {
+    "input_text": "物理",
+    "entries": [
+      {"text": "物理", "pinyin": "wù lǐ", "en": "physics", "emoji": "🔬"}
+    ]
+  },
+  {
+    "input_text": "物质",
+    "entries": [
+      {"text": "物质", "pinyin": "wù zhì", "en": "matter; material; substance", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "雾",
+    "entries": [
+      {"text": "雾", "pinyin": "wù", "en": "fog; mist", "emoji": "🌫️"}
+    ]
+  },
+  {
+    "input_text": "吸取",
+    "entries": [
+      {"text": "吸取", "pinyin": "xī qǔ", "en": "to absorb; draw lessons from", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "吸收",
+    "entries": [
+      {"text": "吸收", "pinyin": "xī shōu", "en": "to absorb; take in", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "戏剧",
+    "entries": [
+      {"text": "戏剧", "pinyin": "xì jù", "en": "drama; theater", "emoji": "🎭"}
+    ]
+  },
+  {
+    "input_text": "系",
+    "entries": [
+      {"text": "系", "pinyin": "xì", "en": "department (academic)", "emoji": "🏫"},
+      {"text": "系", "pinyin": "jì", "en": "to tie; to fasten", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "系统",
+    "entries": [
+      {"text": "系统", "pinyin": "xì tǒng", "en": "system", "emoji": "💻"}
+    ]
+  },
+  {
+    "input_text": "细节",
+    "entries": [
+      {"text": "细节", "pinyin": "xì jié", "en": "detail; details", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "瞎",
+    "entries": [
+      {"text": "瞎", "pinyin": "xiā", "en": "blind", "emoji": "🙈"},
+      {"text": "瞎", "pinyin": "xiā", "en": "randomly; recklessly", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "下载",
+    "entries": [
+      {"text": "下载", "pinyin": "xià zài", "en": "to download", "emoji": "⬇️"}
+    ]
+  },
+  {
+    "input_text": "吓",
+    "entries": [
+      {"text": "吓", "pinyin": "xià", "en": "to frighten; to scare", "emoji": "😱"}
+    ]
+  },
+  {
+    "input_text": "夏令营",
+    "entries": [
+      {"text": "夏令营", "pinyin": "xià lìng yíng", "en": "summer camp", "emoji": "⛺"}
+    ]
+  },
+  {
+    "input_text": "鲜艳",
+    "entries": [
+      {"text": "鲜艳", "pinyin": "xiān yàn", "en": "bright; vivid in color", "emoji": "🌈"}
+    ]
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "input_word": "o'clock",
+    "entries": [
+      {"text": "o'clock", "ipa": "/əˈklɑk/", "cefr": "A1", "zh": "…点钟", "emoji": "🕐"}
+    ]
+  },
+  {
+    "input_word": "obey",
+    "entries": [
+      {"text": "obey", "ipa": "/oʊˈbeɪ/", "cefr": "B2", "zh": "服从", "emoji": "🫡"}
+    ]
+  },
+  {
+    "input_word": "object",
+    "entries": [
+      {"text": "object", "ipa": "/ˈɑbdʒɪkt/", "cefr": "A1", "zh": "物体", "emoji": "📦"},
+      {"text": "object", "ipa": "/əbˈdʒɛkt/", "cefr": "A1", "zh": "反对", "emoji": "🙅"}
+    ]
+  },
+  {
+    "input_word": "objective",
+    "entries": [
+      {"text": "objective", "ipa": "/əbˈdʒɛktɪv/", "cefr": "B2", "zh": "目标", "emoji": "🎯"},
+      {"text": "objective", "ipa": "/əbˈdʒɛktɪv/", "cefr": "B2", "zh": "客观的", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "obligation",
+    "entries": [
+      {"text": "obligation", "ipa": "/ˌɑbləˈɡeɪʃən/", "cefr": "B2", "zh": "义务", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_word": "observation",
+    "entries": [
+      {"text": "observation", "ipa": "/ˌɑbzərˈveɪʃən/", "cefr": "B2", "zh": "观察", "emoji": "🔭"}
+    ]
+  },
+  {
+    "input_word": "observe",
+    "entries": [
+      {"text": "observe", "ipa": "/əbˈzɜrv/", "cefr": "B2", "zh": "观察", "emoji": "👁️"}
+    ]
+  },
+  {
+    "input_word": "obtain",
+    "entries": [
+      {"text": "obtain", "ipa": "/əbˈteɪn/", "cefr": "B2", "zh": "获得", "emoji": "✋"}
+    ]
+  },
+  {
+    "input_word": "obvious",
+    "entries": [
+      {"text": "obvious", "ipa": "/ˈɑbviəs/", "cefr": "B1", "zh": "明显的", "emoji": "💡"}
+    ]
+  },
+  {
+    "input_word": "obviously",
+    "entries": [
+      {"text": "obviously", "ipa": "/ˈɑbviəsli/", "cefr": "B1", "zh": "显然", "emoji": "💡"}
+    ]
+  },
+  {
+    "input_word": "occasion",
+    "entries": [
+      {"text": "occasion", "ipa": "/əˈkeɪʒən/", "cefr": "B1", "zh": "场合", "emoji": "🎉"}
+    ]
+  },
+  {
+    "input_word": "occasionally",
+    "entries": [
+      {"text": "occasionally", "ipa": "/əˈkeɪʒənəli/", "cefr": "B2", "zh": "偶尔", "emoji": "🔄"}
+    ]
+  },
+  {
+    "input_word": "occur",
+    "entries": [
+      {"text": "occur", "ipa": "/əˈkɜr/", "cefr": "B1", "zh": "发生", "emoji": "⚡"}
+    ]
+  },
+  {
+    "input_word": "ocean",
+    "entries": [
+      {"text": "ocean", "ipa": "/ˈoʊʃən/", "cefr": "A2", "zh": "海洋", "emoji": "🌊"}
+    ]
+  },
+  {
+    "input_word": "october",
+    "entries": [
+      {"text": "October", "ipa": "/ɑkˈtoʊbər/", "cefr": "A1", "zh": "十月", "emoji": "🍂"}
+    ]
+  },
+  {
+    "input_word": "odd",
+    "entries": [
+      {"text": "odd", "ipa": "/ɑd/", "cefr": "B1", "zh": "奇怪的", "emoji": "🤔"},
+      {"text": "odd", "ipa": "/ɑd/", "cefr": "B1", "zh": "奇数的", "emoji": "🔢"}
+    ]
+  },
+  {
+    "input_word": "of",
+    "entries": []
+  },
+  {
+    "input_word": "off",
+    "entries": [
+      {"text": "off", "ipa": "/ɔf/", "cefr": "A1", "zh": "关闭", "emoji": "⏹️"}
+    ]
+  },
+  {
+    "input_word": "offence",
+    "entries": [
+      {"text": "offence", "ipa": "/əˈfɛns/", "cefr": "B2", "zh": "冒犯", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "offend",
+    "entries": [
+      {"text": "offend", "ipa": "/əˈfɛnd/", "cefr": "B2", "zh": "冒犯", "emoji": "😠"}
+    ]
+  },
+  {
+    "input_word": "offensive",
+    "entries": [
+      {"text": "offensive", "ipa": "/əˈfɛnsɪv/", "cefr": "B2", "zh": "冒犯性的", "emoji": "🚫"}
+    ]
+  },
+  {
+    "input_word": "offer",
+    "entries": [
+      {"text": "offer", "ipa": "/ˈɔfər/", "cefr": "A2", "zh": "提供", "emoji": "🤝"},
+      {"text": "offer", "ipa": "/ˈɔfər/", "cefr": "A2", "zh": "优惠", "emoji": "🏷️"}
+    ]
+  },
+  {
+    "input_word": "office",
+    "entries": [
+      {"text": "office", "ipa": "/ˈɔfɪs/", "cefr": "A1", "zh": "办公室", "emoji": "🏢"}
+    ]
+  },
+  {
+    "input_word": "officer",
+    "entries": [
+      {"text": "officer", "ipa": "/ˈɔfɪsər/", "cefr": "A2", "zh": "军官", "emoji": "👮"}
+    ]
+  },
+  {
+    "input_word": "official",
+    "entries": [
+      {"text": "official", "ipa": "/əˈfɪʃəl/", "cefr": "B1", "zh": "官员", "emoji": "🏛️"},
+      {"text": "official", "ipa": "/əˈfɪʃəl/", "cefr": "B1", "zh": "官方的", "emoji": "📜"}
+    ]
+  },
+  {
+    "input_word": "often",
+    "entries": [
+      {"text": "often", "ipa": "/ˈɔfən/", "cefr": "A1", "zh": "经常", "emoji": "🔁"}
+    ]
+  },
+  {
+    "input_word": "oh",
+    "entries": [
+      {"text": "oh", "ipa": "/oʊ/", "cefr": "A1", "zh": "哦", "emoji": "😮"}
+    ]
+  },
+  {
+    "input_word": "oil",
+    "entries": [
+      {"text": "oil", "ipa": "/ɔɪl/", "cefr": "A2", "zh": "油", "emoji": "🛢️"}
+    ]
+  },
+  {
+    "input_word": "ok",
+    "entries": [
+      {"text": "OK", "ipa": "/ˌoʊˈkeɪ/", "cefr": "A1", "zh": "好的", "emoji": "👍"}
+    ]
+  },
+  {
+    "input_word": "old",
+    "entries": [
+      {"text": "old", "ipa": "/oʊld/", "cefr": "A1", "zh": "年老的", "emoji": "👴"},
+      {"text": "old", "ipa": "/oʊld/", "cefr": "A1", "zh": "旧的", "emoji": "📦"}
+    ]
+  }
+]

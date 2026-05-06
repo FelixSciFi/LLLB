@@ -1,0 +1,272 @@
+[
+  {
+    "text": "une blessure",
+    "ipa": "yn blɛsyʁ",
+    "translation": {"zh": "一处伤口", "en": "a wound"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une blessure", "lemma": "blessure", "ipa": "yn blɛsyʁ", "translation": {"zh": "一处伤口", "en": "a wound"}, "emoji": "🩹"}
+    ]
+  },
+  {
+    "text": "il témoigne",
+    "ipa": "il temwaɲ",
+    "translation": {"zh": "他作证", "en": "he testifies"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il témoigne", "lemma": "témoigner", "ipa": "il temwaɲ", "translation": {"zh": "他作证", "en": "he testifies"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "l'égalité",
+    "ipa": "leɡalite",
+    "translation": {"zh": "平等", "en": "equality"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'égalité", "lemma": "égalité", "ipa": "leɡalite", "translation": {"zh": "平等", "en": "equality"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "la volonté",
+    "ipa": "la vɔlɔ̃te",
+    "translation": {"zh": "意志", "en": "willpower"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la volonté", "lemma": "volonté", "ipa": "la vɔlɔ̃te", "translation": {"zh": "意志", "en": "willpower"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "un robot",
+    "ipa": "œ̃ ʁɔbo",
+    "translation": {"zh": "一个机器人", "en": "a robot"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un robot", "lemma": "robot", "ipa": "œ̃ ʁɔbo", "translation": {"zh": "一个机器人", "en": "a robot"}, "emoji": "🤖"}
+    ]
+  },
+  {
+    "text": "il hurle",
+    "ipa": "il yʁl",
+    "translation": {"zh": "他大喊", "en": "he screams"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il hurle", "lemma": "hurler", "ipa": "il yʁl", "translation": {"zh": "他大喊", "en": "he screams"}, "emoji": "😱"}
+    ]
+  },
+  {
+    "text": "se comporter bien",
+    "ipa": "sə kɔ̃pɔʁte bjɛ̃",
+    "translation": {"zh": "表现良好", "en": "to behave well"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "se comporter bien", "lemma": "comporter", "ipa": "sə kɔ̃pɔʁte bjɛ̃", "translation": {"zh": "表现良好", "en": "to behave well"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un chant",
+    "ipa": "œ̃ ʃɑ̃",
+    "translation": {"zh": "一首歌", "en": "a song"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un chant", "lemma": "chant", "ipa": "œ̃ ʃɑ̃", "translation": {"zh": "一首歌", "en": "a song"}, "emoji": "🎵"}
+    ]
+  },
+  {
+    "text": "un exercice",
+    "ipa": "œ̃ ɛɡzɛʁsis",
+    "translation": {"zh": "一道练习题", "en": "an exercise"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un exercice", "lemma": "exercice", "ipa": "œ̃ ɛɡzɛʁsis", "translation": {"zh": "一道练习题", "en": "an exercise"}, "emoji": "📝"}
+    ]
+  },
+  {
+    "text": "ramasser les feuilles",
+    "ipa": "ʁamase le fœj",
+    "translation": {"zh": "捡树叶", "en": "to pick up leaves"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "ramasser les feuilles", "lemma": "ramasser", "ipa": "ʁamase le fœj", "translation": {"zh": "捡树叶", "en": "to pick up leaves"}, "emoji": "🍂"}
+    ]
+  },
+  {
+    "text": "un symbole",
+    "ipa": "œ̃ sɛ̃bɔl",
+    "translation": {"zh": "一个符号", "en": "a symbol"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un symbole", "lemma": "symbole", "ipa": "œ̃ sɛ̃bɔl", "translation": {"zh": "一个符号", "en": "a symbol"}, "emoji": "🔣"}
+    ]
+  },
+  {
+    "text": "un déplacement",
+    "ipa": "œ̃ deplasəmɑ̃",
+    "translation": {"zh": "一次出行", "en": "a trip"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un déplacement", "lemma": "déplacement", "ipa": "œ̃ deplasəmɑ̃", "translation": {"zh": "一次出行", "en": "a trip"}, "emoji": "✈️"}
+    ]
+  },
+  {
+    "text": "une remarque",
+    "ipa": "yn ʁəmaʁk",
+    "translation": {"zh": "一条备注", "en": "a remark"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une remarque", "lemma": "remarque", "ipa": "yn ʁəmaʁk", "translation": {"zh": "一条备注", "en": "a remark"}, "emoji": "💬"}
+    ]
+  },
+  {
+    "text": "un partenaire",
+    "ipa": "œ̃ paʁtənɛʁ",
+    "translation": {"zh": "一位合伙人", "en": "a partner"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un partenaire", "lemma": "partenaire", "ipa": "œ̃ paʁtənɛʁ", "translation": {"zh": "一位合伙人", "en": "a partner"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "continu",
+    "ipa": "kɔ̃tiny",
+    "translation": {"zh": "持续的", "en": "continuous"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "continu", "lemma": "continu", "ipa": "kɔ̃tiny", "translation": {"zh": "持续的", "en": "continuous"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une catastrophe",
+    "ipa": "yn katastrɔf",
+    "translation": {"zh": "一场灾难", "en": "a catastrophe"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une catastrophe", "lemma": "catastrophe", "ipa": "yn katastrɔf", "translation": {"zh": "一场灾难", "en": "a catastrophe"}, "emoji": "🌪️"}
+    ]
+  },
+  {
+    "text": "une attitude",
+    "ipa": "yn atityd",
+    "translation": {"zh": "一种态度", "en": "an attitude"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une attitude", "lemma": "attitude", "ipa": "yn atityd", "translation": {"zh": "一种态度", "en": "an attitude"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une échelle",
+    "ipa": "yn eʃɛl",
+    "translation": {"zh": "一把梯子", "en": "a ladder"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une échelle", "lemma": "échelle", "ipa": "yn eʃɛl", "translation": {"zh": "一把梯子", "en": "a ladder"}, "emoji": "🪜"}
+    ]
+  },
+  {
+    "text": "envahir le territoire",
+    "ipa": "ɑ̃vajiʁ lə tɛʁitwaʁ",
+    "translation": {"zh": "入侵领土", "en": "to invade the territory"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "envahir le territoire", "lemma": "envahir", "ipa": "ɑ̃vajiʁ lə tɛʁitwaʁ", "translation": {"zh": "入侵领土", "en": "to invade the territory"}, "emoji": "⚔️"}
+    ]
+  },
+  {
+    "text": "favoriser la croissance",
+    "ipa": "favɔʁize la kʁwasɑ̃s",
+    "translation": {"zh": "促进增长", "en": "to promote growth"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "favoriser la croissance", "lemma": "favoriser", "ipa": "favɔʁize la kʁwasɑ̃s", "translation": {"zh": "促进增长", "en": "to promote growth"}, "emoji": "📈"}
+    ]
+  },
+  {
+    "text": "une bataille",
+    "ipa": "yn bataj",
+    "translation": {"zh": "一场战役", "en": "a battle"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une bataille", "lemma": "bataille", "ipa": "yn bataj", "translation": {"zh": "一场战役", "en": "a battle"}, "emoji": "⚔️"}
+    ]
+  },
+  {
+    "text": "forcément",
+    "ipa": "fɔʁsemɑ̃",
+    "translation": {"zh": "必然地", "en": "necessarily"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "forcément", "lemma": "forcément", "ipa": "fɔʁsemɑ̃", "translation": {"zh": "必然地", "en": "necessarily"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la religion",
+    "ipa": "la ʁəliʒjɔ̃",
+    "translation": {"zh": "宗教", "en": "religion"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "la religion", "lemma": "religion", "ipa": "la ʁəliʒjɔ̃", "translation": {"zh": "宗教", "en": "religion"}, "emoji": "🙏"}
+    ]
+  },
+  {
+    "text": "la coopération",
+    "ipa": "la koɔpeʁasjɔ̃",
+    "translation": {"zh": "合作", "en": "cooperation"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la coopération", "lemma": "coopération", "ipa": "la koɔpeʁasjɔ̃", "translation": {"zh": "合作", "en": "cooperation"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "un fantôme",
+    "ipa": "œ̃ fɑ̃tom",
+    "translation": {"zh": "一个鬼魂", "en": "a ghost"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un fantôme", "lemma": "fantôme", "ipa": "œ̃ fɑ̃tom", "translation": {"zh": "一个鬼魂", "en": "a ghost"}, "emoji": "👻"}
+    ]
+  },
+  {
+    "text": "il est furieux",
+    "ipa": "il ɛ fyʁjø",
+    "translation": {"zh": "他很愤怒", "en": "he is furious"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il est furieux", "lemma": "être furieux", "ipa": "il ɛ fyʁjø", "translation": {"zh": "他很愤怒", "en": "he is furious"}, "emoji": "😡"}
+    ]
+  },
+  {
+    "text": "il est pâle",
+    "ipa": "il ɛ pal",
+    "translation": {"zh": "他脸色苍白", "en": "he is pale"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il est pâle", "lemma": "être pâle", "ipa": "il ɛ pal", "translation": {"zh": "他脸色苍白", "en": "he is pale"}, "emoji": "😶"}
+    ]
+  },
+  {
+    "text": "c'est spécial",
+    "ipa": "sɛ spesjal",
+    "translation": {"zh": "这很特别", "en": "it's special"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "c'est spécial", "lemma": "spécial", "ipa": "sɛ spesjal", "translation": {"zh": "这很特别", "en": "it's special"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "nommer un chef",
+    "ipa": "nɔme œ̃ ʃɛf",
+    "translation": {"zh": "任命一位领导", "en": "to appoint a leader"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "nommer un chef", "lemma": "nommer", "ipa": "nɔme œ̃ ʃɛf", "translation": {"zh": "任命一位领导", "en": "to appoint a leader"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un concours",
+    "ipa": "œ̃ kɔ̃kuʁ",
+    "translation": {"zh": "一场比赛", "en": "a competition"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un concours", "lemma": "concours", "ipa": "œ̃ kɔ̃kuʁ", "translation": {"zh": "一场比赛", "en": "a competition"}, "emoji": "🏆"}
+    ]
+  }
+]

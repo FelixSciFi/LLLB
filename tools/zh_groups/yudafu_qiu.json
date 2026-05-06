@@ -1,0 +1,268 @@
+[
+  {
+    "text": "秋天，无论在什么地方的秋天，总是好的；",
+    "ipa": "qiū tiān, wú lùn zài shén me dì fāng de qiū tiān, zǒng shì hǎo de;",
+    "translation": {
+      "zh": "秋天，无论在什么地方的秋天，总是好的；",
+      "en": "Autumn — no matter where autumn falls, it is always good;"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "秋天",
+        "lemma": "秋天",
+        "ipa": "qiū tiān",
+        "translation": {"zh": "秋季", "en": "autumn"},
+        "emoji": "🍂"
+      },
+      {
+        "text": "无论",
+        "lemma": "无论",
+        "ipa": "wú lùn",
+        "translation": {"zh": "不管", "en": "no matter"},
+        "emoji": ""
+      },
+      {
+        "text": "在什么地方的秋天",
+        "lemma": "地方",
+        "ipa": "zài shén me dì fāng de qiū tiān",
+        "translation": {"zh": "在哪里的秋季", "en": "autumn anywhere"},
+        "emoji": "🌍"
+      },
+      {
+        "text": "总是好的",
+        "lemma": "好",
+        "ipa": "zǒng shì hǎo de",
+        "translation": {"zh": "都是好的", "en": "is always good"},
+        "emoji": "👍"
+      }
+    ],
+    "tags": [{"name": "故都的秋", "index": 1}]
+  },
+  {
+    "text": "可是啊，北国的秋，却特别地来得清，来得静，来得悲凉。",
+    "ipa": "kě shì a, běi guó de qiū, què tè bié de lái de qīng, lái de jìng, lái de bēi liáng.",
+    "translation": {
+      "zh": "可是啊，北国的秋，却特别地来得清，来得静，来得悲凉。",
+      "en": "But ah — autumn in the North arrives uniquely clear, uniquely still, uniquely sorrowful."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "可是啊",
+        "lemma": "可是",
+        "ipa": "kě shì a",
+        "translation": {"zh": "但是啊", "en": "but ah"},
+        "emoji": ""
+      },
+      {
+        "text": "北国的秋",
+        "lemma": "北国",
+        "ipa": "běi guó de qiū",
+        "translation": {"zh": "北方的秋天", "en": "northern autumn"},
+        "emoji": "🧭"
+      },
+      {
+        "text": "却特别地",
+        "lemma": "特别",
+        "ipa": "què tè bié de",
+        "translation": {"zh": "偏偏格外", "en": "yet especially"},
+        "emoji": ""
+      },
+      {
+        "text": "来得清",
+        "lemma": "清",
+        "ipa": "lái de qīng",
+        "translation": {"zh": "显得清爽", "en": "comes clear"},
+        "emoji": "💧"
+      },
+      {
+        "text": "来得静",
+        "lemma": "静",
+        "ipa": "lái de jìng",
+        "translation": {"zh": "显得安静", "en": "comes still"},
+        "emoji": "🤫"
+      },
+      {
+        "text": "来得悲凉",
+        "lemma": "悲凉",
+        "ipa": "lái de bēi liáng",
+        "translation": {"zh": "显得凄凉", "en": "comes sorrowful"},
+        "emoji": "😔"
+      }
+    ],
+    "tags": [{"name": "故都的秋", "index": 2}]
+  },
+  {
+    "text": "我的不远千里，",
+    "ipa": "wǒ de bù yuǎn qiān lǐ,",
+    "translation": {
+      "zh": "我的不远千里，",
+      "en": "My traveling a thousand miles without minding the distance,"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "我的",
+        "lemma": "我",
+        "ipa": "wǒ de",
+        "translation": {"zh": "我", "en": "my"},
+        "emoji": "🙋"
+      },
+      {
+        "text": "不远千里",
+        "lemma": "千里",
+        "ipa": "bù yuǎn qiān lǐ",
+        "translation": {"zh": "不嫌千里远", "en": "travel far"},
+        "emoji": "🛤️"
+      }
+    ],
+    "tags": [{"name": "故都的秋", "index": 3}]
+  },
+  {
+    "text": "要从杭州赶上青岛，",
+    "ipa": "yào cóng háng zhōu gǎn shàng qīng dǎo,",
+    "translation": {
+      "zh": "要从杭州赶上青岛，",
+      "en": "rushing from Hangzhou up to Qingdao,"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "要",
+        "lemma": "要",
+        "ipa": "yào",
+        "translation": {"zh": "想", "en": "want to"},
+        "emoji": ""
+      },
+      {
+        "text": "从杭州",
+        "lemma": "杭州",
+        "ipa": "cóng háng zhōu",
+        "translation": {"zh": "由杭州", "en": "from Hangzhou"},
+        "emoji": "📍"
+      },
+      {
+        "text": "赶上青岛",
+        "lemma": "赶",
+        "ipa": "gǎn shàng qīng dǎo",
+        "translation": {"zh": "奔赴青岛", "en": "rush to Qingdao"},
+        "emoji": "🏃"
+      }
+    ],
+    "tags": [{"name": "故都的秋", "index": 4}]
+  },
+  {
+    "text": "更要从青岛赶上北平来的理由，",
+    "ipa": "gèng yào cóng qīng dǎo gǎn shàng běi píng lái de lǐ yóu,",
+    "translation": {
+      "zh": "更要从青岛赶上北平来的理由，",
+      "en": "and even further from Qingdao up to Beiping — the reason for it,"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "更要",
+        "lemma": "更",
+        "ipa": "gèng yào",
+        "translation": {"zh": "还想", "en": "even want"},
+        "emoji": ""
+      },
+      {
+        "text": "从青岛",
+        "lemma": "青岛",
+        "ipa": "cóng qīng dǎo",
+        "translation": {"zh": "由青岛", "en": "from Qingdao"},
+        "emoji": "📍"
+      },
+      {
+        "text": "赶上北平",
+        "lemma": "北平",
+        "ipa": "gǎn shàng běi píng",
+        "translation": {"zh": "奔赴北平", "en": "rush to Beiping"},
+        "emoji": "🏛️"
+      },
+      {
+        "text": "来的理由",
+        "lemma": "理由",
+        "ipa": "lái de lǐ yóu",
+        "translation": {"zh": "前来的原因", "en": "the reason"},
+        "emoji": "❓"
+      }
+    ],
+    "tags": [{"name": "故都的秋", "index": 5}]
+  },
+  {
+    "text": "也不过想饱尝一尝这“秋”，",
+    "ipa": "yě bù guò xiǎng bǎo cháng yī cháng zhè “qiū”,",
+    "translation": {
+      "zh": "也不过想饱尝一尝这“秋”，",
+      "en": "is nothing more than wanting to drink in this \"autumn\" to the full,"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "也不过",
+        "lemma": "不过",
+        "ipa": "yě bù guò",
+        "translation": {"zh": "只是", "en": "merely"},
+        "emoji": ""
+      },
+      {
+        "text": "想",
+        "lemma": "想",
+        "ipa": "xiǎng",
+        "translation": {"zh": "希望", "en": "want to"},
+        "emoji": "💭"
+      },
+      {
+        "text": "饱尝一尝",
+        "lemma": "饱尝",
+        "ipa": "bǎo cháng yī cháng",
+        "translation": {"zh": "好好品味", "en": "savor fully"},
+        "emoji": "😋"
+      },
+      {
+        "text": "这“秋”",
+        "lemma": "秋",
+        "ipa": "zhè qiū",
+        "translation": {"zh": "这个秋", "en": "this \"autumn\""},
+        "emoji": "🍁"
+      }
+    ],
+    "tags": [{"name": "故都的秋", "index": 6}]
+  },
+  {
+    "text": "这故都的秋味。",
+    "ipa": "zhè gù dū de qiū wèi.",
+    "translation": {
+      "zh": "这故都的秋味。",
+      "en": "this flavor of autumn in the old capital."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "这",
+        "lemma": "这",
+        "ipa": "zhè",
+        "translation": {"zh": "此", "en": "this"},
+        "emoji": ""
+      },
+      {
+        "text": "故都的",
+        "lemma": "故都",
+        "ipa": "gù dū de",
+        "translation": {"zh": "旧都城的", "en": "old capital's"},
+        "emoji": "🏯"
+      },
+      {
+        "text": "秋味",
+        "lemma": "秋味",
+        "ipa": "qiū wèi",
+        "translation": {"zh": "秋的滋味", "en": "autumn flavor"},
+        "emoji": "🍂"
+      }
+    ],
+    "tags": [{"name": "故都的秋", "index": 7}]
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "input_word": "ugly",
+    "entries": [
+      {"text": "ugly", "ipa": "/ˈʌɡli/", "cefr": "B1", "zh": "丑陋的", "emoji": "🤢"}
+    ]
+  },
+  {
+    "input_word": "ultimately",
+    "entries": [
+      {"text": "ultimately", "ipa": "/ˈʌltɪmətli/", "cefr": "B2", "zh": "最终", "emoji": "🏁"}
+    ]
+  },
+  {
+    "input_word": "umbrella",
+    "entries": [
+      {"text": "umbrella", "ipa": "/ʌmˈbrɛlə/", "cefr": "A1", "zh": "雨伞", "emoji": "☂️"}
+    ]
+  },
+  {
+    "input_word": "unable",
+    "entries": [
+      {"text": "unable", "ipa": "/ʌnˈeɪbəl/", "cefr": "B1", "zh": "无法的", "emoji": "🚫"}
+    ]
+  },
+  {
+    "input_word": "uncle",
+    "entries": [
+      {"text": "uncle", "ipa": "/ˈʌŋkəl/", "cefr": "A1", "zh": "叔叔", "emoji": "👨"}
+    ]
+  },
+  {
+    "input_word": "uncomfortable",
+    "entries": [
+      {"text": "uncomfortable", "ipa": "/ʌnˈkʌmftərbəl/", "cefr": "B1", "zh": "不舒适的", "emoji": "😣"}
+    ]
+  },
+  {
+    "input_word": "unconscious",
+    "entries": [
+      {"text": "unconscious", "ipa": "/ʌnˈkɑːnʃəs/", "cefr": "B2", "zh": "无意识的", "emoji": "😵"}
+    ]
+  },
+  {
+    "input_word": "under",
+    "entries": [
+      {"text": "under", "ipa": "/ˈʌndər/", "cefr": "A1", "zh": "在…下方", "emoji": "⬇️"}
+    ]
+  },
+  {
+    "input_word": "underground",
+    "entries": [
+      {"text": "underground", "ipa": "/ˈʌndərɡraʊnd/", "cefr": "A2", "zh": "地下的", "emoji": "🚇"}
+    ]
+  },
+  {
+    "input_word": "understand",
+    "entries": [
+      {"text": "understand", "ipa": "/ˌʌndərˈstænd/", "cefr": "A1", "zh": "理解", "emoji": "💡"}
+    ]
+  },
+  {
+    "input_word": "understanding",
+    "entries": [
+      {"text": "understanding", "ipa": "/ˌʌndərˈstændɪŋ/", "cefr": "A2", "zh": "理解", "emoji": "🤝"},
+      {"text": "understanding", "ipa": "/ˌʌndərˈstændɪŋ/", "cefr": "A2", "zh": "善解人意", "emoji": "💛"}
+    ]
+  },
+  {
+    "input_word": "underwear",
+    "entries": [
+      {"text": "underwear", "ipa": "/ˈʌndərwɛr/", "cefr": "B1", "zh": "内衣", "emoji": "🩲"}
+    ]
+  },
+  {
+    "input_word": "unemployed",
+    "entries": [
+      {"text": "unemployed", "ipa": "/ˌʌnɪmˈplɔɪd/", "cefr": "B1", "zh": "失业的", "emoji": "😔"}
+    ]
+  },
+  {
+    "input_word": "unemployment",
+    "entries": [
+      {"text": "unemployment", "ipa": "/ˌʌnɪmˈplɔɪmənt/", "cefr": "B1", "zh": "失业", "emoji": "📉"}
+    ]
+  },
+  {
+    "input_word": "unexpected",
+    "entries": [
+      {"text": "unexpected", "ipa": "/ˌʌnɪkˈspɛktɪd/", "cefr": "B2", "zh": "意外的", "emoji": "😲"}
+    ]
+  },
+  {
+    "input_word": "unfair",
+    "entries": [
+      {"text": "unfair", "ipa": "/ʌnˈfɛr/", "cefr": "B1", "zh": "不公平的", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "unfortunately",
+    "entries": [
+      {"text": "unfortunately", "ipa": "/ʌnˈfɔːrtʃənətli/", "cefr": "A2", "zh": "不幸地", "emoji": "😞"}
+    ]
+  },
+  {
+    "input_word": "unhappy",
+    "entries": [
+      {"text": "unhappy", "ipa": "/ʌnˈhæpi/", "cefr": "A2", "zh": "不开心的", "emoji": "😢"}
+    ]
+  },
+  {
+    "input_word": "uniform",
+    "entries": [
+      {"text": "uniform", "ipa": "/ˈjuːnɪfɔːrm/", "cefr": "A2", "zh": "制服", "emoji": "👔"},
+      {"text": "uniform", "ipa": "/ˈjuːnɪfɔːrm/", "cefr": "A2", "zh": "统一的", "emoji": "🔲"}
+    ]
+  },
+  {
+    "input_word": "union",
+    "entries": [
+      {"text": "union", "ipa": "/ˈjuːnjən/", "cefr": "B1", "zh": "工会", "emoji": "✊"},
+      {"text": "union", "ipa": "/ˈjuːnjən/", "cefr": "B1", "zh": "联盟", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "unique",
+    "entries": [
+      {"text": "unique", "ipa": "/juːˈniːk/", "cefr": "B2", "zh": "独特的", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_word": "unit",
+    "entries": [
+      {"text": "unit", "ipa": "/ˈjuːnɪt/", "cefr": "A2", "zh": "单位", "emoji": "📐"}
+    ]
+  },
+  {
+    "input_word": "united",
+    "entries": [
+      {"text": "united", "ipa": "/juːˈnaɪtɪd/", "cefr": "A2", "zh": "团结的", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "universe",
+    "entries": [
+      {"text": "universe", "ipa": "/ˈjuːnɪvɜːrs/", "cefr": "B2", "zh": "宇宙", "emoji": "🌌"}
+    ]
+  },
+  {
+    "input_word": "university",
+    "entries": [
+      {"text": "university", "ipa": "/ˌjuːnɪˈvɜːrsɪti/", "cefr": "A1", "zh": "大学", "emoji": "🎓"}
+    ]
+  },
+  {
+    "input_word": "unknown",
+    "entries": [
+      {"text": "unknown", "ipa": "/ʌnˈnoʊn/", "cefr": "B2", "zh": "未知的", "emoji": "❓"}
+    ]
+  },
+  {
+    "input_word": "unless",
+    "entries": []
+  },
+  {
+    "input_word": "unlike",
+    "entries": []
+  },
+  {
+    "input_word": "unlikely",
+    "entries": [
+      {"text": "unlikely", "ipa": "/ʌnˈlaɪkli/", "cefr": "B1", "zh": "不太可能的", "emoji": "🎲"}
+    ]
+  },
+  {
+    "input_word": "unnecessary",
+    "entries": [
+      {"text": "unnecessary", "ipa": "/ʌnˈnɛsɪsɛri/", "cefr": "B1", "zh": "不必要的", "emoji": "❌"}
+    ]
+  }
+]

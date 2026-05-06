@@ -1,0 +1,182 @@
+[
+  {
+    "input_text": "文凭",
+    "entries": [
+      {"text": "文凭", "pinyin": "wén píng", "en": "diploma, certificate", "emoji": "📜"}
+    ]
+  },
+  {
+    "input_text": "文物",
+    "entries": [
+      {"text": "文物", "pinyin": "wén wù", "en": "cultural relic", "emoji": "🏺"}
+    ]
+  },
+  {
+    "input_text": "文献",
+    "entries": [
+      {"text": "文献", "pinyin": "wén xiàn", "en": "document, literature", "emoji": "📄"}
+    ]
+  },
+  {
+    "input_text": "文雅",
+    "entries": [
+      {"text": "文雅", "pinyin": "wén yǎ", "en": "refined, elegant", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "文艺",
+    "entries": [
+      {"text": "文艺", "pinyin": "wén yì", "en": "literature and art", "emoji": "🎨"}
+    ]
+  },
+  {
+    "input_text": "问世",
+    "entries": [
+      {"text": "问世", "pinyin": "wèn shì", "en": "come out, be published", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "窝",
+    "entries": [
+      {"text": "窝", "pinyin": "wō", "en": "nest, den", "emoji": "🪺"}
+    ]
+  },
+  {
+    "input_text": "乌黑",
+    "entries": [
+      {"text": "乌黑", "pinyin": "wū hēi", "en": "jet-black", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "污蔑",
+    "entries": [
+      {"text": "污蔑", "pinyin": "wū miè", "en": "slander, smear", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "诬陷",
+    "entries": [
+      {"text": "诬陷", "pinyin": "wū xiàn", "en": "frame, falsely accuse", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "无比",
+    "entries": [
+      {"text": "无比", "pinyin": "wú bǐ", "en": "incomparable, unmatched", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "无偿",
+    "entries": [
+      {"text": "无偿", "pinyin": "wú cháng", "en": "free, gratuitous", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "无耻",
+    "entries": [
+      {"text": "无耻", "pinyin": "wú chǐ", "en": "shameless", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "无动于衷",
+    "entries": [
+      {"text": "无动于衷", "pinyin": "wú dòng yú zhōng", "en": "indifferent, unmoved", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "无非",
+    "entries": [
+      {"text": "无非", "pinyin": "wú fēi", "en": "nothing but, merely", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "无辜",
+    "entries": [
+      {"text": "无辜", "pinyin": "wú gū", "en": "innocent, guiltless", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "无精打采",
+    "entries": [
+      {"text": "无精打采", "pinyin": "wú jīng dǎ cǎi", "en": "listless, dispirited", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "无赖",
+    "entries": [
+      {"text": "无赖", "pinyin": "wú lài", "en": "scoundrel, rascal", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "无理取闹",
+    "entries": [
+      {"text": "无理取闹", "pinyin": "wú lǐ qǔ nào", "en": "make trouble unreasonably", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "无能为力",
+    "entries": [
+      {"text": "无能为力", "pinyin": "wú néng wéi lì", "en": "powerless, helpless", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "无穷无尽",
+    "entries": [
+      {"text": "无穷无尽", "pinyin": "wú qióng wú jìn", "en": "endless, inexhaustible", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "无微不至",
+    "entries": [
+      {"text": "无微不至", "pinyin": "wú wēi bù zhì", "en": "considerate in every detail", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "无忧无虑",
+    "entries": [
+      {"text": "无忧无虑", "pinyin": "wú yōu wú lǜ", "en": "carefree, worry-free", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "无知",
+    "entries": [
+      {"text": "无知", "pinyin": "wú zhī", "en": "ignorant, ignorance", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "武器",
+    "entries": [
+      {"text": "武器", "pinyin": "wǔ qì", "en": "weapon", "emoji": "⚔️"}
+    ]
+  },
+  {
+    "input_text": "武侠",
+    "entries": [
+      {"text": "武侠", "pinyin": "wǔ xiá", "en": "martial arts hero", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "武装",
+    "entries": [
+      {"text": "武装", "pinyin": "wǔ zhuāng", "en": "armed forces, arm", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "侮辱",
+    "entries": [
+      {"text": "侮辱", "pinyin": "wǔ rǔ", "en": "insult, humiliate", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "舞蹈",
+    "entries": [
+      {"text": "舞蹈", "pinyin": "wǔ dǎo", "en": "dance", "emoji": "💃"}
+    ]
+  },
+  {
+    "input_text": "务必",
+    "entries": [
+      {"text": "务必", "pinyin": "wù bì", "en": "must, be sure to", "emoji": ""}
+    ]
+  }
+]

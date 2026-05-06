@@ -1,0 +1,293 @@
+[
+  {
+    "text": "l'arbitre",
+    "ipa": "laʁ.bitʁ",
+    "translation": {"zh": "裁判", "en": "the referee"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'arbitre", "lemma": "arbitre", "ipa": "laʁ.bitʁ", "translation": {"zh": "裁判", "en": "referee"}, "emoji": "🧑‍⚖️"}
+    ]
+  },
+  {
+    "text": "vivre en solitaire",
+    "ipa": "vivʁ ɑ̃ sɔ.li.tɛʁ",
+    "translation": {"zh": "独居", "en": "to live alone"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "vivre", "lemma": "vivre", "ipa": "vivʁ", "translation": {"zh": "生活", "en": "to live"}, "emoji": ""},
+      {"text": "en solitaire", "lemma": "solitaire", "ipa": "ɑ̃ sɔ.li.tɛʁ", "translation": {"zh": "独自", "en": "alone"}, "emoji": "🧍"}
+    ]
+  },
+  {
+    "text": "la parité",
+    "ipa": "la pa.ʁi.te",
+    "translation": {"zh": "平等", "en": "parity"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la parité", "lemma": "parité", "ipa": "la pa.ʁi.te", "translation": {"zh": "平等", "en": "parity"}, "emoji": "⚖️"}
+    ]
+  },
+  {
+    "text": "détenir un record",
+    "ipa": "de.tə.niʁ œ̃ ʁə.kɔʁ",
+    "translation": {"zh": "保持纪录", "en": "to hold a record"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "détenir", "lemma": "détenir", "ipa": "de.tə.niʁ", "translation": {"zh": "持有", "en": "to hold"}, "emoji": ""},
+      {"text": "un record", "lemma": "record", "ipa": "œ̃ ʁə.kɔʁ", "translation": {"zh": "纪录", "en": "record"}, "emoji": "🏆"}
+    ]
+  },
+  {
+    "text": "la cabine téléphonique",
+    "ipa": "la ka.bin te.le.fɔ.nik",
+    "translation": {"zh": "电话亭", "en": "phone booth"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la cabine", "lemma": "cabine", "ipa": "la ka.bin", "translation": {"zh": "小亭", "en": "cabin"}, "emoji": ""},
+      {"text": "téléphonique", "lemma": "téléphonique", "ipa": "te.le.fɔ.nik", "translation": {"zh": "电话的", "en": "telephone"}, "emoji": "📞"}
+    ]
+  },
+  {
+    "text": "diversifier ses sources",
+    "ipa": "di.vɛʁ.si.fje se suʁs",
+    "translation": {"zh": "多元化来源", "en": "to diversify sources"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "diversifier", "lemma": "diversifier", "ipa": "di.vɛʁ.si.fje", "translation": {"zh": "多元化", "en": "to diversify"}, "emoji": ""},
+      {"text": "ses sources", "lemma": "source", "ipa": "se suʁs", "translation": {"zh": "来源", "en": "sources"}, "emoji": "📊"}
+    ]
+  },
+  {
+    "text": "un cas singulier",
+    "ipa": "œ̃ kɑ sɛ̃.ɡy.lje",
+    "translation": {"zh": "特殊案例", "en": "a singular case"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un cas", "lemma": "cas", "ipa": "œ̃ kɑ", "translation": {"zh": "案例", "en": "case"}, "emoji": ""},
+      {"text": "singulier", "lemma": "singulier", "ipa": "sɛ̃.ɡy.lje", "translation": {"zh": "特殊的", "en": "singular"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "une saucisse grillée",
+    "ipa": "yn so.sis ɡʁi.je",
+    "translation": {"zh": "烤香肠", "en": "a grilled sausage"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une saucisse", "lemma": "saucisse", "ipa": "yn so.sis", "translation": {"zh": "香肠", "en": "sausage"}, "emoji": "🌭"},
+      {"text": "grillée", "lemma": "griller", "ipa": "ɡʁi.je", "translation": {"zh": "烤的", "en": "grilled"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la monte des eaux",
+    "ipa": "la mɔ̃t de zo",
+    "translation": {"zh": "水位上涨", "en": "the rise of waters"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la monte", "lemma": "monte", "ipa": "la mɔ̃t", "translation": {"zh": "上涨", "en": "rise"}, "emoji": ""},
+      {"text": "des eaux", "lemma": "eau", "ipa": "de zo", "translation": {"zh": "水", "en": "waters"}, "emoji": "🌊"}
+    ]
+  },
+  {
+    "text": "a priori",
+    "ipa": "a pʁi.ɔ.ʁi",
+    "translation": {"zh": "先验地", "en": "a priori"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "a priori", "lemma": "priori", "ipa": "a pʁi.ɔ.ʁi", "translation": {"zh": "先验地", "en": "a priori"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la cendre",
+    "ipa": "la sɑ̃dʁ",
+    "translation": {"zh": "灰烬", "en": "ash"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la cendre", "lemma": "cendre", "ipa": "la sɑ̃dʁ", "translation": {"zh": "灰烬", "en": "ash"}, "emoji": "🔥"}
+    ]
+  },
+  {
+    "text": "la faune locale",
+    "ipa": "la fon lɔ.kal",
+    "translation": {"zh": "当地动物群", "en": "local fauna"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la faune", "lemma": "faune", "ipa": "la fon", "translation": {"zh": "动物群", "en": "fauna"}, "emoji": "🦁"},
+      {"text": "locale", "lemma": "local", "ipa": "lɔ.kal", "translation": {"zh": "当地的", "en": "local"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "c'est relativement simple",
+    "ipa": "s‿ɛ ʁə.la.tiv.mɑ̃ sɛ̃pl",
+    "translation": {"zh": "相对简单", "en": "it's relatively simple"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "c'est relativement simple", "lemma": "être", "ipa": "s‿ɛ ʁə.la.tiv.mɑ̃ sɛ̃pl", "translation": {"zh": "相对简单", "en": "relatively simple"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "c'est cassé",
+    "ipa": "s‿ɛ ka.se",
+    "translation": {"zh": "坏了", "en": "it's broken"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est cassé", "lemma": "être", "ipa": "s‿ɛ ka.se", "translation": {"zh": "坏了", "en": "it's broken"}, "emoji": "💔"}
+    ]
+  },
+  {
+    "text": "une bougie",
+    "ipa": "yn bu.ʒi",
+    "translation": {"zh": "蜡烛", "en": "a candle"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une bougie", "lemma": "bougie", "ipa": "yn bu.ʒi", "translation": {"zh": "蜡烛", "en": "candle"}, "emoji": "🕯️"}
+    ]
+  },
+  {
+    "text": "siffler une mélodie",
+    "ipa": "si.fle yn me.lɔ.di",
+    "translation": {"zh": "吹口哨哼旋律", "en": "to whistle a melody"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "siffler", "lemma": "siffler", "ipa": "si.fle", "translation": {"zh": "吹口哨", "en": "to whistle"}, "emoji": ""},
+      {"text": "une mélodie", "lemma": "mélodie", "ipa": "yn me.lɔ.di", "translation": {"zh": "旋律", "en": "melody"}, "emoji": "🎶"}
+    ]
+  },
+  {
+    "text": "décidément non",
+    "ipa": "de.si.de.mɑ̃ nɔ̃",
+    "translation": {"zh": "绝对不行", "en": "definitely not"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "décidément", "lemma": "décidément", "ipa": "de.si.de.mɑ̃", "translation": {"zh": "确实", "en": "decidedly"}, "emoji": ""},
+      {"text": "non", "lemma": "non", "ipa": "nɔ̃", "translation": {"zh": "不", "en": "no"}, "emoji": "❌"}
+    ]
+  },
+  {
+    "text": "un ton ironique",
+    "ipa": "œ̃ tɔ̃ i.ʁɔ.nik",
+    "translation": {"zh": "讽刺口吻", "en": "an ironic tone"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un ton", "lemma": "ton", "ipa": "œ̃ tɔ̃", "translation": {"zh": "口吻", "en": "tone"}, "emoji": ""},
+      {"text": "ironique", "lemma": "ironique", "ipa": "i.ʁɔ.nik", "translation": {"zh": "讽刺的", "en": "ironic"}, "emoji": "😏"}
+    ]
+  },
+  {
+    "text": "hisser le drapeau",
+    "ipa": "i.se lə dʁa.po",
+    "translation": {"zh": "升旗", "en": "to hoist the flag"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "hisser", "lemma": "hisser", "ipa": "i.se", "translation": {"zh": "升起", "en": "to hoist"}, "emoji": ""},
+      {"text": "le drapeau", "lemma": "drapeau", "ipa": "lə dʁa.po", "translation": {"zh": "旗帜", "en": "flag"}, "emoji": "🚩"}
+    ]
+  },
+  {
+    "text": "personnaliser son profil",
+    "ipa": "pɛʁ.sɔ.na.li.ze sɔ̃ pʁɔ.fil",
+    "translation": {"zh": "个性化个人资料", "en": "to customize one's profile"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "personnaliser", "lemma": "personnaliser", "ipa": "pɛʁ.sɔ.na.li.ze", "translation": {"zh": "个性化", "en": "to customize"}, "emoji": ""},
+      {"text": "son profil", "lemma": "profil", "ipa": "sɔ̃ pʁɔ.fil", "translation": {"zh": "个人资料", "en": "profile"}, "emoji": "👤"}
+    ]
+  },
+  {
+    "text": "priser le tabac",
+    "ipa": "pʁi.ze lə ta.ba",
+    "translation": {"zh": "嗅鼻烟", "en": "to sniff tobacco"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "priser", "lemma": "priser", "ipa": "pʁi.ze", "translation": {"zh": "嗅鼻烟", "en": "to sniff"}, "emoji": ""},
+      {"text": "le tabac", "lemma": "tabac", "ipa": "lə ta.ba", "translation": {"zh": "烟草", "en": "tobacco"}, "emoji": "🌿"}
+    ]
+  },
+  {
+    "text": "un rituel quotidien",
+    "ipa": "œ̃ ʁi.tɥɛl kɔ.ti.djɛ̃",
+    "translation": {"zh": "日常仪式", "en": "a daily ritual"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un rituel", "lemma": "rituel", "ipa": "œ̃ ʁi.tɥɛl", "translation": {"zh": "仪式", "en": "ritual"}, "emoji": "🕯️"},
+      {"text": "quotidien", "lemma": "quotidien", "ipa": "kɔ.ti.djɛ̃", "translation": {"zh": "日常的", "en": "daily"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une zone piétonne",
+    "ipa": "yn zon pje.tɔn",
+    "translation": {"zh": "步行区", "en": "a pedestrian zone"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une zone", "lemma": "zone", "ipa": "yn zon", "translation": {"zh": "区域", "en": "zone"}, "emoji": ""},
+      {"text": "piétonne", "lemma": "piéton", "ipa": "pje.tɔn", "translation": {"zh": "步行的", "en": "pedestrian"}, "emoji": "🚶"}
+    ]
+  },
+  {
+    "text": "il sourit tristement",
+    "ipa": "il su.ʁi tʁis.tə.mɑ̃",
+    "translation": {"zh": "他悲伤地微笑", "en": "he smiles sadly"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il sourit", "lemma": "sourire", "ipa": "il su.ʁi", "translation": {"zh": "他微笑", "en": "he smiles"}, "emoji": ""},
+      {"text": "tristement", "lemma": "tristement", "ipa": "tʁis.tə.mɑ̃", "translation": {"zh": "悲伤地", "en": "sadly"}, "emoji": "😔"}
+    ]
+  },
+  {
+    "text": "elle marche fièrement",
+    "ipa": "ɛl maʁʃ fjɛʁ.mɑ̃",
+    "translation": {"zh": "她昂首阔步", "en": "she walks proudly"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "elle marche", "lemma": "marcher", "ipa": "ɛl maʁʃ", "translation": {"zh": "她走路", "en": "she walks"}, "emoji": ""},
+      {"text": "fièrement", "lemma": "fièrement", "ipa": "fjɛʁ.mɑ̃", "translation": {"zh": "骄傲地", "en": "proudly"}, "emoji": "😤"}
+    ]
+  },
+  {
+    "text": "l'étagère",
+    "ipa": "le.ta.ʒɛʁ",
+    "translation": {"zh": "书架", "en": "the shelf"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "l'étagère", "lemma": "étagère", "ipa": "le.ta.ʒɛʁ", "translation": {"zh": "书架", "en": "shelf"}, "emoji": "📚"}
+    ]
+  },
+  {
+    "text": "une offre attractive",
+    "ipa": "yn ɔfʁ a.tʁak.tiv",
+    "translation": {"zh": "有吸引力的报价", "en": "an attractive offer"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une offre", "lemma": "offre", "ipa": "yn ɔfʁ", "translation": {"zh": "报价", "en": "offer"}, "emoji": ""},
+      {"text": "attractive", "lemma": "attractif", "ipa": "a.tʁak.tiv", "translation": {"zh": "有吸引力的", "en": "attractive"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "suivre la procédure",
+    "ipa": "sɥivʁ la pʁɔ.se.dyʁ",
+    "translation": {"zh": "遵守程序", "en": "to follow the procedure"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "suivre", "lemma": "suivre", "ipa": "sɥivʁ", "translation": {"zh": "遵守", "en": "to follow"}, "emoji": ""},
+      {"text": "la procédure", "lemma": "procédure", "ipa": "la pʁɔ.se.dyʁ", "translation": {"zh": "程序", "en": "procedure"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "c'est l'idéal",
+    "ipa": "s‿ɛ li.de.al",
+    "translation": {"zh": "这是理想的", "en": "it's ideal"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "c'est l'idéal", "lemma": "être", "ipa": "s‿ɛ li.de.al", "translation": {"zh": "最理想", "en": "it's ideal"}, "emoji": "🌟"}
+    ]
+  },
+  {
+    "text": "abattre un arbre",
+    "ipa": "a.batʁ œ̃ naʁbʁ",
+    "translation": {"zh": "砍倒一棵树", "en": "to fell a tree"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "abattre", "lemma": "abattre", "ipa": "a.batʁ", "translation": {"zh": "砍倒", "en": "to fell"}, "emoji": ""},
+      {"text": "un arbre", "lemma": "arbre", "ipa": "œ̃ naʁbʁ", "translation": {"zh": "树", "en": "tree"}, "emoji": "🌳"}
+    ]
+  }
+]

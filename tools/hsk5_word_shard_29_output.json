@@ -1,0 +1,183 @@
+[
+  {
+    "input_text": "手套",
+    "entries": [
+      {"text": "手套", "pinyin": "shǒu tào", "en": "gloves", "emoji": "🧤"}
+    ]
+  },
+  {
+    "input_text": "手续",
+    "entries": [
+      {"text": "手续", "pinyin": "shǒu xù", "en": "procedures; formalities", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_text": "手指",
+    "entries": [
+      {"text": "手指", "pinyin": "shǒu zhǐ", "en": "finger", "emoji": "☝️"}
+    ]
+  },
+  {
+    "input_text": "首",
+    "entries": [
+      {"text": "首", "pinyin": "shǒu", "en": "first; head; measure for songs", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "寿命",
+    "entries": [
+      {"text": "寿命", "pinyin": "shòu mìng", "en": "lifespan", "emoji": "⏳"}
+    ]
+  },
+  {
+    "input_text": "受伤",
+    "entries": [
+      {"text": "受伤", "pinyin": "shòu shāng", "en": "get injured", "emoji": "🤕"}
+    ]
+  },
+  {
+    "input_text": "书架",
+    "entries": [
+      {"text": "书架", "pinyin": "shū jià", "en": "bookshelf", "emoji": "📚"}
+    ]
+  },
+  {
+    "input_text": "梳子",
+    "entries": [
+      {"text": "梳子", "pinyin": "shū zi", "en": "comb", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "舒适",
+    "entries": [
+      {"text": "舒适", "pinyin": "shū shì", "en": "comfortable", "emoji": "😌"}
+    ]
+  },
+  {
+    "input_text": "输入",
+    "entries": [
+      {"text": "输入", "pinyin": "shū rù", "en": "input; enter", "emoji": "⌨️"}
+    ]
+  },
+  {
+    "input_text": "蔬菜",
+    "entries": [
+      {"text": "蔬菜", "pinyin": "shū cài", "en": "vegetables", "emoji": "🥦"}
+    ]
+  },
+  {
+    "input_text": "熟练",
+    "entries": [
+      {"text": "熟练", "pinyin": "shú liàn", "en": "skilled; proficient", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "属于",
+    "entries": [
+      {"text": "属于", "pinyin": "shǔ yú", "en": "belong to", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "鼠标",
+    "entries": [
+      {"text": "鼠标", "pinyin": "shǔ biāo", "en": "computer mouse", "emoji": "🖱️"}
+    ]
+  },
+  {
+    "input_text": "数",
+    "entries": [
+      {"text": "数", "pinyin": "shù", "en": "number; figure", "emoji": "🔢"},
+      {"text": "数", "pinyin": "shǔ", "en": "count; enumerate", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "数据",
+    "entries": [
+      {"text": "数据", "pinyin": "shù jù", "en": "data", "emoji": "📊"}
+    ]
+  },
+  {
+    "input_text": "数码",
+    "entries": [
+      {"text": "数码", "pinyin": "shù mǎ", "en": "digital", "emoji": "📷"}
+    ]
+  },
+  {
+    "input_text": "摔倒",
+    "entries": [
+      {"text": "摔倒", "pinyin": "shuāi dǎo", "en": "fall down; trip", "emoji": "🤸"}
+    ]
+  },
+  {
+    "input_text": "甩",
+    "entries": [
+      {"text": "甩", "pinyin": "shuǎi", "en": "fling; swing; throw off", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "双方",
+    "entries": [
+      {"text": "双方", "pinyin": "shuāng fāng", "en": "both sides; both parties", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_text": "税",
+    "entries": [
+      {"text": "税", "pinyin": "shuì", "en": "tax", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "说不定",
+    "entries": [
+      {"text": "说不定", "pinyin": "shuō bu dìng", "en": "maybe; perhaps", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "说服",
+    "entries": [
+      {"text": "说服", "pinyin": "shuō fú", "en": "persuade; convince", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "丝绸",
+    "entries": [
+      {"text": "丝绸", "pinyin": "sī chóu", "en": "silk", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "丝毫",
+    "entries": [
+      {"text": "丝毫", "pinyin": "sī háo", "en": "the slightest bit", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "私人",
+    "entries": [
+      {"text": "私人", "pinyin": "sī rén", "en": "private; personal", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "思考",
+    "entries": [
+      {"text": "思考", "pinyin": "sī kǎo", "en": "think; reflect", "emoji": "🤔"}
+    ]
+  },
+  {
+    "input_text": "思想",
+    "entries": [
+      {"text": "思想", "pinyin": "sī xiǎng", "en": "thought; ideology", "emoji": "💭"}
+    ]
+  },
+  {
+    "input_text": "撕",
+    "entries": [
+      {"text": "撕", "pinyin": "sī", "en": "tear; rip", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "似乎",
+    "entries": [
+      {"text": "似乎", "pinyin": "sì hū", "en": "it seems; apparently", "emoji": ""}
+    ]
+  }
+]

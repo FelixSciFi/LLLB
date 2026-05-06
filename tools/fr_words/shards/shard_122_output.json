@@ -1,0 +1,272 @@
+[
+  {
+    "text": "exalter",
+    "ipa": "ɛɡzalte",
+    "translation": {"zh": "激励，使亢奋", "en": "to exalt, to thrill"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "exalter", "lemma": "exalter", "ipa": "ɛɡzalte", "translation": {"zh": "激励，使亢奋", "en": "to exalt"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "occasionner",
+    "ipa": "ɔkazjɔne",
+    "translation": {"zh": "引起，造成", "en": "to cause, to bring about"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "occasionner", "lemma": "occasionner", "ipa": "ɔkazjɔne", "translation": {"zh": "引起，造成", "en": "to cause"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "huître",
+    "ipa": "ɥitʁ",
+    "translation": {"zh": "牡蛎", "en": "oyster"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "huître", "lemma": "huître", "ipa": "ɥitʁ", "translation": {"zh": "牡蛎", "en": "oyster"}, "emoji": "🦪"}
+    ]
+  },
+  {
+    "text": "électronique",
+    "ipa": "elɛktʁɔnik",
+    "translation": {"zh": "电子的；电子学", "en": "electronic; electronics"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "électronique", "lemma": "électronique", "ipa": "elɛktʁɔnik", "translation": {"zh": "电子的", "en": "electronic"}, "emoji": "💻"}
+    ]
+  },
+  {
+    "text": "moqueur",
+    "ipa": "mɔkœʁ",
+    "translation": {"zh": "嘲弄的，讽刺的", "en": "mocking, scornful"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "moqueur", "lemma": "moqueur", "ipa": "mɔkœʁ", "translation": {"zh": "嘲弄的", "en": "mocking"}, "emoji": "😏"}
+    ]
+  },
+  {
+    "text": "allumette",
+    "ipa": "alymɛt",
+    "translation": {"zh": "火柴", "en": "match"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "allumette", "lemma": "allumette", "ipa": "alymɛt", "translation": {"zh": "火柴", "en": "match"}, "emoji": "🔥"}
+    ]
+  },
+  {
+    "text": "paquebot",
+    "ipa": "pakbo",
+    "translation": {"zh": "远洋客轮", "en": "ocean liner"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "paquebot", "lemma": "paquebot", "ipa": "pakbo", "translation": {"zh": "远洋客轮", "en": "ocean liner"}, "emoji": "🚢"}
+    ]
+  },
+  {
+    "text": "usager",
+    "ipa": "yzaʒe",
+    "translation": {"zh": "使用者，用户", "en": "user"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "usager", "lemma": "usager", "ipa": "yzaʒe", "translation": {"zh": "使用者", "en": "user"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "bandit",
+    "ipa": "bɑ̃di",
+    "translation": {"zh": "强盗，歹徒", "en": "bandit, crook"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "bandit", "lemma": "bandit", "ipa": "bɑ̃di", "translation": {"zh": "强盗，歹徒", "en": "bandit"}, "emoji": "🦹"}
+    ]
+  },
+  {
+    "text": "bowling",
+    "ipa": "buliŋ",
+    "translation": {"zh": "保龄球", "en": "bowling"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "bowling", "lemma": "bowling", "ipa": "buliŋ", "translation": {"zh": "保龄球", "en": "bowling"}, "emoji": "🎳"}
+    ]
+  },
+  {
+    "text": "oxyde",
+    "ipa": "ɔksid",
+    "translation": {"zh": "氧化物", "en": "oxide"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "oxyde", "lemma": "oxyde", "ipa": "ɔksid", "translation": {"zh": "氧化物", "en": "oxide"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "architectural",
+    "ipa": "aʁʃitɛktaʁal",
+    "translation": {"zh": "建筑的，建筑学的", "en": "architectural"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "architectural", "lemma": "architectural", "ipa": "aʁʃitɛktaʁal", "translation": {"zh": "建筑的", "en": "architectural"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "songe",
+    "ipa": "sɔ̃ʒ",
+    "translation": {"zh": "梦，幻想", "en": "dream, reverie"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "songe", "lemma": "songe", "ipa": "sɔ̃ʒ", "translation": {"zh": "梦，幻想", "en": "dream"}, "emoji": "💭"}
+    ]
+  },
+  {
+    "text": "fabrique",
+    "ipa": "fabʁik",
+    "translation": {"zh": "工厂，制造厂", "en": "factory, manufactory"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "fabrique", "lemma": "fabrique", "ipa": "fabʁik", "translation": {"zh": "工厂", "en": "factory"}, "emoji": "🏭"}
+    ]
+  },
+  {
+    "text": "relief",
+    "ipa": "ʁəljɛf",
+    "translation": {"zh": "浮雕，起伏；救援", "en": "relief, raised surface"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "relief", "lemma": "relief", "ipa": "ʁəljɛf", "translation": {"zh": "浮雕，起伏", "en": "relief"}, "emoji": "🗺️"}
+    ]
+  },
+  {
+    "text": "réplique",
+    "ipa": "ʁeplik",
+    "translation": {"zh": "回答；复制品；台词", "en": "retort; replica"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "réplique", "lemma": "réplique", "ipa": "ʁeplik", "translation": {"zh": "回答；复制品", "en": "retort; replica"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "butte",
+    "ipa": "byt",
+    "translation": {"zh": "小丘，土墩", "en": "hillock, mound"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "butte", "lemma": "butte", "ipa": "byt", "translation": {"zh": "小丘", "en": "hillock"}, "emoji": "⛰️"}
+    ]
+  },
+  {
+    "text": "malédiction",
+    "ipa": "malediksjɔ̃",
+    "translation": {"zh": "诅咒，天谴", "en": "curse, malediction"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "malédiction", "lemma": "malédiction", "ipa": "malediksjɔ̃", "translation": {"zh": "诅咒", "en": "curse"}, "emoji": "🪄"}
+    ]
+  },
+  {
+    "text": "lucratif",
+    "ipa": "lykʁatif",
+    "translation": {"zh": "有利可图的，盈利的", "en": "lucrative, profitable"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "lucratif", "lemma": "lucratif", "ipa": "lykʁatif", "translation": {"zh": "有利可图的", "en": "lucrative"}, "emoji": "💰"}
+    ]
+  },
+  {
+    "text": "principal",
+    "ipa": "pʁɛ̃sipal",
+    "translation": {"zh": "主要的，首要的", "en": "main, principal"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "principal", "lemma": "principal", "ipa": "pʁɛ̃sipal", "translation": {"zh": "主要的", "en": "main"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "tenace",
+    "ipa": "tənas",
+    "translation": {"zh": "顽强的，执着的", "en": "tenacious, stubborn"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "tenace", "lemma": "tenace", "ipa": "tənas", "translation": {"zh": "顽强的", "en": "tenacious"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "théâtral",
+    "ipa": "teatʁal",
+    "translation": {"zh": "戏剧的；夸张的", "en": "theatrical, dramatic"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "théâtral", "lemma": "théâtral", "ipa": "teatʁal", "translation": {"zh": "戏剧的", "en": "theatrical"}, "emoji": "🎭"}
+    ]
+  },
+  {
+    "text": "surfer",
+    "ipa": "sœʁfe",
+    "translation": {"zh": "冲浪；上网浏览", "en": "to surf"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "surfer", "lemma": "surfer", "ipa": "sœʁfe", "translation": {"zh": "冲浪", "en": "to surf"}, "emoji": "🏄"}
+    ]
+  },
+  {
+    "text": "basilique",
+    "ipa": "bazilik",
+    "translation": {"zh": "大教堂，长方形教堂", "en": "basilica"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "basilique", "lemma": "basilique", "ipa": "bazilik", "translation": {"zh": "大教堂", "en": "basilica"}, "emoji": "⛪"}
+    ]
+  },
+  {
+    "text": "ruse",
+    "ipa": "ʁyz",
+    "translation": {"zh": "诡计，狡猾", "en": "trick, cunning"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ruse", "lemma": "ruse", "ipa": "ʁyz", "translation": {"zh": "诡计", "en": "trick"}, "emoji": "🦊"}
+    ]
+  },
+  {
+    "text": "restant",
+    "ipa": "ʁɛstɑ̃",
+    "translation": {"zh": "剩余的，余下的", "en": "remaining, leftover"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "restant", "lemma": "restant", "ipa": "ʁɛstɑ̃", "translation": {"zh": "剩余的", "en": "remaining"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "préférable",
+    "ipa": "pʁefeʁabl",
+    "translation": {"zh": "更好的，更可取的", "en": "preferable"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "préférable", "lemma": "préférable", "ipa": "pʁefeʁabl", "translation": {"zh": "更好的", "en": "preferable"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "emballage",
+    "ipa": "ɑ̃balaʒ",
+    "translation": {"zh": "包装，包装材料", "en": "packaging, wrapping"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "emballage", "lemma": "emballage", "ipa": "ɑ̃balaʒ", "translation": {"zh": "包装材料", "en": "packaging"}, "emoji": "📦"}
+    ]
+  },
+  {
+    "text": "fonte",
+    "ipa": "fɔ̃t",
+    "translation": {"zh": "融化；铸铁", "en": "melting; cast iron"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "fonte", "lemma": "fonte", "ipa": "fɔ̃t", "translation": {"zh": "融化；铸铁", "en": "melting; cast iron"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "bobo",
+    "ipa": "bobo",
+    "translation": {"zh": "小伤口；都市布尔乔亚", "en": "boo-boo; urban bourgeois bohemian"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "bobo", "lemma": "bobo", "ipa": "bobo", "translation": {"zh": "小伤口", "en": "boo-boo"}, "emoji": "🩹"}
+    ]
+  }
+]

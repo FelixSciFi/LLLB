@@ -1,0 +1,177 @@
+[
+  {
+    "input_text": "搜索",
+    "entries": [
+      {"text": "搜索", "pinyin": "sōu suǒ", "en": "search; look up", "emoji": "🔍"}
+    ]
+  },
+  {
+    "input_text": "宿舍",
+    "entries": [
+      {"text": "宿舍", "pinyin": "sù shè", "en": "dormitory", "emoji": "🛏️"}
+    ]
+  },
+  {
+    "input_text": "随身",
+    "entries": [
+      {"text": "随身", "pinyin": "suí shēn", "en": "on one's person", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "随时",
+    "entries": [
+      {"text": "随时", "pinyin": "suí shí", "en": "at any time", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "随手",
+    "entries": [
+      {"text": "随手", "pinyin": "suí shǒu", "en": "casually; in passing", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "碎",
+    "entries": [
+      {"text": "碎", "pinyin": "suì", "en": "broken; shatter", "emoji": "💥"}
+    ]
+  },
+  {
+    "input_text": "损失",
+    "entries": [
+      {"text": "损失", "pinyin": "sǔn shī", "en": "loss; lose", "emoji": "📉"}
+    ]
+  },
+  {
+    "input_text": "缩短",
+    "entries": [
+      {"text": "缩短", "pinyin": "suō duǎn", "en": "shorten; reduce", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "锁",
+    "entries": [
+      {"text": "锁", "pinyin": "suǒ", "en": "lock", "emoji": "🔒"}
+    ]
+  },
+  {
+    "input_text": "台阶",
+    "entries": [
+      {"text": "台阶", "pinyin": "tái jiē", "en": "steps; flight of stairs", "emoji": "🪜"}
+    ]
+  },
+  {
+    "input_text": "太极拳",
+    "entries": [
+      {"text": "太极拳", "pinyin": "tài jí quán", "en": "tai chi", "emoji": "🥋"}
+    ]
+  },
+  {
+    "input_text": "太太",
+    "entries": [
+      {"text": "太太", "pinyin": "tài tai", "en": "wife; Mrs.", "emoji": "👩"}
+    ]
+  },
+  {
+    "input_text": "谈判",
+    "entries": [
+      {"text": "谈判", "pinyin": "tán pàn", "en": "negotiate; negotiation", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_text": "坦率",
+    "entries": [
+      {"text": "坦率", "pinyin": "tǎn shuài", "en": "frank; candid", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "烫",
+    "entries": [
+      {"text": "烫", "pinyin": "tàng", "en": "scalding hot; burn", "emoji": "🔥"}
+    ]
+  },
+  {
+    "input_text": "逃",
+    "entries": [
+      {"text": "逃", "pinyin": "táo", "en": "flee; escape", "emoji": "🏃"}
+    ]
+  },
+  {
+    "input_text": "逃避",
+    "entries": [
+      {"text": "逃避", "pinyin": "táo bì", "en": "evade; avoid", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "桃",
+    "entries": [
+      {"text": "桃", "pinyin": "táo", "en": "peach", "emoji": "🍑"}
+    ]
+  },
+  {
+    "input_text": "淘气",
+    "entries": [
+      {"text": "淘气", "pinyin": "táo qì", "en": "naughty; mischievous", "emoji": "😈"}
+    ]
+  },
+  {
+    "input_text": "讨价还价",
+    "entries": [
+      {"text": "讨价还价", "pinyin": "tǎo jià huán jià", "en": "haggle; bargain", "emoji": "🛒"}
+    ]
+  },
+  {
+    "input_text": "套",
+    "entries": [
+      {"text": "套", "pinyin": "tào", "en": "set; suit", "emoji": "📦"},
+      {"text": "套", "pinyin": "tào", "en": "cover; encase", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "特色",
+    "entries": [
+      {"text": "特色", "pinyin": "tè sè", "en": "characteristic; feature", "emoji": "⭐"}
+    ]
+  },
+  {
+    "input_text": "特殊",
+    "entries": [
+      {"text": "特殊", "pinyin": "tè shū", "en": "special; exceptional", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "特征",
+    "entries": [
+      {"text": "特征", "pinyin": "tè zhēng", "en": "trait; characteristic", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "疼爱",
+    "entries": [
+      {"text": "疼爱", "pinyin": "téng ài", "en": "love dearly; dote on", "emoji": "❤️"}
+    ]
+  },
+  {
+    "input_text": "提倡",
+    "entries": [
+      {"text": "提倡", "pinyin": "tí chàng", "en": "advocate; promote", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "提纲",
+    "entries": [
+      {"text": "提纲", "pinyin": "tí gāng", "en": "outline; summary", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_text": "提问",
+    "entries": [
+      {"text": "提问", "pinyin": "tí wèn", "en": "ask a question", "emoji": "🙋"}
+    ]
+  },
+  {
+    "input_text": "题目",
+    "entries": [
+      {"text": "题目", "pinyin": "tí mù", "en": "title; question; topic", "emoji": "📝"}
+    ]
+  }
+]

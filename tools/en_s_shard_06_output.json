@@ -1,0 +1,184 @@
+[
+  {
+    "input_word": "snow",
+    "entries": [
+      {"text": "snow", "ipa": "/snoʊ/", "cefr": "A1", "zh": "雪", "emoji": "❄️"}
+    ]
+  },
+  {
+    "input_word": "so",
+    "entries": [
+      {"text": "so", "ipa": "/soʊ/", "cefr": "A1", "zh": "非常", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "soap",
+    "entries": [
+      {"text": "soap", "ipa": "/soʊp/", "cefr": "A2", "zh": "肥皂", "emoji": "🧼"}
+    ]
+  },
+  {
+    "input_word": "soccer",
+    "entries": [
+      {"text": "soccer", "ipa": "/ˈsɑkər/", "cefr": "A2", "zh": "足球", "emoji": "⚽"}
+    ]
+  },
+  {
+    "input_word": "social",
+    "entries": [
+      {"text": "social", "ipa": "/ˈsoʊʃəl/", "cefr": "A2", "zh": "社会的", "emoji": "👥"}
+    ]
+  },
+  {
+    "input_word": "society",
+    "entries": [
+      {"text": "society", "ipa": "/səˈsaɪəti/", "cefr": "A2", "zh": "社会", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_word": "sock",
+    "entries": [
+      {"text": "sock", "ipa": "/sɑk/", "cefr": "A2", "zh": "袜子", "emoji": "🧦"}
+    ]
+  },
+  {
+    "input_word": "soft",
+    "entries": [
+      {"text": "soft", "ipa": "/sɔft/", "cefr": "A2", "zh": "柔软的", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "software",
+    "entries": [
+      {"text": "software", "ipa": "/ˈsɔftˌwɛr/", "cefr": "B1", "zh": "软件", "emoji": "💻"}
+    ]
+  },
+  {
+    "input_word": "soil",
+    "entries": [
+      {"text": "soil", "ipa": "/sɔɪl/", "cefr": "B1", "zh": "土壤", "emoji": "🌱"}
+    ]
+  },
+  {
+    "input_word": "solar",
+    "entries": [
+      {"text": "solar", "ipa": "/ˈsoʊlər/", "cefr": "B2", "zh": "太阳的", "emoji": "☀️"}
+    ]
+  },
+  {
+    "input_word": "soldier",
+    "entries": [
+      {"text": "soldier", "ipa": "/ˈsoʊldʒər/", "cefr": "A2", "zh": "士兵", "emoji": "🪖"}
+    ]
+  },
+  {
+    "input_word": "solid",
+    "entries": [
+      {"text": "solid", "ipa": "/ˈsɑlɪd/", "cefr": "B1", "zh": "固体的", "emoji": "🧱"}
+    ]
+  },
+  {
+    "input_word": "solution",
+    "entries": [
+      {"text": "solution", "ipa": "/səˈluʃən/", "cefr": "A2", "zh": "解决方案", "emoji": "💡"}
+    ]
+  },
+  {
+    "input_word": "solve",
+    "entries": [
+      {"text": "solve", "ipa": "/sɑlv/", "cefr": "A2", "zh": "解决", "emoji": "🔑"}
+    ]
+  },
+  {
+    "input_word": "some",
+    "entries": [
+      {"text": "some", "ipa": "/sʌm/", "cefr": "A1", "zh": "一些", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "somebody",
+    "entries": [
+      {"text": "somebody", "ipa": "/ˈsʌmˌbɑdi/", "cefr": "A1", "zh": "某人", "emoji": "🙋"}
+    ]
+  },
+  {
+    "input_word": "someone",
+    "entries": [
+      {"text": "someone", "ipa": "/ˈsʌmˌwʌn/", "cefr": "A1", "zh": "某人", "emoji": "🙋"}
+    ]
+  },
+  {
+    "input_word": "something",
+    "entries": [
+      {"text": "something", "ipa": "/ˈsʌmθɪŋ/", "cefr": "A1", "zh": "某事物", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "sometimes",
+    "entries": [
+      {"text": "sometimes", "ipa": "/ˈsʌmˌtaɪmz/", "cefr": "A1", "zh": "有时候", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "somewhat",
+    "entries": [
+      {"text": "somewhat", "ipa": "/ˈsʌmˌwɑt/", "cefr": "B2", "zh": "有些", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "somewhere",
+    "entries": [
+      {"text": "somewhere", "ipa": "/ˈsʌmˌwɛr/", "cefr": "A2", "zh": "某处", "emoji": "📍"}
+    ]
+  },
+  {
+    "input_word": "son",
+    "entries": [
+      {"text": "son", "ipa": "/sʌn/", "cefr": "A1", "zh": "儿子", "emoji": "👦"}
+    ]
+  },
+  {
+    "input_word": "song",
+    "entries": [
+      {"text": "song", "ipa": "/sɔŋ/", "cefr": "A1", "zh": "歌曲", "emoji": "🎵"}
+    ]
+  },
+  {
+    "input_word": "soon",
+    "entries": [
+      {"text": "soon", "ipa": "/suːn/", "cefr": "A1", "zh": "很快", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "sorry",
+    "entries": [
+      {"text": "sorry", "ipa": "/ˈsɑri/", "cefr": "A1", "zh": "抱歉", "emoji": "🙏"}
+    ]
+  },
+  {
+    "input_word": "sort",
+    "entries": [
+      {"text": "sort", "ipa": "/sɔrt/", "cefr": "A2", "zh": "种类", "emoji": ""},
+      {"text": "sort", "ipa": "/sɔrt/", "cefr": "A2", "zh": "排序", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "soul",
+    "entries": [
+      {"text": "soul", "ipa": "/soʊl/", "cefr": "B2", "zh": "灵魂", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_word": "sound",
+    "entries": [
+      {"text": "sound", "ipa": "/saʊnd/", "cefr": "A1", "zh": "声音", "emoji": "🔊"},
+      {"text": "sound", "ipa": "/saʊnd/", "cefr": "A1", "zh": "听起来", "emoji": ""}
+    ]
+  },
+  {
+    "input_word": "soup",
+    "entries": [
+      {"text": "soup", "ipa": "/suːp/", "cefr": "A1", "zh": "汤", "emoji": "🍲"}
+    ]
+  }
+]

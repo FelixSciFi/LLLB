@@ -1,0 +1,291 @@
+[
+  {
+    "input_word": "crowded",
+    "entries": [
+      {
+        "text": "crowded",
+        "ipa": "/ˈkraʊdɪd/",
+        "cefr": "A2",
+        "zh": "拥挤的",
+        "emoji": "👥"
+      }
+    ]
+  },
+  {
+    "input_word": "crucial",
+    "entries": [
+      {
+        "text": "crucial",
+        "ipa": "/ˈkruːʃəl/",
+        "cefr": "B2",
+        "zh": "至关重要的",
+        "emoji": "❗"
+      }
+    ]
+  },
+  {
+    "input_word": "cruel",
+    "entries": [
+      {
+        "text": "cruel",
+        "ipa": "/ˈkruːəl/",
+        "cefr": "B1",
+        "zh": "残忍的",
+        "emoji": "😈"
+      }
+    ]
+  },
+  {
+    "input_word": "cry",
+    "entries": [
+      {
+        "text": "cry",
+        "ipa": "/kraɪ/",
+        "cefr": "A2",
+        "zh": "哭泣",
+        "emoji": "😢"
+      },
+      {
+        "text": "cry",
+        "ipa": "/kraɪ/",
+        "cefr": "A2",
+        "zh": "呼喊",
+        "emoji": "📢"
+      }
+    ]
+  },
+  {
+    "input_word": "cultural",
+    "entries": [
+      {
+        "text": "cultural",
+        "ipa": "/ˈkʌltʃərəl/",
+        "cefr": "B1",
+        "zh": "文化的",
+        "emoji": "🎭"
+      }
+    ]
+  },
+  {
+    "input_word": "culture",
+    "entries": [
+      {
+        "text": "culture",
+        "ipa": "/ˈkʌltʃər/",
+        "cefr": "A1",
+        "zh": "文化",
+        "emoji": "🎭"
+      }
+    ]
+  },
+  {
+    "input_word": "cup",
+    "entries": [
+      {
+        "text": "cup",
+        "ipa": "/kʌp/",
+        "cefr": "A1",
+        "zh": "杯子",
+        "emoji": "☕"
+      },
+      {
+        "text": "cup",
+        "ipa": "/kʌp/",
+        "cefr": "A1",
+        "zh": "奖杯",
+        "emoji": "🏆"
+      }
+    ]
+  },
+  {
+    "input_word": "cupboard",
+    "entries": [
+      {
+        "text": "cupboard",
+        "ipa": "/ˈkʌbərd/",
+        "cefr": "A2",
+        "zh": "橱柜",
+        "emoji": "🗄️"
+      }
+    ]
+  },
+  {
+    "input_word": "cure",
+    "entries": [
+      {
+        "text": "cure",
+        "ipa": "/kjʊr/",
+        "cefr": "B2",
+        "zh": "治愈",
+        "emoji": "💊"
+      },
+      {
+        "text": "cure",
+        "ipa": "/kjʊr/",
+        "cefr": "B2",
+        "zh": "治疗方法",
+        "emoji": "🩺"
+      }
+    ]
+  },
+  {
+    "input_word": "curly",
+    "entries": [
+      {
+        "text": "curly",
+        "ipa": "/ˈkɜːrli/",
+        "cefr": "A2",
+        "zh": "卷曲的",
+        "emoji": "🌀"
+      }
+    ]
+  },
+  {
+    "input_word": "currency",
+    "entries": [
+      {
+        "text": "currency",
+        "ipa": "/ˈkɜːrənsi/",
+        "cefr": "B1",
+        "zh": "货币",
+        "emoji": "💱"
+      }
+    ]
+  },
+  {
+    "input_word": "current",
+    "entries": [
+      {
+        "text": "current",
+        "ipa": "/ˈkɜːrənt/",
+        "cefr": "B1",
+        "zh": "当前的",
+        "emoji": "📅"
+      },
+      {
+        "text": "current",
+        "ipa": "/ˈkɜːrənt/",
+        "cefr": "B1",
+        "zh": "水流",
+        "emoji": "🌊"
+      }
+    ]
+  },
+  {
+    "input_word": "currently",
+    "entries": [
+      {
+        "text": "currently",
+        "ipa": "/ˈkɜːrəntli/",
+        "cefr": "B1",
+        "zh": "目前",
+        "emoji": "⏱️"
+      }
+    ]
+  },
+  {
+    "input_word": "curtain",
+    "entries": [
+      {
+        "text": "curtain",
+        "ipa": "/ˈkɜːrtən/",
+        "cefr": "B1",
+        "zh": "窗帘",
+        "emoji": "🪟"
+      }
+    ]
+  },
+  {
+    "input_word": "curve",
+    "entries": [
+      {
+        "text": "curve",
+        "ipa": "/kɜːrv/",
+        "cefr": "B2",
+        "zh": "曲线",
+        "emoji": "〰️"
+      }
+    ]
+  },
+  {
+    "input_word": "curved",
+    "entries": [
+      {
+        "text": "curved",
+        "ipa": "/kɜːrvd/",
+        "cefr": "B2",
+        "zh": "弯曲的",
+        "emoji": "〰️"
+      }
+    ]
+  },
+  {
+    "input_word": "custom",
+    "entries": [
+      {
+        "text": "custom",
+        "ipa": "/ˈkʌstəm/",
+        "cefr": "B1",
+        "zh": "习俗",
+        "emoji": "🎎"
+      },
+      {
+        "text": "custom",
+        "ipa": "/ˈkʌstəm/",
+        "cefr": "B1",
+        "zh": "定制的",
+        "emoji": "🛠️"
+      }
+    ]
+  },
+  {
+    "input_word": "customer",
+    "entries": [
+      {
+        "text": "customer",
+        "ipa": "/ˈkʌstəmər/",
+        "cefr": "A1",
+        "zh": "顾客",
+        "emoji": "🛒"
+      }
+    ]
+  },
+  {
+    "input_word": "cut",
+    "entries": [
+      {
+        "text": "cut",
+        "ipa": "/kʌt/",
+        "cefr": "A1",
+        "zh": "切割",
+        "emoji": "✂️"
+      },
+      {
+        "text": "cut",
+        "ipa": "/kʌt/",
+        "cefr": "A1",
+        "zh": "削减",
+        "emoji": "📉"
+      }
+    ]
+  },
+  {
+    "input_word": "cycle",
+    "entries": [
+      {
+        "text": "cycle",
+        "ipa": "/ˈsaɪkəl/",
+        "cefr": "A2",
+        "zh": "循环",
+        "emoji": "🔄"
+      },
+      {
+        "text": "cycle",
+        "ipa": "/ˈsaɪkəl/",
+        "cefr": "A2",
+        "zh": "骑自行车",
+        "emoji": "🚴"
+      }
+    ]
+  }
+]

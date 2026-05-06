@@ -1,0 +1,67 @@
+[
+  {
+    "text": "Four score and seven years ago our fathers brought forth on this continent, a new nation,",
+    "ipa": "fɔːɹ skɔːɹ ənd ˈsɛvən jɪɹz əˈɡoʊ aʊɚ ˈfɑːðɚz bɹɔːt fɔːɹθ ɑn ðɪs ˈkɑntɪnənt ə nuː ˈneɪʃən",
+    "translation": {"zh": "八十七年前，我们的先辈在这片大陆上缔造了一个新国家，"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "Four score and seven years ago", "lemma": "year", "ipa": "fɔːɹ skɔːɹ ənd ˈsɛvən jɪɹz əˈɡoʊ", "translation": {"zh": "八十七年前"}, "emoji": "📅"},
+      {"text": "our fathers", "lemma": "father", "ipa": "aʊɚ ˈfɑːðɚz", "translation": {"zh": "我们先辈"}, "emoji": "👴"},
+      {"text": "brought forth", "lemma": "bring forth", "ipa": "bɹɔːt fɔːɹθ", "translation": {"zh": "缔造"}, "emoji": "✨"},
+      {"text": "on this continent", "lemma": "continent", "ipa": "ɑn ðɪs ˈkɑntɪnənt", "translation": {"zh": "在此大陆"}, "emoji": "🌎"},
+      {"text": "a new nation", "lemma": "nation", "ipa": "ə nuː ˈneɪʃən", "translation": {"zh": "一个新国家"}, "emoji": "🏛️"}
+    ],
+    "tags": [{"name": "Gettysburg Address", "index": 1}]
+  },
+  {
+    "text": "conceived in Liberty, and dedicated to the proposition that all men are created equal.",
+    "ipa": "kənˈsiːvd ɪn ˈlɪbɚti ənd ˈdɛdɪkeɪtɪd tə ðə ˌpɹɑpəˈzɪʃən ðət ɔːl mɛn ɑːɹ kɹiˈeɪtɪd ˈiːkwəl",
+    "translation": {"zh": "孕育于自由之中，奉行人人生而平等的信念。"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "conceived", "lemma": "conceive", "ipa": "kənˈsiːvd", "translation": {"zh": "孕育"}, "emoji": "🌱"},
+      {"text": "in Liberty", "lemma": "liberty", "ipa": "ɪn ˈlɪbɚti", "translation": {"zh": "于自由"}, "emoji": "🗽"},
+      {"text": "and dedicated", "lemma": "dedicate", "ipa": "ənd ˈdɛdɪkeɪtɪd", "translation": {"zh": "并奉行"}, "emoji": "🎯"},
+      {"text": "to the proposition", "lemma": "proposition", "ipa": "tə ðə ˌpɹɑpəˈzɪʃən", "translation": {"zh": "于此信念"}, "emoji": "📜"},
+      {"text": "that all men", "lemma": "men", "ipa": "ðət ɔːl mɛn", "translation": {"zh": "所有人"}, "emoji": "👥"},
+      {"text": "are created equal", "lemma": "equal", "ipa": "ɑːɹ kɹiˈeɪtɪd ˈiːkwəl", "translation": {"zh": "生而平等"}, "emoji": "⚖️"}
+    ],
+    "tags": [{"name": "Gettysburg Address", "index": 2}]
+  },
+  {
+    "text": "Now we are engaged in a great civil war,",
+    "ipa": "naʊ wiː ɑːɹ ɪnˈɡeɪdʒd ɪn ə ɡɹeɪt ˈsɪvəl wɔːɹ",
+    "translation": {"zh": "如今我们正陷入一场伟大的内战，"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "Now we", "lemma": "we", "ipa": "naʊ wiː", "translation": {"zh": "如今我们"}, "emoji": ""},
+      {"text": "are engaged", "lemma": "engage", "ipa": "ɑːɹ ɪnˈɡeɪdʒd", "translation": {"zh": "正陷入"}, "emoji": "⚔️"},
+      {"text": "in a great civil war", "lemma": "civil war", "ipa": "ɪn ə ɡɹeɪt ˈsɪvəl wɔːɹ", "translation": {"zh": "一场大内战"}, "emoji": "🏴"}
+    ],
+    "tags": [{"name": "Gettysburg Address", "index": 3}]
+  },
+  {
+    "text": "testing whether that nation, or any nation so conceived and so dedicated,",
+    "ipa": "ˈtɛstɪŋ ˈwɛðɚ ðæt ˈneɪʃən ɔːɹ ˈɛni ˈneɪʃən soʊ kənˈsiːvd ənd soʊ ˈdɛdɪkeɪtɪd",
+    "translation": {"zh": "考验着那个国家，或任何如此孕育、如此奉行的国家，"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "testing", "lemma": "test", "ipa": "ˈtɛstɪŋ", "translation": {"zh": "考验"}, "emoji": "🧪"},
+      {"text": "whether that nation", "lemma": "nation", "ipa": "ˈwɛðɚ ðæt ˈneɪʃən", "translation": {"zh": "那国家是否"}, "emoji": "🏛️"},
+      {"text": "or any nation", "lemma": "nation", "ipa": "ɔːɹ ˈɛni ˈneɪʃən", "translation": {"zh": "或任何国家"}, "emoji": ""},
+      {"text": "so conceived", "lemma": "conceive", "ipa": "soʊ kənˈsiːvd", "translation": {"zh": "如此孕育"}, "emoji": "🌱"},
+      {"text": "and so dedicated", "lemma": "dedicate", "ipa": "ənd soʊ ˈdɛdɪkeɪtɪd", "translation": {"zh": "如此奉行"}, "emoji": "🎯"}
+    ],
+    "tags": [{"name": "Gettysburg Address", "index": 4}]
+  },
+  {
+    "text": "can long endure.",
+    "ipa": "kæn lɔːŋ ɪnˈdjʊɹ",
+    "translation": {"zh": "能否长久存续。"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "can long endure", "lemma": "endure", "ipa": "kæn lɔːŋ ɪnˈdjʊɹ", "translation": {"zh": "能否长存"}, "emoji": "⏳"}
+    ],
+    "tags": [{"name": "Gettysburg Address", "index": 5}]
+  }
+]

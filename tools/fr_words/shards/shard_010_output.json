@@ -1,0 +1,281 @@
+[
+  {
+    "text": "je téléphone(téléphoner)",
+    "ipa": "ʒə telefɔn",
+    "translation": {"zh": "我打电话", "en": "I'm calling"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je téléphone", "lemma": "téléphoner", "ipa": "ʒə telefɔn", "translation": {"zh": "我打电话", "en": "I call"}, "emoji": "📞"}
+    ]
+  },
+  {
+    "text": "un phénomène",
+    "ipa": "œ̃ fenɔmɛn",
+    "translation": {"zh": "一种现象", "en": "a phenomenon"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un phénomène", "lemma": "phénomène", "ipa": "œ̃ fenɔmɛn", "translation": {"zh": "现象", "en": "phenomenon"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "il dirige(diriger) l'entreprise",
+    "ipa": "il diʁiʒ lɑ̃tʁəpʁiz",
+    "translation": {"zh": "他管理公司", "en": "he runs the company"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "il dirige", "lemma": "diriger", "ipa": "il diʁiʒ", "translation": {"zh": "他管理", "en": "he manages"}, "emoji": ""},
+      {"text": "l'entreprise", "lemma": "entreprise", "ipa": "lɑ̃tʁəpʁiz", "translation": {"zh": "公司", "en": "company"}, "emoji": "🏢"}
+    ]
+  },
+  {
+    "text": "finalement",
+    "ipa": "finalmɑ̃",
+    "translation": {"zh": "最终", "en": "finally"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "finalement", "lemma": "finalement", "ipa": "finalmɑ̃", "translation": {"zh": "最终", "en": "finally"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une mesure",
+    "ipa": "yn məzyʁ",
+    "translation": {"zh": "一项措施", "en": "a measure"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une mesure", "lemma": "mesure", "ipa": "yn məzyʁ", "translation": {"zh": "措施", "en": "measure"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "particulièrement",
+    "ipa": "paʁtikyljɛʁmɑ̃",
+    "translation": {"zh": "特别地", "en": "particularly"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "particulièrement", "lemma": "particulièrement", "ipa": "paʁtikyljɛʁmɑ̃", "translation": {"zh": "特别地", "en": "particularly"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "j'aime voyager(voyager)",
+    "ipa": "ʒɛm vwajaʒe",
+    "translation": {"zh": "我喜欢旅行", "en": "I love to travel"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "j'aime", "lemma": "aimer", "ipa": "ʒɛm", "translation": {"zh": "我喜欢", "en": "I love"}, "emoji": ""},
+      {"text": "voyager", "lemma": "voyager", "ipa": "vwajaʒe", "translation": {"zh": "旅行", "en": "travel"}, "emoji": "✈️"}
+    ]
+  },
+  {
+    "text": "ça attire(attirer) l'attention",
+    "ipa": "sa atiʁ latɑ̃sjɔ̃",
+    "translation": {"zh": "这吸引了注意力", "en": "it attracts attention"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "ça attire", "lemma": "attirer", "ipa": "sa atiʁ", "translation": {"zh": "这吸引", "en": "it attracts"}, "emoji": ""},
+      {"text": "l'attention", "lemma": "attention", "ipa": "latɑ̃sjɔ̃", "translation": {"zh": "注意力", "en": "attention"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "placer(placer) un objet",
+    "ipa": "plase œ̃n ɔbʒɛ",
+    "translation": {"zh": "放置一个物品", "en": "to place an object"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "placer", "lemma": "placer", "ipa": "plase", "translation": {"zh": "放置", "en": "place"}, "emoji": ""},
+      {"text": "un objet", "lemma": "objet", "ipa": "œ̃n ɔbʒɛ", "translation": {"zh": "物品", "en": "object"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "participer(participer) au jeu",
+    "ipa": "paʁtisipe o ʒø",
+    "translation": {"zh": "参加游戏", "en": "to join the game"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "participer", "lemma": "participer", "ipa": "paʁtisipe", "translation": {"zh": "参加", "en": "participate"}, "emoji": ""},
+      {"text": "au jeu", "lemma": "jeu", "ipa": "o ʒø", "translation": {"zh": "游戏", "en": "game"}, "emoji": "🎮"}
+    ]
+  },
+  {
+    "text": "je suis inquiet(inquiet)",
+    "ipa": "ʒə sɥi ɛ̃kjɛ",
+    "translation": {"zh": "我很担心", "en": "I'm worried"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "je suis inquiet", "lemma": "inquiet", "ipa": "ʒə sɥi ɛ̃kjɛ", "translation": {"zh": "我很担心", "en": "I'm worried"}, "emoji": "😟"}
+    ]
+  },
+  {
+    "text": "ailleurs",
+    "ipa": "ajœʁ",
+    "translation": {"zh": "在别处", "en": "elsewhere"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "ailleurs", "lemma": "ailleurs", "ipa": "ajœʁ", "translation": {"zh": "别处", "en": "elsewhere"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "il est seul(seul)",
+    "ipa": "il ɛ sœl",
+    "translation": {"zh": "他一个人", "en": "he is alone"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "il est seul", "lemma": "seul", "ipa": "il ɛ sœl", "translation": {"zh": "他独自", "en": "he is alone"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "entraîner(entraîner) une équipe",
+    "ipa": "ɑ̃tʁene yn ekip",
+    "translation": {"zh": "训练一支队伍", "en": "to coach a team"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "entraîner", "lemma": "entraîner", "ipa": "ɑ̃tʁene", "translation": {"zh": "训练", "en": "train"}, "emoji": ""},
+      {"text": "une équipe", "lemma": "équipe", "ipa": "yn ekip", "translation": {"zh": "队伍", "en": "team"}, "emoji": "⚽"}
+    ]
+  },
+  {
+    "text": "la peau",
+    "ipa": "la po",
+    "translation": {"zh": "皮肤", "en": "skin"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "la peau", "lemma": "peau", "ipa": "la po", "translation": {"zh": "皮肤", "en": "skin"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un morceau de pain",
+    "ipa": "œ̃ mɔʁso də pɛ̃",
+    "translation": {"zh": "一块面包", "en": "a piece of bread"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un morceau de pain", "lemma": "morceau", "ipa": "œ̃ mɔʁso də pɛ̃", "translation": {"zh": "一块面包", "en": "a piece of bread"}, "emoji": "🍞"}
+    ]
+  },
+  {
+    "text": "un commerce",
+    "ipa": "œ̃ kɔmɛʁs",
+    "translation": {"zh": "一家店铺", "en": "a shop"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un commerce", "lemma": "commerce", "ipa": "œ̃ kɔmɛʁs", "translation": {"zh": "店铺", "en": "shop"}, "emoji": "🛒"}
+    ]
+  },
+  {
+    "text": "se reposer(reposer)",
+    "ipa": "sə ʁəpoze",
+    "translation": {"zh": "休息", "en": "to rest"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "se reposer", "lemma": "reposer", "ipa": "sə ʁəpoze", "translation": {"zh": "休息", "en": "rest"}, "emoji": "😴"}
+    ]
+  },
+  {
+    "text": "ça m'a surpris(surprendre)",
+    "ipa": "sa ma sypʁi",
+    "translation": {"zh": "这让我惊讶", "en": "it surprised me"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "ça m'a surpris", "lemma": "surprendre", "ipa": "sa ma sypʁi", "translation": {"zh": "这让我惊讶", "en": "it surprised me"}, "emoji": "😲"}
+    ]
+  },
+  {
+    "text": "prendre un bain",
+    "ipa": "pʁɑ̃dʁ œ̃ bɛ̃",
+    "translation": {"zh": "洗澡", "en": "to take a bath"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "prendre", "lemma": "prendre", "ipa": "pʁɑ̃dʁ", "translation": {"zh": "洗", "en": "take"}, "emoji": ""},
+      {"text": "un bain", "lemma": "bain", "ipa": "œ̃ bɛ̃", "translation": {"zh": "澡", "en": "bath"}, "emoji": "🛁"}
+    ]
+  },
+  {
+    "text": "peu importe(importer)",
+    "ipa": "pø ɛ̃pɔʁt",
+    "translation": {"zh": "无所谓", "en": "no matter"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "peu importe", "lemma": "importer", "ipa": "pø ɛ̃pɔʁt", "translation": {"zh": "无所谓", "en": "no matter"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "je remarque(remarquer) quelque chose",
+    "ipa": "ʒə ʁəmaʁk kɛlkə ʃoz",
+    "translation": {"zh": "我注意到一件事", "en": "I notice something"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je remarque", "lemma": "remarquer", "ipa": "ʒə ʁəmaʁk", "translation": {"zh": "我注意到", "en": "I notice"}, "emoji": ""},
+      {"text": "quelque chose", "lemma": "chose", "ipa": "kɛlkə ʃoz", "translation": {"zh": "某件事", "en": "something"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "dans le passé",
+    "ipa": "dɑ̃ lə pase",
+    "translation": {"zh": "在过去", "en": "in the past"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "dans le passé", "lemma": "passé", "ipa": "dɑ̃ lə pase", "translation": {"zh": "在过去", "en": "in the past"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une émission de télé",
+    "ipa": "yn emisjɔ̃ də tele",
+    "translation": {"zh": "一档电视节目", "en": "a TV show"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une émission de télé", "lemma": "émission", "ipa": "yn emisjɔ̃ də tele", "translation": {"zh": "电视节目", "en": "TV show"}, "emoji": "📺"}
+    ]
+  },
+  {
+    "text": "c'est certain(certain)",
+    "ipa": "sɛ sɛʁtɛ̃",
+    "translation": {"zh": "这是确定的", "en": "it's certain"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "c'est certain", "lemma": "certain", "ipa": "sɛ sɛʁtɛ̃", "translation": {"zh": "确定的", "en": "certain"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une marque connue",
+    "ipa": "yn maʁk kɔny",
+    "translation": {"zh": "一个知名品牌", "en": "a well-known brand"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une marque", "lemma": "marque", "ipa": "yn maʁk", "translation": {"zh": "品牌", "en": "brand"}, "emoji": ""},
+      {"text": "connue", "lemma": "connaître", "ipa": "kɔny", "translation": {"zh": "知名的", "en": "well-known"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "large",
+    "ipa": "laʁʒ",
+    "translation": {"zh": "宽阔的", "en": "wide"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "large", "lemma": "large", "ipa": "laʁʒ", "translation": {"zh": "宽阔", "en": "wide"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une rencontre",
+    "ipa": "yn ʁɑ̃kɔ̃tʁ",
+    "translation": {"zh": "一次相遇", "en": "a meeting"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une rencontre", "lemma": "rencontre", "ipa": "yn ʁɑ̃kɔ̃tʁ", "translation": {"zh": "相遇", "en": "meeting"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "un signe",
+    "ipa": "œ̃ siɲ",
+    "translation": {"zh": "一个信号", "en": "a sign"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un signe", "lemma": "signe", "ipa": "œ̃ siɲ", "translation": {"zh": "信号", "en": "sign"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "je suis fatigué(fatiguer)",
+    "ipa": "ʒə sɥi fatiɡe",
+    "translation": {"zh": "我很累", "en": "I'm tired"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je suis fatigué", "lemma": "fatiguer", "ipa": "ʒə sɥi fatiɡe", "translation": {"zh": "我很累", "en": "I'm tired"}, "emoji": "😩"}
+    ]
+  }
+]

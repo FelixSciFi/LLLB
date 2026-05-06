@@ -1,0 +1,182 @@
+[
+  {
+    "input_text": "赞助",
+    "entries": [
+      {"text": "赞助", "pinyin": "zàn zhù", "en": "sponsor; fund", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "遭受",
+    "entries": [
+      {"text": "遭受", "pinyin": "zāo shòu", "en": "suffer; sustain", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "遭殃",
+    "entries": [
+      {"text": "遭殃", "pinyin": "zāo yāng", "en": "suffer misfortune", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "遭遇",
+    "entries": [
+      {"text": "遭遇", "pinyin": "zāo yù", "en": "encounter; ordeal", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "糟蹋",
+    "entries": [
+      {"text": "糟蹋", "pinyin": "zāo tà", "en": "waste; ruin", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "造型",
+    "entries": [
+      {"text": "造型", "pinyin": "zào xíng", "en": "style; design; look", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "噪音",
+    "entries": [
+      {"text": "噪音", "pinyin": "zào yīn", "en": "noise", "emoji": "🔊"}
+    ]
+  },
+  {
+    "input_text": "责怪",
+    "entries": [
+      {"text": "责怪", "pinyin": "zé guài", "en": "blame; reproach", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "贼",
+    "entries": [
+      {"text": "贼", "pinyin": "zéi", "en": "thief", "emoji": "🦹"}
+    ]
+  },
+  {
+    "input_text": "增添",
+    "entries": [
+      {"text": "增添", "pinyin": "zēng tiān", "en": "add; increase", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "赠送",
+    "entries": [
+      {"text": "赠送", "pinyin": "zèng sòng", "en": "give as gift", "emoji": "🎁"}
+    ]
+  },
+  {
+    "input_text": "扎",
+    "entries": [
+      {"text": "扎", "pinyin": "zhā", "en": "prick; stab", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "扎实",
+    "entries": [
+      {"text": "扎实", "pinyin": "zhā shi", "en": "solid; thorough", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "渣",
+    "entries": [
+      {"text": "渣", "pinyin": "zhā", "en": "dregs; residue", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "眨",
+    "entries": [
+      {"text": "眨", "pinyin": "zhǎ", "en": "blink", "emoji": "👁️"}
+    ]
+  },
+  {
+    "input_text": "诈骗",
+    "entries": [
+      {"text": "诈骗", "pinyin": "zhà piàn", "en": "fraud; swindle", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "摘要",
+    "entries": [
+      {"text": "摘要", "pinyin": "zhāi yào", "en": "summary; abstract", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "债券",
+    "entries": [
+      {"text": "债券", "pinyin": "zhài quàn", "en": "bond; debenture", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "沾光",
+    "entries": [
+      {"text": "沾光", "pinyin": "zhān guāng", "en": "benefit from another", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "瞻仰",
+    "entries": [
+      {"text": "瞻仰", "pinyin": "zhān yǎng", "en": "revere; pay respects", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "斩钉截铁",
+    "entries": [
+      {"text": "斩钉截铁", "pinyin": "zhǎn dīng jié tiě", "en": "resolute; categorical", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "展示",
+    "entries": [
+      {"text": "展示", "pinyin": "zhǎn shì", "en": "display; showcase", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "展望",
+    "entries": [
+      {"text": "展望", "pinyin": "zhǎn wàng", "en": "outlook; prospect", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "展现",
+    "entries": [
+      {"text": "展现", "pinyin": "zhǎn xiàn", "en": "reveal; unfold", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "崭新",
+    "entries": [
+      {"text": "崭新", "pinyin": "zhǎn xīn", "en": "brand new", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_text": "占据",
+    "entries": [
+      {"text": "占据", "pinyin": "zhàn jù", "en": "occupy; hold", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "占领",
+    "entries": [
+      {"text": "占领", "pinyin": "zhàn lǐng", "en": "seize; capture", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "战斗",
+    "entries": [
+      {"text": "战斗", "pinyin": "zhàn dòu", "en": "battle; fight", "emoji": "⚔️"}
+    ]
+  },
+  {
+    "input_text": "战略",
+    "entries": [
+      {"text": "战略", "pinyin": "zhàn lüè", "en": "strategy", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "战术",
+    "entries": [
+      {"text": "战术", "pinyin": "zhàn shù", "en": "tactics", "emoji": ""}
+    ]
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "text": "un désir",
+    "ipa": "œ̃ deziʁ",
+    "translation": {"zh": "一个愿望", "en": "a desire"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un désir", "lemma": "désir", "ipa": "œ̃ deziʁ", "translation": {"zh": "愿望", "en": "desire"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "mon oncle",
+    "ipa": "mɔ̃ ɔ̃kl",
+    "translation": {"zh": "我的叔叔", "en": "my uncle"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "mon oncle", "lemma": "oncle", "ipa": "mɔ̃ ɔ̃kl", "translation": {"zh": "叔叔", "en": "uncle"}, "emoji": "👨"}
+    ]
+  },
+  {
+    "text": "un acte",
+    "ipa": "œ̃ akt",
+    "translation": {"zh": "一个行为", "en": "an act"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un acte", "lemma": "acte", "ipa": "œ̃ akt", "translation": {"zh": "行为", "en": "act"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "ils luttent contre la pauvreté",
+    "ipa": "il lyt kɔ̃tʁ la povʁete",
+    "translation": {"zh": "他们与贫困作斗争", "en": "they fight against poverty"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "ils luttent", "lemma": "lutter", "ipa": "il lyt", "translation": {"zh": "他们斗争", "en": "they fight"}, "emoji": "✊"},
+      {"text": "contre la pauvreté", "lemma": "pauvreté", "ipa": "kɔ̃tʁ la povʁete", "translation": {"zh": "对抗贫困", "en": "against poverty"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un bâtiment",
+    "ipa": "œ̃ batimɑ̃",
+    "translation": {"zh": "一座建筑", "en": "a building"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un bâtiment", "lemma": "bâtiment", "ipa": "œ̃ batimɑ̃", "translation": {"zh": "建筑", "en": "building"}, "emoji": "🏢"}
+    ]
+  },
+  {
+    "text": "il fabrique des meubles",
+    "ipa": "il fabʁik de møbl",
+    "translation": {"zh": "他制造家具", "en": "he makes furniture"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "il fabrique", "lemma": "fabriquer", "ipa": "il fabʁik", "translation": {"zh": "他制造", "en": "he makes"}, "emoji": "🔨"},
+      {"text": "des meubles", "lemma": "meuble", "ipa": "de møbl", "translation": {"zh": "家具", "en": "furniture"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une dizaine de personnes",
+    "ipa": "yn dizɛn də pɛʁsɔn",
+    "translation": {"zh": "大约十个人", "en": "about ten people"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une dizaine de personnes", "lemma": "dizaine", "ipa": "yn dizɛn də pɛʁsɔn", "translation": {"zh": "约十人", "en": "about ten people"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "tu es capable",
+    "ipa": "ty ɛ kapabl",
+    "translation": {"zh": "你能做到", "en": "you are capable"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "tu es capable", "lemma": "capable", "ipa": "ty ɛ kapabl", "translation": {"zh": "你有能力", "en": "you are capable"}, "emoji": "💪"}
+    ]
+  },
+  {
+    "text": "une grande foule",
+    "ipa": "yn ɡʁɑ̃d ful",
+    "translation": {"zh": "一大群人", "en": "a large crowd"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une grande foule", "lemma": "foule", "ipa": "yn ɡʁɑ̃d ful", "translation": {"zh": "人群", "en": "crowd"}, "emoji": "👥"}
+    ]
+  },
+  {
+    "text": "c'est ma faute",
+    "ipa": "sɛ ma fot",
+    "translation": {"zh": "是我的错", "en": "it's my fault"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est ma faute", "lemma": "faute", "ipa": "sɛ ma fot", "translation": {"zh": "我的错", "en": "my fault"}, "emoji": "😔"}
+    ]
+  },
+  {
+    "text": "une glace au chocolat",
+    "ipa": "yn ɡlas o ʃɔkɔla",
+    "translation": {"zh": "一个巧克力冰淇淋", "en": "a chocolate ice cream"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "une glace", "lemma": "glace", "ipa": "yn ɡlas", "translation": {"zh": "冰淇淋", "en": "ice cream"}, "emoji": "🍦"},
+      {"text": "au chocolat", "lemma": "chocolat", "ipa": "o ʃɔkɔla", "translation": {"zh": "巧克力味", "en": "chocolate"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un caractère fort",
+    "ipa": "œ̃ kaʁaktɛʁ fɔʁ",
+    "translation": {"zh": "一个坚强的性格", "en": "a strong character"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un caractère fort", "lemma": "caractère", "ipa": "œ̃ kaʁaktɛʁ fɔʁ", "translation": {"zh": "性格", "en": "character"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "il souligne l'importance",
+    "ipa": "il suliɲ lɛ̃pɔʁtɑ̃s",
+    "translation": {"zh": "他强调重要性", "en": "he emphasizes the importance"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "il souligne", "lemma": "souligner", "ipa": "il suliɲ", "translation": {"zh": "他强调", "en": "he emphasizes"}, "emoji": ""},
+      {"text": "l'importance", "lemma": "importance", "ipa": "lɛ̃pɔʁtɑ̃s", "translation": {"zh": "重要性", "en": "importance"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "ma tante",
+    "ipa": "ma tɑ̃t",
+    "translation": {"zh": "我的姑姑", "en": "my aunt"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "ma tante", "lemma": "tante", "ipa": "ma tɑ̃t", "translation": {"zh": "姑姑", "en": "aunt"}, "emoji": "👩"}
+    ]
+  },
+  {
+    "text": "il faut recommencer",
+    "ipa": "il fo ʁəkɔmɑ̃se",
+    "translation": {"zh": "必须重新开始", "en": "we must start again"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "il faut recommencer", "lemma": "recommencer", "ipa": "il fo ʁəkɔmɑ̃se", "translation": {"zh": "重新开始", "en": "start again"}, "emoji": "🔄"}
+    ]
+  },
+  {
+    "text": "j'aime la danse",
+    "ipa": "ʒɛm la dɑ̃s",
+    "translation": {"zh": "我喜欢舞蹈", "en": "I love dancing"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "j'aime", "lemma": "aimer", "ipa": "ʒɛm", "translation": {"zh": "我喜欢", "en": "I love"}, "emoji": "❤️"},
+      {"text": "la danse", "lemma": "danse", "ipa": "la dɑ̃s", "translation": {"zh": "舞蹈", "en": "dancing"}, "emoji": "💃"}
+    ]
+  },
+  {
+    "text": "c'est moi",
+    "ipa": "sɛ mwa",
+    "translation": {"zh": "是我", "en": "it's me"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "c'est moi", "lemma": "moi", "ipa": "sɛ mwa", "translation": {"zh": "是我", "en": "it's me"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "à propos de ce sujet",
+    "ipa": "a pʁopo də sə syʒɛ",
+    "translation": {"zh": "关于这个话题", "en": "about this subject"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "à propos de ce sujet", "lemma": "propos", "ipa": "a pʁopo də sə syʒɛ", "translation": {"zh": "关于此事", "en": "about this subject"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "j'exprime mes émotions",
+    "ipa": "ʒɛkspʁim me zemosjɔ̃",
+    "translation": {"zh": "我表达我的情感", "en": "I express my emotions"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "j'exprime", "lemma": "exprimer", "ipa": "ʒɛkspʁim", "translation": {"zh": "我表达", "en": "I express"}, "emoji": ""},
+      {"text": "mes émotions", "lemma": "émotion", "ipa": "me zemosjɔ̃", "translation": {"zh": "我的情感", "en": "my emotions"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "transmettre un message",
+    "ipa": "tʁɑ̃smɛtʁ œ̃ mesaʒ",
+    "translation": {"zh": "传递一条信息", "en": "to pass on a message"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "transmettre", "lemma": "transmettre", "ipa": "tʁɑ̃smɛtʁ", "translation": {"zh": "传递", "en": "to pass on"}, "emoji": ""},
+      {"text": "un message", "lemma": "message", "ipa": "œ̃ mesaʒ", "translation": {"zh": "信息", "en": "message"}, "emoji": "💬"}
+    ]
+  },
+  {
+    "text": "elle s'est écriée",
+    "ipa": "ɛl sɛ ekʁie",
+    "translation": {"zh": "她叫了起来", "en": "she cried out"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "elle s'est écriée", "lemma": "écrier", "ipa": "ɛl sɛ ekʁie", "translation": {"zh": "她叫喊", "en": "she cried out"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "il cherche à séduire",
+    "ipa": "il ʃɛʁʃ a sedɥiʁ",
+    "translation": {"zh": "他想要诱惑", "en": "he tries to seduce"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il cherche à séduire", "lemma": "séduire", "ipa": "il ʃɛʁʃ a sedɥiʁ", "translation": {"zh": "他诱惑", "en": "he seduces"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "des milliers de personnes",
+    "ipa": "de milje də pɛʁsɔn",
+    "translation": {"zh": "数千人", "en": "thousands of people"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "des milliers de personnes", "lemma": "millier", "ipa": "de milje də pɛʁsɔn", "translation": {"zh": "数千人", "en": "thousands of people"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un agent de police",
+    "ipa": "œ̃ naʒɑ̃ də pɔlis",
+    "translation": {"zh": "一名警察", "en": "a police officer"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un agent de police", "lemma": "agent", "ipa": "œ̃ naʒɑ̃ də pɔlis", "translation": {"zh": "警察", "en": "police officer"}, "emoji": "👮"}
+    ]
+  },
+  {
+    "text": "confirmer une réservation",
+    "ipa": "kɔ̃fiʁme yn ʁezɛʁvasjɔ̃",
+    "translation": {"zh": "确认一项预订", "en": "to confirm a reservation"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "confirmer", "lemma": "confirmer", "ipa": "kɔ̃fiʁme", "translation": {"zh": "确认", "en": "to confirm"}, "emoji": "✅"},
+      {"text": "une réservation", "lemma": "réservation", "ipa": "yn ʁezɛʁvasjɔ̃", "translation": {"zh": "预订", "en": "reservation"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un regard vif",
+    "ipa": "œ̃ ʁəɡaʁ vif",
+    "translation": {"zh": "一个敏锐的目光", "en": "a sharp gaze"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un regard vif", "lemma": "vif", "ipa": "œ̃ ʁəɡaʁ vif", "translation": {"zh": "敏锐目光", "en": "sharp gaze"}, "emoji": "👁️"}
+    ]
+  },
+  {
+    "text": "une conséquence grave",
+    "ipa": "yn kɔ̃sekɑ̃s ɡʁav",
+    "translation": {"zh": "一个严重后果", "en": "a serious consequence"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une conséquence grave", "lemma": "conséquence", "ipa": "yn kɔ̃sekɑ̃s ɡʁav", "translation": {"zh": "严重后果", "en": "serious consequence"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "disposer de temps libre",
+    "ipa": "dispɔze də tɑ̃ libʁ",
+    "translation": {"zh": "拥有空闲时间", "en": "to have free time"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "disposer de temps libre", "lemma": "disposer", "ipa": "dispɔze də tɑ̃ libʁ", "translation": {"zh": "拥有自由时间", "en": "to have free time"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "il parvient à le faire",
+    "ipa": "il paʁvjɛ̃ a lə fɛʁ",
+    "translation": {"zh": "他成功做到了", "en": "he manages to do it"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "il parvient", "lemma": "parvenir", "ipa": "il paʁvjɛ̃", "translation": {"zh": "他成功", "en": "he manages"}, "emoji": ""},
+      {"text": "à le faire", "lemma": "faire", "ipa": "a lə fɛʁ", "translation": {"zh": "做到", "en": "to do it"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "retenir une date",
+    "ipa": "ʁətniʁ yn dat",
+    "translation": {"zh": "记住一个日期", "en": "to remember a date"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "retenir", "lemma": "retenir", "ipa": "ʁətniʁ", "translation": {"zh": "记住", "en": "to remember"}, "emoji": ""},
+      {"text": "une date", "lemma": "date", "ipa": "yn dat", "translation": {"zh": "日期", "en": "date"}, "emoji": "📅"}
+    ]
+  }
+]

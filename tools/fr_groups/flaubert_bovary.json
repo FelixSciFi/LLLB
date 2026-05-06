@@ -1,0 +1,71 @@
+[
+  {
+    "text": "Nous étions à l'étude,",
+    "ipa": "nu zetjɔ̃ a letyd",
+    "translation": {"zh": "我们正在自习，", "en": "We were in study hall,"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "Nous", "lemma": "nous", "ipa": "nu", "translation": {"zh": "我们", "en": "we"}, "emoji": "👥"},
+      {"text": "étions à l'étude", "lemma": "être à l'étude", "ipa": "etjɔ̃ a letyd", "translation": {"zh": "在自习", "en": "were in study hall"}, "emoji": "📚"}
+    ],
+    "tags": [{"name": "Madame Bovary", "index": 1}]
+  },
+  {
+    "text": "quand le proviseur entra,",
+    "ipa": "kɑ̃ lə pʁɔvizœʁ ɑ̃tʁa",
+    "translation": {"zh": "校长走了进来，", "en": "when the headmaster entered,"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "quand le proviseur", "lemma": "quand le proviseur", "ipa": "kɑ̃ lə pʁɔvizœʁ", "translation": {"zh": "当校长", "en": "when the headmaster"}, "emoji": "🎩"},
+      {"text": "entra", "lemma": "entrer", "ipa": "ɑ̃tʁa", "translation": {"zh": "走进", "en": "entered"}, "emoji": "🚪"}
+    ],
+    "tags": [{"name": "Madame Bovary", "index": 2}]
+  },
+  {
+    "text": "suivi d'un nouveau habillé en bourgeois",
+    "ipa": "sɥivi dœ̃ nuvo abije ɑ̃ buʁʒwa",
+    "translation": {"zh": "后面跟着一个穿便服的新生", "en": "followed by a new boy dressed in plain clothes"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "suivi d'un nouveau", "lemma": "suivre un nouveau", "ipa": "sɥivi dœ̃ nuvo", "translation": {"zh": "跟着新生", "en": "followed by a newcomer"}, "emoji": "👣"},
+      {"text": "habillé en bourgeois", "lemma": "habiller en bourgeois", "ipa": "abije ɑ̃ buʁʒwa", "translation": {"zh": "穿着便服", "en": "dressed in plain clothes"}, "emoji": "🎽"}
+    ],
+    "tags": [{"name": "Madame Bovary", "index": 3}]
+  },
+  {
+    "text": "et d'un garçon de classe qui portait un grand pupitre.",
+    "ipa": "e dœ̃ ɡaʁsɔ̃ də klas ki pɔʁtɛ œ̃ ɡʁɑ̃ pypitʁ",
+    "translation": {"zh": "和一个抬着大书桌的校工。", "en": "and a school servant carrying a large desk."},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "et d'un garçon de classe", "lemma": "garçon de classe", "ipa": "e dœ̃ ɡaʁsɔ̃ də klas", "translation": {"zh": "和一个校工", "en": "and a school servant"}, "emoji": "🧹"},
+      {"text": "qui portait", "lemma": "porter", "ipa": "ki pɔʁtɛ", "translation": {"zh": "抬着", "en": "carrying"}, "emoji": "💪"},
+      {"text": "un grand pupitre", "lemma": "grand pupitre", "ipa": "œ̃ ɡʁɑ̃ pypitʁ", "translation": {"zh": "大书桌", "en": "large desk"}, "emoji": "🪑"}
+    ],
+    "tags": [{"name": "Madame Bovary", "index": 4}]
+  },
+  {
+    "text": "Ceux qui dormaient se réveillèrent,",
+    "ipa": "sø ki dɔʁmɛ sə ʁevɛjɛʁ",
+    "translation": {"zh": "睡着的人都醒了，", "en": "Those who were sleeping woke up,"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "Ceux qui dormaient", "lemma": "ceux qui dormir", "ipa": "sø ki dɔʁmɛ", "translation": {"zh": "睡着的人", "en": "those sleeping"}, "emoji": "😴"},
+      {"text": "se réveillèrent", "lemma": "se réveiller", "ipa": "sə ʁevɛjɛʁ", "translation": {"zh": "醒来", "en": "woke up"}, "emoji": "👀"}
+    ],
+    "tags": [{"name": "Madame Bovary", "index": 5}]
+  },
+  {
+    "text": "et chacun se leva comme surpris dans son travail.",
+    "ipa": "e ʃakœ̃ sə ləva kɔm syʁpʁi dɑ̃ sɔ̃ tʁavaj",
+    "translation": {"zh": "每人都站起来，仿佛被打断了工作。", "en": "and each rose as if caught at his work."},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "et chacun", "lemma": "chacun", "ipa": "e ʃakœ̃", "translation": {"zh": "每个人", "en": "each one"}, "emoji": "🙋"},
+      {"text": "se leva", "lemma": "se lever", "ipa": "sə ləva", "translation": {"zh": "站起", "en": "rose"}, "emoji": "🆙"},
+      {"text": "comme surpris", "lemma": "surprendre", "ipa": "kɔm syʁpʁi", "translation": {"zh": "仿佛被惊", "en": "as if startled"}, "emoji": "😲"},
+      {"text": "dans son travail", "lemma": "travail", "ipa": "dɑ̃ sɔ̃ tʁavaj", "translation": {"zh": "在工作中", "en": "at his work"}, "emoji": "✍️"}
+    ],
+    "tags": [{"name": "Madame Bovary", "index": 6}]
+  }
+]

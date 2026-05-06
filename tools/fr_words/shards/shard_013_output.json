@@ -1,0 +1,273 @@
+[
+  {
+    "text": "un parfum",
+    "ipa": "œ̃ paʁfœ̃",
+    "translation": {"zh": "一种香味", "en": "a scent"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un parfum", "lemma": "parfum", "ipa": "œ̃ paʁfœ̃", "translation": {"zh": "香水", "en": "perfume"}, "emoji": "🌸"}
+    ]
+  },
+  {
+    "text": "remonter l'escalier",
+    "ipa": "ʁəmɔ̃te leskalje",
+    "translation": {"zh": "上楼梯", "en": "go back up the stairs"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "remonter l'escalier", "lemma": "remonter", "ipa": "ʁəmɔ̃te leskalje", "translation": {"zh": "重新上去", "en": "go back up"}, "emoji": "⬆️"}
+    ]
+  },
+  {
+    "text": "rapidement",
+    "ipa": "ʁapidmɑ̃",
+    "translation": {"zh": "迅速地", "en": "quickly"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "rapidement", "lemma": "rapidement", "ipa": "ʁapidmɑ̃", "translation": {"zh": "迅速地", "en": "quickly"}, "emoji": "💨"}
+    ]
+  },
+  {
+    "text": "un chiffre",
+    "ipa": "œ̃ ʃifʁ",
+    "translation": {"zh": "一个数字", "en": "a number"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un chiffre", "lemma": "chiffre", "ipa": "œ̃ ʃifʁ", "translation": {"zh": "数字", "en": "digit"}, "emoji": "🔢"}
+    ]
+  },
+  {
+    "text": "la lecture",
+    "ipa": "la lɛktyʁ",
+    "translation": {"zh": "阅读", "en": "reading"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la lecture", "lemma": "lecture", "ipa": "la lɛktyʁ", "translation": {"zh": "阅读", "en": "reading"}, "emoji": "📖"}
+    ]
+  },
+  {
+    "text": "réduire les coûts",
+    "ipa": "ʁedɥiʁ le ku",
+    "translation": {"zh": "降低成本", "en": "reduce costs"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "réduire les coûts", "lemma": "réduire", "ipa": "ʁedɥiʁ le ku", "translation": {"zh": "减少", "en": "reduce"}, "emoji": "📉"}
+    ]
+  },
+  {
+    "text": "transformer une idée",
+    "ipa": "tʁɑ̃sfɔʁme yn ide",
+    "translation": {"zh": "转化一个想法", "en": "transform an idea"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "transformer une idée", "lemma": "transformer", "ipa": "tʁɑ̃sfɔʁme yn ide", "translation": {"zh": "转化", "en": "transform"}, "emoji": "✨"}
+    ]
+  },
+  {
+    "text": "la majorité",
+    "ipa": "la maʒɔʁite",
+    "translation": {"zh": "多数", "en": "the majority"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la majorité", "lemma": "majorité", "ipa": "la maʒɔʁite", "translation": {"zh": "多数", "en": "majority"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "c'est lourd",
+    "ipa": "se luʁ",
+    "translation": {"zh": "这很重", "en": "it's heavy"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "c'est lourd", "lemma": "lourd", "ipa": "se luʁ", "translation": {"zh": "沉重的", "en": "heavy"}, "emoji": "🏋️"}
+    ]
+  },
+  {
+    "text": "un élément important",
+    "ipa": "œ̃ elemɑ̃ ɛ̃pɔʁtɑ̃",
+    "translation": {"zh": "一个重要元素", "en": "an important element"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un élément important", "lemma": "élément", "ipa": "œ̃ elemɑ̃ ɛ̃pɔʁtɑ̃", "translation": {"zh": "重要元素", "en": "important element"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "accueillir des visiteurs",
+    "ipa": "akœjiʁ de vizitœʁ",
+    "translation": {"zh": "接待游客", "en": "welcome visitors"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "accueillir des visiteurs", "lemma": "accueillir", "ipa": "akœjiʁ de vizitœʁ", "translation": {"zh": "接待", "en": "welcome"}, "emoji": "🤝"}
+    ]
+  },
+  {
+    "text": "consacrer du temps",
+    "ipa": "kɔ̃sakʁe dy tɑ̃",
+    "translation": {"zh": "花费时间", "en": "devote time"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "consacrer du temps", "lemma": "consacrer", "ipa": "kɔ̃sakʁe dy tɑ̃", "translation": {"zh": "投入", "en": "devote"}, "emoji": "⏰"}
+    ]
+  },
+  {
+    "text": "la création",
+    "ipa": "la kʁeɑsjɔ̃",
+    "translation": {"zh": "创作", "en": "creation"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la création", "lemma": "création", "ipa": "la kʁeɑsjɔ̃", "translation": {"zh": "创作", "en": "creation"}, "emoji": "🎨"}
+    ]
+  },
+  {
+    "text": "une preuve",
+    "ipa": "yn pʁœv",
+    "translation": {"zh": "一个证据", "en": "a proof"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une preuve", "lemma": "preuve", "ipa": "yn pʁœv", "translation": {"zh": "证据", "en": "proof"}, "emoji": "🔍"}
+    ]
+  },
+  {
+    "text": "une révolution",
+    "ipa": "yn ʁevɔlysjɔ̃",
+    "translation": {"zh": "一场革命", "en": "a revolution"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une révolution", "lemma": "révolution", "ipa": "yn ʁevɔlysjɔ̃", "translation": {"zh": "革命", "en": "revolution"}, "emoji": "✊"}
+    ]
+  },
+  {
+    "text": "le jour suivant",
+    "ipa": "lə ʒuʁ sɥivɑ̃",
+    "translation": {"zh": "第二天", "en": "the following day"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "le jour suivant", "lemma": "suivant", "ipa": "lə ʒuʁ sɥivɑ̃", "translation": {"zh": "接下来的", "en": "following"}, "emoji": "📅"}
+    ]
+  },
+  {
+    "text": "je sais qu'il vient",
+    "ipa": "ʒə se kil vjɛ̃",
+    "translation": {"zh": "我知道他来", "en": "I know that he is coming"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "je sais", "lemma": "savoir", "ipa": "ʒə se", "translation": {"zh": "我知道", "en": "I know"}, "emoji": ""},
+      {"text": "qu'il vient", "lemma": "venir", "ipa": "kil vjɛ̃", "translation": {"zh": "他来", "en": "he comes"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "c'est-à-dire",
+    "ipa": "sɛtadiʁ",
+    "translation": {"zh": "也就是说", "en": "that is to say"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est-à-dire", "lemma": "est-à-dire", "ipa": "sɛtadiʁ", "translation": {"zh": "也就是说", "en": "that is"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un prisonnier",
+    "ipa": "œ̃ pʁizɔnje",
+    "translation": {"zh": "一名囚犯", "en": "a prisoner"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "un prisonnier", "lemma": "prisonnier", "ipa": "œ̃ pʁizɔnje", "translation": {"zh": "囚犯", "en": "prisoner"}, "emoji": "🔒"}
+    ]
+  },
+  {
+    "text": "la première page",
+    "ipa": "la pʁəmjɛʁ paʒ",
+    "translation": {"zh": "第一页", "en": "the first page"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "la première page", "lemma": "page", "ipa": "la pʁəmjɛʁ paʒ", "translation": {"zh": "第一页", "en": "first page"}, "emoji": "📄"}
+    ]
+  },
+  {
+    "text": "une machine",
+    "ipa": "yn maʃin",
+    "translation": {"zh": "一台机器", "en": "a machine"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une machine", "lemma": "machine", "ipa": "yn maʃin", "translation": {"zh": "机器", "en": "machine"}, "emoji": "⚙️"}
+    ]
+  },
+  {
+    "text": "la naissance",
+    "ipa": "la nɛsɑ̃s",
+    "translation": {"zh": "出生", "en": "birth"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "la naissance", "lemma": "naissance", "ipa": "la nɛsɑ̃s", "translation": {"zh": "出生", "en": "birth"}, "emoji": "👶"}
+    ]
+  },
+  {
+    "text": "un spectacle",
+    "ipa": "œ̃ spɛktakl",
+    "translation": {"zh": "一场演出", "en": "a show"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un spectacle", "lemma": "spectacle", "ipa": "œ̃ spɛktakl", "translation": {"zh": "演出", "en": "show"}, "emoji": "🎭"}
+    ]
+  },
+  {
+    "text": "s'engager dans un projet",
+    "ipa": "sɑ̃ɡaʒe dɑ̃ œ̃ pʁɔʒɛ",
+    "translation": {"zh": "投入一个项目", "en": "commit to a project"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "s'engager dans un projet", "lemma": "engager", "ipa": "sɑ̃ɡaʒe dɑ̃ œ̃ pʁɔʒɛ", "translation": {"zh": "投身参与", "en": "commit to"}, "emoji": "🤜"}
+    ]
+  },
+  {
+    "text": "un chevalier",
+    "ipa": "œ̃ ʃəvalje",
+    "translation": {"zh": "一名骑士", "en": "a knight"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "un chevalier", "lemma": "chevalier", "ipa": "œ̃ ʃəvalje", "translation": {"zh": "骑士", "en": "knight"}, "emoji": "⚔️"}
+    ]
+  },
+  {
+    "text": "c'est excellent",
+    "ipa": "sɛ tɛksɛlɑ̃",
+    "translation": {"zh": "这非常好", "en": "it's excellent"},
+    "cefr": "A1",
+    "tokens": [
+      {"text": "c'est excellent", "lemma": "excellent", "ipa": "sɛ tɛksɛlɑ̃", "translation": {"zh": "极好的", "en": "excellent"}, "emoji": "⭐"}
+    ]
+  },
+  {
+    "text": "constituer un groupe",
+    "ipa": "kɔ̃stityeœ̃ ɡʁup",
+    "translation": {"zh": "组成一个团队", "en": "form a group"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "constituer un groupe", "lemma": "constituer", "ipa": "kɔ̃stitye œ̃ ɡʁup", "translation": {"zh": "构成", "en": "constitute"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "monter l'escalier",
+    "ipa": "mɔ̃te leskalje",
+    "translation": {"zh": "上楼梯", "en": "go up the stairs"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "monter l'escalier", "lemma": "escalier", "ipa": "mɔ̃te leskalje", "translation": {"zh": "楼梯", "en": "stairs"}, "emoji": "🪜"}
+    ]
+  },
+  {
+    "text": "atteindre son but",
+    "ipa": "atɛ̃dʁ sɔ̃ by",
+    "translation": {"zh": "达到目标", "en": "reach one's goal"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "atteindre son but", "lemma": "atteindre", "ipa": "atɛ̃dʁ sɔ̃ by", "translation": {"zh": "达到", "en": "reach"}, "emoji": "🎯"}
+    ]
+  },
+  {
+    "text": "le ministre",
+    "ipa": "lə ministʁ",
+    "translation": {"zh": "部长", "en": "the minister"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le ministre", "lemma": "ministre", "ipa": "lə ministʁ", "translation": {"zh": "部长", "en": "minister"}, "emoji": "🏛️"}
+    ]
+  }
+]

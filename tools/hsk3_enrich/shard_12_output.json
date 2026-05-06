@@ -1,0 +1,602 @@
+[
+  {
+    "id": "8ccb43ae-8045-4035-9c00-b1378eeb52b8",
+    "text": "这个问题很难解决。",
+    "ipa": "zhè ge wèn tí hěn nán jiě jué",
+    "translation": { "zh": "这个问题很难解决。", "en": "This problem is very hard to solve." },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这个问题",
+        "lemma": "这个问题",
+        "ipa": "zhè ge wèn tí",
+        "translation": { "zh": "这个问题", "en": "this problem" },
+        "emoji": "❓"
+      },
+      {
+        "text": "很难解决",
+        "lemma": "很难解决",
+        "ipa": "hěn nán jiě jué",
+        "translation": { "zh": "很难解决", "en": "very hard to solve" },
+        "emoji": "😓"
+      }
+    ]
+  },
+  {
+    "id": "89092c37-2b2e-411a-bc45-27d0830735f7",
+    "text": "我们一起来解决吧。",
+    "ipa": "wǒ men yī qǐ lái jiě jué ba",
+    "translation": { "zh": "我们一起来解决吧。", "en": "Let's solve it together." },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我们",
+        "lemma": "我们",
+        "ipa": "wǒ men",
+        "translation": { "zh": "我们", "en": "we" },
+        "emoji": "👥"
+      },
+      {
+        "text": "一起来",
+        "lemma": "一起来",
+        "ipa": "yī qǐ lái",
+        "translation": { "zh": "一起来", "en": "come together" },
+        "emoji": "🤝"
+      },
+      {
+        "text": "解决吧",
+        "lemma": "解决吧",
+        "ipa": "jiě jué ba",
+        "translation": { "zh": "解决吧", "en": "let's solve it" },
+        "emoji": "✅"
+      }
+    ]
+  },
+  {
+    "id": "153d3f3b-baa4-4626-aca5-5b446a058f55",
+    "text": "我可以借你的笔用一下吗？",
+    "ipa": "wǒ kě yǐ jiè nǐ de bǐ yòng yī xià ma",
+    "translation": { "zh": "我可以借你的笔用一下吗？", "en": "Can I borrow your pen for a moment?" },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我可以",
+        "lemma": "我可以",
+        "ipa": "wǒ kě yǐ",
+        "translation": { "zh": "我可以", "en": "I can / may I" },
+        "emoji": ""
+      },
+      {
+        "text": "借",
+        "lemma": "借",
+        "ipa": "jiè",
+        "translation": { "zh": "借", "en": "borrow" },
+        "emoji": "🤲"
+      },
+      {
+        "text": "你的",
+        "lemma": "你的",
+        "ipa": "nǐ de",
+        "translation": { "zh": "你的", "en": "your" },
+        "emoji": ""
+      },
+      {
+        "text": "笔",
+        "lemma": "笔",
+        "ipa": "bǐ",
+        "translation": { "zh": "笔", "en": "pen" },
+        "emoji": "✏️"
+      },
+      {
+        "text": "用一下吗",
+        "lemma": "用一下吗",
+        "ipa": "yòng yī xià ma",
+        "translation": { "zh": "用一下吗", "en": "use it for a moment?" },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "a164cc37-18c4-4b5d-bf3e-7f2d4138a1b5",
+    "text": "他从图书馆借了几本书。",
+    "ipa": "tā cóng tú shū guǎn jiè le jǐ běn shū",
+    "translation": { "zh": "他从图书馆借了几本书。", "en": "He borrowed several books from the library." },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他从图书馆",
+        "lemma": "他从图书馆",
+        "ipa": "tā cóng tú shū guǎn",
+        "translation": { "zh": "他从图书馆", "en": "he from the library" },
+        "emoji": "📚"
+      },
+      {
+        "text": "借了",
+        "lemma": "借了",
+        "ipa": "jiè le",
+        "translation": { "zh": "借了", "en": "borrowed" },
+        "emoji": "🤲"
+      },
+      {
+        "text": "几本书",
+        "lemma": "几本书",
+        "ipa": "jǐ běn shū",
+        "translation": { "zh": "几本书", "en": "several books" },
+        "emoji": "📖"
+      }
+    ]
+  },
+  {
+    "id": "555db102-b819-491f-a28c-c092e6cf737e",
+    "text": "他经常忘带钥匙。",
+    "ipa": "tā jīng cháng wàng dài yào shi",
+    "translation": { "zh": "他经常忘带钥匙。", "en": "He often forgets to bring his keys." },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他经常",
+        "lemma": "他经常",
+        "ipa": "tā jīng cháng",
+        "translation": { "zh": "他经常", "en": "he often" },
+        "emoji": ""
+      },
+      {
+        "text": "忘带",
+        "lemma": "忘带",
+        "ipa": "wàng dài",
+        "translation": { "zh": "忘带", "en": "forget to bring" },
+        "emoji": "🤦"
+      },
+      {
+        "text": "钥匙",
+        "lemma": "钥匙",
+        "ipa": "yào shi",
+        "translation": { "zh": "钥匙", "en": "keys" },
+        "emoji": "🔑"
+      }
+    ]
+  },
+  {
+    "id": "db548739-e45d-4c40-b6f4-6804a599f948",
+    "text": "我们经常一起去跑步。",
+    "ipa": "wǒ men jīng cháng yī qǐ qù pǎo bù",
+    "translation": { "zh": "我们经常一起去跑步。", "en": "We often go running together." },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我们经常",
+        "lemma": "我们经常",
+        "ipa": "wǒ men jīng cháng",
+        "translation": { "zh": "我们经常", "en": "we often" },
+        "emoji": ""
+      },
+      {
+        "text": "一起去",
+        "lemma": "一起去",
+        "ipa": "yī qǐ qù",
+        "translation": { "zh": "一起去", "en": "go together" },
+        "emoji": "🤝"
+      },
+      {
+        "text": "跑步",
+        "lemma": "跑步",
+        "ipa": "pǎo bù",
+        "translation": { "zh": "跑步", "en": "running" },
+        "emoji": "🏃"
+      }
+    ]
+  },
+  {
+    "id": "d1d2e9ff-fd69-4d53-a51b-2bb883aa8efb",
+    "text": "经过努力，她终于通过了考试。",
+    "ipa": "jīng guò nǔ lì tā zhōng yú tōng guò le kǎo shì",
+    "translation": { "zh": "经过努力，她终于通过了考试。", "en": "After hard work, she finally passed the exam." },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "经过努力",
+        "lemma": "经过努力",
+        "ipa": "jīng guò nǔ lì",
+        "translation": { "zh": "经过努力", "en": "after hard work" },
+        "emoji": "💪"
+      },
+      {
+        "text": "她终于",
+        "lemma": "她终于",
+        "ipa": "tā zhōng yú",
+        "translation": { "zh": "她终于", "en": "she finally" },
+        "emoji": ""
+      },
+      {
+        "text": "通过了",
+        "lemma": "通过了",
+        "ipa": "tōng guò le",
+        "translation": { "zh": "通过了", "en": "passed" },
+        "emoji": "✅"
+      },
+      {
+        "text": "考试",
+        "lemma": "考试",
+        "ipa": "kǎo shì",
+        "translation": { "zh": "考试", "en": "exam" },
+        "emoji": "📝"
+      }
+    ]
+  },
+  {
+    "id": "3aa88c08-1e44-44d1-9b69-96a95e6c2d52",
+    "text": "我每天上班经过那家咖啡店。",
+    "ipa": "wǒ měi tiān shàng bān jīng guò nà jiā kā fēi diàn",
+    "translation": { "zh": "我每天上班经过那家咖啡店。", "en": "I pass by that coffee shop every day on my way to work." },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我每天",
+        "lemma": "我每天",
+        "ipa": "wǒ měi tiān",
+        "translation": { "zh": "我每天", "en": "I every day" },
+        "emoji": "📅"
+      },
+      {
+        "text": "上班",
+        "lemma": "上班",
+        "ipa": "shàng bān",
+        "translation": { "zh": "上班", "en": "go to work" },
+        "emoji": "💼"
+      },
+      {
+        "text": "经过",
+        "lemma": "经过",
+        "ipa": "jīng guò",
+        "translation": { "zh": "经过", "en": "pass by" },
+        "emoji": ""
+      },
+      {
+        "text": "那家咖啡店",
+        "lemma": "那家咖啡店",
+        "ipa": "nà jiā kā fēi diàn",
+        "translation": { "zh": "那家咖啡店", "en": "that coffee shop" },
+        "emoji": "☕"
+      }
+    ]
+  },
+  {
+    "id": "6b793f75-442c-46a3-bef5-55dfaf868e02",
+    "text": "经理今天不在办公室。",
+    "ipa": "jīng lǐ jīn tiān bù zài bàn gōng shì",
+    "translation": { "zh": "经理今天不在办公室。", "en": "The manager is not in the office today." },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "经理",
+        "lemma": "经理",
+        "ipa": "jīng lǐ",
+        "translation": { "zh": "经理", "en": "manager" },
+        "emoji": "👔"
+      },
+      {
+        "text": "今天",
+        "lemma": "今天",
+        "ipa": "jīn tiān",
+        "translation": { "zh": "今天", "en": "today" },
+        "emoji": "📅"
+      },
+      {
+        "text": "不在",
+        "lemma": "不在",
+        "ipa": "bù zài",
+        "translation": { "zh": "不在", "en": "not here / absent" },
+        "emoji": ""
+      },
+      {
+        "text": "办公室",
+        "lemma": "办公室",
+        "ipa": "bàn gōng shì",
+        "translation": { "zh": "办公室", "en": "office" },
+        "emoji": "🏢"
+      }
+    ]
+  },
+  {
+    "id": "63ce7e13-b0de-412a-81fc-171db3c216c3",
+    "text": "她当经理才一年。",
+    "ipa": "tā dāng jīng lǐ cái yī nián",
+    "translation": { "zh": "她当经理才一年。", "en": "She has only been a manager for one year." },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "她当经理",
+        "lemma": "她当经理",
+        "ipa": "tā dāng jīng lǐ",
+        "translation": { "zh": "她当经理", "en": "she became a manager" },
+        "emoji": "👔"
+      },
+      {
+        "text": "才一年",
+        "lemma": "才一年",
+        "ipa": "cái yī nián",
+        "translation": { "zh": "才一年", "en": "only one year" },
+        "emoji": "🗓️"
+      }
+    ]
+  },
+  {
+    "id": "4052ae40-5dfb-408f-b59b-cc6c9c0497c9",
+    "text": "你等了很久了吗？",
+    "ipa": "nǐ děng le hěn jiǔ le ma",
+    "translation": { "zh": "你等了很久了吗？", "en": "Have you been waiting for a long time?" },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "你等了",
+        "lemma": "你等了",
+        "ipa": "nǐ děng le",
+        "translation": { "zh": "你等了", "en": "you have been waiting" },
+        "emoji": ""
+      },
+      {
+        "text": "很久了吗",
+        "lemma": "很久了吗",
+        "ipa": "hěn jiǔ le ma",
+        "translation": { "zh": "很久了吗", "en": "for a long time?" },
+        "emoji": "⏳"
+      }
+    ]
+  },
+  {
+    "id": "ba883291-5e8c-4d11-9df4-8394722d3a01",
+    "text": "好久不见，你还好吗？",
+    "ipa": "hǎo jiǔ bù jiàn nǐ hái hǎo ma",
+    "translation": { "zh": "好久不见，你还好吗？", "en": "Long time no see — how are you?" },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "好久不见",
+        "lemma": "好久不见",
+        "ipa": "hǎo jiǔ bù jiàn",
+        "translation": { "zh": "好久不见", "en": "long time no see" },
+        "emoji": "👋"
+      },
+      {
+        "text": "你还好吗",
+        "lemma": "你还好吗",
+        "ipa": "nǐ hái hǎo ma",
+        "translation": { "zh": "你还好吗", "en": "how are you?" },
+        "emoji": "😊"
+      }
+    ]
+  },
+  {
+    "id": "70173c97-55ba-46f8-8537-dd197ec28c67",
+    "text": "这件衣服太旧了。",
+    "ipa": "zhè jiàn yī fu tài jiù le",
+    "translation": { "zh": "这件衣服太旧了。", "en": "This piece of clothing is too old." },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这件衣服",
+        "lemma": "这件衣服",
+        "ipa": "zhè jiàn yī fu",
+        "translation": { "zh": "这件衣服", "en": "this piece of clothing" },
+        "emoji": "👕"
+      },
+      {
+        "text": "太旧了",
+        "lemma": "太旧了",
+        "ipa": "tài jiù le",
+        "translation": { "zh": "太旧了", "en": "too old" },
+        "emoji": "🪨"
+      }
+    ]
+  },
+  {
+    "id": "91a8ffd6-6290-4d0e-92e8-ca0080ac521c",
+    "text": "他把旧手机卖掉了。",
+    "ipa": "tā bǎ jiù shǒu jī mài diào le",
+    "translation": { "zh": "他把旧手机卖掉了。", "en": "He sold his old phone." },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "他把旧手机",
+        "lemma": "他把旧手机",
+        "ipa": "tā bǎ jiù shǒu jī",
+        "translation": { "zh": "他把旧手机", "en": "he (took) his old phone" },
+        "emoji": "📱"
+      },
+      {
+        "text": "卖掉了",
+        "lemma": "卖掉了",
+        "ipa": "mài diào le",
+        "translation": { "zh": "卖掉了", "en": "sold (it) off" },
+        "emoji": "💸"
+      }
+    ]
+  },
+  {
+    "id": "3060af19-1e9c-4612-aac5-bca3935238de",
+    "text": "这个句子太长了。",
+    "ipa": "zhè ge jù zi tài cháng le",
+    "translation": { "zh": "这个句子太长了。", "en": "This sentence is too long." },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这个句子",
+        "lemma": "这个句子",
+        "ipa": "zhè ge jù zi",
+        "translation": { "zh": "这个句子", "en": "this sentence" },
+        "emoji": "📝"
+      },
+      {
+        "text": "太长了",
+        "lemma": "太长了",
+        "ipa": "tài cháng le",
+        "translation": { "zh": "太长了", "en": "too long" },
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "id": "7caafb97-4384-4dff-af9a-136faa761ce8",
+    "text": "老师让我们用这个词造句子。",
+    "ipa": "lǎo shī ràng wǒ men yòng zhè ge cí zào jù zi",
+    "translation": { "zh": "老师让我们用这个词造句子。", "en": "The teacher asked us to make a sentence with this word." },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "老师让",
+        "lemma": "老师让",
+        "ipa": "lǎo shī ràng",
+        "translation": { "zh": "老师让", "en": "the teacher asked" },
+        "emoji": "👩‍🏫"
+      },
+      {
+        "text": "我们",
+        "lemma": "我们",
+        "ipa": "wǒ men",
+        "translation": { "zh": "我们", "en": "us" },
+        "emoji": "👥"
+      },
+      {
+        "text": "用这个词",
+        "lemma": "用这个词",
+        "ipa": "yòng zhè ge cí",
+        "translation": { "zh": "用这个词", "en": "use this word" },
+        "emoji": "🔤"
+      },
+      {
+        "text": "造句子",
+        "lemma": "造句子",
+        "ipa": "zào jù zi",
+        "translation": { "zh": "造句子", "en": "make a sentence" },
+        "emoji": "✏️"
+      }
+    ]
+  },
+  {
+    "id": "0d5a6d2e-e0fa-40a3-8cb9-c97ba9bc9ed5",
+    "text": "我决定明年去中国留学。",
+    "ipa": "wǒ jué dìng míng nián qù zhōng guó liú xué",
+    "translation": { "zh": "我决定明年去中国留学。", "en": "I have decided to go study in China next year." },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "我决定",
+        "lemma": "我决定",
+        "ipa": "wǒ jué dìng",
+        "translation": { "zh": "我决定", "en": "I decided" },
+        "emoji": ""
+      },
+      {
+        "text": "明年",
+        "lemma": "明年",
+        "ipa": "míng nián",
+        "translation": { "zh": "明年", "en": "next year" },
+        "emoji": "🗓️"
+      },
+      {
+        "text": "去中国",
+        "lemma": "去中国",
+        "ipa": "qù zhōng guó",
+        "translation": { "zh": "去中国", "en": "go to China" },
+        "emoji": "🇨🇳"
+      },
+      {
+        "text": "留学",
+        "lemma": "留学",
+        "ipa": "liú xué",
+        "translation": { "zh": "留学", "en": "study abroad" },
+        "emoji": "🎓"
+      }
+    ]
+  },
+  {
+    "id": "eaa31353-9312-4335-84fd-06af371ce09c",
+    "text": "这件事你自己决定吧。",
+    "ipa": "zhè jiàn shì nǐ zì jǐ jué dìng ba",
+    "translation": { "zh": "这件事你自己决定吧。", "en": "Decide this matter yourself." },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这件事",
+        "lemma": "这件事",
+        "ipa": "zhè jiàn shì",
+        "translation": { "zh": "这件事", "en": "this matter" },
+        "emoji": ""
+      },
+      {
+        "text": "你自己",
+        "lemma": "你自己",
+        "ipa": "nǐ zì jǐ",
+        "translation": { "zh": "你自己", "en": "you yourself" },
+        "emoji": ""
+      },
+      {
+        "text": "决定吧",
+        "lemma": "决定吧",
+        "ipa": "jué dìng ba",
+        "translation": { "zh": "决定吧", "en": "just decide" },
+        "emoji": "✅"
+      }
+    ]
+  },
+  {
+    "id": "6231a964-7f18-4b83-bfd8-92615d02cad6",
+    "text": "这只小猫真的很可爱。",
+    "ipa": "zhè zhī xiǎo māo zhēn de hěn kě ài",
+    "translation": { "zh": "这只小猫真的很可爱。", "en": "This little cat is really cute." },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "这只小猫",
+        "lemma": "这只小猫",
+        "ipa": "zhè zhī xiǎo māo",
+        "translation": { "zh": "这只小猫", "en": "this little cat" },
+        "emoji": "🐱"
+      },
+      {
+        "text": "真的",
+        "lemma": "真的",
+        "ipa": "zhēn de",
+        "translation": { "zh": "真的", "en": "really" },
+        "emoji": ""
+      },
+      {
+        "text": "很可爱",
+        "lemma": "很可爱",
+        "ipa": "hěn kě ài",
+        "translation": { "zh": "很可爱", "en": "very cute" },
+        "emoji": "🥰"
+      }
+    ]
+  },
+  {
+    "id": "a605a1b2-db25-41a4-9b89-2e3da141a49f",
+    "text": "她的孩子长得很可爱。",
+    "ipa": "tā de hái zi zhǎng de hěn kě ài",
+    "translation": { "zh": "她的孩子长得很可爱。", "en": "Her child looks very cute." },
+    "cefr": "HSK3",
+    "tokens": [
+      {
+        "text": "她的",
+        "lemma": "她的",
+        "ipa": "tā de",
+        "translation": { "zh": "她的", "en": "her" },
+        "emoji": ""
+      },
+      {
+        "text": "孩子",
+        "lemma": "孩子",
+        "ipa": "hái zi",
+        "translation": { "zh": "孩子", "en": "child" },
+        "emoji": "👶"
+      },
+      {
+        "text": "长得很可爱",
+        "lemma": "长得很可爱",
+        "ipa": "zhǎng de hěn kě ài",
+        "translation": { "zh": "长得很可爱", "en": "looks very cute" },
+        "emoji": "🥰"
+      }
+    ]
+  }
+]

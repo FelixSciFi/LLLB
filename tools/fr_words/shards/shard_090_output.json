@@ -1,0 +1,295 @@
+[
+  {
+    "text": "une vague",
+    "ipa": "yn vaɡ",
+    "translation": {"zh": "一个浪潮", "en": "a wave"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une vague", "lemma": "vague", "ipa": "yn vaɡ", "translation": {"zh": "一个浪潮", "en": "a wave"}, "emoji": "🌊"}
+    ]
+  },
+  {
+    "text": "un choix stratégique",
+    "ipa": "œ̃ ʃwa stʁateʒik",
+    "translation": {"zh": "一个战略选择", "en": "a strategic choice"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un choix", "lemma": "choix", "ipa": "œ̃ ʃwa", "translation": {"zh": "一个选择", "en": "a choice"}, "emoji": ""},
+      {"text": "stratégique", "lemma": "stratégique", "ipa": "stʁateʒik", "translation": {"zh": "战略性的", "en": "strategic"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "il est absent",
+    "ipa": "il ɛ apsɑ̃",
+    "translation": {"zh": "他不在", "en": "he is absent"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "il est", "lemma": "être", "ipa": "il ɛ", "translation": {"zh": "他是", "en": "he is"}, "emoji": ""},
+      {"text": "absent", "lemma": "absent", "ipa": "apsɑ̃", "translation": {"zh": "缺席的", "en": "absent"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un ton agressif",
+    "ipa": "œ̃ tɔ̃ aɡʁɛsif",
+    "translation": {"zh": "一种攻击性语气", "en": "an aggressive tone"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un ton", "lemma": "ton", "ipa": "œ̃ tɔ̃", "translation": {"zh": "一种语气", "en": "a tone"}, "emoji": ""},
+      {"text": "agressif", "lemma": "agressif", "ipa": "aɡʁɛsif", "translation": {"zh": "攻击性的", "en": "aggressive"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "séjourner à Paris",
+    "ipa": "seʒuʁne a paʁi",
+    "translation": {"zh": "在巴黎逗留", "en": "to stay in Paris"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "séjourner", "lemma": "séjourner", "ipa": "seʒuʁne", "translation": {"zh": "逗留", "en": "to stay"}, "emoji": ""},
+      {"text": "à Paris", "lemma": "Paris", "ipa": "a paʁi", "translation": {"zh": "在巴黎", "en": "in Paris"}, "emoji": "🗼"}
+    ]
+  },
+  {
+    "text": "un restaurant réputé",
+    "ipa": "œ̃ ʁɛstɔʁɑ̃ ʁepyte",
+    "translation": {"zh": "一家有名的餐厅", "en": "a reputed restaurant"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un restaurant", "lemma": "restaurant", "ipa": "œ̃ ʁɛstɔʁɑ̃", "translation": {"zh": "一家餐厅", "en": "a restaurant"}, "emoji": "🍽️"},
+      {"text": "réputé", "lemma": "réputer", "ipa": "ʁepyte", "translation": {"zh": "有名的", "en": "reputed"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "abuser de sa confiance",
+    "ipa": "abyze də sa kɔ̃fjɑ̃s",
+    "translation": {"zh": "滥用他的信任", "en": "to abuse his trust"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "abuser", "lemma": "abuser", "ipa": "abyze", "translation": {"zh": "滥用", "en": "to abuse"}, "emoji": ""},
+      {"text": "de sa confiance", "lemma": "confiance", "ipa": "də sa kɔ̃fjɑ̃s", "translation": {"zh": "他的信任", "en": "his trust"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un antibiotique",
+    "ipa": "œ̃ ɑ̃tibjɔtik",
+    "translation": {"zh": "一种抗生素", "en": "an antibiotic"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un antibiotique", "lemma": "antibiotique", "ipa": "œ̃ ɑ̃tibjɔtik", "translation": {"zh": "一种抗生素", "en": "an antibiotic"}, "emoji": "💊"}
+    ]
+  },
+  {
+    "text": "un film culte",
+    "ipa": "œ̃ film kylt",
+    "translation": {"zh": "一部经典影片", "en": "a cult film"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un film", "lemma": "film", "ipa": "œ̃ film", "translation": {"zh": "一部电影", "en": "a film"}, "emoji": "🎬"},
+      {"text": "culte", "lemma": "culte", "ipa": "kylt", "translation": {"zh": "经典崇拜", "en": "cult"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une irruption soudaine",
+    "ipa": "yn iʁypsjɔ̃ sudɛn",
+    "translation": {"zh": "一次突然闯入", "en": "a sudden irruption"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une irruption", "lemma": "irruption", "ipa": "yn iʁypsjɔ̃", "translation": {"zh": "一次闯入", "en": "an irruption"}, "emoji": ""},
+      {"text": "soudaine", "lemma": "soudain", "ipa": "sudɛn", "translation": {"zh": "突然的", "en": "sudden"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "côtoyer des artistes",
+    "ipa": "kotwaje de zaʁtist",
+    "translation": {"zh": "与艺术家为伍", "en": "to mingle with artists"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "côtoyer", "lemma": "côtoyer", "ipa": "kotwaje", "translation": {"zh": "结交", "en": "to mingle with"}, "emoji": ""},
+      {"text": "des artistes", "lemma": "artiste", "ipa": "de zaʁtist", "translation": {"zh": "一些艺术家", "en": "artists"}, "emoji": "🎨"}
+    ]
+  },
+  {
+    "text": "débattre d'un sujet",
+    "ipa": "debatʁ dœ̃ syʒɛ",
+    "translation": {"zh": "讨论一个话题", "en": "to debate a topic"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "débattre", "lemma": "débattre", "ipa": "debatʁ", "translation": {"zh": "辩论", "en": "to debate"}, "emoji": ""},
+      {"text": "d'un sujet", "lemma": "sujet", "ipa": "dœ̃ syʒɛ", "translation": {"zh": "一个话题", "en": "a topic"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une bonne excuse",
+    "ipa": "yn bɔn ɛkskyz",
+    "translation": {"zh": "一个好借口", "en": "a good excuse"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une bonne", "lemma": "bon", "ipa": "yn bɔn", "translation": {"zh": "一个好的", "en": "a good"}, "emoji": ""},
+      {"text": "excuse", "lemma": "excuse", "ipa": "ɛkskyz", "translation": {"zh": "借口", "en": "excuse"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "se métamorphoser",
+    "ipa": "sə metamɔʁfoze",
+    "translation": {"zh": "变形", "en": "to transform oneself"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "se métamorphoser", "lemma": "métamorphoser", "ipa": "sə metamɔʁfoze", "translation": {"zh": "彻底变形", "en": "to transform oneself"}, "emoji": "🦋"}
+    ]
+  },
+  {
+    "text": "une nouvelle acquisition",
+    "ipa": "yn nuvɛl akizisjɔ̃",
+    "translation": {"zh": "一项新收购", "en": "a new acquisition"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une nouvelle", "lemma": "nouveau", "ipa": "yn nuvɛl", "translation": {"zh": "一项新的", "en": "a new"}, "emoji": ""},
+      {"text": "acquisition", "lemma": "acquisition", "ipa": "akizisjɔ̃", "translation": {"zh": "收购", "en": "acquisition"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la fidélité",
+    "ipa": "la fidelite",
+    "translation": {"zh": "忠诚", "en": "loyalty"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "la fidélité", "lemma": "fidélité", "ipa": "la fidelite", "translation": {"zh": "忠诚", "en": "loyalty"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une foire aux livres",
+    "ipa": "yn fwaʁ o livʁ",
+    "translation": {"zh": "一场书展", "en": "a book fair"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une foire", "lemma": "foire", "ipa": "yn fwaʁ", "translation": {"zh": "一场展览", "en": "a fair"}, "emoji": ""},
+      {"text": "aux livres", "lemma": "livre", "ipa": "o livʁ", "translation": {"zh": "书类的", "en": "of books"}, "emoji": "📚"}
+    ]
+  },
+  {
+    "text": "synthétiser les données",
+    "ipa": "sɛ̃tetize le dɔne",
+    "translation": {"zh": "综合数据", "en": "to synthesize the data"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "synthétiser", "lemma": "synthétiser", "ipa": "sɛ̃tetize", "translation": {"zh": "综合", "en": "to synthesize"}, "emoji": ""},
+      {"text": "les données", "lemma": "donnée", "ipa": "le dɔne", "translation": {"zh": "数据", "en": "the data"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un point d'appui",
+    "ipa": "œ̃ pwɛ̃ dapɥi",
+    "translation": {"zh": "一个支撑点", "en": "a support point"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un point", "lemma": "point", "ipa": "œ̃ pwɛ̃", "translation": {"zh": "一个点", "en": "a point"}, "emoji": ""},
+      {"text": "d'appui", "lemma": "appui", "ipa": "dapɥi", "translation": {"zh": "支撑", "en": "support"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "procéder avec soin",
+    "ipa": "pʁosede avɛk swɛ̃",
+    "translation": {"zh": "谨慎地进行", "en": "to proceed with care"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "procéder", "lemma": "procéder", "ipa": "pʁosede", "translation": {"zh": "进行", "en": "to proceed"}, "emoji": ""},
+      {"text": "avec soin", "lemma": "soin", "ipa": "avɛk swɛ̃", "translation": {"zh": "用心地", "en": "with care"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une lame de couteau",
+    "ipa": "yn lam də kuto",
+    "translation": {"zh": "一把刀刃", "en": "a knife blade"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "une lame", "lemma": "lame", "ipa": "yn lam", "translation": {"zh": "一片刀刃", "en": "a blade"}, "emoji": "🔪"},
+      {"text": "de couteau", "lemma": "couteau", "ipa": "də kuto", "translation": {"zh": "刀的", "en": "of knife"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une période de transition",
+    "ipa": "yn peʁjɔd də tʁɑ̃zisjɔ̃",
+    "translation": {"zh": "一个过渡时期", "en": "a transition period"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une période", "lemma": "période", "ipa": "yn peʁjɔd", "translation": {"zh": "一个时期", "en": "a period"}, "emoji": ""},
+      {"text": "de transition", "lemma": "transition", "ipa": "də tʁɑ̃zisjɔ̃", "translation": {"zh": "过渡的", "en": "of transition"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la santé mentale",
+    "ipa": "la sɑ̃te mɑ̃tal",
+    "translation": {"zh": "心理健康", "en": "mental health"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la santé", "lemma": "santé", "ipa": "la sɑ̃te", "translation": {"zh": "健康", "en": "health"}, "emoji": ""},
+      {"text": "mentale", "lemma": "mental", "ipa": "mɑ̃tal", "translation": {"zh": "心理的", "en": "mental"}, "emoji": "🧠"}
+    ]
+  },
+  {
+    "text": "se régaler",
+    "ipa": "sə ʁeɡale",
+    "translation": {"zh": "大快朵颐", "en": "to treat oneself"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "se régaler", "lemma": "régaler", "ipa": "sə ʁeɡale", "translation": {"zh": "尽情享用", "en": "to treat oneself"}, "emoji": "😋"}
+    ]
+  },
+  {
+    "text": "envers ses amis",
+    "ipa": "ɑ̃vɛʁ se zami",
+    "translation": {"zh": "对他的朋友们", "en": "towards his friends"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "envers ses amis", "lemma": "ami", "ipa": "ɑ̃vɛʁ se zami", "translation": {"zh": "对他的朋友们", "en": "towards his friends"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "agir discrètement",
+    "ipa": "aʒiʁ diskʁɛtmɑ̃",
+    "translation": {"zh": "低调行事", "en": "to act discreetly"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "agir", "lemma": "agir", "ipa": "aʒiʁ", "translation": {"zh": "行动", "en": "to act"}, "emoji": ""},
+      {"text": "discrètement", "lemma": "discrètement", "ipa": "diskʁɛtmɑ̃", "translation": {"zh": "低调地", "en": "discreetly"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "une veste en cuir",
+    "ipa": "yn vɛst ɑ̃ kɥiʁ",
+    "translation": {"zh": "一件皮夹克", "en": "a leather jacket"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une veste", "lemma": "veste", "ipa": "yn vɛst", "translation": {"zh": "一件外套", "en": "a jacket"}, "emoji": "🧥"},
+      {"text": "en cuir", "lemma": "cuir", "ipa": "ɑ̃ kɥiʁ", "translation": {"zh": "皮革制的", "en": "leather"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le bien-être",
+    "ipa": "lə bjɛ̃ nɛtʁ",
+    "translation": {"zh": "幸福感", "en": "well-being"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le bien-être", "lemma": "bien-être", "ipa": "lə bjɛ̃ nɛtʁ", "translation": {"zh": "幸福感", "en": "well-being"}, "emoji": "😌"}
+    ]
+  },
+  {
+    "text": "un abri de fortune",
+    "ipa": "œ̃ nabʁi də fɔʁtyn",
+    "translation": {"zh": "一个临时避难所", "en": "a makeshift shelter"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "un abri", "lemma": "abri", "ipa": "œ̃ nabʁi", "translation": {"zh": "一个避难所", "en": "a shelter"}, "emoji": "⛺"},
+      {"text": "de fortune", "lemma": "fortune", "ipa": "də fɔʁtyn", "translation": {"zh": "临时的", "en": "makeshift"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "un parfumeur célèbre",
+    "ipa": "œ̃ paʁfymœʁ selɛbʁ",
+    "translation": {"zh": "一位著名调香师", "en": "a famous perfumer"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "un parfumeur", "lemma": "parfumeur", "ipa": "œ̃ paʁfymœʁ", "translation": {"zh": "一位调香师", "en": "a perfumer"}, "emoji": ""},
+      {"text": "célèbre", "lemma": "célèbre", "ipa": "selɛbʁ", "translation": {"zh": "著名的", "en": "famous"}, "emoji": "⭐"}
+    ]
+  }
+]

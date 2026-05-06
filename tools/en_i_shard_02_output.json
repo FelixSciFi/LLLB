@@ -1,0 +1,183 @@
+[
+  {
+    "input_word": "ingredient",
+    "entries": [
+      {"text": "ingredient", "ipa": "/ɪnˈɡriːdiənt/", "cefr": "B1", "zh": "食材", "emoji": "🧂"}
+    ]
+  },
+  {
+    "input_word": "initial",
+    "entries": [
+      {"text": "initial", "ipa": "/ɪˈnɪʃəl/", "cefr": "B2", "zh": "最初的", "emoji": "1️⃣"}
+    ]
+  },
+  {
+    "input_word": "initially",
+    "entries": [
+      {"text": "initially", "ipa": "/ɪˈnɪʃəli/", "cefr": "B2", "zh": "起初", "emoji": "⏮️"}
+    ]
+  },
+  {
+    "input_word": "initiative",
+    "entries": [
+      {"text": "initiative", "ipa": "/ɪˈnɪʃətɪv/", "cefr": "B2", "zh": "主动性", "emoji": "🚀"}
+    ]
+  },
+  {
+    "input_word": "injure",
+    "entries": [
+      {"text": "injure", "ipa": "/ˈɪndʒər/", "cefr": "B1", "zh": "伤害", "emoji": "🤕"}
+    ]
+  },
+  {
+    "input_word": "injured",
+    "entries": [
+      {"text": "injured", "ipa": "/ˈɪndʒərd/", "cefr": "B1", "zh": "受伤的", "emoji": "🤕"}
+    ]
+  },
+  {
+    "input_word": "injury",
+    "entries": [
+      {"text": "injury", "ipa": "/ˈɪndʒəri/", "cefr": "A2", "zh": "伤害", "emoji": "🩹"}
+    ]
+  },
+  {
+    "input_word": "inner",
+    "entries": [
+      {"text": "inner", "ipa": "/ˈɪnər/", "cefr": "B2", "zh": "内部的", "emoji": "🔘"}
+    ]
+  },
+  {
+    "input_word": "innocent",
+    "entries": [
+      {"text": "innocent", "ipa": "/ˈɪnəsənt/", "cefr": "B1", "zh": "无辜的", "emoji": "😇"}
+    ]
+  },
+  {
+    "input_word": "inquiry",
+    "entries": [
+      {"text": "inquiry", "ipa": "/ɪnˈkwaɪəri/", "cefr": "B2", "zh": "询问", "emoji": "❓"}
+    ]
+  },
+  {
+    "input_word": "insect",
+    "entries": [
+      {"text": "insect", "ipa": "/ˈɪnsɛkt/", "cefr": "A2", "zh": "昆虫", "emoji": "🐛"}
+    ]
+  },
+  {
+    "input_word": "inside",
+    "entries": [
+      {"text": "inside", "ipa": "/ˈɪnsaɪd/", "cefr": "A2", "zh": "内部", "emoji": "🏠"}
+    ]
+  },
+  {
+    "input_word": "insight",
+    "entries": [
+      {"text": "insight", "ipa": "/ˈɪnsaɪt/", "cefr": "B2", "zh": "洞察力", "emoji": "💡"}
+    ]
+  },
+  {
+    "input_word": "insist",
+    "entries": [
+      {"text": "insist", "ipa": "/ɪnˈsɪst/", "cefr": "B2", "zh": "坚持", "emoji": "✊"}
+    ]
+  },
+  {
+    "input_word": "inspire",
+    "entries": [
+      {"text": "inspire", "ipa": "/ɪnˈspaɪər/", "cefr": "B2", "zh": "激励", "emoji": "✨"}
+    ]
+  },
+  {
+    "input_word": "install",
+    "entries": [
+      {"text": "install", "ipa": "/ɪnˈstɔːl/", "cefr": "B2", "zh": "安装", "emoji": "🔧"}
+    ]
+  },
+  {
+    "input_word": "instance",
+    "entries": [
+      {"text": "instance", "ipa": "/ˈɪnstəns/", "cefr": "B2", "zh": "例子", "emoji": "📋"}
+    ]
+  },
+  {
+    "input_word": "instead",
+    "entries": [
+      {"text": "instead", "ipa": "/ɪnˈstɛd/", "cefr": "A2", "zh": "反而", "emoji": "🔄"}
+    ]
+  },
+  {
+    "input_word": "institute",
+    "entries": [
+      {"text": "institute", "ipa": "/ˈɪnstɪtuːt/", "cefr": "B2", "zh": "机构", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_word": "institution",
+    "entries": [
+      {"text": "institution", "ipa": "/ˌɪnstɪˈtuːʃən/", "cefr": "B2", "zh": "机构", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_word": "instruction",
+    "entries": [
+      {"text": "instruction", "ipa": "/ɪnˈstrʌkʃən/", "cefr": "A2", "zh": "说明", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_word": "instructor",
+    "entries": [
+      {"text": "instructor", "ipa": "/ɪnˈstrʌktər/", "cefr": "A2", "zh": "教练", "emoji": "👨‍🏫"}
+    ]
+  },
+  {
+    "input_word": "instrument",
+    "entries": [
+      {"text": "instrument", "ipa": "/ˈɪnstrəmənt/", "cefr": "A2", "zh": "乐器", "emoji": "🎸"},
+      {"text": "instrument", "ipa": "/ˈɪnstrəmənt/", "cefr": "A2", "zh": "仪器", "emoji": "🔬"}
+    ]
+  },
+  {
+    "input_word": "insurance",
+    "entries": [
+      {"text": "insurance", "ipa": "/ɪnˈʃʊərəns/", "cefr": "B2", "zh": "保险", "emoji": "🛡️"}
+    ]
+  },
+  {
+    "input_word": "intelligence",
+    "entries": [
+      {"text": "intelligence", "ipa": "/ɪnˈtɛlɪdʒəns/", "cefr": "B1", "zh": "智力", "emoji": "🧠"}
+    ]
+  },
+  {
+    "input_word": "intelligent",
+    "entries": [
+      {"text": "intelligent", "ipa": "/ɪnˈtɛlɪdʒənt/", "cefr": "A2", "zh": "聪明的", "emoji": "🧠"}
+    ]
+  },
+  {
+    "input_word": "intend",
+    "entries": [
+      {"text": "intend", "ipa": "/ɪnˈtɛnd/", "cefr": "B1", "zh": "打算", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_word": "intended",
+    "entries": [
+      {"text": "intended", "ipa": "/ɪnˈtɛndɪd/", "cefr": "B2", "zh": "预期的", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_word": "intense",
+    "entries": [
+      {"text": "intense", "ipa": "/ɪnˈtɛns/", "cefr": "B2", "zh": "强烈的", "emoji": "🔥"}
+    ]
+  },
+  {
+    "input_word": "intention",
+    "entries": [
+      {"text": "intention", "ipa": "/ɪnˈtɛnʃən/", "cefr": "B1", "zh": "意图", "emoji": "💭"}
+    ]
+  }
+]

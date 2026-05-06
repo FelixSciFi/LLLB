@@ -1,0 +1,182 @@
+[
+  {
+    "input_text": "交叉",
+    "entries": [
+      {"text": "交叉", "pinyin": "jiāo chā", "en": "intersect; cross", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "交代",
+    "entries": [
+      {"text": "交代", "pinyin": "jiāo dài", "en": "hand over; explain", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "交涉",
+    "entries": [
+      {"text": "交涉", "pinyin": "jiāo shè", "en": "negotiate; deal with", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "交易",
+    "entries": [
+      {"text": "交易", "pinyin": "jiāo yì", "en": "trade; transaction", "emoji": "💱"}
+    ]
+  },
+  {
+    "input_text": "娇气",
+    "entries": [
+      {"text": "娇气", "pinyin": "jiāo qì", "en": "delicate; spoiled", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "焦点",
+    "entries": [
+      {"text": "焦点", "pinyin": "jiāo diǎn", "en": "focal point; focus", "emoji": "🎯"}
+    ]
+  },
+  {
+    "input_text": "焦急",
+    "entries": [
+      {"text": "焦急", "pinyin": "jiāo jí", "en": "anxious; worried", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "角落",
+    "entries": [
+      {"text": "角落", "pinyin": "jiǎo luò", "en": "corner; nook", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "侥幸",
+    "entries": [
+      {"text": "侥幸", "pinyin": "jiǎo xìng", "en": "luckily by chance", "emoji": "🍀"}
+    ]
+  },
+  {
+    "input_text": "搅拌",
+    "entries": [
+      {"text": "搅拌", "pinyin": "jiǎo bàn", "en": "stir; mix", "emoji": "🥄"}
+    ]
+  },
+  {
+    "input_text": "缴纳",
+    "entries": [
+      {"text": "缴纳", "pinyin": "jiǎo nà", "en": "pay; submit fees", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "较量",
+    "entries": [
+      {"text": "较量", "pinyin": "jiào liàng", "en": "contest; compete", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "教养",
+    "entries": [
+      {"text": "教养", "pinyin": "jiào yǎng", "en": "upbringing; manners", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "阶层",
+    "entries": [
+      {"text": "阶层", "pinyin": "jiē céng", "en": "social class; stratum", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "皆",
+    "entries": [
+      {"text": "皆", "pinyin": "jiē", "en": "all; everyone", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "接连",
+    "entries": [
+      {"text": "接连", "pinyin": "jiē lián", "en": "in succession", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "揭露",
+    "entries": [
+      {"text": "揭露", "pinyin": "jiē lù", "en": "expose; reveal", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "节制",
+    "entries": [
+      {"text": "节制", "pinyin": "jié zhì", "en": "restrain; moderate", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "节奏",
+    "entries": [
+      {"text": "节奏", "pinyin": "jié zòu", "en": "rhythm; tempo", "emoji": "🎵"}
+    ]
+  },
+  {
+    "input_text": "杰出",
+    "entries": [
+      {"text": "杰出", "pinyin": "jié chū", "en": "outstanding; excellent", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "结晶",
+    "entries": [
+      {"text": "结晶", "pinyin": "jié jīng", "en": "crystal; crystallize", "emoji": "💎"}
+    ]
+  },
+  {
+    "input_text": "结局",
+    "entries": [
+      {"text": "结局", "pinyin": "jié jú", "en": "outcome; ending", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "结算",
+    "entries": [
+      {"text": "结算", "pinyin": "jié suàn", "en": "settle accounts", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "截止",
+    "entries": [
+      {"text": "截止", "pinyin": "jié zhǐ", "en": "deadline; cut off", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "截至",
+    "entries": [
+      {"text": "截至", "pinyin": "jié zhì", "en": "up to; as of", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "竭尽全力",
+    "entries": [
+      {"text": "竭尽全力", "pinyin": "jié jìn quán lì", "en": "do one's utmost", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "解除",
+    "entries": [
+      {"text": "解除", "pinyin": "jiě chú", "en": "remove; relieve", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "解放",
+    "entries": [
+      {"text": "解放", "pinyin": "jiě fàng", "en": "liberate; free", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "解雇",
+    "entries": [
+      {"text": "解雇", "pinyin": "jiě gù", "en": "dismiss; fire", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "解剖",
+    "entries": [
+      {"text": "解剖", "pinyin": "jiě pōu", "en": "dissect; anatomy", "emoji": ""}
+    ]
+  }
+]

@@ -1,0 +1,318 @@
+[
+  {
+    "input_text": "遇到",
+    "entries": [
+      {
+        "text": "遇到",
+        "pinyin": "yù dào",
+        "en": "encounter, run into",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "元",
+    "entries": [
+      {
+        "text": "元",
+        "pinyin": "yuán",
+        "en": "yuan (currency)",
+        "emoji": "💴"
+      }
+    ]
+  },
+  {
+    "input_text": "愿意",
+    "entries": [
+      {
+        "text": "愿意",
+        "pinyin": "yuàn yì",
+        "en": "willing, want to",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "月亮",
+    "entries": [
+      {
+        "text": "月亮",
+        "pinyin": "yuè liang",
+        "en": "moon",
+        "emoji": "🌕"
+      }
+    ]
+  },
+  {
+    "input_text": "越",
+    "entries": []
+  },
+  {
+    "input_text": "站",
+    "entries": [
+      {
+        "text": "站",
+        "pinyin": "zhàn",
+        "en": "stand; station",
+        "emoji": "🚉"
+      }
+    ]
+  },
+  {
+    "input_text": "张",
+    "entries": []
+  },
+  {
+    "input_text": "长",
+    "entries": [
+      {
+        "text": "长",
+        "pinyin": "cháng",
+        "en": "long",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "着急",
+    "entries": [
+      {
+        "text": "着急",
+        "pinyin": "zháo jí",
+        "en": "anxious, worried",
+        "emoji": "😰"
+      }
+    ]
+  },
+  {
+    "input_text": "照顾",
+    "entries": [
+      {
+        "text": "照顾",
+        "pinyin": "zhào gù",
+        "en": "take care of",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "照片",
+    "entries": [
+      {
+        "text": "照片",
+        "pinyin": "zhào piàn",
+        "en": "photo, picture",
+        "emoji": "🖼️"
+      }
+    ]
+  },
+  {
+    "input_text": "照相机",
+    "entries": [
+      {
+        "text": "照相机",
+        "pinyin": "zhào xiàng jī",
+        "en": "camera",
+        "emoji": "📷"
+      }
+    ]
+  },
+  {
+    "input_text": "只",
+    "entries": [
+      {
+        "text": "只",
+        "pinyin": "zhǐ",
+        "en": "only, just",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "只有",
+    "entries": [
+      {
+        "text": "只有",
+        "pinyin": "zhǐ yǒu",
+        "en": "only if, only when",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "才",
+    "entries": [
+      {
+        "text": "才",
+        "pinyin": "cái",
+        "en": "only then, just",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "中间",
+    "entries": [
+      {
+        "text": "中间",
+        "pinyin": "zhōng jiān",
+        "en": "middle, between",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "中文",
+    "entries": [
+      {
+        "text": "中文",
+        "pinyin": "zhōng wén",
+        "en": "Chinese language",
+        "emoji": "🇨🇳"
+      }
+    ]
+  },
+  {
+    "input_text": "终于",
+    "entries": [
+      {
+        "text": "终于",
+        "pinyin": "zhōng yú",
+        "en": "finally, at last",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "种",
+    "entries": [
+      {
+        "text": "种",
+        "pinyin": "zhǒng",
+        "en": "kind, type, sort",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "重要",
+    "entries": [
+      {
+        "text": "重要",
+        "pinyin": "zhòng yào",
+        "en": "important",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "周末",
+    "entries": [
+      {
+        "text": "周末",
+        "pinyin": "zhōu mò",
+        "en": "weekend",
+        "emoji": "🗓️"
+      }
+    ]
+  },
+  {
+    "input_text": "主要",
+    "entries": [
+      {
+        "text": "主要",
+        "pinyin": "zhǔ yào",
+        "en": "main, primary",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "注意",
+    "entries": [
+      {
+        "text": "注意",
+        "pinyin": "zhù yì",
+        "en": "pay attention, be careful",
+        "emoji": "⚠️"
+      }
+    ]
+  },
+  {
+    "input_text": "自己",
+    "entries": [
+      {
+        "text": "自己",
+        "pinyin": "zì jǐ",
+        "en": "oneself, self",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "自行车",
+    "entries": [
+      {
+        "text": "自行车",
+        "pinyin": "zì xíng chē",
+        "en": "bicycle",
+        "emoji": "🚲"
+      }
+    ]
+  },
+  {
+    "input_text": "总是",
+    "entries": [
+      {
+        "text": "总是",
+        "pinyin": "zǒng shì",
+        "en": "always",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "嘴",
+    "entries": [
+      {
+        "text": "嘴",
+        "pinyin": "zuǐ",
+        "en": "mouth",
+        "emoji": "👄"
+      }
+    ]
+  },
+  {
+    "input_text": "最后",
+    "entries": [
+      {
+        "text": "最后",
+        "pinyin": "zuì hòu",
+        "en": "last, final",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "最近",
+    "entries": [
+      {
+        "text": "最近",
+        "pinyin": "zuì jìn",
+        "en": "recently, lately",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_text": "作业",
+    "entries": [
+      {
+        "text": "作业",
+        "pinyin": "zuò yè",
+        "en": "homework, assignment",
+        "emoji": "📝"
+      }
+    ]
+  }
+]

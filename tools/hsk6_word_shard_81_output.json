@@ -1,0 +1,182 @@
+[
+  {
+    "input_text": "专利",
+    "entries": [
+      {"text": "专利", "pinyin": "zhuān lì", "en": "patent", "emoji": "📜"}
+    ]
+  },
+  {
+    "input_text": "专题",
+    "entries": [
+      {"text": "专题", "pinyin": "zhuān tí", "en": "special topic", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "砖",
+    "entries": [
+      {"text": "砖", "pinyin": "zhuān", "en": "brick", "emoji": "🧱"}
+    ]
+  },
+  {
+    "input_text": "转达",
+    "entries": [
+      {"text": "转达", "pinyin": "zhuǎn dá", "en": "convey; pass on", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "转让",
+    "entries": [
+      {"text": "转让", "pinyin": "zhuǎn ràng", "en": "transfer; assign", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "转移",
+    "entries": [
+      {"text": "转移", "pinyin": "zhuǎn yí", "en": "transfer; shift", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "转折",
+    "entries": [
+      {"text": "转折", "pinyin": "zhuǎn zhé", "en": "turning point", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "传记",
+    "entries": [
+      {"text": "传记", "pinyin": "zhuàn jì", "en": "biography", "emoji": "📖"}
+    ]
+  },
+  {
+    "input_text": "庄稼",
+    "entries": [
+      {"text": "庄稼", "pinyin": "zhuāng jia", "en": "crops", "emoji": "🌾"}
+    ]
+  },
+  {
+    "input_text": "庄严",
+    "entries": [
+      {"text": "庄严", "pinyin": "zhuāng yán", "en": "solemn; dignified", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "庄重",
+    "entries": [
+      {"text": "庄重", "pinyin": "zhuāng zhòng", "en": "serious; stately", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "装备",
+    "entries": [
+      {"text": "装备", "pinyin": "zhuāng bèi", "en": "equipment; equip", "emoji": "⚙️"}
+    ]
+  },
+  {
+    "input_text": "装卸",
+    "entries": [
+      {"text": "装卸", "pinyin": "zhuāng xiè", "en": "load and unload", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "壮观",
+    "entries": [
+      {"text": "壮观", "pinyin": "zhuàng guān", "en": "spectacular; grand", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "壮丽",
+    "entries": [
+      {"text": "壮丽", "pinyin": "zhuàng lì", "en": "magnificent; splendid", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "壮烈",
+    "entries": [
+      {"text": "壮烈", "pinyin": "zhuàng liè", "en": "heroic; brave", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "幢",
+    "entries": [
+      {"text": "幢", "pinyin": "zhuàng", "en": "building (measure word)", "emoji": "🏢"}
+    ]
+  },
+  {
+    "input_text": "追悼",
+    "entries": [
+      {"text": "追悼", "pinyin": "zhuī dào", "en": "mourn; commemorate", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "追究",
+    "entries": [
+      {"text": "追究", "pinyin": "zhuī jiū", "en": "investigate; look into", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "坠",
+    "entries": [
+      {"text": "坠", "pinyin": "zhuì", "en": "fall; drop", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "准则",
+    "entries": [
+      {"text": "准则", "pinyin": "zhǔn zé", "en": "standard; norm", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "卓越",
+    "entries": [
+      {"text": "卓越", "pinyin": "zhuó yuè", "en": "outstanding; excellent", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "着手",
+    "entries": [
+      {"text": "着手", "pinyin": "zhuó shǒu", "en": "start; set about", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "着想",
+    "entries": [
+      {"text": "着想", "pinyin": "zhuó xiǎng", "en": "consider; think of", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "着重",
+    "entries": [
+      {"text": "着重", "pinyin": "zhuó zhòng", "en": "emphasize; stress", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "琢磨",
+    "entries": [
+      {"text": "琢磨", "pinyin": "zuó mo", "en": "ponder; think over", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "姿态",
+    "entries": [
+      {"text": "姿态", "pinyin": "zī tài", "en": "posture; attitude", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "资本",
+    "entries": [
+      {"text": "资本", "pinyin": "zī běn", "en": "capital", "emoji": "💰"}
+    ]
+  },
+  {
+    "input_text": "资产",
+    "entries": [
+      {"text": "资产", "pinyin": "zī chǎn", "en": "assets; property", "emoji": ""}
+    ]
+  },
+  {
+    "input_text": "资深",
+    "entries": [
+      {"text": "资深", "pinyin": "zī shēn", "en": "senior; experienced", "emoji": ""}
+    ]
+  }
+]

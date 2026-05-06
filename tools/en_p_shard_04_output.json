@@ -1,0 +1,189 @@
+[
+  {
+    "input_word": "polite",
+    "entries": [
+      {"text": "polite", "ipa": "/pəˈlaɪt/", "cefr": "A2", "zh": "有礼貌的", "emoji": "🤝"}
+    ]
+  },
+  {
+    "input_word": "political",
+    "entries": [
+      {"text": "political", "ipa": "/pəˈlɪtɪkəl/", "cefr": "B1", "zh": "政治的", "emoji": "🏛️"}
+    ]
+  },
+  {
+    "input_word": "politician",
+    "entries": [
+      {"text": "politician", "ipa": "/ˌpɒlɪˈtɪʃən/", "cefr": "B1", "zh": "政客", "emoji": "👔"}
+    ]
+  },
+  {
+    "input_word": "politics",
+    "entries": [
+      {"text": "politics", "ipa": "/ˈpɒlɪtɪks/", "cefr": "B1", "zh": "政治", "emoji": "🗳️"}
+    ]
+  },
+  {
+    "input_word": "pollution",
+    "entries": [
+      {"text": "pollution", "ipa": "/pəˈluːʃən/", "cefr": "A2", "zh": "污染", "emoji": "🏭"}
+    ]
+  },
+  {
+    "input_word": "pool",
+    "entries": [
+      {"text": "pool", "ipa": "/puːl/", "cefr": "A1", "zh": "游泳池", "emoji": "🏊"},
+      {"text": "pool", "ipa": "/puːl/", "cefr": "A1", "zh": "水塘", "emoji": "💧"}
+    ]
+  },
+  {
+    "input_word": "poor",
+    "entries": [
+      {"text": "poor", "ipa": "/pɔːr/", "cefr": "A1", "zh": "贫穷的", "emoji": "💸"}
+    ]
+  },
+  {
+    "input_word": "pop",
+    "entries": [
+      {"text": "pop", "ipa": "/pɒp/", "cefr": "A2", "zh": "流行音乐", "emoji": "🎵"},
+      {"text": "pop", "ipa": "/pɒp/", "cefr": "A2", "zh": "爆破声", "emoji": "💥"}
+    ]
+  },
+  {
+    "input_word": "popular",
+    "entries": [
+      {"text": "popular", "ipa": "/ˈpɒpjələr/", "cefr": "A1", "zh": "受欢迎的", "emoji": "⭐"}
+    ]
+  },
+  {
+    "input_word": "popularity",
+    "entries": [
+      {"text": "popularity", "ipa": "/ˌpɒpjəˈlærɪti/", "cefr": "B2", "zh": "知名度", "emoji": "📈"}
+    ]
+  },
+  {
+    "input_word": "population",
+    "entries": [
+      {"text": "population", "ipa": "/ˌpɒpjəˈleɪʃən/", "cefr": "A2", "zh": "人口", "emoji": "👥"}
+    ]
+  },
+  {
+    "input_word": "port",
+    "entries": [
+      {"text": "port", "ipa": "/pɔːrt/", "cefr": "B1", "zh": "港口", "emoji": "⚓"}
+    ]
+  },
+  {
+    "input_word": "portrait",
+    "entries": [
+      {"text": "portrait", "ipa": "/ˈpɔːrtrɪt/", "cefr": "B1", "zh": "肖像", "emoji": "🖼️"}
+    ]
+  },
+  {
+    "input_word": "pose",
+    "entries": [
+      {"text": "pose", "ipa": "/poʊz/", "cefr": "B2", "zh": "摆姿势", "emoji": "🧍"},
+      {"text": "pose", "ipa": "/poʊz/", "cefr": "B2", "zh": "构成威胁", "emoji": "⚠️"}
+    ]
+  },
+  {
+    "input_word": "position",
+    "entries": [
+      {"text": "position", "ipa": "/pəˈzɪʃən/", "cefr": "A2", "zh": "位置", "emoji": "📍"},
+      {"text": "position", "ipa": "/pəˈzɪʃən/", "cefr": "A2", "zh": "职位", "emoji": "💼"}
+    ]
+  },
+  {
+    "input_word": "positive",
+    "entries": [
+      {"text": "positive", "ipa": "/ˈpɒzɪtɪv/", "cefr": "A1", "zh": "积极的", "emoji": "✅"}
+    ]
+  },
+  {
+    "input_word": "possess",
+    "entries": [
+      {"text": "possess", "ipa": "/pəˈzɛs/", "cefr": "B2", "zh": "拥有", "emoji": "🤲"}
+    ]
+  },
+  {
+    "input_word": "possession",
+    "entries": [
+      {"text": "possession", "ipa": "/pəˈzɛʃən/", "cefr": "A2", "zh": "财产", "emoji": "🏠"}
+    ]
+  },
+  {
+    "input_word": "possibility",
+    "entries": [
+      {"text": "possibility", "ipa": "/ˌpɒsɪˈbɪlɪti/", "cefr": "A2", "zh": "可能性", "emoji": "🔮"}
+    ]
+  },
+  {
+    "input_word": "possible",
+    "entries": [
+      {"text": "possible", "ipa": "/ˈpɒsɪbəl/", "cefr": "A1", "zh": "可能的", "emoji": "💡"}
+    ]
+  },
+  {
+    "input_word": "possibly",
+    "entries": [
+      {"text": "possibly", "ipa": "/ˈpɒsɪbli/", "cefr": "B1", "zh": "也许", "emoji": "🤔"}
+    ]
+  },
+  {
+    "input_word": "post",
+    "entries": [
+      {"text": "post", "ipa": "/poʊst/", "cefr": "A1", "zh": "邮件", "emoji": "📬"},
+      {"text": "post", "ipa": "/poʊst/", "cefr": "A1", "zh": "帖子", "emoji": "📝"},
+      {"text": "post", "ipa": "/poʊst/", "cefr": "A1", "zh": "职位", "emoji": "💼"}
+    ]
+  },
+  {
+    "input_word": "poster",
+    "entries": [
+      {"text": "poster", "ipa": "/ˈpoʊstər/", "cefr": "A2", "zh": "海报", "emoji": "🪧"}
+    ]
+  },
+  {
+    "input_word": "pot",
+    "entries": [
+      {"text": "pot", "ipa": "/pɒt/", "cefr": "B1", "zh": "锅", "emoji": "🍲"}
+    ]
+  },
+  {
+    "input_word": "potato",
+    "entries": [
+      {"text": "potato", "ipa": "/pəˈteɪtoʊ/", "cefr": "A1", "zh": "土豆", "emoji": "🥔"}
+    ]
+  },
+  {
+    "input_word": "potential",
+    "entries": [
+      {"text": "potential", "ipa": "/pəˈtɛnʃəl/", "cefr": "B2", "zh": "潜力", "emoji": "🌱"}
+    ]
+  },
+  {
+    "input_word": "pound",
+    "entries": [
+      {"text": "pound", "ipa": "/paʊnd/", "cefr": "A1", "zh": "英镑", "emoji": "💷"},
+      {"text": "pound", "ipa": "/paʊnd/", "cefr": "A1", "zh": "磅", "emoji": "⚖️"}
+    ]
+  },
+  {
+    "input_word": "pour",
+    "entries": [
+      {"text": "pour", "ipa": "/pɔːr/", "cefr": "B1", "zh": "倒入", "emoji": "🫗"}
+    ]
+  },
+  {
+    "input_word": "poverty",
+    "entries": [
+      {"text": "poverty", "ipa": "/ˈpɒvərti/", "cefr": "B1", "zh": "贫困", "emoji": "😔"}
+    ]
+  },
+  {
+    "input_word": "powder",
+    "entries": [
+      {"text": "powder", "ipa": "/ˈpaʊdər/", "cefr": "B1", "zh": "粉末", "emoji": "🌫️"}
+    ]
+  }
+]

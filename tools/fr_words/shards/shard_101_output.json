@@ -1,0 +1,273 @@
+[
+  {
+    "text": "le couvent",
+    "ipa": "lə ku.vɑ̃",
+    "translation": {"zh": "修道院", "en": "the convent"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le couvent", "lemma": "couvent", "ipa": "lə ku.vɑ̃", "translation": {"zh": "修道院", "en": "convent"}, "emoji": "⛪"}
+    ]
+  },
+  {
+    "text": "sensiblement",
+    "ipa": "sɑ̃.siblə.mɑ̃",
+    "translation": {"zh": "明显地", "en": "noticeably"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "sensiblement", "lemma": "sensiblement", "ipa": "sɑ̃.siblə.mɑ̃", "translation": {"zh": "明显地", "en": "noticeably"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "C'est terrifiant.",
+    "ipa": "sɛ tɛ.ʁi.fjɑ̃",
+    "translation": {"zh": "这很恐怖。", "en": "It's terrifying."},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "C'est terrifiant", "lemma": "terrifiant", "ipa": "sɛ tɛ.ʁi.fjɑ̃", "translation": {"zh": "这很恐怖", "en": "it's terrifying"}, "emoji": "😱"}
+    ]
+  },
+  {
+    "text": "innombrable",
+    "ipa": "i.nɔ̃.bʁabl",
+    "translation": {"zh": "无数的", "en": "countless"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "innombrable", "lemma": "innombrable", "ipa": "i.nɔ̃.bʁabl", "translation": {"zh": "无数的", "en": "countless"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le remords",
+    "ipa": "lə ʁə.mɔʁ",
+    "translation": {"zh": "悔恨", "en": "remorse"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le remords", "lemma": "remords", "ipa": "lə ʁə.mɔʁ", "translation": {"zh": "悔恨", "en": "remorse"}, "emoji": "😔"}
+    ]
+  },
+  {
+    "text": "désespérément",
+    "ipa": "de.zɛs.pe.ʁe.mɑ̃",
+    "translation": {"zh": "拼命地", "en": "desperately"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "désespérément", "lemma": "désespérément", "ipa": "de.zɛs.pe.ʁe.mɑ̃", "translation": {"zh": "拼命地", "en": "desperately"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le vainqueur",
+    "ipa": "lə vɛ̃.kœʁ",
+    "translation": {"zh": "胜者", "en": "the winner"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le vainqueur", "lemma": "vainqueur", "ipa": "lə vɛ̃.kœʁ", "translation": {"zh": "胜者", "en": "winner"}, "emoji": "🏆"}
+    ]
+  },
+  {
+    "text": "la mythologie grecque",
+    "ipa": "la mi.tɔ.lɔ.ʒi ɡʁɛk",
+    "translation": {"zh": "希腊神话", "en": "Greek mythology"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "la mythologie", "lemma": "mythologie", "ipa": "la mi.tɔ.lɔ.ʒi", "translation": {"zh": "神话", "en": "mythology"}, "emoji": ""},
+      {"text": "grecque", "lemma": "grecque", "ipa": "ɡʁɛk", "translation": {"zh": "希腊的", "en": "Greek"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "l'encadrement",
+    "ipa": "lɑ̃.ka.dʁə.mɑ̃",
+    "translation": {"zh": "管理框架", "en": "supervision"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'encadrement", "lemma": "encadrement", "ipa": "lɑ̃.ka.dʁə.mɑ̃", "translation": {"zh": "管理框架", "en": "supervision"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "accélérer",
+    "ipa": "ak.se.le.ʁe",
+    "translation": {"zh": "加速", "en": "to accelerate"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "accélérer", "lemma": "accélérer", "ipa": "ak.se.le.ʁe", "translation": {"zh": "加速", "en": "accelerate"}, "emoji": "⚡"}
+    ]
+  },
+  {
+    "text": "percer",
+    "ipa": "pɛʁ.se",
+    "translation": {"zh": "穿透", "en": "to pierce"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "percer", "lemma": "percer", "ipa": "pɛʁ.se", "translation": {"zh": "穿透", "en": "pierce"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "naïf",
+    "ipa": "na.if",
+    "translation": {"zh": "天真的", "en": "naive"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "naïf", "lemma": "naïf", "ipa": "na.if", "translation": {"zh": "天真的", "en": "naive"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "repenser",
+    "ipa": "ʁə.pɑ̃.se",
+    "translation": {"zh": "重新思考", "en": "to rethink"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "repenser", "lemma": "repenser", "ipa": "ʁə.pɑ̃.se", "translation": {"zh": "重新思考", "en": "rethink"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le vice-président",
+    "ipa": "lə vis.pʁe.zi.dɑ̃",
+    "translation": {"zh": "副总统", "en": "the vice president"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le vice-président", "lemma": "vice-président", "ipa": "lə vis.pʁe.zi.dɑ̃", "translation": {"zh": "副总统", "en": "vice president"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la contradiction",
+    "ipa": "la kɔ̃.tʁa.dik.sjɔ̃",
+    "translation": {"zh": "矛盾", "en": "the contradiction"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la contradiction", "lemma": "contradiction", "ipa": "la kɔ̃.tʁa.dik.sjɔ̃", "translation": {"zh": "矛盾", "en": "contradiction"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le saut",
+    "ipa": "lə so",
+    "translation": {"zh": "跳跃", "en": "the jump"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le saut", "lemma": "saut", "ipa": "lə so", "translation": {"zh": "跳跃", "en": "jump"}, "emoji": "🦘"}
+    ]
+  },
+  {
+    "text": "l'exigence",
+    "ipa": "lɛɡ.zi.ʒɑ̃s",
+    "translation": {"zh": "要求", "en": "the demand"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'exigence", "lemma": "exigence", "ipa": "lɛɡ.zi.ʒɑ̃s", "translation": {"zh": "要求", "en": "demand"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "dorer",
+    "ipa": "dɔ.ʁe",
+    "translation": {"zh": "镀金；烤至金黄", "en": "to brown / to gild"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "dorer", "lemma": "dorer", "ipa": "dɔ.ʁe", "translation": {"zh": "烤至金黄", "en": "to brown"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "le cortège",
+    "ipa": "lə kɔʁ.tɛʒ",
+    "translation": {"zh": "队列；行列", "en": "the procession"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le cortège", "lemma": "cortège", "ipa": "lə kɔʁ.tɛʒ", "translation": {"zh": "游行队伍", "en": "procession"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "terriblement",
+    "ipa": "tɛ.ʁiblə.mɑ̃",
+    "translation": {"zh": "非常；可怕地", "en": "terribly"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "terriblement", "lemma": "terriblement", "ipa": "tɛ.ʁiblə.mɑ̃", "translation": {"zh": "非常地", "en": "terribly"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "déplorer",
+    "ipa": "de.plɔ.ʁe",
+    "translation": {"zh": "痛惜", "en": "to deplore"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "déplorer", "lemma": "déplorer", "ipa": "de.plɔ.ʁe", "translation": {"zh": "痛惜", "en": "deplore"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "haïr",
+    "ipa": "a.iʁ",
+    "translation": {"zh": "憎恨", "en": "to hate"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "haïr", "lemma": "haïr", "ipa": "a.iʁ", "translation": {"zh": "憎恨", "en": "hate"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "l'index",
+    "ipa": "lɛ̃.dɛks",
+    "translation": {"zh": "食指；索引", "en": "the index finger / index"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'index", "lemma": "index", "ipa": "lɛ̃.dɛks", "translation": {"zh": "食指", "en": "index finger"}, "emoji": "☝️"}
+    ]
+  },
+  {
+    "text": "luxueux",
+    "ipa": "lyk.sɥø",
+    "translation": {"zh": "豪华的", "en": "luxurious"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "luxueux", "lemma": "luxueux", "ipa": "lyk.sɥø", "translation": {"zh": "豪华的", "en": "luxurious"}, "emoji": "💎"}
+    ]
+  },
+  {
+    "text": "le hurlement",
+    "ipa": "lə yʁlə.mɑ̃",
+    "translation": {"zh": "嚎叫声", "en": "the howl"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le hurlement", "lemma": "hurlement", "ipa": "lə yʁlə.mɑ̃", "translation": {"zh": "嚎叫声", "en": "howl"}, "emoji": "📢"}
+    ]
+  },
+  {
+    "text": "grossier",
+    "ipa": "ɡʁo.sje",
+    "translation": {"zh": "粗俗的", "en": "rude / coarse"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "grossier", "lemma": "grossier", "ipa": "ɡʁo.sje", "translation": {"zh": "粗俗的", "en": "rude"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "la tentation",
+    "ipa": "la tɑ̃.ta.sjɔ̃",
+    "translation": {"zh": "诱惑", "en": "the temptation"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la tentation", "lemma": "tentation", "ipa": "la tɑ̃.ta.sjɔ̃", "translation": {"zh": "诱惑", "en": "temptation"}, "emoji": "😈"}
+    ]
+  },
+  {
+    "text": "continuel",
+    "ipa": "kɔ̃.ti.nɥɛl",
+    "translation": {"zh": "持续的", "en": "continual"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "continuel", "lemma": "continuel", "ipa": "kɔ̃.ti.nɥɛl", "translation": {"zh": "持续的", "en": "continual"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "convertir",
+    "ipa": "kɔ̃.vɛʁ.tiʁ",
+    "translation": {"zh": "转换；转变", "en": "to convert"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "convertir", "lemma": "convertir", "ipa": "kɔ̃.vɛʁ.tiʁ", "translation": {"zh": "转换", "en": "convert"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "infliger",
+    "ipa": "ɛ̃.fli.ʒe",
+    "translation": {"zh": "施加；给予（惩罚）", "en": "to inflict"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "infliger", "lemma": "infliger", "ipa": "ɛ̃.fli.ʒe", "translation": {"zh": "施加惩罚", "en": "inflict"}, "emoji": ""}
+    ]
+  }
+]

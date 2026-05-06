@@ -1,0 +1,401 @@
+[
+  {
+    "input_word": "old-fashioned",
+    "entries": [
+      {
+        "text": "old-fashioned",
+        "ipa": "/ˌoʊld ˈfæʃənd/",
+        "cefr": "B1",
+        "zh": "过时的",
+        "emoji": "🕰️"
+      }
+    ]
+  },
+  {
+    "input_word": "on",
+    "entries": []
+  },
+  {
+    "input_word": "once",
+    "entries": [
+      {
+        "text": "once",
+        "ipa": "/wʌns/",
+        "cefr": "A1",
+        "zh": "一次",
+        "emoji": "1️⃣"
+      }
+    ]
+  },
+  {
+    "input_word": "one",
+    "entries": [
+      {
+        "text": "one",
+        "ipa": "/wʌn/",
+        "cefr": "A1",
+        "zh": "一",
+        "emoji": "1️⃣"
+      }
+    ]
+  },
+  {
+    "input_word": "onion",
+    "entries": [
+      {
+        "text": "onion",
+        "ipa": "/ˈʌnjən/",
+        "cefr": "A1",
+        "zh": "洋葱",
+        "emoji": "🧅"
+      }
+    ]
+  },
+  {
+    "input_word": "online",
+    "entries": [
+      {
+        "text": "online",
+        "ipa": "/ˈɑːnlaɪn/",
+        "cefr": "A1",
+        "zh": "在线",
+        "emoji": "🌐"
+      }
+    ]
+  },
+  {
+    "input_word": "only",
+    "entries": [
+      {
+        "text": "only",
+        "ipa": "/ˈoʊnli/",
+        "cefr": "A1",
+        "zh": "仅仅",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "onto",
+    "entries": []
+  },
+  {
+    "input_word": "open",
+    "entries": [
+      {
+        "text": "open",
+        "ipa": "/ˈoʊpən/",
+        "cefr": "A1",
+        "zh": "打开",
+        "emoji": "🔓"
+      },
+      {
+        "text": "open",
+        "ipa": "/ˈoʊpən/",
+        "cefr": "A1",
+        "zh": "开放的",
+        "emoji": "🚪"
+      }
+    ]
+  },
+  {
+    "input_word": "opening",
+    "entries": [
+      {
+        "text": "opening",
+        "ipa": "/ˈoʊpənɪŋ/",
+        "cefr": "B2",
+        "zh": "开幕式",
+        "emoji": "🎬"
+      },
+      {
+        "text": "opening",
+        "ipa": "/ˈoʊpənɪŋ/",
+        "cefr": "B2",
+        "zh": "空缺职位",
+        "emoji": "💼"
+      }
+    ]
+  },
+  {
+    "input_word": "operate",
+    "entries": [
+      {
+        "text": "operate",
+        "ipa": "/ˈɑːpəreɪt/",
+        "cefr": "B2",
+        "zh": "操作",
+        "emoji": "⚙️"
+      },
+      {
+        "text": "operate",
+        "ipa": "/ˈɑːpəreɪt/",
+        "cefr": "B2",
+        "zh": "动手术",
+        "emoji": "🏥"
+      }
+    ]
+  },
+  {
+    "input_word": "operation",
+    "entries": [
+      {
+        "text": "operation",
+        "ipa": "/ˌɑːpəˈreɪʃən/",
+        "cefr": "B1",
+        "zh": "运作",
+        "emoji": "⚙️"
+      },
+      {
+        "text": "operation",
+        "ipa": "/ˌɑːpəˈreɪʃən/",
+        "cefr": "B1",
+        "zh": "手术",
+        "emoji": "🏥"
+      }
+    ]
+  },
+  {
+    "input_word": "opinion",
+    "entries": [
+      {
+        "text": "opinion",
+        "ipa": "/əˈpɪnjən/",
+        "cefr": "A1",
+        "zh": "意见",
+        "emoji": "💬"
+      }
+    ]
+  },
+  {
+    "input_word": "opponent",
+    "entries": [
+      {
+        "text": "opponent",
+        "ipa": "/əˈpoʊnənt/",
+        "cefr": "B2",
+        "zh": "对手",
+        "emoji": "🥊"
+      }
+    ]
+  },
+  {
+    "input_word": "opportunity",
+    "entries": [
+      {
+        "text": "opportunity",
+        "ipa": "/ˌɑːpərˈtuːnəti/",
+        "cefr": "A2",
+        "zh": "机会",
+        "emoji": "🌟"
+      }
+    ]
+  },
+  {
+    "input_word": "oppose",
+    "entries": [
+      {
+        "text": "oppose",
+        "ipa": "/əˈpoʊz/",
+        "cefr": "B2",
+        "zh": "反对",
+        "emoji": "✋"
+      }
+    ]
+  },
+  {
+    "input_word": "opposed",
+    "entries": [
+      {
+        "text": "opposed",
+        "ipa": "/əˈpoʊzd/",
+        "cefr": "B2",
+        "zh": "反对的",
+        "emoji": "🚫"
+      }
+    ]
+  },
+  {
+    "input_word": "opposite",
+    "entries": [
+      {
+        "text": "opposite",
+        "ipa": "/ˈɑːpəzɪt/",
+        "cefr": "A1",
+        "zh": "对面的",
+        "emoji": "↔️"
+      },
+      {
+        "text": "opposite",
+        "ipa": "/ˈɑːpəzɪt/",
+        "cefr": "A1",
+        "zh": "相反",
+        "emoji": "🔄"
+      }
+    ]
+  },
+  {
+    "input_word": "opposition",
+    "entries": [
+      {
+        "text": "opposition",
+        "ipa": "/ˌɑːpəˈzɪʃən/",
+        "cefr": "B2",
+        "zh": "反对派",
+        "emoji": "⚔️"
+      }
+    ]
+  },
+  {
+    "input_word": "option",
+    "entries": [
+      {
+        "text": "option",
+        "ipa": "/ˈɑːpʃən/",
+        "cefr": "A2",
+        "zh": "选项",
+        "emoji": "🔘"
+      }
+    ]
+  },
+  {
+    "input_word": "or",
+    "entries": []
+  },
+  {
+    "input_word": "orange",
+    "entries": [
+      {
+        "text": "orange",
+        "ipa": "/ˈɔːrɪndʒ/",
+        "cefr": "A1",
+        "zh": "橙子",
+        "emoji": "🍊"
+      },
+      {
+        "text": "orange",
+        "ipa": "/ˈɔːrɪndʒ/",
+        "cefr": "A1",
+        "zh": "橙色",
+        "emoji": "🟠"
+      }
+    ]
+  },
+  {
+    "input_word": "order",
+    "entries": [
+      {
+        "text": "order",
+        "ipa": "/ˈɔːrdər/",
+        "cefr": "A1",
+        "zh": "订购",
+        "emoji": "🛒"
+      },
+      {
+        "text": "order",
+        "ipa": "/ˈɔːrdər/",
+        "cefr": "A1",
+        "zh": "顺序",
+        "emoji": "📋"
+      },
+      {
+        "text": "order",
+        "ipa": "/ˈɔːrdər/",
+        "cefr": "A1",
+        "zh": "命令",
+        "emoji": "📢"
+      }
+    ]
+  },
+  {
+    "input_word": "ordinary",
+    "entries": [
+      {
+        "text": "ordinary",
+        "ipa": "/ˈɔːrdəneri/",
+        "cefr": "A2",
+        "zh": "普通的",
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "input_word": "organ",
+    "entries": [
+      {
+        "text": "organ",
+        "ipa": "/ˈɔːrɡən/",
+        "cefr": "B2",
+        "zh": "器官",
+        "emoji": "🫀"
+      },
+      {
+        "text": "organ",
+        "ipa": "/ˈɔːrɡən/",
+        "cefr": "B2",
+        "zh": "管风琴",
+        "emoji": "🎹"
+      }
+    ]
+  },
+  {
+    "input_word": "organization",
+    "entries": [
+      {
+        "text": "organization",
+        "ipa": "/ˌɔːrɡənəˈzeɪʃən/",
+        "cefr": "A2",
+        "zh": "组织机构",
+        "emoji": "🏢"
+      }
+    ]
+  },
+  {
+    "input_word": "organize",
+    "entries": [
+      {
+        "text": "organize",
+        "ipa": "/ˈɔːrɡənaɪz/",
+        "cefr": "A2",
+        "zh": "组织",
+        "emoji": "📅"
+      }
+    ]
+  },
+  {
+    "input_word": "organized",
+    "entries": [
+      {
+        "text": "organized",
+        "ipa": "/ˈɔːrɡənaɪzd/",
+        "cefr": "B1",
+        "zh": "有条理的",
+        "emoji": "🗂️"
+      }
+    ]
+  },
+  {
+    "input_word": "organizer",
+    "entries": [
+      {
+        "text": "organizer",
+        "ipa": "/ˈɔːrɡənaɪzər/",
+        "cefr": "B1",
+        "zh": "组织者",
+        "emoji": "👤"
+      }
+    ]
+  },
+  {
+    "input_word": "origin",
+    "entries": [
+      {
+        "text": "origin",
+        "ipa": "/ˈɔːrɪdʒɪn/",
+        "cefr": "B2",
+        "zh": "起源",
+        "emoji": "🌱"
+      }
+    ]
+  }
+]

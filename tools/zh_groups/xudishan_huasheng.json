@@ -1,0 +1,226 @@
+[
+  {
+    "text": "我们家的后园有半亩空地。",
+    "ipa": "wǒ men jiā de hòu yuán yǒu bàn mǔ kòng dì.",
+    "translation": {
+      "zh": "我们家的后园有半亩空地。",
+      "en": "Behind our house there was a small patch of empty land."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "我们家的后园",
+        "lemma": "后园",
+        "ipa": "wǒ men jiā de hòu yuán",
+        "translation": {"zh": "我家屋后的园子", "en": "our backyard"},
+        "emoji": "🏡"
+      },
+      {
+        "text": "有",
+        "lemma": "有",
+        "ipa": "yǒu",
+        "translation": {"zh": "存在着", "en": "had"},
+        "emoji": "✨"
+      },
+      {
+        "text": "半亩空地",
+        "lemma": "空地",
+        "ipa": "bàn mǔ kòng dì",
+        "translation": {"zh": "一小块荒地", "en": "half-acre lot"},
+        "emoji": "🌾"
+      }
+    ],
+    "tags": [{"name": "落花生", "index": 1}]
+  },
+  {
+    "text": "母亲说：",
+    "ipa": "mǔ qīn shuō:",
+    "translation": {
+      "zh": "母亲说：",
+      "en": "Mother said:"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "母亲",
+        "lemma": "母亲",
+        "ipa": "mǔ qīn",
+        "translation": {"zh": "妈妈", "en": "mother"},
+        "emoji": "👩"
+      },
+      {
+        "text": "说",
+        "lemma": "说",
+        "ipa": "shuō",
+        "translation": {"zh": "开口讲", "en": "said"},
+        "emoji": "💬"
+      }
+    ],
+    "tags": [{"name": "落花生", "index": 2}]
+  },
+  {
+    "text": "让它荒着怪可惜的，",
+    "ipa": "ràng tā huāng zhe guài kě xī de,",
+    "translation": {
+      "zh": "让它荒着怪可惜的，",
+      "en": "It's a real shame to let it lie waste,"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "让它",
+        "lemma": "让",
+        "ipa": "ràng tā",
+        "translation": {"zh": "任由它", "en": "let it"},
+        "emoji": "🤲"
+      },
+      {
+        "text": "荒着",
+        "lemma": "荒",
+        "ipa": "huāng zhe",
+        "translation": {"zh": "空着不种", "en": "lie waste"},
+        "emoji": "🪨"
+      },
+      {
+        "text": "怪可惜的",
+        "lemma": "可惜",
+        "ipa": "guài kě xī de",
+        "translation": {"zh": "实在太可惜", "en": "such a pity"},
+        "emoji": "😔"
+      }
+    ],
+    "tags": [{"name": "落花生", "index": 3}]
+  },
+  {
+    "text": "你们那么爱吃花生，就开辟出来种花生吧。",
+    "ipa": "nǐ men nà me ài chī huā shēng, jiù kāi pì chū lái zhòng huā shēng ba.",
+    "translation": {
+      "zh": "你们那么爱吃花生，就开辟出来种花生吧。",
+      "en": "Since you all love peanuts so much, let's open it up and plant some."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "你们那么爱吃花生",
+        "lemma": "爱吃",
+        "ipa": "nǐ men nà me ài chī huā shēng",
+        "translation": {"zh": "你们这么喜欢花生", "en": "you love peanuts so"},
+        "emoji": "🥜"
+      },
+      {
+        "text": "就开辟出来",
+        "lemma": "开辟",
+        "ipa": "jiù kāi pì chū lái",
+        "translation": {"zh": "就开垦出来", "en": "then open it up"},
+        "emoji": "⛏️"
+      },
+      {
+        "text": "种花生吧",
+        "lemma": "种",
+        "ipa": "zhòng huā shēng ba",
+        "translation": {"zh": "栽花生吧", "en": "plant peanuts"},
+        "emoji": "🌱"
+      }
+    ],
+    "tags": [{"name": "落花生", "index": 4}]
+  },
+  {
+    "text": "我们姐弟几个都很高兴，",
+    "ipa": "wǒ men jiě dì jǐ gè dōu hěn gāo xìng,",
+    "translation": {
+      "zh": "我们姐弟几个都很高兴，",
+      "en": "We brothers and sisters were all delighted,"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "我们姐弟几个",
+        "lemma": "姐弟",
+        "ipa": "wǒ men jiě dì jǐ gè",
+        "translation": {"zh": "我们这些兄弟姐妹", "en": "us siblings"},
+        "emoji": "👫"
+      },
+      {
+        "text": "都很高兴",
+        "lemma": "高兴",
+        "ipa": "dōu hěn gāo xìng",
+        "translation": {"zh": "全都很开心", "en": "all very happy"},
+        "emoji": "😄"
+      }
+    ],
+    "tags": [{"name": "落花生", "index": 5}]
+  },
+  {
+    "text": "买种、翻地、播种、浇水，",
+    "ipa": "mǎi zhǒng, fān dì, bō zhǒng, jiāo shuǐ,",
+    "translation": {
+      "zh": "买种、翻地、播种、浇水，",
+      "en": "we bought seeds, turned the soil, sowed, and watered,"
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "买种",
+        "lemma": "买",
+        "ipa": "mǎi zhǒng",
+        "translation": {"zh": "买种子", "en": "buy seeds"},
+        "emoji": "🛒"
+      },
+      {
+        "text": "翻地",
+        "lemma": "翻",
+        "ipa": "fān dì",
+        "translation": {"zh": "翻松土地", "en": "turn the soil"},
+        "emoji": "🪏"
+      },
+      {
+        "text": "播种",
+        "lemma": "播种",
+        "ipa": "bō zhǒng",
+        "translation": {"zh": "撒下种子", "en": "sow seeds"},
+        "emoji": "🌾"
+      },
+      {
+        "text": "浇水",
+        "lemma": "浇",
+        "ipa": "jiāo shuǐ",
+        "translation": {"zh": "给地浇水", "en": "water"},
+        "emoji": "💧"
+      }
+    ],
+    "tags": [{"name": "落花生", "index": 6}]
+  },
+  {
+    "text": "没过几个月，居然收获了。",
+    "ipa": "méi guò jǐ gè yuè, jū rán shōu huò le.",
+    "translation": {
+      "zh": "没过几个月，居然收获了。",
+      "en": "and within a few months, to our surprise, we had a harvest."
+    },
+    "cefr": "HSK6",
+    "tokens": [
+      {
+        "text": "没过几个月",
+        "lemma": "月",
+        "ipa": "méi guò jǐ gè yuè",
+        "translation": {"zh": "不出几个月", "en": "within months"},
+        "emoji": "📅"
+      },
+      {
+        "text": "居然",
+        "lemma": "居然",
+        "ipa": "jū rán",
+        "translation": {"zh": "竟然就", "en": "to our surprise"},
+        "emoji": "❗"
+      },
+      {
+        "text": "收获了",
+        "lemma": "收获",
+        "ipa": "shōu huò le",
+        "translation": {"zh": "收成出来了", "en": "had a harvest"},
+        "emoji": "🌰"
+      }
+    ],
+    "tags": [{"name": "落花生", "index": 7}]
+  }
+]

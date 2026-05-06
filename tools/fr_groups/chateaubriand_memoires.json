@@ -1,0 +1,57 @@
+[
+  {
+    "text": "Si je devais vivre,",
+    "ipa": "si ʒə dəvɛ vivʁ",
+    "translation": {"zh": "倘若我还得活下去，", "en": "If I were to live on,"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "Si je devais vivre", "lemma": "devoir vivre", "ipa": "si ʒə dəvɛ vivʁ", "translation": {"zh": "若我须活", "en": "if I had to live"}, "emoji": "🌱"}
+    ],
+    "tags": [{"name": "Mémoires d'outre-tombe", "index": 1}]
+  },
+  {
+    "text": "je ne représenterais que par ma personne le siècle écoulé",
+    "ipa": "ʒə nə ʁəpʁezɑ̃təʁɛ kə paʁ ma pɛʁsɔn lə sjɛkl ekule",
+    "translation": {"zh": "我便只能以自身代表那已逝去的世纪，", "en": "I would represent, in my person alone, the century gone by,"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "je ne représenterais que", "lemma": "représenter", "ipa": "ʒə nə ʁəpʁezɑ̃təʁɛ kə", "translation": {"zh": "我只代表", "en": "I would only represent"}, "emoji": "🎭"},
+      {"text": "par ma personne", "lemma": "personne", "ipa": "paʁ ma pɛʁsɔn", "translation": {"zh": "以己身", "en": "through myself"}, "emoji": "🧍"},
+      {"text": "le siècle écoulé", "lemma": "siècle écoulé", "ipa": "lə sjɛkl ekule", "translation": {"zh": "逝去的世纪", "en": "the bygone century"}, "emoji": "⏳"}
+    ],
+    "tags": [{"name": "Mémoires d'outre-tombe", "index": 2}]
+  },
+  {
+    "text": "entre les deux siècles dans lesquels je me suis trouvé ;",
+    "ipa": "ɑ̃tʁə le dø sjɛkl dɑ̃ lekɛl ʒə mə sɥi tʁuve",
+    "translation": {"zh": "夹在我所置身的两个世纪之间；", "en": "between the two centuries in which I have found myself;"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "entre les deux siècles", "lemma": "siècle", "ipa": "ɑ̃tʁə le dø sjɛkl", "translation": {"zh": "两个世纪之间", "en": "between two centuries"}, "emoji": "↔️"},
+      {"text": "dans lesquels je me suis trouvé", "lemma": "se trouver", "ipa": "dɑ̃ lekɛl ʒə mə sɥi tʁuve", "translation": {"zh": "我身处其中", "en": "in which I found myself"}, "emoji": "🧭"}
+    ],
+    "tags": [{"name": "Mémoires d'outre-tombe", "index": 3}]
+  },
+  {
+    "text": "je serais découragé par les langues étrangères",
+    "ipa": "ʒə səʁɛ dekuʁaʒe paʁ le lɑ̃ɡ etʁɑ̃ʒɛʁ",
+    "translation": {"zh": "我会被外来的语言所沮丧，", "en": "I would be disheartened by the foreign tongues"},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "je serais découragé par", "lemma": "décourager", "ipa": "ʒə səʁɛ dekuʁaʒe paʁ", "translation": {"zh": "我将被沮丧", "en": "I would be disheartened by"}, "emoji": "😞"},
+      {"text": "les langues étrangères", "lemma": "langue étrangère", "ipa": "le lɑ̃ɡ etʁɑ̃ʒɛʁ", "translation": {"zh": "外语", "en": "foreign languages"}, "emoji": "🗣️"}
+    ],
+    "tags": [{"name": "Mémoires d'outre-tombe", "index": 4}]
+  },
+  {
+    "text": "qu'on parlerait autour de moi.",
+    "ipa": "kɔ̃ paʁləʁɛ otuʁ də mwa",
+    "translation": {"zh": "那是人们将在我周围讲说的语言。", "en": "that would be spoken around me."},
+    "cefr": "C2",
+    "tokens": [
+      {"text": "qu'on parlerait", "lemma": "parler", "ipa": "kɔ̃ paʁləʁɛ", "translation": {"zh": "人们会讲", "en": "that one would speak"}, "emoji": "💬"},
+      {"text": "autour de moi", "lemma": "autour de", "ipa": "otuʁ də mwa", "translation": {"zh": "在我周围", "en": "around me"}, "emoji": "🔄"}
+    ],
+    "tags": [{"name": "Mémoires d'outre-tombe", "index": 5}]
+  }
+]

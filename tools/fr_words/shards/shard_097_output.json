@@ -1,0 +1,279 @@
+[
+  {
+    "text": "le championnat",
+    "ipa": "lə ʃɑ̃pjɔna",
+    "translation": {"zh": "锦标赛", "en": "championship"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "le championnat", "lemma": "championnat", "ipa": "lə ʃɑ̃pjɔna", "translation": {"zh": "锦标赛", "en": "championship"}, "emoji": "🏆"}
+    ]
+  },
+  {
+    "text": "orgueilleux",
+    "ipa": "ɔʁɡœjø",
+    "translation": {"zh": "傲慢的", "en": "arrogant"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "orgueilleux", "lemma": "orgueilleux", "ipa": "ɔʁɡœjø", "translation": {"zh": "傲慢的", "en": "arrogant"}, "emoji": "😤"}
+    ]
+  },
+  {
+    "text": "licencier un employé",
+    "ipa": "lisɑ̃sje œ̃ ɑ̃plwaje",
+    "translation": {"zh": "解雇一名员工", "en": "dismiss an employee"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "licencier un employé", "lemma": "licencier", "ipa": "lisɑ̃sje œ̃ ɑ̃plwaje", "translation": {"zh": "解雇员工", "en": "dismiss an employee"}, "emoji": "📋"}
+    ]
+  },
+  {
+    "text": "dispenser un cours",
+    "ipa": "dispɑ̃se œ̃ kuʁ",
+    "translation": {"zh": "授课", "en": "give a class"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "dispenser un cours", "lemma": "dispenser", "ipa": "dispɑ̃se œ̃ kuʁ", "translation": {"zh": "授课", "en": "give a class"}, "emoji": "📚"}
+    ]
+  },
+  {
+    "text": "le tueur",
+    "ipa": "lə tɥœʁ",
+    "translation": {"zh": "杀手", "en": "killer"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "le tueur", "lemma": "tueur", "ipa": "lə tɥœʁ", "translation": {"zh": "杀手", "en": "killer"}, "emoji": "🔪"}
+    ]
+  },
+  {
+    "text": "répliquer vivement",
+    "ipa": "ʁeplike vivmɑ̃",
+    "translation": {"zh": "激烈反驳", "en": "reply sharply"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "répliquer", "lemma": "répliquer", "ipa": "ʁeplike", "translation": {"zh": "反驳", "en": "reply sharply"}, "emoji": "💬"},
+      {"text": "vivement", "lemma": "vivement", "ipa": "vivmɑ̃", "translation": {"zh": "激烈地", "en": "sharply"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "conforme aux règles",
+    "ipa": "kɔ̃fɔʁm o ʁɛɡl",
+    "translation": {"zh": "符合规则", "en": "in accordance with the rules"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "conforme aux règles", "lemma": "conforme", "ipa": "kɔ̃fɔʁm o ʁɛɡl", "translation": {"zh": "符合规则", "en": "compliant with rules"}, "emoji": "✅"}
+    ]
+  },
+  {
+    "text": "contrer l'adversaire",
+    "ipa": "kɔ̃tʁe ladveʁsɛʁ",
+    "translation": {"zh": "反制对手", "en": "counter the opponent"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "contrer l'adversaire", "lemma": "contrer", "ipa": "kɔ̃tʁe ladveʁsɛʁ", "translation": {"zh": "反制对手", "en": "counter the opponent"}, "emoji": "🛡️"}
+    ]
+  },
+  {
+    "text": "antique",
+    "ipa": "ɑ̃tik",
+    "translation": {"zh": "古老的", "en": "ancient"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "antique", "lemma": "antique", "ipa": "ɑ̃tik", "translation": {"zh": "古老的", "en": "ancient"}, "emoji": "🏛️"}
+    ]
+  },
+  {
+    "text": "concilier travail et vie privée",
+    "ipa": "kɔ̃silje tʁavaj e vi pʁive",
+    "translation": {"zh": "兼顾工作与私生活", "en": "balance work and private life"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "concilier", "lemma": "concilier", "ipa": "kɔ̃silje", "translation": {"zh": "调和", "en": "reconcile"}, "emoji": "⚖️"},
+      {"text": "travail", "lemma": "travail", "ipa": "tʁavaj", "translation": {"zh": "工作", "en": "work"}, "emoji": "💼"},
+      {"text": "et vie privée", "lemma": "vie", "ipa": "e vi pʁive", "translation": {"zh": "与私生活", "en": "and private life"}, "emoji": "🏠"}
+    ]
+  },
+  {
+    "text": "une dinde",
+    "ipa": "yn dɛ̃d",
+    "translation": {"zh": "火鸡", "en": "turkey"},
+    "cefr": "A2",
+    "tokens": [
+      {"text": "une dinde", "lemma": "dinde", "ipa": "yn dɛ̃d", "translation": {"zh": "火鸡", "en": "turkey"}, "emoji": "🦃"}
+    ]
+  },
+  {
+    "text": "physiquement fort",
+    "ipa": "fizikm̩ɑ̃ fɔʁ",
+    "translation": {"zh": "身体强壮", "en": "physically strong"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "physiquement", "lemma": "physiquement", "ipa": "fizikm̩ɑ̃", "translation": {"zh": "身体上", "en": "physically"}, "emoji": "💪"},
+      {"text": "fort", "lemma": "fort", "ipa": "fɔʁ", "translation": {"zh": "强壮的", "en": "strong"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "c'est un cliché",
+    "ipa": "sɛ œ̃ kliʃe",
+    "translation": {"zh": "这是陈词滥调", "en": "it's a cliché"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "c'est un cliché", "lemma": "être", "ipa": "sɛ œ̃ kliʃe", "translation": {"zh": "这是陈词滥调", "en": "it's a cliché"}, "emoji": "🗣️"}
+    ]
+  },
+  {
+    "text": "cocher la case",
+    "ipa": "kɔʃe la kaz",
+    "translation": {"zh": "勾选方框", "en": "tick the box"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "cocher", "lemma": "cocher", "ipa": "kɔʃe", "translation": {"zh": "勾选", "en": "tick"}, "emoji": "✔️"},
+      {"text": "la case", "lemma": "case", "ipa": "la kaz", "translation": {"zh": "方框", "en": "box"}, "emoji": "☐"}
+    ]
+  },
+  {
+    "text": "manier un outil",
+    "ipa": "manje œ̃ nuti",
+    "translation": {"zh": "使用工具", "en": "handle a tool"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "manier un outil", "lemma": "manier", "ipa": "manje œ̃ nuti", "translation": {"zh": "使用工具", "en": "handle a tool"}, "emoji": "🔧"}
+    ]
+  },
+  {
+    "text": "temporaire",
+    "ipa": "tɑ̃pɔʁɛʁ",
+    "translation": {"zh": "临时的", "en": "temporary"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "temporaire", "lemma": "temporaire", "ipa": "tɑ̃pɔʁɛʁ", "translation": {"zh": "临时的", "en": "temporary"}, "emoji": "⏳"}
+    ]
+  },
+  {
+    "text": "la norme",
+    "ipa": "la nɔʁm",
+    "translation": {"zh": "标准", "en": "standard"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "la norme", "lemma": "norme", "ipa": "la nɔʁm", "translation": {"zh": "标准", "en": "standard"}, "emoji": "📏"}
+    ]
+  },
+  {
+    "text": "inutilement compliqué",
+    "ipa": "inytilmɑ̃ kɔ̃plike",
+    "translation": {"zh": "不必要地复杂", "en": "needlessly complicated"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "inutilement", "lemma": "inutilement", "ipa": "inytilmɑ̃", "translation": {"zh": "徒劳地", "en": "needlessly"}, "emoji": ""},
+      {"text": "compliqué", "lemma": "compliqué", "ipa": "kɔ̃plike", "translation": {"zh": "复杂的", "en": "complicated"}, "emoji": "🔀"}
+    ]
+  },
+  {
+    "text": "une eau limpide",
+    "ipa": "yn o lɛ̃pid",
+    "translation": {"zh": "清澈的水", "en": "clear water"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "une eau limpide", "lemma": "limpide", "ipa": "yn o lɛ̃pid", "translation": {"zh": "清澈的水", "en": "clear water"}, "emoji": "💧"}
+    ]
+  },
+  {
+    "text": "l'agglomération urbaine",
+    "ipa": "laɡlɔmeʁasjɔ̃ yʁbɛn",
+    "translation": {"zh": "城市建成区", "en": "urban agglomeration"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'agglomération urbaine", "lemma": "agglomération", "ipa": "laɡlɔmeʁasjɔ̃ yʁbɛn", "translation": {"zh": "城市建成区", "en": "urban area"}, "emoji": "🏙️"}
+    ]
+  },
+  {
+    "text": "provincial",
+    "ipa": "pʁɔvɛ̃sjal",
+    "translation": {"zh": "省级的", "en": "provincial"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "provincial", "lemma": "provincial", "ipa": "pʁɔvɛ̃sjal", "translation": {"zh": "省级的", "en": "provincial"}, "emoji": "🗺️"}
+    ]
+  },
+  {
+    "text": "coudre un bouton",
+    "ipa": "kudʁ œ̃ butɔ̃",
+    "translation": {"zh": "缝纽扣", "en": "sew a button"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "coudre un bouton", "lemma": "coudre", "ipa": "kudʁ œ̃ butɔ̃", "translation": {"zh": "缝纽扣", "en": "sew a button"}, "emoji": "🧵"}
+    ]
+  },
+  {
+    "text": "acheminer des marchandises",
+    "ipa": "aʃmine de maʁʃɑ̃diz",
+    "translation": {"zh": "运送货物", "en": "transport goods"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "acheminer des marchandises", "lemma": "acheminer", "ipa": "aʃmine de maʁʃɑ̃diz", "translation": {"zh": "运送货物", "en": "transport goods"}, "emoji": "📦"}
+    ]
+  },
+  {
+    "text": "son gendre",
+    "ipa": "sɔ̃ ʒɑ̃dʁ",
+    "translation": {"zh": "他的女婿", "en": "his son-in-law"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "son gendre", "lemma": "gendre", "ipa": "sɔ̃ ʒɑ̃dʁ", "translation": {"zh": "女婿", "en": "son-in-law"}, "emoji": "👨‍👧"}
+    ]
+  },
+  {
+    "text": "l'audace",
+    "ipa": "lodas",
+    "translation": {"zh": "大胆", "en": "audacity"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'audace", "lemma": "audace", "ipa": "lodas", "translation": {"zh": "大胆", "en": "audacity"}, "emoji": "🦁"}
+    ]
+  },
+  {
+    "text": "l'urbanisme",
+    "ipa": "lyʁbanism",
+    "translation": {"zh": "城市规划", "en": "urban planning"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "l'urbanisme", "lemma": "urbanisme", "ipa": "lyʁbanism", "translation": {"zh": "城市规划", "en": "urban planning"}, "emoji": "🏗️"}
+    ]
+  },
+  {
+    "text": "curieusement silencieux",
+    "ipa": "kyʁjøzmɑ̃ silɑ̃sjø",
+    "translation": {"zh": "奇怪地沉默", "en": "curiously silent"},
+    "cefr": "B1",
+    "tokens": [
+      {"text": "curieusement", "lemma": "curieusement", "ipa": "kyʁjøzmɑ̃", "translation": {"zh": "奇怪地", "en": "curiously"}, "emoji": "🤔"},
+      {"text": "silencieux", "lemma": "silencieux", "ipa": "silɑ̃sjø", "translation": {"zh": "沉默的", "en": "silent"}, "emoji": "🤫"}
+    ]
+  },
+  {
+    "text": "en l'occurrence",
+    "ipa": "ɑ̃ lɔkyʁɑ̃s",
+    "translation": {"zh": "在这种情况下", "en": "in this case"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "en l'occurrence", "lemma": "occurrence", "ipa": "ɑ̃ lɔkyʁɑ̃s", "translation": {"zh": "在此情况下", "en": "in this case"}, "emoji": ""}
+    ]
+  },
+  {
+    "text": "dérober un objet",
+    "ipa": "deʁɔbe œ̃ ɔbʒɛ",
+    "translation": {"zh": "偷走物品", "en": "steal an object"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "dérober un objet", "lemma": "dérober", "ipa": "deʁɔbe œ̃ ɔbʒɛ", "translation": {"zh": "偷走物品", "en": "steal an object"}, "emoji": "🕵️"}
+    ]
+  },
+  {
+    "text": "aboutir à un accord",
+    "ipa": "abutiʁ a œ̃ nakɔʁ",
+    "translation": {"zh": "达成协议", "en": "lead to an agreement"},
+    "cefr": "B2",
+    "tokens": [
+      {"text": "aboutir à un accord", "lemma": "aboutir", "ipa": "abutiʁ a œ̃ nakɔʁ", "translation": {"zh": "达成协议", "en": "lead to an agreement"}, "emoji": "🤝"}
+    ]
+  }
+]

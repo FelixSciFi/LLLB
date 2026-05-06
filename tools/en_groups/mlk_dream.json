@@ -1,0 +1,72 @@
+[
+  {
+    "text": "I have a dream that one day this nation will rise up and live out the true meaning of its creed:",
+    "ipa": "aɪ hæv ə dɹiːm ðət wʌn deɪ ðɪs ˈneɪʃən wɪl ɹaɪz ʌp ənd lɪv aʊt ðə tɹuː ˈmiːnɪŋ əv ɪts kɹiːd",
+    "translation": {"zh": "我有一个梦想：有朝一日这个国家将奋起，真正实践其信条的含义："},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "I have", "lemma": "have", "ipa": "aɪ hæv", "translation": {"zh": "我拥有"}, "emoji": ""},
+      {"text": "a dream", "lemma": "dream", "ipa": "ə dɹiːm", "translation": {"zh": "一个梦想"}, "emoji": "💭"},
+      {"text": "that one day", "lemma": "day", "ipa": "ðət wʌn deɪ", "translation": {"zh": "有朝一日"}, "emoji": "📅"},
+      {"text": "this nation", "lemma": "nation", "ipa": "ðɪs ˈneɪʃən", "translation": {"zh": "这国家"}, "emoji": "🏛️"},
+      {"text": "will rise up", "lemma": "rise", "ipa": "wɪl ɹaɪz ʌp", "translation": {"zh": "将奋起"}, "emoji": "⬆️"},
+      {"text": "and live out", "lemma": "live out", "ipa": "ənd lɪv aʊt", "translation": {"zh": "并践行"}, "emoji": ""},
+      {"text": "the true meaning", "lemma": "meaning", "ipa": "ðə tɹuː ˈmiːnɪŋ", "translation": {"zh": "真正含义"}, "emoji": ""},
+      {"text": "of its creed", "lemma": "creed", "ipa": "əv ɪts kɹiːd", "translation": {"zh": "其信条"}, "emoji": "📜"}
+    ],
+    "tags": [{"name": "I Have a Dream", "index": 1}]
+  },
+  {
+    "text": "\"We hold these truths to be self-evident, that all men are created equal.\"",
+    "ipa": "wiː hoʊld ðiːz tɹuːθs tə bi ˌsɛlf ˈɛvɪdənt ðət ɔːl mɛn ɑːɹ kɹiˈeɪtɪd ˈiːkwəl",
+    "translation": {"zh": "\"我们认为这些真理是不言而喻的：人人生而平等。\""},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "We hold", "lemma": "hold", "ipa": "wiː hoʊld", "translation": {"zh": "我们认为"}, "emoji": ""},
+      {"text": "these truths", "lemma": "truth", "ipa": "ðiːz tɹuːθs", "translation": {"zh": "这些真理"}, "emoji": "✨"},
+      {"text": "to be self-evident", "lemma": "self-evident", "ipa": "tə bi ˌsɛlf ˈɛvɪdənt", "translation": {"zh": "不言而喻"}, "emoji": ""},
+      {"text": "that all men", "lemma": "men", "ipa": "ðət ɔːl mɛn", "translation": {"zh": "所有人"}, "emoji": "👥"},
+      {"text": "are created", "lemma": "create", "ipa": "ɑːɹ kɹiˈeɪtɪd", "translation": {"zh": "被造"}, "emoji": ""},
+      {"text": "equal", "lemma": "equal", "ipa": "ˈiːkwəl", "translation": {"zh": "平等"}, "emoji": "⚖️"}
+    ],
+    "tags": [{"name": "I Have a Dream", "index": 2}]
+  },
+  {
+    "text": "I have a dream that my four little children will one day live in a nation",
+    "ipa": "aɪ hæv ə dɹiːm ðət maɪ fɔːɹ ˈlɪtəl ˈtʃɪldɹən wɪl wʌn deɪ lɪv ɪn ə ˈneɪʃən",
+    "translation": {"zh": "我有一个梦想：有朝一日我的四个小孩将生活在一个国度"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "I have", "lemma": "have", "ipa": "aɪ hæv", "translation": {"zh": "我拥有"}, "emoji": ""},
+      {"text": "a dream", "lemma": "dream", "ipa": "ə dɹiːm", "translation": {"zh": "一个梦想"}, "emoji": "💭"},
+      {"text": "that my four little children", "lemma": "child", "ipa": "ðət maɪ fɔːɹ ˈlɪtəl ˈtʃɪldɹən", "translation": {"zh": "我四个小孩"}, "emoji": "👨‍👩‍👧‍👦"},
+      {"text": "will one day live", "lemma": "live", "ipa": "wɪl wʌn deɪ lɪv", "translation": {"zh": "有朝一日生活"}, "emoji": ""},
+      {"text": "in a nation", "lemma": "nation", "ipa": "ɪn ə ˈneɪʃən", "translation": {"zh": "在一国度"}, "emoji": "🏛️"}
+    ],
+    "tags": [{"name": "I Have a Dream", "index": 3}]
+  },
+  {
+    "text": "where they will not be judged by the color of their skin",
+    "ipa": "wɛɹ ðeɪ wɪl nɑt bi ˈdʒʌdʒd baɪ ðə ˈkʌlɚ əv ðɛɹ skɪn",
+    "translation": {"zh": "在那里他们不会因肤色被评判"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "where they", "lemma": "they", "ipa": "wɛɹ ðeɪ", "translation": {"zh": "在那里他们"}, "emoji": ""},
+      {"text": "will not be judged", "lemma": "judge", "ipa": "wɪl nɑt bi ˈdʒʌdʒd", "translation": {"zh": "不被评判"}, "emoji": "⚖️"},
+      {"text": "by the color", "lemma": "color", "ipa": "baɪ ðə ˈkʌlɚ", "translation": {"zh": "凭颜色"}, "emoji": "🎨"},
+      {"text": "of their skin", "lemma": "skin", "ipa": "əv ðɛɹ skɪn", "translation": {"zh": "他们皮肤"}, "emoji": ""}
+    ],
+    "tags": [{"name": "I Have a Dream", "index": 4}]
+  },
+  {
+    "text": "but by the content of their character.",
+    "ipa": "bʌt baɪ ðə ˈkɑntɛnt əv ðɛɹ ˈkæɹɪktɚ",
+    "translation": {"zh": "而是凭他们的品格内涵。"},
+    "cefr": "C1",
+    "tokens": [
+      {"text": "but by the content", "lemma": "content", "ipa": "bʌt baɪ ðə ˈkɑntɛnt", "translation": {"zh": "而凭内涵"}, "emoji": ""},
+      {"text": "of their character", "lemma": "character", "ipa": "əv ðɛɹ ˈkæɹɪktɚ", "translation": {"zh": "他们品格"}, "emoji": "🌟"}
+    ],
+    "tags": [{"name": "I Have a Dream", "index": 5}]
+  }
+]
