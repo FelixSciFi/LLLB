@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "id": "zh_hsk1_001",
+      "level": "HSK1",
+      "kind": "word",
+      "prompt": "谢谢",
+      "options": [
+        {"zh": "谢谢", "en": "thank you"},
+        {"zh": "你好", "en": "hello"},
+        {"zh": "再见", "en": "goodbye"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "zh_hsk1_002",
+      "level": "HSK1",
+      "kind": "word",
+      "prompt": "吃",
+      "options": [
+        {"zh": "吃", "en": "to eat"},
+        {"zh": "喝", "en": "to drink"},
+        {"zh": "看", "en": "to look"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "zh_hsk1_003",
+      "level": "HSK1",
+      "kind": "sentence",
+      "prompt": "我是中国人。",
+      "options": [
+        {"zh": "我是中国人", "en": "I am Chinese"},
+        {"zh": "我喜欢中国", "en": "I like China"},
+        {"zh": "我去中国", "en": "I am going to China"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "zh_hsk2_001",
+      "level": "HSK2",
+      "kind": "word",
+      "prompt": "公共汽车",
+      "options": [
+        {"zh": "公共汽车", "en": "bus"},
+        {"zh": "出租车", "en": "taxi"},
+        {"zh": "火车", "en": "train"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "zh_hsk2_002",
+      "level": "HSK2",
+      "kind": "sentence",
+      "prompt": "今天天气真好。",
+      "options": [
+        {"zh": "今天天气真好", "en": "The weather is really nice today"},
+        {"zh": "今天我很好", "en": "I am fine today"},
+        {"zh": "明天天气好", "en": "The weather will be nice tomorrow"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "zh_hsk2_003",
+      "level": "HSK2",
+      "kind": "sentence",
+      "prompt": "我想喝一杯咖啡。",
+      "options": [
+        {"zh": "我想喝一杯咖啡", "en": "I would like to drink a cup of coffee"},
+        {"zh": "我喜欢咖啡", "en": "I like coffee"},
+        {"zh": "我有一杯咖啡", "en": "I have a cup of coffee"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "zh_hsk3_001",
+      "level": "HSK3",
+      "kind": "word",
+      "prompt": "环境",
+      "options": [
+        {"zh": "环境", "en": "environment"},
+        {"zh": "经验", "en": "experience"},
+        {"zh": "习惯", "en": "habit"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "zh_hsk3_002",
+      "level": "HSK3",
+      "kind": "sentence",
+      "prompt": "他比我跑得快。",
+      "options": [
+        {"zh": "他跑得比我快", "en": "He runs faster than me"},
+        {"zh": "他和我一样快", "en": "He is as fast as me"},
+        {"zh": "我跑得比他快", "en": "I run faster than him"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "zh_hsk3_003",
+      "level": "HSK3",
+      "kind": "sentence",
+      "prompt": "如果下雨，我们就不去了。",
+      "options": [
+        {"zh": "如果下雨我们就不去", "en": "If it rains, we won't go"},
+        {"zh": "下雨了我们要去", "en": "It's raining and we want to go"},
+        {"zh": "我们去了，但下雨了", "en": "We went, but it rained"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "zh_hsk4_001",
+      "level": "HSK4",
+      "kind": "word",
+      "prompt": "鼓励",
+      "options": [
+        {"zh": "鼓励", "en": "to encourage"},
+        {"zh": "拒绝", "en": "to refuse"},
+        {"zh": "怀疑", "en": "to doubt"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "zh_hsk4_002",
+      "level": "HSK4",
+      "kind": "sentence",
+      "prompt": "这件事让我感到很失望。",
+      "options": [
+        {"zh": "这件事让我很失望", "en": "This matter makes me feel very disappointed"},
+        {"zh": "我让这件事失败了", "en": "I caused this matter to fail"},
+        {"zh": "这件事让我很高兴", "en": "This matter makes me happy"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "zh_hsk4_003",
+      "level": "HSK4",
+      "kind": "sentence",
+      "prompt": "无论多忙，他都坚持锻炼。",
+      "options": [
+        {"zh": "不管多忙他都坚持锻炼", "en": "No matter how busy he is, he keeps exercising"},
+        {"zh": "他太忙了不能锻炼", "en": "He is too busy to exercise"},
+        {"zh": "他偶尔锻炼一下", "en": "He exercises occasionally"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "zh_hsk5_001",
+      "level": "HSK5",
+      "kind": "word",
+      "prompt": "谦虚",
+      "options": [
+        {"zh": "谦虚", "en": "modest / humble"},
+        {"zh": "骄傲", "en": "proud / arrogant"},
+        {"zh": "勇敢", "en": "brave"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "zh_hsk5_002",
+      "level": "HSK5",
+      "kind": "sentence",
+      "prompt": "他的发言引起了大家的关注。",
+      "options": [
+        {"zh": "他的发言引起了大家的关注", "en": "His remarks drew everyone's attention"},
+        {"zh": "大家都没听他说话", "en": "Nobody listened to him"},
+        {"zh": "他没发言", "en": "He didn't speak"}
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "zh_hsk5_003",
+      "level": "HSK5",
+      "kind": "sentence",
+      "prompt": "尽管困难重重，他仍然没有放弃。",
+      "options": [
+        {"zh": "虽然有很多困难，他还是没放弃", "en": "Despite many difficulties, he still didn't give up"},
+        {"zh": "因为太难了他放弃了", "en": "He gave up because it was too hard"},
+        {"zh": "他一开始就没想做", "en": "He never wanted to do it from the start"}
+      ],
+      "correctIndex": 0
+    }
+  ]
+}
