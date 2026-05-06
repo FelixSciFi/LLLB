@@ -59,7 +59,28 @@ final class iCloudSync {
         "promo_expires_at_v1",
         // Don't show the post-promo paywall a second time across devices.
         "promo_expiry_paywall_shown_v1",
+        // Streak rescue: monthly cap counter must sync so the user can't
+        // hop devices to get extra rescues. The "auto-prompt shown today"
+        // flag intentionally stays local — each device gets one prompt
+        // per day independently.
+        "streak_rescue_month_v1",
+        "streak_rescue_month_count_v1",
+        // Share-for-candy reward bookkeeping: daily/monthly caps must sync
+        // for the same anti-grinding reason as rescue.
+        "share_reward_last_date_v1",
+        "share_reward_month_v1",
+        "share_reward_month_count_v1",
     ]
+
+    /// Streak milestones we sync "already-shown" flags for. Going past 500 is
+    /// rare enough that re-prompting on reinstall isn't a real concern.
+    /// Matches `ShareTriggerStore.isStreakMilestone` for {10,20,50} ∪ (>=100, %50==0).
+    private static let streakShareMilestonesForSync: [Int] = {
+        var ids: [Int] = [10, 20, 50]
+        var n = 100
+        while n <= 500 { ids.append(n); n += 50 }
+        return ids
+    }()
 
     /// Per-language key prefixes — each is expanded to `{prefix}{lang}`
     /// for every supported language.
@@ -88,6 +109,9 @@ final class iCloudSync {
             for lang in supportedLanguages {
                 keys.insert(prefix + lang)
             }
+        }
+        for n in streakShareMilestonesForSync {
+            keys.insert("shareTriggerSeen_streak_\(n)_v1")
         }
         return keys
     }

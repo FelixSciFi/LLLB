@@ -23,6 +23,8 @@ final class AppModel: ObservableObject {
     let promoStore:          PromoStore
     let subscriptionManager: SubscriptionManager
     let entitlementStore:    EntitlementStore
+    let shareTriggerStore:   ShareTriggerStore
+    let streakRescueStore:   StreakRescueStore
 
     // MARK: - Published state
 
@@ -93,6 +95,8 @@ final class AppModel: ObservableObject {
             promoStore:          self.promoStore,
             subscriptionManager: self.subscriptionManager
         )
+        self.shareTriggerStore   = ShareTriggerStore()
+        self.streakRescueStore   = StreakRescueStore()
 
         // 0. Configure shared AVAudioSession once for the whole app lifetime
         try? AVAudioSession.sharedInstance().setCategory(.playback, mode: .spokenAudio, options: [])
@@ -204,6 +208,17 @@ final class AppModel: ObservableObject {
             )
         }
         .store(in: &cancellables)
+
+        // 5c. Streak milestones → ask the user to share. dropFirst skips the
+        //     value restored from disk at launch — we only want to prompt on a
+        //     fresh increment within this session. ShareTriggerStore self-guards
+        //     against re-prompting the same milestone.
+        usageTimeTracker.$streakDays
+            .dropFirst()
+            .sink { [weak self] days in
+                self?.shareTriggerStore.observeStreak(days)
+            }
+            .store(in: &cancellables)
 
         // 6. When UI language changes: sync all sessions + fix selected learning language
         store.$nativeLanguage

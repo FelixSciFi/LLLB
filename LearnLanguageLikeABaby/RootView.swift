@@ -114,6 +114,9 @@ struct RootView: View {
             achievementManager:  appModel.achievementManager,
             playbackBudget:      appModel.playbackBudget,
             entitlementStore:    appModel.entitlementStore,
+            streakRescueStore:   appModel.streakRescueStore,
+            shareTriggerStore:   appModel.shareTriggerStore,
+            candyStore:          appModel.candyStore,
             onboardingCompleted: onboardingCompleted,
             onCollectMilestones: {
                 appModel.achievementManager.collectPending(candyStore: appModel.candyStore)

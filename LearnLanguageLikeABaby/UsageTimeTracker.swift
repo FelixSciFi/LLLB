@@ -12,6 +12,14 @@ final class UsageTimeTracker: ObservableObject {
     private static let streakCountKey    = "streakCount_v1"
     private static let streakLastDateKey = "streakLastDate_v1"
 
+    /// Last date the user crossed the daily 5-min threshold, formatted
+    /// "yyyy-MM-dd" (or empty if no streak ever recorded). Read-only.
+    /// Consumers (e.g. StreakRescueStore.currentOffer) need this value but
+    /// shouldn't depend on the underlying UserDefaults key name.
+    var streakLastDateString: String {
+        UserDefaults.standard.string(forKey: Self.streakLastDateKey) ?? ""
+    }
+
     private func updateStreak() {
         let today = Self.dayKey(for: Date())
         let last  = UserDefaults.standard.string(forKey: Self.streakLastDateKey) ?? ""
@@ -29,6 +37,26 @@ final class UsageTimeTracker: ObservableObject {
         UserDefaults.standard.set(next,  forKey: Self.streakCountKey)
         UserDefaults.standard.set(today, forKey: Self.streakLastDateKey)
         streakDays = next
+    }
+
+    /// Pretend yesterday was a normal streak day. Used by the rescue flow:
+    /// the user has paid candy to recover a missed day, so we rewrite the
+    /// last-streak-date to yesterday — the next time today crosses the 5-min
+    /// threshold, `updateStreak()` will see `isConsec == true` and increment
+    /// the count instead of resetting it to 1.
+    ///
+    /// Does NOT touch `streakDays` — that increment happens organically when
+    /// the user actually studies today. Caller should verify the rescue window
+    /// (StreakRescueStore.currentOffer) before invoking.
+    func applyRescue() {
+        let cal = Calendar.current
+        guard let yesterday = cal.date(byAdding: .day, value: -1, to: Date()) else { return }
+        let yKey = Self.dayKey(for: yesterday)
+        UserDefaults.standard.set(yKey, forKey: Self.streakLastDateKey)
+        // Re-publish streakDays (same value) so any view observing this tracker
+        // refreshes — primarily so the streak-label visual leaves the
+        // rescue-window blue-grey state immediately.
+        streakDays = streakDays
     }
 
     // MARK: - Foreground (主动)

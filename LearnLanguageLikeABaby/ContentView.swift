@@ -19,6 +19,9 @@ struct ContentView: View {
     @ObservedObject var achievementManager: AchievementManager = .init()
     @ObservedObject var playbackBudget:     PlaybackBudget     = .init()
     @ObservedObject var entitlementStore:   EntitlementStore
+    @ObservedObject var streakRescueStore:  StreakRescueStore
+    @ObservedObject var shareTriggerStore:  ShareTriggerStore
+    var candyStore: CandyStore
     var onboardingCompleted: Bool = true
     var onCollectMilestones: () -> Void = {}
     var onUseCandyForRefill: () -> Void = {}
@@ -33,6 +36,8 @@ struct ContentView: View {
     @State private var showCollectCard    = false
     @State private var showCelebration    = false
     @State private var showRefillMenu     = false
+    @State private var showRescueSheet    = false
+    @State private var showShareSheet     = false
     @State private var placementModel:    PlacementTestModel? = nil
 
     private static let playbackSpeedSteps: [Double] = Array(stride(from: 0.5, through: 2.0, by: 0.25))
@@ -351,12 +356,63 @@ struct ContentView: View {
         }
         .sheet(isPresented: $showSpeedPopover)   { speedSheet }
         .sheet(isPresented: $showRepeatsPopover) { repeatsSheet }
+        .sheet(isPresented: $showRescueSheet) {
+            StreakRescueSheet(
+                rescueStore:    streakRescueStore,
+                usageTracker:   usageTracker,
+                candyStore:     candyStore,
+                nativeLanguage: candyStore.nativeLanguage,
+                onRequestShare: {
+                    // RescueSheet has already dismissed itself. Wait briefly
+                    // so SwiftUI finishes closing it before we present the
+                    // share sheet on top.
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) {
+                        showShareSheet = true
+                    }
+                }
+            )
+        }
+        .sheet(isPresented: $showShareSheet) {
+            // trigger is nil for manual entries (streak hub / Profile).
+            // The sheet handles both modes — only the heading copy differs;
+            // reward path shares the same daily/monthly cap.
+            StreakShareSheet(
+                trigger:           shareTriggerStore.pending,
+                triggerStore:      shareTriggerStore,
+                candyStore:        candyStore,
+                streakDays:        usageTracker.streakDays,
+                learningLanguage:  session.config,
+                totalHours:        (usageTracker.allTimeMinutes + usageTracker.allTimeBgMinutes / 3) / 60,
+                nativeLanguage:    candyStore.nativeLanguage
+            )
+        }
         // Promo expiry reminder: the first time the user enters ContentView
         // with daysRemaining == 2 (and again at 1), pop the cup menu so the
         // countdown is unmissable. Per-threshold flag in UserDefaults keeps
         // it to a single popup per remaining-day count.
-        .onAppear { checkPromoExpiryWarning() }
+        .onAppear {
+            checkPromoExpiryWarning()
+            checkRescueAutoPrompt()
+        }
         .onReceive(usageTracker.$todayMinutes) { _ in checkPromoExpiryWarning() }
+        .onReceive(shareTriggerStore.$pending) { trigger in
+            // A streak milestone fired — pop the share sheet (unless the
+            // rescue sheet is already up; share trigger waits its turn).
+            guard trigger != nil, !showRescueSheet else { return }
+            showShareSheet = true
+        }
+    }
+
+    private func checkRescueAutoPrompt() {
+        // Only auto-prompt once per day; manual taps always work via streakLabel.
+        guard !streakRescueStore.hasShownAutoPromptToday() else { return }
+        guard rescueWindowOpen else { return }
+        streakRescueStore.markAutoPromptShown()
+        // Defer slightly so it doesn't collide with onboarding / promo
+        // popups racing on first launch.
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) {
+            showRescueSheet = true
+        }
     }
 
     private func checkPromoExpiryWarning() {
@@ -1124,11 +1180,24 @@ struct ContentView: View {
             }
     }
 
-    // MARK: - Streak label (tiered)
+    // MARK: - Streak label (tiered + rescue-aware)
+
+    /// True iff yesterday is recoverable (rescue window open) AND today's
+    /// 5-min threshold hasn't been crossed yet. Drives the blue-grey breathing
+    /// visual + makes the rescue sheet open via the streak tap target.
+    private var rescueWindowOpen: Bool {
+        streakRescueStore.currentOffer(
+            streakLastDateKey: usageTracker.streakLastDateString,
+            streakDays:        usageTracker.streakDays
+        ) != nil
+    }
 
     @ViewBuilder
     private var streakLabel: some View {
+        let inRescue = rescueWindowOpen
         // Visual reward grows with streak length: bigger / hotter / glowing.
+        // During the rescue window we override colors with a cool blue-grey
+        // and let the breathing-modifier pulse opacity to draw the eye.
         let tier: (size: CGFloat, color: Color, glow: CGFloat) = {
             switch usageTracker.streakDays {
             case 0:        return (13, Color.lllbSecondaryText,  0)
@@ -1138,18 +1207,51 @@ struct ContentView: View {
             default:       return (17, Color(red: 0.95, green: 0.25, blue: 0.10), 5)
             }
         }()
+        let blueGrey = Color(red: 0.42, green: 0.50, blue: 0.62)
+        let activeColor = inRescue ? blueGrey : tier.color
+        let activeGlow:  CGFloat = inRescue ? 0 : tier.glow
         HStack(spacing: 3) {
             Image(systemName: "flame.fill")
                 .font(.system(size: tier.size, weight: .semibold))
-                .foregroundStyle(tier.color)
-                .shadow(color: tier.glow > 0 ? tier.color.opacity(0.55) : .clear,
-                        radius: tier.glow)
+                .foregroundStyle(activeColor)
+                .shadow(color: activeGlow > 0 ? activeColor.opacity(0.55) : .clear,
+                        radius: activeGlow)
             Text("\(usageTracker.streakDays)")
                 .font(.system(size: tier.size - 1, weight: .semibold))
-                .foregroundStyle(tier.color)
+                .foregroundStyle(activeColor)
                 .contentTransition(.numericText())
                 .animation(.spring(response: 0.45, dampingFraction: 0.7), value: usageTracker.streakDays)
         }
+        .modifier(StreakRescueBreathing(active: inRescue))
+        .contentShape(Rectangle())
+        .onTapGesture {
+            Haptics.light()
+            showRescueSheet = true
+        }
+    }
+}
+
+// MARK: - Streak rescue-window breathing modifier
+
+/// Pulses opacity 0.55 ↔ 1.0 in a slow ~2.4s cycle while `active`. Used to
+/// signal that the streak is in a recoverable state.
+private struct StreakRescueBreathing: ViewModifier {
+    let active: Bool
+    @State private var pulse: Bool = false
+
+    func body(content: Content) -> some View {
+        content
+            .opacity(active ? (pulse ? 1.0 : 0.55) : 1.0)
+            .animation(active
+                ? .easeInOut(duration: 1.2).repeatForever(autoreverses: true)
+                : .default,
+                value: pulse)
+            .onAppear {
+                if active { pulse = true }
+            }
+            .onChange(of: active) { now in
+                pulse = now
+            }
     }
 }
 
