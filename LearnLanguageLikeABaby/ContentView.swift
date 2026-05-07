@@ -107,20 +107,13 @@ struct ContentView: View {
                     .padding(.horizontal, 4)
                 }
 
-                // ── Floating xmark (focus / favorite / tag mode) ──────────────
+                // ── Exit pill (focus / favorite / tag mode) ───────────────────
                 if session.focusedLemma != nil || session.isFavoriteMode || session.activatedTag != nil {
                     VStack {
                         Spacer()
-                        Button { session.dismissVoiceBranch() } label: {
-                            Image(systemName: "xmark.circle.fill")
-                                .symbolRenderingMode(.hierarchical)
-                                .font(.title2)
-                                .foregroundStyle(Color.lllbAccent)
-                                .padding(14)
-                                .background(.ultraThinMaterial, in: Circle())
-                        }
-                        .buttonStyle(.plain)
-                        .padding(.bottom, 32)
+                        exitPillButton
+                            .padding(.horizontal, 16)
+                            .padding(.bottom, 32)
                     }
                 }
 
@@ -852,6 +845,57 @@ struct ContentView: View {
         .buttonStyle(.plain)
     }
 
+    /// Bottom-centered pill that doubles as the mode indicator and exit
+    /// affordance for focus / favorite / tag modes. Combines what was
+    /// previously split between a top header (lemma + counter) and a small
+    /// floating xmark — new users couldn't connect the two.
+    @ViewBuilder
+    private var exitPillButton: some View {
+        let nl = session.nativeLanguage
+        Button { session.dismissVoiceBranch() } label: {
+            VStack(spacing: 3) {
+                // Line 1: mode label + the key entity (lemma / favorites / tag name)
+                HStack(spacing: 5) {
+                    if let lemma = session.focusedLemma {
+                        Text(L("练习", "Practicing", nativeLanguage: nl))
+                            .foregroundStyle(Color.lllbAccent.opacity(0.65))
+                        Text(lemma)
+                            .font(.system(size: 14, weight: .semibold))
+                            .foregroundStyle(Color.lllbAccent)
+                    } else if session.isFavoriteMode {
+                        Image(systemName: "heart.fill")
+                            .font(.system(size: 12))
+                            .foregroundStyle(Color.lllbAccent)
+                        Text(L("收藏", "Favorites", nativeLanguage: nl))
+                            .font(.system(size: 14, weight: .semibold))
+                            .foregroundStyle(Color.lllbAccent)
+                    } else if let tag = session.activatedTag {
+                        Text(tag)
+                            .font(.system(size: 14, weight: .semibold))
+                            .foregroundStyle(Color.lllbAccent)
+                    }
+                }
+                // Line 2: tap-to-exit + optional playlist counter
+                HStack(spacing: 5) {
+                    Text(L("点击退出", "tap to exit", nativeLanguage: nl))
+                        .foregroundStyle(Color.lllbAccent.opacity(0.65))
+                    if let playlist = session.examplePlaylist {
+                        Text("· \(session.exampleIndex + 1)/\(playlist.count)")
+                            .foregroundStyle(Color.lllbAccent.opacity(0.45))
+                            .monospacedDigit()
+                    }
+                }
+                .font(.system(size: 12))
+            }
+            .font(.system(size: 13))
+            .padding(.horizontal, 16)
+            .padding(.vertical, 10)
+            .background(.ultraThinMaterial, in: RoundedRectangle(cornerRadius: 16))
+            .overlay(RoundedRectangle(cornerRadius: 16).stroke(Color.lllbAccent.opacity(0.6), lineWidth: 1))
+        }
+        .buttonStyle(.plain)
+    }
+
     @ViewBuilder
     private var playCountBadge: some View {
         let count = session.currentSentencePlayCount
@@ -876,38 +920,6 @@ struct ContentView: View {
         let s  = session.currentSentence
         let nl = session.nativeLanguage
         VStack(spacing: 16 * scale) {
-            // Favorite mode indicator
-            if session.isFavoriteMode, let playlist = session.examplePlaylist {
-                HStack {
-                    Image(systemName: "heart.fill").foregroundStyle(Color.lllbAccent)
-                    Text("\(session.exampleIndex + 1)/\(playlist.count)")
-                        .font(.system(size: dynSize(.caption1) * scale, weight: .semibold))
-                        .foregroundStyle(Color.lllbAccent.opacity(0.7))
-                    Spacer()
-                }
-                .padding(.bottom, 4 * scale)
-            }
-
-            // Focus mode header
-            if let lemma = session.focusedLemma {
-                HStack(spacing: 8 * scale) {
-                    Text(session.focusedTokenText)
-                        .font(.system(size: dynSize(.title1) * scale, weight: .bold))
-                        .foregroundStyle(Color.lllbAccent)
-                    Text("·").foregroundStyle(Color.lllbAccent.opacity(0.5))
-                    Text(lemma)
-                        .font(.system(size: dynSize(.title3) * scale))
-                        .foregroundStyle(Color.lllbAccent.opacity(0.7))
-                    Spacer()
-                    if let playlist = session.examplePlaylist {
-                        Text("\(session.exampleIndex + 1)/\(playlist.count)")
-                            .font(.system(size: dynSize(.caption1) * scale, weight: .semibold))
-                            .foregroundStyle(Color.lllbAccent.opacity(0.7))
-                    }
-                }
-                .padding(.bottom, 4 * scale)
-            }
-
             if let err = session.loadError {
                 Text(L("无法加载句库：", "Could not load sentences: ", nativeLanguage: nl) + err)
                     .foregroundStyle(.red).multilineTextAlignment(.center)
@@ -952,14 +964,11 @@ struct ContentView: View {
         let showTokTr          = session.showTranslation && !familiar &&
             !token.translation.resolvedTranslation(nativeLanguage: session.nativeLanguage).isEmpty
         let tokenLemmaForFocus = token.lemma ?? display
-        let isFocusedToken     = session.focusedLemma != nil && tokenLemmaForFocus == session.focusedLemma
 
         // Outline-only active states: keep chip bg, boost stroke, leave text primary
         let chipBg     = Color.lllbChipBg
-        let chipStroke: Color = isFocusedToken ? Color.lllbAccent :
-                                highlighted    ? Color.lllbAccent.opacity(0.75) :
-                                                 Color.lllbChipStroke
-        let chipStrokeWidth: CGFloat = isFocusedToken ? 1.8 : highlighted ? 1.5 : 0.5
+        let chipStroke: Color = highlighted ? Color.lllbAccent.opacity(0.75) : Color.lllbChipStroke
+        let chipStrokeWidth: CGFloat = highlighted ? 1.5 : 0.5
         let spellingColor: Color     = Color.primary
 
         let isMultiWord = display.contains(" ")

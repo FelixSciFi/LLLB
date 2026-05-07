@@ -106,8 +106,11 @@ struct ProgressRing: View {
             }
         }
         .frame(width: diameter, height: diameter)
+        // SwiftUI's implicit `repeatForever` shadow breathing (line 80) does not
+        // reliably stop when isAchieved flips back via `.animation(nil, ...)`.
+        // Rebuilding the view on the boundary kills any in-flight animation.
+        .id(isAchieved)
         .onAppear { if isAchieved { pulse = true } }
-        .onChange(of: isAchieved) { if $0 { pulse = true } else { pulse = false } }
     }
 }
 
