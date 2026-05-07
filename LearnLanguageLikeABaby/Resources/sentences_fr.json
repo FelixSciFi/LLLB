@@ -14706,7 +14706,7 @@
       "tokens": [
         {
           "text": "assieds-toi",
-          "lemma": "s'asseoir",
+          "lemma": "asseoir",
           "ipa": "asje twa",
           "translation": {
             "zh": "坐下",
@@ -15642,7 +15642,7 @@
     },
     {
       "text": "un centre commercial de luxe",
-      "ipa": "œ̃ sɑ̃tr komɛrsjal də lyks",
+      "ipa": "œ̃ sɑ̃tʁ komɛʁsjal də lyks",
       "translation": {
         "zh": "豪华购物中心",
         "en": "luxury shopping mall"
@@ -15652,7 +15652,7 @@
         {
           "text": "un centre commercial",
           "lemma": "centre commercial",
-          "ipa": "œ̃ sɑ̃tr komɛrsjal",
+          "ipa": "œ̃ sɑ̃tʁ komɛʁsjal",
           "translation": {
             "zh": "购物中心",
             "en": "shopping mall"
@@ -15696,7 +15696,7 @@
     },
     {
       "text": "un câble de données et un chargeur",
-      "ipa": "œ̃ kabl də dɔne e œ̃ ʃarʒœr",
+      "ipa": "œ̃ kabl də dɔne e œ̃ ʃaʁʒœʁ",
       "translation": {
         "zh": "一根数据线和一个充电头",
         "en": "a data cable and a charger"
@@ -15716,7 +15716,7 @@
         {
           "text": "et un chargeur",
           "lemma": "chargeur",
-          "ipa": "e œ̃ ʃarʒœr",
+          "ipa": "e œ̃ ʃaʁʒœʁ",
           "translation": {
             "zh": "充电头",
             "en": "charger"
@@ -15728,7 +15728,7 @@
     },
     {
       "text": "de l'eau minérale et de l'eau pure",
-      "ipa": "də lo minerale e də lo pyr",
+      "ipa": "də lo mineʁale e də lo pyʁ",
       "translation": {
         "zh": "矿泉水和纯净水",
         "en": "mineral water and purified water"
@@ -15738,7 +15738,7 @@
         {
           "text": "de l'eau minérale",
           "lemma": "eau",
-          "ipa": "də lo minerale",
+          "ipa": "də lo mineʁale",
           "translation": {
             "zh": "矿泉水",
             "en": "mineral water"
@@ -15748,7 +15748,7 @@
         {
           "text": "et de l'eau pure",
           "lemma": "eau",
-          "ipa": "e də lo pyr",
+          "ipa": "e də lo pyʁ",
           "translation": {
             "zh": "纯净水",
             "en": "purified water"
@@ -15836,7 +15836,7 @@
     },
     {
       "text": "des escargots",
-      "ipa": "dez ɛskargo",
+      "ipa": "dez ɛskaʁɡo",
       "translation": {
         "zh": "蜗牛",
         "en": "snails"
@@ -15846,7 +15846,7 @@
         {
           "text": "des escargots",
           "lemma": "escargot",
-          "ipa": "dez ɛskargo",
+          "ipa": "dez ɛskaʁɡo",
           "translation": {
             "zh": "蜗牛",
             "en": "snails"
@@ -15890,7 +15890,7 @@
     },
     {
       "text": "du foie gras",
-      "ipa": "dy fwa gra",
+      "ipa": "dy fwa ɡʁa",
       "translation": {
         "zh": "鹅肝酱",
         "en": "foie gras"
@@ -15900,7 +15900,7 @@
         {
           "text": "du foie gras",
           "lemma": "foie gras",
-          "ipa": "dy fwa gra",
+          "ipa": "dy fwa ɡʁa",
           "translation": {
             "zh": "鹅肝酱",
             "en": "foie gras"
@@ -15912,7 +15912,7 @@
     },
     {
       "text": "un plat principal",
-      "ipa": "œ̃ pla prɛ̃sipal",
+      "ipa": "œ̃ pla pʁɛ̃sipal",
       "translation": {
         "zh": "主菜",
         "en": "main course"
@@ -15922,7 +15922,7 @@
         {
           "text": "un plat principal",
           "lemma": "plat principal",
-          "ipa": "œ̃ pla prɛ̃sipal",
+          "ipa": "œ̃ pla pʁɛ̃sipal",
           "translation": {
             "zh": "主菜",
             "en": "main course"
@@ -16020,7 +16020,7 @@
     },
     {
       "text": "des frites et un coca",
-      "ipa": "de frit e œ̃ kɔka",
+      "ipa": "de fʁit e œ̃ kɔka",
       "translation": {
         "zh": "薯条和可乐",
         "en": "fries and cola"
@@ -16030,7 +16030,7 @@
         {
           "text": "des frites",
           "lemma": "frite",
-          "ipa": "de frit",
+          "ipa": "de fʁit",
           "translation": {
             "zh": "薯条",
             "en": "fries"
@@ -16128,7 +16128,7 @@
     },
     {
       "text": "une crème brûlée",
-      "ipa": "yn krɛm bryle",
+      "ipa": "yn kʁɛm bʁyle",
       "translation": {
         "zh": "焦糖布丁",
         "en": "crème brûlée"
@@ -16138,7 +16138,7 @@
         {
           "text": "une crème brûlée",
           "lemma": "brûlée",
-          "ipa": "yn krɛm bryle",
+          "ipa": "yn kʁɛm bʁyle",
           "translation": {
             "zh": "焦糖布丁",
             "en": "crème brûlée"
@@ -16182,7 +16182,7 @@
     },
     {
       "text": "je veux rentrer à la maison",
-      "ipa": "ʒə vø rɑ̃tre a la mɛzɔ̃",
+      "ipa": "ʒə vø ʁɑ̃tʁe a la mɛzɔ̃",
       "translation": {
         "zh": "我想回家",
         "en": "I want to go home"
@@ -16202,7 +16202,7 @@
         {
           "text": "rentrer",
           "lemma": "rentrer",
-          "ipa": "rɑ̃tre",
+          "ipa": "ʁɑ̃tʁe",
           "translation": {
             "zh": "回家",
             "en": "go home"
@@ -16224,7 +16224,7 @@
     },
     {
       "text": "tes oreilles sont grandes",
-      "ipa": "te ɔrɛj sɔ̃ grɑ̃d",
+      "ipa": "te ɔʁɛj sɔ̃ ɡʁɑ̃d",
       "translation": {
         "zh": "你的耳朵很大",
         "en": "your ears are big"
@@ -16234,7 +16234,7 @@
         {
           "text": "tes oreilles",
           "lemma": "oreille",
-          "ipa": "te ɔrɛj",
+          "ipa": "te ɔʁɛj",
           "translation": {
             "zh": "你的耳朵",
             "en": "your ears"
@@ -16244,7 +16244,7 @@
         {
           "text": "sont grandes",
           "lemma": "grand",
-          "ipa": "sɔ̃ grɑ̃d",
+          "ipa": "sɔ̃ ɡʁɑ̃d",
           "translation": {
             "zh": "很大",
             "en": "are big"
@@ -16520,7 +16520,7 @@
     },
     {
       "text": "tu es en retard",
-      "ipa": "ty ɛ ɑ̃ rətaːr",
+      "ipa": "ty ɛ ɑ̃ ʁətaːʁ",
       "translation": {
         "zh": "你迟到了",
         "en": "you are late"
@@ -16530,7 +16530,7 @@
         {
           "text": "tu es en retard",
           "lemma": "retard",
-          "ipa": "ty ɛ ɑ̃ rətaːr",
+          "ipa": "ty ɛ ɑ̃ ʁətaːʁ",
           "translation": {
             "zh": "你迟到了",
             "en": "you are late"
@@ -16596,7 +16596,7 @@
     },
     {
       "text": "une carte graphique",
-      "ipa": "yn kart grafik",
+      "ipa": "yn kaʁt ɡʁafik",
       "translation": {
         "zh": "显卡",
         "en": "graphics card"
@@ -16606,7 +16606,7 @@
         {
           "text": "une carte",
           "lemma": "carte",
-          "ipa": "yn kart",
+          "ipa": "yn kaʁt",
           "translation": {
             "zh": "卡",
             "en": "card"
@@ -16616,7 +16616,7 @@
         {
           "text": "graphique",
           "lemma": "graphique",
-          "ipa": "grafik",
+          "ipa": "ɡʁafik",
           "translation": {
             "zh": "图形的",
             "en": "graphics"
@@ -16628,7 +16628,7 @@
     },
     {
       "text": "prendre des médicaments et faire une injection",
-      "ipa": "prɑ̃dr de medikamɑ̃ e fɛr yn ɛ̃ʒɛksjɔ̃",
+      "ipa": "pʁɑ̃dʁ de medikamɑ̃ e fɛʁ yn ɛ̃ʒɛksjɔ̃",
       "translation": {
         "zh": "吃药和打针",
         "en": "take medicine and get an injection"
@@ -16638,7 +16638,7 @@
         {
           "text": "prendre",
           "lemma": "prendre",
-          "ipa": "prɑ̃dr",
+          "ipa": "pʁɑ̃dʁ",
           "translation": {
             "zh": "吃",
             "en": "take"
@@ -16658,7 +16658,7 @@
         {
           "text": "et faire une injection",
           "lemma": "injection",
-          "ipa": "e fɛr yn ɛ̃ʒɛksjɔ̃",
+          "ipa": "e fɛʁ yn ɛ̃ʒɛksjɔ̃",
           "translation": {
             "zh": "打针",
             "en": "get injection"
@@ -16670,7 +16670,7 @@
     },
     {
       "text": "il fait trop chaud, ouvre la climatisation",
-      "ipa": "il fɛ tro ʃo uvr la klimatizasjɔ̃",
+      "ipa": "il fɛ tʁo ʃo uvʁ la klimatizasjɔ̃",
       "translation": {
         "zh": "太热了，打开空调",
         "en": "it's too hot, turn on the air conditioning"
@@ -16680,7 +16680,7 @@
         {
           "text": "il fait trop chaud",
           "lemma": "chaud",
-          "ipa": "il fɛ tro ʃo",
+          "ipa": "il fɛ tʁo ʃo",
           "translation": {
             "zh": "太热",
             "en": "too hot"
@@ -16690,7 +16690,7 @@
         {
           "text": "ouvre",
           "lemma": "ouvrir",
-          "ipa": "uvr",
+          "ipa": "uvʁ",
           "translation": {
             "zh": "打开",
             "en": "turn on"
@@ -17102,7 +17102,7 @@
     },
     {
       "text": "un grand-père",
-      "ipa": "œ̃ grɑ̃ pɛr",
+      "ipa": "œ̃ ɡʁɑ̃ pɛʁ",
       "translation": {
         "zh": "祖父",
         "en": "grandfather"
@@ -17112,7 +17112,7 @@
         {
           "text": "un grand-père",
           "lemma": "grand-père",
-          "ipa": "œ̃ grɑ̃ pɛr",
+          "ipa": "œ̃ ɡʁɑ̃ pɛʁ",
           "translation": {
             "zh": "祖父",
             "en": "grandfather"
@@ -17124,7 +17124,7 @@
     },
     {
       "text": "je suis en réunion, je t'appelle plus tard",
-      "ipa": "ʒə sɥi ɑ̃ reunjɔ̃ ʒə tapl ply tar",
+      "ipa": "ʒə sɥi ɑ̃ ʁeunjɔ̃ ʒə tapl ply taʁ",
       "translation": {
         "zh": "我在开会，稍后打给你",
         "en": "I'm in a meeting, I'll call you later"
@@ -17134,7 +17134,7 @@
         {
           "text": "je suis en réunion",
           "lemma": "réunion",
-          "ipa": "ʒə sɥi ɑ̃ reunjɔ̃",
+          "ipa": "ʒə sɥi ɑ̃ ʁeunjɔ̃",
           "translation": {
             "zh": "开会",
             "en": "in a meeting"
@@ -17154,7 +17154,7 @@
         {
           "text": "plus tard",
           "lemma": "tard",
-          "ipa": "ply tar",
+          "ipa": "ply taʁ",
           "translation": {
             "zh": "稍后",
             "en": "later"
@@ -17380,7 +17380,7 @@
     },
     {
       "text": "aller à l'hôpital pour prendre un rendez-vous",
-      "ipa": "ale a lɔpital pur prɑ̃dr œ̃ rɑ̃de vu",
+      "ipa": "ale a lɔpital puʁ pʁɑ̃dʁ œ̃ ʁɑ̃de vu",
       "translation": {
         "zh": "去医院挂号",
         "en": "go to the hospital for an appointment"
@@ -17410,7 +17410,7 @@
         {
           "text": "pour prendre un rendez-vous",
           "lemma": "rendez-vous",
-          "ipa": "pur prɑ̃dr œ̃ rɑ̃de vu",
+          "ipa": "puʁ pʁɑ̃dʁ œ̃ ʁɑ̃de vu",
           "translation": {
             "zh": "挂号",
             "en": "appointment"
@@ -17486,7 +17486,7 @@
     },
     {
       "text": "cette chemise coûte trois cent vingt et un euros",
-      "ipa": "sɛt ʃəmiz kut trwa sɑ̃ vɛ̃t e œ̃ ørɔ",
+      "ipa": "sɛt ʃəmiz kut tʁwa sɑ̃ vɛ̃t e œ̃ øʁɔ",
       "translation": {
         "zh": "这件衬衫321欧元",
         "en": "this shirt costs three hundred twenty-one euros"
@@ -17516,7 +17516,7 @@
         {
           "text": "trois cent vingt et un euros",
           "lemma": "euro",
-          "ipa": "trwa sɑ̃ vɛ̃t e œ̃ ørɔ",
+          "ipa": "tʁwa sɑ̃ vɛ̃t e œ̃ øʁɔ",
           "translation": {
             "zh": "321欧元",
             "en": "321 euros"
@@ -17560,7 +17560,7 @@
     },
     {
       "text": "un mari français et une épouse américaine",
-      "ipa": "œ̃ mari frɑ̃sɛ e yn epuz amerikɛn",
+      "ipa": "œ̃ maʁi fʁɑ̃sɛ e yn epuz ameʁikɛn",
       "translation": {
         "zh": "法国丈夫和美国妻子",
         "en": "a French husband and an American wife"
@@ -17570,7 +17570,7 @@
         {
           "text": "un mari français",
           "lemma": "mari",
-          "ipa": "œ̃ mari frɑ̃sɛ",
+          "ipa": "œ̃ maʁi fʁɑ̃sɛ",
           "translation": {
             "zh": "法国丈夫",
             "en": "French husband"
@@ -17580,7 +17580,7 @@
         {
           "text": "et une épouse américaine",
           "lemma": "épouse",
-          "ipa": "e yn epuz amerikɛn",
+          "ipa": "e yn epuz ameʁikɛn",
           "translation": {
             "zh": "美国妻子",
             "en": "American wife"
@@ -17592,7 +17592,7 @@
     },
     {
       "text": "un Chinois et son ami britannique",
-      "ipa": "œ̃ ʃinwa e sɔ̃ nami britanik",
+      "ipa": "œ̃ ʃinwa e sɔ̃ nami bʁitanik",
       "translation": {
         "zh": "中国人和他的英国朋友",
         "en": "a Chinese man and his British friend"
@@ -17612,7 +17612,7 @@
         {
           "text": "et son ami britannique",
           "lemma": "ami",
-          "ipa": "e sɔ̃ nami britanik",
+          "ipa": "e sɔ̃ nami bʁitanik",
           "translation": {
             "zh": "英国朋友",
             "en": "British friend"
@@ -17624,7 +17624,7 @@
     },
     {
       "text": "un homme japonais et un homme brésilien boivent du vin",
-      "ipa": "œ̃ nɔm ʒaponɛ e œ̃ nɔm breziljɛ̃ bwav dy vɛ̃",
+      "ipa": "œ̃ nɔm ʒaponɛ e œ̃ nɔm bʁeziljɛ̃ bwav dy vɛ̃",
       "translation": {
         "zh": "日本男人和巴西男人在喝酒",
         "en": "a Japanese man and a Brazilian man are drinking wine"
@@ -17644,7 +17644,7 @@
         {
           "text": "et un homme brésilien",
           "lemma": "homme",
-          "ipa": "e œ̃ nɔm breziljɛ̃",
+          "ipa": "e œ̃ nɔm bʁeziljɛ̃",
           "translation": {
             "zh": "巴西男人",
             "en": "Brazilian man"
@@ -18180,7 +18180,7 @@
     },
     {
       "text": "un lit et un bureau",
-      "ipa": "œ̃ li e œ̃ byro",
+      "ipa": "œ̃ li e œ̃ byʁo",
       "translation": {
         "zh": "床和书桌",
         "en": "a bed and a desk"
@@ -18200,7 +18200,7 @@
         {
           "text": "et un bureau",
           "lemma": "bureau",
-          "ipa": "e œ̃ byro",
+          "ipa": "e œ̃ byʁo",
           "translation": {
             "zh": "书桌",
             "en": "desk"
@@ -18212,7 +18212,7 @@
     },
     {
       "text": "un four, un robinet et un lave-vaisselle",
-      "ipa": "œ̃ fur œ̃ rɔbinɛ e œ̃ lav vɛsɛl",
+      "ipa": "œ̃ fuʁ œ̃ ʁɔbinɛ e œ̃ lav vɛsɛl",
       "translation": {
         "zh": "烤箱、水龙头和洗碗机",
         "en": "an oven, a tap and a dishwasher"
@@ -18222,7 +18222,7 @@
         {
           "text": "un four",
           "lemma": "four",
-          "ipa": "œ̃ fur",
+          "ipa": "œ̃ fuʁ",
           "translation": {
             "zh": "烤箱",
             "en": "oven"
@@ -18232,7 +18232,7 @@
         {
           "text": "un robinet",
           "lemma": "robinet",
-          "ipa": "œ̃ rɔbinɛ",
+          "ipa": "œ̃ ʁɔbinɛ",
           "translation": {
             "zh": "水龙头",
             "en": "tap"
@@ -18254,7 +18254,7 @@
     },
     {
       "text": "j'ai deux frères aînés et un petit frère",
-      "ipa": "ʒɛ dø frɛr ɛne e œ̃ pəti frɛr",
+      "ipa": "ʒɛ dø fʁɛʁ ɛne e œ̃ pəti fʁɛʁ",
       "translation": {
         "zh": "我有两个哥哥和一个弟弟",
         "en": "I have two older brothers and one younger brother"
@@ -18274,7 +18274,7 @@
         {
           "text": "deux frères aînés",
           "lemma": "frère",
-          "ipa": "dø frɛr ɛne",
+          "ipa": "dø fʁɛʁ ɛne",
           "translation": {
             "zh": "两个哥哥",
             "en": "two older brothers"
@@ -18284,7 +18284,7 @@
         {
           "text": "et un petit frère",
           "lemma": "frère",
-          "ipa": "e œ̃ pəti frɛr",
+          "ipa": "e œ̃ pəti fʁɛʁ",
           "translation": {
             "zh": "一个弟弟",
             "en": "one younger brother"
@@ -18296,7 +18296,7 @@
     },
     {
       "text": "j'ai trois sœurs aînées et quatre petites sœurs",
-      "ipa": "ʒɛ trwa sœr ɛne e katr pətit sœr",
+      "ipa": "ʒɛ tʁwa sœʁ ɛne e katʁ pətit sœʁ",
       "translation": {
         "zh": "我有三个姐姐和四个妹妹",
         "en": "I have three older sisters and four younger sisters"
@@ -18316,7 +18316,7 @@
         {
           "text": "trois sœurs aînées",
           "lemma": "sœur",
-          "ipa": "trwa sœr ɛne",
+          "ipa": "tʁwa sœʁ ɛne",
           "translation": {
             "zh": "三个姐姐",
             "en": "three older sisters"
@@ -18326,7 +18326,7 @@
         {
           "text": "et quatre petites sœurs",
           "lemma": "sœur",
-          "ipa": "e katr pətit sœr",
+          "ipa": "e katʁ pətit sœʁ",
           "translation": {
             "zh": "四个妹妹",
             "en": "four younger sisters"
@@ -18338,7 +18338,7 @@
     },
     {
       "text": "faire la lessive et faire la vaisselle",
-      "ipa": "fɛr la lɛsiv e fɛr la vɛsɛl",
+      "ipa": "fɛʁ la lɛsiv e fɛʁ la vɛsɛl",
       "translation": {
         "zh": "洗衣服和洗碗",
         "en": "do laundry and wash dishes"
@@ -18348,7 +18348,7 @@
         {
           "text": "faire la lessive",
           "lemma": "lessive",
-          "ipa": "fɛr la lɛsiv",
+          "ipa": "fɛʁ la lɛsiv",
           "translation": {
             "zh": "洗衣服",
             "en": "do laundry"
@@ -18358,7 +18358,7 @@
         {
           "text": "et faire la vaisselle",
           "lemma": "vaisselle",
-          "ipa": "e fɛr la vɛsɛl",
+          "ipa": "e fɛʁ la vɛsɛl",
           "translation": {
             "zh": "洗碗",
             "en": "wash dishes"
@@ -18370,7 +18370,7 @@
     },
     {
       "text": "une rue à sens unique",
-      "ipa": "yn ry a sɑ̃s ynik",
+      "ipa": "yn ʁy a sɑ̃s ynik",
       "translation": {
         "zh": "单向街道",
         "en": "one way street"
@@ -18380,7 +18380,7 @@
         {
           "text": "une rue",
           "lemma": "rue",
-          "ipa": "yn ry",
+          "ipa": "yn ʁy",
           "translation": {
             "zh": "街道",
             "en": "street"
@@ -18456,7 +18456,7 @@
     },
     {
       "text": "Prochain arrêt : Louvre - Rivoli.",
-      "ipa": "prɔʃɛ̃ arɛ luvr rivɔli",
+      "ipa": "pʁɔʃɛ̃ aʁɛ luvʁ ʁivɔli",
       "translation": {
         "zh": "下一站：卢浮宫-里沃利。",
         "en": "Next stop: Louvre - Rivoli."
@@ -18466,7 +18466,7 @@
         {
           "text": "Prochain arrêt",
           "lemma": "arrêt",
-          "ipa": "prɔʃɛ̃ arɛ",
+          "ipa": "pʁɔʃɛ̃ aʁɛ",
           "translation": {
             "zh": "下一站",
             "en": "next stop"
@@ -18476,7 +18476,7 @@
         {
           "text": "Louvre - Rivoli",
           "lemma": "Louvre - Rivoli",
-          "ipa": "luvr rivɔli",
+          "ipa": "luvʁ ʁivɔli",
           "translation": {
             "zh": "卢浮宫-里沃利",
             "en": "Louvre - Rivoli"
@@ -18488,7 +18488,7 @@
     },
     {
       "text": "Terminus, tous les voyageurs sont priés de descendre.",
-      "ipa": "tɛrminys tu le vwayaʒœr sɔ̃ prije də dɛsɑ̃dr",
+      "ipa": "tɛʁminys tu le vwayaʒœʁ sɔ̃ pʁije də dɛsɑ̃dʁ",
       "translation": {
         "zh": "终点站，请所有乘客下车。",
         "en": "Terminus, all passengers are requested to exit."
@@ -18498,7 +18498,7 @@
         {
           "text": "Terminus",
           "lemma": "Terminus",
-          "ipa": "tɛrminys",
+          "ipa": "tɛʁminys",
           "translation": {
             "zh": "终点站",
             "en": "terminus"
@@ -18508,7 +18508,7 @@
         {
           "text": "tous les voyageurs",
           "lemma": "voyageur",
-          "ipa": "tu le vwayaʒœr",
+          "ipa": "tu le vwayaʒœʁ",
           "translation": {
             "zh": "所有乘客",
             "en": "all passengers"
@@ -18518,7 +18518,7 @@
         {
           "text": "sont priés de descendre",
           "lemma": "descendre",
-          "ipa": "sɔ̃ prije də dɛsɑ̃dr",
+          "ipa": "sɔ̃ pʁije də dɛsɑ̃dʁ",
           "translation": {
             "zh": "被要求下车",
             "en": "are requested to exit"
@@ -18530,7 +18530,7 @@
     },
     {
       "text": "Attention à la marche en descendant du train.",
-      "ipa": "atɑ̃sjɔ̃ a la marʃ ɑ̃ dɛsɑ̃dɑ̃ dy trɛ̃",
+      "ipa": "atɑ̃sjɔ̃ a la maʁʃ ɑ̃ dɛsɑ̃dɑ̃ dy tʁɛ̃",
       "translation": {
         "zh": "下车时注意台阶。",
         "en": "Mind the gap when exiting the train."
@@ -18550,7 +18550,7 @@
         {
           "text": "à la marche",
           "lemma": "marche",
-          "ipa": "a la marʃ",
+          "ipa": "a la maʁʃ",
           "translation": {
             "zh": "台阶",
             "en": "gap"
@@ -18560,7 +18560,7 @@
         {
           "text": "en descendant du train",
           "lemma": "train",
-          "ipa": "ɑ̃ dɛsɑ̃dɑ̃ dy trɛ̃",
+          "ipa": "ɑ̃ dɛsɑ̃dɑ̃ dy tʁɛ̃",
           "translation": {
             "zh": "下火车时",
             "en": "when exiting train"
@@ -18616,7 +18616,7 @@
     },
     {
       "text": "Prenez garde à l'ouverture des portes.",
-      "ipa": "prəne gard a luvɛrtyːr de pɔrt",
+      "ipa": "pʁəne ɡaʁd a luvɛʁtyːʁ de pɔʁt",
       "translation": {
         "zh": "小心车门打开。",
         "en": "Be careful of the opening doors."
@@ -18626,7 +18626,7 @@
         {
           "text": "Prenez garde",
           "lemma": "prendre garde",
-          "ipa": "prəne gard",
+          "ipa": "pʁəne ɡaʁd",
           "translation": {
             "zh": "小心",
             "en": "be careful"
@@ -18636,7 +18636,7 @@
         {
           "text": "à l'ouverture des portes",
           "lemma": "porte",
-          "ipa": "a luvɛrtyːr de pɔrt",
+          "ipa": "a luvɛʁtyːʁ de pɔʁt",
           "translation": {
             "zh": "车门",
             "en": "doors"
@@ -18680,7 +18680,7 @@
     },
     {
       "text": "Surveillez vos bagages et vos objets personnels.",
-      "ipa": "syrvɛje vo bagaʒ e vo ɔbʒɛ pɛrsonɛl",
+      "ipa": "syʁvɛje vo baɡaʒ e vo ɔbʒɛ pɛʁsonɛl",
       "translation": {
         "zh": "看好你的行李和个人物品。",
         "en": "Watch your luggage and personal belongings."
@@ -18690,7 +18690,7 @@
         {
           "text": "Surveillez",
           "lemma": "surveiller",
-          "ipa": "syrvɛje",
+          "ipa": "syʁvɛje",
           "translation": {
             "zh": "看好",
             "en": "watch"
@@ -18700,7 +18700,7 @@
         {
           "text": "vos bagages",
           "lemma": "bagage",
-          "ipa": "vo bagaʒ",
+          "ipa": "vo baɡaʒ",
           "translation": {
             "zh": "行李",
             "en": "luggage"
@@ -18710,7 +18710,7 @@
         {
           "text": "et vos objets personnels",
           "lemma": "objet",
-          "ipa": "e vo ɔbʒɛ pɛrsonɛl",
+          "ipa": "e vo ɔbʒɛ pɛʁsonɛl",
           "translation": {
             "zh": "个人物品",
             "en": "personal items"
@@ -18808,7 +18808,7 @@
     },
     {
       "text": "attention au sol glissant",
-      "ipa": "atɑ̃sjɔ̃ o sɔl glisɑ̃",
+      "ipa": "atɑ̃sjɔ̃ o sɔl ɡlisɑ̃",
       "translation": {
         "zh": "小心地滑",
         "en": "caution wet floor"
@@ -18828,7 +18828,7 @@
         {
           "text": "au sol glissant",
           "lemma": "sol",
-          "ipa": "o sɔl glisɑ̃",
+          "ipa": "o sɔl ɡlisɑ̃",
           "translation": {
             "zh": "地滑",
             "en": "wet floor"
@@ -18882,7 +18882,7 @@
     },
     {
       "text": "tenez fermement la rampe",
-      "ipa": "təne fɛrmamɑ̃ la rɑ̃p",
+      "ipa": "təne fɛʁmamɑ̃ la ʁɑ̃p",
       "translation": {
         "zh": "紧握扶手",
         "en": "hold the handrail firmly"
@@ -18892,7 +18892,7 @@
         {
           "text": "tenez fermement",
           "lemma": "tenir",
-          "ipa": "təne fɛrmamɑ̃",
+          "ipa": "təne fɛʁmamɑ̃",
           "translation": {
             "zh": "紧握",
             "en": "hold firmly"
@@ -18902,7 +18902,7 @@
         {
           "text": "la rampe",
           "lemma": "rampe",
-          "ipa": "la rɑ̃p",
+          "ipa": "la ʁɑ̃p",
           "translation": {
             "zh": "扶手",
             "en": "handrail"
@@ -18946,7 +18946,7 @@
     },
     {
       "text": "le Jour de l'an est le premier janvier",
-      "ipa": "lə ʒur də lɑ̃ ɛ lə prəmje ʒɑ̃vje",
+      "ipa": "lə ʒuʁ də lɑ̃ ɛ lə pʁəmje ʒɑ̃vje",
       "translation": {
         "zh": "元旦在1月1日",
         "en": "New Year's Day is on January 1st"
@@ -18956,7 +18956,7 @@
         {
           "text": "le Jour de l'an",
           "lemma": "Jour de l'an",
-          "ipa": "lə ʒur də lɑ̃",
+          "ipa": "lə ʒuʁ də lɑ̃",
           "translation": {
             "zh": "元旦",
             "en": "New Year's Day"
@@ -18966,7 +18966,7 @@
         {
           "text": "est le premier janvier",
           "lemma": "janvier",
-          "ipa": "ɛ lə prəmje ʒɑ̃vje",
+          "ipa": "ɛ lə pʁəmje ʒɑ̃vje",
           "translation": {
             "zh": "在1月1日",
             "en": "is January 1st"
@@ -18978,7 +18978,7 @@
     },
     {
       "text": "la Chandeleur est le deux février",
-      "ipa": "la ʃɑ̃dəlœr ɛ lə dø fevrie",
+      "ipa": "la ʃɑ̃dəlœʁ ɛ lə dø fevʁie",
       "translation": {
         "zh": "圣烛节在2月2日",
         "en": "Candlemas is on February 2nd"
@@ -18988,7 +18988,7 @@
         {
           "text": "la Chandeleur",
           "lemma": "Chandeleur",
-          "ipa": "la ʃɑ̃dəlœr",
+          "ipa": "la ʃɑ̃dəlœʁ",
           "translation": {
             "zh": "圣烛节",
             "en": "Candlemas"
@@ -18998,7 +18998,7 @@
         {
           "text": "est le deux février",
           "lemma": "février",
-          "ipa": "ɛ lə dø fevrie",
+          "ipa": "ɛ lə dø fevʁie",
           "translation": {
             "zh": "在2月2日",
             "en": "is February 2nd"
@@ -19010,7 +19010,7 @@
     },
     {
       "text": "la Fête des Grand-mères est le premier mars",
-      "ipa": "la fɛt de grɑ̃ mɛr ɛ lə prəmje mars",
+      "ipa": "la fɛt de ɡʁɑ̃ mɛʁ ɛ lə pʁəmje maʁs",
       "translation": {
         "zh": "祖母节在3月1日",
         "en": "Grandmother's Day is on March 1st"
@@ -19020,7 +19020,7 @@
         {
           "text": "la Fête des Grand-mères",
           "lemma": "Grand-mère",
-          "ipa": "la fɛt de grɑ̃ mɛr",
+          "ipa": "la fɛt de ɡʁɑ̃ mɛʁ",
           "translation": {
             "zh": "祖母节",
             "en": "Grandmother's Day"
@@ -19030,7 +19030,7 @@
         {
           "text": "est le premier mars",
           "lemma": "mars",
-          "ipa": "ɛ lə prəmje mars",
+          "ipa": "ɛ lə pʁəmje maʁs",
           "translation": {
             "zh": "在3月1日",
             "en": "is March 1st"
@@ -19042,7 +19042,7 @@
     },
     {
       "text": "le Lundi de Pâques est le six avril",
-      "ipa": "lə lœ̃di də pak ɛ lə si avril",
+      "ipa": "lə lœ̃di də pak ɛ lə si avʁil",
       "translation": {
         "zh": "复活节周一在4月6日",
         "en": "Easter Monday is on April 6th"
@@ -19062,7 +19062,7 @@
         {
           "text": "est le six avril",
           "lemma": "avril",
-          "ipa": "ɛ lə si avril",
+          "ipa": "ɛ lə si avʁil",
           "translation": {
             "zh": "在4月6日",
             "en": "is April 6th"
@@ -19074,7 +19074,7 @@
     },
     {
       "text": "la Fête du Travail est le premier mai",
-      "ipa": "la fɛt dy travaj ɛ lə prəmje mɛ",
+      "ipa": "la fɛt dy tʁavaj ɛ lə pʁəmje mɛ",
       "translation": {
         "zh": "劳动节在5月1日",
         "en": "Labor Day is on May 1st"
@@ -19084,7 +19084,7 @@
         {
           "text": "la Fête du Travail",
           "lemma": "travail",
-          "ipa": "la fɛt dy travaj",
+          "ipa": "la fɛt dy tʁavaj",
           "translation": {
             "zh": "劳动节",
             "en": "Labor Day"
@@ -19094,7 +19094,7 @@
         {
           "text": "est le premier mai",
           "lemma": "mai",
-          "ipa": "ɛ lə prəmje mɛ",
+          "ipa": "ɛ lə pʁəmje mɛ",
           "translation": {
             "zh": "在5月1日",
             "en": "is May 1st"
@@ -19138,7 +19138,7 @@
     },
     {
       "text": "les grandes vacances sont en juillet",
-      "ipa": "le grɑ̃d vakɑ̃s sɔ̃ ɑ̃ ʒɥije",
+      "ipa": "le ɡʁɑ̃d vakɑ̃s sɔ̃ ɑ̃ ʒɥije",
       "translation": {
         "zh": "暑假在7月",
         "en": "summer vacation is in July"
@@ -19148,7 +19148,7 @@
         {
           "text": "les grandes vacances",
           "lemma": "vacances",
-          "ipa": "le grɑ̃d vakɑ̃s",
+          "ipa": "le ɡʁɑ̃d vakɑ̃s",
           "translation": {
             "zh": "暑假",
             "en": "summer vacation"
@@ -19202,7 +19202,7 @@
     },
     {
       "text": "les Journées du Patrimoine sont le dix-neuf septembre",
-      "ipa": "le ʒurne dy patrimwan sɔ̃ lə di nœf sɛptɑ̃br",
+      "ipa": "le ʒuʁne dy patʁimwan sɔ̃ lə di nœf sɛptɑ̃bʁ",
       "translation": {
         "zh": "欧洲遗产日在9月19日",
         "en": "European Heritage Days are on September 19th"
@@ -19212,7 +19212,7 @@
         {
           "text": "les Journées du Patrimoine",
           "lemma": "patrimoine",
-          "ipa": "le ʒurne dy patrimwan",
+          "ipa": "le ʒuʁne dy patʁimwan",
           "translation": {
             "zh": "欧洲遗产日",
             "en": "European Heritage Days"
@@ -19222,7 +19222,7 @@
         {
           "text": "sont le dix-neuf septembre",
           "lemma": "septembre",
-          "ipa": "sɔ̃ lə di nœf sɛptɑ̃br",
+          "ipa": "sɔ̃ lə di nœf sɛptɑ̃bʁ",
           "translation": {
             "zh": "在9月19日",
             "en": "are September 19th"
@@ -19234,7 +19234,7 @@
     },
     {
       "text": "la Veille de la Toussaint est le trente et un octobre",
-      "ipa": "la vɛj də la tusɛ̃ ɛ lə trɑ̃t œ̃ ɔktɔbr",
+      "ipa": "la vɛj də la tusɛ̃ ɛ lə tʁɑ̃t œ̃ ɔktɔbʁ",
       "translation": {
         "zh": "万圣节前夜在10月31日",
         "en": "Halloween is on October 31st"
@@ -19254,7 +19254,7 @@
         {
           "text": "est le trente et un octobre",
           "lemma": "octobre",
-          "ipa": "ɛ lə trɑ̃t œ̃ ɔktɔbr",
+          "ipa": "ɛ lə tʁɑ̃t œ̃ ɔktɔbʁ",
           "translation": {
             "zh": "在10月31日",
             "en": "is October 31st"
@@ -19266,7 +19266,7 @@
     },
     {
       "text": "la Toussaint est le premier novembre",
-      "ipa": "la tusɛ̃ ɛ lə prəmje nɔvɑ̃br",
+      "ipa": "la tusɛ̃ ɛ lə pʁəmje nɔvɑ̃bʁ",
       "translation": {
         "zh": "万圣节在11月1日",
         "en": "All Saints' Day is on November 1st"
@@ -19286,7 +19286,7 @@
         {
           "text": "est le premier novembre",
           "lemma": "novembre",
-          "ipa": "ɛ lə prəmje nɔvɑ̃br",
+          "ipa": "ɛ lə pʁəmje nɔvɑ̃bʁ",
           "translation": {
             "zh": "在11月1日",
             "en": "is November 1st"
@@ -19298,7 +19298,7 @@
     },
     {
       "text": "Noël est le vingt-cinq décembre",
-      "ipa": "nɔɛl ɛ lə vɛ̃ sɛ̃k desɑ̃br",
+      "ipa": "nɔɛl ɛ lə vɛ̃ sɛ̃k desɑ̃bʁ",
       "translation": {
         "zh": "圣诞节在12月25日",
         "en": "Christmas is on December 25th"
@@ -19318,7 +19318,7 @@
         {
           "text": "est le vingt-cinq décembre",
           "lemma": "décembre",
-          "ipa": "ɛ lə vɛ̃ sɛ̃k desɑ̃br",
+          "ipa": "ɛ lə vɛ̃ sɛ̃k desɑ̃bʁ",
           "translation": {
             "zh": "在12月25日",
             "en": "is December 25th"
@@ -19426,7 +19426,7 @@
     },
     {
       "text": "le vin rouge de Bordeaux",
-      "ipa": "lə vɛ̃ ruʒ də bɔrdo",
+      "ipa": "lə vɛ̃ ʁuʒ də bɔʁdo",
       "translation": {
         "zh": "波尔多的红酒",
         "en": "the red wine of Bordeaux"
@@ -19436,7 +19436,7 @@
         {
           "text": "le vin rouge",
           "lemma": "vin",
-          "ipa": "lə vɛ̃ ruʒ",
+          "ipa": "lə vɛ̃ ʁuʒ",
           "translation": {
             "zh": "红酒",
             "en": "red wine"
@@ -19446,7 +19446,7 @@
         {
           "text": "de Bordeaux",
           "lemma": "Bordeaux",
-          "ipa": "də bɔrdo",
+          "ipa": "də bɔʁdo",
           "translation": {
             "zh": "波尔多的",
             "en": "of Bordeaux"
@@ -19856,7 +19856,7 @@
     },
     {
       "text": "l'Europe de l'Ouest et l'Europe de l'Est",
-      "ipa": "lurɔp də luɛst e lurɔp də luɛst",
+      "ipa": "luʁɔp də luɛst e luʁɔp də luɛst",
       "translation": {
         "zh": "西欧和东欧",
         "en": "Western Europe and Eastern Europe"
@@ -19866,7 +19866,7 @@
         {
           "text": "l'Europe de l'Ouest",
           "lemma": "Europe",
-          "ipa": "lurɔp də luɛst",
+          "ipa": "luʁɔp də luɛst",
           "translation": {
             "zh": "西欧",
             "en": "Western Europe"
@@ -19876,7 +19876,7 @@
         {
           "text": "et l'Europe de l'Est",
           "lemma": "Europe",
-          "ipa": "e lurɔp də luɛst",
+          "ipa": "e luʁɔp də luɛst",
           "translation": {
             "zh": "东欧",
             "en": "Eastern Europe"
@@ -20740,7 +20740,7 @@
     },
     {
       "text": "je suis fatiguée",
-      "ipa": "ʒə sɥi fatige",
+      "ipa": "ʒə sɥi fatiɡe",
       "translation": {
         "zh": "我累了",
         "en": "I'm tired"
@@ -20750,7 +20750,7 @@
         {
           "text": "je suis fatiguée",
           "lemma": "fatigué",
-          "ipa": "ʒə sɥi fatige",
+          "ipa": "ʒə sɥi fatiɡe",
           "translation": {
             "zh": "我累",
             "en": "I'm tired"
@@ -20762,7 +20762,7 @@
     },
     {
       "text": "j'ai besoin de faire une pause",
-      "ipa": "ʒɛ bəzwɛ̃ də fɛr yn poz",
+      "ipa": "ʒɛ bəzwɛ̃ də fɛʁ yn poz",
       "translation": {
         "zh": "我需要休息一下",
         "en": "I need to take a break"
@@ -20782,7 +20782,7 @@
         {
           "text": "de faire une pause",
           "lemma": "pause",
-          "ipa": "də fɛr yn poz",
+          "ipa": "də fɛʁ yn poz",
           "translation": {
             "zh": "休息",
             "en": "take a break"
@@ -20794,7 +20794,7 @@
     },
     {
       "text": "je suis content de te voir",
-      "ipa": "ʒə sɥi kɔ̃tɑ̃ də tə vwar",
+      "ipa": "ʒə sɥi kɔ̃tɑ̃ də tə vwaʁ",
       "translation": {
         "zh": "我很高兴见到你",
         "en": "I'm happy to see you"
@@ -20814,7 +20814,7 @@
         {
           "text": "de te voir",
           "lemma": "voir",
-          "ipa": "də tə vwar",
+          "ipa": "də tə vwaʁ",
           "translation": {
             "zh": "见到你",
             "en": "to see you"
@@ -20836,7 +20836,7 @@
       "tokens": [
         {
           "text": "je m'appelle",
-          "lemma": "s'appeler",
+          "lemma": "appeler",
           "ipa": "ʒə mapɛl",
           "translation": {
             "zh": "我叫",
@@ -21040,7 +21040,7 @@
     },
     {
       "text": "qu'est-ce que tu as fait aujourd'hui ?",
-      "ipa": "kɛs kə ty a fɛ oʒurdɥi",
+      "ipa": "kɛs kə ty a fɛ oʒuʁdɥi",
       "translation": {
         "zh": "你今天做了什么？",
         "en": "what did you do today?"
@@ -21060,7 +21060,7 @@
         {
           "text": "aujourd'hui",
           "lemma": "aujourd'hui",
-          "ipa": "oʒurdɥi",
+          "ipa": "oʒuʁdɥi",
           "translation": {
             "zh": "今天",
             "en": "today"
@@ -21200,7 +21200,7 @@
     },
     {
       "text": "j'aimerais bien prendre une douche",
-      "ipa": "ʒɛmrɛ bjɛ̃ prɑ̃dr yn duʃ",
+      "ipa": "ʒɛmʁɛ bjɛ̃ pʁɑ̃dʁ yn duʃ",
       "translation": {
         "zh": "我很想洗澡",
         "en": "I would like to take a shower"
@@ -21210,7 +21210,7 @@
         {
           "text": "j'aimerais bien",
           "lemma": "aimer",
-          "ipa": "ʒɛmrɛ bjɛ̃",
+          "ipa": "ʒɛmʁɛ bjɛ̃",
           "translation": {
             "zh": "我想",
             "en": "I would like"
@@ -21220,7 +21220,7 @@
         {
           "text": "prendre",
           "lemma": "prendre",
-          "ipa": "prɑ̃dr",
+          "ipa": "pʁɑ̃dʁ",
           "translation": {
             "zh": "洗",
             "en": "take"
@@ -21264,7 +21264,7 @@
     },
     {
       "text": "aucun problème",
-      "ipa": "okœ̃ prɔblɛm",
+      "ipa": "okœ̃ pʁɔblɛm",
       "translation": {
         "zh": "没有问题",
         "en": "no problem"
@@ -21274,7 +21274,7 @@
         {
           "text": "aucun problème",
           "lemma": "problème",
-          "ipa": "okœ̃ prɔblɛm",
+          "ipa": "okœ̃ pʁɔblɛm",
           "translation": {
             "zh": "没有问题",
             "en": "no problem"
@@ -21318,7 +21318,7 @@
     },
     {
       "text": "cette boulangerie est très populaire",
-      "ipa": "sɛt bulɑ̃ʒri ɛ trɛ pɔpylɛr",
+      "ipa": "sɛt bulɑ̃ʒʁi ɛ tʁɛ pɔpylɛʁ",
       "translation": {
         "zh": "这家面包店非常受欢迎",
         "en": "this bakery is very popular"
@@ -21328,7 +21328,7 @@
         {
           "text": "cette boulangerie",
           "lemma": "boulangerie",
-          "ipa": "sɛt bulɑ̃ʒri",
+          "ipa": "sɛt bulɑ̃ʒʁi",
           "translation": {
             "zh": "这家面包店",
             "en": "this bakery"
@@ -21338,7 +21338,7 @@
         {
           "text": "est très populaire",
           "lemma": "populaire",
-          "ipa": "ɛ trɛ pɔpylɛr",
+          "ipa": "ɛ tʁɛ pɔpylɛʁ",
           "translation": {
             "zh": "非常受欢迎",
             "en": "very popular"
@@ -21754,7 +21754,7 @@
       "tokens": [
         {
           "text": "je m'assois",
-          "lemma": "s'asseoir",
+          "lemma": "asseoir",
           "ipa": "ʒə maswa",
           "translation": {
             "zh": "我坐下",
@@ -21766,7 +21766,7 @@
     },
     {
       "text": "Bonsoir. Vous avez décidé ?",
-      "ipa": "bɔ̃swaːr vu zave deside",
+      "ipa": "bɔ̃swaːʁ vu zave deside",
       "translation": {
         "zh": "晚上好。您决定了吗？",
         "en": "Good evening. Have you decided?"
@@ -21776,7 +21776,7 @@
         {
           "text": "Bonsoir",
           "lemma": "bonsoir",
-          "ipa": "bɔ̃swaːr",
+          "ipa": "bɔ̃swaːʁ",
           "translation": {
             "zh": "晚上好",
             "en": "good evening"
@@ -21798,7 +21798,7 @@
     },
     {
       "text": "ça roule ?",
-      "ipa": "sa rul",
+      "ipa": "sa ʁul",
       "translation": {
         "zh": "一切顺利吗？",
         "en": "is everything going well?"
@@ -21808,7 +21808,7 @@
         {
           "text": "ça roule",
           "lemma": "rouler",
-          "ipa": "sa rul",
+          "ipa": "sa ʁul",
           "translation": {
             "zh": "一切顺利",
             "en": "everything is going well"
@@ -21820,7 +21820,7 @@
     },
     {
       "text": "je parle un peu français",
-      "ipa": "ʒə parl œ̃ pø frɑ̃sɛ",
+      "ipa": "ʒə paʁl œ̃ pø fʁɑ̃sɛ",
       "translation": {
         "zh": "我说一点法语",
         "en": "I speak a little French"
@@ -21830,7 +21830,7 @@
         {
           "text": "je parle",
           "lemma": "parler",
-          "ipa": "ʒə parl",
+          "ipa": "ʒə paʁl",
           "translation": {
             "zh": "我说",
             "en": "I speak"
@@ -21840,7 +21840,7 @@
         {
           "text": "un peu français",
           "lemma": "français",
-          "ipa": "œ̃ pø frɑ̃sɛ",
+          "ipa": "œ̃ pø fʁɑ̃sɛ",
           "translation": {
             "zh": "一点法语",
             "en": "a little French"
@@ -21950,7 +21950,7 @@
     },
     {
       "text": "où se trouve la gare ?",
-      "ipa": "u sə truv la gaːr",
+      "ipa": "u sə tʁuv la ɡaːʁ",
       "translation": {
         "zh": "火车站在哪里？",
         "en": "where is the train station?"
@@ -21960,7 +21960,7 @@
         {
           "text": "où se trouve",
           "lemma": "trouver",
-          "ipa": "u sə truv",
+          "ipa": "u sə tʁuv",
           "translation": {
             "zh": "在哪里",
             "en": "where is"
@@ -21970,7 +21970,7 @@
         {
           "text": "la gare",
           "lemma": "gare",
-          "ipa": "la gaːr",
+          "ipa": "la ɡaːʁ",
           "translation": {
             "zh": "火车站",
             "en": "train station"
@@ -21982,7 +21982,7 @@
     },
     {
       "text": "où se trouve le magasin ?",
-      "ipa": "u sə truv lə magaːzɛ̃",
+      "ipa": "u sə tʁuv lə maɡaːzɛ̃",
       "translation": {
         "zh": "商店在哪里？",
         "en": "where is the store?"
@@ -21992,7 +21992,7 @@
         {
           "text": "où se trouve",
           "lemma": "trouver",
-          "ipa": "u sə truv",
+          "ipa": "u sə tʁuv",
           "translation": {
             "zh": "在哪里",
             "en": "where is"
@@ -22002,7 +22002,7 @@
         {
           "text": "le magasin",
           "lemma": "magasin",
-          "ipa": "lə magaːzɛ̃",
+          "ipa": "lə maɡaːzɛ̃",
           "translation": {
             "zh": "商店",
             "en": "store"
@@ -22014,7 +22014,7 @@
     },
     {
       "text": "quatre-vingt-dix-neuf jours",
-      "ipa": "katr vɛ̃t dis nœf ʒur",
+      "ipa": "katʁ vɛ̃t dis nœf ʒuʁ",
       "translation": {
         "zh": "99天",
         "en": "ninety-nine days"
@@ -22024,7 +22024,7 @@
         {
           "text": "quatre-vingt-dix-neuf",
           "lemma": "quatre-vingt-dix-neuf",
-          "ipa": "katr vɛ̃t dis nœf",
+          "ipa": "katʁ vɛ̃t dis nœf",
           "translation": {
             "zh": "99",
             "en": "ninety-nine"
@@ -22034,7 +22034,7 @@
         {
           "text": "jours",
           "lemma": "jour",
-          "ipa": "ʒur",
+          "ipa": "ʒuʁ",
           "translation": {
             "zh": "天",
             "en": "days"
@@ -22110,7 +22110,7 @@
     },
     {
       "text": "alors, quoi de neuf ?",
-      "ipa": "alɔr kwa də nœf",
+      "ipa": "alɔʁ kwa də nœf",
       "translation": {
         "zh": "那么，有什么新鲜事吗？",
         "en": "so, what's new?"
@@ -22120,7 +22120,7 @@
         {
           "text": "alors",
           "lemma": "alors",
-          "ipa": "alɔr",
+          "ipa": "alɔʁ",
           "translation": {
             "zh": "那么",
             "en": "so"
@@ -22218,7 +22218,7 @@
     },
     {
       "text": "Je suis né en mille neuf cent quatre-vingt-onze.",
-      "ipa": "ʒə sɥi ne ɑ̃ mil nœf sɑ̃ katrevɛ̃ ɔ̃z",
+      "ipa": "ʒə sɥi ne ɑ̃ mil nœf sɑ̃ katʁevɛ̃ ɔ̃z",
       "translation": {
         "zh": "我出生于1991年。",
         "en": "I was born in 1991."
@@ -22238,7 +22238,7 @@
         {
           "text": "en mille neuf cent quatre-vingt-onze",
           "lemma": "1991",
-          "ipa": "ɑ̃ mil nœf sɑ̃ katrevɛ̃ ɔ̃z",
+          "ipa": "ɑ̃ mil nœf sɑ̃ katʁevɛ̃ ɔ̃z",
           "translation": {
             "zh": "在1991年",
             "en": "in 1991"
@@ -22528,7 +22528,7 @@
     },
     {
       "text": "J'aime faire du ski.",
-      "ipa": "ʒɛm fɛr dy ski",
+      "ipa": "ʒɛm fɛʁ dy ski",
       "translation": {
         "zh": "我喜欢滑雪",
         "en": "I like to ski"
@@ -22548,7 +22548,7 @@
         {
           "text": "faire du ski",
           "lemma": "faire",
-          "ipa": "fɛr dy ski",
+          "ipa": "fɛʁ dy ski",
           "translation": {
             "zh": "滑雪",
             "en": "ski"
@@ -22592,7 +22592,7 @@
     },
     {
       "text": "Je me lave le visage avant de dormir.",
-      "ipa": "ʒə mə lav lə vizaʒ avɑ̃ də dɔrmir",
+      "ipa": "ʒə mə lav lə vizaʒ avɑ̃ də dɔʁmiʁ",
       "translation": {
         "zh": "我睡前洗脸",
         "en": "I wash my face before sleep"
@@ -22622,7 +22622,7 @@
         {
           "text": "avant de dormir",
           "lemma": "dormir",
-          "ipa": "avɑ̃ də dɔrmir",
+          "ipa": "avɑ̃ də dɔʁmiʁ",
           "translation": {
             "zh": "睡觉前",
             "en": "before sleep"
@@ -22634,7 +22634,7 @@
     },
     {
       "text": "La salle de bain est à côté de la chambre.",
-      "ipa": "la sal də bɛ̃ ɛ ta kote də la ʃɑ̃br",
+      "ipa": "la sal də bɛ̃ ɛ ta kote də la ʃɑ̃bʁ",
       "translation": {
         "zh": "卫生间在卧室旁边",
         "en": "The bathroom is next to the bedroom"
@@ -22664,7 +22664,7 @@
         {
           "text": "la chambre",
           "lemma": "chambre",
-          "ipa": "la ʃɑ̃br",
+          "ipa": "la ʃɑ̃bʁ",
           "translation": {
             "zh": "卧室",
             "en": "bedroom"
@@ -22708,7 +22708,7 @@
     },
     {
       "text": "Ma maison a trois pièces.",
-      "ipa": "ma mɛzɔ̃ a trwa pjɛs",
+      "ipa": "ma mɛzɔ̃ a tʁwa pjɛs",
       "translation": {
         "zh": "我的房子有三个房间",
         "en": "My house has three rooms"
@@ -22728,7 +22728,7 @@
         {
           "text": "a trois pièces",
           "lemma": "avoir",
-          "ipa": "a trwa pjɛs",
+          "ipa": "a tʁwa pjɛs",
           "translation": {
             "zh": "有三个房间",
             "en": "has three rooms"
@@ -22870,7 +22870,7 @@
     },
     {
       "text": "Où est le distributeur ?",
-      "ipa": "u ɛ lə distribytœr",
+      "ipa": "u ɛ lə distʁibytœʁ",
       "translation": {
         "zh": "自动取款机在哪里？",
         "en": "Where is the ATM?"
@@ -22890,7 +22890,7 @@
         {
           "text": "le distributeur",
           "lemma": "distributeur",
-          "ipa": "lə distribytœr",
+          "ipa": "lə distʁibytœʁ",
           "translation": {
             "zh": "自动取款机",
             "en": "ATM"
@@ -23596,7 +23596,7 @@
     },
     {
       "text": "C'est grave ?",
-      "ipa": "sɛ grav",
+      "ipa": "sɛ ɡʁav",
       "translation": {
         "zh": "很严重吗？",
         "en": "Is it serious?"
@@ -23606,7 +23606,7 @@
         {
           "text": "C'est grave",
           "lemma": "grave",
-          "ipa": "sɛ grav",
+          "ipa": "sɛ ɡʁav",
           "translation": {
             "zh": "很严重",
             "en": "is serious"
@@ -23662,7 +23662,7 @@
     },
     {
       "text": "Vous êtes d'accord ?",
-      "ipa": "vu zɛt dakɔr",
+      "ipa": "vu zɛt dakɔʁ",
       "translation": {
         "zh": "你们同意吗？",
         "en": "Do you agree?"
@@ -23682,7 +23682,7 @@
         {
           "text": "d'accord",
           "lemma": "accord",
-          "ipa": "dakɔr",
+          "ipa": "dakɔʁ",
           "translation": {
             "zh": "同意",
             "en": "agree"
@@ -23748,7 +23748,7 @@
     },
     {
       "text": "Un ingénieur chinois.",
-      "ipa": "ɛ̃ ɛ̃ʒenjœr ʃinwa",
+      "ipa": "ɛ̃ ɛ̃ʒenjœʁ ʃinwa",
       "translation": {
         "zh": "一位中国工程师",
         "en": "A Chinese engineer"
@@ -23758,7 +23758,7 @@
         {
           "text": "Un ingénieur",
           "lemma": "ingénieur",
-          "ipa": "ɛ̃ ɛ̃ʒenjœr",
+          "ipa": "ɛ̃ ɛ̃ʒenjœʁ",
           "translation": {
             "zh": "一位工程师",
             "en": "an engineer"
@@ -23781,7 +23781,7 @@
     {
       "id": "1780d909-8782-4236-93c4-5f836767c297",
       "text": "Deux étudiants sénégalais.",
-      "ipa": "dø zetydjɑ̃ senegalɛ",
+      "ipa": "dø zetydjɑ̃ seneɡalɛ",
       "translation": {
         "zh": "两个塞内加尔学生。",
         "en": "Two Senegalese students."
@@ -23801,7 +23801,7 @@
         {
           "text": "sénégalais",
           "lemma": "sénégalais",
-          "ipa": "senegalɛ",
+          "ipa": "seneɡalɛ",
           "translation": {
             "zh": "塞内加尔的",
             "en": "Senegalese"
@@ -23812,7 +23812,7 @@
     },
     {
       "text": "Une infirmière française.",
-      "ipa": "yn ɛ̃firmjɛr frɑ̃sɛz",
+      "ipa": "yn ɛ̃fiʁmjɛʁ fʁɑ̃sɛz",
       "translation": {
         "zh": "一位法国护士",
         "en": "A French nurse"
@@ -23822,7 +23822,7 @@
         {
           "text": "Une infirmière",
           "lemma": "infirmière",
-          "ipa": "yn ɛ̃firmjɛr",
+          "ipa": "yn ɛ̃fiʁmjɛʁ",
           "translation": {
             "zh": "一位护士",
             "en": "a nurse"
@@ -23832,7 +23832,7 @@
         {
           "text": "française",
           "lemma": "français",
-          "ipa": "frɑ̃sɛz",
+          "ipa": "fʁɑ̃sɛz",
           "translation": {
             "zh": "法国的",
             "en": "French"
@@ -23940,7 +23940,7 @@
     },
     {
       "text": "Deux professeurs canadiens.",
-      "ipa": "dø prɔfɛsœr kanadjɛ̃",
+      "ipa": "dø pʁɔfɛsœʁ kanadjɛ̃",
       "translation": {
         "zh": "两位加拿大教授",
         "en": "Two Canadian professors"
@@ -23950,7 +23950,7 @@
         {
           "text": "Deux professeurs",
           "lemma": "professeur",
-          "ipa": "dø prɔfɛsœr",
+          "ipa": "dø pʁɔfɛsœʁ",
           "translation": {
             "zh": "两位教授",
             "en": "two professors"
@@ -24640,7 +24640,7 @@
     },
     {
       "text": "L'usure imperceptible du quotidien finit par épuiser.",
-      "ipa": "lyzyr ɛ̃pɛʁsɛptibl dy kɔtidjɛ̃ fini paʁ epɥize",
+      "ipa": "lyzyʁ ɛ̃pɛʁsɛptibl dy kɔtidjɛ̃ fini paʁ epɥize",
       "translation": {
         "zh": "日常生活中难以察觉的磨损，终究会让人精疲力竭。",
         "en": "The imperceptible wear of daily life ends up exhausting you."
@@ -24650,7 +24650,7 @@
         {
           "text": "L'usure",
           "lemma": "usure",
-          "ipa": "lyzyr",
+          "ipa": "lyzyʁ",
           "translation": {
             "zh": "磨损",
             "en": "wear"
@@ -24945,7 +24945,7 @@
         },
         {
           "text": "s'il vous plaît",
-          "lemma": "s'il-vous-plaît",
+          "lemma": "s'il vous plaît",
           "ipa": "silvuple",
           "translation": {
             "zh": "请",
@@ -25030,7 +25030,7 @@
         },
         {
           "text": "s'amuser",
-          "lemma": "s'amuser",
+          "lemma": "amuser",
           "ipa": "samyze",
           "translation": {
             "zh": "玩乐",
@@ -27101,7 +27101,7 @@
         },
         {
           "text": "pour m'amuser",
-          "lemma": "s'amuser",
+          "lemma": "amuser",
           "ipa": "puʁ mamyze",
           "translation": {
             "zh": "为了好玩",
@@ -29358,7 +29358,7 @@
         },
         {
           "text": "t'appelles-tu",
-          "lemma": "s'appeler",
+          "lemma": "appeler",
           "ipa": "tapɛl ty",
           "translation": {
             "zh": "你叫",
@@ -36675,7 +36675,7 @@
       "tokens": [
         {
           "text": "Elle s'occupe",
-          "lemma": "s'occuper",
+          "lemma": "occuper",
           "ipa": "ɛl sɔkype",
           "translation": {
             "zh": "她负责",
@@ -36942,7 +36942,7 @@
     },
     {
       "text": "Dans trois cents mètres, tournez à gauche.",
-      "ipa": "dɑ̃ tʁwa sɑ̃ mɛtʁ tuʁne a goʃ",
+      "ipa": "dɑ̃ tʁwa sɑ̃ mɛtʁ tuʁne a ɡoʃ",
       "translation": {
         "zh": "三百米后左转。",
         "en": "In three hundred meters, turn left."
@@ -36962,7 +36962,7 @@
         {
           "text": "tournez à gauche",
           "lemma": "tourner",
-          "ipa": "tuʁne a goʃ",
+          "ipa": "tuʁne a ɡoʃ",
           "translation": {
             "zh": "左转",
             "en": "turn left"
@@ -49126,7 +49126,7 @@
     },
     {
       "text": "il affirme la vérité",
-      "ipa": "il afirm la veʁite",
+      "ipa": "il afiʁm la veʁite",
       "translation": {
         "zh": "他断言这是真相",
         "en": "he asserts the truth"
@@ -49136,7 +49136,7 @@
         {
           "text": "il affirme la vérité",
           "lemma": "affirmer",
-          "ipa": "il afirm la veʁite",
+          "ipa": "il afiʁm la veʁite",
           "translation": {
             "zh": "断言真相",
             "en": "assert the truth"
@@ -51956,7 +51956,7 @@
     },
     {
       "text": "les loisirs",
-      "ipa": "le lwazir",
+      "ipa": "le lwaziʁ",
       "translation": {
         "zh": "休闲活动",
         "en": "leisure activities"
@@ -51966,7 +51966,7 @@
         {
           "text": "les loisirs",
           "lemma": "loisir",
-          "ipa": "le lwazir",
+          "ipa": "le lwaziʁ",
           "translation": {
             "zh": "休闲活动",
             "en": "leisure"
@@ -62194,7 +62194,7 @@
     },
     {
       "text": "une catastrophe",
-      "ipa": "yn katastrɔf",
+      "ipa": "yn katastʁɔf",
       "translation": {
         "zh": "一场灾难",
         "en": "a catastrophe"
@@ -62204,7 +62204,7 @@
         {
           "text": "une catastrophe",
           "lemma": "catastrophe",
-          "ipa": "yn katastrɔf",
+          "ipa": "yn katastʁɔf",
           "translation": {
             "zh": "一场灾难",
             "en": "a catastrophe"
@@ -69275,7 +69275,7 @@
       "tokens": [
         {
           "text": "il s'est arrêté brusquement",
-          "lemma": "s'arrêter",
+          "lemma": "arrêter",
           "ipa": "il sɛ taʁɛte bʁyskəmɑ̃",
           "translation": {
             "zh": "突然停下",
@@ -69442,7 +69442,7 @@
     },
     {
       "text": "l'immigration clandestine",
-      "ipa": "limigʁasjɔ̃ klɑ̃dɛstin",
+      "ipa": "limiɡʁasjɔ̃ klɑ̃dɛstin",
       "translation": {
         "zh": "非法移民",
         "en": "illegal immigration"
@@ -69452,7 +69452,7 @@
         {
           "text": "l'immigration clandestine",
           "lemma": "immigration",
-          "ipa": "limigʁasjɔ̃ klɑ̃dɛstin",
+          "ipa": "limiɡʁasjɔ̃ klɑ̃dɛstin",
           "translation": {
             "zh": "非法移民",
             "en": "illegal immigration"
@@ -72728,7 +72728,7 @@
     },
     {
       "text": "s'asseoir sur un banc",
-      "ipa": "saswar syʁ œ̃ bɑ̃",
+      "ipa": "saswaʁ syʁ œ̃ bɑ̃",
       "translation": {
         "zh": "坐在长椅上",
         "en": "sit on a bench"
@@ -72737,8 +72737,8 @@
       "tokens": [
         {
           "text": "s'asseoir",
-          "lemma": "s'asseoir",
-          "ipa": "saswar",
+          "lemma": "asseoir",
+          "ipa": "saswaʁ",
           "translation": {
             "zh": "坐下",
             "en": "sit down"
@@ -105531,7 +105531,7 @@
       "tokens": [
         {
           "text": "elle s'habille",
-          "lemma": "s'habiller",
+          "lemma": "habiller",
           "ipa": "ɛl sabij",
           "translation": {
             "zh": "她穿衣",
@@ -106794,7 +106794,7 @@
     },
     {
       "text": "un supplice douloureux",
-      "ipa": "œ̃ syplis dulurø",
+      "ipa": "œ̃ syplis duluʁø",
       "translation": {
         "zh": "一种痛苦的折磨",
         "en": "a painful torment"
@@ -106814,7 +106814,7 @@
         {
           "text": "douloureux",
           "lemma": "douloureux",
-          "ipa": "dulurø",
+          "ipa": "duluʁø",
           "translation": {
             "zh": "痛苦的",
             "en": "painful"
@@ -109528,7 +109528,7 @@
     },
     {
       "text": "une aspiration profonde",
-      "ipa": "yn aspirasjɔ̃ pʁɔfɔ̃d",
+      "ipa": "yn aspiʁasjɔ̃ pʁɔfɔ̃d",
       "translation": {
         "zh": "深切的渴望",
         "en": "a deep aspiration"
@@ -109538,7 +109538,7 @@
         {
           "text": "une aspiration",
           "lemma": "aspiration",
-          "ipa": "yn aspirasjɔ̃",
+          "ipa": "yn aspiʁasjɔ̃",
           "translation": {
             "zh": "渴望",
             "en": "an aspiration"
@@ -135773,7 +135773,7 @@
         },
         {
           "text": "pour s'amuser",
-          "lemma": "s'amuser",
+          "lemma": "amuser",
           "ipa": "puʁ samyze",
           "translation": {
             "zh": "为了取乐",
@@ -138179,7 +138179,7 @@
       "tokens": [
         {
           "text": "Je m'endors",
-          "lemma": "s'endormir",
+          "lemma": "endormir",
           "ipa": "ʒə mɑ̃dɔʁ",
           "translation": {
             "zh": "我睡着了",
@@ -138793,7 +138793,7 @@
       "tokens": [
         {
           "text": "s'étendent",
-          "lemma": "s'étendre",
+          "lemma": "étendre",
           "ipa": "setɑ̃d",
           "translation": {
             "zh": "铺展",
@@ -142508,7 +142508,7 @@
           "lemma": "à",
           "ipa": "a",
           "translation": {
-            "zh": "",
+            "zh": "到",
             "en": "to"
           },
           "emoji": ""
@@ -152500,7 +152500,7 @@
           "lemma": "que",
           "ipa": "kə",
           "translation": {
-            "zh": "",
+            "zh": "那",
             "en": "that"
           },
           "emoji": ""
