@@ -72641,6 +72641,6430 @@
         }
       ],
       "id": "57f46094-2c72-430f-b410-67a495655c0d"
+    },
+    {
+      "text": "Good morning! Are you hungry?",
+      "ipa": "ɡʊd ˈmɔrnɪŋ ɑr ju ˈhʌŋɡri",
+      "translation": {
+        "zh": "早上好！你饿了吗？",
+        "en": "Good morning! Are you hungry?"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Good morning",
+          "lemma": "morning",
+          "ipa": "ɡʊd ˈmɔrnɪŋ",
+          "translation": {
+            "zh": "早上好",
+            "en": "morning"
+          },
+          "emoji": "🌅"
+        },
+        {
+          "text": "Are you hungry",
+          "lemma": "hungry",
+          "ipa": "ɑr ju ˈhʌŋɡri",
+          "translation": {
+            "zh": "你饿吗",
+            "en": "hungry"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the breakfast table",
+          "index": 0
+        }
+      ],
+      "id": "589dcc03-3bf2-40c6-8c3e-06e8cd4de4e0"
+    },
+    {
+      "text": "Do you want eggs or toast?",
+      "ipa": "du ju wɑnt ɛɡz ɔr toʊst",
+      "translation": {
+        "zh": "你想要鸡蛋还是吐司？",
+        "en": "Do you want eggs or toast?"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Do you want",
+          "lemma": "want",
+          "ipa": "du ju wɑnt",
+          "translation": {
+            "zh": "你想要",
+            "en": "want"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "eggs",
+          "lemma": "egg",
+          "ipa": "ɛɡz",
+          "translation": {
+            "zh": "鸡蛋",
+            "en": "egg"
+          },
+          "emoji": "🥚"
+        },
+        {
+          "text": "or toast",
+          "lemma": "toast",
+          "ipa": "ɔr toʊst",
+          "translation": {
+            "zh": "或吐司",
+            "en": "toast"
+          },
+          "emoji": "🍞"
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the breakfast table",
+          "index": 1
+        }
+      ],
+      "id": "b5f2c4bd-8e4f-4cb6-a73e-00191b86e1f7"
+    },
+    {
+      "text": "I'd like some toast, please.",
+      "ipa": "aɪd laɪk sʌm toʊst pliz",
+      "translation": {
+        "zh": "我想要一些吐司，谢谢。",
+        "en": "I'd like some toast, please."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "I'd like",
+          "lemma": "like",
+          "ipa": "aɪd laɪk",
+          "translation": {
+            "zh": "我想要",
+            "en": "like"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "some toast",
+          "lemma": "toast",
+          "ipa": "sʌm toʊst",
+          "translation": {
+            "zh": "一些吐司",
+            "en": "toast"
+          },
+          "emoji": "🍞"
+        },
+        {
+          "text": "please",
+          "lemma": "please",
+          "ipa": "pliz",
+          "translation": {
+            "zh": "请",
+            "en": "please"
+          },
+          "emoji": "🙏"
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the breakfast table",
+          "index": 2
+        }
+      ],
+      "id": "8a216f73-cc99-4d1e-8256-e5c1b25704cb"
+    },
+    {
+      "text": "Would you like coffee or juice?",
+      "ipa": "wʊd ju laɪk ˈkɔfi ɔr dʒus",
+      "translation": {
+        "zh": "你想要咖啡还是果汁？",
+        "en": "Would you like coffee or juice?"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Would you like",
+          "lemma": "like",
+          "ipa": "wʊd ju laɪk",
+          "translation": {
+            "zh": "你想要",
+            "en": "like"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "coffee",
+          "lemma": "coffee",
+          "ipa": "ˈkɔfi",
+          "translation": {
+            "zh": "咖啡",
+            "en": "coffee"
+          },
+          "emoji": "☕"
+        },
+        {
+          "text": "or juice",
+          "lemma": "juice",
+          "ipa": "ɔr dʒus",
+          "translation": {
+            "zh": "或果汁",
+            "en": "juice"
+          },
+          "emoji": "🧃"
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the breakfast table",
+          "index": 3
+        }
+      ],
+      "id": "4f006433-37ec-4cff-a143-6838d16a6a66"
+    },
+    {
+      "text": "Juice, please. Thank you!",
+      "ipa": "dʒus pliz θæŋk ju",
+      "translation": {
+        "zh": "果汁，谢谢！",
+        "en": "Juice, please. Thank you!"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Juice",
+          "lemma": "juice",
+          "ipa": "dʒus",
+          "translation": {
+            "zh": "果汁",
+            "en": "juice"
+          },
+          "emoji": "🧃"
+        },
+        {
+          "text": "please",
+          "lemma": "please",
+          "ipa": "pliz",
+          "translation": {
+            "zh": "请",
+            "en": "please"
+          },
+          "emoji": "🙏"
+        },
+        {
+          "text": "Thank you",
+          "lemma": "thank",
+          "ipa": "θæŋk ju",
+          "translation": {
+            "zh": "谢谢",
+            "en": "thank you"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the breakfast table",
+          "index": 4
+        }
+      ],
+      "id": "d78ae8d5-f64b-4e0a-b2c7-28151614ff49"
+    },
+    {
+      "text": "Mary had a little lamb",
+      "ipa": "ˈmɛri hæd ə ˈlɪt.əl læm",
+      "translation": {
+        "zh": "玛丽有一只小羊",
+        "en": "Mary had a little lamb"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Mary",
+          "lemma": "Mary",
+          "ipa": "ˈmɛri",
+          "translation": {
+            "zh": "玛丽",
+            "en": "Mary"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "had",
+          "lemma": "have",
+          "ipa": "hæd",
+          "translation": {
+            "zh": "有",
+            "en": "have"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "a little lamb",
+          "lemma": "lamb",
+          "ipa": "ə ˈlɪt.əl læm",
+          "translation": {
+            "zh": "一只小羊",
+            "en": "lamb"
+          },
+          "emoji": "🐑"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mary Had a Little Lamb",
+          "index": 1
+        }
+      ],
+      "id": "f4fbfca8-b35d-4d95-aea6-03073057c917"
+    },
+    {
+      "text": "Its fleece was white as snow",
+      "ipa": "ɪts flis wəz waɪt æz snoʊ",
+      "translation": {
+        "zh": "它的羊毛白如雪",
+        "en": "Its fleece was white as snow"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "its fleece",
+          "lemma": "fleece",
+          "ipa": "ɪts flis",
+          "translation": {
+            "zh": "它的羊毛",
+            "en": "fleece"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "was white",
+          "lemma": "white",
+          "ipa": "wəz waɪt",
+          "translation": {
+            "zh": "是白色的",
+            "en": "white"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "as snow",
+          "lemma": "snow",
+          "ipa": "æz snoʊ",
+          "translation": {
+            "zh": "如雪",
+            "en": "snow"
+          },
+          "emoji": "❄️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mary Had a Little Lamb",
+          "index": 2
+        }
+      ],
+      "id": "abd35f38-9c3b-40d6-9286-cdea327484f4"
+    },
+    {
+      "text": "Everywhere that Mary went",
+      "ipa": "ˈɛvriwɛr ðæt ˈmɛri wɛnt",
+      "translation": {
+        "zh": "玛丽走到哪里",
+        "en": "Everywhere that Mary went"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Everywhere",
+          "lemma": "everywhere",
+          "ipa": "ˈɛvriwɛr",
+          "translation": {
+            "zh": "每个地方",
+            "en": "everywhere"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "that",
+          "lemma": "that",
+          "ipa": "ðæt",
+          "translation": {
+            "zh": "那里",
+            "en": "that"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "Mary",
+          "lemma": "Mary",
+          "ipa": "ˈmɛri",
+          "translation": {
+            "zh": "玛丽",
+            "en": "Mary"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "went",
+          "lemma": "go",
+          "ipa": "wɛnt",
+          "translation": {
+            "zh": "去的地方",
+            "en": "go"
+          },
+          "emoji": "🐾"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mary Had a Little Lamb",
+          "index": 3
+        }
+      ],
+      "id": "f96fffe1-9d9e-4cb9-abcf-3ba906f07548"
+    },
+    {
+      "text": "The lamb was sure to go",
+      "ipa": "ðə læm wəz ʃʊr tə ɡoʊ",
+      "translation": {
+        "zh": "那只小羊一定也跟着去",
+        "en": "The lamb was sure to go"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "the lamb",
+          "lemma": "lamb",
+          "ipa": "ðə læm",
+          "translation": {
+            "zh": "那只小羊",
+            "en": "lamb"
+          },
+          "emoji": "🐑"
+        },
+        {
+          "text": "was sure",
+          "lemma": "sure",
+          "ipa": "wəz ʃʊr",
+          "translation": {
+            "zh": "一定",
+            "en": "sure"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "to go",
+          "lemma": "go",
+          "ipa": "tə ɡoʊ",
+          "translation": {
+            "zh": "去",
+            "en": "go"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mary Had a Little Lamb",
+          "index": 4
+        }
+      ],
+      "id": "cae6b655-c593-480d-9fa6-bc08aed1d517"
+    },
+    {
+      "text": "Old MacDonald had a farm",
+      "ipa": "oʊld mækˈdɑn.əld hæd ə fɑrm",
+      "translation": {
+        "zh": "老麦克唐纳有个农场",
+        "en": "Old MacDonald had a farm"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Old MacDonald",
+          "lemma": "Old MacDonald",
+          "ipa": "oʊld mækˈdɑn.əld",
+          "translation": {
+            "zh": "老麦克唐纳",
+            "en": "Old MacDonald"
+          },
+          "emoji": "👨‍🌾"
+        },
+        {
+          "text": "had a farm",
+          "lemma": "farm",
+          "ipa": "hæd ə fɑrm",
+          "translation": {
+            "zh": "有个农场",
+            "en": "farm"
+          },
+          "emoji": "🚜"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Old MacDonald Had a Farm",
+          "index": 1
+        }
+      ],
+      "id": "48d432aa-1aa7-43bf-a40b-528555632604"
+    },
+    {
+      "text": "And on his farm he had a cow",
+      "ipa": "ænd ɑn hɪz fɑrm hi hæd ə kaʊ",
+      "translation": {
+        "zh": "他的农场里有一头奶牛",
+        "en": "And on his farm he had a cow"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "And on his farm",
+          "lemma": "farm",
+          "ipa": "ænd ɑn hɪz fɑrm",
+          "translation": {
+            "zh": "在他的农场",
+            "en": "farm"
+          },
+          "emoji": "🚜"
+        },
+        {
+          "text": "he had a cow",
+          "lemma": "cow",
+          "ipa": "hi hæd ə kaʊ",
+          "translation": {
+            "zh": "他有一头奶牛",
+            "en": "cow"
+          },
+          "emoji": "🐄"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Old MacDonald Had a Farm",
+          "index": 2
+        }
+      ],
+      "id": "59336498-0cd5-40b1-9ae0-9e0adf443d94"
+    },
+    {
+      "text": "With a moo moo here and a moo moo there",
+      "ipa": "wɪð ə mu mu hɪr ænd ə mu mu ðɛr",
+      "translation": {
+        "zh": "这里哞哞那里哞哞",
+        "en": "With a moo moo here and a moo moo there"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "With a moo moo",
+          "lemma": "moo",
+          "ipa": "wɪð ə mu mu",
+          "translation": {
+            "zh": "哞哞声",
+            "en": "moo"
+          },
+          "emoji": "🔊"
+        },
+        {
+          "text": "here",
+          "lemma": "here",
+          "ipa": "hɪr",
+          "translation": {
+            "zh": "这里",
+            "en": "here"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "and a moo moo",
+          "lemma": "moo",
+          "ipa": "ænd ə mu mu",
+          "translation": {
+            "zh": "哞哞声",
+            "en": "moo"
+          },
+          "emoji": "🔊"
+        },
+        {
+          "text": "there",
+          "lemma": "there",
+          "ipa": "ðɛr",
+          "translation": {
+            "zh": "那里",
+            "en": "there"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Old MacDonald Had a Farm",
+          "index": 3
+        }
+      ],
+      "id": "37578b0d-ffa8-4033-bb92-131c26dee145"
+    },
+    {
+      "text": "Here a moo, there a moo, everywhere a moo moo",
+      "ipa": "hɪr ə mu ðɛr ə mu ˈɛvriwɛr ə mu mu",
+      "translation": {
+        "zh": "到处都是哞哞叫",
+        "en": "Here a moo, there a moo, everywhere a moo moo"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Here",
+          "lemma": "here",
+          "ipa": "hɪr",
+          "translation": {
+            "zh": "这里",
+            "en": "here"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "a moo",
+          "lemma": "moo",
+          "ipa": "ə mu",
+          "translation": {
+            "zh": "一声哞",
+            "en": "moo"
+          },
+          "emoji": "🔊"
+        },
+        {
+          "text": "there",
+          "lemma": "there",
+          "ipa": "ðɛr",
+          "translation": {
+            "zh": "那里",
+            "en": "there"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "a moo",
+          "lemma": "moo",
+          "ipa": "ə mu",
+          "translation": {
+            "zh": "一声哞",
+            "en": "moo"
+          },
+          "emoji": "🔊"
+        },
+        {
+          "text": "everywhere a moo moo",
+          "lemma": "moo",
+          "ipa": "ˈɛvriwɛr ə mu mu",
+          "translation": {
+            "zh": "到处哞哞",
+            "en": "moo"
+          },
+          "emoji": "🔊"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Old MacDonald Had a Farm",
+          "index": 4
+        }
+      ],
+      "id": "6fa5f166-ae51-4129-9893-22cae30219b4"
+    },
+    {
+      "text": "Hi, my name is Alex.",
+      "ipa": "haɪ maɪ neɪm ɪz ælɪks",
+      "translation": {
+        "zh": "你好，我叫亚历克斯。",
+        "en": "Hi, my name is Alex."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Hi",
+          "lemma": "hi",
+          "ipa": "haɪ",
+          "translation": {
+            "zh": "你好",
+            "en": "hi"
+          },
+          "emoji": "👋"
+        },
+        {
+          "text": "my name is Alex",
+          "lemma": "name",
+          "ipa": "maɪ neɪm ɪz ælɪks",
+          "translation": {
+            "zh": "我叫亚历克斯",
+            "en": "my name is Alex"
+          },
+          "emoji": "🗣️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Self-introduction",
+          "index": 0
+        }
+      ],
+      "id": "254541a6-a037-4185-b3f1-cd6036fed0e3"
+    },
+    {
+      "text": "I'm twenty years old.",
+      "ipa": "aɪm ˈtwɛnti jɪrz oʊld",
+      "translation": {
+        "zh": "我二十岁。",
+        "en": "I'm twenty years old."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "I'm twenty",
+          "lemma": "twenty",
+          "ipa": "aɪm ˈtwɛnti",
+          "translation": {
+            "zh": "我二十岁",
+            "en": "I'm twenty"
+          },
+          "emoji": "🎂"
+        },
+        {
+          "text": "years old",
+          "lemma": "year",
+          "ipa": "jɪrz oʊld",
+          "translation": {
+            "zh": "岁",
+            "en": "years old"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Self-introduction",
+          "index": 1
+        }
+      ],
+      "id": "52ddf686-4cf1-4b1f-b471-2f9c1b390a16"
+    },
+    {
+      "text": "I'm from China.",
+      "ipa": "aɪm frʌm ˈtʃaɪnə",
+      "translation": {
+        "zh": "我来自中国。",
+        "en": "I'm from China."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "I'm from China",
+          "lemma": "China",
+          "ipa": "aɪm frʌm ˈtʃaɪnə",
+          "translation": {
+            "zh": "我来自中国",
+            "en": "I'm from China"
+          },
+          "emoji": "🇨🇳"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Self-introduction",
+          "index": 2
+        }
+      ],
+      "id": "63be1d4b-e1d4-4849-9aee-9071c690a62d"
+    },
+    {
+      "text": "I'm a student.",
+      "ipa": "aɪm ə ˈstuːdənt",
+      "translation": {
+        "zh": "我是学生。",
+        "en": "I'm a student."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "I'm a student",
+          "lemma": "student",
+          "ipa": "aɪm ə ˈstuːdənt",
+          "translation": {
+            "zh": "我是学生",
+            "en": "I'm a student"
+          },
+          "emoji": "📚"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Self-introduction",
+          "index": 3
+        }
+      ],
+      "id": "56d327d9-7e72-4d78-94b3-3ea800b4b82f"
+    },
+    {
+      "text": "Nice to meet you.",
+      "ipa": "naɪs tə miːt juː",
+      "translation": {
+        "zh": "很高兴认识你。",
+        "en": "Nice to meet you."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Nice to meet you",
+          "lemma": "meet",
+          "ipa": "naɪs tə miːt juː",
+          "translation": {
+            "zh": "很高兴认识你",
+            "en": "nice to meet you"
+          },
+          "emoji": "🙏"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Self-introduction",
+          "index": 4
+        }
+      ],
+      "id": "d2f2fbb5-58d7-43db-8608-878de70b4b90"
+    },
+    {
+      "text": "Twinkle, twinkle, little star",
+      "ipa": "ˈtwɪŋkəl ˈtwɪŋkəl ˈlɪtəl stɑr",
+      "translation": {
+        "zh": "一闪一闪，小星星",
+        "en": "Twinkle, twinkle, little star"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Twinkle, twinkle",
+          "lemma": "twinkle",
+          "ipa": "ˈtwɪŋkəl ˈtwɪŋkəl",
+          "translation": {
+            "zh": "闪烁",
+            "en": "twinkle"
+          },
+          "emoji": "✨"
+        },
+        {
+          "text": "little star",
+          "lemma": "star",
+          "ipa": "ˈlɪtəl stɑr",
+          "translation": {
+            "zh": "小星星",
+            "en": "star"
+          },
+          "emoji": "⭐"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Twinkle Twinkle Little Star",
+          "index": 0
+        }
+      ],
+      "id": "14e6c67e-6da2-4bdf-9711-e555bc79b313"
+    },
+    {
+      "text": "How I wonder what you are",
+      "ipa": "haʊ aɪ ˈwʌndər wʌt juː ɑr",
+      "translation": {
+        "zh": "我多想知道你是什么",
+        "en": "How I wonder what you are"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "How I wonder",
+          "lemma": "wonder",
+          "ipa": "haʊ aɪ ˈwʌndər",
+          "translation": {
+            "zh": "我多想知道",
+            "en": "wonder"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "what you are",
+          "lemma": "be",
+          "ipa": "wʌt juː ɑr",
+          "translation": {
+            "zh": "你是什么",
+            "en": "what you are"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Twinkle Twinkle Little Star",
+          "index": 1
+        }
+      ],
+      "id": "e2f659c6-5f76-4614-9b8e-2d55e67123d2"
+    },
+    {
+      "text": "Up above the world so high",
+      "ipa": "ʌp əˈbʌv ðə wɜrld soʊ haɪ",
+      "translation": {
+        "zh": "高悬于世界之上",
+        "en": "Up above the world so high"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Up above the world",
+          "lemma": "world",
+          "ipa": "ʌp əˈbʌv ðə wɜrld",
+          "translation": {
+            "zh": "在世界上方",
+            "en": "world"
+          },
+          "emoji": "🌍"
+        },
+        {
+          "text": "so high",
+          "lemma": "high",
+          "ipa": "soʊ haɪ",
+          "translation": {
+            "zh": "那么高",
+            "en": "high"
+          },
+          "emoji": "☁️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Twinkle Twinkle Little Star",
+          "index": 2
+        }
+      ],
+      "id": "2f988487-beb2-47f0-aae3-d641a0f562bf"
+    },
+    {
+      "text": "Like a diamond in the sky",
+      "ipa": "laɪk ə ˈdaɪmənd ɪn ðə skaɪ",
+      "translation": {
+        "zh": "像天空中的钻石",
+        "en": "Like a diamond in the sky"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Like a diamond",
+          "lemma": "diamond",
+          "ipa": "laɪk ə ˈdaɪmənd",
+          "translation": {
+            "zh": "像钻石",
+            "en": "diamond"
+          },
+          "emoji": "💎"
+        },
+        {
+          "text": "in the sky",
+          "lemma": "sky",
+          "ipa": "ɪn ðə skaɪ",
+          "translation": {
+            "zh": "在天空中",
+            "en": "sky"
+          },
+          "emoji": "☁️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Twinkle Twinkle Little Star",
+          "index": 3
+        }
+      ],
+      "id": "5949950c-497c-43cc-b53c-50a08ba16d91"
+    },
+    {
+      "text": "All summer the grasshopper sang and played.",
+      "ipa": "ɔl ˈsʌmər ðə ˈɡræsˌhɑpər sæŋ ænd pleɪd",
+      "translation": {
+        "zh": "整个夏天蚱蜢又唱又玩。",
+        "en": "All summer the grasshopper sang and played."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "All summer",
+          "lemma": "summer",
+          "ipa": "ɔl ˈsʌmər",
+          "translation": {
+            "zh": "整个夏天",
+            "en": "summer"
+          },
+          "emoji": "☀️"
+        },
+        {
+          "text": "the grasshopper",
+          "lemma": "grasshopper",
+          "ipa": "ðə ˈɡræsˌhɑpər",
+          "translation": {
+            "zh": "蚱蜢",
+            "en": "grasshopper"
+          },
+          "emoji": "🦗"
+        },
+        {
+          "text": "sang",
+          "lemma": "sing",
+          "ipa": "sæŋ",
+          "translation": {
+            "zh": "唱歌",
+            "en": "sing"
+          },
+          "emoji": "🎵"
+        },
+        {
+          "text": "and played",
+          "lemma": "play",
+          "ipa": "ænd pleɪd",
+          "translation": {
+            "zh": "和玩耍",
+            "en": "play"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Ant and the Grasshopper",
+          "index": 1
+        }
+      ],
+      "id": "0710953d-12bb-4c7e-80ff-4928ada0b260"
+    },
+    {
+      "text": "The ant worked hard every day and stored food for winter.",
+      "ipa": "ði ænt wɜrkt hɑrd ˈɛvri deɪ ænd stɔrd fud fər ˈwɪntər",
+      "translation": {
+        "zh": "蚂蚁每天努力工作，储存冬天的食物。",
+        "en": "The ant worked hard every day and stored food for winter."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "The ant",
+          "lemma": "ant",
+          "ipa": "ði ænt",
+          "translation": {
+            "zh": "蚂蚁",
+            "en": "ant"
+          },
+          "emoji": "🐜"
+        },
+        {
+          "text": "worked hard",
+          "lemma": "work",
+          "ipa": "wɜrkt hɑrd",
+          "translation": {
+            "zh": "努力工作",
+            "en": "work"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "every day",
+          "lemma": "day",
+          "ipa": "ˈɛvri deɪ",
+          "translation": {
+            "zh": "每天",
+            "en": "day"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "and stored food",
+          "lemma": "store",
+          "ipa": "ænd stɔrd fud",
+          "translation": {
+            "zh": "储存食物",
+            "en": "store"
+          },
+          "emoji": "🍞"
+        },
+        {
+          "text": "for winter",
+          "lemma": "winter",
+          "ipa": "fər ˈwɪntər",
+          "translation": {
+            "zh": "为了冬天",
+            "en": "winter"
+          },
+          "emoji": "❄️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Ant and the Grasshopper",
+          "index": 2
+        }
+      ],
+      "id": "1f3f7d86-86c3-44d5-bccf-1f565bf693a9"
+    },
+    {
+      "text": "When winter came, the grasshopper had no food.",
+      "ipa": "wɛn ˈwɪntər keɪm ðə ˈɡræsˌhɑpər hæd noʊ fud",
+      "translation": {
+        "zh": "冬天来临时，蚱蜢没有食物。",
+        "en": "When winter came, the grasshopper had no food."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "When winter came",
+          "lemma": "come",
+          "ipa": "wɛn ˈwɪntər keɪm",
+          "translation": {
+            "zh": "当冬天来临时",
+            "en": "come"
+          },
+          "emoji": "❄️"
+        },
+        {
+          "text": "the grasshopper",
+          "lemma": "grasshopper",
+          "ipa": "ðə ˈɡræsˌhɑpər",
+          "translation": {
+            "zh": "蚱蜢",
+            "en": "grasshopper"
+          },
+          "emoji": "🦗"
+        },
+        {
+          "text": "had no food",
+          "lemma": "food",
+          "ipa": "hæd noʊ fud",
+          "translation": {
+            "zh": "没有食物",
+            "en": "food"
+          },
+          "emoji": "🍞"
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Ant and the Grasshopper",
+          "index": 3
+        }
+      ],
+      "id": "ea42523d-de9f-4e63-9b2b-b52ddad206af"
+    },
+    {
+      "text": "The grasshopper went to the ant and asked for food.",
+      "ipa": "ðə ˈɡræsˌhɑpər wɛnt tə ði ænt ænd æskt fər fud",
+      "translation": {
+        "zh": "蚱蜢去找蚂蚁，请求食物。",
+        "en": "The grasshopper went to the ant and asked for food."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "The grasshopper",
+          "lemma": "grasshopper",
+          "ipa": "ðə ˈɡræsˌhɑpər",
+          "translation": {
+            "zh": "蚱蜢",
+            "en": "grasshopper"
+          },
+          "emoji": "🦗"
+        },
+        {
+          "text": "went to the ant",
+          "lemma": "go",
+          "ipa": "wɛnt tə ði ænt",
+          "translation": {
+            "zh": "去找蚂蚁",
+            "en": "go"
+          },
+          "emoji": "🐜"
+        },
+        {
+          "text": "and asked for food",
+          "lemma": "ask",
+          "ipa": "ænd æskt fər fud",
+          "translation": {
+            "zh": "并请求食物",
+            "en": "ask"
+          },
+          "emoji": "🍞"
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Ant and the Grasshopper",
+          "index": 4
+        }
+      ],
+      "id": "6699148e-4834-469e-be30-653c07fe00dc"
+    },
+    {
+      "text": "The ant said that you must work in summer if you want food in winter.",
+      "ipa": "ði ænt sɛd ðæt ju mʌst wɜrk ɪn ˈsʌmər ɪf ju wɑnt fud ɪn ˈwɪntər",
+      "translation": {
+        "zh": "蚂蚁说，如果冬天想要食物，夏天就必须劳动。",
+        "en": "The ant said that you must work in summer if you want food in winter."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "The ant said",
+          "lemma": "say",
+          "ipa": "ði ænt sɛd",
+          "translation": {
+            "zh": "蚂蚁说",
+            "en": "say"
+          },
+          "emoji": "🐜"
+        },
+        {
+          "text": "that you must work",
+          "lemma": "work",
+          "ipa": "ðæt ju mʌst wɜrk",
+          "translation": {
+            "zh": "你必须劳动",
+            "en": "work"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "in summer",
+          "lemma": "summer",
+          "ipa": "ɪn ˈsʌmər",
+          "translation": {
+            "zh": "在夏天",
+            "en": "summer"
+          },
+          "emoji": "☀️"
+        },
+        {
+          "text": "if you want food",
+          "lemma": "want",
+          "ipa": "ɪf ju wɑnt fud",
+          "translation": {
+            "zh": "如果你想要食物",
+            "en": "want"
+          },
+          "emoji": "🍞"
+        },
+        {
+          "text": "in winter",
+          "lemma": "winter",
+          "ipa": "ɪn ˈwɪntər",
+          "translation": {
+            "zh": "在冬天",
+            "en": "winter"
+          },
+          "emoji": "❄️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Ant and the Grasshopper",
+          "index": 5
+        }
+      ],
+      "id": "edc2d1b7-db55-4792-babd-83120fddf4d5"
+    },
+    {
+      "text": "Hello, doctor. I don't feel well today.",
+      "ipa": "həˈloʊ ˈdɒktər aɪ doʊnt fiːl wɛl təˈdeɪ",
+      "translation": {
+        "zh": "你好，医生。我今天不舒服。",
+        "en": "Hello, doctor. I don't feel well today."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Hello, doctor",
+          "lemma": "doctor",
+          "ipa": "həˈloʊ ˈdɒktər",
+          "translation": {
+            "zh": "你好，医生",
+            "en": "hello, doctor"
+          },
+          "emoji": "🩺"
+        },
+        {
+          "text": "I don't feel well",
+          "lemma": "feel",
+          "ipa": "aɪ doʊnt fiːl wɛl",
+          "translation": {
+            "zh": "我不舒服",
+            "en": "I don't feel well"
+          },
+          "emoji": "🤒"
+        },
+        {
+          "text": "today",
+          "lemma": "today",
+          "ipa": "təˈdeɪ",
+          "translation": {
+            "zh": "今天",
+            "en": "today"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the doctor's office",
+          "index": 0
+        }
+      ],
+      "id": "0ffe7edd-db28-4186-ad3c-32bb0ec9afce"
+    },
+    {
+      "text": "What are your symptoms? Do you have a fever?",
+      "ipa": "wʌt ɑːr jʊər ˈsɪmptəmz duː juː hæv ə ˈfiːvər",
+      "translation": {
+        "zh": "你有什么症状？你发烧了吗？",
+        "en": "What are your symptoms? Do you have a fever?"
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "What are your symptoms",
+          "lemma": "symptom",
+          "ipa": "wʌt ɑːr jʊər ˈsɪmptəmz",
+          "translation": {
+            "zh": "你有什么症状",
+            "en": "what are your symptoms"
+          },
+          "emoji": "🩺"
+        },
+        {
+          "text": "Do you have a fever",
+          "lemma": "fever",
+          "ipa": "duː juː hæv ə ˈfiːvər",
+          "translation": {
+            "zh": "你发烧了吗",
+            "en": "do you have a fever"
+          },
+          "emoji": "🤒"
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the doctor's office",
+          "index": 1
+        }
+      ],
+      "id": "5197494c-e4ab-4716-aafa-9f3c7e3be4d7"
+    },
+    {
+      "text": "I have a headache and a sore throat.",
+      "ipa": "aɪ hæv ə ˈhɛdeɪk ænd ə sɔːr θroʊt",
+      "translation": {
+        "zh": "我头疼，嗓子也疼。",
+        "en": "I have a headache and a sore throat."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "I have a headache",
+          "lemma": "headache",
+          "ipa": "aɪ hæv ə ˈhɛdeɪk",
+          "translation": {
+            "zh": "我头疼",
+            "en": "I have a headache"
+          },
+          "emoji": "🤕"
+        },
+        {
+          "text": "and a sore throat",
+          "lemma": "sore throat",
+          "ipa": "ænd ə sɔːr θroʊt",
+          "translation": {
+            "zh": "还有嗓子疼",
+            "en": "and a sore throat"
+          },
+          "emoji": "🤒"
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the doctor's office",
+          "index": 2
+        }
+      ],
+      "id": "fd4d32c2-fdea-4851-ac36-6d475bec1e20"
+    },
+    {
+      "text": "You should rest and drink plenty of water.",
+      "ipa": "juː ʃʊd rɛst ænd drɪŋk ˈplɛnti əv ˈwɔːtər",
+      "translation": {
+        "zh": "你应该休息，多喝水。",
+        "en": "You should rest and drink plenty of water."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "You should rest",
+          "lemma": "rest",
+          "ipa": "juː ʃʊd rɛst",
+          "translation": {
+            "zh": "你应该休息",
+            "en": "you should rest"
+          },
+          "emoji": "🛌"
+        },
+        {
+          "text": "and drink",
+          "lemma": "drink",
+          "ipa": "ænd drɪŋk",
+          "translation": {
+            "zh": "并且喝",
+            "en": "and drink"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "plenty of water",
+          "lemma": "water",
+          "ipa": "ˈplɛnti əv ˈwɔːtər",
+          "translation": {
+            "zh": "大量的水",
+            "en": "plenty of water"
+          },
+          "emoji": "💧"
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the doctor's office",
+          "index": 3
+        }
+      ],
+      "id": "55d23ce5-1764-4759-9fd4-68ef5c607f7e"
+    },
+    {
+      "text": "I'll also give you some medicine. Take care!",
+      "ipa": "aɪl ˈɔːlsoʊ ɡɪv juː sʌm ˈmɛdɪsɪn teɪk kɛr",
+      "translation": {
+        "zh": "我还会给你开些药。保重！",
+        "en": "I'll also give you some medicine. Take care!"
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "I'll also give you",
+          "lemma": "give",
+          "ipa": "aɪl ˈɔːlsoʊ ɡɪv juː",
+          "translation": {
+            "zh": "我还会给你",
+            "en": "I'll also give you"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "some medicine",
+          "lemma": "medicine",
+          "ipa": "sʌm ˈmɛdɪsɪn",
+          "translation": {
+            "zh": "一些药",
+            "en": "some medicine"
+          },
+          "emoji": "💊"
+        },
+        {
+          "text": "Take care",
+          "lemma": "take care",
+          "ipa": "teɪk kɛr",
+          "translation": {
+            "zh": "保重",
+            "en": "take care"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the doctor's office",
+          "index": 4
+        }
+      ],
+      "id": "50934695-6111-4817-ae16-e30f0b7d56ca"
+    },
+    {
+      "text": "Hello! Welcome to the store.",
+      "ipa": "həˈloʊ ˈwɛlkəm tə ðə stɔr",
+      "translation": {
+        "zh": "你好！欢迎光临。",
+        "en": "Hello! Welcome to the store."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Hello",
+          "lemma": "hello",
+          "ipa": "həˈloʊ",
+          "translation": {
+            "zh": "你好",
+            "en": "hello"
+          },
+          "emoji": "👋"
+        },
+        {
+          "text": "Welcome to the store",
+          "lemma": "store",
+          "ipa": "ˈwɛlkəm tə ðə stɔr",
+          "translation": {
+            "zh": "欢迎光临",
+            "en": "welcome to the store"
+          },
+          "emoji": "🛒"
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the supermarket",
+          "index": 0
+        }
+      ],
+      "id": "75d223f0-3bf5-4976-9c89-87227b5d6dfb"
+    },
+    {
+      "text": "Excuse me, where can I find the vegetables?",
+      "ipa": "ɪkˈskjuz mi wɛr kæn aɪ faɪnd ðə ˈvɛdʒtəbəlz",
+      "translation": {
+        "zh": "打扰一下，蔬菜在哪里？",
+        "en": "Excuse me, where can I find the vegetables?"
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Excuse me",
+          "lemma": "excuse",
+          "ipa": "ɪkˈskjuz mi",
+          "translation": {
+            "zh": "打扰一下",
+            "en": "excuse me"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "where can I find",
+          "lemma": "find",
+          "ipa": "wɛr kæn aɪ faɪnd",
+          "translation": {
+            "zh": "在哪里找到",
+            "en": "find"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "the vegetables",
+          "lemma": "vegetable",
+          "ipa": "ðə ˈvɛdʒtəbəlz",
+          "translation": {
+            "zh": "蔬菜",
+            "en": "vegetable"
+          },
+          "emoji": "🥦"
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the supermarket",
+          "index": 1
+        }
+      ],
+      "id": "dd108d87-6ed0-4537-aae2-2cc243f159fb"
+    },
+    {
+      "text": "They're in aisle three, next to the fruit.",
+      "ipa": "ðɛr ɪn aɪl θri nɛkst tə ðə frut",
+      "translation": {
+        "zh": "在第三排，水果旁边。",
+        "en": "They're in aisle three, next to the fruit."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "They're in aisle three",
+          "lemma": "aisle",
+          "ipa": "ðɛr ɪn aɪl θri",
+          "translation": {
+            "zh": "在第三排",
+            "en": "aisle three"
+          },
+          "emoji": "🛒"
+        },
+        {
+          "text": "next to the fruit",
+          "lemma": "fruit",
+          "ipa": "nɛkst tə ðə frut",
+          "translation": {
+            "zh": "水果旁边",
+            "en": "fruit"
+          },
+          "emoji": "🍎"
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the supermarket",
+          "index": 2
+        }
+      ],
+      "id": "505a749a-54ff-46b0-8274-3785bb2cf189"
+    },
+    {
+      "text": "How much does a liter of milk cost?",
+      "ipa": "haʊ mʌtʃ dʌz ə ˈliːtər əv mɪlk kɔst",
+      "translation": {
+        "zh": "一升牛奶多少钱？",
+        "en": "How much does a liter of milk cost?"
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "How much",
+          "lemma": "much",
+          "ipa": "haʊ mʌtʃ",
+          "translation": {
+            "zh": "多少钱",
+            "en": "how much"
+          },
+          "emoji": "💵"
+        },
+        {
+          "text": "does a liter of milk cost",
+          "lemma": "milk",
+          "ipa": "dʌz ə ˈliːtər əv mɪlk kɔst",
+          "translation": {
+            "zh": "一升牛奶",
+            "en": "milk"
+          },
+          "emoji": "🥛"
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the supermarket",
+          "index": 3
+        }
+      ],
+      "id": "4709c916-a479-4fe5-b1ee-b3d8f542e407"
+    },
+    {
+      "text": "Can I pay by card?",
+      "ipa": "kæn aɪ peɪ baɪ kɑrd",
+      "translation": {
+        "zh": "可以刷卡付款吗？",
+        "en": "Can I pay by card?"
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Can I pay",
+          "lemma": "pay",
+          "ipa": "kæn aɪ peɪ",
+          "translation": {
+            "zh": "我可以付款",
+            "en": "pay"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "by card",
+          "lemma": "card",
+          "ipa": "baɪ kɑrd",
+          "translation": {
+            "zh": "刷卡",
+            "en": "card"
+          },
+          "emoji": "💳"
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the supermarket",
+          "index": 4
+        }
+      ],
+      "id": "1b0c6c18-b693-45b7-9fc1-ec1cf46fbf2b"
+    },
+    {
+      "text": "Of course. Have a nice day!",
+      "ipa": "əv kɔrs hæv ə naɪs deɪ",
+      "translation": {
+        "zh": "当然可以。祝您愉快！",
+        "en": "Of course. Have a nice day!"
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "Of course",
+          "lemma": "course",
+          "ipa": "əv kɔrs",
+          "translation": {
+            "zh": "当然",
+            "en": "of course"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "Have a nice day",
+          "lemma": "day",
+          "ipa": "hæv ə naɪs deɪ",
+          "translation": {
+            "zh": "祝您愉快",
+            "en": "have a nice day"
+          },
+          "emoji": "🛍️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the supermarket",
+          "index": 5
+        }
+      ],
+      "id": "250b7df0-a27e-4a07-b213-beccdce06b01"
+    },
+    {
+      "text": "The hare said he was the fastest animal.",
+      "ipa": "ðə hɛr sɛd hi wəz ðə ˈfæstəst ˈænɪməl",
+      "translation": {
+        "zh": "野兔说他是最快的动物。",
+        "en": "The hare said he was the fastest animal."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "The hare",
+          "lemma": "hare",
+          "ipa": "ðə hɛr",
+          "translation": {
+            "zh": "野兔",
+            "en": "hare"
+          },
+          "emoji": "🐰"
+        },
+        {
+          "text": "said",
+          "lemma": "say",
+          "ipa": "sɛd",
+          "translation": {
+            "zh": "说",
+            "en": "say"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "he was the fastest animal",
+          "lemma": "fast",
+          "ipa": "hi wəz ðə ˈfæstəst ˈænɪməl",
+          "translation": {
+            "zh": "他是最快的动物",
+            "en": "fast"
+          },
+          "emoji": "🏃"
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Tortoise and the Hare",
+          "index": 1
+        }
+      ],
+      "id": "f5493bb6-91f8-4581-8e30-61cda620678c"
+    },
+    {
+      "text": "The tortoise asked the hare to race.",
+      "ipa": "ðə ˈtɔrtəs æskt ðə hɛr tə reɪs",
+      "translation": {
+        "zh": "乌龟请野兔比赛。",
+        "en": "The tortoise asked the hare to race."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "The tortoise",
+          "lemma": "tortoise",
+          "ipa": "ðə ˈtɔrtəs",
+          "translation": {
+            "zh": "乌龟",
+            "en": "tortoise"
+          },
+          "emoji": "🐢"
+        },
+        {
+          "text": "asked",
+          "lemma": "ask",
+          "ipa": "æskt",
+          "translation": {
+            "zh": "请求",
+            "en": "ask"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "the hare",
+          "lemma": "hare",
+          "ipa": "ðə hɛr",
+          "translation": {
+            "zh": "野兔",
+            "en": "hare"
+          },
+          "emoji": "🐰"
+        },
+        {
+          "text": "to race",
+          "lemma": "race",
+          "ipa": "tə reɪs",
+          "translation": {
+            "zh": "比赛",
+            "en": "race"
+          },
+          "emoji": "🏃"
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Tortoise and the Hare",
+          "index": 2
+        }
+      ],
+      "id": "1e5ae2b6-0208-4bec-aa0e-6cd28f60be0d"
+    },
+    {
+      "text": "The hare ran far ahead and fell asleep under a tree.",
+      "ipa": "ðə hɛr ræn fɑr əˈhɛd ænd fɛl əˈslip ˈʌndər ə tri",
+      "translation": {
+        "zh": "野兔跑到很前面，在一棵树下睡着了。",
+        "en": "The hare ran far ahead and fell asleep under a tree."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "The hare ran",
+          "lemma": "run",
+          "ipa": "ðə hɛr ræn",
+          "translation": {
+            "zh": "野兔跑",
+            "en": "run"
+          },
+          "emoji": "🐰"
+        },
+        {
+          "text": "far ahead",
+          "lemma": "ahead",
+          "ipa": "fɑr əˈhɛd",
+          "translation": {
+            "zh": "很前面",
+            "en": "ahead"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "and fell asleep",
+          "lemma": "sleep",
+          "ipa": "ænd fɛl əˈslip",
+          "translation": {
+            "zh": "然后睡着了",
+            "en": "sleep"
+          },
+          "emoji": "😴"
+        },
+        {
+          "text": "under a tree",
+          "lemma": "tree",
+          "ipa": "ˈʌndər ə tri",
+          "translation": {
+            "zh": "在树下",
+            "en": "tree"
+          },
+          "emoji": "🌳"
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Tortoise and the Hare",
+          "index": 3
+        }
+      ],
+      "id": "3ce56714-ba49-4757-a28c-1abc3b42f151"
+    },
+    {
+      "text": "The tortoise walked slowly but never stopped.",
+      "ipa": "ðə ˈtɔrtəs wɔkt ˈsloʊli bʌt ˈnɛvər stɑpt",
+      "translation": {
+        "zh": "乌龟慢慢地走，但从未停下来。",
+        "en": "The tortoise walked slowly but never stopped."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "The tortoise walked",
+          "lemma": "walk",
+          "ipa": "ðə ˈtɔrtəs wɔkt",
+          "translation": {
+            "zh": "乌龟走路",
+            "en": "walk"
+          },
+          "emoji": "🐢"
+        },
+        {
+          "text": "slowly",
+          "lemma": "slow",
+          "ipa": "ˈsloʊli",
+          "translation": {
+            "zh": "慢慢地",
+            "en": "slow"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "but never stopped",
+          "lemma": "stop",
+          "ipa": "bʌt ˈnɛvər stɑpt",
+          "translation": {
+            "zh": "但从未停下",
+            "en": "stop"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Tortoise and the Hare",
+          "index": 4
+        }
+      ],
+      "id": "729a1004-ad14-43a0-9659-f480035c7c45"
+    },
+    {
+      "text": "The tortoise crossed the finish line first and won the race.",
+      "ipa": "ðə ˈtɔrtəs krɔst ðə ˈfɪnɪʃ laɪn fɜrst ænd wʌn ðə reɪs",
+      "translation": {
+        "zh": "乌龟第一个冲过终点线，赢得了比赛。",
+        "en": "The tortoise crossed the finish line first and won the race."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "The tortoise crossed",
+          "lemma": "cross",
+          "ipa": "ðə ˈtɔrtəs krɔst",
+          "translation": {
+            "zh": "乌龟越过",
+            "en": "cross"
+          },
+          "emoji": "🐢"
+        },
+        {
+          "text": "the finish line",
+          "lemma": "finish line",
+          "ipa": "ðə ˈfɪnɪʃ laɪn",
+          "translation": {
+            "zh": "终点线",
+            "en": "finish line"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "first",
+          "lemma": "first",
+          "ipa": "fɜrst",
+          "translation": {
+            "zh": "第一",
+            "en": "first"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "and won the race",
+          "lemma": "win",
+          "ipa": "ænd wʌn ðə reɪs",
+          "translation": {
+            "zh": "赢得比赛",
+            "en": "win"
+          },
+          "emoji": "🐢"
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Tortoise and the Hare",
+          "index": 5
+        }
+      ],
+      "id": "c3af3c5e-0229-4706-90e1-7cbcaea9c7bf"
+    },
+    {
+      "text": "I'm going to the beach with my family next week.",
+      "ipa": "aɪm ˈɡoʊɪŋ tə ðə biːtʃ wɪð maɪ ˈfæməli nɛkst wiːk",
+      "translation": {
+        "zh": "我下周要和家人去海边。",
+        "en": "I'm going to the beach with my family next week."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "I'm going to the beach",
+          "lemma": "beach",
+          "ipa": "aɪm ˈɡoʊɪŋ tə ðə biːtʃ",
+          "translation": {
+            "zh": "我要去海边",
+            "en": "go to the beach"
+          },
+          "emoji": "🏖️"
+        },
+        {
+          "text": "with my family",
+          "lemma": "family",
+          "ipa": "wɪð maɪ ˈfæməli",
+          "translation": {
+            "zh": "和家人",
+            "en": "with family"
+          },
+          "emoji": "👨‍👩‍👧"
+        },
+        {
+          "text": "next week",
+          "lemma": "week",
+          "ipa": "nɛkst wiːk",
+          "translation": {
+            "zh": "下周",
+            "en": "next week"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Vacation plans",
+          "index": 0
+        }
+      ],
+      "id": "916fa4ca-0aa6-4b81-be69-cc23c36236e7"
+    },
+    {
+      "text": "We stayed at a nice hotel for two weeks.",
+      "ipa": "wiː steɪd æt ə naɪs hoʊˈtɛl fər tuː wiːks",
+      "translation": {
+        "zh": "我们在一家不错的酒店住了两周。",
+        "en": "We stayed at a nice hotel for two weeks."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "We stayed at a nice hotel",
+          "lemma": "hotel",
+          "ipa": "wiː steɪd æt ə naɪs hoʊˈtɛl",
+          "translation": {
+            "zh": "我们住在一家不错的酒店",
+            "en": "stay at a hotel"
+          },
+          "emoji": "🏨"
+        },
+        {
+          "text": "for two weeks",
+          "lemma": "week",
+          "ipa": "fər tuː wiːks",
+          "translation": {
+            "zh": "住了两周",
+            "en": "for two weeks"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Vacation plans",
+          "index": 1
+        }
+      ],
+      "id": "1542b766-0b7d-4dd9-8749-15f4307ee626"
+    },
+    {
+      "text": "I went hiking in the mountains with my friends.",
+      "ipa": "aɪ wɛnt ˈhaɪkɪŋ ɪn ðə ˈmaʊntənz wɪð maɪ frɛndz",
+      "translation": {
+        "zh": "我和朋友们去山里徒步了。",
+        "en": "I went hiking in the mountains with my friends."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "I went hiking",
+          "lemma": "hike",
+          "ipa": "aɪ wɛnt ˈhaɪkɪŋ",
+          "translation": {
+            "zh": "我去徒步",
+            "en": "go hiking"
+          },
+          "emoji": "⛰️"
+        },
+        {
+          "text": "in the mountains",
+          "lemma": "mountain",
+          "ipa": "ɪn ðə ˈmaʊntənz",
+          "translation": {
+            "zh": "在山里",
+            "en": "in the mountains"
+          },
+          "emoji": "⛰️"
+        },
+        {
+          "text": "with my friends",
+          "lemma": "friend",
+          "ipa": "wɪð maɪ frɛndz",
+          "translation": {
+            "zh": "和朋友们",
+            "en": "with friends"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Vacation plans",
+          "index": 2
+        }
+      ],
+      "id": "6cc75d14-3684-445c-8b22-cd4650005934"
+    },
+    {
+      "text": "We'll fly to Paris — it's my favorite city.",
+      "ipa": "wiːl flaɪ tə ˈpærɪs ɪts maɪ ˈfeɪvərɪt ˈsɪti",
+      "translation": {
+        "zh": "我们要飞去巴黎，那是我最喜欢的城市。",
+        "en": "We'll fly to Paris — it's my favorite city."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "We'll fly to Paris",
+          "lemma": "fly",
+          "ipa": "wiːl flaɪ tə ˈpærɪs",
+          "translation": {
+            "zh": "我们要飞去巴黎",
+            "en": "fly to Paris"
+          },
+          "emoji": "✈️"
+        },
+        {
+          "text": "it's my favorite city",
+          "lemma": "city",
+          "ipa": "ɪts maɪ ˈfeɪvərɪt ˈsɪti",
+          "translation": {
+            "zh": "那是我最喜欢的城市",
+            "en": "favorite city"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Vacation plans",
+          "index": 3
+        }
+      ],
+      "id": "0d09694c-bc42-4670-baa8-3f3d61e40c1a"
+    },
+    {
+      "text": "I love that place because the food and the weather are amazing.",
+      "ipa": "aɪ lʌv ðæt pleɪs bɪˈkɔz ðə fuːd ænd ðə ˈwɛðər ər əˈmeɪzɪŋ",
+      "translation": {
+        "zh": "我喜欢那个地方，因为那里的美食和天气都很棒。",
+        "en": "I love that place because the food and the weather are amazing."
+      },
+      "cefr": "A2",
+      "tokens": [
+        {
+          "text": "I love that place",
+          "lemma": "place",
+          "ipa": "aɪ lʌv ðæt pleɪs",
+          "translation": {
+            "zh": "我喜欢那个地方",
+            "en": "love that place"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "because",
+          "lemma": "because",
+          "ipa": "bɪˈkɔz",
+          "translation": {
+            "zh": "因为",
+            "en": "because"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "the food",
+          "lemma": "food",
+          "ipa": "ðə fuːd",
+          "translation": {
+            "zh": "美食",
+            "en": "food"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "and the weather",
+          "lemma": "weather",
+          "ipa": "ænd ðə ˈwɛðər",
+          "translation": {
+            "zh": "还有天气",
+            "en": "weather"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "are amazing",
+          "lemma": "amazing",
+          "ipa": "ər əˈmeɪzɪŋ",
+          "translation": {
+            "zh": "都很棒",
+            "en": "amazing"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Vacation plans",
+          "index": 4
+        }
+      ],
+      "id": "80d22fc8-f28e-4f2d-853c-f33668317ff6"
+    },
+    {
+      "text": "Good morning! How can I help you today?",
+      "ipa": "ɡʊd ˈmɔrnɪŋ haʊ kæn aɪ hɛlp ju təˈdeɪ",
+      "translation": {
+        "zh": "早上好！今天我能帮您什么？",
+        "en": "Good morning! How can I help you today?"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Good morning",
+          "lemma": "morning",
+          "ipa": "ɡʊd ˈmɔrnɪŋ",
+          "translation": {
+            "zh": "早上好",
+            "en": "good morning"
+          },
+          "emoji": "🏦"
+        },
+        {
+          "text": "How can I help you",
+          "lemma": "help",
+          "ipa": "haʊ kæn aɪ hɛlp ju",
+          "translation": {
+            "zh": "我能帮您什么",
+            "en": "help"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "today",
+          "lemma": "today",
+          "ipa": "təˈdeɪ",
+          "translation": {
+            "zh": "今天",
+            "en": "today"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the bank",
+          "index": 0
+        }
+      ],
+      "id": "96a466b5-60cf-41e6-9b27-d24c7f17c1b6"
+    },
+    {
+      "text": "I'd like to open a savings account, please.",
+      "ipa": "aɪd laɪk tʊ ˈoʊpən ə ˈseɪvɪŋz əˈkaʊnt pliːz",
+      "translation": {
+        "zh": "我想开一个储蓄账户，谢谢。",
+        "en": "I'd like to open a savings account, please."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "I'd like to open",
+          "lemma": "like",
+          "ipa": "aɪd laɪk tʊ ˈoʊpən",
+          "translation": {
+            "zh": "我想开",
+            "en": "like"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "a savings account",
+          "lemma": "account",
+          "ipa": "ə ˈseɪvɪŋz əˈkaʊnt",
+          "translation": {
+            "zh": "储蓄账户",
+            "en": "savings account"
+          },
+          "emoji": "🏦"
+        },
+        {
+          "text": "please",
+          "lemma": "please",
+          "ipa": "pliːz",
+          "translation": {
+            "zh": "请",
+            "en": "please"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the bank",
+          "index": 1
+        }
+      ],
+      "id": "bf8a3aae-38d6-4a96-8c39-93beb24a2d35"
+    },
+    {
+      "text": "Could you show me some ID?",
+      "ipa": "kʊd ju ʃoʊ mi sʌm aɪˈdiː",
+      "translation": {
+        "zh": "您能出示一下证件吗？",
+        "en": "Could you show me some ID?"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Could you show me",
+          "lemma": "show",
+          "ipa": "kʊd ju ʃoʊ mi",
+          "translation": {
+            "zh": "您能出示",
+            "en": "show"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "some ID",
+          "lemma": "ID",
+          "ipa": "sʌm aɪˈdiː",
+          "translation": {
+            "zh": "证件",
+            "en": "ID"
+          },
+          "emoji": "🪪"
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the bank",
+          "index": 2
+        }
+      ],
+      "id": "7d4ea515-d254-43d1-a00f-dbc97b6d1007"
+    },
+    {
+      "text": "Sure. You'll need to fill out this form.",
+      "ipa": "ʃʊr juːl niːd tʊ fɪl aʊt ðɪs fɔrm",
+      "translation": {
+        "zh": "好的。您需要填写这张表格。",
+        "en": "Sure. You'll need to fill out this form."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Sure",
+          "lemma": "sure",
+          "ipa": "ʃʊr",
+          "translation": {
+            "zh": "好的",
+            "en": "sure"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "You'll need to fill out",
+          "lemma": "fill out",
+          "ipa": "juːl niːd tʊ fɪl aʊt",
+          "translation": {
+            "zh": "您需要填写",
+            "en": "fill out"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "this form",
+          "lemma": "form",
+          "ipa": "ðɪs fɔrm",
+          "translation": {
+            "zh": "这张表格",
+            "en": "form"
+          },
+          "emoji": "📝"
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the bank",
+          "index": 3
+        }
+      ],
+      "id": "a0f5809a-1bb7-40ad-abed-f41f3733c38c"
+    },
+    {
+      "text": "Are there any fees for this account?",
+      "ipa": "ɑr ðɛr ˈɛni fiːz fər ðɪs əˈkaʊnt",
+      "translation": {
+        "zh": "这个账户有手续费吗？",
+        "en": "Are there any fees for this account?"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Are there any fees",
+          "lemma": "fee",
+          "ipa": "ɑr ðɛr ˈɛni fiːz",
+          "translation": {
+            "zh": "有手续费",
+            "en": "fee"
+          },
+          "emoji": "💵"
+        },
+        {
+          "text": "for this account",
+          "lemma": "account",
+          "ipa": "fər ðɪs əˈkaʊnt",
+          "translation": {
+            "zh": "这个账户",
+            "en": "account"
+          },
+          "emoji": "🏦"
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the bank",
+          "index": 4
+        }
+      ],
+      "id": "30c832e8-9110-4521-b64c-c0912a812cbe"
+    },
+    {
+      "text": "There's no monthly fee. Thank you for choosing us!",
+      "ipa": "ðɛrz noʊ ˈmʌnθli fiː θæŋk ju fər ˈtʃuːzɪŋ ʌs",
+      "translation": {
+        "zh": "没有月费。感谢您选择我们！",
+        "en": "There's no monthly fee. Thank you for choosing us!"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "There's no monthly fee",
+          "lemma": "fee",
+          "ipa": "ðɛrz noʊ ˈmʌnθli fiː",
+          "translation": {
+            "zh": "没有月费",
+            "en": "fee"
+          },
+          "emoji": "💳"
+        },
+        {
+          "text": "Thank you for choosing us",
+          "lemma": "thank",
+          "ipa": "θæŋk ju fər ˈtʃuːzɪŋ ʌs",
+          "translation": {
+            "zh": "感谢您选择我们",
+            "en": "thank you"
+          },
+          "emoji": "🏦"
+        }
+      ],
+      "tags": [
+        {
+          "name": "At the bank",
+          "index": 5
+        }
+      ],
+      "id": "8f454d92-f277-4e5e-b66c-86354029a019"
+    },
+    {
+      "text": "Good morning. Please take a seat and tell me about yourself.",
+      "ipa": "ɡʊd ˈmɔːrnɪŋ pliːz teɪk ə siːt ænd tɛl miː əˈbaʊt jərˈsɛlf",
+      "translation": {
+        "zh": "早上好。请坐，请介绍一下自己。",
+        "en": "Good morning. Please take a seat and tell me about yourself."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Good morning",
+          "lemma": "morning",
+          "ipa": "ɡʊd ˈmɔːrnɪŋ",
+          "translation": {
+            "zh": "早上好",
+            "en": "good morning"
+          },
+          "emoji": "💼"
+        },
+        {
+          "text": "Please take a seat",
+          "lemma": "sit",
+          "ipa": "pliːz teɪk ə siːt",
+          "translation": {
+            "zh": "请坐",
+            "en": "please take a seat"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "and tell me",
+          "lemma": "tell",
+          "ipa": "ænd tɛl miː",
+          "translation": {
+            "zh": "并告诉我",
+            "en": "and tell me"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "about yourself",
+          "lemma": "yourself",
+          "ipa": "əˈbaʊt jərˈsɛlf",
+          "translation": {
+            "zh": "关于你自己",
+            "en": "about yourself"
+          },
+          "emoji": "👔"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Job interview",
+          "index": 0
+        }
+      ],
+      "id": "c0995063-4076-4421-896a-20c81bd1062d"
+    },
+    {
+      "text": "I'm a marketing specialist with three years of experience in digital advertising.",
+      "ipa": "aɪm ə ˈmɑːrkɪtɪŋ ˈspɛʃəlɪst wɪð θriː jɪrz əv ɪkˈspɪriəns ɪn ˈdɪdʒɪtl̩ ˈædvərtaɪzɪŋ",
+      "translation": {
+        "zh": "我是市场专员，有三年数字广告经验。",
+        "en": "I'm a marketing specialist with three years of experience in digital advertising."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "I'm a marketing specialist",
+          "lemma": "specialist",
+          "ipa": "aɪm ə ˈmɑːrkɪtɪŋ ˈspɛʃəlɪst",
+          "translation": {
+            "zh": "我是市场专员",
+            "en": "I'm a marketing specialist"
+          },
+          "emoji": "💼"
+        },
+        {
+          "text": "with three years of experience",
+          "lemma": "experience",
+          "ipa": "wɪð θriː jɪrz əv ɪkˈspɪriəns",
+          "translation": {
+            "zh": "有三年经验",
+            "en": "with three years of experience"
+          },
+          "emoji": "📄"
+        },
+        {
+          "text": "in digital advertising",
+          "lemma": "advertising",
+          "ipa": "ɪn ˈdɪdʒɪtl̩ ˈædvərtaɪzɪŋ",
+          "translation": {
+            "zh": "在数字广告领域",
+            "en": "in digital advertising"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Job interview",
+          "index": 1
+        }
+      ],
+      "id": "17bf7312-191d-4d9e-a6da-f02d22689ce4"
+    },
+    {
+      "text": "Could you tell me about a project where you've worked with a team?",
+      "ipa": "kʊd juː tɛl miː əˈbaʊt ə ˈprɒdʒɛkt wɛr juːv wɜːrkt wɪð ə tiːm",
+      "translation": {
+        "zh": "您能告诉我一个您与团队合作的项目吗？",
+        "en": "Could you tell me about a project where you've worked with a team?"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Could you tell me",
+          "lemma": "tell",
+          "ipa": "kʊd juː tɛl miː",
+          "translation": {
+            "zh": "您能告诉我",
+            "en": "could you tell me"
+          },
+          "emoji": "👔"
+        },
+        {
+          "text": "about a project",
+          "lemma": "project",
+          "ipa": "əˈbaʊt ə ˈprɒdʒɛkt",
+          "translation": {
+            "zh": "关于一个项目",
+            "en": "about a project"
+          },
+          "emoji": "📄"
+        },
+        {
+          "text": "where you've worked",
+          "lemma": "work",
+          "ipa": "wɛr juːv wɜːrkt",
+          "translation": {
+            "zh": "在那里您曾合作过",
+            "en": "where you've worked"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "with a team",
+          "lemma": "team",
+          "ipa": "wɪð ə tiːm",
+          "translation": {
+            "zh": "与团队",
+            "en": "with a team"
+          },
+          "emoji": "💪"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Job interview",
+          "index": 2
+        }
+      ],
+      "id": "cf9a1365-3076-4385-b93d-37f8540e2b54"
+    },
+    {
+      "text": "Last year, I led a campaign that increased our sales by twenty percent.",
+      "ipa": "læst jɪr aɪ lɛd ə kæmˈpeɪn ðæt ɪnˈkriːst ˈaʊər seɪlz baɪ ˈtwɛnti pərˈsɛnt",
+      "translation": {
+        "zh": "去年，我主导了一个让销售额提高了百分之二十的活动。",
+        "en": "Last year, I led a campaign that increased our sales by twenty percent."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Last year",
+          "lemma": "year",
+          "ipa": "læst jɪr",
+          "translation": {
+            "zh": "去年",
+            "en": "last year"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "I led a campaign",
+          "lemma": "lead",
+          "ipa": "aɪ lɛd ə kæmˈpeɪn",
+          "translation": {
+            "zh": "我主导了一个活动",
+            "en": "I led a campaign"
+          },
+          "emoji": "💼"
+        },
+        {
+          "text": "that increased our sales",
+          "lemma": "increase",
+          "ipa": "ðæt ɪnˈkriːst ˈaʊər seɪlz",
+          "translation": {
+            "zh": "使我们的销售额提高",
+            "en": "that increased our sales"
+          },
+          "emoji": "💪"
+        },
+        {
+          "text": "by twenty percent",
+          "lemma": "percent",
+          "ipa": "baɪ ˈtwɛnti pərˈsɛnt",
+          "translation": {
+            "zh": "百分之二十",
+            "en": "by twenty percent"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Job interview",
+          "index": 3
+        }
+      ],
+      "id": "252c2b7d-814d-4eb6-a661-d1faa949ac5d"
+    },
+    {
+      "text": "Why have you chosen to apply for this position at our company?",
+      "ipa": "waɪ hæv juː ˈtʃoʊzən tuː əˈplaɪ fər ðɪs pəˈzɪʃən æt ˈaʊər ˈkʌmpəni",
+      "translation": {
+        "zh": "您为什么选择申请我们公司的这个职位？",
+        "en": "Why have you chosen to apply for this position at our company?"
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Why have you chosen",
+          "lemma": "choose",
+          "ipa": "waɪ hæv juː ˈtʃoʊzən",
+          "translation": {
+            "zh": "您为什么选择",
+            "en": "why have you chosen"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "to apply for this position",
+          "lemma": "apply",
+          "ipa": "tuː əˈplaɪ fər ðɪs pəˈzɪʃən",
+          "translation": {
+            "zh": "申请这个职位",
+            "en": "to apply for this position"
+          },
+          "emoji": "📄"
+        },
+        {
+          "text": "at our company",
+          "lemma": "company",
+          "ipa": "æt ˈaʊər ˈkʌmpəni",
+          "translation": {
+            "zh": "在我们公司",
+            "en": "at our company"
+          },
+          "emoji": "💼"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Job interview",
+          "index": 4
+        }
+      ],
+      "id": "165c628c-1a40-417e-b51e-4325b8c4bc60"
+    },
+    {
+      "text": "I've always admired your company's work, and I believe this role is a great match for my skills.",
+      "ipa": "aɪv ˈɔːlweɪz ˈædmaɪərd jʊər ˈkʌmpəniz wɜːrk ænd aɪ bɪˈliːv ðɪs roʊl ɪz ə ɡreɪt mætʃ fər maɪ skɪlz",
+      "translation": {
+        "zh": "我一直很欣赏贵公司的工作，相信这个职位与我的技能非常匹配。",
+        "en": "I've always admired your company's work, and I believe this role is a great match for my skills."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "I've always admired",
+          "lemma": "admire",
+          "ipa": "aɪv ˈɔːlweɪz ˈædmaɪərd",
+          "translation": {
+            "zh": "我一直很欣赏",
+            "en": "I've always admired"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "your company's work",
+          "lemma": "work",
+          "ipa": "jʊər ˈkʌmpəniz wɜːrk",
+          "translation": {
+            "zh": "贵公司的工作",
+            "en": "your company's work"
+          },
+          "emoji": "💼"
+        },
+        {
+          "text": "and I believe",
+          "lemma": "believe",
+          "ipa": "ænd aɪ bɪˈliːv",
+          "translation": {
+            "zh": "而且我相信",
+            "en": "and I believe"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "this role is a great match",
+          "lemma": "match",
+          "ipa": "ðɪs roʊl ɪz ə ɡreɪt mætʃ",
+          "translation": {
+            "zh": "这个职位非常匹配",
+            "en": "this role is a great match"
+          },
+          "emoji": "💪"
+        },
+        {
+          "text": "for my skills",
+          "lemma": "skill",
+          "ipa": "fər maɪ skɪlz",
+          "translation": {
+            "zh": "我的技能",
+            "en": "for my skills"
+          },
+          "emoji": "📄"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Job interview",
+          "index": 5
+        }
+      ],
+      "id": "26e3ba65-8df5-4f69-a864-1e40485b3b0b"
+    },
+    {
+      "text": "A lion was sleeping in the shade when a tiny mouse ran over his back.",
+      "ipa": "ə ˈlaɪən wəz ˈsliːpɪŋ ɪn ðə ʃeɪd wɛn ə ˈtaɪni maʊs ræn ˈoʊvər hɪz bæk",
+      "translation": {
+        "zh": "一头狮子正在阴凉处睡觉，这时一只小老鼠从他背上跑过。",
+        "en": "A lion was sleeping in the shade when a tiny mouse ran over his back."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "A lion",
+          "lemma": "lion",
+          "ipa": "ə ˈlaɪən",
+          "translation": {
+            "zh": "一头狮子",
+            "en": "lion"
+          },
+          "emoji": "🦁"
+        },
+        {
+          "text": "was sleeping",
+          "lemma": "sleep",
+          "ipa": "wəz ˈsliːpɪŋ",
+          "translation": {
+            "zh": "正在睡觉",
+            "en": "sleep"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "in the shade",
+          "lemma": "shade",
+          "ipa": "ɪn ðə ʃeɪd",
+          "translation": {
+            "zh": "在阴凉处",
+            "en": "shade"
+          },
+          "emoji": "🌳"
+        },
+        {
+          "text": "when a tiny mouse",
+          "lemma": "mouse",
+          "ipa": "wɛn ə ˈtaɪni maʊs",
+          "translation": {
+            "zh": "这时一只小老鼠",
+            "en": "mouse"
+          },
+          "emoji": "🐭"
+        },
+        {
+          "text": "ran over his back",
+          "lemma": "run",
+          "ipa": "ræn ˈoʊvər hɪz bæk",
+          "translation": {
+            "zh": "从他背上跑过",
+            "en": "run"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Lion and the Mouse",
+          "index": 1
+        }
+      ],
+      "id": "66e14ec1-49c8-45bd-b98f-5ddd652a7dce"
+    },
+    {
+      "text": "The lion woke up and caught the mouse in his paw.",
+      "ipa": "ðə ˈlaɪən woʊk ʌp ænd kɔt ðə maʊs ɪn hɪz pɔ",
+      "translation": {
+        "zh": "狮子醒来，用爪子抓住了老鼠。",
+        "en": "The lion woke up and caught the mouse in his paw."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "The lion",
+          "lemma": "lion",
+          "ipa": "ðə ˈlaɪən",
+          "translation": {
+            "zh": "狮子",
+            "en": "lion"
+          },
+          "emoji": "🦁"
+        },
+        {
+          "text": "woke up",
+          "lemma": "wake",
+          "ipa": "woʊk ʌp",
+          "translation": {
+            "zh": "醒来",
+            "en": "wake"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "and caught the mouse",
+          "lemma": "catch",
+          "ipa": "ænd kɔt ðə maʊs",
+          "translation": {
+            "zh": "并抓住老鼠",
+            "en": "catch"
+          },
+          "emoji": "🐭"
+        },
+        {
+          "text": "in his paw",
+          "lemma": "paw",
+          "ipa": "ɪn hɪz pɔ",
+          "translation": {
+            "zh": "在他爪中",
+            "en": "paw"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Lion and the Mouse",
+          "index": 2
+        }
+      ],
+      "id": "0f6a7655-5d06-462e-8bef-d4bb3d0fc0e8"
+    },
+    {
+      "text": "The mouse begged for its life and promised to repay the lion one day.",
+      "ipa": "ðə maʊs bɛɡd fər ɪts laɪf ænd ˈprɑmɪst tə rɪˈpeɪ ðə ˈlaɪən wʌn deɪ",
+      "translation": {
+        "zh": "老鼠苦苦求饶，并承诺有一天会报答狮子。",
+        "en": "The mouse begged for its life and promised to repay the lion one day."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "The mouse",
+          "lemma": "mouse",
+          "ipa": "ðə maʊs",
+          "translation": {
+            "zh": "老鼠",
+            "en": "mouse"
+          },
+          "emoji": "🐭"
+        },
+        {
+          "text": "begged for its life",
+          "lemma": "beg",
+          "ipa": "bɛɡd fər ɪts laɪf",
+          "translation": {
+            "zh": "苦苦求饶",
+            "en": "beg"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "and promised to repay",
+          "lemma": "promise",
+          "ipa": "ænd ˈprɑmɪst tə rɪˈpeɪ",
+          "translation": {
+            "zh": "并承诺回报",
+            "en": "promise"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "the lion",
+          "lemma": "lion",
+          "ipa": "ðə ˈlaɪən",
+          "translation": {
+            "zh": "狮子",
+            "en": "lion"
+          },
+          "emoji": "🦁"
+        },
+        {
+          "text": "one day",
+          "lemma": "day",
+          "ipa": "wʌn deɪ",
+          "translation": {
+            "zh": "有一天",
+            "en": "day"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Lion and the Mouse",
+          "index": 3
+        }
+      ],
+      "id": "e294c4c3-9ecc-428f-b5f4-8fb107bf9ba1"
+    },
+    {
+      "text": "The lion laughed but let the mouse go.",
+      "ipa": "ðə ˈlaɪən læft bʌt lɛt ðə maʊs ɡoʊ",
+      "translation": {
+        "zh": "狮子笑了笑，却还是放了老鼠。",
+        "en": "The lion laughed but let the mouse go."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "The lion",
+          "lemma": "lion",
+          "ipa": "ðə ˈlaɪən",
+          "translation": {
+            "zh": "狮子",
+            "en": "lion"
+          },
+          "emoji": "🦁"
+        },
+        {
+          "text": "laughed",
+          "lemma": "laugh",
+          "ipa": "læft",
+          "translation": {
+            "zh": "笑了",
+            "en": "laugh"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "but let the mouse go",
+          "lemma": "let",
+          "ipa": "bʌt lɛt ðə maʊs ɡoʊ",
+          "translation": {
+            "zh": "但放了老鼠",
+            "en": "let"
+          },
+          "emoji": "🐭"
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Lion and the Mouse",
+          "index": 4
+        }
+      ],
+      "id": "264fa861-5801-4f28-9d4b-ee6722dfe502"
+    },
+    {
+      "text": "Some days later, hunters had trapped the lion in a net.",
+      "ipa": "sʌm deɪz ˈleɪtər ˈhʌntərz hæd træpt ðə ˈlaɪən ɪn ə nɛt",
+      "translation": {
+        "zh": "几天后，猎人用网困住了狮子。",
+        "en": "Some days later, hunters had trapped the lion in a net."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Some days later",
+          "lemma": "day",
+          "ipa": "sʌm deɪz ˈleɪtər",
+          "translation": {
+            "zh": "几天后",
+            "en": "day"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "hunters",
+          "lemma": "hunter",
+          "ipa": "ˈhʌntərz",
+          "translation": {
+            "zh": "猎人",
+            "en": "hunter"
+          },
+          "emoji": "🏹"
+        },
+        {
+          "text": "had trapped the lion",
+          "lemma": "trap",
+          "ipa": "hæd træpt ðə ˈlaɪən",
+          "translation": {
+            "zh": "已困住狮子",
+            "en": "trap"
+          },
+          "emoji": "🪤"
+        },
+        {
+          "text": "in a net",
+          "lemma": "net",
+          "ipa": "ɪn ə nɛt",
+          "translation": {
+            "zh": "在网中",
+            "en": "net"
+          },
+          "emoji": "🪢"
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Lion and the Mouse",
+          "index": 5
+        }
+      ],
+      "id": "da399228-7362-425e-9cc5-f5e31bb886ec"
+    },
+    {
+      "text": "The mouse heard the lion roar, ran to him, and gnawed through the ropes to set him free.",
+      "ipa": "ðə maʊs hɜrd ðə ˈlaɪən rɔr ræn tə hɪm ænd nɔd θruː ðə roʊps tə sɛt hɪm friː",
+      "translation": {
+        "zh": "老鼠听到狮子的吼声，跑过去用牙齿咬断绳子把他救了出来。",
+        "en": "The mouse heard the lion roar, ran to him, and gnawed through the ropes to set him free."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "The mouse",
+          "lemma": "mouse",
+          "ipa": "ðə maʊs",
+          "translation": {
+            "zh": "老鼠",
+            "en": "mouse"
+          },
+          "emoji": "🐭"
+        },
+        {
+          "text": "heard the lion roar",
+          "lemma": "hear",
+          "ipa": "hɜrd ðə ˈlaɪən rɔr",
+          "translation": {
+            "zh": "听到狮子吼叫",
+            "en": "hear"
+          },
+          "emoji": "🦁"
+        },
+        {
+          "text": "ran to him",
+          "lemma": "run",
+          "ipa": "ræn tə hɪm",
+          "translation": {
+            "zh": "跑向他",
+            "en": "run"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "and gnawed through the ropes",
+          "lemma": "gnaw",
+          "ipa": "ænd nɔd θruː ðə roʊps",
+          "translation": {
+            "zh": "咬断绳子",
+            "en": "gnaw"
+          },
+          "emoji": "🪢"
+        },
+        {
+          "text": "to set him free",
+          "lemma": "free",
+          "ipa": "tə sɛt hɪm friː",
+          "translation": {
+            "zh": "将他释放",
+            "en": "free"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Lion and the Mouse",
+          "index": 6
+        }
+      ],
+      "id": "fa2672d2-7ec3-43b2-a416-5e03e2aa6b83"
+    },
+    {
+      "text": "A girl was carrying a basket of food to her sick grandmother in the woods.",
+      "ipa": "ə ɡɜrl wəz ˈkæriɪŋ ə ˈbæskɪt əv fud tə hər sɪk ˈɡrænˌmʌðər ɪn ðə wʊdz",
+      "translation": {
+        "zh": "一个女孩提着食物篮去森林里看望生病的奶奶。",
+        "en": "A girl was carrying a basket of food to her sick grandmother in the woods."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "A girl",
+          "lemma": "girl",
+          "ipa": "ə ɡɜrl",
+          "translation": {
+            "zh": "一个女孩",
+            "en": "girl"
+          },
+          "emoji": "👧"
+        },
+        {
+          "text": "was carrying",
+          "lemma": "carry",
+          "ipa": "wəz ˈkæriɪŋ",
+          "translation": {
+            "zh": "提着",
+            "en": "carry"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "a basket of food",
+          "lemma": "basket",
+          "ipa": "ə ˈbæskɪt əv fud",
+          "translation": {
+            "zh": "一篮食物",
+            "en": "basket"
+          },
+          "emoji": "🧺"
+        },
+        {
+          "text": "to her sick grandmother",
+          "lemma": "grandmother",
+          "ipa": "tə hər sɪk ˈɡrænˌmʌðər",
+          "translation": {
+            "zh": "给生病的奶奶",
+            "en": "grandmother"
+          },
+          "emoji": "👵"
+        },
+        {
+          "text": "in the woods",
+          "lemma": "woods",
+          "ipa": "ɪn ðə wʊdz",
+          "translation": {
+            "zh": "在森林里",
+            "en": "woods"
+          },
+          "emoji": "🌲"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Little Red Riding Hood",
+          "index": 1
+        }
+      ],
+      "id": "c8b5818f-f58a-4b96-b1a5-efe83dda39b5"
+    },
+    {
+      "text": "On the path through the forest, she met a wolf who asked where she was going.",
+      "ipa": "ɑn ðə pæθ θru ðə ˈfɔrɪst ʃi mɛt ə wʊlf hu æskt wɛr ʃi wəz ˈɡoʊɪŋ",
+      "translation": {
+        "zh": "在穿越森林的小路上，她遇到了一只狼，狼问她要去哪里。",
+        "en": "On the path through the forest, she met a wolf who asked where she was going."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "On the path",
+          "lemma": "path",
+          "ipa": "ɑn ðə pæθ",
+          "translation": {
+            "zh": "在小路上",
+            "en": "path"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "through the forest",
+          "lemma": "forest",
+          "ipa": "θru ðə ˈfɔrɪst",
+          "translation": {
+            "zh": "穿越森林",
+            "en": "forest"
+          },
+          "emoji": "🌲"
+        },
+        {
+          "text": "she met a wolf",
+          "lemma": "meet",
+          "ipa": "ʃi mɛt ə wʊlf",
+          "translation": {
+            "zh": "她遇到了一只狼",
+            "en": "meet"
+          },
+          "emoji": "🐺"
+        },
+        {
+          "text": "who asked",
+          "lemma": "ask",
+          "ipa": "hu æskt",
+          "translation": {
+            "zh": "它问",
+            "en": "ask"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "where she was going",
+          "lemma": "go",
+          "ipa": "wɛr ʃi wəz ˈɡoʊɪŋ",
+          "translation": {
+            "zh": "她要去哪里",
+            "en": "go"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Little Red Riding Hood",
+          "index": 2
+        }
+      ],
+      "id": "d2a23ed4-6547-465f-b709-40bbfbca5518"
+    },
+    {
+      "text": "The wolf took a shortcut and arrived at the grandmother's house before the girl.",
+      "ipa": "ðə wʊlf tʊk ə ˈʃɔrtˌkʌt ænd əˈraɪvd æt ðə ˈɡrænˌmʌðərz haʊs bɪˈfɔr ðə ɡɜrl",
+      "translation": {
+        "zh": "狼抄近路，比女孩先到了奶奶家。",
+        "en": "The wolf took a shortcut and arrived at the grandmother's house before the girl."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "The wolf",
+          "lemma": "wolf",
+          "ipa": "ðə wʊlf",
+          "translation": {
+            "zh": "狼",
+            "en": "wolf"
+          },
+          "emoji": "🐺"
+        },
+        {
+          "text": "took a shortcut",
+          "lemma": "shortcut",
+          "ipa": "tʊk ə ˈʃɔrtˌkʌt",
+          "translation": {
+            "zh": "抄了近路",
+            "en": "shortcut"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "and arrived",
+          "lemma": "arrive",
+          "ipa": "ænd əˈraɪvd",
+          "translation": {
+            "zh": "并到达",
+            "en": "arrive"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "at the grandmother's house",
+          "lemma": "house",
+          "ipa": "æt ðə ˈɡrænˌmʌðərz haʊs",
+          "translation": {
+            "zh": "奶奶家",
+            "en": "house"
+          },
+          "emoji": "🏠"
+        },
+        {
+          "text": "before the girl",
+          "lemma": "girl",
+          "ipa": "bɪˈfɔr ðə ɡɜrl",
+          "translation": {
+            "zh": "在女孩之前",
+            "en": "girl"
+          },
+          "emoji": "👧"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Little Red Riding Hood",
+          "index": 3
+        }
+      ],
+      "id": "5bfaf820-5e70-47cc-af87-a92f93ce6b49"
+    },
+    {
+      "text": "The wolf put on the grandmother's clothes and hid in her bed.",
+      "ipa": "ðə wʊlf pʊt ɑn ðə ˈɡrænˌmʌðərz kloʊðz ænd hɪd ɪn hər bɛd",
+      "translation": {
+        "zh": "狼穿上奶奶的衣服，藏在她的床上。",
+        "en": "The wolf put on the grandmother's clothes and hid in her bed."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "The wolf",
+          "lemma": "wolf",
+          "ipa": "ðə wʊlf",
+          "translation": {
+            "zh": "狼",
+            "en": "wolf"
+          },
+          "emoji": "🐺"
+        },
+        {
+          "text": "put on",
+          "lemma": "put on",
+          "ipa": "pʊt ɑn",
+          "translation": {
+            "zh": "穿上",
+            "en": "put on"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "the grandmother's clothes",
+          "lemma": "clothes",
+          "ipa": "ðə ˈɡrænˌmʌðərz kloʊðz",
+          "translation": {
+            "zh": "奶奶的衣服",
+            "en": "clothes"
+          },
+          "emoji": "👗"
+        },
+        {
+          "text": "and hid",
+          "lemma": "hide",
+          "ipa": "ænd hɪd",
+          "translation": {
+            "zh": "并藏了起来",
+            "en": "hide"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "in her bed",
+          "lemma": "bed",
+          "ipa": "ɪn hər bɛd",
+          "translation": {
+            "zh": "在她的床上",
+            "en": "bed"
+          },
+          "emoji": "🛏️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Little Red Riding Hood",
+          "index": 4
+        }
+      ],
+      "id": "df1f2988-9468-4d85-8d1f-bf37967bbe50"
+    },
+    {
+      "text": "When the girl entered the room, she noticed that her grandmother had very big eyes and very big teeth.",
+      "ipa": "wɛn ðə ɡɜrl ˈɛntərd ðə rum ʃi ˈnoʊtɪst ðæt hər ˈɡrænˌmʌðər hæd ˈvɛri bɪɡ aɪz ænd ˈvɛri bɪɡ tiθ",
+      "translation": {
+        "zh": "当女孩走进房间时，她注意到奶奶有着很大的眼睛和很大的牙齿。",
+        "en": "When the girl entered the room, she noticed that her grandmother had very big eyes and very big teeth."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "When the girl entered the room",
+          "lemma": "enter",
+          "ipa": "wɛn ðə ɡɜrl ˈɛntərd ðə rum",
+          "translation": {
+            "zh": "当女孩走进房间时",
+            "en": "enter"
+          },
+          "emoji": "👧"
+        },
+        {
+          "text": "she noticed",
+          "lemma": "notice",
+          "ipa": "ʃi ˈnoʊtɪst",
+          "translation": {
+            "zh": "她注意到",
+            "en": "notice"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "that her grandmother",
+          "lemma": "grandmother",
+          "ipa": "ðæt hər ˈɡrænˌmʌðər",
+          "translation": {
+            "zh": "奶奶",
+            "en": "grandmother"
+          },
+          "emoji": "👵"
+        },
+        {
+          "text": "had very big eyes",
+          "lemma": "eye",
+          "ipa": "hæd ˈvɛri bɪɡ aɪz",
+          "translation": {
+            "zh": "有很大的眼睛",
+            "en": "eye"
+          },
+          "emoji": "👁️"
+        },
+        {
+          "text": "and very big teeth",
+          "lemma": "tooth",
+          "ipa": "ænd ˈvɛri bɪɡ tiθ",
+          "translation": {
+            "zh": "和很大的牙齿",
+            "en": "tooth"
+          },
+          "emoji": "🦷"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Little Red Riding Hood",
+          "index": 5
+        }
+      ],
+      "id": "53835b7b-7a21-4744-ba98-4f055df085c4"
+    },
+    {
+      "text": "A woodsman heard the girl's cries, rushed into the house, and saved her from the wolf.",
+      "ipa": "ə ˈwʊdzmən hɜrd ðə ɡɜrlz kraɪz rʌʃt ˈɪntə ðə haʊs ænd seɪvd hər frəm ðə wʊlf",
+      "translation": {
+        "zh": "一个樵夫听到女孩的呼救声，冲进屋里，把她从狼口中救了出来。",
+        "en": "A woodsman heard the girl's cries, rushed into the house, and saved her from the wolf."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "A woodsman",
+          "lemma": "woodsman",
+          "ipa": "ə ˈwʊdzmən",
+          "translation": {
+            "zh": "一个樵夫",
+            "en": "woodsman"
+          },
+          "emoji": "🪓"
+        },
+        {
+          "text": "heard the girl's cries",
+          "lemma": "hear",
+          "ipa": "hɜrd ðə ɡɜrlz kraɪz",
+          "translation": {
+            "zh": "听到呼救声",
+            "en": "hear"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "rushed into the house",
+          "lemma": "rush",
+          "ipa": "rʌʃt ˈɪntə ðə haʊs",
+          "translation": {
+            "zh": "冲进屋里",
+            "en": "rush"
+          },
+          "emoji": "🏠"
+        },
+        {
+          "text": "and saved her",
+          "lemma": "save",
+          "ipa": "ænd seɪvd hər",
+          "translation": {
+            "zh": "救了她",
+            "en": "save"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "from the wolf",
+          "lemma": "wolf",
+          "ipa": "frəm ðə wʊlf",
+          "translation": {
+            "zh": "脱离狼口",
+            "en": "wolf"
+          },
+          "emoji": "🐺"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Little Red Riding Hood",
+          "index": 6
+        }
+      ],
+      "id": "6503261d-ece7-4930-8414-3922e654c96c"
+    },
+    {
+      "text": "Three little pigs left home to build their own houses.",
+      "ipa": "θri ˈlɪtəl pɪɡz lɛft hoʊm tə bɪld ðɛr oʊn ˈhaʊzɪz",
+      "translation": {
+        "zh": "三只小猪离家建造自己的房子。",
+        "en": "Three little pigs left home to build their own houses."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "Three little pigs",
+          "lemma": "pig",
+          "ipa": "θri ˈlɪtəl pɪɡz",
+          "translation": {
+            "zh": "三只小猪",
+            "en": "pig"
+          },
+          "emoji": "🐷"
+        },
+        {
+          "text": "left home",
+          "lemma": "leave",
+          "ipa": "lɛft hoʊm",
+          "translation": {
+            "zh": "离开家",
+            "en": "leave"
+          },
+          "emoji": "🏠"
+        },
+        {
+          "text": "to build their own houses",
+          "lemma": "build",
+          "ipa": "tə bɪld ðɛr oʊn ˈhaʊzɪz",
+          "translation": {
+            "zh": "建造自己的房子",
+            "en": "build"
+          },
+          "emoji": "🏠"
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Three Little Pigs",
+          "index": 1
+        }
+      ],
+      "id": "ae7dad8b-8519-4b6f-9432-f17422177191"
+    },
+    {
+      "text": "The first pig built a house with straw, and the second pig built one with sticks.",
+      "ipa": "ðə fɜrst pɪɡ bɪlt ə haʊs wɪð strɔ ænd ðə ˈsɛkənd pɪɡ bɪlt wʌn wɪð stɪks",
+      "translation": {
+        "zh": "第一只猪用稻草盖了房子，第二只猪用树枝盖了房子。",
+        "en": "The first pig built a house with straw, and the second pig built one with sticks."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "The first pig",
+          "lemma": "pig",
+          "ipa": "ðə fɜrst pɪɡ",
+          "translation": {
+            "zh": "第一只猪",
+            "en": "pig"
+          },
+          "emoji": "🐷"
+        },
+        {
+          "text": "built a house",
+          "lemma": "build",
+          "ipa": "bɪlt ə haʊs",
+          "translation": {
+            "zh": "盖了房子",
+            "en": "build"
+          },
+          "emoji": "🏠"
+        },
+        {
+          "text": "with straw",
+          "lemma": "straw",
+          "ipa": "wɪð strɔ",
+          "translation": {
+            "zh": "用稻草",
+            "en": "straw"
+          },
+          "emoji": "🌾"
+        },
+        {
+          "text": "and the second pig",
+          "lemma": "pig",
+          "ipa": "ænd ðə ˈsɛkənd pɪɡ",
+          "translation": {
+            "zh": "而第二只猪",
+            "en": "pig"
+          },
+          "emoji": "🐷"
+        },
+        {
+          "text": "built one with sticks",
+          "lemma": "build",
+          "ipa": "bɪlt wʌn wɪð stɪks",
+          "translation": {
+            "zh": "用树枝盖了一座",
+            "en": "build"
+          },
+          "emoji": "🪵"
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Three Little Pigs",
+          "index": 2
+        }
+      ],
+      "id": "d2629c53-9130-4a26-b560-e03eddb0f166"
+    },
+    {
+      "text": "The third pig worked slowly and carefully to build a strong house with bricks.",
+      "ipa": "ðə θɜrd pɪɡ wɜrkt ˈsloʊli ænd ˈkɛrfəli tə bɪld ə strɔŋ haʊs wɪð brɪks",
+      "translation": {
+        "zh": "第三只猪慢慢地、仔细地用砖块建造了一座坚固的房子。",
+        "en": "The third pig worked slowly and carefully to build a strong house with bricks."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "The third pig",
+          "lemma": "pig",
+          "ipa": "ðə θɜrd pɪɡ",
+          "translation": {
+            "zh": "第三只猪",
+            "en": "pig"
+          },
+          "emoji": "🐷"
+        },
+        {
+          "text": "worked slowly and carefully",
+          "lemma": "work",
+          "ipa": "wɜrkt ˈsloʊli ænd ˈkɛrfəli",
+          "translation": {
+            "zh": "慢慢地仔细地工作",
+            "en": "work"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "to build a strong house",
+          "lemma": "build",
+          "ipa": "tə bɪld ə strɔŋ haʊs",
+          "translation": {
+            "zh": "建造坚固的房子",
+            "en": "build"
+          },
+          "emoji": "🏠"
+        },
+        {
+          "text": "with bricks",
+          "lemma": "brick",
+          "ipa": "wɪð brɪks",
+          "translation": {
+            "zh": "用砖块",
+            "en": "brick"
+          },
+          "emoji": "🧱"
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Three Little Pigs",
+          "index": 3
+        }
+      ],
+      "id": "a18d48c6-8769-4e86-80f7-309fefc793fa"
+    },
+    {
+      "text": "A big wolf came and blew down the straw house and the stick house.",
+      "ipa": "ə bɪɡ wʊlf keɪm ænd blu daʊn ðə strɔ haʊs ænd ðə stɪk haʊs",
+      "translation": {
+        "zh": "一只大灰狼来了，吹倒了稻草屋和树枝屋。",
+        "en": "A big wolf came and blew down the straw house and the stick house."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "A big wolf",
+          "lemma": "wolf",
+          "ipa": "ə bɪɡ wʊlf",
+          "translation": {
+            "zh": "一只大灰狼",
+            "en": "wolf"
+          },
+          "emoji": "🐺"
+        },
+        {
+          "text": "came",
+          "lemma": "come",
+          "ipa": "keɪm",
+          "translation": {
+            "zh": "来了",
+            "en": "come"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "and blew down",
+          "lemma": "blow",
+          "ipa": "ænd blu daʊn",
+          "translation": {
+            "zh": "并吹倒了",
+            "en": "blow"
+          },
+          "emoji": "💨"
+        },
+        {
+          "text": "the straw house",
+          "lemma": "house",
+          "ipa": "ðə strɔ haʊs",
+          "translation": {
+            "zh": "稻草屋",
+            "en": "house"
+          },
+          "emoji": "🌾"
+        },
+        {
+          "text": "and the stick house",
+          "lemma": "house",
+          "ipa": "ænd ðə stɪk haʊs",
+          "translation": {
+            "zh": "和树枝屋",
+            "en": "house"
+          },
+          "emoji": "🪵"
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Three Little Pigs",
+          "index": 4
+        }
+      ],
+      "id": "e5e518f4-b190-4944-ac1f-3776c53f84b7"
+    },
+    {
+      "text": "While the wolf was huffing and puffing, the brick house was standing firm.",
+      "ipa": "waɪl ðə wʊlf wəz ˈhʌfɪŋ ænd ˈpʌfɪŋ ðə brɪk haʊs wəz ˈstændɪŋ fɜrm",
+      "translation": {
+        "zh": "狼使劲地吹气时，砖房却依然屹立不倒。",
+        "en": "While the wolf was huffing and puffing, the brick house was standing firm."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "While the wolf",
+          "lemma": "wolf",
+          "ipa": "waɪl ðə wʊlf",
+          "translation": {
+            "zh": "当狼",
+            "en": "wolf"
+          },
+          "emoji": "🐺"
+        },
+        {
+          "text": "was huffing and puffing",
+          "lemma": "huff",
+          "ipa": "wəz ˈhʌfɪŋ ænd ˈpʌfɪŋ",
+          "translation": {
+            "zh": "使劲吹气",
+            "en": "huff"
+          },
+          "emoji": "💨"
+        },
+        {
+          "text": "the brick house",
+          "lemma": "house",
+          "ipa": "ðə brɪk haʊs",
+          "translation": {
+            "zh": "砖房",
+            "en": "house"
+          },
+          "emoji": "🧱"
+        },
+        {
+          "text": "was standing firm",
+          "lemma": "stand",
+          "ipa": "wəz ˈstændɪŋ fɜrm",
+          "translation": {
+            "zh": "屹立不倒",
+            "en": "stand"
+          },
+          "emoji": "🏠"
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Three Little Pigs",
+          "index": 5
+        }
+      ],
+      "id": "169aa1b2-8e3e-4f66-a7e9-11e04381c3b3"
+    },
+    {
+      "text": "The wolf could not blow down the brick house, so he gave up and ran away.",
+      "ipa": "ðə wʊlf kʊd nɑt bloʊ daʊn ðə brɪk haʊs soʊ hi ɡeɪv ʌp ænd ræn əˈweɪ",
+      "translation": {
+        "zh": "狼无法吹倒砖房，只好放弃逃跑了。",
+        "en": "The wolf could not blow down the brick house, so he gave up and ran away."
+      },
+      "cefr": "B1",
+      "tokens": [
+        {
+          "text": "The wolf",
+          "lemma": "wolf",
+          "ipa": "ðə wʊlf",
+          "translation": {
+            "zh": "狼",
+            "en": "wolf"
+          },
+          "emoji": "🐺"
+        },
+        {
+          "text": "could not blow down",
+          "lemma": "blow",
+          "ipa": "kʊd nɑt bloʊ daʊn",
+          "translation": {
+            "zh": "无法吹倒",
+            "en": "blow"
+          },
+          "emoji": "💨"
+        },
+        {
+          "text": "the brick house",
+          "lemma": "house",
+          "ipa": "ðə brɪk haʊs",
+          "translation": {
+            "zh": "砖房",
+            "en": "house"
+          },
+          "emoji": "🧱"
+        },
+        {
+          "text": "so he gave up",
+          "lemma": "give up",
+          "ipa": "soʊ hi ɡeɪv ʌp",
+          "translation": {
+            "zh": "于是放弃了",
+            "en": "give up"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "and ran away",
+          "lemma": "run",
+          "ipa": "ænd ræn əˈweɪ",
+          "translation": {
+            "zh": "逃跑了",
+            "en": "run"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "The Three Little Pigs",
+          "index": 6
+        }
+      ],
+      "id": "4c8d76c3-f5c3-428f-9342-224f2a001c8f"
+    },
+    {
+      "text": "Cinderella had been treated cruelly by her stepmother and stepsisters, who made her do all the housework.",
+      "ipa": "ˌsɪndəˈrɛlə həd bɪn ˈtritəd ˈkruəli baɪ hər ˈstɛpˌmʌðər ænd ˈstɛpˌsɪstərz hu meɪd hər du ɔl ðə ˈhaʊsˌwɜrk",
+      "translation": {
+        "zh": "灰姑娘被继母和继姐妹残忍对待，她们让她做所有家务。",
+        "en": "Cinderella had been treated cruelly by her stepmother and stepsisters, who made her do all the housework."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "Cinderella",
+          "lemma": "Cinderella",
+          "ipa": "ˌsɪndəˈrɛlə",
+          "translation": {
+            "zh": "灰姑娘",
+            "en": "Cinderella"
+          },
+          "emoji": "👸"
+        },
+        {
+          "text": "had been treated cruelly",
+          "lemma": "treat",
+          "ipa": "həd bɪn ˈtritəd ˈkruəli",
+          "translation": {
+            "zh": "遭受残忍对待",
+            "en": "treat"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "by her stepmother",
+          "lemma": "stepmother",
+          "ipa": "baɪ hər ˈstɛpˌmʌðər",
+          "translation": {
+            "zh": "被她的继母",
+            "en": "stepmother"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "and stepsisters",
+          "lemma": "stepsister",
+          "ipa": "ænd ˈstɛpˌsɪstərz",
+          "translation": {
+            "zh": "和继姐妹",
+            "en": "stepsister"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "who made her do",
+          "lemma": "make",
+          "ipa": "hu meɪd hər du",
+          "translation": {
+            "zh": "她们让她做",
+            "en": "make"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "all the housework",
+          "lemma": "housework",
+          "ipa": "ɔl ðə ˈhaʊsˌwɜrk",
+          "translation": {
+            "zh": "所有家务",
+            "en": "housework"
+          },
+          "emoji": "🧹"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cinderella",
+          "index": 1
+        }
+      ],
+      "id": "db0488f2-e1fe-42ec-97b6-f508feafe6c4"
+    },
+    {
+      "text": "When the king announced a royal ball, Cinderella's stepmother refused to let her attend.",
+      "ipa": "wɛn ðə kɪŋ əˈnaʊnst ə ˈrɔɪəl bɔl ˌsɪndəˈrɛləz ˈstɛpˌmʌðər rɪˈfjuzd tə lɛt hər əˈtɛnd",
+      "translation": {
+        "zh": "当国王宣布举办皇家舞会时，灰姑娘的继母拒绝让她参加。",
+        "en": "When the king announced a royal ball, Cinderella's stepmother refused to let her attend."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "When the king announced",
+          "lemma": "announce",
+          "ipa": "wɛn ðə kɪŋ əˈnaʊnst",
+          "translation": {
+            "zh": "当国王宣布",
+            "en": "announce"
+          },
+          "emoji": "🏰"
+        },
+        {
+          "text": "a royal ball",
+          "lemma": "ball",
+          "ipa": "ə ˈrɔɪəl bɔl",
+          "translation": {
+            "zh": "一场皇家舞会",
+            "en": "ball"
+          },
+          "emoji": "🎉"
+        },
+        {
+          "text": "Cinderella's stepmother",
+          "lemma": "stepmother",
+          "ipa": "ˌsɪndəˈrɛləz ˈstɛpˌmʌðər",
+          "translation": {
+            "zh": "灰姑娘的继母",
+            "en": "stepmother"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "refused to let her attend",
+          "lemma": "refuse",
+          "ipa": "rɪˈfjuzd tə lɛt hər əˈtɛnd",
+          "translation": {
+            "zh": "拒绝让她参加",
+            "en": "refuse"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cinderella",
+          "index": 2
+        }
+      ],
+      "id": "38794322-9ea4-4722-988d-cb06c3649038"
+    },
+    {
+      "text": "A fairy godmother appeared and used her magic to give Cinderella a beautiful dress and a golden carriage.",
+      "ipa": "ə ˈfɛri ˈɡɑdˌmʌðər əˈpɪrd ænd juzd hər ˈmædʒɪk tə ɡɪv ˌsɪndəˈrɛlə ə ˈbjutɪfəl drɛs ænd ə ˈɡoʊldən ˈkærɪdʒ",
+      "translation": {
+        "zh": "一位仙女教母出现了，用魔法赐给灰姑娘一件美丽的礼服和一辆金色马车。",
+        "en": "A fairy godmother appeared and used her magic to give Cinderella a beautiful dress and a golden carriage."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "A fairy godmother",
+          "lemma": "fairy godmother",
+          "ipa": "ə ˈfɛri ˈɡɑdˌmʌðər",
+          "translation": {
+            "zh": "仙女教母",
+            "en": "fairy godmother"
+          },
+          "emoji": "🧚"
+        },
+        {
+          "text": "appeared",
+          "lemma": "appear",
+          "ipa": "əˈpɪrd",
+          "translation": {
+            "zh": "出现了",
+            "en": "appear"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "and used her magic",
+          "lemma": "magic",
+          "ipa": "ænd juzd hər ˈmædʒɪk",
+          "translation": {
+            "zh": "并用魔法",
+            "en": "magic"
+          },
+          "emoji": "✨"
+        },
+        {
+          "text": "to give Cinderella",
+          "lemma": "give",
+          "ipa": "tə ɡɪv ˌsɪndəˈrɛlə",
+          "translation": {
+            "zh": "赐给灰姑娘",
+            "en": "give"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "a beautiful dress",
+          "lemma": "dress",
+          "ipa": "ə ˈbjutɪfəl drɛs",
+          "translation": {
+            "zh": "美丽的礼服",
+            "en": "dress"
+          },
+          "emoji": "👗"
+        },
+        {
+          "text": "and a golden carriage",
+          "lemma": "carriage",
+          "ipa": "ænd ə ˈɡoʊldən ˈkærɪdʒ",
+          "translation": {
+            "zh": "和金色马车",
+            "en": "carriage"
+          },
+          "emoji": "🪄"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cinderella",
+          "index": 3
+        }
+      ],
+      "id": "d5f0d59a-8db6-44fb-add5-198896f0ab22"
+    },
+    {
+      "text": "Although she had never attended a ball before, Cinderella danced with the prince all evening.",
+      "ipa": "ɔlˈðoʊ ʃi həd ˈnɛvər əˈtɛndəd ə bɔl bɪˈfɔr ˌsɪndəˈrɛlə dænst wɪð ðə prɪns ɔl ˈivnɪŋ",
+      "translation": {
+        "zh": "尽管她从未参加过舞会，灰姑娘整晚都与王子共舞。",
+        "en": "Although she had never attended a ball before, Cinderella danced with the prince all evening."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "Although she had never attended",
+          "lemma": "attend",
+          "ipa": "ɔlˈðoʊ ʃi həd ˈnɛvər əˈtɛndəd",
+          "translation": {
+            "zh": "尽管她从未参加过",
+            "en": "attend"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "a ball before",
+          "lemma": "ball",
+          "ipa": "ə bɔl bɪˈfɔr",
+          "translation": {
+            "zh": "舞会",
+            "en": "ball"
+          },
+          "emoji": "🎉"
+        },
+        {
+          "text": "Cinderella danced",
+          "lemma": "dance",
+          "ipa": "ˌsɪndəˈrɛlə dænst",
+          "translation": {
+            "zh": "灰姑娘共舞",
+            "en": "dance"
+          },
+          "emoji": "👸"
+        },
+        {
+          "text": "with the prince",
+          "lemma": "prince",
+          "ipa": "wɪð ðə prɪns",
+          "translation": {
+            "zh": "与王子",
+            "en": "prince"
+          },
+          "emoji": "🤴"
+        },
+        {
+          "text": "all evening",
+          "lemma": "evening",
+          "ipa": "ɔl ˈivnɪŋ",
+          "translation": {
+            "zh": "整个晚上",
+            "en": "evening"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cinderella",
+          "index": 4
+        }
+      ],
+      "id": "26f776d3-0959-4cf1-a76e-f220b4f003fe"
+    },
+    {
+      "text": "As the clock struck midnight, she ran from the palace and lost one of her glass slippers on the stairs.",
+      "ipa": "æz ðə klɑk strʌk ˈmɪdˌnaɪt ʃi ræn frəm ðə ˈpæləs ænd lɔst wʌn əv hər ɡlæs ˈslɪpərz ɑn ðə stɛrz",
+      "translation": {
+        "zh": "当钟声敲响午夜时，她从宫殿跑出，在楼梯上丢失了一只玻璃鞋。",
+        "en": "As the clock struck midnight, she ran from the palace and lost one of her glass slippers on the stairs."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "As the clock struck midnight",
+          "lemma": "strike",
+          "ipa": "æz ðə klɑk strʌk ˈmɪdˌnaɪt",
+          "translation": {
+            "zh": "当钟声敲响午夜",
+            "en": "strike"
+          },
+          "emoji": "🕛"
+        },
+        {
+          "text": "she ran from the palace",
+          "lemma": "run",
+          "ipa": "ʃi ræn frəm ðə ˈpæləs",
+          "translation": {
+            "zh": "她从宫殿跑出",
+            "en": "run"
+          },
+          "emoji": "🏰"
+        },
+        {
+          "text": "and lost",
+          "lemma": "lose",
+          "ipa": "ænd lɔst",
+          "translation": {
+            "zh": "并丢失了",
+            "en": "lose"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "one of her glass slippers",
+          "lemma": "glass slipper",
+          "ipa": "wʌn əv hər ɡlæs ˈslɪpərz",
+          "translation": {
+            "zh": "一只玻璃鞋",
+            "en": "glass slipper"
+          },
+          "emoji": "🥿"
+        },
+        {
+          "text": "on the stairs",
+          "lemma": "stairs",
+          "ipa": "ɑn ðə stɛrz",
+          "translation": {
+            "zh": "在楼梯上",
+            "en": "stairs"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cinderella",
+          "index": 5
+        }
+      ],
+      "id": "468578c0-beda-4b1d-b350-e7bbb9570ec1"
+    },
+    {
+      "text": "The prince, who had fallen in love with her, searched the entire kingdom with the glass slipper.",
+      "ipa": "ðə prɪns hu həd ˈfɔlən ɪn lʌv wɪð hər sɜrtʃt ðə ɪnˈtaɪər ˈkɪŋdəm wɪð ðə ɡlæs ˈslɪpər",
+      "translation": {
+        "zh": "王子已经爱上了她，他带着玻璃鞋走遍整个王国寻找。",
+        "en": "The prince, who had fallen in love with her, searched the entire kingdom with the glass slipper."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "The prince",
+          "lemma": "prince",
+          "ipa": "ðə prɪns",
+          "translation": {
+            "zh": "王子",
+            "en": "prince"
+          },
+          "emoji": "🤴"
+        },
+        {
+          "text": "who had fallen in love with her",
+          "lemma": "fall in love",
+          "ipa": "hu həd ˈfɔlən ɪn lʌv wɪð hər",
+          "translation": {
+            "zh": "已经爱上了她",
+            "en": "fall in love"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "searched the entire kingdom",
+          "lemma": "search",
+          "ipa": "sɜrtʃt ðə ɪnˈtaɪər ˈkɪŋdəm",
+          "translation": {
+            "zh": "搜遍整个王国",
+            "en": "search"
+          },
+          "emoji": "🏰"
+        },
+        {
+          "text": "with the glass slipper",
+          "lemma": "glass slipper",
+          "ipa": "wɪð ðə ɡlæs ˈslɪpər",
+          "translation": {
+            "zh": "带着玻璃鞋",
+            "en": "glass slipper"
+          },
+          "emoji": "🥿"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cinderella",
+          "index": 6
+        }
+      ],
+      "id": "b5a6ce02-4c6c-4c77-865b-bbc3193cc993"
+    },
+    {
+      "text": "When the slipper fitted Cinderella's foot perfectly, the prince asked her to marry him.",
+      "ipa": "wɛn ðə ˈslɪpər ˈfɪtəd ˌsɪndəˈrɛləz fʊt ˈpɜrfɪktli ðə prɪns æskt hər tə ˈmæri hɪm",
+      "translation": {
+        "zh": "当玻璃鞋完美地套上灰姑娘的脚时，王子向她求婚。",
+        "en": "When the slipper fitted Cinderella's foot perfectly, the prince asked her to marry him."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "When the slipper fitted",
+          "lemma": "fit",
+          "ipa": "wɛn ðə ˈslɪpər ˈfɪtəd",
+          "translation": {
+            "zh": "当鞋子合脚时",
+            "en": "fit"
+          },
+          "emoji": "🥿"
+        },
+        {
+          "text": "Cinderella's foot perfectly",
+          "lemma": "foot",
+          "ipa": "ˌsɪndəˈrɛləz fʊt ˈpɜrfɪktli",
+          "translation": {
+            "zh": "灰姑娘的脚完美",
+            "en": "foot"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "the prince asked her",
+          "lemma": "ask",
+          "ipa": "ðə prɪns æskt hər",
+          "translation": {
+            "zh": "王子问她",
+            "en": "ask"
+          },
+          "emoji": "🤴"
+        },
+        {
+          "text": "to marry him",
+          "lemma": "marry",
+          "ipa": "tə ˈmæri hɪm",
+          "translation": {
+            "zh": "嫁给他",
+            "en": "marry"
+          },
+          "emoji": "💍"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Cinderella",
+          "index": 7
+        }
+      ],
+      "id": "a037c614-6e1b-43be-870d-ca01e05a4849"
+    },
+    {
+      "text": "Climate change has become one of the most pressing issues of our time.",
+      "ipa": "ˈklaɪmɪt tʃeɪndʒ həz bɪˈkʌm wʌn əv ðə moʊst ˈprɛsɪŋ ˈɪʃuːz əv ˈaʊər taɪm",
+      "translation": {
+        "zh": "气候变化已成为当今最紧迫的问题之一。",
+        "en": "Climate change has become one of the most pressing issues of our time."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "Climate change",
+          "lemma": "climate change",
+          "ipa": "ˈklaɪmɪt tʃeɪndʒ",
+          "translation": {
+            "zh": "气候变化",
+            "en": "climate change"
+          },
+          "emoji": "🌡️"
+        },
+        {
+          "text": "has become",
+          "lemma": "become",
+          "ipa": "həz bɪˈkʌm",
+          "translation": {
+            "zh": "已经成为",
+            "en": "has become"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "one of the most pressing issues",
+          "lemma": "pressing issue",
+          "ipa": "wʌn əv ðə moʊst ˈprɛsɪŋ ˈɪʃuːz",
+          "translation": {
+            "zh": "最紧迫的问题之一",
+            "en": "one of the most pressing issues"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "of our time",
+          "lemma": "time",
+          "ipa": "əv ˈaʊər taɪm",
+          "translation": {
+            "zh": "在我们这个时代",
+            "en": "of our time"
+          },
+          "emoji": "🌍"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Environmental discussion",
+          "index": 0
+        }
+      ],
+      "id": "304494ac-439d-49a5-af77-759e34d762ae"
+    },
+    {
+      "text": "I've started recycling everything I can and I try to drive as little as possible.",
+      "ipa": "aɪv ˈstɑːrtɪd ˈriːsaɪklɪŋ ˈɛvriθɪŋ aɪ kæn ænd aɪ traɪ tə draɪv æz ˈlɪtl æz ˈpɒsɪbl",
+      "translation": {
+        "zh": "我开始尽可能地回收利用所有东西，也尽量少开车。",
+        "en": "I've started recycling everything I can and I try to drive as little as possible."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "I've started recycling",
+          "lemma": "recycle",
+          "ipa": "aɪv ˈstɑːrtɪd ˈriːsaɪklɪŋ",
+          "translation": {
+            "zh": "我已开始回收",
+            "en": "I've started recycling"
+          },
+          "emoji": "♻️"
+        },
+        {
+          "text": "everything I can",
+          "lemma": "everything",
+          "ipa": "ˈɛvriθɪŋ aɪ kæn",
+          "translation": {
+            "zh": "我能做到的一切",
+            "en": "everything I can"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "and I try to drive",
+          "lemma": "drive",
+          "ipa": "ænd aɪ traɪ tə draɪv",
+          "translation": {
+            "zh": "并且我尽量开车",
+            "en": "and I try to drive"
+          },
+          "emoji": "🚗"
+        },
+        {
+          "text": "as little as possible",
+          "lemma": "little",
+          "ipa": "æz ˈlɪtl æz ˈpɒsɪbl",
+          "translation": {
+            "zh": "尽可能少",
+            "en": "as little as possible"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Environmental discussion",
+          "index": 1
+        }
+      ],
+      "id": "92bc7f22-5f9e-46dd-a1ba-57c5d78694c5"
+    },
+    {
+      "text": "That's admirable, but I'm not sure individual actions can make enough of a difference without systemic change.",
+      "ipa": "ðæts ˈædmɪrəbl bʌt aɪm nɒt ʃʊr ɪnˈdɪvɪdʒuəl ˈækʃənz kæn meɪk ɪˈnʌf əv ə ˈdɪfrəns wɪˈðaʊt sɪˈstɛmɪk tʃeɪndʒ",
+      "translation": {
+        "zh": "这很令人钦佩，但我不确定个人行动在没有系统性改变的情况下能否起到足够的作用。",
+        "en": "That's admirable, but I'm not sure individual actions can make enough of a difference without systemic change."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "That's admirable",
+          "lemma": "admirable",
+          "ipa": "ðæts ˈædmɪrəbl",
+          "translation": {
+            "zh": "这很令人钦佩",
+            "en": "that's admirable"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "but I'm not sure",
+          "lemma": "sure",
+          "ipa": "bʌt aɪm nɒt ʃʊr",
+          "translation": {
+            "zh": "但我不确定",
+            "en": "but I'm not sure"
+          },
+          "emoji": "🤔"
+        },
+        {
+          "text": "individual actions",
+          "lemma": "individual action",
+          "ipa": "ɪnˈdɪvɪdʒuəl ˈækʃənz",
+          "translation": {
+            "zh": "个人行动",
+            "en": "individual actions"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "can make enough of a difference",
+          "lemma": "make a difference",
+          "ipa": "kæn meɪk ɪˈnʌf əv ə ˈdɪfrəns",
+          "translation": {
+            "zh": "能产生足够大的影响",
+            "en": "can make enough of a difference"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "without systemic change",
+          "lemma": "systemic change",
+          "ipa": "wɪˈðaʊt sɪˈstɛmɪk tʃeɪndʒ",
+          "translation": {
+            "zh": "没有系统性变革",
+            "en": "without systemic change"
+          },
+          "emoji": "🏛️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Environmental discussion",
+          "index": 2
+        }
+      ],
+      "id": "1677ddc4-babe-4938-8c18-235c7df0a44c"
+    },
+    {
+      "text": "Governments should be investing far more heavily in renewable energy if we want to meet our climate targets.",
+      "ipa": "ˈɡʌvərnmənts ʃʊd biː ɪnˈvɛstɪŋ fɑːr mɔːr ˈhɛvɪli ɪn rɪˈnjuːəbl ˈɛnərdʒi ɪf wiː wɒnt tə miːt ˈaʊər ˈklaɪmɪt ˈtɑːrɡɪts",
+      "translation": {
+        "zh": "如果我们想实现气候目标，政府应该在可再生能源上投入更多。",
+        "en": "Governments should be investing far more heavily in renewable energy if we want to meet our climate targets."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "Governments",
+          "lemma": "government",
+          "ipa": "ˈɡʌvərnmənts",
+          "translation": {
+            "zh": "政府",
+            "en": "governments"
+          },
+          "emoji": "🏛️"
+        },
+        {
+          "text": "should be investing",
+          "lemma": "invest",
+          "ipa": "ʃʊd biː ɪnˈvɛstɪŋ",
+          "translation": {
+            "zh": "应该投资",
+            "en": "should be investing"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "far more heavily",
+          "lemma": "heavily",
+          "ipa": "fɑːr mɔːr ˈhɛvɪli",
+          "translation": {
+            "zh": "更大力度地",
+            "en": "far more heavily"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "in renewable energy",
+          "lemma": "renewable energy",
+          "ipa": "ɪn rɪˈnjuːəbl ˈɛnərdʒi",
+          "translation": {
+            "zh": "在可再生能源方面",
+            "en": "in renewable energy"
+          },
+          "emoji": "⚡"
+        },
+        {
+          "text": "if we want to meet",
+          "lemma": "meet",
+          "ipa": "ɪf wiː wɒnt tə miːt",
+          "translation": {
+            "zh": "如果我们想实现",
+            "en": "if we want to meet"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "our climate targets",
+          "lemma": "climate target",
+          "ipa": "ˈaʊər ˈklaɪmɪt ˈtɑːrɡɪts",
+          "translation": {
+            "zh": "我们的气候目标",
+            "en": "our climate targets"
+          },
+          "emoji": "🌍"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Environmental discussion",
+          "index": 3
+        }
+      ],
+      "id": "d1ff81c4-e68f-4c2a-93e1-8bfb93db12e3"
+    },
+    {
+      "text": "You're absolutely right — we both agree that a shift to clean energy is the single most important step.",
+      "ipa": "jʊr ˈæbsəluːtli raɪt wiː boʊθ əˈɡriː ðæt ə ʃɪft tə kliːn ˈɛnərdʒi ɪz ðə sɪŋɡl moʊst ɪmˈpɔːrtənt stɛp",
+      "translation": {
+        "zh": "你说得完全正确——我们都同意，转向清洁能源是最重要的一步。",
+        "en": "You're absolutely right — we both agree that a shift to clean energy is the single most important step."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "You're absolutely right",
+          "lemma": "right",
+          "ipa": "jʊr ˈæbsəluːtli raɪt",
+          "translation": {
+            "zh": "你完全正确",
+            "en": "you're absolutely right"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "we both agree",
+          "lemma": "agree",
+          "ipa": "wiː boʊθ əˈɡriː",
+          "translation": {
+            "zh": "我们都同意",
+            "en": "we both agree"
+          },
+          "emoji": "🤝"
+        },
+        {
+          "text": "that a shift",
+          "lemma": "shift",
+          "ipa": "ðæt ə ʃɪft",
+          "translation": {
+            "zh": "转变",
+            "en": "that a shift"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "to clean energy",
+          "lemma": "clean energy",
+          "ipa": "tə kliːn ˈɛnərdʒi",
+          "translation": {
+            "zh": "到清洁能源",
+            "en": "to clean energy"
+          },
+          "emoji": "⚡"
+        },
+        {
+          "text": "is the single most important step",
+          "lemma": "step",
+          "ipa": "ɪz ðə sɪŋɡl moʊst ɪmˈpɔːrtənt stɛp",
+          "translation": {
+            "zh": "是最重要的一步",
+            "en": "is the single most important step"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Environmental discussion",
+          "index": 4
+        }
+      ],
+      "id": "5e1616b0-bd3e-45aa-ab42-465948a8106f"
+    },
+    {
+      "text": "Honestly, I worry that we might have already passed the point where small measures could still save us.",
+      "ipa": "ˈɒnɪstli aɪ ˈwʌri ðæt wiː maɪt həv ɔːlˈrɛdi pæst ðə pɔɪnt wɛr smɔːl ˈmɛʒərz kʊd stɪl seɪv ʌs",
+      "translation": {
+        "zh": "说实话，我担心我们可能已经错过了那个小措施还能拯救我们的时间节点。",
+        "en": "Honestly, I worry that we might have already passed the point where small measures could still save us."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "Honestly",
+          "lemma": "honestly",
+          "ipa": "ˈɒnɪstli",
+          "translation": {
+            "zh": "说实话",
+            "en": "honestly"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "I worry",
+          "lemma": "worry",
+          "ipa": "aɪ ˈwʌri",
+          "translation": {
+            "zh": "我担心",
+            "en": "I worry"
+          },
+          "emoji": "😟"
+        },
+        {
+          "text": "that we might have already passed",
+          "lemma": "pass",
+          "ipa": "ðæt wiː maɪt həv ɔːlˈrɛdi pæst",
+          "translation": {
+            "zh": "我们可能已经错过",
+            "en": "that we might have already passed"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "the point",
+          "lemma": "point",
+          "ipa": "ðə pɔɪnt",
+          "translation": {
+            "zh": "那个节点",
+            "en": "the point"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "where small measures",
+          "lemma": "measure",
+          "ipa": "wɛr smɔːl ˈmɛʒərz",
+          "translation": {
+            "zh": "小措施所在之处",
+            "en": "where small measures"
+          },
+          "emoji": "🌳"
+        },
+        {
+          "text": "could still save us",
+          "lemma": "save",
+          "ipa": "kʊd stɪl seɪv ʌs",
+          "translation": {
+            "zh": "还能拯救我们",
+            "en": "could still save us"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Environmental discussion",
+          "index": 5
+        }
+      ],
+      "id": "b8f2779e-abfc-49c3-a16d-638cc1f372e5"
+    },
+    {
+      "text": "Even so, everyone needs to do their part — because real change only happens when enough people demand it.",
+      "ipa": "ˈiːvən soʊ ˈɛvriˌwʌn niːdz tə duː ðɛr pɑːrt bɪˈkɔːz riːl tʃeɪndʒ ˈoʊnli ˈhæpənz wɛn ɪˈnʌf ˈpiːpl dɪˈmænd ɪt",
+      "translation": {
+        "zh": "即便如此，每个人都需要尽自己的一份力——因为只有当足够多的人提出要求，真正的改变才会发生。",
+        "en": "Even so, everyone needs to do their part — because real change only happens when enough people demand it."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "Even so",
+          "lemma": "even so",
+          "ipa": "ˈiːvən soʊ",
+          "translation": {
+            "zh": "即便如此",
+            "en": "even so"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "everyone needs to do their part",
+          "lemma": "do one's part",
+          "ipa": "ˈɛvriˌwʌn niːdz tə duː ðɛr pɑːrt",
+          "translation": {
+            "zh": "每个人都需要尽力",
+            "en": "everyone needs to do their part"
+          },
+          "emoji": "🌍"
+        },
+        {
+          "text": "because real change",
+          "lemma": "change",
+          "ipa": "bɪˈkɔːz riːl tʃeɪndʒ",
+          "translation": {
+            "zh": "因为真正的改变",
+            "en": "because real change"
+          },
+          "emoji": "🌳"
+        },
+        {
+          "text": "only happens",
+          "lemma": "happen",
+          "ipa": "ˈoʊnli ˈhæpənz",
+          "translation": {
+            "zh": "才会发生",
+            "en": "only happens"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "when enough people demand it",
+          "lemma": "demand",
+          "ipa": "wɛn ɪˈnʌf ˈpiːpl dɪˈmænd ɪt",
+          "translation": {
+            "zh": "当足够多的人提出要求时",
+            "en": "when enough people demand it"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Environmental discussion",
+          "index": 6
+        }
+      ],
+      "id": "3bf7556d-97bb-4c41-aad0-7044208822f2"
+    },
+    {
+      "text": "The young man had counted his coins three times before he realized he had just enough for one cup of coffee.",
+      "ipa": "ðə jʌŋ mæn həd ˈkaʊntɪd hɪz kɔɪnz θriː taɪmz bɪˈfɔr hiː rɪˈælaɪzd hiː həd dʒʌst ɪˈnʌf fɔr wʌn kʌp əv ˈkɔfi",
+      "translation": {
+        "zh": "年轻人把零钱数了三遍，才意识到他的钱恰好够一杯咖啡。",
+        "en": "The young man had counted his coins three times before he realized he had just enough for one cup of coffee."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "The young man",
+          "lemma": "man",
+          "ipa": "ðə jʌŋ mæn",
+          "translation": {
+            "zh": "年轻人",
+            "en": "young man"
+          },
+          "emoji": "👨"
+        },
+        {
+          "text": "had counted his coins",
+          "lemma": "count",
+          "ipa": "həd ˈkaʊntɪd hɪz kɔɪnz",
+          "translation": {
+            "zh": "数了零钱",
+            "en": "count coins"
+          },
+          "emoji": "💰"
+        },
+        {
+          "text": "three times",
+          "lemma": "time",
+          "ipa": "θriː taɪmz",
+          "translation": {
+            "zh": "三遍",
+            "en": "three times"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "before he realized",
+          "lemma": "realize",
+          "ipa": "bɪˈfɔr hiː rɪˈælaɪzd",
+          "translation": {
+            "zh": "才意识到",
+            "en": "realize"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "he had just enough",
+          "lemma": "enough",
+          "ipa": "hiː həd dʒʌst ɪˈnʌf",
+          "translation": {
+            "zh": "恰好足够",
+            "en": "just enough"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "for one cup of coffee",
+          "lemma": "coffee",
+          "ipa": "fɔr wʌn kʌp əv ˈkɔfi",
+          "translation": {
+            "zh": "一杯咖啡",
+            "en": "cup of coffee"
+          },
+          "emoji": "☕"
+        }
+      ],
+      "tags": [
+        {
+          "name": "O. Henry — A City Story",
+          "index": 1
+        }
+      ],
+      "id": "79393304-e75d-4110-b0d1-1762e4a4bd79"
+    },
+    {
+      "text": "She had worn her best coat to the interview, not knowing that the employer had already decided to hire her the moment she walked in.",
+      "ipa": "ʃiː həd wɔrn hɜr bɛst koʊt tʊ ðiː ˈɪntərvjuː nɒt ˈnoʊɪŋ ðæt ðiː ɪmˈplɔɪər həd ɔlˈrɛdi dɪˈsaɪdɪd tʊ haɪər hɜr ðə ˈmoʊmənt ʃiː wɔkt ɪn",
+      "translation": {
+        "zh": "她穿上最好的外套去面试，却不知道雇主在她走进来的那一刻就已决定录用她。",
+        "en": "She had worn her best coat to the interview, not knowing that the employer had already decided to hire her the moment she walked in."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "She had worn her best coat",
+          "lemma": "wear",
+          "ipa": "ʃiː həd wɔrn hɜr bɛst koʊt",
+          "translation": {
+            "zh": "穿上最好的外套",
+            "en": "wear best coat"
+          },
+          "emoji": "🧥"
+        },
+        {
+          "text": "to the interview",
+          "lemma": "interview",
+          "ipa": "tʊ ðiː ˈɪntərvjuː",
+          "translation": {
+            "zh": "去面试",
+            "en": "interview"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "not knowing",
+          "lemma": "know",
+          "ipa": "nɒt ˈnoʊɪŋ",
+          "translation": {
+            "zh": "不知道",
+            "en": "not knowing"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "that the employer",
+          "lemma": "employer",
+          "ipa": "ðæt ðiː ɪmˈplɔɪər",
+          "translation": {
+            "zh": "雇主",
+            "en": "employer"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "had already decided to hire her",
+          "lemma": "decide",
+          "ipa": "həd ɔlˈrɛdi dɪˈsaɪdɪd tʊ haɪər hɜr",
+          "translation": {
+            "zh": "已决定录用她",
+            "en": "decide to hire"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "the moment she walked in",
+          "lemma": "moment",
+          "ipa": "ðə ˈmoʊmənt ʃiː wɔkt ɪn",
+          "translation": {
+            "zh": "她走进来的那刻",
+            "en": "the moment she entered"
+          },
+          "emoji": "🚪"
+        }
+      ],
+      "tags": [
+        {
+          "name": "O. Henry — A City Story",
+          "index": 2
+        }
+      ],
+      "id": "e8a97bde-3601-4ddc-9925-629d79842f26"
+    },
+    {
+      "text": "The old man who sold newspapers at the corner had given his last dollar to a stranger who needed bus fare home.",
+      "ipa": "ðiː oʊld mæn huː soʊld ˈnjuːzpeɪpərz æt ðə ˈkɔrnər həd ˈɡɪvən hɪz læst ˈdɒlər tʊ ə ˈstreɪndʒər huː ˈniːdɪd bʌs fɛr hoʊm",
+      "translation": {
+        "zh": "那个在街角卖报的老人把最后一块钱给了一个需要公车费回家的陌生人。",
+        "en": "The old man who sold newspapers at the corner had given his last dollar to a stranger who needed bus fare home."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "The old man",
+          "lemma": "man",
+          "ipa": "ðiː oʊld mæn",
+          "translation": {
+            "zh": "老人",
+            "en": "old man"
+          },
+          "emoji": "👴"
+        },
+        {
+          "text": "who sold newspapers",
+          "lemma": "sell",
+          "ipa": "huː soʊld ˈnjuːzpeɪpərz",
+          "translation": {
+            "zh": "卖报纸的",
+            "en": "sell newspapers"
+          },
+          "emoji": "📰"
+        },
+        {
+          "text": "at the corner",
+          "lemma": "corner",
+          "ipa": "æt ðə ˈkɔrnər",
+          "translation": {
+            "zh": "在街角",
+            "en": "at the corner"
+          },
+          "emoji": "🌆"
+        },
+        {
+          "text": "had given his last dollar",
+          "lemma": "give",
+          "ipa": "həd ˈɡɪvən hɪz læst ˈdɒlər",
+          "translation": {
+            "zh": "给出了最后一块钱",
+            "en": "give last dollar"
+          },
+          "emoji": "💰"
+        },
+        {
+          "text": "to a stranger",
+          "lemma": "stranger",
+          "ipa": "tʊ ə ˈstreɪndʒər",
+          "translation": {
+            "zh": "给一个陌生人",
+            "en": "stranger"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "who needed bus fare home",
+          "lemma": "need",
+          "ipa": "huː ˈniːdɪd bʌs fɛr hoʊm",
+          "translation": {
+            "zh": "需要车费回家的",
+            "en": "need bus fare"
+          },
+          "emoji": "🚌"
+        }
+      ],
+      "tags": [
+        {
+          "name": "O. Henry — A City Story",
+          "index": 3
+        }
+      ],
+      "id": "9e387112-3e43-495b-a254-cfc8d36c2604"
+    },
+    {
+      "text": "By the time she opened the small envelope, she had already guessed that the letter inside was not good news.",
+      "ipa": "baɪ ðə taɪm ʃiː ˈoʊpənd ðə smɔl ˈɛnvəloʊp ʃiː həd ɔlˈrɛdi ɡɛst ðæt ðə ˈlɛtər ɪnˈsaɪd wɒz nɒt ɡʊd njuːz",
+      "translation": {
+        "zh": "当她打开那个小信封时，她已经猜到里面的信不是好消息。",
+        "en": "By the time she opened the small envelope, she had already guessed that the letter inside was not good news."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "By the time she opened",
+          "lemma": "open",
+          "ipa": "baɪ ðə taɪm ʃiː ˈoʊpənd",
+          "translation": {
+            "zh": "当她打开时",
+            "en": "by the time she opened"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "the small envelope",
+          "lemma": "envelope",
+          "ipa": "ðə smɔl ˈɛnvəloʊp",
+          "translation": {
+            "zh": "小信封",
+            "en": "envelope"
+          },
+          "emoji": "💌"
+        },
+        {
+          "text": "she had already guessed",
+          "lemma": "guess",
+          "ipa": "ʃiː həd ɔlˈrɛdi ɡɛst",
+          "translation": {
+            "zh": "她已猜到",
+            "en": "guess"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "that the letter inside",
+          "lemma": "letter",
+          "ipa": "ðæt ðə ˈlɛtər ɪnˈsaɪd",
+          "translation": {
+            "zh": "里面的信",
+            "en": "letter inside"
+          },
+          "emoji": "💌"
+        },
+        {
+          "text": "was not good news",
+          "lemma": "news",
+          "ipa": "wɒz nɒt ɡʊd njuːz",
+          "translation": {
+            "zh": "不是好消息",
+            "en": "not good news"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "O. Henry — A City Story",
+          "index": 4
+        }
+      ],
+      "id": "d37f10f1-d618-4d46-8c0e-d92ad4b07714"
+    },
+    {
+      "text": "The two neighbors, who had argued over a fence for years, finally shared a meal on the night the storm knocked down the wall between them.",
+      "ipa": "ðə tuː ˈneɪbərz huː həd ˈɑrɡjuːd ˈoʊvər ə fɛns fɔr jɪrz ˈfaɪnli ʃɛrd ə miːl ɒn ðə naɪt ðə stɔrm nɒkt daʊn ðə wɔl bɪˈtwiːn ðɛm",
+      "translation": {
+        "zh": "两个为篱笆争吵多年的邻居，终于在那场风暴推倒他们之间的墙的那个夜晚共进了一餐。",
+        "en": "The two neighbors, who had argued over a fence for years, finally shared a meal on the night the storm knocked down the wall between them."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "The two neighbors",
+          "lemma": "neighbor",
+          "ipa": "ðə tuː ˈneɪbərz",
+          "translation": {
+            "zh": "两个邻居",
+            "en": "neighbors"
+          },
+          "emoji": "👫"
+        },
+        {
+          "text": "who had argued over a fence",
+          "lemma": "argue",
+          "ipa": "huː həd ˈɑrɡjuːd ˈoʊvər ə fɛns",
+          "translation": {
+            "zh": "为篱笆争吵的",
+            "en": "argue over a fence"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "for years",
+          "lemma": "year",
+          "ipa": "fɔr jɪrz",
+          "translation": {
+            "zh": "多年来",
+            "en": "for years"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "finally shared a meal",
+          "lemma": "share",
+          "ipa": "ˈfaɪnli ʃɛrd ə miːl",
+          "translation": {
+            "zh": "终于共进一餐",
+            "en": "share a meal"
+          },
+          "emoji": "🍽️"
+        },
+        {
+          "text": "on the night the storm",
+          "lemma": "storm",
+          "ipa": "ɒn ðə naɪt ðə stɔrm",
+          "translation": {
+            "zh": "在风暴之夜",
+            "en": "storm"
+          },
+          "emoji": "⛈️"
+        },
+        {
+          "text": "knocked down the wall between them",
+          "lemma": "knock",
+          "ipa": "nɒkt daʊn ðə wɔl bɪˈtwiːn ðɛm",
+          "translation": {
+            "zh": "推倒了他们之间的墙",
+            "en": "knock down the wall"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "O. Henry — A City Story",
+          "index": 5
+        }
+      ],
+      "id": "dbd262c3-d1df-425e-8b6a-2525e421dc92"
+    },
+    {
+      "text": "He had saved up for six months to buy her a gift, only to find out that she had done the same thing for him.",
+      "ipa": "hiː həd seɪvd ʌp fɔr sɪks mʌnθs tʊ baɪ hɜr ə ɡɪft ˈoʊnli tʊ faɪnd aʊt ðæt ʃiː həd dʌn ðə seɪm θɪŋ fɔr hɪm",
+      "translation": {
+        "zh": "他存了六个月的钱为她买礼物，却发现她也为他做了同样的事。",
+        "en": "He had saved up for six months to buy her a gift, only to find out that she had done the same thing for him."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "He had saved up",
+          "lemma": "save",
+          "ipa": "hiː həd seɪvd ʌp",
+          "translation": {
+            "zh": "他积攒了",
+            "en": "save up"
+          },
+          "emoji": "💰"
+        },
+        {
+          "text": "for six months",
+          "lemma": "month",
+          "ipa": "fɔr sɪks mʌnθs",
+          "translation": {
+            "zh": "六个月",
+            "en": "for six months"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "to buy her a gift",
+          "lemma": "buy",
+          "ipa": "tʊ baɪ hɜr ə ɡɪft",
+          "translation": {
+            "zh": "为她买礼物",
+            "en": "buy a gift"
+          },
+          "emoji": "🎁"
+        },
+        {
+          "text": "only to find out",
+          "lemma": "find",
+          "ipa": "ˈoʊnli tʊ faɪnd aʊt",
+          "translation": {
+            "zh": "却发现",
+            "en": "find out"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "that she had done the same thing",
+          "lemma": "do",
+          "ipa": "ðæt ʃiː həd dʌn ðə seɪm θɪŋ",
+          "translation": {
+            "zh": "她做了同样的事",
+            "en": "do the same thing"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "for him",
+          "lemma": "him",
+          "ipa": "fɔr hɪm",
+          "translation": {
+            "zh": "为他",
+            "en": "for him"
+          },
+          "emoji": "👫"
+        }
+      ],
+      "tags": [
+        {
+          "name": "O. Henry — A City Story",
+          "index": 6
+        }
+      ],
+      "id": "ede54ae3-5069-4083-a0b9-8cd6e9cdfb37"
+    },
+    {
+      "text": "The city had always seemed cold to her, until a dog that had followed her home changed her mind about the people in her street.",
+      "ipa": "ðə ˈsɪti həd ˈɔlweɪz siːmd koʊld tʊ hɜr ʌnˈtɪl ə dɒɡ ðæt həd ˈfɒloʊd hɜr hoʊm tʃeɪndʒd hɜr maɪnd əˈbaʊt ðə ˈpiːpəl ɪn hɜr striːt",
+      "translation": {
+        "zh": "这座城市对她来说一直冷漠，直到一只跟着她回家的狗改变了她对街上邻居的看法。",
+        "en": "The city had always seemed cold to her, until a dog that had followed her home changed her mind about the people in her street."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "The city",
+          "lemma": "city",
+          "ipa": "ðə ˈsɪti",
+          "translation": {
+            "zh": "城市",
+            "en": "city"
+          },
+          "emoji": "🌆"
+        },
+        {
+          "text": "had always seemed cold to her",
+          "lemma": "seem",
+          "ipa": "həd ˈɔlweɪz siːmd koʊld tʊ hɜr",
+          "translation": {
+            "zh": "一直显得冷漠",
+            "en": "seem cold"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "until a dog",
+          "lemma": "dog",
+          "ipa": "ʌnˈtɪl ə dɒɡ",
+          "translation": {
+            "zh": "直到一只狗",
+            "en": "dog"
+          },
+          "emoji": "🐕"
+        },
+        {
+          "text": "that had followed her home",
+          "lemma": "follow",
+          "ipa": "ðæt həd ˈfɒloʊd hɜr hoʊm",
+          "translation": {
+            "zh": "跟着她回家的",
+            "en": "follow home"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "changed her mind",
+          "lemma": "change",
+          "ipa": "tʃeɪndʒd hɜr maɪnd",
+          "translation": {
+            "zh": "改变了她的看法",
+            "en": "change her mind"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "about the people in her street",
+          "lemma": "people",
+          "ipa": "əˈbaʊt ðə ˈpiːpəl ɪn hɜr striːt",
+          "translation": {
+            "zh": "对街上的邻居",
+            "en": "people in the street"
+          },
+          "emoji": "🌆"
+        }
+      ],
+      "tags": [
+        {
+          "name": "O. Henry — A City Story",
+          "index": 7
+        }
+      ],
+      "id": "78207df1-2433-4209-b20f-fb6a2953ecfe"
+    },
+    {
+      "text": "Travel has changed me in ways I never could have predicted.",
+      "ipa": "ˈtrævəl həz tʃeɪndʒd mi ɪn weɪz aɪ ˈnɛvər kʊd həv prɪˈdɪktɪd",
+      "translation": {
+        "zh": "旅行以我无法预料的方式改变了我。",
+        "en": "Travel has changed me in ways I never could have predicted."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "Travel",
+          "lemma": "travel",
+          "ipa": "ˈtrævəl",
+          "translation": {
+            "zh": "旅行",
+            "en": "travel"
+          },
+          "emoji": "✈️"
+        },
+        {
+          "text": "has changed me",
+          "lemma": "change",
+          "ipa": "həz tʃeɪndʒd mi",
+          "translation": {
+            "zh": "改变了我",
+            "en": "change"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "in ways",
+          "lemma": "way",
+          "ipa": "ɪn weɪz",
+          "translation": {
+            "zh": "以某些方式",
+            "en": "in ways"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "I never could have predicted.",
+          "lemma": "predict",
+          "ipa": "aɪ ˈnɛvər kʊd həv prɪˈdɪktɪd",
+          "translation": {
+            "zh": "我从未能预料到的",
+            "en": "predict"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Travel reflection",
+          "index": 0
+        }
+      ],
+      "id": "58344e15-4e63-4892-8a44-79419006a53f"
+    },
+    {
+      "text": "I still think about the week I spent in a small village in Portugal, where time seemed to slow down.",
+      "ipa": "aɪ stɪl θɪŋk əˈbaʊt ðə wiːk aɪ spɛnt ɪn ə smɔl ˈvɪlɪdʒ ɪn ˈpɔrtʃəɡəl wɛr taɪm siːmd tə sloʊ daʊn",
+      "translation": {
+        "zh": "我仍然想起在葡萄牙一个小村庄度过的那一周，那里的时间仿佛慢了下来。",
+        "en": "I still think about the week I spent in a small village in Portugal, where time seemed to slow down."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "I still think about",
+          "lemma": "think",
+          "ipa": "aɪ stɪl θɪŋk əˈbaʊt",
+          "translation": {
+            "zh": "我仍然想起",
+            "en": "think about"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "the week I spent",
+          "lemma": "week",
+          "ipa": "ðə wiːk aɪ spɛnt",
+          "translation": {
+            "zh": "我度过的那一周",
+            "en": "the week"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "in a small village",
+          "lemma": "village",
+          "ipa": "ɪn ə smɔl ˈvɪlɪdʒ",
+          "translation": {
+            "zh": "在一个小村庄",
+            "en": "village"
+          },
+          "emoji": "🏠"
+        },
+        {
+          "text": "in Portugal,",
+          "lemma": "Portugal",
+          "ipa": "ɪn ˈpɔrtʃəɡəl",
+          "translation": {
+            "zh": "在葡萄牙",
+            "en": "in Portugal"
+          },
+          "emoji": "🌍"
+        },
+        {
+          "text": "where time seemed to slow down.",
+          "lemma": "slow down",
+          "ipa": "wɛr taɪm siːmd tə sloʊ daʊn",
+          "translation": {
+            "zh": "时间仿佛慢了下来",
+            "en": "slow down"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Travel reflection",
+          "index": 1
+        }
+      ],
+      "id": "0f080fa4-be55-46e6-a3e4-2d0c25a3106a"
+    },
+    {
+      "text": "There is a big difference between rushing through ten cities in two weeks and truly living in one place for a month.",
+      "ipa": "ðɛr ɪz ə bɪɡ ˈdɪfrəns bɪˈtwiːn ˈrʌʃɪŋ θruː tɛn ˈsɪtiz ɪn tuː wiːks ənd ˈtruːli ˈlɪvɪŋ ɪn wʌn pleɪs fər ə mʌnθ",
+      "translation": {
+        "zh": "两周内匆匆穿越十座城市，与真正在一处住上一个月，有很大的区别。",
+        "en": "There is a big difference between rushing through ten cities in two weeks and truly living in one place for a month."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "There is a big difference",
+          "lemma": "difference",
+          "ipa": "ðɛr ɪz ə bɪɡ ˈdɪfrəns",
+          "translation": {
+            "zh": "有很大的区别",
+            "en": "difference"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "between rushing through",
+          "lemma": "rush",
+          "ipa": "bɪˈtwiːn ˈrʌʃɪŋ θruː",
+          "translation": {
+            "zh": "匆匆穿越",
+            "en": "rush through"
+          },
+          "emoji": "🎒"
+        },
+        {
+          "text": "ten cities",
+          "lemma": "city",
+          "ipa": "tɛn ˈsɪtiz",
+          "translation": {
+            "zh": "十座城市",
+            "en": "city"
+          },
+          "emoji": "🗺️"
+        },
+        {
+          "text": "in two weeks",
+          "lemma": "week",
+          "ipa": "ɪn tuː wiːks",
+          "translation": {
+            "zh": "在两周内",
+            "en": "in two weeks"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "and truly living",
+          "lemma": "live",
+          "ipa": "ənd ˈtruːli ˈlɪvɪŋ",
+          "translation": {
+            "zh": "与真正生活",
+            "en": "truly live"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "in one place for a month.",
+          "lemma": "place",
+          "ipa": "ɪn wʌn pleɪs fər ə mʌnθ",
+          "translation": {
+            "zh": "在一处住上一个月",
+            "en": "place"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Travel reflection",
+          "index": 2
+        }
+      ],
+      "id": "f77ef5b0-7def-46b2-a6c0-b9608b196ed4"
+    },
+    {
+      "text": "When I tried to learn even a few phrases in Japanese, locals responded with a warmth that no guidebook could have prepared me for.",
+      "ipa": "wɛn aɪ traɪd tə lɜrn ˈiːvən ə fjuː ˈfreɪzɪz ɪn ˌdʒæpəˈniːz ˈloʊkəlz rɪˈspɒndɪd wɪð ə wɔrmθ ðæt noʊ ˈɡaɪdˌbʊk kʊd həv prɪˈpɛrd mi fɔr",
+      "translation": {
+        "zh": "当我尝试学几句日语时，当地人的热情回应是任何旅行指南都无法让我预先感受到的。",
+        "en": "When I tried to learn even a few phrases in Japanese, locals responded with a warmth that no guidebook could have prepared me for."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "When I tried to learn",
+          "lemma": "learn",
+          "ipa": "wɛn aɪ traɪd tə lɜrn",
+          "translation": {
+            "zh": "当我尝试学",
+            "en": "learn"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "even a few phrases",
+          "lemma": "phrase",
+          "ipa": "ˈiːvən ə fjuː ˈfreɪzɪz",
+          "translation": {
+            "zh": "哪怕几句话",
+            "en": "phrase"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "in Japanese,",
+          "lemma": "Japanese",
+          "ipa": "ɪn ˌdʒæpəˈniːz",
+          "translation": {
+            "zh": "用日语",
+            "en": "in Japanese"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "locals responded",
+          "lemma": "respond",
+          "ipa": "ˈloʊkəlz rɪˈspɒndɪd",
+          "translation": {
+            "zh": "当地人回应",
+            "en": "respond"
+          },
+          "emoji": "🌍"
+        },
+        {
+          "text": "with a warmth",
+          "lemma": "warmth",
+          "ipa": "wɪð ə wɔrmθ",
+          "translation": {
+            "zh": "以一种温情",
+            "en": "warmth"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "that no guidebook could have prepared me for.",
+          "lemma": "guidebook",
+          "ipa": "ðæt noʊ ˈɡaɪdˌbʊk kʊd həv prɪˈpɛrd mi fɔr",
+          "translation": {
+            "zh": "是旅行指南无法让我预料到的",
+            "en": "guidebook"
+          },
+          "emoji": "🗺️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Travel reflection",
+          "index": 3
+        }
+      ],
+      "id": "a5eef0d1-82a1-43cd-82d3-937e3f1f4ff8"
+    },
+    {
+      "text": "Some of the people I met while travelling have become friends I still keep in touch with years later.",
+      "ipa": "sʌm əv ðə ˈpiːpəl aɪ mɛt waɪl ˈtrævəlɪŋ həv bɪˈkʌm frɛndz aɪ stɪl kiːp ɪn tʌtʃ wɪð jɪrz ˈleɪtər",
+      "translation": {
+        "zh": "旅行途中结识的一些人，如今多年后我仍与他们保持联系，成了真正的朋友。",
+        "en": "Some of the people I met while travelling have become friends I still keep in touch with years later."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "Some of the people",
+          "lemma": "people",
+          "ipa": "sʌm əv ðə ˈpiːpəl",
+          "translation": {
+            "zh": "其中一些人",
+            "en": "people"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "I met while travelling",
+          "lemma": "meet",
+          "ipa": "aɪ mɛt waɪl ˈtrævəlɪŋ",
+          "translation": {
+            "zh": "旅行时结识的",
+            "en": "meet"
+          },
+          "emoji": "🎒"
+        },
+        {
+          "text": "have become friends",
+          "lemma": "friend",
+          "ipa": "həv bɪˈkʌm frɛndz",
+          "translation": {
+            "zh": "已成为朋友",
+            "en": "friend"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "I still keep in touch with",
+          "lemma": "keep in touch",
+          "ipa": "aɪ stɪl kiːp ɪn tʌtʃ wɪð",
+          "translation": {
+            "zh": "我仍保持联系的",
+            "en": "keep in touch"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "years later.",
+          "lemma": "later",
+          "ipa": "jɪrz ˈleɪtər",
+          "translation": {
+            "zh": "多年后",
+            "en": "years later"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Travel reflection",
+          "index": 4
+        }
+      ],
+      "id": "f03c24a5-6110-4c35-87ae-2ed185a36e3c"
+    },
+    {
+      "text": "Coming home after a long trip, I saw my own city through a stranger's eyes for the first time.",
+      "ipa": "ˈkʌmɪŋ hoʊm ˈæftər ə lɔŋ trɪp aɪ sɔ maɪ oʊn ˈsɪti θruː ə ˈstreɪndʒərz aɪz fɔr ðə fɜrst taɪm",
+      "translation": {
+        "zh": "长途旅行归来，我第一次用陌生人的眼光打量自己的城市。",
+        "en": "Coming home after a long trip, I saw my own city through a stranger's eyes for the first time."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "Coming home",
+          "lemma": "come home",
+          "ipa": "ˈkʌmɪŋ hoʊm",
+          "translation": {
+            "zh": "回到家",
+            "en": "come home"
+          },
+          "emoji": "🏠"
+        },
+        {
+          "text": "after a long trip,",
+          "lemma": "trip",
+          "ipa": "ˈæftər ə lɔŋ trɪp",
+          "translation": {
+            "zh": "长途旅行之后",
+            "en": "trip"
+          },
+          "emoji": "✈️"
+        },
+        {
+          "text": "I saw my own city",
+          "lemma": "see",
+          "ipa": "aɪ sɔ maɪ oʊn ˈsɪti",
+          "translation": {
+            "zh": "我看到了自己的城市",
+            "en": "see"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "through a stranger's eyes",
+          "lemma": "eye",
+          "ipa": "θruː ə ˈstreɪndʒərz aɪz",
+          "translation": {
+            "zh": "用陌生人的眼光",
+            "en": "through someone's eyes"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "for the first time.",
+          "lemma": "first",
+          "ipa": "fɔr ðə fɜrst taɪm",
+          "translation": {
+            "zh": "第一次",
+            "en": "for the first time"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Travel reflection",
+          "index": 5
+        }
+      ],
+      "id": "ded2f901-6507-4947-9ed5-3208928e9238"
+    },
+    {
+      "text": "If you ever get the chance to go somewhere unfamiliar, take it — you will come back a slightly different person.",
+      "ipa": "ɪf ju ˈɛvər ɡɛt ðə tʃæns tə ɡoʊ ˈsʌmwɛr ʌnfəˈmɪljər teɪk ɪt ju wɪl kʌm bæk ə ˈslaɪtli ˈdɪfrənt ˈpɜrsən",
+      "translation": {
+        "zh": "如果你有机会去一个陌生的地方，就去吧——你回来时会成为一个略有不同的人。",
+        "en": "If you ever get the chance to go somewhere unfamiliar, take it — you will come back a slightly different person."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "If you ever get the chance",
+          "lemma": "chance",
+          "ipa": "ɪf ju ˈɛvər ɡɛt ðə tʃæns",
+          "translation": {
+            "zh": "如果你有机会",
+            "en": "chance"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "to go somewhere unfamiliar,",
+          "lemma": "unfamiliar",
+          "ipa": "tə ɡoʊ ˈsʌmwɛr ʌnfəˈmɪljər",
+          "translation": {
+            "zh": "去一个陌生的地方",
+            "en": "unfamiliar"
+          },
+          "emoji": "🗺️"
+        },
+        {
+          "text": "take it —",
+          "lemma": "take",
+          "ipa": "teɪk ɪt",
+          "translation": {
+            "zh": "就去吧",
+            "en": "take it"
+          },
+          "emoji": "✈️"
+        },
+        {
+          "text": "you will come back",
+          "lemma": "come back",
+          "ipa": "ju wɪl kʌm bæk",
+          "translation": {
+            "zh": "你回来时",
+            "en": "come back"
+          },
+          "emoji": "🏠"
+        },
+        {
+          "text": "a slightly different person.",
+          "lemma": "person",
+          "ipa": "ə ˈslaɪtli ˈdɪfrənt ˈpɜrsən",
+          "translation": {
+            "zh": "会成为一个略有不同的人",
+            "en": "a different person"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Travel reflection",
+          "index": 6
+        }
+      ],
+      "id": "bdbb929f-734f-4893-90ba-45b1f3564f6d"
+    },
+    {
+      "text": "I had been waiting all morning for the raft to drift past the old willow tree.",
+      "ipa": "aɪ hæd bɪn ˈweɪtɪŋ ɔːl ˈmɔːrnɪŋ fər ðə ræft tə drɪft pæst ði oʊld ˈwɪloʊ triː",
+      "translation": {
+        "zh": "我等了整个上午，等那木筏从老柳树旁漂过。",
+        "en": "I had been waiting all morning for the raft to drift past the old willow tree."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "I had been waiting",
+          "lemma": "wait",
+          "ipa": "aɪ hæd bɪn ˈweɪtɪŋ",
+          "translation": {
+            "zh": "我一直在等",
+            "en": "I had been waiting"
+          },
+          "emoji": "⏳"
+        },
+        {
+          "text": "all morning",
+          "lemma": "morning",
+          "ipa": "ɔːl ˈmɔːrnɪŋ",
+          "translation": {
+            "zh": "整个上午",
+            "en": "all morning"
+          },
+          "emoji": "🌄"
+        },
+        {
+          "text": "for the raft",
+          "lemma": "raft",
+          "ipa": "fər ðə ræft",
+          "translation": {
+            "zh": "等那木筏",
+            "en": "for the raft"
+          },
+          "emoji": "🚣"
+        },
+        {
+          "text": "to drift past",
+          "lemma": "drift",
+          "ipa": "tə drɪft pæst",
+          "translation": {
+            "zh": "漂过",
+            "en": "to drift past"
+          },
+          "emoji": "🌊"
+        },
+        {
+          "text": "the old willow tree",
+          "lemma": "willow",
+          "ipa": "ði oʊld ˈwɪloʊ triː",
+          "translation": {
+            "zh": "老柳树",
+            "en": "old willow tree"
+          },
+          "emoji": "🌿"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mark Twain — Childhood Days",
+          "index": 1
+        }
+      ],
+      "id": "459e3f2a-206c-4351-bb30-611b835bc796"
+    },
+    {
+      "text": "The river, which ran wide and brown after the spring rains, carried everything we threw into it.",
+      "ipa": "ðə ˈrɪvər wɪtʃ ræn waɪd ænd braʊn ˈæftər ðə sprɪŋ reɪnz ˈkærid ˈɛvriθɪŋ wiː θruː ˈɪntuː ɪt",
+      "translation": {
+        "zh": "这条河在春雨后变得宽阔而浑浊，把我们扔进去的一切都带走了。",
+        "en": "The river, which ran wide and brown after the spring rains, carried everything we threw into it."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "The river",
+          "lemma": "river",
+          "ipa": "ðə ˈrɪvər",
+          "translation": {
+            "zh": "这条河",
+            "en": "the river"
+          },
+          "emoji": "🌊"
+        },
+        {
+          "text": "which ran wide and brown",
+          "lemma": "run",
+          "ipa": "wɪtʃ ræn waɪd ænd braʊn",
+          "translation": {
+            "zh": "宽阔而浑浊地流淌",
+            "en": "which ran wide and brown"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "after the spring rains",
+          "lemma": "rain",
+          "ipa": "ˈæftər ðə sprɪŋ reɪnz",
+          "translation": {
+            "zh": "春雨之后",
+            "en": "after the spring rains"
+          },
+          "emoji": "🌧️"
+        },
+        {
+          "text": "carried everything",
+          "lemma": "carry",
+          "ipa": "ˈkærid ˈɛvriθɪŋ",
+          "translation": {
+            "zh": "带走一切",
+            "en": "carried everything"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "we threw into it",
+          "lemma": "throw",
+          "ipa": "wiː θruː ˈɪntuː ɪt",
+          "translation": {
+            "zh": "我们扔进去的",
+            "en": "we threw into it"
+          },
+          "emoji": "🌀"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mark Twain — Childhood Days",
+          "index": 2
+        }
+      ],
+      "id": "66aeed1a-0ea3-4049-984e-d361f172bada"
+    },
+    {
+      "text": "We had already stolen three pies from the widow's windowsill before anyone thought to count them.",
+      "ipa": "wiː hæd ɔːlˈrɛdi ˈstoʊlən θriː paɪz frəm ðə ˈwɪdoʊz ˈwɪndoʊsɪl bɪˈfɔːr ˈɛniwʌn θɔːt tə kaʊnt ðɛm",
+      "translation": {
+        "zh": "在任何人想到去数之前，我们已经从寡妇的窗台上偷走了三个馅饼。",
+        "en": "We had already stolen three pies from the widow's windowsill before anyone thought to count them."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "We had already stolen",
+          "lemma": "steal",
+          "ipa": "wiː hæd ɔːlˈrɛdi ˈstoʊlən",
+          "translation": {
+            "zh": "我们已经偷走了",
+            "en": "we had already stolen"
+          },
+          "emoji": "👦"
+        },
+        {
+          "text": "three pies",
+          "lemma": "pie",
+          "ipa": "θriː paɪz",
+          "translation": {
+            "zh": "三个馅饼",
+            "en": "three pies"
+          },
+          "emoji": "🥧"
+        },
+        {
+          "text": "from the widow's windowsill",
+          "lemma": "windowsill",
+          "ipa": "frəm ðə ˈwɪdoʊz ˈwɪndoʊsɪl",
+          "translation": {
+            "zh": "从寡妇的窗台上",
+            "en": "from the widow's windowsill"
+          },
+          "emoji": "🏘️"
+        },
+        {
+          "text": "before anyone thought",
+          "lemma": "think",
+          "ipa": "bɪˈfɔːr ˈɛniwʌn θɔːt",
+          "translation": {
+            "zh": "在任何人想到之前",
+            "en": "before anyone thought"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "to count them",
+          "lemma": "count",
+          "ipa": "tə kaʊnt ðɛm",
+          "translation": {
+            "zh": "去数它们",
+            "en": "to count them"
+          },
+          "emoji": "🔢"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mark Twain — Childhood Days",
+          "index": 3
+        }
+      ],
+      "id": "5b092fb3-0731-463d-aabf-f102960a7a36"
+    },
+    {
+      "text": "The old town was sleeping quietly while the fog was rolling off the water in long, slow waves.",
+      "ipa": "ði oʊld taʊn wəz ˈsliːpɪŋ ˈkwaɪətli waɪl ðə fɔːɡ wəz ˈroʊlɪŋ ɔːf ðə ˈwɔːtər ɪn lɔːŋ sloʊ weɪvz",
+      "translation": {
+        "zh": "老镇静静地沉睡着，而雾气正一波波地从水面上缓缓飘来。",
+        "en": "The old town was sleeping quietly while the fog was rolling off the water in long, slow waves."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "The old town",
+          "lemma": "town",
+          "ipa": "ði oʊld taʊn",
+          "translation": {
+            "zh": "老镇",
+            "en": "old town"
+          },
+          "emoji": "🏘️"
+        },
+        {
+          "text": "was sleeping quietly",
+          "lemma": "sleep",
+          "ipa": "wəz ˈsliːpɪŋ ˈkwaɪətli",
+          "translation": {
+            "zh": "静静地沉睡",
+            "en": "was sleeping quietly"
+          },
+          "emoji": "😴"
+        },
+        {
+          "text": "while the fog",
+          "lemma": "fog",
+          "ipa": "waɪl ðə fɔːɡ",
+          "translation": {
+            "zh": "而雾气",
+            "en": "while the fog"
+          },
+          "emoji": "🌫️"
+        },
+        {
+          "text": "was rolling off",
+          "lemma": "roll",
+          "ipa": "wəz ˈroʊlɪŋ ɔːf",
+          "translation": {
+            "zh": "正飘散",
+            "en": "was rolling off"
+          },
+          "emoji": "🌊"
+        },
+        {
+          "text": "the water",
+          "lemma": "water",
+          "ipa": "ðə ˈwɔːtər",
+          "translation": {
+            "zh": "水面",
+            "en": "the water"
+          },
+          "emoji": "💧"
+        },
+        {
+          "text": "in long slow waves",
+          "lemma": "wave",
+          "ipa": "ɪn lɔːŋ sloʊ weɪvz",
+          "translation": {
+            "zh": "一波波地",
+            "en": "in long slow waves"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mark Twain — Childhood Days",
+          "index": 4
+        }
+      ],
+      "id": "62283dd9-5162-4619-bf28-62d70b71f110"
+    },
+    {
+      "text": "People in that small town believed whatever they were told, which made life very simple for a clever boy.",
+      "ipa": "ˈpiːpəl ɪn ðæt smɔːl taʊn bɪˈliːvd wʌtˈɛvər ðeɪ wər toʊld wɪtʃ meɪd laɪf ˈvɛri ˈsɪmpəl fər ə ˈklɛvər bɔɪ",
+      "translation": {
+        "zh": "那座小镇上的人什么都信，这让聪明的孩子过得格外轻松。",
+        "en": "People in that small town believed whatever they were told, which made life very simple for a clever boy."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "People in that small town",
+          "lemma": "town",
+          "ipa": "ˈpiːpəl ɪn ðæt smɔːl taʊn",
+          "translation": {
+            "zh": "小镇上的人",
+            "en": "people in that small town"
+          },
+          "emoji": "🏘️"
+        },
+        {
+          "text": "believed whatever",
+          "lemma": "believe",
+          "ipa": "bɪˈliːvd wʌtˈɛvər",
+          "translation": {
+            "zh": "什么都相信",
+            "en": "believed whatever"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "they were told",
+          "lemma": "tell",
+          "ipa": "ðeɪ wər toʊld",
+          "translation": {
+            "zh": "被告知的",
+            "en": "they were told"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "which made life",
+          "lemma": "make",
+          "ipa": "wɪtʃ meɪd laɪf",
+          "translation": {
+            "zh": "这让生活",
+            "en": "which made life"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "very simple",
+          "lemma": "simple",
+          "ipa": "ˈvɛri ˈsɪmpəl",
+          "translation": {
+            "zh": "非常简单",
+            "en": "very simple"
+          },
+          "emoji": "😌"
+        },
+        {
+          "text": "for a clever boy",
+          "lemma": "boy",
+          "ipa": "fər ə ˈklɛvər bɔɪ",
+          "translation": {
+            "zh": "对聪明的孩子",
+            "en": "for a clever boy"
+          },
+          "emoji": "👦"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mark Twain — Childhood Days",
+          "index": 5
+        }
+      ],
+      "id": "d36912ad-7219-4b38-8499-ffea73a65855"
+    },
+    {
+      "text": "I noticed that the men who talked the loudest about hard work were always sitting on the porch.",
+      "ipa": "aɪ ˈnoʊtɪst ðæt ðə mɛn huː tɔːkt ðə ˈlaʊdɪst əˈbaʊt hɑːrd wɜːrk wər ˈɔːlweɪz ˈsɪtɪŋ ɑːn ðə pɔːrtʃ",
+      "translation": {
+        "zh": "我注意到，那些把勤劳挂在嘴上的人，总是坐在门廊上。",
+        "en": "I noticed that the men who talked the loudest about hard work were always sitting on the porch."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "I noticed",
+          "lemma": "notice",
+          "ipa": "aɪ ˈnoʊtɪst",
+          "translation": {
+            "zh": "我注意到",
+            "en": "I noticed"
+          },
+          "emoji": "👀"
+        },
+        {
+          "text": "that the men",
+          "lemma": "man",
+          "ipa": "ðæt ðə mɛn",
+          "translation": {
+            "zh": "那些人",
+            "en": "that the men"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "who talked the loudest",
+          "lemma": "talk",
+          "ipa": "huː tɔːkt ðə ˈlaʊdɪst",
+          "translation": {
+            "zh": "嚷得最响的",
+            "en": "who talked the loudest"
+          },
+          "emoji": "📢"
+        },
+        {
+          "text": "about hard work",
+          "lemma": "work",
+          "ipa": "əˈbaʊt hɑːrd wɜːrk",
+          "translation": {
+            "zh": "关于勤劳",
+            "en": "about hard work"
+          },
+          "emoji": "💪"
+        },
+        {
+          "text": "were always sitting",
+          "lemma": "sit",
+          "ipa": "wər ˈɔːlweɪz ˈsɪtɪŋ",
+          "translation": {
+            "zh": "总是坐着",
+            "en": "were always sitting"
+          },
+          "emoji": "🪑"
+        },
+        {
+          "text": "on the porch",
+          "lemma": "porch",
+          "ipa": "ɑːn ðə pɔːrtʃ",
+          "translation": {
+            "zh": "在门廊上",
+            "en": "on the porch"
+          },
+          "emoji": "🏡"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mark Twain — Childhood Days",
+          "index": 6
+        }
+      ],
+      "id": "111eea0c-328b-4571-8b2d-903016c55e36"
+    },
+    {
+      "text": "The summer afternoon stretched out like the river itself, slow and golden and too wide to see across.",
+      "ipa": "ðə ˈsʌmər ˌæftərˈnuːn strɛtʃt aʊt laɪk ðə ˈrɪvər ɪtˈsɛlf sloʊ ænd ˈɡoʊldən ænd tuː waɪd tə siː əˈkrɔːs",
+      "translation": {
+        "zh": "那个夏日午后延展开来，像河流本身一样，缓慢、金黄，宽得望不到对岸。",
+        "en": "The summer afternoon stretched out like the river itself, slow and golden and too wide to see across."
+      },
+      "cefr": "B2",
+      "tokens": [
+        {
+          "text": "The summer afternoon",
+          "lemma": "afternoon",
+          "ipa": "ðə ˈsʌmər ˌæftərˈnuːn",
+          "translation": {
+            "zh": "夏日午后",
+            "en": "summer afternoon"
+          },
+          "emoji": "☀️"
+        },
+        {
+          "text": "stretched out",
+          "lemma": "stretch",
+          "ipa": "strɛtʃt aʊt",
+          "translation": {
+            "zh": "延展开来",
+            "en": "stretched out"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "like the river itself",
+          "lemma": "river",
+          "ipa": "laɪk ðə ˈrɪvər ɪtˈsɛlf",
+          "translation": {
+            "zh": "像河流本身",
+            "en": "like the river itself"
+          },
+          "emoji": "🌊"
+        },
+        {
+          "text": "slow and golden",
+          "lemma": "golden",
+          "ipa": "sloʊ ænd ˈɡoʊldən",
+          "translation": {
+            "zh": "缓慢而金黄",
+            "en": "slow and golden"
+          },
+          "emoji": "🏞️"
+        },
+        {
+          "text": "and too wide",
+          "lemma": "wide",
+          "ipa": "ænd tuː waɪd",
+          "translation": {
+            "zh": "宽得",
+            "en": "and too wide"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "to see across",
+          "lemma": "see",
+          "ipa": "tə siː əˈkrɔːs",
+          "translation": {
+            "zh": "望不到对岸",
+            "en": "to see across"
+          },
+          "emoji": "👁️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mark Twain — Childhood Days",
+          "index": 7
+        }
+      ],
+      "id": "1b786e20-81c3-4fe6-982f-fa525617b6d6"
     }
   ]
 }
