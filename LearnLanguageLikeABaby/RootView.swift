@@ -358,12 +358,20 @@ struct RootView: View {
 
     private func setupActiveFlag() {
         let activeID = appModel.selectedLearningLanguageID
-        for s in appModel.availableSessions {
-            s.isActive = (s.config.id == activeID)
+        // Always deactivate non-target sessions immediately so any in-flight
+        // TTS stops the moment the user switches.
+        for s in appModel.availableSessions where s.config.id != activeID {
+            s.isActive = false
         }
-        if !appModel.availableSessions.contains(where: { $0.isActive }),
-           let first = appModel.availableSessions.first {
-            first.isActive = true
+        // For the target session: if it still owes a placement test, leave
+        // it deactivated. ContentView.task will surface PlacementTestView,
+        // and its onConfirm/onSkip callbacks flip isActive themselves —
+        // otherwise we'd play a beat of TTS before placement covers the
+        // screen.
+        if let target = appModel.availableSessions.first(where: { $0.config.id == activeID }) {
+            target.isActive = target.wasPlacementShown
+        } else if let first = appModel.availableSessions.first {
+            first.isActive = first.wasPlacementShown
         }
     }
 }
