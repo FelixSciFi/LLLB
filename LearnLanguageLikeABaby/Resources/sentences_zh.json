@@ -18626,7 +18626,7 @@
       "tokens": [
         {
           "text": "觉得",
-          "lemma": "觉得",
+          "lemma": "觉",
           "ipa": "jué de",
           "translation": {
             "zh": "觉得",
@@ -24565,7 +24565,7 @@
       "tokens": [
         {
           "text": "我觉得",
-          "lemma": "觉得",
+          "lemma": "觉",
           "ipa": "wǒ jué de",
           "translation": {
             "zh": "我觉得",
@@ -24597,7 +24597,7 @@
       "tokens": [
         {
           "text": "你觉得呢",
-          "lemma": "觉得",
+          "lemma": "觉",
           "ipa": "nǐ jué de ne",
           "translation": {
             "zh": "你觉得呢",
@@ -24619,7 +24619,7 @@
       "tokens": [
         {
           "text": "我觉得",
-          "lemma": "觉得",
+          "lemma": "觉",
           "ipa": "wǒ jué de",
           "translation": {
             "zh": "我觉得",
@@ -34034,7 +34034,7 @@
       "tokens": [
         {
           "text": "除了",
-          "lemma": "除了",
+          "lemma": "除",
           "ipa": "chú le",
           "translation": {
             "zh": "除了",
@@ -35552,7 +35552,7 @@
       "tokens": [
         {
           "text": "记得",
-          "lemma": "记得",
+          "lemma": "记",
           "ipa": "jì de",
           "translation": {
             "zh": "记得",
@@ -35970,7 +35970,7 @@
       "tokens": [
         {
           "text": "经过",
-          "lemma": "经过",
+          "lemma": "经",
           "ipa": "jīng guò",
           "translation": {
             "zh": "经过",
@@ -36828,7 +36828,7 @@
       "tokens": [
         {
           "text": "难过",
-          "lemma": "难过",
+          "lemma": "难",
           "ipa": "nán guò",
           "translation": {
             "zh": "难过",
@@ -38082,7 +38082,7 @@
       "tokens": [
         {
           "text": "为了",
-          "lemma": "为了",
+          "lemma": "为",
           "ipa": "wèi le",
           "translation": {
             "zh": "为了",
@@ -40194,7 +40194,7 @@
       "tokens": [
         {
           "text": "超过",
-          "lemma": "超过",
+          "lemma": "超",
           "ipa": "chāo guò",
           "translation": {
             "zh": "超过",
@@ -43076,7 +43076,7 @@
       "tokens": [
         {
           "text": "获得",
-          "lemma": "获得",
+          "lemma": "获",
           "ipa": "huò dé",
           "translation": {
             "zh": "获得",
@@ -45540,7 +45540,7 @@
       "tokens": [
         {
           "text": "目的",
-          "lemma": "目的",
+          "lemma": "目",
           "ipa": "mù dì",
           "translation": {
             "zh": "目的",
@@ -47102,7 +47102,7 @@
       "tokens": [
         {
           "text": "受不了",
-          "lemma": "受不了",
+          "lemma": "受不",
           "ipa": "shòu bu liǎo",
           "translation": {
             "zh": "受不了",
@@ -47498,7 +47498,7 @@
       "tokens": [
         {
           "text": "随着",
-          "lemma": "随着",
+          "lemma": "随",
           "ipa": "suí zhe",
           "translation": {
             "zh": "随着",
@@ -47960,7 +47960,7 @@
       "tokens": [
         {
           "text": "通过",
-          "lemma": "通过",
+          "lemma": "通",
           "ipa": "tōng guò",
           "translation": {
             "zh": "通过",
@@ -50380,7 +50380,7 @@
       "tokens": [
         {
           "text": "值得",
-          "lemma": "值得",
+          "lemma": "值",
           "ipa": "zhí de",
           "translation": {
             "zh": "值得",
@@ -52404,7 +52404,7 @@
       "tokens": [
         {
           "text": "不得了",
-          "lemma": "不得了",
+          "lemma": "不得",
           "ipa": "bù dé liǎo",
           "translation": {
             "zh": "不得了",
@@ -52448,7 +52448,7 @@
       "tokens": [
         {
           "text": "不见得",
-          "lemma": "不见得",
+          "lemma": "不见",
           "ipa": "bù jiàn de",
           "translation": {
             "zh": "不见得",
@@ -54494,7 +54494,7 @@
       "tokens": [
         {
           "text": "此外",
-          "lemma": "此外",
+          "lemma": "外",
           "ipa": "cǐ wài",
           "translation": {
             "zh": "此外",
@@ -55352,7 +55352,7 @@
       "tokens": [
         {
           "text": "当地",
-          "lemma": "当地",
+          "lemma": "当",
           "ipa": "dāng dì",
           "translation": {
             "zh": "当地",
@@ -56122,7 +56122,7 @@
       "tokens": [
         {
           "text": "度过",
-          "lemma": "度过",
+          "lemma": "度",
           "ipa": "dù guò",
           "translation": {
             "zh": "度过",
@@ -58762,7 +58762,7 @@
       "tokens": [
         {
           "text": "怪不得",
-          "lemma": "怪不得",
+          "lemma": "怪不",
           "ipa": "guài bu de",
           "translation": {
             "zh": "怪不得",
@@ -62414,7 +62414,7 @@
       "tokens": [
         {
           "text": "酒吧",
-          "lemma": "酒吧",
+          "lemma": "酒",
           "ipa": "jiǔ bā",
           "translation": {
             "zh": "酒吧",
@@ -64482,7 +64482,7 @@
       "tokens": [
         {
           "text": "陆地",
-          "lemma": "陆地",
+          "lemma": "陆",
           "ipa": "lù dì",
           "translation": {
             "zh": "陆地",
@@ -68838,7 +68838,7 @@
       "tokens": [
         {
           "text": "舍不得",
-          "lemma": "舍不得",
+          "lemma": "舍不",
           "ipa": "shě bu dé",
           "translation": {
             "zh": "舍不得",
@@ -71676,7 +71676,7 @@
       "tokens": [
         {
           "text": "土地",
-          "lemma": "土地",
+          "lemma": "土",
           "ipa": "tǔ dì",
           "translation": {
             "zh": "土地",
@@ -73260,7 +73260,7 @@
       "tokens": [
         {
           "text": "显得",
-          "lemma": "显得",
+          "lemma": "显",
           "ipa": "xiǎn de",
           "translation": {
             "zh": "显得",
@@ -79728,7 +79728,7 @@
       "tokens": [
         {
           "text": "巴不得",
-          "lemma": "巴不得",
+          "lemma": "巴不",
           "ipa": "bā bu dé",
           "translation": {
             "zh": "巴不得",
@@ -83072,7 +83072,7 @@
       "tokens": [
         {
           "text": "不由得",
-          "lemma": "不由得",
+          "lemma": "不由",
           "ipa": "bù yóu de",
           "translation": {
             "zh": "不由得",
@@ -84832,7 +84832,7 @@
       "tokens": [
         {
           "text": "沉着",
-          "lemma": "沉着",
+          "lemma": "沉",
           "ipa": "chén zhuó",
           "translation": {
             "zh": "沉着",
@@ -87296,7 +87296,7 @@
       "tokens": [
         {
           "text": "大不了",
-          "lemma": "大不了",
+          "lemma": "大不",
           "ipa": "dà bu liǎo",
           "translation": {
             "zh": "大不了",
@@ -93698,7 +93698,7 @@
       "tokens": [
         {
           "text": "耕地",
-          "lemma": "耕地",
+          "lemma": "耕",
           "ipa": "gēng dì",
           "translation": {
             "zh": "耕地",
@@ -96162,7 +96162,7 @@
       "tokens": [
         {
           "text": "恨不得",
-          "lemma": "恨不得",
+          "lemma": "恨不",
           "ipa": "hèn bu dé",
           "translation": {
             "zh": "恨不得",
@@ -97900,7 +97900,7 @@
       "tokens": [
         {
           "text": "基地",
-          "lemma": "基地",
+          "lemma": "基",
           "ipa": "jī dì",
           "translation": {
             "zh": "基地",
@@ -107690,7 +107690,7 @@
       "tokens": [
         {
           "text": "难得",
-          "lemma": "难得",
+          "lemma": "难",
           "ipa": "nán dé",
           "translation": {
             "zh": "难得",
@@ -108746,7 +108746,7 @@
       "tokens": [
         {
           "text": "盆地",
-          "lemma": "盆地",
+          "lemma": "盆",
           "ipa": "pén dì",
           "translation": {
             "zh": "盆地",
@@ -123156,7 +123156,7 @@
       "tokens": [
         {
           "text": "心得",
-          "lemma": "心得",
+          "lemma": "心",
           "ipa": "xīn dé",
           "translation": {
             "zh": "心得",
@@ -125950,7 +125950,7 @@
       "tokens": [
         {
           "text": "一举两得",
-          "lemma": "一举两得",
+          "lemma": "一举两",
           "ipa": "yī jǔ liǎng dé",
           "translation": {
             "zh": "一举两得",
@@ -126478,7 +126478,7 @@
       "tokens": [
         {
           "text": "意味着",
-          "lemma": "意味着",
+          "lemma": "意味",
           "ipa": "yì wèi zhe",
           "translation": {
             "zh": "意味着",
@@ -129712,7 +129712,7 @@
       "tokens": [
         {
           "text": "阵地",
-          "lemma": "阵地",
+          "lemma": "阵",
           "ipa": "zhèn dì",
           "translation": {
             "zh": "阵地",
@@ -130680,7 +130680,7 @@
       "tokens": [
         {
           "text": "执着",
-          "lemma": "执着",
+          "lemma": "执",
           "ipa": "zhí zhuó",
           "translation": {
             "zh": "执着",
@@ -130856,7 +130856,7 @@
       "tokens": [
         {
           "text": "殖民地",
-          "lemma": "殖民地",
+          "lemma": "殖民",
           "ipa": "zhí mín dì",
           "translation": {
             "zh": "殖民地",
@@ -134076,7 +134076,7 @@
       "tokens": [
         {
           "text": "我叫她",
-          "lemma": "我叫她",
+          "lemma": "叫她",
           "ipa": "wǒ jiào tā",
           "translation": {
             "zh": "我叫她",
@@ -134160,7 +134160,7 @@
       "tokens": [
         {
           "text": "这张桌子",
-          "lemma": "这张桌子",
+          "lemma": "张桌子",
           "ipa": "zhè zhāng zhuō zi",
           "translation": {
             "zh": "这张桌子",
@@ -134170,7 +134170,7 @@
         },
         {
           "text": "太矮了",
-          "lemma": "太矮了",
+          "lemma": "太矮",
           "ipa": "tài ǎi le",
           "translation": {
             "zh": "太矮了",
@@ -134192,7 +134192,7 @@
       "tokens": [
         {
           "text": "你有",
-          "lemma": "你有",
+          "lemma": "有",
           "ipa": "nǐ yǒu",
           "translation": {
             "zh": "你有",
@@ -134412,7 +134412,7 @@
         },
         {
           "text": "忘在家里了",
-          "lemma": "忘在家里了",
+          "lemma": "忘在家里",
           "ipa": "wàng zài jiā lǐ le",
           "translation": {
             "zh": "忘在家里了",
@@ -134434,7 +134434,7 @@
       "tokens": [
         {
           "text": "我们班",
-          "lemma": "我们班",
+          "lemma": "班",
           "ipa": "wǒ men bān",
           "translation": {
             "zh": "我们班",
@@ -134548,7 +134548,7 @@
         },
         {
           "text": "新家了",
-          "lemma": "新家了",
+          "lemma": "新家",
           "ipa": "xīn jiā le",
           "translation": {
             "zh": "新家了",
@@ -134600,7 +134600,7 @@
         },
         {
           "text": "这个箱子",
-          "lemma": "这个箱子",
+          "lemma": "个箱子",
           "ipa": "zhè gè xiāng zi",
           "translation": {
             "zh": "这个箱子",
@@ -134674,7 +134674,7 @@
       "tokens": [
         {
           "text": "这个问题",
-          "lemma": "这个问题",
+          "lemma": "个问题",
           "ipa": "zhè gè wèn tí",
           "translation": {
             "zh": "这个问题",
@@ -134852,7 +134852,7 @@
         },
         {
           "text": "等了",
-          "lemma": "等了",
+          "lemma": "等",
           "ipa": "děng le",
           "translation": {
             "zh": "等了",
@@ -134884,7 +134884,7 @@
       "tokens": [
         {
           "text": "你能",
-          "lemma": "你能",
+          "lemma": "能",
           "ipa": "nǐ néng",
           "translation": {
             "zh": "你能",
@@ -134904,7 +134904,7 @@
         },
         {
           "text": "拿一下吗",
-          "lemma": "拿一下吗",
+          "lemma": "拿一下",
           "ipa": "ná yī xià ma",
           "translation": {
             "zh": "拿一下吗",
@@ -134936,7 +134936,7 @@
         },
         {
           "text": "昨天的",
-          "lemma": "昨天的",
+          "lemma": "昨天",
           "ipa": "zuó tiān de",
           "translation": {
             "zh": "昨天的",
@@ -135092,7 +135092,7 @@
         },
         {
           "text": "吃饱了",
-          "lemma": "吃饱了",
+          "lemma": "吃饱",
           "ipa": "chī bǎo le",
           "translation": {
             "zh": "吃饱了",
@@ -135144,7 +135144,7 @@
         },
         {
           "text": "饱了吗",
-          "lemma": "饱了吗",
+          "lemma": "饱了",
           "ipa": "bǎo le ma",
           "translation": {
             "zh": "饱了吗",
@@ -135166,7 +135166,7 @@
       "tokens": [
         {
           "text": "他是",
-          "lemma": "他是",
+          "lemma": "是",
           "ipa": "tā shì",
           "translation": {
             "zh": "他是",
@@ -135260,7 +135260,7 @@
       "tokens": [
         {
           "text": "我的钱包",
-          "lemma": "我的钱包",
+          "lemma": "的钱包",
           "ipa": "wǒ de qián bāo",
           "translation": {
             "zh": "我的钱包",
@@ -135280,7 +135280,7 @@
         },
         {
           "text": "偷走了",
-          "lemma": "偷走了",
+          "lemma": "偷走",
           "ipa": "tōu zǒu le",
           "translation": {
             "zh": "偷走了",
@@ -135322,7 +135322,7 @@
         },
         {
           "text": "表扬了",
-          "lemma": "表扬了",
+          "lemma": "表扬",
           "ipa": "biǎo yáng le",
           "translation": {
             "zh": "表扬了",
@@ -135386,7 +135386,7 @@
       "tokens": [
         {
           "text": "感冒了",
-          "lemma": "感冒了",
+          "lemma": "感冒",
           "ipa": "gǎn mào le",
           "translation": {
             "zh": "感冒了",
@@ -135428,7 +135428,7 @@
       "tokens": [
         {
           "text": "这家店",
-          "lemma": "这家店",
+          "lemma": "家店",
           "ipa": "zhè jiā diàn",
           "translation": {
             "zh": "这家店",
@@ -135564,7 +135564,7 @@
         },
         {
           "text": "赢了",
-          "lemma": "赢了",
+          "lemma": "赢",
           "ipa": "yíng le",
           "translation": {
             "zh": "赢了",
@@ -135626,7 +135626,7 @@
         },
         {
           "text": "放哪儿了",
-          "lemma": "放哪儿了",
+          "lemma": "放哪儿",
           "ipa": "fàng nǎr le",
           "translation": {
             "zh": "放哪儿了",
@@ -135668,7 +135668,7 @@
         },
         {
           "text": "记下来了",
-          "lemma": "记下来了",
+          "lemma": "记下来",
           "ipa": "jì xià lái le",
           "translation": {
             "zh": "记下来了",
@@ -135742,7 +135742,7 @@
       "tokens": [
         {
           "text": "这件事",
-          "lemma": "这件事",
+          "lemma": "件事",
           "ipa": "zhè jiàn shì",
           "translation": {
             "zh": "这件事",
@@ -135784,7 +135784,7 @@
       "tokens": [
         {
           "text": "这里的",
-          "lemma": "这里的",
+          "lemma": "里",
           "ipa": "zhè lǐ de",
           "translation": {
             "zh": "这里的",
@@ -135804,7 +135804,7 @@
         },
         {
           "text": "真的",
-          "lemma": "真的",
+          "lemma": "真",
           "ipa": "zhēn de",
           "translation": {
             "zh": "真的",
@@ -136118,7 +136118,7 @@
         },
         {
           "text": "我去",
-          "lemma": "我去",
+          "lemma": "去",
           "ipa": "wǒ qù",
           "translation": {
             "zh": "我去",
@@ -136128,7 +136128,7 @@
         },
         {
           "text": "他也去",
-          "lemma": "他也去",
+          "lemma": "也去",
           "ipa": "tā yě qù",
           "translation": {
             "zh": "他也去",
@@ -136150,7 +136150,7 @@
       "tokens": [
         {
           "text": "这个饭馆",
-          "lemma": "这个饭馆",
+          "lemma": "个饭馆",
           "ipa": "zhè ge fàn guǎn",
           "translation": {
             "zh": "这个饭馆",
@@ -136202,7 +136202,7 @@
       "tokens": [
         {
           "text": "他聪明",
-          "lemma": "他聪明",
+          "lemma": "聪明",
           "ipa": "tā cōng míng",
           "translation": {
             "zh": "他聪明",
@@ -136348,7 +136348,7 @@
         },
         {
           "text": "参加了",
-          "lemma": "参加了",
+          "lemma": "参加",
           "ipa": "cān jiā le",
           "translation": {
             "zh": "参加了",
@@ -136358,7 +136358,7 @@
         },
         {
           "text": "学校的",
-          "lemma": "学校的",
+          "lemma": "学校",
           "ipa": "xué xiào de",
           "translation": {
             "zh": "学校的",
@@ -136390,7 +136390,7 @@
       "tokens": [
         {
           "text": "你想",
-          "lemma": "你想",
+          "lemma": "想",
           "ipa": "nǐ xiǎng",
           "translation": {
             "zh": "你想",
@@ -136410,7 +136410,7 @@
         },
         {
           "text": "我们吗",
-          "lemma": "我们吗",
+          "lemma": "吗",
           "ipa": "wǒ men ma",
           "translation": {
             "zh": "我们吗",
@@ -136432,7 +136432,7 @@
       "tokens": [
         {
           "text": "公园里的",
-          "lemma": "公园里的",
+          "lemma": "公园里",
           "ipa": "gōng yuán lǐ de",
           "translation": {
             "zh": "公园里的",
@@ -136578,7 +136578,7 @@
         },
         {
           "text": "就停了",
-          "lemma": "就停了",
+          "lemma": "就停",
           "ipa": "jiù tíng le",
           "translation": {
             "zh": "就停了",
@@ -136652,7 +136652,7 @@
       "tokens": [
         {
           "text": "这家餐厅的",
-          "lemma": "这家餐厅的",
+          "lemma": "家餐厅",
           "ipa": "zhè jiā cān tīng de",
           "translation": {
             "zh": "这家餐厅的",
@@ -136672,7 +136672,7 @@
         },
         {
           "text": "太差了",
-          "lemma": "太差了",
+          "lemma": "太差",
           "ipa": "tài chà le",
           "translation": {
             "zh": "太差了",
@@ -136694,7 +136694,7 @@
       "tokens": [
         {
           "text": "我去",
-          "lemma": "我去",
+          "lemma": "去",
           "ipa": "wǒ qù",
           "translation": {
             "zh": "我去",
@@ -136714,7 +136714,7 @@
         },
         {
           "text": "买了",
-          "lemma": "买了",
+          "lemma": "买",
           "ipa": "mǎi le",
           "translation": {
             "zh": "买了",
@@ -136808,7 +136808,7 @@
       "tokens": [
         {
           "text": "他穿了",
-          "lemma": "他穿了",
+          "lemma": "穿",
           "ipa": "tā chuān le",
           "translation": {
             "zh": "他穿了",
@@ -136860,7 +136860,7 @@
       "tokens": [
         {
           "text": "这件",
-          "lemma": "这件",
+          "lemma": "件",
           "ipa": "zhè jiàn",
           "translation": {
             "zh": "这件",
@@ -136890,7 +136890,7 @@
         },
         {
           "text": "缩水了",
-          "lemma": "缩水了",
+          "lemma": "缩水",
           "ipa": "suō shuǐ le",
           "translation": {
             "zh": "缩水了",
@@ -136922,7 +136922,7 @@
         },
         {
           "text": "这次考试",
-          "lemma": "这次考试",
+          "lemma": "次考试",
           "ipa": "zhè cì kǎo shì",
           "translation": {
             "zh": "这次考试",
@@ -137056,7 +137056,7 @@
         },
         {
           "text": "很大的",
-          "lemma": "很大的",
+          "lemma": "很大",
           "ipa": "hěn dà de",
           "translation": {
             "zh": "很大的",
@@ -137088,7 +137088,7 @@
       "tokens": [
         {
           "text": "他想去",
-          "lemma": "他想去",
+          "lemma": "想去",
           "ipa": "tā xiǎng qù",
           "translation": {
             "zh": "他想去",
@@ -137098,7 +137098,7 @@
         },
         {
           "text": "南方的",
-          "lemma": "南方的",
+          "lemma": "南方",
           "ipa": "nán fāng de",
           "translation": {
             "zh": "南方的",
@@ -137170,7 +137170,7 @@
         },
         {
           "text": "又迟到了",
-          "lemma": "又迟到了",
+          "lemma": "又迟到",
           "ipa": "yòu chí dào le",
           "translation": {
             "zh": "又迟到了",
@@ -137202,7 +137202,7 @@
         },
         {
           "text": "堵车，",
-          "lemma": "堵车，",
+          "lemma": "堵车",
           "ipa": "dǔ chē",
           "translation": {
             "zh": "堵车",
@@ -137212,7 +137212,7 @@
         },
         {
           "text": "我迟到了",
-          "lemma": "我迟到了",
+          "lemma": "迟到",
           "ipa": "wǒ chí dào le",
           "translation": {
             "zh": "我迟到了",
@@ -137244,7 +137244,7 @@
       "tokens": [
         {
           "text": "除了",
-          "lemma": "除了",
+          "lemma": "除",
           "ipa": "chú le",
           "translation": {
             "zh": "除了",
@@ -137274,7 +137274,7 @@
         },
         {
           "text": "都来了",
-          "lemma": "都来了",
+          "lemma": "都来",
           "ipa": "dōu lái le",
           "translation": {
             "zh": "都来了",
@@ -137296,7 +137296,7 @@
       "tokens": [
         {
           "text": "除了",
-          "lemma": "除了",
+          "lemma": "除",
           "ipa": "chú le",
           "translation": {
             "zh": "除了",
@@ -137306,7 +137306,7 @@
         },
         {
           "text": "汉语，",
-          "lemma": "汉语，",
+          "lemma": "汉语",
           "ipa": "hàn yǔ",
           "translation": {
             "zh": "汉语",
@@ -137316,7 +137316,7 @@
         },
         {
           "text": "她还会说",
-          "lemma": "她还会说",
+          "lemma": "还会说",
           "ipa": "tā hái huì shuō",
           "translation": {
             "zh": "她还会说",
@@ -137368,7 +137368,7 @@
         },
         {
           "text": "去了",
-          "lemma": "去了",
+          "lemma": "去",
           "ipa": "qù le",
           "translation": {
             "zh": "去了",
@@ -137472,7 +137472,7 @@
         },
         {
           "text": "来了，",
-          "lemma": "来了，",
+          "lemma": "来了",
           "ipa": "lái le",
           "translation": {
             "zh": "来了",
@@ -137492,7 +137492,7 @@
         },
         {
           "text": "都开了",
-          "lemma": "都开了",
+          "lemma": "都开",
           "ipa": "dōu kāi le",
           "translation": {
             "zh": "都开了",
@@ -137534,7 +137534,7 @@
         },
         {
           "text": "春天的",
-          "lemma": "春天的",
+          "lemma": "春天",
           "ipa": "chūn tiān de",
           "translation": {
             "zh": "春天的",
@@ -137566,7 +137566,7 @@
       "tokens": [
         {
           "text": "我用",
-          "lemma": "我用",
+          "lemma": "用",
           "ipa": "wǒ yòng",
           "translation": {
             "zh": "我用",
@@ -137586,7 +137586,7 @@
         },
         {
           "text": "查了",
-          "lemma": "查了",
+          "lemma": "查",
           "ipa": "chá le",
           "translation": {
             "zh": "查了",
@@ -137596,7 +137596,7 @@
         },
         {
           "text": "这个词",
-          "lemma": "这个词",
+          "lemma": "个词",
           "ipa": "zhè gè cí",
           "translation": {
             "zh": "这个词",
@@ -137618,7 +137618,7 @@
       "tokens": [
         {
           "text": "你有",
-          "lemma": "你有",
+          "lemma": "有",
           "ipa": "nǐ yǒu",
           "translation": {
             "zh": "你有",
@@ -137638,7 +137638,7 @@
         },
         {
           "text": "词典吗？",
-          "lemma": "词典吗？",
+          "lemma": "词典吗",
           "ipa": "cí diǎn ma",
           "translation": {
             "zh": "词典吗",
@@ -137722,7 +137722,7 @@
         },
         {
           "text": "快，",
-          "lemma": "快，",
+          "lemma": "快",
           "ipa": "kuài",
           "translation": {
             "zh": "快",
@@ -137764,7 +137764,7 @@
         },
         {
           "text": "我帮",
-          "lemma": "我帮",
+          "lemma": "帮",
           "ipa": "wǒ bāng",
           "translation": {
             "zh": "我帮",
@@ -137826,7 +137826,7 @@
         },
         {
           "text": "还没打扫，",
-          "lemma": "还没打扫，",
+          "lemma": "还没打扫",
           "ipa": "hái méi dǎ sǎo",
           "translation": {
             "zh": "还没打扫",
@@ -137888,7 +137888,7 @@
         },
         {
           "text": "哪儿？",
-          "lemma": "哪儿？",
+          "lemma": "哪儿",
           "ipa": "nǎr",
           "translation": {
             "zh": "哪儿",
@@ -137910,7 +137910,7 @@
       "tokens": [
         {
           "text": "他打算",
-          "lemma": "他打算",
+          "lemma": "打算",
           "ipa": "tā dǎ suàn",
           "translation": {
             "zh": "他打算",
@@ -137972,7 +137972,7 @@
         },
         {
           "text": "别忘了",
-          "lemma": "别忘了",
+          "lemma": "别忘",
           "ipa": "bié wàng le",
           "translation": {
             "zh": "别忘了",
@@ -138014,7 +138014,7 @@
       "tokens": [
         {
           "text": "她带了",
-          "lemma": "她带了",
+          "lemma": "带",
           "ipa": "tā dài le",
           "translation": {
             "zh": "她带了",
@@ -138128,7 +138128,7 @@
       "tokens": [
         {
           "text": "不用担心，",
-          "lemma": "不用担心，",
+          "lemma": "不用担心",
           "ipa": "bù yòng dān xīn",
           "translation": {
             "zh": "不用担心",
@@ -138158,7 +138158,7 @@
         },
         {
           "text": "到家了",
-          "lemma": "到家了",
+          "lemma": "到家",
           "ipa": "dào jiā le",
           "translation": {
             "zh": "到家了",
@@ -138200,7 +138200,7 @@
         },
         {
           "text": "买了",
-          "lemma": "买了",
+          "lemma": "买",
           "ipa": "mǎi le",
           "translation": {
             "zh": "买了",
@@ -138262,7 +138262,7 @@
         },
         {
           "text": "太甜了，",
-          "lemma": "太甜了，",
+          "lemma": "太甜了",
           "ipa": "tài tián le",
           "translation": {
             "zh": "太甜了",
@@ -138294,7 +138294,7 @@
       "tokens": [
         {
           "text": "当然，",
-          "lemma": "当然，",
+          "lemma": "当然",
           "ipa": "dāng rán",
           "translation": {
             "zh": "当然",
@@ -138386,7 +138386,7 @@
         },
         {
           "text": "这件事",
-          "lemma": "这件事",
+          "lemma": "件事",
           "ipa": "zhè jiàn shì",
           "translation": {
             "zh": "这件事",
@@ -138418,7 +138418,7 @@
         },
         {
           "text": "记得",
-          "lemma": "记得",
+          "lemma": "记",
           "ipa": "jì de",
           "translation": {
             "zh": "记得",
@@ -138450,7 +138450,7 @@
       "tokens": [
         {
           "text": "这盏灯",
-          "lemma": "这盏灯",
+          "lemma": "盏灯",
           "ipa": "zhè zhǎn dēng",
           "translation": {
             "zh": "这盏灯",
@@ -138460,7 +138460,7 @@
         },
         {
           "text": "太暗了，",
-          "lemma": "太暗了，",
+          "lemma": "太暗了",
           "ipa": "tài àn le",
           "translation": {
             "zh": "太暗了",
@@ -138502,7 +138502,7 @@
         },
         {
           "text": "地方的",
-          "lemma": "地方的",
+          "lemma": "地方",
           "ipa": "dì fāng de",
           "translation": {
             "zh": "地方的",
@@ -138544,7 +138544,7 @@
       "tokens": [
         {
           "text": "你知道",
-          "lemma": "你知道",
+          "lemma": "知道",
           "ipa": "nǐ zhī dào",
           "translation": {
             "zh": "你知道",
@@ -138564,7 +138564,7 @@
         },
         {
           "text": "好吃的",
-          "lemma": "好吃的",
+          "lemma": "好吃",
           "ipa": "hǎo chī de",
           "translation": {
             "zh": "好吃的",
@@ -138574,7 +138574,7 @@
         },
         {
           "text": "地方吗？",
-          "lemma": "地方吗？",
+          "lemma": "地方吗",
           "ipa": "dì fāng ma",
           "translation": {
             "zh": "地方吗",
@@ -138690,7 +138690,7 @@
       "tokens": [
         {
           "text": "我用",
-          "lemma": "我用",
+          "lemma": "用",
           "ipa": "wǒ yòng",
           "translation": {
             "zh": "我用",
@@ -138710,7 +138710,7 @@
         },
         {
           "text": "找到了",
-          "lemma": "找到了",
+          "lemma": "找到",
           "ipa": "zhǎo dào le",
           "translation": {
             "zh": "找到了",
@@ -138720,7 +138720,7 @@
         },
         {
           "text": "那条街",
-          "lemma": "那条街",
+          "lemma": "条街",
           "ipa": "nà tiáo jiē",
           "translation": {
             "zh": "那条街",
@@ -138782,7 +138782,7 @@
         },
         {
           "text": "迷路了",
-          "lemma": "迷路了",
+          "lemma": "迷路",
           "ipa": "mí lù le",
           "translation": {
             "zh": "迷路了",
@@ -138814,7 +138814,7 @@
         },
         {
           "text": "坏了，",
-          "lemma": "坏了，",
+          "lemma": "坏了",
           "ipa": "huài le",
           "translation": {
             "zh": "坏了",
@@ -138980,7 +138980,7 @@
       "tokens": [
         {
           "text": "我收到了",
-          "lemma": "我收到了",
+          "lemma": "收到",
           "ipa": "wǒ shōu dào le",
           "translation": {
             "zh": "我收到了",
@@ -138990,7 +138990,7 @@
         },
         {
           "text": "老师发来的",
-          "lemma": "老师发来的",
+          "lemma": "老师发来",
           "ipa": "lǎo shī fā lái de",
           "translation": {
             "zh": "老师发来的",
@@ -139042,7 +139042,7 @@
         },
         {
           "text": "升起来了",
-          "lemma": "升起来了",
+          "lemma": "升起来",
           "ipa": "shēng qǐ lái le",
           "translation": {
             "zh": "升起来了",
@@ -139074,7 +139074,7 @@
         },
         {
           "text": "在学校的",
-          "lemma": "在学校的",
+          "lemma": "在学校",
           "ipa": "zài xué xiào de",
           "translation": {
             "zh": "在学校的",
@@ -139178,7 +139178,7 @@
         },
         {
           "text": "冬天，",
-          "lemma": "冬天，",
+          "lemma": "冬天",
           "ipa": "dōng tiān",
           "translation": {
             "zh": "冬天",
@@ -139188,7 +139188,7 @@
         },
         {
           "text": "太冷了",
-          "lemma": "太冷了",
+          "lemma": "太冷",
           "ipa": "tài lěng le",
           "translation": {
             "zh": "太冷了",
@@ -139314,7 +139314,7 @@
       "tokens": [
         {
           "text": "这条",
-          "lemma": "这条",
+          "lemma": "条",
           "ipa": "zhè tiáo",
           "translation": {
             "zh": "这条",
@@ -139366,7 +139366,7 @@
         },
         {
           "text": "之间的",
-          "lemma": "之间的",
+          "lemma": "之间",
           "ipa": "zhī jiān de",
           "translation": {
             "zh": "之间的",
@@ -139408,7 +139408,7 @@
       "tokens": [
         {
           "text": "这段路",
-          "lemma": "这段路",
+          "lemma": "段路",
           "ipa": "zhè duàn lù",
           "translation": {
             "zh": "这段路",
@@ -139606,7 +139606,7 @@
       "tokens": [
         {
           "text": "多么漂亮的",
-          "lemma": "多么漂亮的",
+          "lemma": "多么漂亮",
           "ipa": "duō me piào liang de",
           "translation": {
             "zh": "多么漂亮的",
@@ -139616,7 +139616,7 @@
         },
         {
           "text": "花啊",
-          "lemma": "花啊",
+          "lemma": "花",
           "ipa": "huā a",
           "translation": {
             "zh": "花啊",
@@ -139752,7 +139752,7 @@
         },
         {
           "text": "饿了吗",
-          "lemma": "饿了吗",
+          "lemma": "饿了",
           "ipa": "è le ma",
           "translation": {
             "zh": "饿了吗",
@@ -139772,7 +139772,7 @@
         },
         {
           "text": "去吃饭吧",
-          "lemma": "去吃饭吧",
+          "lemma": "去吃饭",
           "ipa": "qù chī fàn ba",
           "translation": {
             "zh": "去吃饭吧",
@@ -139908,7 +139908,7 @@
         },
         {
           "text": "发了",
-          "lemma": "发了",
+          "lemma": "发",
           "ipa": "fā le",
           "translation": {
             "zh": "发了",
@@ -140022,7 +140022,7 @@
         },
         {
           "text": "发烧了",
-          "lemma": "发烧了",
+          "lemma": "发烧",
           "ipa": "fā shāo le",
           "translation": {
             "zh": "发烧了",
@@ -140156,7 +140156,7 @@
         },
         {
           "text": "不见了",
-          "lemma": "不见了",
+          "lemma": "不见",
           "ipa": "bù jiàn le",
           "translation": {
             "zh": "不见了",
@@ -140188,7 +140188,7 @@
         },
         {
           "text": "发现了",
-          "lemma": "发现了",
+          "lemma": "发现",
           "ipa": "fā xiàn le",
           "translation": {
             "zh": "发现了",
@@ -140208,7 +140208,7 @@
         },
         {
           "text": "好吃的",
-          "lemma": "好吃的",
+          "lemma": "好吃",
           "ipa": "hǎo chī de",
           "translation": {
             "zh": "好吃的",
@@ -140406,7 +140406,7 @@
         },
         {
           "text": "哪里了",
-          "lemma": "哪里了",
+          "lemma": "哪里",
           "ipa": "nǎ lǐ le",
           "translation": {
             "zh": "哪里了",
@@ -140458,7 +140458,7 @@
         },
         {
           "text": "会处理好的",
-          "lemma": "会处理好的",
+          "lemma": "会处理好",
           "ipa": "huì chǔ lǐ hǎo de",
           "translation": {
             "zh": "会处理好的",
@@ -140552,7 +140552,7 @@
         },
         {
           "text": "考了",
-          "lemma": "考了",
+          "lemma": "考",
           "ipa": "kǎo le",
           "translation": {
             "zh": "考了",
@@ -140604,7 +140604,7 @@
         },
         {
           "text": "就到了",
-          "lemma": "就到了",
+          "lemma": "就到",
           "ipa": "jiù dào le",
           "translation": {
             "zh": "就到了",
@@ -140854,7 +140854,7 @@
         },
         {
           "text": "打扫得",
-          "lemma": "打扫得",
+          "lemma": "打扫",
           "ipa": "dǎ sǎo de",
           "translation": {
             "zh": "打扫得",
@@ -140886,7 +140886,7 @@
       "tokens": [
         {
           "text": "这件衣服",
-          "lemma": "这件衣服",
+          "lemma": "件衣服",
           "ipa": "zhè jiàn yī fu",
           "translation": {
             "zh": "这件衣服",
@@ -140896,7 +140896,7 @@
         },
         {
           "text": "洗得",
-          "lemma": "洗得",
+          "lemma": "洗",
           "ipa": "xǐ de",
           "translation": {
             "zh": "洗得",
@@ -140906,7 +140906,7 @@
         },
         {
           "text": "干净吗",
-          "lemma": "干净吗",
+          "lemma": "干净",
           "ipa": "gān jìng ma",
           "translation": {
             "zh": "干净吗",
@@ -141000,7 +141000,7 @@
         },
         {
           "text": "感冒了",
-          "lemma": "感冒了",
+          "lemma": "感冒",
           "ipa": "gǎn mào le",
           "translation": {
             "zh": "感冒了",
@@ -141146,7 +141146,7 @@
         },
         {
           "text": "打电话来了",
-          "lemma": "打电话来了",
+          "lemma": "打电话来",
           "ipa": "dǎ diàn huà lái le",
           "translation": {
             "zh": "打电话来了",
@@ -141260,7 +141260,7 @@
         },
         {
           "text": "打篮球的",
-          "lemma": "打篮球的",
+          "lemma": "打篮球",
           "ipa": "dǎ lán qiú de",
           "translation": {
             "zh": "打篮球的",
@@ -141416,7 +141416,7 @@
         },
         {
           "text": "他说的",
-          "lemma": "他说的",
+          "lemma": "说",
           "ipa": "tā shuō de",
           "translation": {
             "zh": "他说的",
@@ -141458,7 +141458,7 @@
       "tokens": [
         {
           "text": "我跟",
-          "lemma": "我跟",
+          "lemma": "跟",
           "ipa": "wǒ gēn",
           "translation": {
             "zh": "我跟",
@@ -141510,7 +141510,7 @@
       "tokens": [
         {
           "text": "他跟我",
-          "lemma": "他跟我",
+          "lemma": "跟我",
           "ipa": "tā gēn wǒ",
           "translation": {
             "zh": "他跟我",
@@ -141530,7 +141530,7 @@
         },
         {
           "text": "他要",
-          "lemma": "他要",
+          "lemma": "要",
           "ipa": "tā yào",
           "translation": {
             "zh": "他要",
@@ -141540,7 +141540,7 @@
         },
         {
           "text": "换工作了",
-          "lemma": "换工作了",
+          "lemma": "换工作",
           "ipa": "huàn gōng zuò le",
           "translation": {
             "zh": "换工作了",
@@ -141582,7 +141582,7 @@
         },
         {
           "text": "减了",
-          "lemma": "减了",
+          "lemma": "减",
           "ipa": "jiǎn le",
           "translation": {
             "zh": "减了",
@@ -141614,7 +141614,7 @@
       "tokens": [
         {
           "text": "这箱",
-          "lemma": "这箱",
+          "lemma": "箱",
           "ipa": "zhè xiāng",
           "translation": {
             "zh": "这箱",
@@ -141696,7 +141696,7 @@
         },
         {
           "text": "散步吧",
-          "lemma": "散步吧",
+          "lemma": "散步",
           "ipa": "sàn bù ba",
           "translation": {
             "zh": "散步吧",
@@ -141718,7 +141718,7 @@
       "tokens": [
         {
           "text": "附近的",
-          "lemma": "附近的",
+          "lemma": "附近",
           "ipa": "fù jìn de",
           "translation": {
             "zh": "附近的",
@@ -141946,7 +141946,7 @@
         },
         {
           "text": "别出去了",
-          "lemma": "别出去了",
+          "lemma": "别出去",
           "ipa": "bié chū qù le",
           "translation": {
             "zh": "别出去了",
@@ -141978,7 +141978,7 @@
         },
         {
           "text": "记得",
-          "lemma": "记得",
+          "lemma": "记",
           "ipa": "jì de",
           "translation": {
             "zh": "记得",
@@ -142020,7 +142020,7 @@
         },
         {
           "text": "关了吗",
-          "lemma": "关了吗",
+          "lemma": "关了",
           "ipa": "guān le ma",
           "translation": {
             "zh": "关了吗",
@@ -142062,7 +142062,7 @@
       "tokens": [
         {
           "text": "他们两个",
-          "lemma": "他们两个",
+          "lemma": "两个",
           "ipa": "tā men liǎng gè",
           "translation": {
             "zh": "他们两个",
@@ -142166,7 +142166,7 @@
         },
         {
           "text": "家里的",
-          "lemma": "家里的",
+          "lemma": "家里",
           "ipa": "jiā lǐ de",
           "translation": {
             "zh": "家里的",
@@ -142240,7 +142240,7 @@
         },
         {
           "text": "这件事",
-          "lemma": "这件事",
+          "lemma": "件事",
           "ipa": "zhè jiàn shì",
           "translation": {
             "zh": "这件事",
@@ -142292,7 +142292,7 @@
         },
         {
           "text": "写了",
-          "lemma": "写了",
+          "lemma": "写",
           "ipa": "xiě le",
           "translation": {
             "zh": "写了",
@@ -142312,7 +142312,7 @@
         },
         {
           "text": "关于历史的",
-          "lemma": "关于历史的",
+          "lemma": "关于历史",
           "ipa": "guān yú lì shǐ de",
           "translation": {
             "zh": "关于历史的",
@@ -142354,7 +142354,7 @@
         },
         {
           "text": "去过",
-          "lemma": "去过",
+          "lemma": "去",
           "ipa": "qù guo",
           "translation": {
             "zh": "去过",
@@ -142406,7 +142406,7 @@
         },
         {
           "text": "国家的",
-          "lemma": "国家的",
+          "lemma": "国家",
           "ipa": "guó jiā de",
           "translation": {
             "zh": "国家的",
@@ -142448,7 +142448,7 @@
       "tokens": [
         {
           "text": "过去的",
-          "lemma": "过去的",
+          "lemma": "过去",
           "ipa": "guò qù de",
           "translation": {
             "zh": "过去的",
@@ -142468,7 +142468,7 @@
         },
         {
           "text": "就别想了",
-          "lemma": "就别想了",
+          "lemma": "就别想",
           "ipa": "jiù bié xiǎng le",
           "translation": {
             "zh": "就别想了",
@@ -142542,7 +142542,7 @@
       "tokens": [
         {
           "text": "你喝茶",
-          "lemma": "你喝茶",
+          "lemma": "喝茶",
           "ipa": "nǐ hē chá",
           "translation": {
             "zh": "你喝茶",
@@ -142594,7 +142594,7 @@
         },
         {
           "text": "你说得对",
-          "lemma": "你说得对",
+          "lemma": "说得对",
           "ipa": "nǐ shuō de duì",
           "translation": {
             "zh": "你说得对",
@@ -142616,7 +142616,7 @@
       "tokens": [
         {
           "text": "她害怕",
-          "lemma": "她害怕",
+          "lemma": "害怕",
           "ipa": "tā hài pà",
           "translation": {
             "zh": "她害怕",
@@ -142658,7 +142658,7 @@
       "tokens": [
         {
           "text": "我小时候",
-          "lemma": "我小时候",
+          "lemma": "小时候",
           "ipa": "wǒ xiǎo shí hou",
           "translation": {
             "zh": "我小时候",
@@ -142720,7 +142720,7 @@
         },
         {
           "text": "写了",
-          "lemma": "写了",
+          "lemma": "写",
           "ipa": "xiě le",
           "translation": {
             "zh": "写了",
@@ -142784,7 +142784,7 @@
       "tokens": [
         {
           "text": "我们吵架了",
-          "lemma": "我们吵架了",
+          "lemma": "吵架",
           "ipa": "wǒ men chǎo jià le",
           "translation": {
             "zh": "我们吵架了",
@@ -142804,7 +142804,7 @@
         },
         {
           "text": "和好了",
-          "lemma": "和好了",
+          "lemma": "和好",
           "ipa": "hé hǎo le",
           "translation": {
             "zh": "和好了",
@@ -142836,7 +142836,7 @@
         },
         {
           "text": "他去了北京",
-          "lemma": "他去了北京",
+          "lemma": "去了北京",
           "ipa": "tā qù le běi jīng",
           "translation": {
             "zh": "他去了北京",
@@ -142952,7 +142952,7 @@
       "tokens": [
         {
           "text": "他买了",
-          "lemma": "他买了",
+          "lemma": "买",
           "ipa": "tā mǎi le",
           "translation": {
             "zh": "他买了",
@@ -142994,7 +142994,7 @@
       "tokens": [
         {
           "text": "这朵花",
-          "lemma": "这朵花",
+          "lemma": "朵花",
           "ipa": "zhè duǒ huā",
           "translation": {
             "zh": "这朵花",
@@ -143004,7 +143004,7 @@
         },
         {
           "text": "开得",
-          "lemma": "开得",
+          "lemma": "开",
           "ipa": "kāi de",
           "translation": {
             "zh": "开得",
@@ -143036,7 +143036,7 @@
       "tokens": [
         {
           "text": "她喜欢",
-          "lemma": "她喜欢",
+          "lemma": "喜欢",
           "ipa": "tā xǐ huan",
           "translation": {
             "zh": "她喜欢",
@@ -143098,7 +143098,7 @@
         },
         {
           "text": "画了",
-          "lemma": "画了",
+          "lemma": "画",
           "ipa": "huà le",
           "translation": {
             "zh": "画了",
@@ -143130,7 +143130,7 @@
       "tokens": [
         {
           "text": "这台电脑",
-          "lemma": "这台电脑",
+          "lemma": "台电脑",
           "ipa": "zhè tái diàn nǎo",
           "translation": {
             "zh": "这台电脑",
@@ -143140,7 +143140,7 @@
         },
         {
           "text": "坏了",
-          "lemma": "坏了",
+          "lemma": "坏",
           "ipa": "huài le",
           "translation": {
             "zh": "坏了",
@@ -143150,7 +143150,7 @@
         },
         {
           "text": "修不好了",
-          "lemma": "修不好了",
+          "lemma": "修不好",
           "ipa": "xiū bu hǎo le",
           "translation": {
             "zh": "修不好了",
@@ -143192,7 +143192,7 @@
         },
         {
           "text": "会坏的",
-          "lemma": "会坏的",
+          "lemma": "会坏",
           "ipa": "huì huài de",
           "translation": {
             "zh": "会坏的",
@@ -143266,7 +143266,7 @@
         },
         {
           "text": "热情地",
-          "lemma": "热情地",
+          "lemma": "热情",
           "ipa": "rè qíng de",
           "translation": {
             "zh": "热情地",
@@ -143276,7 +143276,7 @@
         },
         {
           "text": "欢迎了",
-          "lemma": "欢迎了",
+          "lemma": "欢迎",
           "ipa": "huān yíng le",
           "translation": {
             "zh": "欢迎了",
@@ -143308,7 +143308,7 @@
       "tokens": [
         {
           "text": "这里的",
-          "lemma": "这里的",
+          "lemma": "里",
           "ipa": "zhè lǐ de",
           "translation": {
             "zh": "这里的",
@@ -143392,7 +143392,7 @@
       "tokens": [
         {
           "text": "你换",
-          "lemma": "你换",
+          "lemma": "换",
           "ipa": "nǐ huàn",
           "translation": {
             "zh": "你换",
@@ -143412,7 +143412,7 @@
         },
         {
           "text": "再出门吧",
-          "lemma": "再出门吧",
+          "lemma": "再出门",
           "ipa": "zài chū mén ba",
           "translation": {
             "zh": "再出门吧",
@@ -143434,7 +143434,7 @@
       "tokens": [
         {
           "text": "我想换",
-          "lemma": "我想换",
+          "lemma": "想换",
           "ipa": "wǒ xiǎng huàn",
           "translation": {
             "zh": "我想换",
@@ -143444,7 +143444,7 @@
         },
         {
           "text": "一个大一点的",
-          "lemma": "一个大一点的",
+          "lemma": "一个大一点",
           "ipa": "yī gè dà yī diǎn de",
           "translation": {
             "zh": "一个大一点的",
@@ -143496,7 +143496,7 @@
         },
         {
           "text": "中国第二长的",
-          "lemma": "中国第二长的",
+          "lemma": "中国第二长",
           "ipa": "zhōng guó dì èr cháng de",
           "translation": {
             "zh": "中国第二长的",
@@ -143642,7 +143642,7 @@
         },
         {
           "text": "这个问题",
-          "lemma": "这个问题",
+          "lemma": "个问题",
           "ipa": "zhè ge wèn tí",
           "translation": {
             "zh": "这个问题",
@@ -143726,7 +143726,7 @@
         },
         {
           "text": "已经开始了",
-          "lemma": "已经开始了",
+          "lemma": "已经开始",
           "ipa": "yǐ jīng kāi shǐ le",
           "translation": {
             "zh": "已经开始了",
@@ -143736,7 +143736,7 @@
         },
         {
           "text": "快进去吧",
-          "lemma": "快进去吧",
+          "lemma": "快进去",
           "ipa": "kuài jìn qù ba",
           "translation": {
             "zh": "快进去吧",
@@ -143758,7 +143758,7 @@
       "tokens": [
         {
           "text": "你可以",
-          "lemma": "你可以",
+          "lemma": "可以",
           "ipa": "nǐ kě yǐ",
           "translation": {
             "zh": "你可以",
@@ -143862,7 +143862,7 @@
       "tokens": [
         {
           "text": "她几乎",
-          "lemma": "她几乎",
+          "lemma": "几乎",
           "ipa": "tā jī hū",
           "translation": {
             "zh": "她几乎",
@@ -143904,7 +143904,7 @@
       "tokens": [
         {
           "text": "这道题",
-          "lemma": "这道题",
+          "lemma": "道题",
           "ipa": "zhè dào tí",
           "translation": {
             "zh": "这道题",
@@ -143934,7 +143934,7 @@
         },
         {
           "text": "都做对了",
-          "lemma": "都做对了",
+          "lemma": "都做对",
           "ipa": "dōu zuò duì le",
           "translation": {
             "zh": "都做对了",
@@ -143966,7 +143966,7 @@
         },
         {
           "text": "一个很好的",
-          "lemma": "一个很好的",
+          "lemma": "一个很好",
           "ipa": "yī gè hěn hǎo de",
           "translation": {
             "zh": "一个很好的",
@@ -143998,7 +143998,7 @@
       "tokens": [
         {
           "text": "他终于",
-          "lemma": "他终于",
+          "lemma": "终于",
           "ipa": "tā zhōng yú",
           "translation": {
             "zh": "他终于",
@@ -144018,7 +144018,7 @@
         },
         {
           "text": "出国了",
-          "lemma": "出国了",
+          "lemma": "出国",
           "ipa": "chū guó le",
           "translation": {
             "zh": "出国了",
@@ -144040,7 +144040,7 @@
       "tokens": [
         {
           "text": "你还记得",
-          "lemma": "你还记得",
+          "lemma": "还记",
           "ipa": "nǐ hái jì de",
           "translation": {
             "zh": "你还记得",
@@ -144050,7 +144050,7 @@
         },
         {
           "text": "我们第一次",
-          "lemma": "我们第一次",
+          "lemma": "第一次",
           "ipa": "wǒ men dì yī cì",
           "translation": {
             "zh": "我们第一次",
@@ -144060,7 +144060,7 @@
         },
         {
           "text": "见面吗",
-          "lemma": "见面吗",
+          "lemma": "见面",
           "ipa": "jiàn miàn ma",
           "translation": {
             "zh": "见面吗",
@@ -144082,7 +144082,7 @@
       "tokens": [
         {
           "text": "记得",
-          "lemma": "记得",
+          "lemma": "记",
           "ipa": "jì de",
           "translation": {
             "zh": "记得",
@@ -144144,7 +144144,7 @@
         },
         {
           "text": "我最喜欢的",
-          "lemma": "我最喜欢的",
+          "lemma": "最喜欢",
           "ipa": "wǒ zuì xǐ huān de",
           "translation": {
             "zh": "我最喜欢的",
@@ -144176,7 +144176,7 @@
       "tokens": [
         {
           "text": "这个季节",
-          "lemma": "这个季节",
+          "lemma": "个季节",
           "ipa": "zhè gè jì jié",
           "translation": {
             "zh": "这个季节",
@@ -144290,7 +144290,7 @@
         },
         {
           "text": "检查了",
-          "lemma": "检查了",
+          "lemma": "检查",
           "ipa": "jiǎn chá le",
           "translation": {
             "zh": "检查了",
@@ -144322,7 +144322,7 @@
       "tokens": [
         {
           "text": "这道题",
-          "lemma": "这道题",
+          "lemma": "道题",
           "ipa": "zhè dào tí",
           "translation": {
             "zh": "这道题",
@@ -144342,7 +144342,7 @@
         },
         {
           "text": "我一下",
-          "lemma": "我一下",
+          "lemma": "一下",
           "ipa": "wǒ yī xià",
           "translation": {
             "zh": "我一下",
@@ -144352,7 +144352,7 @@
         },
         {
           "text": "就做完了",
-          "lemma": "就做完了",
+          "lemma": "就做完",
           "ipa": "jiù zuò wán le",
           "translation": {
             "zh": "就做完了",
@@ -144374,7 +144374,7 @@
       "tokens": [
         {
           "text": "他喜欢",
-          "lemma": "他喜欢",
+          "lemma": "喜欢",
           "ipa": "tā xǐ huān",
           "translation": {
             "zh": "他喜欢",
@@ -144384,7 +144384,7 @@
         },
         {
           "text": "简单的",
-          "lemma": "简单的",
+          "lemma": "简单",
           "ipa": "jiǎn dān de",
           "translation": {
             "zh": "简单的",
@@ -144436,7 +144436,7 @@
         },
         {
           "text": "见面吧",
-          "lemma": "见面吧",
+          "lemma": "见面",
           "ipa": "jiàn miàn ba",
           "translation": {
             "zh": "见面吧",
@@ -144510,7 +144510,7 @@
       "tokens": [
         {
           "text": "爷爷的",
-          "lemma": "爷爷的",
+          "lemma": "爷爷",
           "ipa": "yé ye de",
           "translation": {
             "zh": "爷爷的",
@@ -144540,7 +144540,7 @@
         },
         {
           "text": "很健康的",
-          "lemma": "很健康的",
+          "lemma": "很健康",
           "ipa": "hěn jiàn kāng de",
           "translation": {
             "zh": "很健康的",
@@ -144614,7 +144614,7 @@
         },
         {
           "text": "讲得",
-          "lemma": "讲得",
+          "lemma": "讲",
           "ipa": "jiǎng de",
           "translation": {
             "zh": "讲得",
@@ -144634,7 +144634,7 @@
         },
         {
           "text": "大家都懂了",
-          "lemma": "大家都懂了",
+          "lemma": "大家都懂",
           "ipa": "dà jiā dōu dǒng le",
           "translation": {
             "zh": "大家都懂了",
@@ -144676,7 +144676,7 @@
         },
         {
           "text": "讲了",
-          "lemma": "讲了",
+          "lemma": "讲",
           "ipa": "jiǎng le",
           "translation": {
             "zh": "讲了",
@@ -144708,7 +144708,7 @@
       "tokens": [
         {
           "text": "他教我",
-          "lemma": "他教我",
+          "lemma": "教我",
           "ipa": "tā jiāo wǒ",
           "translation": {
             "zh": "他教我",
@@ -144770,7 +144770,7 @@
         },
         {
           "text": "做了",
-          "lemma": "做了",
+          "lemma": "做",
           "ipa": "zuò le",
           "translation": {
             "zh": "做了",
@@ -144802,7 +144802,7 @@
       "tokens": [
         {
           "text": "这个东西",
-          "lemma": "这个东西",
+          "lemma": "个东西",
           "ipa": "zhè ge dōng xi",
           "translation": {
             "zh": "这个东西",
@@ -144854,7 +144854,7 @@
         },
         {
           "text": "太尖了",
-          "lemma": "太尖了",
+          "lemma": "太尖",
           "ipa": "tài jiān le",
           "translation": {
             "zh": "太尖了",
@@ -144886,7 +144886,7 @@
       "tokens": [
         {
           "text": "他走了太久",
-          "lemma": "他走了太久",
+          "lemma": "走了太久",
           "ipa": "tā zǒu le tài jiǔ",
           "translation": {
             "zh": "他走了太久",
@@ -144970,7 +144970,7 @@
       "tokens": [
         {
           "text": "我去机场",
-          "lemma": "我去机场",
+          "lemma": "去机场",
           "ipa": "wǒ qù jī chǎng",
           "translation": {
             "zh": "我去机场",
@@ -144980,7 +144980,7 @@
         },
         {
           "text": "接你吧",
-          "lemma": "接你吧",
+          "lemma": "接你",
           "ipa": "jiē nǐ ba",
           "translation": {
             "zh": "接你吧",
@@ -145002,7 +145002,7 @@
       "tokens": [
         {
           "text": "她接了",
-          "lemma": "她接了",
+          "lemma": "接",
           "ipa": "tā jiē le",
           "translation": {
             "zh": "她接了",
@@ -145022,7 +145022,7 @@
         },
         {
           "text": "就走了",
-          "lemma": "就走了",
+          "lemma": "就走",
           "ipa": "jiù zǒu le",
           "translation": {
             "zh": "就走了",
@@ -145044,7 +145044,7 @@
       "tokens": [
         {
           "text": "这条街道上",
-          "lemma": "这条街道上",
+          "lemma": "条街道上",
           "ipa": "zhè tiáo jiē dào shàng",
           "translation": {
             "zh": "这条街道上",
@@ -145138,7 +145138,7 @@
       "tokens": [
         {
           "text": "这个节目",
-          "lemma": "这个节目",
+          "lemma": "个节目",
           "ipa": "zhè ge jié mù",
           "translation": {
             "zh": "这个节目",
@@ -145148,7 +145148,7 @@
         },
         {
           "text": "我每周",
-          "lemma": "我每周",
+          "lemma": "每周",
           "ipa": "wǒ měi zhōu",
           "translation": {
             "zh": "我每周",
@@ -145180,7 +145180,7 @@
       "tokens": [
         {
           "text": "今晚的",
-          "lemma": "今晚的",
+          "lemma": "今晚",
           "ipa": "jīn wǎn de",
           "translation": {
             "zh": "今晚的",
@@ -145252,7 +145252,7 @@
         },
         {
           "text": "最重要的",
-          "lemma": "最重要的",
+          "lemma": "最重要",
           "ipa": "zuì zhòng yào de",
           "translation": {
             "zh": "最重要的",
@@ -145294,7 +145294,7 @@
         },
         {
           "text": "我都",
-          "lemma": "我都",
+          "lemma": "都",
           "ipa": "wǒ dōu",
           "translation": {
             "zh": "我都",
@@ -145346,7 +145346,7 @@
         },
         {
           "text": "要结婚了",
-          "lemma": "要结婚了",
+          "lemma": "要结婚",
           "ipa": "yào jié hūn le",
           "translation": {
             "zh": "要结婚了",
@@ -145368,7 +145368,7 @@
       "tokens": [
         {
           "text": "她结婚的",
-          "lemma": "她结婚的",
+          "lemma": "结婚",
           "ipa": "tā jié hūn de",
           "translation": {
             "zh": "她结婚的",
@@ -145388,7 +145388,7 @@
         },
         {
           "text": "我在场",
-          "lemma": "我在场",
+          "lemma": "在场",
           "ipa": "wǒ zài chǎng",
           "translation": {
             "zh": "我在场",
@@ -145420,7 +145420,7 @@
         },
         {
           "text": "快结束了",
-          "lemma": "快结束了",
+          "lemma": "快结束",
           "ipa": "kuài jié shù le",
           "translation": {
             "zh": "快结束了",
@@ -145462,7 +145462,7 @@
         },
         {
           "text": "我们去",
-          "lemma": "我们去",
+          "lemma": "去",
           "ipa": "wǒ men qù",
           "translation": {
             "zh": "我们去",
@@ -145494,7 +145494,7 @@
       "tokens": [
         {
           "text": "这个问题",
-          "lemma": "这个问题",
+          "lemma": "个问题",
           "ipa": "zhè ge wèn tí",
           "translation": {
             "zh": "这个问题",
@@ -145546,7 +145546,7 @@
         },
         {
           "text": "解决吧",
-          "lemma": "解决吧",
+          "lemma": "解决",
           "ipa": "jiě jué ba",
           "translation": {
             "zh": "解决吧",
@@ -145568,7 +145568,7 @@
       "tokens": [
         {
           "text": "我可以",
-          "lemma": "我可以",
+          "lemma": "可以",
           "ipa": "wǒ kě yǐ",
           "translation": {
             "zh": "我可以",
@@ -145608,7 +145608,7 @@
         },
         {
           "text": "用一下吗",
-          "lemma": "用一下吗",
+          "lemma": "用一下",
           "ipa": "yòng yī xià ma",
           "translation": {
             "zh": "用一下吗",
@@ -145630,7 +145630,7 @@
       "tokens": [
         {
           "text": "他从图书馆",
-          "lemma": "他从图书馆",
+          "lemma": "从图书馆",
           "ipa": "tā cóng tú shū guǎn",
           "translation": {
             "zh": "他从图书馆",
@@ -145640,7 +145640,7 @@
         },
         {
           "text": "借了",
-          "lemma": "借了",
+          "lemma": "借",
           "ipa": "jiè le",
           "translation": {
             "zh": "借了",
@@ -145672,7 +145672,7 @@
       "tokens": [
         {
           "text": "他经常",
-          "lemma": "他经常",
+          "lemma": "经常",
           "ipa": "tā jīng cháng",
           "translation": {
             "zh": "他经常",
@@ -145714,7 +145714,7 @@
       "tokens": [
         {
           "text": "我们经常",
-          "lemma": "我们经常",
+          "lemma": "经常",
           "ipa": "wǒ men jīng cháng",
           "translation": {
             "zh": "我们经常",
@@ -145766,7 +145766,7 @@
         },
         {
           "text": "她终于",
-          "lemma": "她终于",
+          "lemma": "终于",
           "ipa": "tā zhōng yú",
           "translation": {
             "zh": "她终于",
@@ -145776,7 +145776,7 @@
         },
         {
           "text": "通过了",
-          "lemma": "通过了",
+          "lemma": "通过",
           "ipa": "tōng guò le",
           "translation": {
             "zh": "通过了",
@@ -145808,7 +145808,7 @@
       "tokens": [
         {
           "text": "我每天",
-          "lemma": "我每天",
+          "lemma": "每天",
           "ipa": "wǒ měi tiān",
           "translation": {
             "zh": "我每天",
@@ -145828,7 +145828,7 @@
         },
         {
           "text": "经过",
-          "lemma": "经过",
+          "lemma": "经",
           "ipa": "jīng guò",
           "translation": {
             "zh": "经过",
@@ -145838,7 +145838,7 @@
         },
         {
           "text": "那家咖啡店",
-          "lemma": "那家咖啡店",
+          "lemma": "家咖啡店",
           "ipa": "nà jiā kā fēi diàn",
           "translation": {
             "zh": "那家咖啡店",
@@ -145912,7 +145912,7 @@
       "tokens": [
         {
           "text": "她当经理",
-          "lemma": "她当经理",
+          "lemma": "当经理",
           "ipa": "tā dāng jīng lǐ",
           "translation": {
             "zh": "她当经理",
@@ -145944,7 +145944,7 @@
       "tokens": [
         {
           "text": "你等了",
-          "lemma": "你等了",
+          "lemma": "等",
           "ipa": "nǐ děng le",
           "translation": {
             "zh": "你等了",
@@ -145954,7 +145954,7 @@
         },
         {
           "text": "很久了吗",
-          "lemma": "很久了吗",
+          "lemma": "很久了",
           "ipa": "hěn jiǔ le ma",
           "translation": {
             "zh": "很久了吗",
@@ -145986,7 +145986,7 @@
         },
         {
           "text": "你还好吗",
-          "lemma": "你还好吗",
+          "lemma": "还好",
           "ipa": "nǐ hái hǎo ma",
           "translation": {
             "zh": "你还好吗",
@@ -146008,7 +146008,7 @@
       "tokens": [
         {
           "text": "这件衣服",
-          "lemma": "这件衣服",
+          "lemma": "件衣服",
           "ipa": "zhè jiàn yī fu",
           "translation": {
             "zh": "这件衣服",
@@ -146018,7 +146018,7 @@
         },
         {
           "text": "太旧了",
-          "lemma": "太旧了",
+          "lemma": "太旧",
           "ipa": "tài jiù le",
           "translation": {
             "zh": "太旧了",
@@ -146040,7 +146040,7 @@
       "tokens": [
         {
           "text": "他把旧手机",
-          "lemma": "他把旧手机",
+          "lemma": "把旧手机",
           "ipa": "tā bǎ jiù shǒu jī",
           "translation": {
             "zh": "他把旧手机",
@@ -146050,7 +146050,7 @@
         },
         {
           "text": "卖掉了",
-          "lemma": "卖掉了",
+          "lemma": "卖掉",
           "ipa": "mài diào le",
           "translation": {
             "zh": "卖掉了",
@@ -146072,7 +146072,7 @@
       "tokens": [
         {
           "text": "这个句子",
-          "lemma": "这个句子",
+          "lemma": "个句子",
           "ipa": "zhè ge jù zi",
           "translation": {
             "zh": "这个句子",
@@ -146082,7 +146082,7 @@
         },
         {
           "text": "太长了",
-          "lemma": "太长了",
+          "lemma": "太长",
           "ipa": "tài cháng le",
           "translation": {
             "zh": "太长了",
@@ -146156,7 +146156,7 @@
       "tokens": [
         {
           "text": "我决定",
-          "lemma": "我决定",
+          "lemma": "决定",
           "ipa": "wǒ jué dìng",
           "translation": {
             "zh": "我决定",
@@ -146208,7 +146208,7 @@
       "tokens": [
         {
           "text": "这件事",
-          "lemma": "这件事",
+          "lemma": "件事",
           "ipa": "zhè jiàn shì",
           "translation": {
             "zh": "这件事",
@@ -146228,7 +146228,7 @@
         },
         {
           "text": "决定吧",
-          "lemma": "决定吧",
+          "lemma": "决定",
           "ipa": "jué dìng ba",
           "translation": {
             "zh": "决定吧",
@@ -146250,7 +146250,7 @@
       "tokens": [
         {
           "text": "这只小猫",
-          "lemma": "这只小猫",
+          "lemma": "只小猫",
           "ipa": "zhè zhī xiǎo māo",
           "translation": {
             "zh": "这只小猫",
@@ -146260,7 +146260,7 @@
         },
         {
           "text": "真的",
-          "lemma": "真的",
+          "lemma": "真",
           "ipa": "zhēn de",
           "translation": {
             "zh": "真的",
@@ -146344,7 +146344,7 @@
         },
         {
           "text": "我很渴",
-          "lemma": "我很渴",
+          "lemma": "很渴",
           "ipa": "wǒ hěn kě",
           "translation": {
             "zh": "我很渴",
@@ -146366,7 +146366,7 @@
       "tokens": [
         {
           "text": "你渴吗",
-          "lemma": "你渴吗",
+          "lemma": "渴",
           "ipa": "nǐ kě ma",
           "translation": {
             "zh": "你渴吗",
@@ -146376,7 +146376,7 @@
         },
         {
           "text": "我去",
-          "lemma": "我去",
+          "lemma": "去",
           "ipa": "wǒ qù",
           "translation": {
             "zh": "我去",
@@ -146450,7 +146450,7 @@
       "tokens": [
         {
           "text": "他说",
-          "lemma": "他说",
+          "lemma": "说",
           "ipa": "tā shuō",
           "translation": {
             "zh": "他说",
@@ -146628,7 +146628,7 @@
         },
         {
           "text": "开小一点吗",
-          "lemma": "开小一点吗",
+          "lemma": "开小一点",
           "ipa": "kāi xiǎo yī diǎn ma",
           "translation": {
             "zh": "开小一点吗",
@@ -146650,7 +146650,7 @@
       "tokens": [
         {
           "text": "他喝了",
-          "lemma": "他喝了",
+          "lemma": "喝",
           "ipa": "tā hē le",
           "translation": {
             "zh": "他喝了",
@@ -146682,7 +146682,7 @@
       "tokens": [
         {
           "text": "这道菜",
-          "lemma": "这道菜",
+          "lemma": "道菜",
           "ipa": "zhè dào cài",
           "translation": {
             "zh": "这道菜",
@@ -146692,7 +146692,7 @@
         },
         {
           "text": "我只",
-          "lemma": "我只",
+          "lemma": "只",
           "ipa": "wǒ zhǐ",
           "translation": {
             "zh": "我只",
@@ -146724,7 +146724,7 @@
       "tokens": [
         {
           "text": "她看电影",
-          "lemma": "她看电影",
+          "lemma": "看电影",
           "ipa": "tā kàn diàn yǐng",
           "translation": {
             "zh": "她看电影",
@@ -146734,7 +146734,7 @@
         },
         {
           "text": "哭了",
-          "lemma": "哭了",
+          "lemma": "哭",
           "ipa": "kū le",
           "translation": {
             "zh": "哭了",
@@ -146798,7 +146798,7 @@
       "tokens": [
         {
           "text": "我这条裤子",
-          "lemma": "我这条裤子",
+          "lemma": "条裤子",
           "ipa": "wǒ zhè tiáo kù zi",
           "translation": {
             "zh": "我这条裤子",
@@ -146818,7 +146818,7 @@
         },
         {
           "text": "新买的",
-          "lemma": "新买的",
+          "lemma": "新买",
           "ipa": "xīn mǎi de",
           "translation": {
             "zh": "新买的",
@@ -146892,7 +146892,7 @@
       "tokens": [
         {
           "text": "你会用",
-          "lemma": "你会用",
+          "lemma": "会用",
           "ipa": "nǐ huì yòng",
           "translation": {
             "zh": "你会用",
@@ -146902,7 +146902,7 @@
         },
         {
           "text": "筷子吗",
-          "lemma": "筷子吗",
+          "lemma": "筷子",
           "ipa": "kuài zi ma",
           "translation": {
             "zh": "筷子吗",
@@ -146924,7 +146924,7 @@
       "tokens": [
         {
           "text": "我帮你",
-          "lemma": "我帮你",
+          "lemma": "帮你",
           "ipa": "wǒ bāng nǐ",
           "translation": {
             "zh": "我帮你",
@@ -147008,7 +147008,7 @@
       "tokens": [
         {
           "text": "他穿了",
-          "lemma": "他穿了",
+          "lemma": "穿",
           "ipa": "tā chuān le",
           "translation": {
             "zh": "他穿了",
@@ -147050,7 +147050,7 @@
       "tokens": [
         {
           "text": "他看起来",
-          "lemma": "他看起来",
+          "lemma": "看起来",
           "ipa": "tā kàn qǐ lái",
           "translation": {
             "zh": "他看起来",
@@ -147082,7 +147082,7 @@
       "tokens": [
         {
           "text": "这栋楼",
-          "lemma": "这栋楼",
+          "lemma": "栋楼",
           "ipa": "zhè dòng lóu",
           "translation": {
             "zh": "这栋楼",
@@ -147092,7 +147092,7 @@
         },
         {
           "text": "很老了",
-          "lemma": "很老了",
+          "lemma": "很老",
           "ipa": "hěn lǎo le",
           "translation": {
             "zh": "很老了",
@@ -147102,7 +147102,7 @@
         },
         {
           "text": "要拆了",
-          "lemma": "要拆了",
+          "lemma": "要拆",
           "ipa": "yào chāi le",
           "translation": {
             "zh": "要拆了",
@@ -147124,7 +147124,7 @@
       "tokens": [
         {
           "text": "他已经",
-          "lemma": "他已经",
+          "lemma": "已经",
           "ipa": "tā yǐ jīng",
           "translation": {
             "zh": "他已经",
@@ -147144,7 +147144,7 @@
         },
         {
           "text": "公司了",
-          "lemma": "公司了",
+          "lemma": "公司",
           "ipa": "gōng sī le",
           "translation": {
             "zh": "公司了",
@@ -147166,7 +147166,7 @@
       "tokens": [
         {
           "text": "我不想",
-          "lemma": "我不想",
+          "lemma": "不想",
           "ipa": "wǒ bù xiǎng",
           "translation": {
             "zh": "我不想",
@@ -147186,7 +147186,7 @@
         },
         {
           "text": "这个城市",
-          "lemma": "这个城市",
+          "lemma": "个城市",
           "ipa": "zhè ge chéng shì",
           "translation": {
             "zh": "这个城市",
@@ -147218,7 +147218,7 @@
         },
         {
           "text": "她收到",
-          "lemma": "她收到",
+          "lemma": "收到",
           "ipa": "tā shōu dào",
           "translation": {
             "zh": "她收到",
@@ -147250,7 +147250,7 @@
       "tokens": [
         {
           "text": "我给你",
-          "lemma": "我给你",
+          "lemma": "给你",
           "ipa": "wǒ gěi nǐ",
           "translation": {
             "zh": "我给你",
@@ -147260,7 +147260,7 @@
         },
         {
           "text": "带了",
-          "lemma": "带了",
+          "lemma": "带",
           "ipa": "dài le",
           "translation": {
             "zh": "带了",
@@ -147292,7 +147292,7 @@
       "tokens": [
         {
           "text": "这座城市",
-          "lemma": "这座城市",
+          "lemma": "座城市",
           "ipa": "zhè zuò chéng shì",
           "translation": {
             "zh": "这座城市",
@@ -147312,7 +147312,7 @@
         },
         {
           "text": "很长的",
-          "lemma": "很长的",
+          "lemma": "很长",
           "ipa": "hěn cháng de",
           "translation": {
             "zh": "很长的",
@@ -147344,7 +147344,7 @@
       "tokens": [
         {
           "text": "他的脸",
-          "lemma": "他的脸",
+          "lemma": "的脸",
           "ipa": "tā de liǎn",
           "translation": {
             "zh": "他的脸",
@@ -147364,7 +147364,7 @@
         },
         {
           "text": "晒红了",
-          "lemma": "晒红了",
+          "lemma": "晒红",
           "ipa": "shài hóng le",
           "translation": {
             "zh": "晒红了",
@@ -147386,7 +147386,7 @@
       "tokens": [
         {
           "text": "她笑起来",
-          "lemma": "她笑起来",
+          "lemma": "笑起来",
           "ipa": "tā xiào qǐ lái",
           "translation": {
             "zh": "她笑起来",
@@ -147564,7 +147564,7 @@
       "tokens": [
         {
           "text": "她喜欢",
-          "lemma": "她喜欢",
+          "lemma": "喜欢",
           "ipa": "tā xǐ huān",
           "translation": {
             "zh": "她喜欢",
@@ -147606,7 +147606,7 @@
       "tokens": [
         {
           "text": "我想了解",
-          "lemma": "我想了解",
+          "lemma": "想了解",
           "ipa": "wǒ xiǎng liǎo jiě",
           "translation": {
             "zh": "我想了解",
@@ -147616,7 +147616,7 @@
         },
         {
           "text": "这个城市的",
-          "lemma": "这个城市的",
+          "lemma": "个城市",
           "ipa": "zhè ge chéng shì de",
           "translation": {
             "zh": "这个城市的",
@@ -147762,7 +147762,7 @@
         },
         {
           "text": "借了",
-          "lemma": "借了",
+          "lemma": "借",
           "ipa": "jiè le",
           "translation": {
             "zh": "借了",
@@ -147804,7 +147804,7 @@
       "tokens": [
         {
           "text": "她去法国",
-          "lemma": "她去法国",
+          "lemma": "去法国",
           "ipa": "tā qù fǎ guó",
           "translation": {
             "zh": "她去法国",
@@ -147814,7 +147814,7 @@
         },
         {
           "text": "留学了",
-          "lemma": "留学了",
+          "lemma": "留学",
           "ipa": "liú xué le",
           "translation": {
             "zh": "留学了",
@@ -147846,7 +147846,7 @@
       "tokens": [
         {
           "text": "他打算",
-          "lemma": "他打算",
+          "lemma": "打算",
           "ipa": "tā dǎ suàn",
           "translation": {
             "zh": "他打算",
@@ -147888,7 +147888,7 @@
       "tokens": [
         {
           "text": "他们住在",
-          "lemma": "他们住在",
+          "lemma": "住在",
           "ipa": "tā men zhù zài",
           "translation": {
             "zh": "他们住在",
@@ -147920,7 +147920,7 @@
       "tokens": [
         {
           "text": "这栋楼",
-          "lemma": "这栋楼",
+          "lemma": "栋楼",
           "ipa": "zhè dòng lóu",
           "translation": {
             "zh": "这栋楼",
@@ -147972,7 +147972,7 @@
         },
         {
           "text": "变绿了",
-          "lemma": "变绿了",
+          "lemma": "变绿",
           "ipa": "biàn lǜ le",
           "translation": {
             "zh": "变绿了",
@@ -147994,7 +147994,7 @@
       "tokens": [
         {
           "text": "她买了",
-          "lemma": "她买了",
+          "lemma": "买",
           "ipa": "tā mǎi le",
           "translation": {
             "zh": "她买了",
@@ -148014,7 +148014,7 @@
         },
         {
           "text": "绿色的",
-          "lemma": "绿色的",
+          "lemma": "绿色",
           "ipa": "lǜ sè de",
           "translation": {
             "zh": "绿色的",
@@ -148088,7 +148088,7 @@
       "tokens": [
         {
           "text": "他小时候",
-          "lemma": "他小时候",
+          "lemma": "小时候",
           "ipa": "tā xiǎo shí hou",
           "translation": {
             "zh": "他小时候",
@@ -148098,7 +148098,7 @@
         },
         {
           "text": "学过",
-          "lemma": "学过",
+          "lemma": "学",
           "ipa": "xué guò",
           "translation": {
             "zh": "学过",
@@ -148140,7 +148140,7 @@
         },
         {
           "text": "马上就好了",
-          "lemma": "马上就好了",
+          "lemma": "马上就好",
           "ipa": "mǎ shàng jiù hǎo le",
           "translation": {
             "zh": "马上就好了",
@@ -148278,7 +148278,7 @@
       "tokens": [
         {
           "text": "他戴着",
-          "lemma": "他戴着",
+          "lemma": "戴",
           "ipa": "tā dài zhe",
           "translation": {
             "zh": "他戴着",
@@ -148404,7 +148404,7 @@
       "tokens": [
         {
           "text": "这条鱼",
-          "lemma": "这条鱼",
+          "lemma": "条鱼",
           "ipa": "zhè tiáo yú",
           "translation": {
             "zh": "这条鱼",
@@ -148436,7 +148436,7 @@
       "tokens": [
         {
           "text": "他早饭",
-          "lemma": "他早饭",
+          "lemma": "早饭",
           "ipa": "tā zǎo fàn",
           "translation": {
             "zh": "他早饭",
@@ -148446,7 +148446,7 @@
         },
         {
           "text": "只吃了",
-          "lemma": "只吃了",
+          "lemma": "只吃",
           "ipa": "zhǐ chī le",
           "translation": {
             "zh": "只吃了",
@@ -148530,7 +148530,7 @@
       "tokens": [
         {
           "text": "我现在",
-          "lemma": "我现在",
+          "lemma": "现在",
           "ipa": "wǒ xiàn zài",
           "translation": {
             "zh": "我现在",
@@ -148560,7 +148560,7 @@
         },
         {
           "text": "意思了",
-          "lemma": "意思了",
+          "lemma": "意思",
           "ipa": "yì si le",
           "translation": {
             "zh": "意思了",
@@ -148582,7 +148582,7 @@
       "tokens": [
         {
           "text": "你说慢一点",
-          "lemma": "你说慢一点",
+          "lemma": "说慢一点",
           "ipa": "nǐ shuō màn yī diǎn",
           "translation": {
             "zh": "你说慢一点",
@@ -148592,7 +148592,7 @@
         },
         {
           "text": "我就",
-          "lemma": "我就",
+          "lemma": "就",
           "ipa": "wǒ jiù",
           "translation": {
             "zh": "我就",
@@ -148602,7 +148602,7 @@
         },
         {
           "text": "明白了",
-          "lemma": "明白了",
+          "lemma": "明白",
           "ipa": "míng bái le",
           "translation": {
             "zh": "明白了",
@@ -148624,7 +148624,7 @@
       "tokens": [
         {
           "text": "她拿着",
-          "lemma": "她拿着",
+          "lemma": "拿",
           "ipa": "tā ná zhe",
           "translation": {
             "zh": "她拿着",
@@ -148644,7 +148644,7 @@
         },
         {
           "text": "进来了",
-          "lemma": "进来了",
+          "lemma": "进来",
           "ipa": "jìn lái le",
           "translation": {
             "zh": "进来了",
@@ -148760,7 +148760,7 @@
       "tokens": [
         {
           "text": "我奶奶的",
-          "lemma": "我奶奶的",
+          "lemma": "奶奶",
           "ipa": "wǒ nǎi nai de",
           "translation": {
             "zh": "我奶奶的",
@@ -148876,7 +148876,7 @@
       "tokens": [
         {
           "text": "这道题",
-          "lemma": "这道题",
+          "lemma": "道题",
           "ipa": "zhè dào tí",
           "translation": {
             "zh": "这道题",
@@ -148950,7 +148950,7 @@
       "tokens": [
         {
           "text": "她听到",
-          "lemma": "她听到",
+          "lemma": "听到",
           "ipa": "tā tīng dào",
           "translation": {
             "zh": "她听到",
@@ -148960,7 +148960,7 @@
         },
         {
           "text": "这个消息",
-          "lemma": "这个消息",
+          "lemma": "个消息",
           "ipa": "zhè ge xiāo xi",
           "translation": {
             "zh": "这个消息",
@@ -148970,7 +148970,7 @@
         },
         {
           "text": "很难过",
-          "lemma": "很难过",
+          "lemma": "很难",
           "ipa": "hěn nán guò",
           "translation": {
             "zh": "很难过",
@@ -148992,7 +148992,7 @@
       "tokens": [
         {
           "text": "他失败了",
-          "lemma": "他失败了",
+          "lemma": "失败",
           "ipa": "tā shī bài le",
           "translation": {
             "zh": "他失败了",
@@ -149012,7 +149012,7 @@
         },
         {
           "text": "没有难过",
-          "lemma": "没有难过",
+          "lemma": "没有难",
           "ipa": "méi yǒu nán guò",
           "translation": {
             "zh": "没有难过",
@@ -149044,7 +149044,7 @@
       "tokens": [
         {
           "text": "她今年",
-          "lemma": "她今年",
+          "lemma": "今年",
           "ipa": "tā jīn nián",
           "translation": {
             "zh": "她今年",
@@ -149076,7 +149076,7 @@
       "tokens": [
         {
           "text": "我弟弟",
-          "lemma": "我弟弟",
+          "lemma": "弟弟",
           "ipa": "wǒ dì di",
           "translation": {
             "zh": "我弟弟",
@@ -149170,7 +149170,7 @@
       "tokens": [
         {
           "text": "年轻的",
-          "lemma": "年轻的",
+          "lemma": "年轻",
           "ipa": "nián qīng de",
           "translation": {
             "zh": "年轻的",
@@ -149264,7 +149264,7 @@
       "tokens": [
         {
           "text": "那只鸟的",
-          "lemma": "那只鸟的",
+          "lemma": "只鸟",
           "ipa": "nà zhī niǎo de",
           "translation": {
             "zh": "那只鸟的",
@@ -149306,7 +149306,7 @@
       "tokens": [
         {
           "text": "他一直",
-          "lemma": "他一直",
+          "lemma": "一直",
           "ipa": "tā yī zhí",
           "translation": {
             "zh": "他一直",
@@ -149316,7 +149316,7 @@
         },
         {
           "text": "很努力地",
-          "lemma": "很努力地",
+          "lemma": "很努力",
           "ipa": "hěn nǔ lì de",
           "translation": {
             "zh": "很努力地",
@@ -149380,7 +149380,7 @@
       "tokens": [
         {
           "text": "我们周末",
-          "lemma": "我们周末",
+          "lemma": "周末",
           "ipa": "wǒ men zhōu mò",
           "translation": {
             "zh": "我们周末",
@@ -149390,7 +149390,7 @@
         },
         {
           "text": "去爬山吧",
-          "lemma": "去爬山吧",
+          "lemma": "去爬山",
           "ipa": "qù pá shān ba",
           "translation": {
             "zh": "去爬山吧",
@@ -149484,7 +149484,7 @@
         },
         {
           "text": "放了",
-          "lemma": "放了",
+          "lemma": "放",
           "ipa": "fàng le",
           "translation": {
             "zh": "放了",
@@ -149516,7 +149516,7 @@
       "tokens": [
         {
           "text": "她不小心",
-          "lemma": "她不小心",
+          "lemma": "不小心",
           "ipa": "tā bù xiǎo xīn",
           "translation": {
             "zh": "她不小心",
@@ -149526,7 +149526,7 @@
         },
         {
           "text": "打碎了",
-          "lemma": "打碎了",
+          "lemma": "打碎",
           "ipa": "dǎ suì le",
           "translation": {
             "zh": "打碎了",
@@ -149558,7 +149558,7 @@
       "tokens": [
         {
           "text": "他最近",
-          "lemma": "他最近",
+          "lemma": "最近",
           "ipa": "tā zuì jìn",
           "translation": {
             "zh": "他最近",
@@ -149600,7 +149600,7 @@
         },
         {
           "text": "他有点胖",
-          "lemma": "他有点胖",
+          "lemma": "有点胖",
           "ipa": "tā yǒu diǎn pàng",
           "translation": {
             "zh": "他有点胖",
@@ -149622,7 +149622,7 @@
       "tokens": [
         {
           "text": "他穿着",
-          "lemma": "他穿着",
+          "lemma": "穿",
           "ipa": "tā chuān zhe",
           "translation": {
             "zh": "他穿着",
@@ -149664,7 +149664,7 @@
       "tokens": [
         {
           "text": "这双皮鞋",
-          "lemma": "这双皮鞋",
+          "lemma": "双皮鞋",
           "ipa": "zhè shuāng pí xié",
           "translation": {
             "zh": "这双皮鞋",
@@ -149852,7 +149852,7 @@
         },
         {
           "text": "装了",
-          "lemma": "装了",
+          "lemma": "装",
           "ipa": "zhuāng le",
           "translation": {
             "zh": "装了",
@@ -149894,7 +149894,7 @@
         },
         {
           "text": "他不是很喜欢",
-          "lemma": "他不是很喜欢",
+          "lemma": "不是很喜欢",
           "ipa": "tā bù shì hěn xǐ huān",
           "translation": {
             "zh": "他不是很喜欢",
@@ -149904,7 +149904,7 @@
         },
         {
           "text": "吃甜的",
-          "lemma": "吃甜的",
+          "lemma": "吃甜",
           "ipa": "chī tián de",
           "translation": {
             "zh": "吃甜的",
@@ -149926,7 +149926,7 @@
       "tokens": [
         {
           "text": "这件事",
-          "lemma": "这件事",
+          "lemma": "件事",
           "ipa": "zhè jiàn shì",
           "translation": {
             "zh": "这件事",
@@ -149978,7 +149978,7 @@
         },
         {
           "text": "都来了",
-          "lemma": "都来了",
+          "lemma": "都来",
           "ipa": "dōu lái le",
           "translation": {
             "zh": "都来了",
@@ -150062,7 +150062,7 @@
         },
         {
           "text": "真的",
-          "lemma": "真的",
+          "lemma": "真",
           "ipa": "zhēn de",
           "translation": {
             "zh": "真的",
@@ -150114,7 +150114,7 @@
         },
         {
           "text": "不见了",
-          "lemma": "不见了",
+          "lemma": "不见",
           "ipa": "bù jiàn le",
           "translation": {
             "zh": "不见了",
@@ -150136,7 +150136,7 @@
       "tokens": [
         {
           "text": "她每天",
-          "lemma": "她每天",
+          "lemma": "每天",
           "ipa": "tā měi tiān",
           "translation": {
             "zh": "她每天",
@@ -150198,7 +150198,7 @@
         },
         {
           "text": "去了",
-          "lemma": "去了",
+          "lemma": "去",
           "ipa": "qù le",
           "translation": {
             "zh": "去了",
@@ -150312,7 +150312,7 @@
         },
         {
           "text": "起飞了",
-          "lemma": "起飞了",
+          "lemma": "起飞",
           "ipa": "qǐ fēi le",
           "translation": {
             "zh": "起飞了",
@@ -150334,7 +150334,7 @@
       "tokens": [
         {
           "text": "天亮了",
-          "lemma": "天亮了",
+          "lemma": "天亮",
           "ipa": "tiān liàng le",
           "translation": {
             "zh": "天亮了",
@@ -150354,7 +150354,7 @@
         },
         {
           "text": "起来吧",
-          "lemma": "起来吧",
+          "lemma": "起来",
           "ipa": "qǐ lái ba",
           "translation": {
             "zh": "起来吧",
@@ -150512,7 +150512,7 @@
       "tokens": [
         {
           "text": "她今天",
-          "lemma": "她今天",
+          "lemma": "今天",
           "ipa": "tā jīn tiān",
           "translation": {
             "zh": "她今天",
@@ -150564,7 +150564,7 @@
       "tokens": [
         {
           "text": "我想",
-          "lemma": "我想",
+          "lemma": "想",
           "ipa": "wǒ xiǎng",
           "translation": {
             "zh": "我想",
@@ -150606,7 +150606,7 @@
       "tokens": [
         {
           "text": "秋天的",
-          "lemma": "秋天的",
+          "lemma": "秋天",
           "ipa": "qiū tiān de",
           "translation": {
             "zh": "秋天的",
@@ -150648,7 +150648,7 @@
       "tokens": [
         {
           "text": "我最喜欢",
-          "lemma": "我最喜欢",
+          "lemma": "最喜欢",
           "ipa": "wǒ zuì xǐ huān",
           "translation": {
             "zh": "我最喜欢",
@@ -150658,7 +150658,7 @@
         },
         {
           "text": "秋天的",
-          "lemma": "秋天的",
+          "lemma": "秋天",
           "ipa": "qiū tiān de",
           "translation": {
             "zh": "秋天的",
@@ -150690,7 +150690,7 @@
       "tokens": [
         {
           "text": "她买了",
-          "lemma": "她买了",
+          "lemma": "买",
           "ipa": "tā mǎi le",
           "translation": {
             "zh": "她买了",
@@ -150742,7 +150742,7 @@
       "tokens": [
         {
           "text": "这条",
-          "lemma": "这条",
+          "lemma": "条",
           "ipa": "zhè tiáo",
           "translation": {
             "zh": "这条",
@@ -150866,7 +150866,7 @@
         },
         {
           "text": "睡觉了",
-          "lemma": "睡觉了",
+          "lemma": "睡觉",
           "ipa": "shuì jiào le",
           "translation": {
             "zh": "睡觉了",
@@ -150940,7 +150940,7 @@
         },
         {
           "text": "热情地",
-          "lemma": "热情地",
+          "lemma": "热情",
           "ipa": "rè qíng de",
           "translation": {
             "zh": "热情地",
@@ -150982,7 +150982,7 @@
       "tokens": [
         {
           "text": "我认为",
-          "lemma": "我认为",
+          "lemma": "认为",
           "ipa": "wǒ rèn wéi",
           "translation": {
             "zh": "我认为",
@@ -151034,7 +151034,7 @@
       "tokens": [
         {
           "text": "你认为",
-          "lemma": "你认为",
+          "lemma": "认为",
           "ipa": "nǐ rèn wéi",
           "translation": {
             "zh": "你认为",
@@ -151044,7 +151044,7 @@
         },
         {
           "text": "他说的",
-          "lemma": "他说的",
+          "lemma": "说",
           "ipa": "tā shuō de",
           "translation": {
             "zh": "他说的",
@@ -151054,7 +151054,7 @@
         },
         {
           "text": "对吗",
-          "lemma": "对吗",
+          "lemma": "对",
           "ipa": "duì ma",
           "translation": {
             "zh": "对吗",
@@ -151076,7 +151076,7 @@
       "tokens": [
         {
           "text": "她学习",
-          "lemma": "她学习",
+          "lemma": "学习",
           "ipa": "tā xué xí",
           "translation": {
             "zh": "她学习",
@@ -151160,7 +151160,7 @@
       "tokens": [
         {
           "text": "这道题",
-          "lemma": "这道题",
+          "lemma": "道题",
           "ipa": "zhè dào tí",
           "translation": {
             "zh": "这道题",
@@ -151212,7 +151212,7 @@
         },
         {
           "text": "那么容易",
-          "lemma": "那么容易",
+          "lemma": "么容易",
           "ipa": "nà me róng yì",
           "translation": {
             "zh": "那么容易",
@@ -151264,7 +151264,7 @@
         },
         {
           "text": "别去了",
-          "lemma": "别去了",
+          "lemma": "别去",
           "ipa": "bié qù le",
           "translation": {
             "zh": "别去了",
@@ -151296,7 +151296,7 @@
         },
         {
           "text": "你有时间",
-          "lemma": "你有时间",
+          "lemma": "有时间",
           "ipa": "nǐ yǒu shí jiān",
           "translation": {
             "zh": "你有时间",
@@ -151306,7 +151306,7 @@
         },
         {
           "text": "来玩吧",
-          "lemma": "来玩吧",
+          "lemma": "来玩",
           "ipa": "lái wán ba",
           "translation": {
             "zh": "来玩吧",
@@ -151338,7 +151338,7 @@
         },
         {
           "text": "别忘了",
-          "lemma": "别忘了",
+          "lemma": "别忘",
           "ipa": "bié wàng le",
           "translation": {
             "zh": "别忘了",
@@ -151390,7 +151390,7 @@
         },
         {
           "text": "放在哪儿了",
-          "lemma": "放在哪儿了",
+          "lemma": "放在哪儿",
           "ipa": "fàng zài nǎr le",
           "translation": {
             "zh": "放在哪儿了",
@@ -151474,7 +151474,7 @@
         },
         {
           "text": "上网吗",
-          "lemma": "上网吗",
+          "lemma": "上网",
           "ipa": "shàng wǎng ma",
           "translation": {
             "zh": "上网吗",
@@ -151506,7 +151506,7 @@
         },
         {
           "text": "生气了",
-          "lemma": "生气了",
+          "lemma": "生气",
           "ipa": "shēng qì le",
           "translation": {
             "zh": "生气了",
@@ -151548,7 +151548,7 @@
         },
         {
           "text": "我来",
-          "lemma": "我来",
+          "lemma": "来",
           "ipa": "wǒ lái",
           "translation": {
             "zh": "我来",
@@ -151600,7 +151600,7 @@
         },
         {
           "text": "真的",
-          "lemma": "真的",
+          "lemma": "真",
           "ipa": "zhēn de",
           "translation": {
             "zh": "真的",
@@ -151632,7 +151632,7 @@
       "tokens": [
         {
           "text": "外面的",
-          "lemma": "外面的",
+          "lemma": "外面",
           "ipa": "wài miàn de",
           "translation": {
             "zh": "外面的",
@@ -151652,7 +151652,7 @@
         },
         {
           "text": "太大了",
-          "lemma": "太大了",
+          "lemma": "太大",
           "ipa": "tài dà le",
           "translation": {
             "zh": "太大了",
@@ -151674,7 +151674,7 @@
       "tokens": [
         {
           "text": "他想",
-          "lemma": "他想",
+          "lemma": "想",
           "ipa": "tā xiǎng",
           "translation": {
             "zh": "他想",
@@ -151694,7 +151694,7 @@
         },
         {
           "text": "世界各地",
-          "lemma": "世界各地",
+          "lemma": "世界各",
           "ipa": "shì jiè gè dì",
           "translation": {
             "zh": "世界各地",
@@ -151736,7 +151736,7 @@
         },
         {
           "text": "最高的",
-          "lemma": "最高的",
+          "lemma": "最高",
           "ipa": "zuì gāo de",
           "translation": {
             "zh": "最高的",
@@ -151798,7 +151798,7 @@
         },
         {
           "text": "这双鞋吧",
-          "lemma": "这双鞋吧",
+          "lemma": "双鞋",
           "ipa": "zhè shuāng xié ba",
           "translation": {
             "zh": "这双鞋吧",
@@ -151872,7 +151872,7 @@
       "tokens": [
         {
           "text": "她最近",
-          "lemma": "她最近",
+          "lemma": "最近",
           "ipa": "tā zuì jìn",
           "translation": {
             "zh": "她最近",
@@ -151882,7 +151882,7 @@
         },
         {
           "text": "瘦了",
-          "lemma": "瘦了",
+          "lemma": "瘦",
           "ipa": "shòu le",
           "translation": {
             "zh": "瘦了",
@@ -151924,7 +151924,7 @@
         },
         {
           "text": "太瘦了",
-          "lemma": "太瘦了",
+          "lemma": "太瘦",
           "ipa": "tài shòu le",
           "translation": {
             "zh": "太瘦了",
@@ -152008,7 +152008,7 @@
       "tokens": [
         {
           "text": "我叔叔",
-          "lemma": "我叔叔",
+          "lemma": "叔叔",
           "ipa": "wǒ shū shu",
           "translation": {
             "zh": "我叔叔",
@@ -152060,7 +152060,7 @@
       "tokens": [
         {
           "text": "这张床",
-          "lemma": "这张床",
+          "lemma": "张床",
           "ipa": "zhè zhāng chuáng",
           "translation": {
             "zh": "这张床",
@@ -152070,7 +152070,7 @@
         },
         {
           "text": "睡得",
-          "lemma": "睡得",
+          "lemma": "睡",
           "ipa": "shuì de",
           "translation": {
             "zh": "睡得",
@@ -152102,7 +152102,7 @@
       "tokens": [
         {
           "text": "他今天",
-          "lemma": "他今天",
+          "lemma": "今天",
           "ipa": "tā jīn tiān",
           "translation": {
             "zh": "他今天",
@@ -152186,7 +152186,7 @@
       "tokens": [
         {
           "text": "那棵树",
-          "lemma": "那棵树",
+          "lemma": "棵树",
           "ipa": "nà kē shù",
           "translation": {
             "zh": "那棵树",
@@ -152270,7 +152270,7 @@
       "tokens": [
         {
           "text": "我觉得",
-          "lemma": "我觉得",
+          "lemma": "觉",
           "ipa": "wǒ jué de",
           "translation": {
             "zh": "我觉得",
@@ -152332,7 +152332,7 @@
         },
         {
           "text": "记得",
-          "lemma": "记得",
+          "lemma": "记",
           "ipa": "jì de",
           "translation": {
             "zh": "记得",
@@ -152364,7 +152364,7 @@
       "tokens": [
         {
           "text": "他每天",
-          "lemma": "他每天",
+          "lemma": "每天",
           "ipa": "tā měi tiān",
           "translation": {
             "zh": "他每天",
@@ -152426,7 +152426,7 @@
         },
         {
           "text": "提高了",
-          "lemma": "提高了",
+          "lemma": "提高",
           "ipa": "tí gāo le",
           "translation": {
             "zh": "提高了",
@@ -152510,7 +152510,7 @@
         },
         {
           "text": "送到了",
-          "lemma": "送到了",
+          "lemma": "送到",
           "ipa": "sòng dào le",
           "translation": {
             "zh": "送到了",
@@ -152542,7 +152542,7 @@
       "tokens": [
         {
           "text": "那位",
-          "lemma": "那位",
+          "lemma": "位",
           "ipa": "nà wèi",
           "translation": {
             "zh": "那位",
@@ -152666,7 +152666,7 @@
       "tokens": [
         {
           "text": "她特别喜欢",
-          "lemma": "她特别喜欢",
+          "lemma": "特别喜欢",
           "ipa": "tā tè bié xǐ huān",
           "translation": {
             "zh": "她特别喜欢",
@@ -152686,7 +152686,7 @@
         },
         {
           "text": "辣的",
-          "lemma": "辣的",
+          "lemma": "辣",
           "ipa": "là de",
           "translation": {
             "zh": "辣的",
@@ -152718,7 +152718,7 @@
       "tokens": [
         {
           "text": "这家餐厅的",
-          "lemma": "这家餐厅的",
+          "lemma": "家餐厅",
           "ipa": "zhè jiā cān tīng de",
           "translation": {
             "zh": "这家餐厅的",
@@ -152802,7 +152802,7 @@
       "tokens": [
         {
           "text": "走了",
-          "lemma": "走了",
+          "lemma": "走",
           "ipa": "zǒu le",
           "translation": {
             "zh": "走了",
@@ -152854,7 +152854,7 @@
       "tokens": [
         {
           "text": "他想",
-          "lemma": "他想",
+          "lemma": "想",
           "ipa": "tā xiǎng",
           "translation": {
             "zh": "他想",
@@ -152874,7 +152874,7 @@
         },
         {
           "text": "自己的",
-          "lemma": "自己的",
+          "lemma": "自己",
           "ipa": "zì jǐ de",
           "translation": {
             "zh": "自己的",
@@ -152958,7 +152958,7 @@
       "tokens": [
         {
           "text": "我们学校的",
-          "lemma": "我们学校的",
+          "lemma": "学校",
           "ipa": "wǒ men xué xiào de",
           "translation": {
             "zh": "我们学校的",
@@ -153000,7 +153000,7 @@
       "tokens": [
         {
           "text": "他从小",
-          "lemma": "他从小",
+          "lemma": "从小",
           "ipa": "tā cóng xiǎo",
           "translation": {
             "zh": "他从小",
@@ -153084,7 +153084,7 @@
       "tokens": [
         {
           "text": "妈妈做的",
-          "lemma": "妈妈做的",
+          "lemma": "妈妈做",
           "ipa": "māma zuò de",
           "translation": {
             "zh": "妈妈做的",
@@ -153166,7 +153166,7 @@
         },
         {
           "text": "吃午饭了",
-          "lemma": "吃午饭了",
+          "lemma": "吃午饭",
           "ipa": "chī wǔ fàn le",
           "translation": {
             "zh": "吃午饭了",
@@ -153250,7 +153250,7 @@
         },
         {
           "text": "我换工作",
-          "lemma": "我换工作",
+          "lemma": "换工作",
           "ipa": "wǒ huàn gōng zuò",
           "translation": {
             "zh": "我换工作",
@@ -153292,7 +153292,7 @@
         },
         {
           "text": "这个方案",
-          "lemma": "这个方案",
+          "lemma": "个方案",
           "ipa": "zhè ge fāng àn",
           "translation": {
             "zh": "这个方案",
@@ -153366,7 +153366,7 @@
       "tokens": [
         {
           "text": "他最近",
-          "lemma": "他最近",
+          "lemma": "最近",
           "ipa": "tā zuì jìn",
           "translation": {
             "zh": "他最近",
@@ -153386,7 +153386,7 @@
         },
         {
           "text": "掉了",
-          "lemma": "掉了",
+          "lemma": "掉",
           "ipa": "diào le",
           "translation": {
             "zh": "掉了",
@@ -153438,7 +153438,7 @@
         },
         {
           "text": "变冷了",
-          "lemma": "变冷了",
+          "lemma": "变冷",
           "ipa": "biàn lěng le",
           "translation": {
             "zh": "变冷了",
@@ -153460,7 +153460,7 @@
       "tokens": [
         {
           "text": "她突然",
-          "lemma": "她突然",
+          "lemma": "突然",
           "ipa": "tā tū rán",
           "translation": {
             "zh": "她突然",
@@ -153490,7 +153490,7 @@
         },
         {
           "text": "都吓到了",
-          "lemma": "都吓到了",
+          "lemma": "都吓到",
           "ipa": "dōu xià dào le",
           "translation": {
             "zh": "都吓到了",
@@ -153512,7 +153512,7 @@
       "tokens": [
         {
           "text": "我每天下午",
-          "lemma": "我每天下午",
+          "lemma": "每天下午",
           "ipa": "wǒ měi tiān xià wǔ",
           "translation": {
             "zh": "我每天下午",
@@ -153678,7 +153678,7 @@
         },
         {
           "text": "受伤了",
-          "lemma": "受伤了",
+          "lemma": "受伤",
           "ipa": "shòu shāng le",
           "translation": {
             "zh": "受伤了",
@@ -153720,7 +153720,7 @@
       "tokens": [
         {
           "text": "我已经",
-          "lemma": "我已经",
+          "lemma": "已经",
           "ipa": "wǒ yǐ jīng",
           "translation": {
             "zh": "我已经",
@@ -153740,7 +153740,7 @@
         },
         {
           "text": "作业了",
-          "lemma": "作业了",
+          "lemma": "作业",
           "ipa": "zuò yè le",
           "translation": {
             "zh": "作业了",
@@ -153762,7 +153762,7 @@
       "tokens": [
         {
           "text": "这个项目",
-          "lemma": "这个项目",
+          "lemma": "个项目",
           "ipa": "zhè ge xiàng mù",
           "translation": {
             "zh": "这个项目",
@@ -153814,7 +153814,7 @@
       "tokens": [
         {
           "text": "他吃了",
-          "lemma": "他吃了",
+          "lemma": "吃",
           "ipa": "tā chī le",
           "translation": {
             "zh": "他吃了",
@@ -153908,7 +153908,7 @@
       "tokens": [
         {
           "text": "这辆车",
-          "lemma": "这辆车",
+          "lemma": "辆车",
           "ipa": "zhè liàng chē",
           "translation": {
             "zh": "这辆车",
@@ -153960,7 +153960,7 @@
         },
         {
           "text": "赚了",
-          "lemma": "赚了",
+          "lemma": "赚",
           "ipa": "zhuàn le",
           "translation": {
             "zh": "赚了",
@@ -153992,7 +153992,7 @@
       "tokens": [
         {
           "text": "我忘记带",
-          "lemma": "我忘记带",
+          "lemma": "忘记带",
           "ipa": "wǒ wàng jì dài",
           "translation": {
             "zh": "我忘记带",
@@ -154002,7 +154002,7 @@
         },
         {
           "text": "手机了",
-          "lemma": "手机了",
+          "lemma": "手机",
           "ipa": "shǒu jī le",
           "translation": {
             "zh": "手机了",
@@ -154024,7 +154024,7 @@
       "tokens": [
         {
           "text": "他总是",
-          "lemma": "他总是",
+          "lemma": "总是",
           "ipa": "tā zǒng shì",
           "translation": {
             "zh": "他总是",
@@ -154076,7 +154076,7 @@
         },
         {
           "text": "她每天",
-          "lemma": "她每天",
+          "lemma": "每天",
           "ipa": "tā měi tiān",
           "translation": {
             "zh": "她每天",
@@ -154232,7 +154232,7 @@
         },
         {
           "text": "不同的",
-          "lemma": "不同的",
+          "lemma": "不同",
           "ipa": "bù tóng de",
           "translation": {
             "zh": "不同的",
@@ -154274,7 +154274,7 @@
         },
         {
           "text": "在学校的",
-          "lemma": "在学校的",
+          "lemma": "在学校",
           "ipa": "zài xué xiào de",
           "translation": {
             "zh": "在学校的",
@@ -154326,7 +154326,7 @@
         },
         {
           "text": "走了",
-          "lemma": "走了",
+          "lemma": "走",
           "ipa": "zǒu le",
           "translation": {
             "zh": "走了",
@@ -154358,7 +154358,7 @@
       "tokens": [
         {
           "text": "他有",
-          "lemma": "他有",
+          "lemma": "有",
           "ipa": "tā yǒu",
           "translation": {
             "zh": "他有",
@@ -154368,7 +154368,7 @@
         },
         {
           "text": "早睡早起的",
-          "lemma": "早睡早起的",
+          "lemma": "早睡早起",
           "ipa": "zǎo shuì zǎo qǐ de",
           "translation": {
             "zh": "早睡早起的",
@@ -154400,7 +154400,7 @@
       "tokens": [
         {
           "text": "我已经",
-          "lemma": "我已经",
+          "lemma": "已经",
           "ipa": "wǒ yǐ jīng",
           "translation": {
             "zh": "我已经",
@@ -154420,7 +154420,7 @@
         },
         {
           "text": "一个人住了",
-          "lemma": "一个人住了",
+          "lemma": "一个人住",
           "ipa": "yī gè rén zhù le",
           "translation": {
             "zh": "一个人住了",
@@ -154484,7 +154484,7 @@
       "tokens": [
         {
           "text": "这家餐厅的",
-          "lemma": "这家餐厅的",
+          "lemma": "家餐厅",
           "ipa": "zhè jiā cān tīng de",
           "translation": {
             "zh": "这家餐厅的",
@@ -154526,7 +154526,7 @@
       "tokens": [
         {
           "text": "我每天晚上",
-          "lemma": "我每天晚上",
+          "lemma": "每天晚上",
           "ipa": "wǒ měi tiān wǎn shang",
           "translation": {
             "zh": "我每天晚上",
@@ -154610,7 +154610,7 @@
         },
         {
           "text": "我最喜欢",
-          "lemma": "我最喜欢",
+          "lemma": "最喜欢",
           "ipa": "wǒ zuì xǐ huān",
           "translation": {
             "zh": "我最喜欢",
@@ -154684,7 +154684,7 @@
       "tokens": [
         {
           "text": "你先坐",
-          "lemma": "你先坐",
+          "lemma": "先坐",
           "ipa": "nǐ xiān zuò",
           "translation": {
             "zh": "你先坐",
@@ -154694,7 +154694,7 @@
         },
         {
           "text": "我去",
-          "lemma": "我去",
+          "lemma": "去",
           "ipa": "wǒ qù",
           "translation": {
             "zh": "我去",
@@ -154746,7 +154746,7 @@
         },
         {
           "text": "再出发吧",
-          "lemma": "再出发吧",
+          "lemma": "再出发",
           "ipa": "zài chū fā ba",
           "translation": {
             "zh": "再出发吧",
@@ -154768,7 +154768,7 @@
       "tokens": [
         {
           "text": "我相信",
-          "lemma": "我相信",
+          "lemma": "相信",
           "ipa": "wǒ xiāng xìn",
           "translation": {
             "zh": "我相信",
@@ -154778,7 +154778,7 @@
         },
         {
           "text": "你一定",
-          "lemma": "你一定",
+          "lemma": "一定",
           "ipa": "nǐ yī dìng",
           "translation": {
             "zh": "你一定",
@@ -154810,7 +154810,7 @@
       "tokens": [
         {
           "text": "他不相信",
-          "lemma": "他不相信",
+          "lemma": "不相信",
           "ipa": "tā bù xiāng xìn",
           "translation": {
             "zh": "他不相信",
@@ -154820,7 +154820,7 @@
         },
         {
           "text": "这件事",
-          "lemma": "这件事",
+          "lemma": "件事",
           "ipa": "zhè jiàn shì",
           "translation": {
             "zh": "这件事",
@@ -154830,7 +154830,7 @@
         },
         {
           "text": "是真的",
-          "lemma": "是真的",
+          "lemma": "是真",
           "ipa": "shì zhēn de",
           "translation": {
             "zh": "是真的",
@@ -154852,7 +154852,7 @@
       "tokens": [
         {
           "text": "她每天早上",
-          "lemma": "她每天早上",
+          "lemma": "每天早上",
           "ipa": "tā měi tiān zǎo shang",
           "translation": {
             "zh": "她每天早上",
@@ -154936,7 +154936,7 @@
       "tokens": [
         {
           "text": "他长得",
-          "lemma": "他长得",
+          "lemma": "长",
           "ipa": "tā zhǎng de",
           "translation": {
             "zh": "他长得",
@@ -154956,7 +154956,7 @@
         },
         {
           "text": "他爸爸",
-          "lemma": "他爸爸",
+          "lemma": "爸爸",
           "ipa": "tā bà ba",
           "translation": {
             "zh": "他爸爸",
@@ -155092,7 +155092,7 @@
         },
         {
           "text": "碰倒了",
-          "lemma": "碰倒了",
+          "lemma": "碰倒",
           "ipa": "pèng dǎo le",
           "translation": {
             "zh": "碰倒了",
@@ -155166,7 +155166,7 @@
       "tokens": [
         {
           "text": "我们的",
-          "lemma": "我们的",
+          "lemma": "的",
           "ipa": "wǒ men de",
           "translation": {
             "zh": "我们的",
@@ -155218,7 +155218,7 @@
       "tokens": [
         {
           "text": "我每天早上",
-          "lemma": "我每天早上",
+          "lemma": "每天早上",
           "ipa": "wǒ měi tiān zǎo shàng",
           "translation": {
             "zh": "我每天早上",
@@ -155250,7 +155250,7 @@
       "tokens": [
         {
           "text": "这条新闻",
-          "lemma": "这条新闻",
+          "lemma": "条新闻",
           "ipa": "zhè tiáo xīn wén",
           "translation": {
             "zh": "这条新闻",
@@ -155292,7 +155292,7 @@
       "tokens": [
         {
           "text": "这里的",
-          "lemma": "这里的",
+          "lemma": "里",
           "ipa": "zhè lǐ de",
           "translation": {
             "zh": "这里的",
@@ -155334,7 +155334,7 @@
       "tokens": [
         {
           "text": "我喜欢吃",
-          "lemma": "我喜欢吃",
+          "lemma": "喜欢吃",
           "ipa": "wǒ xǐ huān chī",
           "translation": {
             "zh": "我喜欢吃",
@@ -155344,7 +155344,7 @@
         },
         {
           "text": "新鲜的",
-          "lemma": "新鲜的",
+          "lemma": "新鲜",
           "ipa": "xīn xiān de",
           "translation": {
             "zh": "新鲜的",
@@ -155396,7 +155396,7 @@
         },
         {
           "text": "付钱了",
-          "lemma": "付钱了",
+          "lemma": "付钱",
           "ipa": "fù qián le",
           "translation": {
             "zh": "付钱了",
@@ -155428,7 +155428,7 @@
         },
         {
           "text": "可以刷信用卡吗",
-          "lemma": "可以刷信用卡吗",
+          "lemma": "可以刷信用卡",
           "ipa": "kě yǐ shuā xìn yòng kǎ ma",
           "translation": {
             "zh": "可以刷信用卡吗",
@@ -155470,7 +155470,7 @@
         },
         {
           "text": "太重了",
-          "lemma": "太重了",
+          "lemma": "太重",
           "ipa": "tài zhòng le",
           "translation": {
             "zh": "太重了",
@@ -155554,7 +155554,7 @@
         },
         {
           "text": "中国的",
-          "lemma": "中国的",
+          "lemma": "中国",
           "ipa": "zhōng guó de",
           "translation": {
             "zh": "中国的",
@@ -155606,7 +155606,7 @@
         },
         {
           "text": "看熊猫吧",
-          "lemma": "看熊猫吧",
+          "lemma": "看熊猫",
           "ipa": "kàn xióng māo ba",
           "translation": {
             "zh": "看熊猫吧",
@@ -155628,7 +155628,7 @@
       "tokens": [
         {
           "text": "你需要",
-          "lemma": "你需要",
+          "lemma": "需要",
           "ipa": "nǐ xū yào",
           "translation": {
             "zh": "你需要",
@@ -155638,7 +155638,7 @@
         },
         {
           "text": "帮忙吗",
-          "lemma": "帮忙吗",
+          "lemma": "帮忙",
           "ipa": "bāng máng ma",
           "translation": {
             "zh": "帮忙吗",
@@ -155702,7 +155702,7 @@
       "tokens": [
         {
           "text": "你选择",
-          "lemma": "你选择",
+          "lemma": "选择",
           "ipa": "nǐ xuǎn zé",
           "translation": {
             "zh": "你选择",
@@ -155776,7 +155776,7 @@
       "tokens": [
         {
           "text": "老师的",
-          "lemma": "老师的",
+          "lemma": "老师",
           "ipa": "lǎo shī de",
           "translation": {
             "zh": "老师的",
@@ -155818,7 +155818,7 @@
       "tokens": [
         {
           "text": "他要求我",
-          "lemma": "他要求我",
+          "lemma": "要求我",
           "ipa": "tā yāo qiú wǒ",
           "translation": {
             "zh": "他要求我",
@@ -155892,7 +155892,7 @@
       "tokens": [
         {
           "text": "我爷爷",
-          "lemma": "我爷爷",
+          "lemma": "爷爷",
           "ipa": "wǒ yé ye",
           "translation": {
             "zh": "我爷爷",
@@ -155912,7 +155912,7 @@
         },
         {
           "text": "七十岁了",
-          "lemma": "七十岁了",
+          "lemma": "七十岁",
           "ipa": "qī shí suì le",
           "translation": {
             "zh": "七十岁了",
@@ -155934,7 +155934,7 @@
       "tokens": [
         {
           "text": "这家餐厅的",
-          "lemma": "这家餐厅的",
+          "lemma": "家餐厅",
           "ipa": "zhè jiā cān tīng de",
           "translation": {
             "zh": "这家餐厅的",
@@ -155976,7 +155976,7 @@
       "tokens": [
         {
           "text": "我一般",
-          "lemma": "我一般",
+          "lemma": "一般",
           "ipa": "wǒ yī bān",
           "translation": {
             "zh": "我一般",
@@ -156018,7 +156018,7 @@
       "tokens": [
         {
           "text": "他一边",
-          "lemma": "他一边",
+          "lemma": "一边",
           "ipa": "tā yī biān",
           "translation": {
             "zh": "他一边",
@@ -156070,7 +156070,7 @@
       "tokens": [
         {
           "text": "她一边",
-          "lemma": "她一边",
+          "lemma": "一边",
           "ipa": "tā yī biān",
           "translation": {
             "zh": "她一边",
@@ -156122,7 +156122,7 @@
       "tokens": [
         {
           "text": "你一定要",
-          "lemma": "你一定要",
+          "lemma": "一定要",
           "ipa": "nǐ yī dìng yào",
           "translation": {
             "zh": "你一定要",
@@ -156154,7 +156154,7 @@
       "tokens": [
         {
           "text": "我一定",
-          "lemma": "我一定",
+          "lemma": "一定",
           "ipa": "wǒ yī dìng",
           "translation": {
             "zh": "我一定",
@@ -156164,7 +156164,7 @@
         },
         {
           "text": "能通过",
-          "lemma": "能通过",
+          "lemma": "能通",
           "ipa": "néng tōng guò",
           "translation": {
             "zh": "能通过",
@@ -156196,7 +156196,7 @@
       "tokens": [
         {
           "text": "这些东西",
-          "lemma": "这些东西",
+          "lemma": "些东西",
           "ipa": "zhè xiē dōng xi",
           "translation": {
             "zh": "这些东西",
@@ -156238,7 +156238,7 @@
       "tokens": [
         {
           "text": "我们班",
-          "lemma": "我们班",
+          "lemma": "班",
           "ipa": "wǒ men bān",
           "translation": {
             "zh": "我们班",
@@ -156290,7 +156290,7 @@
         },
         {
           "text": "再出发吧",
-          "lemma": "再出发吧",
+          "lemma": "再出发",
           "ipa": "zài chū fā ba",
           "translation": {
             "zh": "再出发吧",
@@ -156332,7 +156332,7 @@
         },
         {
           "text": "就回来了",
-          "lemma": "就回来了",
+          "lemma": "就回来",
           "ipa": "jiù huí lái le",
           "translation": {
             "zh": "就回来了",
@@ -156354,7 +156354,7 @@
       "tokens": [
         {
           "text": "我们俩的",
-          "lemma": "我们俩的",
+          "lemma": "俩",
           "ipa": "wǒ men liǎ de",
           "translation": {
             "zh": "我们俩的",
@@ -156396,7 +156396,7 @@
       "tokens": [
         {
           "text": "这两件衣服",
-          "lemma": "这两件衣服",
+          "lemma": "两件衣服",
           "ipa": "zhè liǎng jiàn yī fu",
           "translation": {
             "zh": "这两件衣服",
@@ -156438,7 +156438,7 @@
       "tokens": [
         {
           "text": "他一直",
-          "lemma": "他一直",
+          "lemma": "一直",
           "ipa": "tā yī zhí",
           "translation": {
             "zh": "他一直",
@@ -156470,7 +156470,7 @@
       "tokens": [
         {
           "text": "我一直",
-          "lemma": "我一直",
+          "lemma": "一直",
           "ipa": "wǒ yī zhí",
           "translation": {
             "zh": "我一直",
@@ -156490,7 +156490,7 @@
         },
         {
           "text": "这首歌",
-          "lemma": "这首歌",
+          "lemma": "首歌",
           "ipa": "zhè shǒu gē",
           "translation": {
             "zh": "这首歌",
@@ -156512,7 +156512,7 @@
       "tokens": [
         {
           "text": "我以前",
-          "lemma": "我以前",
+          "lemma": "以前",
           "ipa": "wǒ yǐ qián",
           "translation": {
             "zh": "我以前",
@@ -156596,7 +156596,7 @@
       "tokens": [
         {
           "text": "我睡觉时",
-          "lemma": "我睡觉时",
+          "lemma": "睡觉时",
           "ipa": "wǒ shuì jiào shí",
           "translation": {
             "zh": "我睡觉时",
@@ -156638,7 +156638,7 @@
       "tokens": [
         {
           "text": "这首音乐",
-          "lemma": "这首音乐",
+          "lemma": "首音乐",
           "ipa": "zhè shǒu yīn yuè",
           "translation": {
             "zh": "这首音乐",
@@ -156690,7 +156690,7 @@
         },
         {
           "text": "取了",
-          "lemma": "取了",
+          "lemma": "取",
           "ipa": "qǔ le",
           "translation": {
             "zh": "取了",
@@ -156774,7 +156774,7 @@
       "tokens": [
         {
           "text": "你想喝",
-          "lemma": "你想喝",
+          "lemma": "想喝",
           "ipa": "nǐ xiǎng hē",
           "translation": {
             "zh": "你想喝",
@@ -156806,7 +156806,7 @@
       "tokens": [
         {
           "text": "他买了",
-          "lemma": "他买了",
+          "lemma": "买",
           "ipa": "tā mǎi le",
           "translation": {
             "zh": "他买了",
@@ -156848,7 +156848,7 @@
       "tokens": [
         {
           "text": "你应该",
-          "lemma": "你应该",
+          "lemma": "应该",
           "ipa": "nǐ yīng gāi",
           "translation": {
             "zh": "你应该",
@@ -156880,7 +156880,7 @@
       "tokens": [
         {
           "text": "我们应该",
-          "lemma": "我们应该",
+          "lemma": "应该",
           "ipa": "wǒ men yīng gāi",
           "translation": {
             "zh": "我们应该",
@@ -156922,7 +156922,7 @@
         },
         {
           "text": "影响了",
-          "lemma": "影响了",
+          "lemma": "影响",
           "ipa": "yǐng xiǎng le",
           "translation": {
             "zh": "影响了",
@@ -157016,7 +157016,7 @@
       "tokens": [
         {
           "text": "你用",
-          "lemma": "你用",
+          "lemma": "用",
           "ipa": "nǐ yòng",
           "translation": {
             "zh": "你用",
@@ -157058,7 +157058,7 @@
       "tokens": [
         {
           "text": "我用筷子",
-          "lemma": "我用筷子",
+          "lemma": "用筷子",
           "ipa": "wǒ yòng kuài zi",
           "translation": {
             "zh": "我用筷子",
@@ -157122,7 +157122,7 @@
       "tokens": [
         {
           "text": "这个游戏",
-          "lemma": "这个游戏",
+          "lemma": "个游戏",
           "ipa": "zhè ge yóu xì",
           "translation": {
             "zh": "这个游戏",
@@ -157154,7 +157154,7 @@
       "tokens": [
         {
           "text": "这位作家",
-          "lemma": "这位作家",
+          "lemma": "位作家",
           "ipa": "zhè wèi zuò jiā",
           "translation": {
             "zh": "这位作家",
@@ -157186,7 +157186,7 @@
       "tokens": [
         {
           "text": "这家店",
-          "lemma": "这家店",
+          "lemma": "家店",
           "ipa": "zhè jiā diàn",
           "translation": {
             "zh": "这家店",
@@ -157228,7 +157228,7 @@
       "tokens": [
         {
           "text": "他又",
-          "lemma": "他又",
+          "lemma": "又",
           "ipa": "tā yòu",
           "translation": {
             "zh": "他又",
@@ -157238,7 +157238,7 @@
         },
         {
           "text": "迟到了",
-          "lemma": "迟到了",
+          "lemma": "迟到",
           "ipa": "chí dào le",
           "translation": {
             "zh": "迟到了",
@@ -157270,7 +157270,7 @@
         },
         {
           "text": "又下雨了",
-          "lemma": "又下雨了",
+          "lemma": "又下雨",
           "ipa": "yòu xià yǔ le",
           "translation": {
             "zh": "又下雨了",
@@ -157334,7 +157334,7 @@
       "tokens": [
         {
           "text": "你遇到困难",
-          "lemma": "你遇到困难",
+          "lemma": "遇到困难",
           "ipa": "nǐ yù dào kùn nán",
           "translation": {
             "zh": "你遇到困难",
@@ -157366,7 +157366,7 @@
       "tokens": [
         {
           "text": "这杯咖啡",
-          "lemma": "这杯咖啡",
+          "lemma": "杯咖啡",
           "ipa": "zhè bēi kā fēi",
           "translation": {
             "zh": "这杯咖啡",
@@ -157398,7 +157398,7 @@
       "tokens": [
         {
           "text": "他借了我",
-          "lemma": "他借了我",
+          "lemma": "借了我",
           "ipa": "tā jiè le wǒ",
           "translation": {
             "zh": "他借了我",
@@ -157430,7 +157430,7 @@
       "tokens": [
         {
           "text": "你愿意",
-          "lemma": "你愿意",
+          "lemma": "愿意",
           "ipa": "nǐ yuàn yì",
           "translation": {
             "zh": "你愿意",
@@ -157440,7 +157440,7 @@
         },
         {
           "text": "帮我吗",
-          "lemma": "帮我吗",
+          "lemma": "帮我",
           "ipa": "bāng wǒ ma",
           "translation": {
             "zh": "帮我吗",
@@ -157462,7 +157462,7 @@
       "tokens": [
         {
           "text": "她不愿意",
-          "lemma": "她不愿意",
+          "lemma": "不愿意",
           "ipa": "tā bù yuàn yì",
           "translation": {
             "zh": "她不愿意",
@@ -157494,7 +157494,7 @@
       "tokens": [
         {
           "text": "今晚的",
-          "lemma": "今晚的",
+          "lemma": "今晚",
           "ipa": "jīn wǎn de",
           "translation": {
             "zh": "今晚的",
@@ -157578,7 +157578,7 @@
       "tokens": [
         {
           "text": "他站在门口",
-          "lemma": "他站在门口",
+          "lemma": "站在门口",
           "ipa": "tā zhàn zài mén kǒu",
           "translation": {
             "zh": "他站在门口",
@@ -157674,7 +157674,7 @@
       "tokens": [
         {
           "text": "她着急地",
-          "lemma": "她着急地",
+          "lemma": "着急",
           "ipa": "tā zháo jí de",
           "translation": {
             "zh": "她着急地",
@@ -157726,7 +157726,7 @@
         },
         {
           "text": "生病的",
-          "lemma": "生病的",
+          "lemma": "生病",
           "ipa": "shēng bìng de",
           "translation": {
             "zh": "生病的",
@@ -157778,7 +157778,7 @@
         },
         {
           "text": "很多年了",
-          "lemma": "很多年了",
+          "lemma": "很多年",
           "ipa": "hěn duō nián le",
           "translation": {
             "zh": "很多年了",
@@ -157800,7 +157800,7 @@
       "tokens": [
         {
           "text": "这张照片",
-          "lemma": "这张照片",
+          "lemma": "张照片",
           "ipa": "zhè zhāng zhào piàn",
           "translation": {
             "zh": "这张照片",
@@ -157832,7 +157832,7 @@
       "tokens": [
         {
           "text": "我想",
-          "lemma": "我想",
+          "lemma": "想",
           "ipa": "wǒ xiǎng",
           "translation": {
             "zh": "我想",
@@ -157916,7 +157916,7 @@
       "tokens": [
         {
           "text": "这台照相机",
-          "lemma": "这台照相机",
+          "lemma": "台照相机",
           "ipa": "zhè tái zhào xiàng jī",
           "translation": {
             "zh": "这台照相机",
@@ -157948,7 +157948,7 @@
       "tokens": [
         {
           "text": "我只喝了",
-          "lemma": "我只喝了",
+          "lemma": "只喝",
           "ipa": "wǒ zhǐ hē le",
           "translation": {
             "zh": "我只喝了",
@@ -157980,7 +157980,7 @@
       "tokens": [
         {
           "text": "他只有",
-          "lemma": "他只有",
+          "lemma": "只有",
           "ipa": "tā zhǐ yǒu",
           "translation": {
             "zh": "他只有",
@@ -158064,7 +158064,7 @@
         },
         {
           "text": "她一个人",
-          "lemma": "她一个人",
+          "lemma": "一个人",
           "ipa": "tā yī gè rén",
           "translation": {
             "zh": "她一个人",
@@ -158096,7 +158096,7 @@
       "tokens": [
         {
           "text": "他坐在",
-          "lemma": "他坐在",
+          "lemma": "坐在",
           "ipa": "tā zuò zài",
           "translation": {
             "zh": "他坐在",
@@ -158106,7 +158106,7 @@
         },
         {
           "text": "我们中间",
-          "lemma": "我们中间",
+          "lemma": "中间",
           "ipa": "wǒ men zhōng jiān",
           "translation": {
             "zh": "我们中间",
@@ -158160,7 +158160,7 @@
       "tokens": [
         {
           "text": "他的中文",
-          "lemma": "他的中文",
+          "lemma": "的中文",
           "ipa": "tā de zhōng wén",
           "translation": {
             "zh": "他的中文",
@@ -158192,7 +158192,7 @@
       "tokens": [
         {
           "text": "我每天",
-          "lemma": "我每天",
+          "lemma": "每天",
           "ipa": "wǒ měi tiān",
           "translation": {
             "zh": "我每天",
@@ -158224,7 +158224,7 @@
       "tokens": [
         {
           "text": "她终于",
-          "lemma": "她终于",
+          "lemma": "终于",
           "ipa": "tā zhōng yú",
           "translation": {
             "zh": "她终于",
@@ -158234,7 +158234,7 @@
         },
         {
           "text": "找到工作了",
-          "lemma": "找到工作了",
+          "lemma": "找到工作",
           "ipa": "zhǎo dào gōng zuò le",
           "translation": {
             "zh": "找到工作了",
@@ -158256,7 +158256,7 @@
       "tokens": [
         {
           "text": "我们终于",
-          "lemma": "我们终于",
+          "lemma": "终于",
           "ipa": "wǒ men zhōng yú",
           "translation": {
             "zh": "我们终于",
@@ -158266,7 +158266,7 @@
         },
         {
           "text": "到家了",
-          "lemma": "到家了",
+          "lemma": "到家",
           "ipa": "dào jiā le",
           "translation": {
             "zh": "到家了",
@@ -158330,7 +158330,7 @@
       "tokens": [
         {
           "text": "这种苹果",
-          "lemma": "这种苹果",
+          "lemma": "种苹果",
           "ipa": "zhè zhǒng píng guǒ",
           "translation": {
             "zh": "这种苹果",
@@ -158414,7 +158414,7 @@
         },
         {
           "text": "一个重要的",
-          "lemma": "一个重要的",
+          "lemma": "一个重要",
           "ipa": "yī gè zhòng yào de",
           "translation": {
             "zh": "一个重要的",
@@ -158456,7 +158456,7 @@
         },
         {
           "text": "我想",
-          "lemma": "我想",
+          "lemma": "想",
           "ipa": "wǒ xiǎng",
           "translation": {
             "zh": "我想",
@@ -158572,7 +158572,7 @@
       "tokens": [
         {
           "text": "他主要",
-          "lemma": "他主要",
+          "lemma": "主要",
           "ipa": "tā zhǔ yào",
           "translation": {
             "zh": "他主要",
@@ -158710,7 +158710,7 @@
       "tokens": [
         {
           "text": "你要",
-          "lemma": "你要",
+          "lemma": "要",
           "ipa": "nǐ yào",
           "translation": {
             "zh": "你要",
@@ -158784,7 +158784,7 @@
       "tokens": [
         {
           "text": "我的自行车",
-          "lemma": "我的自行车",
+          "lemma": "的自行车",
           "ipa": "wǒ de zì xíng chē",
           "translation": {
             "zh": "我的自行车",
@@ -158794,7 +158794,7 @@
         },
         {
           "text": "坏了",
-          "lemma": "坏了",
+          "lemma": "坏",
           "ipa": "huài le",
           "translation": {
             "zh": "坏了",
@@ -158816,7 +158816,7 @@
       "tokens": [
         {
           "text": "他总是",
-          "lemma": "他总是",
+          "lemma": "总是",
           "ipa": "tā zǒng shì",
           "translation": {
             "zh": "他总是",
@@ -158922,7 +158922,7 @@
       "tokens": [
         {
           "text": "她嘴上",
-          "lemma": "她嘴上",
+          "lemma": "嘴上",
           "ipa": "tā zuǐ shàng",
           "translation": {
             "zh": "她嘴上",
@@ -158952,7 +158952,7 @@
         },
         {
           "text": "去了",
-          "lemma": "去了",
+          "lemma": "去",
           "ipa": "qù le",
           "translation": {
             "zh": "去了",
@@ -158984,7 +158984,7 @@
         },
         {
           "text": "他还是",
-          "lemma": "他还是",
+          "lemma": "还是",
           "ipa": "tā hái shì",
           "translation": {
             "zh": "他还是",
@@ -158994,7 +158994,7 @@
         },
         {
           "text": "回来了",
-          "lemma": "回来了",
+          "lemma": "回来",
           "ipa": "huí lái le",
           "translation": {
             "zh": "回来了",
@@ -159016,7 +159016,7 @@
       "tokens": [
         {
           "text": "她是",
-          "lemma": "她是",
+          "lemma": "是",
           "ipa": "tā shì",
           "translation": {
             "zh": "她是",
@@ -159036,7 +159036,7 @@
         },
         {
           "text": "最后离开的",
-          "lemma": "最后离开的",
+          "lemma": "最后离开",
           "ipa": "zuì hòu lí kāi de",
           "translation": {
             "zh": "最后离开的",
@@ -159078,7 +159078,7 @@
         },
         {
           "text": "越来越热了",
-          "lemma": "越来越热了",
+          "lemma": "越来越热",
           "ipa": "yuè lái yuè rè le",
           "translation": {
             "zh": "越来越热了",
@@ -159100,7 +159100,7 @@
       "tokens": [
         {
           "text": "他最近",
-          "lemma": "他最近",
+          "lemma": "最近",
           "ipa": "tā zuì jìn",
           "translation": {
             "zh": "他最近",
@@ -159132,7 +159132,7 @@
       "tokens": [
         {
           "text": "我还没做完",
-          "lemma": "我还没做完",
+          "lemma": "还没做完",
           "ipa": "wǒ hái méi zuò wán",
           "translation": {
             "zh": "我还没做完",
@@ -159483,7 +159483,7 @@
       "tokens": [
         {
           "text": "那么",
-          "lemma": "那么",
+          "lemma": "么",
           "ipa": "nà me",
           "translation": {
             "zh": "那",
@@ -160473,7 +160473,7 @@
         },
         {
           "text": "他穿过铁道",
-          "lemma": "穿过",
+          "lemma": "穿",
           "ipa": "tā chuān guò tiě dào",
           "translation": {
             "zh": "他越过铁轨",
@@ -160801,7 +160801,7 @@
       "tokens": [
         {
           "text": "也不过",
-          "lemma": "不过",
+          "lemma": "不",
           "ipa": "yě bù guò",
           "translation": {
             "zh": "只是",
@@ -160917,7 +160917,7 @@
         },
         {
           "text": "大地",
-          "lemma": "大地",
+          "lemma": "大",
           "ipa": "dà dì",
           "translation": {
             "zh": "土地",
@@ -160955,7 +160955,7 @@
       "tokens": [
         {
           "text": "则大地",
-          "lemma": "大地",
+          "lemma": "大",
           "ipa": "zé dà dì",
           "translation": {
             "zh": "那么大地",
@@ -160965,7 +160965,7 @@
         },
         {
           "text": "满地",
-          "lemma": "满地",
+          "lemma": "满",
           "ipa": "mǎn dì",
           "translation": {
             "zh": "遍地",
@@ -161089,7 +161089,7 @@
       "tokens": [
         {
           "text": "它们",
-          "lemma": "它们",
+          "lemma": "们",
           "ipa": "tā men",
           "translation": {
             "zh": "那些裂口",
@@ -161109,7 +161109,7 @@
         },
         {
           "text": "便随时随地",
-          "lemma": "随时随地",
+          "lemma": "随时随",
           "ipa": "biàn suí shí suí dì",
           "translation": {
             "zh": "就随时随处",
@@ -161147,7 +161147,7 @@
         },
         {
           "text": "大地",
-          "lemma": "大地",
+          "lemma": "大",
           "ipa": "dà dì",
           "translation": {
             "zh": "土地",
@@ -161407,7 +161407,7 @@
         },
         {
           "text": "半亩空地",
-          "lemma": "空地",
+          "lemma": "空",
           "ipa": "bàn mǔ kòng dì",
           "translation": {
             "zh": "一小块荒地",
