@@ -546,7 +546,11 @@ private struct MyAssetsView: View {
                 nativeLanguage: nl)).font(.caption2)
             ) {
                 HStack {
-                    Text(L("共 \(pool.count) 句", "\(pool.count) sentences total", nativeLanguage: nl))
+                    // Always show the true pool size (`session.pool.count`),
+                    // ignoring any CEFR-library filter the user has applied —
+                    // the filter only affects the list rows below, not the
+                    // pool/cap accounting up top.
+                    Text(L("共 \(session.pool.count) 句", "\(session.pool.count) sentences total", nativeLanguage: nl))
                         .font(.subheadline)
                     Spacer()
                     Text(L("容量 \(session.poolCapacity)", "Cap \(session.poolCapacity)", nativeLanguage: nl))
