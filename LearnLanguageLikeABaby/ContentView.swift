@@ -138,6 +138,40 @@ struct ContentView: View {
                     }
                 }
 
+                // ── Add-to-pool pill (focus mode, when current example is not in pool) ──
+                // restoreSentence also lifts the sentence out of mastered/later if
+                // archived — letting users "re-pick up" a known sentence from focus mode.
+                // Stacked above the centered exit pill (bottom 32) to avoid overlap.
+                if session.focusedLemma != nil
+                    && !session.pool.contains(session.currentSentence.id) {
+                    VStack {
+                        Spacer()
+                        HStack {
+                            Spacer()
+                            Button {
+                                Haptics.success()
+                                session.restoreSentence(id: session.currentSentence.id)
+                            } label: {
+                                HStack(spacing: 5) {
+                                    Image(systemName: "plus.circle.fill")
+                                        .font(.system(size: 14, weight: .semibold))
+                                    Text(L("加入播放池", "Add to pool",
+                                           nativeLanguage: session.nativeLanguage))
+                                        .font(.system(size: 13, weight: .semibold))
+                                }
+                                .foregroundStyle(Color.lllbAccent)
+                                .padding(.horizontal, 12)
+                                .padding(.vertical, 8)
+                                .background(.ultraThinMaterial, in: Capsule())
+                                .overlay(Capsule().stroke(Color.lllbAccent.opacity(0.6), lineWidth: 1))
+                            }
+                            .buttonStyle(.plain)
+                            .padding(.trailing, 20)
+                            .padding(.bottom, 100)
+                        }
+                    }
+                }
+
                 // ── Tag chips (bottom-center) ─────────────────────────────────
                 let currentTags = session.currentSentence.tags
                 if !currentTags.isEmpty {
