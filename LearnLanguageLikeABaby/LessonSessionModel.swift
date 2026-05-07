@@ -96,21 +96,32 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     @Published private(set) var laterList:      [LessonSentence] = []
 
     private func recomputeMyAssetsCache() {
-        let poolSet = Set(pool)
+        // Display lists are ordered newest-first: most recently entered pool /
+        // marked mastered / marked later appears at the top. We iterate the
+        // insertion-order ledgers in reverse and resolve to LessonSentence via
+        // a one-shot dictionary lookup.
+        let byID = Dictionary(uniqueKeysWithValues: mainSentences.map { ($0.id, $0) })
+
+        // Pool: filter by selected CEFR libraries; skip already-archived just
+        // in case (defensive — pool/archive sets shouldn't overlap).
         var filtered: [LessonSentence] = []
-        var mastered: [LessonSentence] = []
-        var later:    [LessonSentence] = []
-        for s in mainSentences {
-            let isMastered = masteredIDs.contains(s.id)
-            let isLater    = laterIDs.contains(s.id)
-            if isMastered { mastered.append(s) }
-            if isLater    { later.append(s) }
-            if poolSet.contains(s.id)
-                && selectedLibraries.contains(s.cefr)
-                && !isMastered && !isLater {
-                filtered.append(s)
-            }
+        for id in pool.reversed() {
+            guard let s = byID[id] else { continue }
+            guard selectedLibraries.contains(s.cefr) else { continue }
+            guard !masteredIDs.contains(id), !laterIDs.contains(id) else { continue }
+            filtered.append(s)
         }
+
+        var mastered: [LessonSentence] = []
+        for id in masteredOrder.reversed() {
+            if let s = byID[id] { mastered.append(s) }
+        }
+
+        var later: [LessonSentence] = []
+        for id in laterOrder.reversed() {
+            if let s = byID[id] { later.append(s) }
+        }
+
         filteredPool = filtered
         masteredList = mastered
         laterList    = later
@@ -218,6 +229,11 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     @Published var laterIDs:             Set<String> = [] {
         didSet { recomputeMyAssetsCache() }
     }
+    /// Insertion-order ledgers shadowing `masteredIDs` / `laterIDs`. Set keeps
+    /// O(1) membership; the ordered array preserves "newest first" display in
+    /// MyAssetsView. Both must be kept in sync at every mutation site.
+    private var masteredOrder: [String] = []
+    private var laterOrder:    [String] = []
     var archivedIDs: Set<String> { masteredIDs.union(laterIDs) }
     @Published var familiarIDs:         Set<String> = []
 
@@ -953,8 +969,10 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     func archiveCurrentSentence(as kind: ArchiveKind) {
         let id = currentSentence.id
         switch kind {
-        case .mastered: masteredIDs.insert(id)
-        case .later:    laterIDs.insert(id)
+        case .mastered:
+            if masteredIDs.insert(id).inserted { masteredOrder.append(id) }
+        case .later:
+            if laterIDs.insert(id).inserted { laterOrder.append(id) }
         }
         if let fIdx = favoritedIDs.firstIndex(of: id) { favoritedIDs.remove(at: fIdx) }
         familiarIDs.remove(id)
@@ -989,6 +1007,8 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     func restoreSentence(id: String) {
         masteredIDs.remove(id)
         laterIDs.remove(id)
+        masteredOrder.removeAll { $0 == id }
+        laterOrder.removeAll    { $0 == id }
         saveArchived()
         if !pool.contains(id) {
             pool.append(id)
@@ -999,6 +1019,8 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     func sellArchivedSentence(id: String) {
         masteredIDs.remove(id)
         laterIDs.remove(id)
+        masteredOrder.removeAll { $0 == id }
+        laterOrder.removeAll    { $0 == id }
         soldIDs.insert(id)
         saveArchived()
         saveSold()
@@ -1094,8 +1116,12 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         }
     }
     private func saveArchived() {
-        UserDefaults.standard.set(Array(masteredIDs), forKey: masteredStorageKey)
-        UserDefaults.standard.set(Array(laterIDs),    forKey: laterStorageKey)
+        // Persist the *ordered* arrays (insertion order, oldest first). Both
+        // legacy stores and new stores read back as `[String]`, so existing
+        // installs migrate seamlessly — they just lack reliable order until
+        // each entry is touched once after this version.
+        UserDefaults.standard.set(masteredOrder, forKey: masteredStorageKey)
+        UserDefaults.standard.set(laterOrder,    forKey: laterStorageKey)
     }
     private func savePool() {
         UserDefaults.standard.set(pool, forKey: poolStorageKey)
@@ -1381,15 +1407,22 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         // Migration: old trashedIDs → masteredIDs
         let oldKey = "trashedIDs_\(config.id)"
         if let arr = UserDefaults.standard.stringArray(forKey: oldKey), !arr.isEmpty {
-            masteredIDs = masteredIDs.union(Set(arr))
+            for id in arr where !masteredIDs.contains(id) {
+                masteredIDs.insert(id)
+                masteredOrder.append(id)
+            }
             UserDefaults.standard.removeObject(forKey: oldKey)
             saveArchived()
         }
         if let arr = UserDefaults.standard.stringArray(forKey: masteredStorageKey) {
-            masteredIDs = Set(arr)
+            // Storage is the ordered array post-migration. Reconstruct the Set
+            // from it and treat the array as the source-of-truth order.
+            masteredOrder = arr
+            masteredIDs   = Set(arr)
         }
         if let arr = UserDefaults.standard.stringArray(forKey: laterStorageKey) {
-            laterIDs = Set(arr)
+            laterOrder = arr
+            laterIDs   = Set(arr)
         }
     }
     private func saveSold() {
