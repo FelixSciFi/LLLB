@@ -1018,7 +1018,7 @@
       "tokens": [
         {
           "text": "stay active",
-          "lemma": "stay active",
+          "lemma": "stay",
           "ipa": "steɪ ˈæktɪv",
           "translation": {
             "zh": "保持活跃",
@@ -1128,7 +1128,7 @@
       "tokens": [
         {
           "text": "I actually forgot",
-          "lemma": "actually forget",
+          "lemma": "forget",
           "ipa": "aɪ ˈæktʃuəli fərˈɡɑt",
           "translation": {
             "zh": "我其实忘了",
@@ -37714,7 +37714,7 @@
       "tokens": [
         {
           "text": "listen carefully",
-          "lemma": "listen carefully",
+          "lemma": "listen",
           "ipa": "ˈlɪsən ˈkɛrfəli",
           "translation": {
             "zh": "仔细听",
@@ -37802,7 +37802,7 @@
       "tokens": [
         {
           "text": "live nearby",
-          "lemma": "live nearby",
+          "lemma": "live",
           "ipa": "lɪv ˈnɪrbaɪ",
           "translation": {
             "zh": "住在附近",
@@ -38006,7 +38006,7 @@
       "tokens": [
         {
           "text": "located downtown",
-          "lemma": "located downtown",
+          "lemma": "locate",
           "ipa": "ˈloʊkeɪtɪd ˈdaʊntaʊn",
           "translation": {
             "zh": "位于市中心",
@@ -38104,7 +38104,7 @@
       "tokens": [
         {
           "text": "feel lonely",
-          "lemma": "feel lonely",
+          "lemma": "feel",
           "ipa": "fiːl ˈloʊnli",
           "translation": {
             "zh": "感到孤独",
@@ -38190,7 +38190,7 @@
       "tokens": [
         {
           "text": "look outside",
-          "lemma": "look outside",
+          "lemma": "look",
           "ipa": "lʊk ˌaʊtˈsaɪd",
           "translation": {
             "zh": "向外看",

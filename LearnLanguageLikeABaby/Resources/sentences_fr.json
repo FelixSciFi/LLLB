@@ -6090,7 +6090,7 @@
       "tokens": [
         {
           "text": "D’accord",
-          "lemma": "d’accord",
+          "lemma": "d'accord",
           "ipa": "da.kɔʁ",
           "translation": {
             "zh": "好的",
@@ -11926,7 +11926,7 @@
       "tokens": [
         {
           "text": "S’il te plaît",
-          "lemma": "s’il te plaît",
+          "lemma": "s'il te plaît",
           "ipa": "sil tə plɛ",
           "translation": {
             "zh": "请",
@@ -12510,7 +12510,7 @@
       "tokens": [
         {
           "text": "Il se brosse",
-          "lemma": "se brosser",
+          "lemma": "brosser",
           "ipa": "il sə bʁɔs",
           "translation": {
             "zh": "他梳",
@@ -13470,7 +13470,7 @@
       "tokens": [
         {
           "text": "Je me lève",
-          "lemma": "se lever",
+          "lemma": "lever",
           "ipa": "ʒə mə lɛv",
           "translation": {
             "zh": "我起床",
@@ -14780,7 +14780,7 @@
       "tokens": [
         {
           "text": "un grand",
-          "lemma": "un grand",
+          "lemma": "grand",
           "ipa": "œ̃ ɡʁɑ̃",
           "translation": {
             "zh": "一个大",
@@ -14970,7 +14970,7 @@
         },
         {
           "text": "et un",
-          "lemma": "et un",
+          "lemma": "un",
           "ipa": "e œ̃",
           "translation": {
             "zh": "和一个",
@@ -15022,7 +15022,7 @@
         },
         {
           "text": "et du",
-          "lemma": "et du",
+          "lemma": "du",
           "ipa": "e dy",
           "translation": {
             "zh": "和一些",
@@ -15074,7 +15074,7 @@
         },
         {
           "text": "et du",
-          "lemma": "et du",
+          "lemma": "du",
           "ipa": "e dy",
           "translation": {
             "zh": "和一些",
@@ -15126,7 +15126,7 @@
         },
         {
           "text": "et du",
-          "lemma": "et du",
+          "lemma": "du",
           "ipa": "e dy",
           "translation": {
             "zh": "和一些",
@@ -15304,7 +15304,7 @@
             "zh": "卡片",
             "en": "card"
           },
-          "emoji": "🗺️"
+          "emoji": "💳"
         }
       ]
     },
@@ -15468,7 +15468,7 @@
       "tokens": [
         {
           "text": "se raser",
-          "lemma": "se raser",
+          "lemma": "raser",
           "ipa": "sə ʁaze",
           "translation": {
             "zh": "刮胡子",
@@ -15554,7 +15554,7 @@
       "tokens": [
         {
           "text": "se connecter",
-          "lemma": "se connecter",
+          "lemma": "connecter",
           "ipa": "sə kɔnɛkte",
           "translation": {
             "zh": "连接",
@@ -22590,7 +22590,7 @@
       "tokens": [
         {
           "text": "Je me réveille",
-          "lemma": "se réveiller",
+          "lemma": "réveiller",
           "ipa": "ʒə mə ʁevɛj",
           "translation": {
             "zh": "我醒来",
@@ -23336,7 +23336,7 @@
       "tokens": [
         {
           "text": "On se retrouve",
-          "lemma": "se retrouver",
+          "lemma": "retrouver",
           "ipa": "ɔ̃ sə ʁətʁuv",
           "translation": {
             "zh": "我们见面",
@@ -23506,7 +23506,7 @@
         },
         {
           "text": "s'est passé",
-          "lemma": "se passer",
+          "lemma": "passer",
           "ipa": "sɛ pase",
           "translation": {
             "zh": "发生了",
@@ -23904,7 +23904,7 @@
       "tokens": [
         {
           "text": "Trois médecins",
-          "lemma": "trois médecin",
+          "lemma": "médecin",
           "ipa": "tʁwɑ medsɛ̃",
           "translation": {
             "zh": "三位医生",
@@ -23936,7 +23936,7 @@
       "tokens": [
         {
           "text": "Quatre architectes",
-          "lemma": "quatre architecte",
+          "lemma": "architecte",
           "ipa": "katʁ aʁʃitɛkt",
           "translation": {
             "zh": "四位建筑师",
@@ -23968,7 +23968,7 @@
       "tokens": [
         {
           "text": "Un technicien",
-          "lemma": "un technicien",
+          "lemma": "technicien",
           "ipa": "œ̃ tɛknisjɛ̃",
           "translation": {
             "zh": "一位技师",
@@ -24032,7 +24032,7 @@
       "tokens": [
         {
           "text": "Cinq chercheurs",
-          "lemma": "cinq chercheur",
+          "lemma": "chercheur",
           "ipa": "sɛ̃k ʃɛʁʃœʁ",
           "translation": {
             "zh": "五位研究员",
@@ -24064,7 +24064,7 @@
       "tokens": [
         {
           "text": "Une avocate",
-          "lemma": "un avocat",
+          "lemma": "avocat",
           "ipa": "yn avɔkat",
           "translation": {
             "zh": "一位女律师",
@@ -24096,7 +24096,7 @@
       "tokens": [
         {
           "text": "Deux traducteurs",
-          "lemma": "deux traducteur",
+          "lemma": "traducteur",
           "ipa": "dø tʁadyktœʁ",
           "translation": {
             "zh": "两位翻译",
@@ -24128,7 +24128,7 @@
       "tokens": [
         {
           "text": "Trois ouvriers",
-          "lemma": "trois ouvrier",
+          "lemma": "ouvrier",
           "ipa": "tʁwɑ zuvʁije",
           "translation": {
             "zh": "三位工人",
@@ -24160,7 +24160,7 @@
       "tokens": [
         {
           "text": "Dix agriculteurs",
-          "lemma": "dix agriculteur",
+          "lemma": "agriculteur",
           "ipa": "di z‿aɡʁikyltœʁ",
           "translation": {
             "zh": "十位农民",
@@ -24192,7 +24192,7 @@
       "tokens": [
         {
           "text": "Deux comptables",
-          "lemma": "deux comptable",
+          "lemma": "comptable",
           "ipa": "dø kɔ̃tabl",
           "translation": {
             "zh": "两位会计",
@@ -24224,7 +24224,7 @@
       "tokens": [
         {
           "text": "Cinq artistes",
-          "lemma": "cinq artiste",
+          "lemma": "artiste",
           "ipa": "sɛ̃k aʁtist",
           "translation": {
             "zh": "五位艺术家",
@@ -24256,7 +24256,7 @@
       "tokens": [
         {
           "text": "Un musicien",
-          "lemma": "un musicien",
+          "lemma": "musicien",
           "ipa": "œ̃ myzisjɛ̃",
           "translation": {
             "zh": "一位音乐家",
@@ -24466,7 +24466,7 @@
       "tokens": [
         {
           "text": "Je me promène",
-          "lemma": "se promener",
+          "lemma": "promener",
           "ipa": "ʒə mə pʁɔmɛn",
           "translation": {
             "zh": "我散步",
@@ -24890,7 +24890,7 @@
       "tokens": [
         {
           "text": "On rigole",
-          "lemma": "on rigoler",
+          "lemma": "rigoler",
           "ipa": "ɔ̃ ʁiɡɔl",
           "translation": {
             "zh": "我们说笑",
@@ -24922,7 +24922,7 @@
       "tokens": [
         {
           "text": "On attend",
-          "lemma": "on attendre",
+          "lemma": "attendre",
           "ipa": "ɔ̃n‿atɑ̃",
           "translation": {
             "zh": "我们等",
@@ -25018,7 +25018,7 @@
       "tokens": [
         {
           "text": "On aime",
-          "lemma": "on aimer",
+          "lemma": "aimer",
           "ipa": "ɔ̃n‿ɛm",
           "translation": {
             "zh": "我们喜欢",
@@ -25038,7 +25038,7 @@
         },
         {
           "text": "et chanter",
-          "lemma": "et chanter",
+          "lemma": "chanter",
           "ipa": "e ʃɑ̃te",
           "translation": {
             "zh": "和唱歌",
@@ -25228,7 +25228,7 @@
         },
         {
           "text": "dépêche-toi",
-          "lemma": "se dépêcher",
+          "lemma": "dépêcher",
           "ipa": "depɛʃ twa",
           "translation": {
             "zh": "快点",
@@ -25282,7 +25282,7 @@
       "tokens": [
         {
           "text": "Vas-y",
-          "lemma": "y aller",
+          "lemma": "aller",
           "ipa": "va zi",
           "translation": {
             "zh": "去吧",
@@ -25336,7 +25336,7 @@
         },
         {
           "text": "est malade",
-          "lemma": "être malade",
+          "lemma": "malade",
           "ipa": "ɛ malad",
           "translation": {
             "zh": "生病了",
@@ -25400,7 +25400,7 @@
         },
         {
           "text": "me rejoindre",
-          "lemma": "me rejoindre",
+          "lemma": "rejoindre",
           "ipa": "mə ʁəʒwɛ̃dʁ",
           "translation": {
             "zh": "加入我",
@@ -25432,7 +25432,7 @@
         },
         {
           "text": "la remplace",
-          "lemma": "la remplacer",
+          "lemma": "remplacer",
           "ipa": "la ʁɑ̃plas",
           "translation": {
             "zh": "替她",
@@ -25680,7 +25680,7 @@
       "tokens": [
         {
           "text": "On se calme",
-          "lemma": "se calmer",
+          "lemma": "calmer",
           "ipa": "ɔ̃ sə kalm",
           "translation": {
             "zh": "冷静点",
@@ -25788,7 +25788,7 @@
       "tokens": [
         {
           "text": "Je m'appelle",
-          "lemma": "je m'appeler",
+          "lemma": "appeler",
           "ipa": "ʒə mapɛl",
           "translation": {
             "zh": "我叫",
@@ -25918,7 +25918,7 @@
       "tokens": [
         {
           "text": "Elle va",
-          "lemma": "elle aller",
+          "lemma": "aller",
           "ipa": "ɛl va",
           "translation": {
             "zh": "她将",
@@ -25928,7 +25928,7 @@
         },
         {
           "text": "me manquer",
-          "lemma": "me manquer",
+          "lemma": "manquer",
           "ipa": "mə mɑ̃kɛ",
           "translation": {
             "zh": "想念我",
@@ -25972,7 +25972,7 @@
       "tokens": [
         {
           "text": "Quel est",
-          "lemma": "quel être",
+          "lemma": "être",
           "ipa": "kɛl ɛ",
           "translation": {
             "zh": "是什么",
@@ -25982,7 +25982,7 @@
         },
         {
           "text": "ton prénom",
-          "lemma": "ton prénom",
+          "lemma": "prénom",
           "ipa": "tɔ̃ pʁenɔ̃",
           "translation": {
             "zh": "你的名字",
@@ -26004,7 +26004,7 @@
       "tokens": [
         {
           "text": "Tu ne sais plus",
-          "lemma": "tu ne savoir plus",
+          "lemma": "savoir",
           "ipa": "ty nə sɛ ply",
           "translation": {
             "zh": "你不再知道",
@@ -26024,7 +26024,7 @@
         },
         {
           "text": "tu t'appelles",
-          "lemma": "tu s'appeler",
+          "lemma": "appeler",
           "ipa": "ty tapɛl",
           "translation": {
             "zh": "你叫",
@@ -26046,7 +26046,7 @@
       "tokens": [
         {
           "text": "Ça te va",
-          "lemma": "ça te aller",
+          "lemma": "aller",
           "ipa": "sa tə va",
           "translation": {
             "zh": "适合你",
@@ -26184,7 +26184,7 @@
       "tokens": [
         {
           "text": "Vous me montrez",
-          "lemma": "vous me montrer",
+          "lemma": "montrer",
           "ipa": "vu mə mɔ̃tʁe",
           "translation": {
             "zh": "你给我看",
@@ -26194,7 +26194,7 @@
         },
         {
           "text": "votre classe",
-          "lemma": "votre classe",
+          "lemma": "classe",
           "ipa": "vɔtʁ klas",
           "translation": {
             "zh": "你的教室",
@@ -26376,7 +26376,7 @@
       "tokens": [
         {
           "text": "On se calme",
-          "lemma": "se calmer",
+          "lemma": "calmer",
           "ipa": "ɔ̃ sə kalm",
           "translation": {
             "zh": "冷静点",
@@ -26430,7 +26430,7 @@
       "tokens": [
         {
           "text": "Je me doutais",
-          "lemma": "se douter",
+          "lemma": "douter",
           "ipa": "ʒə mə dutɛ",
           "translation": {
             "zh": "我怀疑",
@@ -26462,7 +26462,7 @@
       "tokens": [
         {
           "text": "Je ne suis pas",
-          "lemma": "je être",
+          "lemma": "être",
           "ipa": "ʒə nə sɥi pa",
           "translation": {
             "zh": "我不是",
@@ -26734,7 +26734,7 @@
       "tokens": [
         {
           "text": "On se réveille",
-          "lemma": "se réveiller",
+          "lemma": "réveiller",
           "ipa": "ɔ̃ sə ʁevɛj",
           "translation": {
             "zh": "我们醒来",
@@ -27120,7 +27120,7 @@
         },
         {
           "text": "on y va",
-          "lemma": "y aller",
+          "lemma": "aller",
           "ipa": "ɔ̃ i va",
           "translation": {
             "zh": "我们走吧",
@@ -27173,7 +27173,7 @@
       "tokens": [
         {
           "text": "J'étais en route pour",
-          "lemma": "être en route",
+          "lemma": "route",
           "ipa": "ʒetɛ ɑ̃ ʁut puʁ",
           "translation": {
             "zh": "在去……的路上",
@@ -27238,7 +27238,7 @@
       "tokens": [
         {
           "text": "Vas-y",
-          "lemma": "y aller",
+          "lemma": "aller",
           "ipa": "va zi",
           "translation": {
             "zh": "去吧",
@@ -28199,7 +28199,7 @@
         },
         {
           "text": "s'en aller",
-          "lemma": "s'en aller",
+          "lemma": "aller",
           "ipa": "sɑ̃n ale",
           "translation": {
             "zh": "动身离去",
@@ -28601,7 +28601,7 @@
       "tokens": [
         {
           "text": "Se rapporte",
-          "lemma": "se rapporter",
+          "lemma": "rapporter",
           "ipa": "sə ʁapɔʁt",
           "translation": {
             "zh": "相称",
@@ -29484,7 +29484,7 @@
       "tokens": [
         {
           "text": "Je voudrais",
-          "lemma": "je vouloir",
+          "lemma": "vouloir",
           "ipa": "ʒə vudʁɛ",
           "translation": {
             "zh": "我想要",
@@ -29612,7 +29612,7 @@
       "tokens": [
         {
           "text": "Quelques minutes",
-          "lemma": "quelques minutes",
+          "lemma": "minute",
           "ipa": "kɛlk minyt",
           "translation": {
             "zh": "几分钟",
@@ -31280,7 +31280,7 @@
         },
         {
           "text": "Vous avez",
-          "lemma": "vous avoir",
+          "lemma": "avoir",
           "ipa": "vu z‿ave",
           "translation": {
             "zh": "您有",
@@ -31820,7 +31820,7 @@
       "tokens": [
         {
           "text": "Une semaine",
-          "lemma": "une semaine",
+          "lemma": "semaine",
           "ipa": "yn səmɛn",
           "translation": {
             "zh": "一周",
@@ -31842,7 +31842,7 @@
       "tokens": [
         {
           "text": "Un mois",
-          "lemma": "un mois",
+          "lemma": "mois",
           "ipa": "œ̃ mwa",
           "translation": {
             "zh": "一个月",
@@ -32334,7 +32334,7 @@
         },
         {
           "text": "tu fais",
-          "lemma": "tu faire",
+          "lemma": "faire",
           "ipa": "ty fɛ",
           "translation": {
             "zh": "你做",
@@ -32398,7 +32398,7 @@
         },
         {
           "text": "est grand",
-          "lemma": "être grand",
+          "lemma": "grand",
           "ipa": "ɛ ɡʁɑ̃",
           "translation": {
             "zh": "很大",
@@ -33034,7 +33034,7 @@
         },
         {
           "text": "vingt-trois heures",
-          "lemma": "vingt-trois heures",
+          "lemma": "heure",
           "ipa": "vɛ̃t.tʁwa.zœʁ",
           "translation": {
             "zh": "二十三点",
@@ -33314,7 +33314,7 @@
       "tokens": [
         {
           "text": "Je ressens",
-          "lemma": "je ressentir",
+          "lemma": "ressentir",
           "ipa": "ʒə ʁəsɑ̃",
           "translation": {
             "zh": "我感到",
@@ -33346,7 +33346,7 @@
       "tokens": [
         {
           "text": "Je suis",
-          "lemma": "je être",
+          "lemma": "être",
           "ipa": "ʒə sɥi",
           "translation": {
             "zh": "我是",
@@ -33378,7 +33378,7 @@
       "tokens": [
         {
           "text": "Il ressent",
-          "lemma": "il ressentir",
+          "lemma": "ressentir",
           "ipa": "il ʁəsɑ̃",
           "translation": {
             "zh": "他感到",
@@ -33410,7 +33410,7 @@
       "tokens": [
         {
           "text": "Il a",
-          "lemma": "il avoir",
+          "lemma": "avoir",
           "ipa": "il a",
           "translation": {
             "zh": "他有",
@@ -33442,7 +33442,7 @@
       "tokens": [
         {
           "text": "Je suis",
-          "lemma": "je être",
+          "lemma": "être",
           "ipa": "ʒə sɥi",
           "translation": {
             "zh": "我是",
@@ -33474,7 +33474,7 @@
       "tokens": [
         {
           "text": "Je ressens",
-          "lemma": "je ressentir",
+          "lemma": "ressentir",
           "ipa": "ʒə ʁəsɑ̃",
           "translation": {
             "zh": "我感到",
@@ -33538,7 +33538,7 @@
       "tokens": [
         {
           "text": "Je ressens",
-          "lemma": "je ressentir",
+          "lemma": "ressentir",
           "ipa": "ʒə ʁəsɑ̃",
           "translation": {
             "zh": "我感到",
@@ -33602,7 +33602,7 @@
       "tokens": [
         {
           "text": "Je suis",
-          "lemma": "je être",
+          "lemma": "être",
           "ipa": "ʒə sɥi",
           "translation": {
             "zh": "我是",
@@ -33634,7 +33634,7 @@
       "tokens": [
         {
           "text": "Il ressent",
-          "lemma": "il ressentir",
+          "lemma": "ressentir",
           "ipa": "il ʁəsɑ̃",
           "translation": {
             "zh": "他感到",
@@ -33666,7 +33666,7 @@
       "tokens": [
         {
           "text": "Il a",
-          "lemma": "il avoir",
+          "lemma": "avoir",
           "ipa": "il a",
           "translation": {
             "zh": "他有",
@@ -33698,7 +33698,7 @@
       "tokens": [
         {
           "text": "J'ai",
-          "lemma": "je avoir",
+          "lemma": "avoir",
           "ipa": "ʒe",
           "translation": {
             "zh": "我有",
@@ -33750,7 +33750,7 @@
         },
         {
           "text": "il y a",
-          "lemma": "il y avoir",
+          "lemma": "avoir",
           "ipa": "il j‿a",
           "translation": {
             "zh": "有",
@@ -34350,7 +34350,7 @@
         },
         {
           "text": "est doux",
-          "lemma": "être doux",
+          "lemma": "doux",
           "ipa": "ɛ du",
           "translation": {
             "zh": "是甜的",
@@ -34382,7 +34382,7 @@
         },
         {
           "text": "est amer",
-          "lemma": "être amer",
+          "lemma": "amer",
           "ipa": "ɛ tamɛʁ",
           "translation": {
             "zh": "是苦的",
@@ -34414,7 +34414,7 @@
         },
         {
           "text": "est salé",
-          "lemma": "être salé",
+          "lemma": "salé",
           "ipa": "ɛ sale",
           "translation": {
             "zh": "是咸的",
@@ -34436,7 +34436,7 @@
       "tokens": [
         {
           "text": "Mon ancien téléphone",
-          "lemma": "ancien téléphone",
+          "lemma": "téléphone",
           "ipa": "mɔ̃n ɑ̃sjɛ̃ telefɔn",
           "translation": {
             "zh": "我的旧手机",
@@ -35592,7 +35592,7 @@
       "tokens": [
         {
           "text": "Cette chanson",
-          "lemma": "cette chanson",
+          "lemma": "chanson",
           "ipa": "sɛt ʃɑ̃sɔ̃",
           "translation": {
             "zh": "这首歌",
@@ -35602,7 +35602,7 @@
         },
         {
           "text": "a été écoutée",
-          "lemma": "être écouté",
+          "lemma": "écouté",
           "ipa": "a ete ekute",
           "translation": {
             "zh": "被听过",
@@ -35612,7 +35612,7 @@
         },
         {
           "text": "cinq cents millions de fois",
-          "lemma": "cinq cents millions de fois",
+          "lemma": "fois",
           "ipa": "sɛ̃ sɑ̃ miljɔ̃ də fwa",
           "translation": {
             "zh": "五亿次",
@@ -36333,7 +36333,7 @@
       "tokens": [
         {
           "text": "Je me suis couché",
-          "lemma": "se coucher",
+          "lemma": "coucher",
           "ipa": "ʒə mə sɥi kuʃe",
           "translation": {
             "zh": "我上床睡觉",
@@ -37173,7 +37173,7 @@
         },
         {
           "text": "se trouve",
-          "lemma": "se trouver",
+          "lemma": "trouver",
           "ipa": "sə tʁuv",
           "translation": {
             "zh": "位于",
@@ -45152,7 +45152,7 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "il possède(posséder)",
+          "text": "il possède",
           "lemma": "posséder",
           "ipa": "il pɔ.sɛd",
           "translation": {
@@ -45260,7 +45260,7 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "tu lui ressembles(ressembler)",
+          "text": "tu lui ressembles",
           "lemma": "ressembler",
           "ipa": "ty lɥi ʁə.sɑ̃bl",
           "translation": {
@@ -45282,7 +45282,7 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "j'étudie(étudier)",
+          "text": "j'étudie",
           "lemma": "étudier",
           "ipa": "ʒe.ty.di",
           "translation": {
@@ -45336,7 +45336,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "ça paraît(paraître)",
+          "text": "ça paraît",
           "lemma": "paraître",
           "ipa": "sa pa.ʁɛ",
           "translation": {
@@ -45390,7 +45390,7 @@
       "cefr": "A2",
       "tokens": [
         {
-          "text": "ça suffit(suffire)",
+          "text": "ça suffit",
           "lemma": "suffire",
           "ipa": "sa sy.fi",
           "translation": {
@@ -45434,7 +45434,7 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "il embrasse(embrasser)",
+          "text": "il embrasse",
           "lemma": "embrasser",
           "ipa": "il ɑ̃.bʁas",
           "translation": {
@@ -45488,7 +45488,7 @@
       "cefr": "A2",
       "tokens": [
         {
-          "text": "on est obligé(obliger)",
+          "text": "on est obligé",
           "lemma": "obliger",
           "ipa": "ɔ̃ ɛ o.bli.ʒe",
           "translation": {
@@ -45596,7 +45596,7 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "elle chante(chanter)",
+          "text": "elle chante",
           "lemma": "chanter",
           "ipa": "ɛl ʃɑ̃t",
           "translation": {
@@ -45792,7 +45792,7 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "il annonce(annoncer)",
+          "text": "il annonce",
           "lemma": "annoncer",
           "ipa": "il a.nɔ̃s",
           "translation": {
@@ -46066,7 +46066,7 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "il publie(publier)",
+          "text": "il publie",
           "lemma": "publier",
           "ipa": "il pybli",
           "translation": {
@@ -46338,7 +46338,7 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "je te promets(promettre)",
+          "text": "je te promets",
           "lemma": "promettre",
           "ipa": "ʒə tə pʁɔmɛ",
           "translation": {
@@ -46524,7 +46524,7 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "on s'amuse bien(amuser)",
+          "text": "on s'amuse bien",
           "lemma": "amuser",
           "ipa": "ɔ̃ samyz bjɛ̃",
           "translation": {
@@ -47219,7 +47219,7 @@
       "id": "9f712e03-426f-4e45-a3f4-3716dbb4f52f"
     },
     {
-      "text": "je téléphone(téléphoner)",
+      "text": "je téléphone",
       "ipa": "ʒə telefɔn",
       "translation": {
         "zh": "我打电话",
@@ -47263,7 +47263,7 @@
       "id": "bd0d0541-ec3b-4f2d-9aa3-9b87f1110896"
     },
     {
-      "text": "il dirige(diriger) l'entreprise",
+      "text": "il dirige l'entreprise",
       "ipa": "il diʁiʒ lɑ̃tʁəpʁiz",
       "translation": {
         "zh": "他管理公司",
@@ -47361,7 +47361,7 @@
       "id": "8e231ddd-18c6-486c-9739-d24546836986"
     },
     {
-      "text": "j'aime voyager(voyager)",
+      "text": "j'aime voyager",
       "ipa": "ʒɛm vwajaʒe",
       "translation": {
         "zh": "我喜欢旅行",
@@ -47393,7 +47393,7 @@
       "id": "d5806bb1-5483-4a29-a68c-73f2190cc896"
     },
     {
-      "text": "ça attire(attirer) l'attention",
+      "text": "ça attire l'attention",
       "ipa": "sa atiʁ latɑ̃sjɔ̃",
       "translation": {
         "zh": "这吸引了注意力",
@@ -47425,7 +47425,7 @@
       "id": "07183771-65e9-412c-a5d2-4979a3045440"
     },
     {
-      "text": "placer(placer) un objet",
+      "text": "placer un objet",
       "ipa": "plase œ̃n ɔbʒɛ",
       "translation": {
         "zh": "放置一个物品",
@@ -47457,7 +47457,7 @@
       "id": "b350b85e-f922-481b-9997-d9413cf2e031"
     },
     {
-      "text": "participer(participer) au jeu",
+      "text": "participer au jeu",
       "ipa": "paʁtisipe o ʒø",
       "translation": {
         "zh": "参加游戏",
@@ -47489,7 +47489,7 @@
       "id": "f71de662-5a77-45fd-b997-0e9f35db7f1a"
     },
     {
-      "text": "je suis inquiet(inquiet)",
+      "text": "je suis inquiet",
       "ipa": "ʒə sɥi ɛ̃kjɛ",
       "translation": {
         "zh": "我很担心",
@@ -47533,7 +47533,7 @@
       "id": "044ada06-9b28-4b83-b224-01b6c7a7358c"
     },
     {
-      "text": "il est seul(seul)",
+      "text": "il est seul",
       "ipa": "il ɛ sœl",
       "translation": {
         "zh": "他一个人",
@@ -47555,7 +47555,7 @@
       "id": "1df8f5a6-a078-49e3-b503-059d75069372"
     },
     {
-      "text": "entraîner(entraîner) une équipe",
+      "text": "entraîner une équipe",
       "ipa": "ɑ̃tʁene yn ekip",
       "translation": {
         "zh": "训练一支队伍",
@@ -47653,7 +47653,7 @@
       "id": "27823776-7c1e-4d86-84f9-f5ca055b5721"
     },
     {
-      "text": "se reposer(reposer)",
+      "text": "se reposer",
       "ipa": "sə ʁəpoze",
       "translation": {
         "zh": "休息",
@@ -47675,7 +47675,7 @@
       "id": "dc0b3e28-30a0-4b3f-a4c1-39bdd76782e0"
     },
     {
-      "text": "ça m'a surpris(surprendre)",
+      "text": "ça m'a surpris",
       "ipa": "sa ma sypʁi",
       "translation": {
         "zh": "这让我惊讶",
@@ -47729,7 +47729,7 @@
       "id": "2e40be24-abff-4b56-ab0e-6d93fdbe6171"
     },
     {
-      "text": "peu importe(importer)",
+      "text": "peu importe",
       "ipa": "pø ɛ̃pɔʁt",
       "translation": {
         "zh": "无所谓",
@@ -47751,7 +47751,7 @@
       "id": "172215e5-268b-4d6f-85d1-73ee2c94c7e6"
     },
     {
-      "text": "je remarque(remarquer) quelque chose",
+      "text": "je remarque quelque chose",
       "ipa": "ʒə ʁəmaʁk kɛlkə ʃoz",
       "translation": {
         "zh": "我注意到一件事",
@@ -47827,7 +47827,7 @@
       "id": "0d5ee255-47fa-4a3c-bc41-4e4768d87c9b"
     },
     {
-      "text": "c'est certain(certain)",
+      "text": "c'est certain",
       "ipa": "sɛ sɛʁtɛ̃",
       "translation": {
         "zh": "这是确定的",
@@ -47947,7 +47947,7 @@
       "id": "bdf0296a-0ecc-486b-8b39-b4376854ab7e"
     },
     {
-      "text": "je suis fatigué(fatiguer)",
+      "text": "je suis fatigué",
       "ipa": "ʒə sɥi fatiɡe",
       "translation": {
         "zh": "我很累",
@@ -55293,7 +55293,7 @@
       "tokens": [
         {
           "text": "parler fort",
-          "lemma": "parler fort",
+          "lemma": "parler",
           "ipa": "paʁle fɔʁ",
           "translation": {
             "zh": "大声说话",
@@ -62473,7 +62473,7 @@
       "tokens": [
         {
           "text": "il est furieux",
-          "lemma": "être furieux",
+          "lemma": "furieux",
           "ipa": "il ɛ fyʁjø",
           "translation": {
             "zh": "他很愤怒",
@@ -62495,7 +62495,7 @@
       "tokens": [
         {
           "text": "il est pâle",
-          "lemma": "être pâle",
+          "lemma": "pâle",
           "ipa": "il ɛ pal",
           "translation": {
             "zh": "他脸色苍白",
@@ -64924,7 +64924,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "il aborde(aborder)",
+          "text": "il aborde",
           "lemma": "aborder",
           "ipa": "il abɔʁd",
           "translation": {
@@ -64988,7 +64988,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "elle réagit(réagir)",
+          "text": "elle réagit",
           "lemma": "réagir",
           "ipa": "ɛl ʁeaʒi",
           "translation": {
@@ -65150,7 +65150,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "ça ne figure pas(figurer)",
+          "text": "ça ne figure pas",
           "lemma": "figurer",
           "ipa": "sa nə fiɡyʁ pa",
           "translation": {
@@ -65246,7 +65246,7 @@
           "emoji": "👨‍⚕️"
         },
         {
-          "text": "examine(examiner)",
+          "text": "examine",
           "lemma": "examiner",
           "ipa": "ɛɡzamin",
           "translation": {
@@ -65460,7 +65460,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "ils communiquent(communiquer)",
+          "text": "ils communiquent",
           "lemma": "communiquer",
           "ipa": "il kɔmynik",
           "translation": {
@@ -65748,7 +65748,7 @@
           "emoji": "🎲"
         },
         {
-          "text": "en est jeté(jeter)",
+          "text": "en est jeté",
           "lemma": "jeter",
           "ipa": "ɑ̃n‿ɛ ʒte",
           "translation": {
@@ -66728,7 +66728,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "j'envisage(envisager)",
+          "text": "j'envisage",
           "lemma": "envisager",
           "ipa": "ʒɑ̃vizaʒ",
           "translation": {
@@ -66782,7 +66782,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "ça provient(provenir)",
+          "text": "ça provient",
           "lemma": "provenir",
           "ipa": "sa pʁɔvjɛ̃",
           "translation": {
@@ -66814,7 +66814,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "il referme(refermer)",
+          "text": "il referme",
           "lemma": "refermer",
           "ipa": "il ʁəfɛʁmə",
           "translation": {
@@ -66890,7 +66890,7 @@
       "cefr": "A2",
       "tokens": [
         {
-          "text": "je cultive(cultiver)",
+          "text": "je cultive",
           "lemma": "cultiver",
           "ipa": "ʒə kyltiv",
           "translation": {
@@ -66986,7 +66986,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "je croise(croiser)",
+          "text": "je croise",
           "lemma": "croiser",
           "ipa": "ʒə kʁwaz",
           "translation": {
@@ -67082,7 +67082,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "je parcours(parcourir)",
+          "text": "je parcours",
           "lemma": "parcourir",
           "ipa": "ʒə paʁkuʁ",
           "translation": {
@@ -67114,7 +67114,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "je recommande(recommander)",
+          "text": "je recommande",
           "lemma": "recommander",
           "ipa": "ʒə ʁəkɔmɑ̃d",
           "translation": {
@@ -67330,7 +67330,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "sois franc(franc)",
+          "text": "sois franc",
           "lemma": "franc",
           "ipa": "swa fʁɑ̃",
           "translation": {
@@ -67362,7 +67362,7 @@
       "cefr": "A2",
       "tokens": [
         {
-          "text": "il marche(marcher)",
+          "text": "il marche",
           "lemma": "marcher",
           "ipa": "il maʁʃə",
           "translation": {
@@ -68194,7 +68194,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "il faut déterminer(déterminer)",
+          "text": "il faut déterminer",
           "lemma": "déterminer",
           "ipa": "il fo detɛʁmine",
           "translation": {
@@ -68226,7 +68226,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "il enseigne(enseigner)",
+          "text": "il enseigne",
           "lemma": "enseigner",
           "ipa": "il ɑ̃sɛɲ",
           "translation": {
@@ -68386,7 +68386,7 @@
           "emoji": "🙋"
         },
         {
-          "text": "est obligatoire(être)",
+          "text": "est obligatoire",
           "lemma": "être",
           "ipa": "ɛt ɔbliɡatwaʁ",
           "translation": {
@@ -68408,7 +68408,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "on peut conclure(conclure)",
+          "text": "on peut conclure",
           "lemma": "conclure",
           "ipa": "ɔ̃ pø kɔ̃klyʁ",
           "translation": {
@@ -68494,7 +68494,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "j'ai mal(avoir)",
+          "text": "j'ai mal",
           "lemma": "avoir",
           "ipa": "ʒe mal",
           "translation": {
@@ -68526,7 +68526,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "il maîtrise(maîtriser)",
+          "text": "il maîtrise",
           "lemma": "maîtriser",
           "ipa": "il mɛtʁiz",
           "translation": {
@@ -68558,7 +68558,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "ça me trouble(troubler)",
+          "text": "ça me trouble",
           "lemma": "troubler",
           "ipa": "sa mə tʁubl",
           "translation": {
@@ -68634,7 +68634,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "il reste(rester)",
+          "text": "il reste",
           "lemma": "rester",
           "ipa": "il ʁɛst",
           "translation": {
@@ -68666,7 +68666,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "subir(subir)",
+          "text": "subir",
           "lemma": "subir",
           "ipa": "sybiʁ",
           "translation": {
@@ -68730,7 +68730,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "recueillir(recueillir)",
+          "text": "recueillir",
           "lemma": "recueillir",
           "ipa": "ʁəkœjiʁ",
           "translation": {
@@ -68762,7 +68762,7 @@
       "cefr": "A2",
       "tokens": [
         {
-          "text": "changer(changer)",
+          "text": "changer",
           "lemma": "changer",
           "ipa": "ʃɑ̃ʒe",
           "translation": {
@@ -68858,7 +68858,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "ce n'est guère(être)",
+          "text": "ce n'est guère",
           "lemma": "être",
           "ipa": "sə nɛ ɡɛʁ",
           "translation": {
@@ -68890,7 +68890,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "je vais résumer(résumer)",
+          "text": "je vais résumer",
           "lemma": "résumer",
           "ipa": "ʒə vɛ ʁezyme",
           "translation": {
@@ -68954,7 +68954,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "il m'a persuadé(persuader)",
+          "text": "il m'a persuadé",
           "lemma": "persuader",
           "ipa": "il ma pɛʁsɥade",
           "translation": {
@@ -69018,7 +69018,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "payer(payer)",
+          "text": "payer",
           "lemma": "payer",
           "ipa": "peje",
           "translation": {
@@ -69050,7 +69050,7 @@
       "cefr": "A2",
       "tokens": [
         {
-          "text": "il critique(critiquer)",
+          "text": "il critique",
           "lemma": "critiquer",
           "ipa": "il kʁitik",
           "translation": {
@@ -71174,7 +71174,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "il redescend(redescendre)",
+          "text": "il redescend",
           "lemma": "redescendre",
           "ipa": "il ʁədəsɑ̃",
           "translation": {
@@ -71272,7 +71272,7 @@
       "cefr": "A2",
       "tokens": [
         {
-          "text": "aller(aller)",
+          "text": "aller",
           "lemma": "aller",
           "ipa": "ale",
           "translation": {
@@ -71524,7 +71524,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "il guide(guider)",
+          "text": "il guide",
           "lemma": "guider",
           "ipa": "il ɡid",
           "translation": {
@@ -71622,7 +71622,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "entretenir(entretenir)",
+          "text": "entretenir",
           "lemma": "entretenir",
           "ipa": "ɑ̃tʁətniʁ",
           "translation": {
@@ -71664,7 +71664,7 @@
           "emoji": "⚔️"
         },
         {
-          "text": "éclate(éclater)",
+          "text": "éclate",
           "lemma": "éclater",
           "ipa": "eklat",
           "translation": {
@@ -71708,7 +71708,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "filmer(filmer)",
+          "text": "filmer",
           "lemma": "filmer",
           "ipa": "filme",
           "translation": {
@@ -71784,7 +71784,7 @@
       "cefr": "A2",
       "tokens": [
         {
-          "text": "il est jaloux(jaloux)",
+          "text": "il est jaloux",
           "lemma": "jaloux",
           "ipa": "il ɛ ʒalu",
           "translation": {
@@ -76726,7 +76726,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "je garantis(garantir)",
+          "text": "je garantis",
           "lemma": "garantir",
           "ipa": "ʒə ɡa.ʁɑ̃.ti",
           "translation": {
@@ -76824,7 +76824,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "il sollicite(solliciter)",
+          "text": "il sollicite",
           "lemma": "solliciter",
           "ipa": "il sɔ.li.sit",
           "translation": {
@@ -76856,7 +76856,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "enterrer(enterrer)",
+          "text": "enterrer",
           "lemma": "enterrer",
           "ipa": "ɑ̃.tɛ.ʁe",
           "translation": {
@@ -76888,7 +76888,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "trier(trier)",
+          "text": "trier",
           "lemma": "trier",
           "ipa": "tʁi.je",
           "translation": {
@@ -76996,7 +76996,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "ça caractérise(caractériser)",
+          "text": "ça caractérise",
           "lemma": "caractériser",
           "ipa": "sa ka.ʁak.te.ʁiz",
           "translation": {
@@ -77138,7 +77138,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "j'ai besoin de(avoir besoin de)",
+          "text": "j'ai besoin de",
           "lemma": "avoir besoin de",
           "ipa": "ʒe bə.zwɛ̃ də",
           "translation": {
@@ -77170,7 +77170,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "susceptible de changer(changer)",
+          "text": "susceptible de changer",
           "lemma": "changer",
           "ipa": "sy.sɛp.tibl də ʃɑ̃.ʒe",
           "translation": {
@@ -77258,7 +77258,7 @@
       "cefr": "A2",
       "tokens": [
         {
-          "text": "élire(élire)",
+          "text": "élire",
           "lemma": "élire",
           "ipa": "e.liʁ",
           "translation": {
@@ -77356,7 +77356,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "interpréter(interpréter)",
+          "text": "interpréter",
           "lemma": "interpréter",
           "ipa": "ɛ̃.tɛʁ.pʁe.te",
           "translation": {
@@ -77410,7 +77410,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "il a assassiné(assassiner)",
+          "text": "il a assassiné",
           "lemma": "assassiner",
           "ipa": "il a a.sa.si.ne",
           "translation": {
@@ -80100,7 +80100,7 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "le moulin(moulin)",
+          "text": "le moulin",
           "lemma": "moulin",
           "ipa": "lə mulɛ̃",
           "translation": {
@@ -80110,7 +80110,7 @@
           "emoji": "🏠"
         },
         {
-          "text": "à vent(vent)",
+          "text": "à vent",
           "lemma": "vent",
           "ipa": "a vɑ̃",
           "translation": {
@@ -80132,7 +80132,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "financer(financer)",
+          "text": "financer",
           "lemma": "financer",
           "ipa": "finɑ̃se",
           "translation": {
@@ -80142,7 +80142,7 @@
           "emoji": "💰"
         },
         {
-          "text": "un projet(projet)",
+          "text": "un projet",
           "lemma": "projet",
           "ipa": "œ̃ pʁɔʒɛ",
           "translation": {
@@ -80164,7 +80164,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "un salaire(salaire)",
+          "text": "un salaire",
           "lemma": "salaire",
           "ipa": "œ̃ salɛʁ",
           "translation": {
@@ -80174,7 +80174,7 @@
           "emoji": "💵"
         },
         {
-          "text": "fixe(fixe)",
+          "text": "fixe",
           "lemma": "fixe",
           "ipa": "fiks",
           "translation": {
@@ -80196,7 +80196,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "c'est correct(correct)",
+          "text": "c'est correct",
           "lemma": "correct",
           "ipa": "sɛ kɔʁɛkt",
           "translation": {
@@ -80218,7 +80218,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "assumer(assumer)",
+          "text": "assumer",
           "lemma": "assumer",
           "ipa": "asyme",
           "translation": {
@@ -80228,7 +80228,7 @@
           "emoji": ""
         },
         {
-          "text": "ses responsabilités(responsabilité)",
+          "text": "ses responsabilités",
           "lemma": "responsabilité",
           "ipa": "se ʁɛspɔ̃sabilite",
           "translation": {
@@ -80250,7 +80250,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "dénoncer(dénoncer)",
+          "text": "dénoncer",
           "lemma": "dénoncer",
           "ipa": "denɔ̃se",
           "translation": {
@@ -80260,7 +80260,7 @@
           "emoji": ""
         },
         {
-          "text": "une injustice(injustice)",
+          "text": "une injustice",
           "lemma": "injustice",
           "ipa": "yn ɛ̃ʒystis",
           "translation": {
@@ -80282,7 +80282,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "le sens(sens)",
+          "text": "le sens",
           "lemma": "sens",
           "ipa": "lə sɑ̃s",
           "translation": {
@@ -80292,7 +80292,7 @@
           "emoji": ""
         },
         {
-          "text": "esthétique(esthétique)",
+          "text": "esthétique",
           "lemma": "esthétique",
           "ipa": "ɛstetik",
           "translation": {
@@ -80314,7 +80314,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "une contrainte(contrainte)",
+          "text": "une contrainte",
           "lemma": "contrainte",
           "ipa": "yn kɔ̃tʁɛ̃t",
           "translation": {
@@ -80324,7 +80324,7 @@
           "emoji": ""
         },
         {
-          "text": "de temps(temps)",
+          "text": "de temps",
           "lemma": "temps",
           "ipa": "də tɑ̃",
           "translation": {
@@ -80346,7 +80346,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "les traits(trait)",
+          "text": "les traits",
           "lemma": "trait",
           "ipa": "le tʁɛ",
           "translation": {
@@ -80356,7 +80356,7 @@
           "emoji": ""
         },
         {
-          "text": "du visage(visage)",
+          "text": "du visage",
           "lemma": "visage",
           "ipa": "dy vizaʒ",
           "translation": {
@@ -80378,7 +80378,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "renverser(renverser)",
+          "text": "renverser",
           "lemma": "renverser",
           "ipa": "ʁɑ̃vɛʁse",
           "translation": {
@@ -80388,7 +80388,7 @@
           "emoji": ""
         },
         {
-          "text": "un verre(verre)",
+          "text": "un verre",
           "lemma": "verre",
           "ipa": "œ̃ vɛʁ",
           "translation": {
@@ -80410,7 +80410,7 @@
       "cefr": "A2",
       "tokens": [
         {
-          "text": "de la crème(crème)",
+          "text": "de la crème",
           "lemma": "crème",
           "ipa": "də la kʁɛm",
           "translation": {
@@ -80420,7 +80420,7 @@
           "emoji": "🥛"
         },
         {
-          "text": "fraîche(frais)",
+          "text": "fraîche",
           "lemma": "frais",
           "ipa": "fʁɛʃ",
           "translation": {
@@ -80442,7 +80442,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "un romancier(romancier)",
+          "text": "un romancier",
           "lemma": "romancier",
           "ipa": "œ̃ ʁɔmɑ̃sje",
           "translation": {
@@ -80452,7 +80452,7 @@
           "emoji": "✍️"
         },
         {
-          "text": "célèbre(célèbre)",
+          "text": "célèbre",
           "lemma": "célèbre",
           "ipa": "selɛbʁ",
           "translation": {
@@ -80474,7 +80474,7 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "je vous félicite(féliciter)",
+          "text": "je vous félicite",
           "lemma": "féliciter",
           "ipa": "ʒə vu felisit",
           "translation": {
@@ -80496,7 +80496,7 @@
       "cefr": "A2",
       "tokens": [
         {
-          "text": "une randonnée(randonnée)",
+          "text": "une randonnée",
           "lemma": "randonnée",
           "ipa": "yn ʁɑ̃dɔne",
           "translation": {
@@ -80506,7 +80506,7 @@
           "emoji": "🥾"
         },
         {
-          "text": "en montagne(montagne)",
+          "text": "en montagne",
           "lemma": "montagne",
           "ipa": "ɑ̃ mɔ̃taɲ",
           "translation": {
@@ -80528,7 +80528,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "le berger(berger)",
+          "text": "le berger",
           "lemma": "berger",
           "ipa": "lə bɛʁʒe",
           "translation": {
@@ -80538,7 +80538,7 @@
           "emoji": ""
         },
         {
-          "text": "garde(garder)",
+          "text": "garde",
           "lemma": "garder",
           "ipa": "ɡaʁd",
           "translation": {
@@ -80548,7 +80548,7 @@
           "emoji": ""
         },
         {
-          "text": "ses moutons(mouton)",
+          "text": "ses moutons",
           "lemma": "mouton",
           "ipa": "se mutɔ̃",
           "translation": {
@@ -80570,7 +80570,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "par conséquent(conséquent)",
+          "text": "par conséquent",
           "lemma": "conséquent",
           "ipa": "paʁ kɔ̃sekɑ̃",
           "translation": {
@@ -80592,7 +80592,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "c'est douloureux(douloureux)",
+          "text": "c'est douloureux",
           "lemma": "douloureux",
           "ipa": "sɛ duluʁø",
           "translation": {
@@ -80614,7 +80614,7 @@
       "cefr": "A2",
       "tokens": [
         {
-          "text": "une merveille(merveille)",
+          "text": "une merveille",
           "lemma": "merveille",
           "ipa": "yn mɛʁvɛj",
           "translation": {
@@ -80624,7 +80624,7 @@
           "emoji": "✨"
         },
         {
-          "text": "de la nature(nature)",
+          "text": "de la nature",
           "lemma": "nature",
           "ipa": "də la natyʁ",
           "translation": {
@@ -80646,7 +80646,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "de qualité(qualité)",
+          "text": "de qualité",
           "lemma": "qualité",
           "ipa": "də kalite",
           "translation": {
@@ -80656,7 +80656,7 @@
           "emoji": ""
         },
         {
-          "text": "inférieure(inférieur)",
+          "text": "inférieure",
           "lemma": "inférieur",
           "ipa": "ɛ̃feʁjœʁ",
           "translation": {
@@ -80678,7 +80678,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "la rentrée(rentrée)",
+          "text": "la rentrée",
           "lemma": "rentrée",
           "ipa": "la ʁɑ̃tʁe",
           "translation": {
@@ -80688,7 +80688,7 @@
           "emoji": "🎒"
         },
         {
-          "text": "scolaire(scolaire)",
+          "text": "scolaire",
           "lemma": "scolaire",
           "ipa": "skɔlɛʁ",
           "translation": {
@@ -80710,7 +80710,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "son comportement(comportement)",
+          "text": "son comportement",
           "lemma": "comportement",
           "ipa": "sɔ̃ kɔ̃pɔʁtəmɑ̃",
           "translation": {
@@ -80720,7 +80720,7 @@
           "emoji": ""
         },
         {
-          "text": "habituel(habituel)",
+          "text": "habituel",
           "lemma": "habituel",
           "ipa": "abitɥɛl",
           "translation": {
@@ -80742,7 +80742,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "suspendre(suspendre)",
+          "text": "suspendre",
           "lemma": "suspendre",
           "ipa": "syspɑ̃dʁ",
           "translation": {
@@ -80752,7 +80752,7 @@
           "emoji": ""
         },
         {
-          "text": "un tableau(tableau)",
+          "text": "un tableau",
           "lemma": "tableau",
           "ipa": "œ̃ tablo",
           "translation": {
@@ -80774,7 +80774,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "un cours(cours)",
+          "text": "un cours",
           "lemma": "cours",
           "ipa": "œ̃ kuʁ",
           "translation": {
@@ -80784,7 +80784,7 @@
           "emoji": "📚"
         },
         {
-          "text": "de chimie(chimie)",
+          "text": "de chimie",
           "lemma": "chimie",
           "ipa": "də ʃimi",
           "translation": {
@@ -80806,7 +80806,7 @@
       "cefr": "A2",
       "tokens": [
         {
-          "text": "un professeur(professeur)",
+          "text": "un professeur",
           "lemma": "professeur",
           "ipa": "œ̃ pʁɔfɛsœʁ",
           "translation": {
@@ -80816,7 +80816,7 @@
           "emoji": "👩‍🏫"
         },
         {
-          "text": "sévère(sévère)",
+          "text": "sévère",
           "lemma": "sévère",
           "ipa": "sevɛʁ",
           "translation": {
@@ -80838,7 +80838,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "le duc(duc)",
+          "text": "le duc",
           "lemma": "duc",
           "ipa": "lə dyk",
           "translation": {
@@ -80848,7 +80848,7 @@
           "emoji": "👑"
         },
         {
-          "text": "et la duchesse(duchesse)",
+          "text": "et la duchesse",
           "lemma": "duchesse",
           "ipa": "e la dyʃɛs",
           "translation": {
@@ -80870,7 +80870,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "lutter(lutter)",
+          "text": "lutter",
           "lemma": "lutter",
           "ipa": "lyte",
           "translation": {
@@ -80880,7 +80880,7 @@
           "emoji": "✊"
         },
         {
-          "text": "contre le racisme(racisme)",
+          "text": "contre le racisme",
           "lemma": "racisme",
           "ipa": "kɔ̃tʁ lə ʁasism",
           "translation": {
@@ -80902,7 +80902,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "un sentiment(sentiment)",
+          "text": "un sentiment",
           "lemma": "sentiment",
           "ipa": "œ̃ sɑ̃timɑ̃",
           "translation": {
@@ -80912,7 +80912,7 @@
           "emoji": ""
         },
         {
-          "text": "d'appartenance(appartenance)",
+          "text": "d'appartenance",
           "lemma": "appartenance",
           "ipa": "dapaʁtənɑ̃s",
           "translation": {
@@ -80934,7 +80934,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "une description(description)",
+          "text": "une description",
           "lemma": "description",
           "ipa": "yn dɛskʁipsjɔ̃",
           "translation": {
@@ -80944,7 +80944,7 @@
           "emoji": "📝"
         },
         {
-          "text": "détaillée(détaillé)",
+          "text": "détaillée",
           "lemma": "détaillé",
           "ipa": "detaje",
           "translation": {
@@ -80966,7 +80966,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "la discipline(discipline)",
+          "text": "la discipline",
           "lemma": "discipline",
           "ipa": "la disiplin",
           "translation": {
@@ -80976,7 +80976,7 @@
           "emoji": ""
         },
         {
-          "text": "scolaire(scolaire)",
+          "text": "scolaire",
           "lemma": "scolaire",
           "ipa": "skɔlɛʁ",
           "translation": {
@@ -80998,7 +80998,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "la gestion(gestion)",
+          "text": "la gestion",
           "lemma": "gestion",
           "ipa": "la ʒɛstjɔ̃",
           "translation": {
@@ -81008,7 +81008,7 @@
           "emoji": ""
         },
         {
-          "text": "du temps(temps)",
+          "text": "du temps",
           "lemma": "temps",
           "ipa": "dy tɑ̃",
           "translation": {
@@ -88192,7 +88192,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "ils projettent(projeter)",
+          "text": "ils projettent",
           "lemma": "projeter",
           "ipa": "il pʁɔʒɛt",
           "translation": {
@@ -88224,7 +88224,7 @@
       "cefr": "A2",
       "tokens": [
         {
-          "text": "je prends(prendre)",
+          "text": "je prends",
           "lemma": "prendre",
           "ipa": "ʒə pʁɑ̃",
           "translation": {
@@ -88396,7 +88396,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "ils se costument(costumer)",
+          "text": "ils se costument",
           "lemma": "costumer",
           "ipa": "il sə kɔstym",
           "translation": {
@@ -88514,7 +88514,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "elle s'est évanouie(s'évanouir)",
+          "text": "elle s'est évanouie",
           "lemma": "évanouir",
           "ipa": "ɛl sɛ evanwi",
           "translation": {
@@ -88580,7 +88580,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "on généralise(généraliser)",
+          "text": "on généralise",
           "lemma": "généraliser",
           "ipa": "ɔ̃ ʒeneʁaliz",
           "translation": {
@@ -88644,7 +88644,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "je photographie(photographier)",
+          "text": "je photographie",
           "lemma": "photographier",
           "ipa": "ʒə fɔtɔɡʁafi",
           "translation": {
@@ -88774,7 +88774,7 @@
       "cefr": "A2",
       "tokens": [
         {
-          "text": "elles bavardent(bavarder)",
+          "text": "elles bavardent",
           "lemma": "bavarder",
           "ipa": "ɛl bavaʁd",
           "translation": {
@@ -88806,7 +88806,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "ça me ravit(ravir)",
+          "text": "ça me ravit",
           "lemma": "ravir",
           "ipa": "sa mə ʁavi",
           "translation": {
@@ -99034,7 +99034,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "un travail(travail)",
+          "text": "un travail",
           "lemma": "travail",
           "ipa": "œ̃ tʁavaj",
           "translation": {
@@ -99066,7 +99066,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "c'est vilain(être)",
+          "text": "c'est vilain",
           "lemma": "être",
           "ipa": "sɛ vilɛ̃",
           "translation": {
@@ -99088,7 +99088,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "le désordre(désordre)",
+          "text": "le désordre",
           "lemma": "désordre",
           "ipa": "lə dezɔʁdʁ",
           "translation": {
@@ -99110,7 +99110,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "ça(ça)",
+          "text": "ça",
           "lemma": "ça",
           "ipa": "sa",
           "translation": {
@@ -99120,7 +99120,7 @@
           "emoji": ""
         },
         {
-          "text": "me fascine(fasciner)",
+          "text": "me fascine",
           "lemma": "fasciner",
           "ipa": "mə fasin",
           "translation": {
@@ -99142,7 +99142,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "ressortir(ressortir)",
+          "text": "ressortir",
           "lemma": "ressortir",
           "ipa": "ʁəsɔʁtiʁ",
           "translation": {
@@ -99174,7 +99174,7 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "une crêpe(crêpe)",
+          "text": "une crêpe",
           "lemma": "crêpe",
           "ipa": "yn kʁɛp",
           "translation": {
@@ -99196,7 +99196,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "un exemple(exemple)",
+          "text": "un exemple",
           "lemma": "exemple",
           "ipa": "œ̃ ɛɡzɑ̃pl",
           "translation": {
@@ -99228,7 +99228,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "le terroir(terroir)",
+          "text": "le terroir",
           "lemma": "terroir",
           "ipa": "lə tɛʁwaʁ",
           "translation": {
@@ -99250,7 +99250,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "le jury(jury)",
+          "text": "le jury",
           "lemma": "jury",
           "ipa": "lə ʒyʁi",
           "translation": {
@@ -99272,7 +99272,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "régir(régir)",
+          "text": "régir",
           "lemma": "régir",
           "ipa": "ʁeʒiʁ",
           "translation": {
@@ -99282,7 +99282,7 @@
           "emoji": ""
         },
         {
-          "text": "une organisation(organisation)",
+          "text": "une organisation",
           "lemma": "organisation",
           "ipa": "yn ɔʁɡanizasjɔ̃",
           "translation": {
@@ -99304,7 +99304,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "les conditions(condition)",
+          "text": "les conditions",
           "lemma": "condition",
           "ipa": "le kɔ̃disjɔ̃",
           "translation": {
@@ -99336,7 +99336,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "avec rigueur(rigueur)",
+          "text": "avec rigueur",
           "lemma": "rigueur",
           "ipa": "avɛk ʁiɡœʁ",
           "translation": {
@@ -99358,7 +99358,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "un sandwich(sandwich)",
+          "text": "un sandwich",
           "lemma": "sandwich",
           "ipa": "œ̃ sɑ̃dwitʃ",
           "translation": {
@@ -99380,7 +99380,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "la délinquance(délinquance)",
+          "text": "la délinquance",
           "lemma": "délinquance",
           "ipa": "la delɛ̃kɑ̃s",
           "translation": {
@@ -99402,7 +99402,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "la confédération(confédération)",
+          "text": "la confédération",
           "lemma": "confédération",
           "ipa": "la kɔ̃fedeʁasjɔ̃",
           "translation": {
@@ -99424,7 +99424,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "un senior(senior)",
+          "text": "un senior",
           "lemma": "senior",
           "ipa": "œ̃ senjɔʁ",
           "translation": {
@@ -99446,7 +99446,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "la cible(cible)",
+          "text": "la cible",
           "lemma": "cible",
           "ipa": "la sibl",
           "translation": {
@@ -99468,7 +99468,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "l'émergence(émergence)",
+          "text": "l'émergence",
           "lemma": "émergence",
           "ipa": "lemɛʁʒɑ̃s",
           "translation": {
@@ -99490,7 +99490,7 @@
       "cefr": "A2",
       "tokens": [
         {
-          "text": "on va(aller)",
+          "text": "on va",
           "lemma": "aller",
           "ipa": "ɔ̃ va",
           "translation": {
@@ -99500,7 +99500,7 @@
           "emoji": ""
         },
         {
-          "text": "au resto(resto)",
+          "text": "au resto",
           "lemma": "resto",
           "ipa": "o ʁɛsto",
           "translation": {
@@ -99522,7 +99522,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "le pilote(pilote)",
+          "text": "le pilote",
           "lemma": "pilote",
           "ipa": "lə pilɔt",
           "translation": {
@@ -99544,7 +99544,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "décliner(décliner)",
+          "text": "décliner",
           "lemma": "décliner",
           "ipa": "dekline",
           "translation": {
@@ -99554,7 +99554,7 @@
           "emoji": ""
         },
         {
-          "text": "une offre(offre)",
+          "text": "une offre",
           "lemma": "offre",
           "ipa": "yn ɔfʁ",
           "translation": {
@@ -99576,7 +99576,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "l'héritier(héritier)",
+          "text": "l'héritier",
           "lemma": "héritier",
           "ipa": "leʁitje",
           "translation": {
@@ -99598,7 +99598,7 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "ils divorcent(divorcer)",
+          "text": "ils divorcent",
           "lemma": "divorcer",
           "ipa": "il divɔʁs",
           "translation": {
@@ -99620,7 +99620,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "ça s'avère(avérer)",
+          "text": "ça s'avère",
           "lemma": "avérer",
           "ipa": "sa savɛʁ",
           "translation": {
@@ -99652,7 +99652,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "l'écologie(écologie)",
+          "text": "l'écologie",
           "lemma": "écologie",
           "ipa": "lekɔlɔʒi",
           "translation": {
@@ -99674,7 +99674,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "c'est malin(être)",
+          "text": "c'est malin",
           "lemma": "être",
           "ipa": "sɛ malɛ̃",
           "translation": {
@@ -99696,7 +99696,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "un intellectuel(intellectuel)",
+          "text": "un intellectuel",
           "lemma": "intellectuel",
           "ipa": "œ̃ ɛ̃tɛlɛktɥɛl",
           "translation": {
@@ -99718,7 +99718,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "la paroi(paroi)",
+          "text": "la paroi",
           "lemma": "paroi",
           "ipa": "la paʁwa",
           "translation": {
@@ -99917,7 +99917,7 @@
       "tokens": [
         {
           "text": "il est gêné",
-          "lemma": "être gêné",
+          "lemma": "gêné",
           "ipa": "il ɛ ʒɛne",
           "translation": {
             "zh": "感到尴尬",
@@ -101246,7 +101246,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "il émerge(émerger)",
+          "text": "il émerge",
           "lemma": "émerger",
           "ipa": "il emeʁʒ",
           "translation": {
@@ -101344,7 +101344,7 @@
       "cefr": "B1",
       "tokens": [
         {
-          "text": "il porte(porter)",
+          "text": "il porte",
           "lemma": "porter",
           "ipa": "il pɔʁt",
           "translation": {
@@ -101420,7 +101420,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "il milite(militer)",
+          "text": "il milite",
           "lemma": "militer",
           "ipa": "il milit",
           "translation": {
@@ -101768,7 +101768,7 @@
       "cefr": "B2",
       "tokens": [
         {
-          "text": "il dévoile(dévoiler)",
+          "text": "il dévoile",
           "lemma": "dévoiler",
           "ipa": "il devwal",
           "translation": {
@@ -102097,7 +102097,7 @@
         },
         {
           "text": "est interdite",
-          "lemma": "être interdit",
+          "lemma": "interdit",
           "ipa": "ɛ tɛ̃tɛʁdi",
           "translation": {
             "zh": "是被禁止的",
@@ -120873,7 +120873,7 @@
       "tokens": [
         {
           "text": "c'est illégal",
-          "lemma": "être illégal",
+          "lemma": "illégal",
           "ipa": "sɛ i.le.ɡal",
           "translation": {
             "zh": "违法的",
@@ -128985,7 +128985,7 @@
       "tokens": [
         {
           "text": "je suis reconnaissant",
-          "lemma": "être reconnaissant",
+          "lemma": "reconnaissant",
           "ipa": "ʒə sɥi ʁəkɔnɛsɑ̃",
           "translation": {
             "zh": "我很感激",
@@ -134881,7 +134881,7 @@
       "tokens": [
         {
           "text": "Il y avait",
-          "lemma": "il y avoir",
+          "lemma": "avoir",
           "ipa": "il j avɛ",
           "translation": {
             "zh": "曾有",
@@ -135399,7 +135399,7 @@
         },
         {
           "text": "qu'il m'en souvienne",
-          "lemma": "se souvenir",
+          "lemma": "souvenir",
           "ipa": "kil m‿ɑ̃ suvjɛn",
           "translation": {
             "zh": "我记起它",
@@ -135523,7 +135523,7 @@
         },
         {
           "text": "s'en vont",
-          "lemma": "s'en aller",
+          "lemma": "aller",
           "ipa": "s‿ɑ̃ vɔ̃",
           "translation": {
             "zh": "流逝",
@@ -136005,7 +136005,7 @@
       "tokens": [
         {
           "text": "Si je devais vivre",
-          "lemma": "devoir vivre",
+          "lemma": "vivre",
           "ipa": "si ʒə dəvɛ vivʁ",
           "translation": {
             "zh": "若我须活",
@@ -136091,7 +136091,7 @@
         },
         {
           "text": "dans lesquels je me suis trouvé",
-          "lemma": "se trouver",
+          "lemma": "trouver",
           "ipa": "dɑ̃ lekɛl ʒə mə sɥi tʁuve",
           "translation": {
             "zh": "我身处其中",
@@ -136349,7 +136349,7 @@
       "tokens": [
         {
           "text": "s'en allaient",
-          "lemma": "s'en aller",
+          "lemma": "aller",
           "ipa": "sɑ̃n alɛ",
           "translation": {
             "zh": "它们离去",
@@ -136473,7 +136473,7 @@
       "tokens": [
         {
           "text": "quand le proviseur",
-          "lemma": "quand le proviseur",
+          "lemma": "proviseur",
           "ipa": "kɑ̃ lə pʁɔvizœʁ",
           "translation": {
             "zh": "当校长",
@@ -136511,7 +136511,7 @@
       "tokens": [
         {
           "text": "suivi d'un nouveau",
-          "lemma": "suivre un nouveau",
+          "lemma": "suivre",
           "ipa": "sɥivi dœ̃ nuvo",
           "translation": {
             "zh": "跟着新生",
@@ -136521,7 +136521,7 @@
         },
         {
           "text": "habillé en bourgeois",
-          "lemma": "habiller en bourgeois",
+          "lemma": "habiller",
           "ipa": "abije ɑ̃ buʁʒwa",
           "translation": {
             "zh": "穿着便服",
@@ -136569,7 +136569,7 @@
         },
         {
           "text": "un grand pupitre",
-          "lemma": "grand pupitre",
+          "lemma": "pupitre",
           "ipa": "œ̃ ɡʁɑ̃ pypitʁ",
           "translation": {
             "zh": "大书桌",
@@ -136597,7 +136597,7 @@
       "tokens": [
         {
           "text": "Ceux qui dormaient",
-          "lemma": "ceux qui dormir",
+          "lemma": "dormir",
           "ipa": "sø ki dɔʁmɛ",
           "translation": {
             "zh": "睡着的人",
@@ -136607,7 +136607,7 @@
         },
         {
           "text": "se réveillèrent",
-          "lemma": "se réveiller",
+          "lemma": "réveiller",
           "ipa": "sə ʁevɛjɛʁ",
           "translation": {
             "zh": "醒来",
@@ -136645,7 +136645,7 @@
         },
         {
           "text": "se leva",
-          "lemma": "se lever",
+          "lemma": "lever",
           "ipa": "sə ləva",
           "translation": {
             "zh": "站起",
@@ -138047,7 +138047,7 @@
         },
         {
           "text": "je me suis couché",
-          "lemma": "se coucher",
+          "lemma": "coucher",
           "ipa": "ʒə mə sɥi kuʃe",
           "translation": {
             "zh": "我上床睡了",
@@ -138153,7 +138153,7 @@
         },
         {
           "text": "se fermaient",
-          "lemma": "se fermer",
+          "lemma": "fermer",
           "ipa": "sə fɛʁmɛ",
           "translation": {
             "zh": "闭上",
@@ -138201,7 +138201,7 @@
         },
         {
           "text": "de me dire",
-          "lemma": "se dire",
+          "lemma": "dire",
           "ipa": "də mə diʁ",
           "translation": {
             "zh": "对自己说",
@@ -138315,7 +138315,7 @@
       "tokens": [
         {
           "text": "Je ne me sentis plus",
-          "lemma": "se sentir",
+          "lemma": "sentir",
           "ipa": "ʒə nə mə sɑ̃ti ply",
           "translation": {
             "zh": "我不再感到",
