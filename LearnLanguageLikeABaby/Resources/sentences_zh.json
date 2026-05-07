@@ -8750,24 +8750,14 @@
       "cefr": "HSK1",
       "tokens": [
         {
-          "text": "你来",
+          "text": "你来吗",
           "lemma": "来",
-          "ipa": "nǐ lái",
+          "ipa": "nǐ lái ma",
           "translation": {
             "zh": "你来",
             "en": "you come"
           },
           "emoji": "🚶"
-        },
-        {
-          "text": "吗",
-          "lemma": "吗",
-          "ipa": "ma",
-          "translation": {
-            "zh": "吗",
-            "en": "(question)"
-          },
-          "emoji": "❓"
         }
       ],
       "id": "723253e1-6491-474f-8cdd-9e8b979c9140"
@@ -13666,24 +13656,14 @@
           "emoji": "📞"
         },
         {
-          "text": "听见",
+          "text": "听见吗",
           "lemma": "听见",
-          "ipa": "tīng jiàn",
+          "ipa": "tīng jiàn ma",
           "translation": {
             "zh": "听见",
             "en": "hear"
           },
           "emoji": "👂"
-        },
-        {
-          "text": "吗",
-          "lemma": "吗",
-          "ipa": "ma",
-          "translation": {
-            "zh": "吗",
-            "en": "(question)"
-          },
-          "emoji": "❓"
         }
       ],
       "id": "1f3b1d8e-4e03-4306-a133-96044ba62618"
@@ -13922,24 +13902,14 @@
       "cefr": "HSK1",
       "tokens": [
         {
-          "text": "五点",
+          "text": "五点了",
           "lemma": "五点",
-          "ipa": "wǔ diǎn",
+          "ipa": "wǔ diǎn le",
           "translation": {
             "zh": "五点",
             "en": "five o'clock"
           },
           "emoji": "🕔"
-        },
-        {
-          "text": "了",
-          "lemma": "了",
-          "ipa": "le",
-          "translation": {
-            "zh": "了",
-            "en": "(now)"
-          },
-          "emoji": "✅"
         }
       ],
       "id": "94793939-3c5f-4367-82c3-38661501cc78"
@@ -14050,24 +14020,14 @@
       "cefr": "HSK1",
       "tokens": [
         {
-          "text": "你喜欢",
+          "text": "你喜欢吗",
           "lemma": "喜欢",
-          "ipa": "nǐ xǐ huān",
+          "ipa": "nǐ xǐ huān ma",
           "translation": {
             "zh": "你喜欢",
             "en": "you like"
           },
           "emoji": "❤️"
-        },
-        {
-          "text": "吗",
-          "lemma": "吗",
-          "ipa": "ma",
-          "translation": {
-            "zh": "吗",
-            "en": "(question)"
-          },
-          "emoji": "❓"
         }
       ],
       "id": "eb965ccd-a956-4152-bd5b-9749f43c3a71"
@@ -14284,24 +14244,14 @@
       "cefr": "HSK1",
       "tokens": [
         {
-          "text": "下雨",
+          "text": "下雨了",
           "lemma": "下雨",
-          "ipa": "xià yǔ",
+          "ipa": "xià yǔ le",
           "translation": {
             "zh": "下雨",
             "en": "rain"
           },
           "emoji": "🌧️"
-        },
-        {
-          "text": "了",
-          "lemma": "了",
-          "ipa": "le",
-          "translation": {
-            "zh": "了",
-            "en": "(now)"
-          },
-          "emoji": "✅"
         }
       ],
       "id": "33026e48-e186-4144-882e-a8aac7db9b8c"
@@ -14358,24 +14308,14 @@
           "emoji": "📅"
         },
         {
-          "text": "下雨",
+          "text": "下雨吗",
           "lemma": "下雨",
-          "ipa": "xià yǔ",
+          "ipa": "xià yǔ ma",
           "translation": {
             "zh": "下雨",
             "en": "rain"
           },
           "emoji": "🌧️"
-        },
-        {
-          "text": "吗",
-          "lemma": "吗",
-          "ipa": "ma",
-          "translation": {
-            "zh": "吗",
-            "en": "(question)"
-          },
-          "emoji": "❓"
         }
       ],
       "id": "292d0367-56c5-4cbf-8409-2317ded05283"
@@ -14484,24 +14424,14 @@
           "emoji": "🤵"
         },
         {
-          "text": "在",
+          "text": "在吗",
           "lemma": "在",
-          "ipa": "zài",
+          "ipa": "zài ma",
           "translation": {
             "zh": "在",
             "en": "here"
           },
           "emoji": "📍"
-        },
-        {
-          "text": "吗",
-          "lemma": "吗",
-          "ipa": "ma",
-          "translation": {
-            "zh": "吗",
-            "en": "(question)"
-          },
-          "emoji": "❓"
         }
       ],
       "id": "52b0a3ca-0d3c-4b7d-ac35-36011d5b8c83"
@@ -30137,24 +30067,14 @@
           "emoji": "🛒"
         },
         {
-          "text": "西瓜",
+          "text": "西瓜吗",
           "lemma": "西瓜",
-          "ipa": "xī ɡuā",
+          "ipa": "xī ɡuā ma",
           "translation": {
             "zh": "西瓜",
             "en": "watermelon"
           },
           "emoji": "🍉"
-        },
-        {
-          "text": "吗",
-          "lemma": "吗",
-          "ipa": "ma",
-          "translation": {
-            "zh": "吗",
-            "en": "question particle"
-          },
-          "emoji": ""
         }
       ]
     },
@@ -30327,24 +30247,14 @@
           "emoji": "🧺"
         },
         {
-          "text": "衣服",
+          "text": "衣服吗",
           "lemma": "衣服",
-          "ipa": "yī fu",
+          "ipa": "yī fu ma",
           "translation": {
             "zh": "衣服",
             "en": "clothes"
           },
           "emoji": "👕"
-        },
-        {
-          "text": "吗",
-          "lemma": "吗",
-          "ipa": "ma",
-          "translation": {
-            "zh": "吗",
-            "en": "question particle"
-          },
-          "emoji": ""
         }
       ]
     },
@@ -150009,24 +149919,14 @@
           "emoji": ""
         },
         {
-          "text": "其他问题",
+          "text": "其他问题吗",
           "lemma": "其他问题",
-          "ipa": "qí tā wèn tí",
+          "ipa": "qí tā wèn tí ma",
           "translation": {
             "zh": "其他问题",
             "en": "other questions"
           },
           "emoji": "❓"
-        },
-        {
-          "text": "吗",
-          "lemma": "吗",
-          "ipa": "ma",
-          "translation": {
-            "zh": "吗",
-            "en": "(question particle)"
-          },
-          "emoji": ""
         }
       ]
     },
