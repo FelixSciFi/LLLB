@@ -11531,16 +11531,6 @@
           "emoji": "👋"
         },
         {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": ",",
-            "en": ","
-          },
-          "emoji": ""
-        },
-        {
           "text": "maman",
           "lemma": "maman",
           "ipa": "mamɑ̃",
@@ -11549,16 +11539,6 @@
             "en": "mom"
           },
           "emoji": "👩"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "。",
-            "en": "."
-          },
-          "emoji": ""
         }
       ]
     },
@@ -23471,16 +23451,6 @@
             "en": "I'm busy"
           },
           "emoji": ""
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ]
     },
@@ -23599,16 +23569,6 @@
             "en": "something"
           },
           "emoji": ""
-        },
-        {
-          "text": "?",
-          "lemma": "?",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ]
     },
@@ -23697,16 +23657,6 @@
             "en": "it hurts"
           },
           "emoji": "🤕"
-        },
-        {
-          "text": "?",
-          "lemma": "?",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ]
     },
@@ -142020,16 +141970,6 @@
             "en": "to run a lot"
           },
           "emoji": "🏃"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "。",
-            "en": "."
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -142088,16 +142028,6 @@
             "en": "as far as the tree"
           },
           "emoji": "🌳"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "。",
-            "en": "."
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -142166,16 +142096,6 @@
             "en": "under a tree"
           },
           "emoji": "🌳"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "。",
-            "en": "."
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -142224,16 +142144,6 @@
             "en": "but she doesn't stop"
           },
           "emoji": "➡️"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "。",
-            "en": "."
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -142262,16 +142172,6 @@
             "en": "in the end"
           },
           "emoji": "🏁"
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": ",",
-            "en": ","
-          },
-          "emoji": ""
         },
         {
           "text": "la tortue",
@@ -142322,16 +142222,6 @@
             "en": "lost"
           },
           "emoji": "😞"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "。",
-            "en": "."
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -142380,16 +142270,6 @@
             "en": "every Saturday"
           },
           "emoji": "📅"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -142430,16 +142310,6 @@
           "emoji": "🍽️"
         },
         {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
-        },
-        {
           "text": "je fais",
           "lemma": "faire",
           "ipa": "ʒə fɛ",
@@ -142468,16 +142338,6 @@
             "en": "in the kitchen"
           },
           "emoji": "🍳"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -142526,16 +142386,6 @@
             "en": "in the living room"
           },
           "emoji": "🛋️"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -142604,16 +142454,6 @@
             "en": "sleep"
           },
           "emoji": "😴"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -142642,16 +142482,6 @@
             "en": "mom"
           },
           "emoji": "👩"
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         },
         {
           "text": "tu peux",
@@ -142694,16 +142524,6 @@
           "emoji": "🧹"
         },
         {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
-        },
-        {
           "text": "s'il te plaît",
           "lemma": "s'il te plaît",
           "ipa": "sil tə plɛ",
@@ -142712,16 +142532,6 @@
             "en": "please"
           },
           "emoji": "🙏"
-        },
-        {
-          "text": "?",
-          "lemma": "?",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -143140,16 +142950,6 @@
             "en": "on the vine"
           },
           "emoji": "🌿"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -143218,16 +143018,6 @@
             "en": "fruits"
           },
           "emoji": "🍇"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -143268,16 +143058,6 @@
           "emoji": "🦘"
         },
         {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
-        },
-        {
           "text": "mais",
           "lemma": "mais",
           "ipa": "mɛ",
@@ -143306,16 +143086,6 @@
             "en": "the grapes"
           },
           "emoji": "🍇"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -143346,16 +143116,6 @@
           "emoji": "🤷"
         },
         {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
-        },
-        {
           "text": "dit",
           "lemma": "dire",
           "ipa": "di",
@@ -143374,16 +143134,6 @@
             "en": "the fox"
           },
           "emoji": "🦊"
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         },
         {
           "text": "ces raisins",
@@ -143412,16 +143162,6 @@
           "translation": {
             "zh": "对我来说",
             "en": "for me"
-          },
-          "emoji": ""
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
           },
           "emoji": ""
         }
@@ -144710,16 +144450,6 @@
           "emoji": "☀️"
         },
         {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
-        },
-        {
           "text": "je pars",
           "lemma": "partir",
           "ipa": "ʒə paʁ",
@@ -144778,16 +144508,6 @@
             "en": "two weeks"
           },
           "emoji": "📅"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -144816,16 +144536,6 @@
             "en": "last year"
           },
           "emoji": "📆"
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         },
         {
           "text": "nous sommes allés",
@@ -144866,16 +144576,6 @@
             "en": "my friends"
           },
           "emoji": "👫"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -144904,16 +144604,6 @@
             "en": "at the beach"
           },
           "emoji": "🏖️"
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         },
         {
           "text": "je nage",
@@ -144964,16 +144654,6 @@
             "en": "in the afternoon"
           },
           "emoji": "🌤️"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -145042,16 +144722,6 @@
             "en": "in July"
           },
           "emoji": "📅"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -145080,16 +144750,6 @@
             "en": "next year"
           },
           "emoji": "📆"
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         },
         {
           "text": "je voudrais voyager",
@@ -145130,16 +144790,6 @@
             "en": "Italy"
           },
           "emoji": "🇮🇹"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -145228,16 +144878,6 @@
             "en": "are kind"
           },
           "emoji": "😊"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -149898,16 +149538,6 @@
             "en": "in the countryside"
           },
           "emoji": "🌾"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -149996,16 +149626,6 @@
             "en": "of the path"
           },
           "emoji": "🛤️"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -150044,16 +149664,6 @@
             "en": "of summer"
           },
           "emoji": "☀️"
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         },
         {
           "text": "une voiture",
@@ -150104,16 +149714,6 @@
             "en": "of the peasants"
           },
           "emoji": "🧑‍🌾"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -150222,16 +149822,6 @@
             "en": "of money"
           },
           "emoji": "💰"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -150262,16 +149852,6 @@
           "emoji": "👨‍👩‍👧‍👦"
         },
         {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
-        },
-        {
           "text": "qui avait besoin",
           "lemma": "avoir besoin",
           "ipa": "ki a.vɛ bə.zwɛ̃",
@@ -150290,16 +149870,6 @@
             "en": "money"
           },
           "emoji": "💰"
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         },
         {
           "text": "accepta",
@@ -150350,16 +149920,6 @@
             "en": "their sadness"
           },
           "emoji": "😢"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -150448,16 +150008,6 @@
             "en": "their own child"
           },
           "emoji": "👶"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -150494,16 +150044,6 @@
           "translation": {
             "zh": "之后",
             "en": "later"
-          },
-          "emoji": ""
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
           },
           "emoji": ""
         },
@@ -150574,16 +150114,6 @@
           "translation": {
             "zh": "他们的选择",
             "en": "their choice"
-          },
-          "emoji": ""
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
           },
           "emoji": ""
         }
@@ -152208,16 +151738,6 @@
           "emoji": "🌙"
         },
         {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
-        },
-        {
           "text": "j'ai enfin vu",
           "lemma": "voir",
           "ipa": "ʒe ɑ̃fɛ̃ vy",
@@ -152258,16 +151778,6 @@
           "emoji": "🎥"
         },
         {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
-        },
-        {
           "text": "un thriller psychologique",
           "lemma": "thriller psychologique",
           "ipa": "œ̃ tʁilœʁ psikɔlɔʒik",
@@ -152306,16 +151816,6 @@
             "en": "last month"
           },
           "emoji": "📅"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -152424,16 +151924,6 @@
             "en": "of time"
           },
           "emoji": "⏳"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -152474,16 +151964,6 @@
           "emoji": "💥"
         },
         {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
-        },
-        {
           "text": "c'est la photographie",
           "lemma": "photographie",
           "ipa": "sɛ la fɔtɔɡʁafi",
@@ -152502,16 +151982,6 @@
             "en": "magnificent"
           },
           "emoji": "✨"
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         },
         {
           "text": "avec",
@@ -152562,16 +152032,6 @@
             "en": "of European cinema"
           },
           "emoji": "🎞️"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -152598,16 +152058,6 @@
           "translation": {
             "zh": "然而",
             "en": "on the other hand"
-          },
-          "emoji": ""
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
           },
           "emoji": ""
         },
@@ -152642,16 +152092,6 @@
           "emoji": "🐢"
         },
         {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
-        },
-        {
           "text": "surtout",
           "lemma": "surtout",
           "ipa": "syʁtu",
@@ -152668,16 +152108,6 @@
           "translation": {
             "zh": "在下半部分",
             "en": "in the second half"
-          },
-          "emoji": ""
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
           },
           "emoji": ""
         },
@@ -152718,16 +152148,6 @@
           "translation": {
             "zh": "无谓地",
             "en": "pointlessly"
-          },
-          "emoji": ""
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
           },
           "emoji": ""
         }
@@ -152780,16 +152200,6 @@
           "emoji": ""
         },
         {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
-        },
-        {
           "text": "ce nouveau film",
           "lemma": "film",
           "ipa": "sə nuvo film",
@@ -152816,16 +152226,6 @@
           "translation": {
             "zh": "不那么大胆",
             "en": "less daring"
-          },
-          "emoji": ""
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
           },
           "emoji": ""
         },
@@ -152878,16 +152278,6 @@
             "en": "usual"
           },
           "emoji": ""
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -152914,16 +152304,6 @@
           "translation": {
             "zh": "话虽如此",
             "en": "that said"
-          },
-          "emoji": ""
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
           },
           "emoji": ""
         },
@@ -152966,16 +152346,6 @@
             "en": "deeply moving"
           },
           "emoji": "💔"
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         },
         {
           "text": "et la bande originale",
@@ -153036,16 +152406,6 @@
             "en": "every scene"
           },
           "emoji": "🎬"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -153086,16 +152446,6 @@
           "emoji": ""
         },
         {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
-        },
-        {
           "text": "je le recommanderais",
           "lemma": "recommander",
           "ipa": "ʒə lə ʁəkɔmɑ̃dʁɛ",
@@ -153132,16 +152482,6 @@
           "translation": {
             "zh": "挑剔的",
             "en": "demanding"
-          },
-          "emoji": ""
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
           },
           "emoji": ""
         },
@@ -153192,16 +152532,6 @@
           "translation": {
             "zh": "但不算难忘",
             "en": "but not unforgettable"
-          },
-          "emoji": ""
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
           },
           "emoji": ""
         }
@@ -154616,16 +153946,6 @@
           "emoji": "👦"
         },
         {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": ",",
-            "en": ","
-          },
-          "emoji": ""
-        },
-        {
           "text": "et le plus petit",
           "lemma": "petit",
           "ipa": "e lə ply pəti",
@@ -154652,16 +153972,6 @@
           "translation": {
             "zh": "小拇指",
             "en": "Little Thumb"
-          },
-          "emoji": ""
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "。",
-            "en": "."
           },
           "emoji": ""
         }
@@ -154700,16 +154010,6 @@
           "translation": {
             "zh": "非常小",
             "en": "very small"
-          },
-          "emoji": ""
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": ",",
-            "en": ","
           },
           "emoji": ""
         },
@@ -154772,16 +154072,6 @@
             "en": "of the parents"
           },
           "emoji": "👨‍👩‍👦"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "。",
-            "en": "."
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -154842,16 +154132,6 @@
           "emoji": "😨"
         },
         {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": ",",
-            "en": ","
-          },
-          "emoji": ""
-        },
-        {
           "text": "les parents",
           "lemma": "parent",
           "ipa": "le paʁɑ̃",
@@ -154910,16 +154190,6 @@
             "en": "dark"
           },
           "emoji": ""
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "。",
-            "en": "."
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -154946,16 +154216,6 @@
           "translation": {
             "zh": "第一次",
             "en": "the first time"
-          },
-          "emoji": ""
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": ",",
-            "en": ","
           },
           "emoji": ""
         },
@@ -155038,16 +154298,6 @@
             "en": "of the house"
           },
           "emoji": "🏠"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "。",
-            "en": "."
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -155078,32 +154328,12 @@
           "emoji": ""
         },
         {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": ",",
-            "en": ","
-          },
-          "emoji": ""
-        },
-        {
           "text": "malheureusement",
           "lemma": "malheureusement",
           "ipa": "maløʁøzmɑ̃",
           "translation": {
             "zh": "不幸地",
             "en": "unfortunately"
-          },
-          "emoji": ""
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": ",",
-            "en": ","
           },
           "emoji": ""
         },
@@ -155138,16 +154368,6 @@
           "emoji": "🥖"
         },
         {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": ",",
-            "en": ","
-          },
-          "emoji": ""
-        },
-        {
           "text": "et les frères",
           "lemma": "frère",
           "ipa": "e le fʁɛʁ",
@@ -155174,16 +154394,6 @@
           "translation": {
             "zh": "迷路的",
             "en": "lost"
-          },
-          "emoji": ""
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "。",
-            "en": "."
           },
           "emoji": ""
         }
@@ -155234,16 +154444,6 @@
             "en": "walked"
           },
           "emoji": "🚶"
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": ",",
-            "en": ","
-          },
-          "emoji": ""
         },
         {
           "text": "les enfants",
@@ -155314,16 +154514,6 @@
             "en": "cruel"
           },
           "emoji": ""
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "。",
-            "en": "."
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -155364,16 +154554,6 @@
           "emoji": "🦊"
         },
         {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": ",",
-            "en": ","
-          },
-          "emoji": ""
-        },
-        {
           "text": "Petit Poucet",
           "lemma": "Petit Poucet",
           "ipa": "pəti pusɛ",
@@ -155402,16 +154582,6 @@
             "en": "the ogre"
           },
           "emoji": "👹"
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": ",",
-            "en": ","
-          },
-          "emoji": ""
         },
         {
           "text": "sauva",
@@ -155462,16 +154632,6 @@
             "en": "magic"
           },
           "emoji": "✨"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "。",
-            "en": "."
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -157738,16 +156898,6 @@
             "en": "is faithful"
           },
           "emoji": ""
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -157784,16 +156934,6 @@
           "translation": {
             "zh": "睡觉",
             "en": "sleeps"
-          },
-          "emoji": ""
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
           },
           "emoji": ""
         }
@@ -157844,16 +156984,6 @@
             "en": "milk"
           },
           "emoji": "🥛"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -157890,16 +157020,6 @@
           "translation": {
             "zh": "唱歌",
             "en": "sings"
-          },
-          "emoji": ""
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
           },
           "emoji": ""
         }
@@ -157950,16 +157070,6 @@
             "en": "fast"
           },
           "emoji": ""
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -158008,16 +157118,6 @@
             "en": "in my room"
           },
           "emoji": "🛌"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -158066,16 +157166,6 @@
             "en": "the window"
           },
           "emoji": "🪟"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -158124,16 +157214,6 @@
             "en": "on the desk"
           },
           "emoji": "🪑"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -158192,16 +157272,6 @@
             "en": "the bed"
           },
           "emoji": "🛏️"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -158240,16 +157310,6 @@
             "en": "my room"
           },
           "emoji": "🛌"
-        },
-        {
-          "text": ".",
-          "lemma": ".",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         }
       ],
       "tags": [
@@ -159466,16 +158526,6 @@
           "emoji": "🫏"
         },
         {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
-        },
-        {
           "text": "mon âne",
           "lemma": "âne",
           "ipa": "mɔ̃n ɑn",
@@ -159612,16 +158662,6 @@
           "emoji": "💜"
         },
         {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
-        },
-        {
           "text": "la la",
           "lemma": "la la",
           "ipa": "la la",
@@ -159630,16 +158670,6 @@
             "en": "la la"
           },
           "emoji": "🎵"
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         },
         {
           "text": "et des souliers",
@@ -159688,16 +158718,6 @@
             "en": "my donkey"
           },
           "emoji": "🫏"
-        },
-        {
-          "text": ",",
-          "lemma": ",",
-          "ipa": "",
-          "translation": {
-            "zh": "",
-            "en": ""
-          },
-          "emoji": ""
         },
         {
           "text": "mon âne",
