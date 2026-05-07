@@ -157709,6 +157709,2494 @@
         }
       ],
       "id": "08eb27fb-7a81-498d-9a73-de7bc87a730d"
+    },
+    {
+      "text": "Le chien est fidèle.",
+      "ipa": "lə ʃjɛ̃ ɛ fidɛl",
+      "translation": {
+        "zh": "狗很忠诚。",
+        "en": "The dog is faithful."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Le chien",
+          "lemma": "chien",
+          "ipa": "lə ʃjɛ̃",
+          "translation": {
+            "zh": "狗",
+            "en": "the dog"
+          },
+          "emoji": "🐶"
+        },
+        {
+          "text": "est fidèle",
+          "lemma": "fidèle",
+          "ipa": "ɛ fidɛl",
+          "translation": {
+            "zh": "忠诚的",
+            "en": "is faithful"
+          },
+          "emoji": ""
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "ipa": "",
+          "translation": {
+            "zh": "",
+            "en": ""
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Les animaux",
+          "index": 0
+        }
+      ],
+      "id": "e8eba51d-9bc8-4cc8-a3e3-7f82cddea603"
+    },
+    {
+      "text": "Le chat dort.",
+      "ipa": "lə ʃa dɔʁ",
+      "translation": {
+        "zh": "猫在睡觉。",
+        "en": "The cat sleeps."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Le chat",
+          "lemma": "chat",
+          "ipa": "lə ʃa",
+          "translation": {
+            "zh": "猫",
+            "en": "the cat"
+          },
+          "emoji": "🐱"
+        },
+        {
+          "text": "dort",
+          "lemma": "dormir",
+          "ipa": "dɔʁ",
+          "translation": {
+            "zh": "睡觉",
+            "en": "sleeps"
+          },
+          "emoji": ""
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "ipa": "",
+          "translation": {
+            "zh": "",
+            "en": ""
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Les animaux",
+          "index": 1
+        }
+      ],
+      "id": "7f6a1140-772e-4669-af3b-8248165b6d56"
+    },
+    {
+      "text": "La vache donne du lait.",
+      "ipa": "la vaʃ dɔn dy lɛ",
+      "translation": {
+        "zh": "牛产奶。",
+        "en": "The cow gives milk."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "La vache",
+          "lemma": "vache",
+          "ipa": "la vaʃ",
+          "translation": {
+            "zh": "牛",
+            "en": "the cow"
+          },
+          "emoji": "🐄"
+        },
+        {
+          "text": "donne",
+          "lemma": "donner",
+          "ipa": "dɔn",
+          "translation": {
+            "zh": "给",
+            "en": "gives"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "du lait",
+          "lemma": "lait",
+          "ipa": "dy lɛ",
+          "translation": {
+            "zh": "牛奶",
+            "en": "milk"
+          },
+          "emoji": "🥛"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "ipa": "",
+          "translation": {
+            "zh": "",
+            "en": ""
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Les animaux",
+          "index": 2
+        }
+      ],
+      "id": "26944c68-fbec-491d-8bef-ac398c9e7913"
+    },
+    {
+      "text": "L'oiseau chante.",
+      "ipa": "lwazo ʃɑ̃t",
+      "translation": {
+        "zh": "鸟在唱歌。",
+        "en": "The bird sings."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "L'oiseau",
+          "lemma": "oiseau",
+          "ipa": "lwazo",
+          "translation": {
+            "zh": "鸟",
+            "en": "the bird"
+          },
+          "emoji": "🐦"
+        },
+        {
+          "text": "chante",
+          "lemma": "chanter",
+          "ipa": "ʃɑ̃t",
+          "translation": {
+            "zh": "唱歌",
+            "en": "sings"
+          },
+          "emoji": ""
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "ipa": "",
+          "translation": {
+            "zh": "",
+            "en": ""
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Les animaux",
+          "index": 3
+        }
+      ],
+      "id": "1c39d5ad-1dcd-402f-b6bc-8ad15d481fa6"
+    },
+    {
+      "text": "Le cheval court vite.",
+      "ipa": "lə ʃəval kuʁ vit",
+      "translation": {
+        "zh": "马跑得快。",
+        "en": "The horse runs fast."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Le cheval",
+          "lemma": "cheval",
+          "ipa": "lə ʃəval",
+          "translation": {
+            "zh": "马",
+            "en": "the horse"
+          },
+          "emoji": "🐎"
+        },
+        {
+          "text": "court",
+          "lemma": "courir",
+          "ipa": "kuʁ",
+          "translation": {
+            "zh": "跑",
+            "en": "runs"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "vite",
+          "lemma": "vite",
+          "ipa": "vit",
+          "translation": {
+            "zh": "快",
+            "en": "fast"
+          },
+          "emoji": ""
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "ipa": "",
+          "translation": {
+            "zh": "",
+            "en": ""
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Les animaux",
+          "index": 4
+        }
+      ],
+      "id": "a75df60f-d918-43ac-a34f-16f4f511385d"
+    },
+    {
+      "text": "J'ai un lit dans ma chambre.",
+      "ipa": "ʒe œ̃ li dɑ̃ ma ʃɑ̃bʁ",
+      "translation": {
+        "zh": "我的房间里有一张床。",
+        "en": "I have a bed in my room."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "J'ai",
+          "lemma": "avoir",
+          "ipa": "ʒe",
+          "translation": {
+            "zh": "我有",
+            "en": "I have"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "un lit",
+          "lemma": "lit",
+          "ipa": "œ̃ li",
+          "translation": {
+            "zh": "一张床",
+            "en": "a bed"
+          },
+          "emoji": "🛏️"
+        },
+        {
+          "text": "dans ma chambre",
+          "lemma": "chambre",
+          "ipa": "dɑ̃ ma ʃɑ̃bʁ",
+          "translation": {
+            "zh": "在我的房间里",
+            "en": "in my room"
+          },
+          "emoji": "🛌"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "ipa": "",
+          "translation": {
+            "zh": "",
+            "en": ""
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Dans ma chambre",
+          "index": 0
+        }
+      ],
+      "id": "48891f1f-868b-4dfe-bd0f-56cb0947205d"
+    },
+    {
+      "text": "Le bureau est sous la fenêtre.",
+      "ipa": "lə byʁo ɛ su la fənɛtʁ",
+      "translation": {
+        "zh": "书桌在窗户下面。",
+        "en": "The desk is under the window."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Le bureau",
+          "lemma": "bureau",
+          "ipa": "lə byʁo",
+          "translation": {
+            "zh": "书桌",
+            "en": "the desk"
+          },
+          "emoji": "🪑"
+        },
+        {
+          "text": "est sous",
+          "lemma": "sous",
+          "ipa": "ɛ su",
+          "translation": {
+            "zh": "在……下面",
+            "en": "is under"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "la fenêtre",
+          "lemma": "fenêtre",
+          "ipa": "la fənɛtʁ",
+          "translation": {
+            "zh": "窗户",
+            "en": "the window"
+          },
+          "emoji": "🪟"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "ipa": "",
+          "translation": {
+            "zh": "",
+            "en": ""
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Dans ma chambre",
+          "index": 1
+        }
+      ],
+      "id": "dfa02196-76e3-47f5-b9d5-439b51585364"
+    },
+    {
+      "text": "Il y a des livres sur le bureau.",
+      "ipa": "il j a de livʁ syʁ lə byʁo",
+      "translation": {
+        "zh": "书桌上有一些书。",
+        "en": "There are books on the desk."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Il y a",
+          "lemma": "il y a",
+          "ipa": "il j a",
+          "translation": {
+            "zh": "有",
+            "en": "there is/are"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "des livres",
+          "lemma": "livre",
+          "ipa": "de livʁ",
+          "translation": {
+            "zh": "一些书",
+            "en": "books"
+          },
+          "emoji": "📚"
+        },
+        {
+          "text": "sur le bureau",
+          "lemma": "bureau",
+          "ipa": "syʁ lə byʁo",
+          "translation": {
+            "zh": "在书桌上",
+            "en": "on the desk"
+          },
+          "emoji": "🪑"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "ipa": "",
+          "translation": {
+            "zh": "",
+            "en": ""
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Dans ma chambre",
+          "index": 2
+        }
+      ],
+      "id": "81702bd7-9f70-418f-822f-9554c54b6c0b"
+    },
+    {
+      "text": "Une lampe est à côté du lit.",
+      "ipa": "yn lɑ̃p ɛ a kote dy li",
+      "translation": {
+        "zh": "一盏台灯在床的旁边。",
+        "en": "A lamp is next to the bed."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Une lampe",
+          "lemma": "lampe",
+          "ipa": "yn lɑ̃p",
+          "translation": {
+            "zh": "一盏灯",
+            "en": "a lamp"
+          },
+          "emoji": "💡"
+        },
+        {
+          "text": "est",
+          "lemma": "être",
+          "ipa": "ɛ",
+          "translation": {
+            "zh": "是/在",
+            "en": "is"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "à côté de",
+          "lemma": "à côté de",
+          "ipa": "a kote də",
+          "translation": {
+            "zh": "在……旁边",
+            "en": "next to"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "du lit",
+          "lemma": "lit",
+          "ipa": "dy li",
+          "translation": {
+            "zh": "床",
+            "en": "the bed"
+          },
+          "emoji": "🛏️"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "ipa": "",
+          "translation": {
+            "zh": "",
+            "en": ""
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Dans ma chambre",
+          "index": 3
+        }
+      ],
+      "id": "44e88f5e-f87a-4f9c-82b2-438d18faecb9"
+    },
+    {
+      "text": "J'aime ma chambre.",
+      "ipa": "ʒɛm ma ʃɑ̃bʁ",
+      "translation": {
+        "zh": "我爱我的房间。",
+        "en": "I love my room."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "J'aime",
+          "lemma": "aimer",
+          "ipa": "ʒɛm",
+          "translation": {
+            "zh": "我爱/我喜欢",
+            "en": "I love/like"
+          },
+          "emoji": "❤️"
+        },
+        {
+          "text": "ma chambre",
+          "lemma": "chambre",
+          "ipa": "ma ʃɑ̃bʁ",
+          "translation": {
+            "zh": "我的房间",
+            "en": "my room"
+          },
+          "emoji": "🛌"
+        },
+        {
+          "text": ".",
+          "lemma": ".",
+          "ipa": "",
+          "translation": {
+            "zh": "",
+            "en": ""
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Dans ma chambre",
+          "index": 4
+        }
+      ],
+      "id": "7f45960b-27c9-4ea7-95db-f02739f9d4d7"
+    },
+    {
+      "text": "À la claire fontaine, m'en allant promener",
+      "ipa": "a la klɛʁ fɔ̃tɛn, mɑ̃n alɑ̃ pʁɔməne",
+      "translation": {
+        "zh": "在清澈的泉边，我去散步",
+        "en": "At the clear fountain, going for a walk"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "À la claire",
+          "lemma": "clair",
+          "ipa": "a la klɛʁ",
+          "translation": {
+            "zh": "清澈的",
+            "en": "clear"
+          },
+          "emoji": "✨"
+        },
+        {
+          "text": "fontaine",
+          "lemma": "fontaine",
+          "ipa": "fɔ̃tɛn",
+          "translation": {
+            "zh": "泉水",
+            "en": "fountain"
+          },
+          "emoji": "⛲"
+        },
+        {
+          "text": "m'en allant",
+          "lemma": "aller",
+          "ipa": "mɑ̃n alɑ̃",
+          "translation": {
+            "zh": "我前往",
+            "en": "going off"
+          },
+          "emoji": "🚶"
+        },
+        {
+          "text": "promener",
+          "lemma": "promener",
+          "ipa": "pʁɔməne",
+          "translation": {
+            "zh": "散步",
+            "en": "to walk"
+          },
+          "emoji": "🌳"
+        }
+      ],
+      "tags": [
+        {
+          "name": "À la claire fontaine",
+          "index": 1
+        }
+      ],
+      "id": "5d75921e-cde4-4e32-a18a-68a2e6c65edc"
+    },
+    {
+      "text": "J'ai trouvé l'eau si belle, que je m'y suis baigné",
+      "ipa": "ʒe tʁuve lo si bɛl, kə ʒə mi sɥi beɲe",
+      "translation": {
+        "zh": "我发现水如此美，我便沐浴其中",
+        "en": "I found the water so beautiful, that I bathed in it"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "J'ai trouvé",
+          "lemma": "trouver",
+          "ipa": "ʒe tʁuve",
+          "translation": {
+            "zh": "我发现",
+            "en": "I found"
+          },
+          "emoji": "🔍"
+        },
+        {
+          "text": "l'eau",
+          "lemma": "eau",
+          "ipa": "lo",
+          "translation": {
+            "zh": "水",
+            "en": "the water"
+          },
+          "emoji": "💧"
+        },
+        {
+          "text": "si belle",
+          "lemma": "beau",
+          "ipa": "si bɛl",
+          "translation": {
+            "zh": "如此美",
+            "en": "so beautiful"
+          },
+          "emoji": "✨"
+        },
+        {
+          "text": "que",
+          "lemma": "que",
+          "ipa": "kə",
+          "translation": {
+            "zh": "以致于",
+            "en": "that"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "je m'y suis baigné",
+          "lemma": "baigner",
+          "ipa": "ʒə mi sɥi beɲe",
+          "translation": {
+            "zh": "我在那里洗澡",
+            "en": "I bathed there"
+          },
+          "emoji": "🛁"
+        }
+      ],
+      "tags": [
+        {
+          "name": "À la claire fontaine",
+          "index": 2
+        }
+      ],
+      "id": "947097a8-6a30-4272-b162-a344ff45c8a3"
+    },
+    {
+      "text": "Il y a longtemps que je t'aime, jamais je ne t'oublierai",
+      "ipa": "il i a lɔ̃tɑ̃ kə ʒə tɛm, ʒamɛ ʒə nə tubliʁe",
+      "translation": {
+        "zh": "我爱你已经很久，我永远不会忘记你",
+        "en": "I have loved you for a long time, I will never forget you"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Il y a longtemps",
+          "lemma": "il y a longtemps",
+          "ipa": "il i a lɔ̃tɑ̃",
+          "translation": {
+            "zh": "很久以前",
+            "en": "a long time ago"
+          },
+          "emoji": "⏳"
+        },
+        {
+          "text": "que",
+          "lemma": "que",
+          "ipa": "kə",
+          "translation": {
+            "zh": "（连接词）",
+            "en": "that"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "je t'aime",
+          "lemma": "aimer",
+          "ipa": "ʒə tɛm",
+          "translation": {
+            "zh": "我爱你",
+            "en": "I love you"
+          },
+          "emoji": "❤️"
+        },
+        {
+          "text": "jamais",
+          "lemma": "jamais",
+          "ipa": "ʒamɛ",
+          "translation": {
+            "zh": "永不",
+            "en": "never"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "je ne t'oublierai",
+          "lemma": "oublier",
+          "ipa": "ʒə nə tubliʁe",
+          "translation": {
+            "zh": "我不会忘记你",
+            "en": "I will not forget you"
+          },
+          "emoji": "💭"
+        }
+      ],
+      "tags": [
+        {
+          "name": "À la claire fontaine",
+          "index": 3
+        }
+      ],
+      "id": "aa94f819-3868-47d9-8a41-6135cc94bebf"
+    },
+    {
+      "text": "Sous les feuilles d'un chêne, je me suis fait sécher",
+      "ipa": "su le fœj dœ̃ ʃɛn, ʒə mə sɥi fɛ seʃe",
+      "translation": {
+        "zh": "在橡树叶下，我把自己晾干",
+        "en": "Under the leaves of an oak, I dried myself"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Sous les feuilles",
+          "lemma": "feuille",
+          "ipa": "su le fœj",
+          "translation": {
+            "zh": "在叶子下",
+            "en": "under the leaves"
+          },
+          "emoji": "🍃"
+        },
+        {
+          "text": "d'un chêne",
+          "lemma": "chêne",
+          "ipa": "dœ̃ ʃɛn",
+          "translation": {
+            "zh": "一棵橡树的",
+            "en": "of an oak"
+          },
+          "emoji": "🌳"
+        },
+        {
+          "text": "je me suis fait sécher",
+          "lemma": "sécher",
+          "ipa": "ʒə mə sɥi fɛ seʃe",
+          "translation": {
+            "zh": "我把自己晾干",
+            "en": "I dried myself"
+          },
+          "emoji": "☀️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "À la claire fontaine",
+          "index": 4
+        }
+      ],
+      "id": "27c64d7e-6683-4581-826d-51e1f3b5cce8"
+    },
+    {
+      "text": "J'ai deux yeux sur ma tête.",
+      "ipa": "ʒe dø zjø syʁ ma tɛt",
+      "translation": {
+        "zh": "我头上有两只眼睛。",
+        "en": "I have two eyes on my head."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "J'ai",
+          "lemma": "avoir",
+          "ipa": "ʒe",
+          "translation": {
+            "zh": "我有",
+            "en": "I have"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "deux yeux",
+          "lemma": "œil",
+          "ipa": "dø zjø",
+          "translation": {
+            "zh": "两只眼睛",
+            "en": "two eyes"
+          },
+          "emoji": "👁️"
+        },
+        {
+          "text": "sur",
+          "lemma": "sur",
+          "ipa": "syʁ",
+          "translation": {
+            "zh": "在……上",
+            "en": "on"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "ma tête",
+          "lemma": "tête",
+          "ipa": "ma tɛt",
+          "translation": {
+            "zh": "我的头",
+            "en": "my head"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Le corps",
+          "index": 0
+        }
+      ],
+      "id": "1eed4455-4986-48cc-a2a0-9890c89aad62"
+    },
+    {
+      "text": "Mon nez sent les fleurs.",
+      "ipa": "mɔ̃ ne sɑ̃ le flœʁ",
+      "translation": {
+        "zh": "我的鼻子闻花香。",
+        "en": "My nose smells the flowers."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Mon nez",
+          "lemma": "nez",
+          "ipa": "mɔ̃ ne",
+          "translation": {
+            "zh": "我的鼻子",
+            "en": "my nose"
+          },
+          "emoji": "👃"
+        },
+        {
+          "text": "sent",
+          "lemma": "sentir",
+          "ipa": "sɑ̃",
+          "translation": {
+            "zh": "闻",
+            "en": "smells"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "les fleurs",
+          "lemma": "fleur",
+          "ipa": "le flœʁ",
+          "translation": {
+            "zh": "花",
+            "en": "the flowers"
+          },
+          "emoji": "🌸"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Le corps",
+          "index": 1
+        }
+      ],
+      "id": "0a338742-a183-46b9-ad7d-f1147132e512"
+    },
+    {
+      "text": "Je parle avec ma bouche.",
+      "ipa": "ʒə paʁl avɛk ma buʃ",
+      "translation": {
+        "zh": "我用嘴说话。",
+        "en": "I speak with my mouth."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Je parle",
+          "lemma": "parler",
+          "ipa": "ʒə paʁl",
+          "translation": {
+            "zh": "我说话",
+            "en": "I speak"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "avec",
+          "lemma": "avec",
+          "ipa": "avɛk",
+          "translation": {
+            "zh": "用、和",
+            "en": "with"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "ma bouche",
+          "lemma": "bouche",
+          "ipa": "ma buʃ",
+          "translation": {
+            "zh": "我的嘴",
+            "en": "my mouth"
+          },
+          "emoji": "👄"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Le corps",
+          "index": 2
+        }
+      ],
+      "id": "76272925-aae9-4d6f-8123-61bd85ea314a"
+    },
+    {
+      "text": "J'attrape la balle avec mes deux mains.",
+      "ipa": "ʒatʁap la bal avɛk me dø mɛ̃",
+      "translation": {
+        "zh": "我用两只手接住球。",
+        "en": "I catch the ball with my two hands."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "J'attrape",
+          "lemma": "attraper",
+          "ipa": "ʒatʁap",
+          "translation": {
+            "zh": "我抓住",
+            "en": "I catch"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "la balle",
+          "lemma": "balle",
+          "ipa": "la bal",
+          "translation": {
+            "zh": "球",
+            "en": "the ball"
+          },
+          "emoji": "⚽"
+        },
+        {
+          "text": "avec",
+          "lemma": "avec",
+          "ipa": "avɛk",
+          "translation": {
+            "zh": "用",
+            "en": "with"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "mes deux mains",
+          "lemma": "main",
+          "ipa": "me dø mɛ̃",
+          "translation": {
+            "zh": "我的两只手",
+            "en": "my two hands"
+          },
+          "emoji": "✋"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Le corps",
+          "index": 3
+        }
+      ],
+      "id": "2971434f-1aec-4cba-8d1e-c2657c57f01e"
+    },
+    {
+      "text": "Je marche avec mes deux pieds.",
+      "ipa": "ʒə maʁʃ avɛk me dø pje",
+      "translation": {
+        "zh": "我用两只脚走路。",
+        "en": "I walk with my two feet."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Je marche",
+          "lemma": "marcher",
+          "ipa": "ʒə maʁʃ",
+          "translation": {
+            "zh": "我走",
+            "en": "I walk"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "avec",
+          "lemma": "avec",
+          "ipa": "avɛk",
+          "translation": {
+            "zh": "用",
+            "en": "with"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "mes deux pieds",
+          "lemma": "pied",
+          "ipa": "me dø pje",
+          "translation": {
+            "zh": "我的两只脚",
+            "en": "my two feet"
+          },
+          "emoji": "🦶"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Le corps",
+          "index": 4
+        }
+      ],
+      "id": "ff212f6c-2bb6-43d2-9068-3b837862adb9"
+    },
+    {
+      "text": "Le bon roi Dagobert a mis sa culotte à l'envers.",
+      "ipa": "lə bɔ̃ ʁwa daɡɔbɛʁ a mi sa kylɔt a lɑ̃vɛʁ",
+      "translation": {
+        "zh": "好国王达戈贝尔把他的短裤穿反了。",
+        "en": "The good king Dagobert put his breeches on backwards."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Le bon",
+          "lemma": "bon",
+          "ipa": "lə bɔ̃",
+          "translation": {
+            "zh": "好的",
+            "en": "good"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "roi",
+          "lemma": "roi",
+          "ipa": "ʁwa",
+          "translation": {
+            "zh": "国王",
+            "en": "king"
+          },
+          "emoji": "👑"
+        },
+        {
+          "text": "Dagobert",
+          "lemma": "Dagobert",
+          "ipa": "daɡɔbɛʁ",
+          "translation": {
+            "zh": "达戈贝尔",
+            "en": "Dagobert"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "a mis",
+          "lemma": "mettre",
+          "ipa": "a mi",
+          "translation": {
+            "zh": "穿上了",
+            "en": "put on"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "sa culotte",
+          "lemma": "culotte",
+          "ipa": "sa kylɔt",
+          "translation": {
+            "zh": "短裤",
+            "en": "breeches"
+          },
+          "emoji": "👖"
+        },
+        {
+          "text": "à l'envers",
+          "lemma": "à l'envers",
+          "ipa": "a lɑ̃vɛʁ",
+          "translation": {
+            "zh": "反着",
+            "en": "backwards"
+          },
+          "emoji": "🔄"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Le bon roi Dagobert",
+          "index": 1
+        }
+      ],
+      "id": "dd188ffc-d3ae-4f87-819f-18f4c98fcada"
+    },
+    {
+      "text": "Le grand saint Éloi lui dit : ô mon roi.",
+      "ipa": "lə ɡʁɑ̃ sɛ̃ elwa lɥi di o mɔ̃ ʁwa",
+      "translation": {
+        "zh": "伟大的圣埃卢瓦对他说:啊,我的国王。",
+        "en": "The great Saint Eloi said to him: oh my king."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Le grand",
+          "lemma": "grand",
+          "ipa": "lə ɡʁɑ̃",
+          "translation": {
+            "zh": "伟大的",
+            "en": "great"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "saint",
+          "lemma": "saint",
+          "ipa": "sɛ̃",
+          "translation": {
+            "zh": "圣",
+            "en": "saint"
+          },
+          "emoji": "😇"
+        },
+        {
+          "text": "Éloi",
+          "lemma": "Éloi",
+          "ipa": "elwa",
+          "translation": {
+            "zh": "埃卢瓦",
+            "en": "Eloi"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "lui dit",
+          "lemma": "dire",
+          "ipa": "lɥi di",
+          "translation": {
+            "zh": "对他说",
+            "en": "says to him"
+          },
+          "emoji": "💬"
+        },
+        {
+          "text": "ô mon roi",
+          "lemma": "ô mon roi",
+          "ipa": "o mɔ̃ ʁwa",
+          "translation": {
+            "zh": "啊,我的国王",
+            "en": "oh my king"
+          },
+          "emoji": "👑"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Le bon roi Dagobert",
+          "index": 2
+        }
+      ],
+      "id": "ffae7e4f-609f-4944-b5c7-0f27b94a090e"
+    },
+    {
+      "text": "Votre Majesté est mal culottée.",
+      "ipa": "vɔtʁ maʒɛste ɛ mal kylɔte",
+      "translation": {
+        "zh": "陛下您短裤穿得不好。",
+        "en": "Your Majesty is badly breeched."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Votre Majesté",
+          "lemma": "majesté",
+          "ipa": "vɔtʁ maʒɛste",
+          "translation": {
+            "zh": "陛下",
+            "en": "Your Majesty"
+          },
+          "emoji": "👑"
+        },
+        {
+          "text": "est mal culottée",
+          "lemma": "mal culotté",
+          "ipa": "ɛ mal kylɔte",
+          "translation": {
+            "zh": "短裤穿得不好",
+            "en": "is badly breeched"
+          },
+          "emoji": "👖"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Le bon roi Dagobert",
+          "index": 3
+        }
+      ],
+      "id": "fa428bb8-cc57-4080-ac40-9639e440a811"
+    },
+    {
+      "text": "C'est vrai, lui dit le roi, je vais la remettre à l'endroit.",
+      "ipa": "sɛ vʁɛ lɥi di lə ʁwa ʒə vɛ la ʁəmɛtʁ a lɑ̃dʁwa",
+      "translation": {
+        "zh": "是真的,国王对他说,我这就把它穿回正面。",
+        "en": "It's true, said the king, I'll put it back the right way."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "C'est vrai",
+          "lemma": "vrai",
+          "ipa": "sɛ vʁɛ",
+          "translation": {
+            "zh": "是真的",
+            "en": "it's true"
+          },
+          "emoji": "✅"
+        },
+        {
+          "text": "lui dit",
+          "lemma": "dire",
+          "ipa": "lɥi di",
+          "translation": {
+            "zh": "对他说",
+            "en": "says to him"
+          },
+          "emoji": "💬"
+        },
+        {
+          "text": "le roi",
+          "lemma": "roi",
+          "ipa": "lə ʁwa",
+          "translation": {
+            "zh": "国王",
+            "en": "the king"
+          },
+          "emoji": "👑"
+        },
+        {
+          "text": "je vais",
+          "lemma": "aller",
+          "ipa": "ʒə vɛ",
+          "translation": {
+            "zh": "我将要",
+            "en": "I'm going to"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "la remettre",
+          "lemma": "remettre",
+          "ipa": "la ʁəmɛtʁ",
+          "translation": {
+            "zh": "把它重新穿上",
+            "en": "put it back"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "à l'endroit",
+          "lemma": "à l'endroit",
+          "ipa": "a lɑ̃dʁwa",
+          "translation": {
+            "zh": "正面朝外",
+            "en": "the right way"
+          },
+          "emoji": "↔️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Le bon roi Dagobert",
+          "index": 4
+        }
+      ],
+      "id": "bb399722-5c89-4800-9cb7-b6f51691615e"
+    },
+    {
+      "text": "Il est dix heures.",
+      "ipa": "il ɛ di zœʁ",
+      "translation": {
+        "zh": "十点了。",
+        "en": "It is ten o'clock."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Il est",
+          "lemma": "être",
+          "ipa": "il ɛ",
+          "translation": {
+            "zh": "现在是",
+            "en": "it is"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "dix heures",
+          "lemma": "heure",
+          "ipa": "di zœʁ",
+          "translation": {
+            "zh": "十点",
+            "en": "ten o'clock"
+          },
+          "emoji": "🕙"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Demander l'heure",
+          "index": 2
+        }
+      ],
+      "id": "54b7ae7b-8f04-4524-8861-5dd2e8d4df40"
+    },
+    {
+      "text": "À quelle heure ouvre le café ?",
+      "ipa": "a kɛl œʁ uvʁ lə kafe",
+      "translation": {
+        "zh": "咖啡馆几点开门?",
+        "en": "What time does the café open?"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "À quelle heure",
+          "lemma": "heure",
+          "ipa": "a kɛl œʁ",
+          "translation": {
+            "zh": "几点",
+            "en": "at what hour"
+          },
+          "emoji": "🕐"
+        },
+        {
+          "text": "ouvre",
+          "lemma": "ouvrir",
+          "ipa": "uvʁ",
+          "translation": {
+            "zh": "开",
+            "en": "opens"
+          },
+          "emoji": "🔓"
+        },
+        {
+          "text": "le café",
+          "lemma": "café",
+          "ipa": "lə kafe",
+          "translation": {
+            "zh": "咖啡馆",
+            "en": "the café"
+          },
+          "emoji": "☕"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Demander l'heure",
+          "index": 3
+        }
+      ],
+      "id": "80c184ff-66e0-4196-bb52-32a8829fd88d"
+    },
+    {
+      "text": "Il ouvre à huit heures.",
+      "ipa": "il uvʁ a ɥit œʁ",
+      "translation": {
+        "zh": "它八点开门。",
+        "en": "It opens at eight o'clock."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Il ouvre",
+          "lemma": "ouvrir",
+          "ipa": "il uvʁ",
+          "translation": {
+            "zh": "它开",
+            "en": "it opens"
+          },
+          "emoji": "🔓"
+        },
+        {
+          "text": "à huit heures",
+          "lemma": "heure",
+          "ipa": "a ɥit œʁ",
+          "translation": {
+            "zh": "八点",
+            "en": "at eight o'clock"
+          },
+          "emoji": "🕗"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Demander l'heure",
+          "index": 4
+        }
+      ],
+      "id": "05fe5495-a29a-4486-b62d-2c8fbc9dd20d"
+    },
+    {
+      "text": "Merci beaucoup, madame.",
+      "ipa": "mɛʁsi boku madam",
+      "translation": {
+        "zh": "非常感谢,女士。",
+        "en": "Thank you very much, ma'am."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Merci",
+          "lemma": "merci",
+          "ipa": "mɛʁsi",
+          "translation": {
+            "zh": "谢谢",
+            "en": "thank you"
+          },
+          "emoji": "🙏"
+        },
+        {
+          "text": "beaucoup",
+          "lemma": "beaucoup",
+          "ipa": "boku",
+          "translation": {
+            "zh": "非常",
+            "en": "very much"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "madame",
+          "lemma": "madame",
+          "ipa": "madam",
+          "translation": {
+            "zh": "女士",
+            "en": "ma'am"
+          },
+          "emoji": "👩"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Demander l'heure",
+          "index": 5
+        }
+      ],
+      "id": "b3d99343-8983-46b6-a78b-cd6d5f1273c9"
+    },
+    {
+      "text": "Il pleut, il pleut, bergère",
+      "ipa": "il plø il plø bɛʁʒɛʁ",
+      "translation": {
+        "zh": "下雨了,下雨了,牧羊女",
+        "en": "It's raining, it's raining, shepherdess"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Il pleut",
+          "lemma": "pleuvoir",
+          "ipa": "il plø",
+          "translation": {
+            "zh": "下雨了",
+            "en": "it's raining"
+          },
+          "emoji": "🌧️"
+        },
+        {
+          "text": "il pleut",
+          "lemma": "pleuvoir",
+          "ipa": "il plø",
+          "translation": {
+            "zh": "下雨了",
+            "en": "it's raining"
+          },
+          "emoji": "🌧️"
+        },
+        {
+          "text": "bergère",
+          "lemma": "bergère",
+          "ipa": "bɛʁʒɛʁ",
+          "translation": {
+            "zh": "牧羊女",
+            "en": "shepherdess"
+          },
+          "emoji": "👧"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Il pleut bergère",
+          "index": 1
+        }
+      ],
+      "id": "7524574e-c8fc-42b3-8190-528c920f221f"
+    },
+    {
+      "text": "Rentre tes blancs moutons",
+      "ipa": "ʁɑ̃tʁ te blɑ̃ mutɔ̃",
+      "translation": {
+        "zh": "把你的白绵羊赶回来",
+        "en": "Bring in your white sheep"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Rentre tes",
+          "lemma": "rentrer",
+          "ipa": "ʁɑ̃tʁ te",
+          "translation": {
+            "zh": "把你的…赶回来",
+            "en": "bring in your"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "blancs",
+          "lemma": "blanc",
+          "ipa": "blɑ̃",
+          "translation": {
+            "zh": "白色的",
+            "en": "white"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "moutons",
+          "lemma": "mouton",
+          "ipa": "mutɔ̃",
+          "translation": {
+            "zh": "绵羊",
+            "en": "sheep"
+          },
+          "emoji": "🐑"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Il pleut bergère",
+          "index": 2
+        }
+      ],
+      "id": "c4535cb0-d15b-4208-92ac-c3017c9b4db3"
+    },
+    {
+      "text": "Allons sous ma chaumière",
+      "ipa": "alɔ̃ su ma ʃomjɛʁ",
+      "translation": {
+        "zh": "我们到我的茅屋里去吧",
+        "en": "Let's go under my cottage"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Allons",
+          "lemma": "aller",
+          "ipa": "alɔ̃",
+          "translation": {
+            "zh": "我们走吧",
+            "en": "let's go"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "sous ma chaumière",
+          "lemma": "chaumière",
+          "ipa": "su ma ʃomjɛʁ",
+          "translation": {
+            "zh": "到我的茅屋下",
+            "en": "under my cottage"
+          },
+          "emoji": "🏠"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Il pleut bergère",
+          "index": 3
+        }
+      ],
+      "id": "8c9b15aa-5a65-4976-b2b7-13d5a3e5d5a1"
+    },
+    {
+      "text": "Bergère, vite, allons",
+      "ipa": "bɛʁʒɛʁ vit alɔ̃",
+      "translation": {
+        "zh": "牧羊女,快点,我们走吧",
+        "en": "Shepherdess, quickly, let's go"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Bergère",
+          "lemma": "bergère",
+          "ipa": "bɛʁʒɛʁ",
+          "translation": {
+            "zh": "牧羊女",
+            "en": "shepherdess"
+          },
+          "emoji": "👧"
+        },
+        {
+          "text": "vite",
+          "lemma": "vite",
+          "ipa": "vit",
+          "translation": {
+            "zh": "快点",
+            "en": "quickly"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "allons",
+          "lemma": "aller",
+          "ipa": "alɔ̃",
+          "translation": {
+            "zh": "我们走吧",
+            "en": "let's go"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Il pleut bergère",
+          "index": 4
+        }
+      ],
+      "id": "645b2b8f-b49b-4bab-94d5-20f5d4023332"
+    },
+    {
+      "text": "J'entends sous le feuillage, l'eau qui tombe à grand bruit",
+      "ipa": "ʒɑ̃tɑ̃ su lə fœjaʒ lo ki tɔ̃b a ɡʁɑ̃ bʁɥi",
+      "translation": {
+        "zh": "我听见树叶下,雨水哗哗地落下",
+        "en": "I hear under the foliage, the water falling noisily"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "J'entends",
+          "lemma": "entendre",
+          "ipa": "ʒɑ̃tɑ̃",
+          "translation": {
+            "zh": "我听见",
+            "en": "I hear"
+          },
+          "emoji": "👂"
+        },
+        {
+          "text": "sous le feuillage",
+          "lemma": "feuillage",
+          "ipa": "su lə fœjaʒ",
+          "translation": {
+            "zh": "在树叶下",
+            "en": "under the foliage"
+          },
+          "emoji": "🍃"
+        },
+        {
+          "text": "l'eau",
+          "lemma": "eau",
+          "ipa": "lo",
+          "translation": {
+            "zh": "水",
+            "en": "the water"
+          },
+          "emoji": "💧"
+        },
+        {
+          "text": "qui tombe",
+          "lemma": "tomber",
+          "ipa": "ki tɔ̃b",
+          "translation": {
+            "zh": "落下",
+            "en": "which falls"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "à grand bruit",
+          "lemma": "à grand bruit",
+          "ipa": "a ɡʁɑ̃ bʁɥi",
+          "translation": {
+            "zh": "哗哗地",
+            "en": "noisily"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Il pleut bergère",
+          "index": 5
+        }
+      ],
+      "id": "542b3c74-ff29-4d24-ae7e-ec5920679253"
+    },
+    {
+      "text": "Mon âne, mon âne a bien mal à la tête",
+      "ipa": "mɔ̃n ɑn mɔ̃n ɑn a bjɛ̃ mal a la tɛt",
+      "translation": {
+        "zh": "我的小驴,我的小驴头很疼",
+        "en": "My donkey, my donkey has a bad headache"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Mon âne",
+          "lemma": "âne",
+          "ipa": "mɔ̃n ɑn",
+          "translation": {
+            "zh": "我的驴",
+            "en": "my donkey"
+          },
+          "emoji": "🫏"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "ipa": "",
+          "translation": {
+            "zh": "",
+            "en": ""
+          },
+          "emoji": ""
+        },
+        {
+          "text": "mon âne",
+          "lemma": "âne",
+          "ipa": "mɔ̃n ɑn",
+          "translation": {
+            "zh": "我的驴",
+            "en": "my donkey"
+          },
+          "emoji": "🫏"
+        },
+        {
+          "text": "a bien mal",
+          "lemma": "avoir mal",
+          "ipa": "a bjɛ̃ mal",
+          "translation": {
+            "zh": "很疼",
+            "en": "hurts badly"
+          },
+          "emoji": "🤕"
+        },
+        {
+          "text": "à la tête",
+          "lemma": "mal à la tête",
+          "ipa": "a la tɛt",
+          "translation": {
+            "zh": "头疼",
+            "en": "headache"
+          },
+          "emoji": "🤯"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mon âne",
+          "index": 1
+        }
+      ],
+      "id": "61ae2de9-88ab-40e4-aa50-4005dd0fcec4"
+    },
+    {
+      "text": "Madame lui a fait faire un bonnet pour sa fête",
+      "ipa": "madam lɥi a fɛ fɛʁ œ̃ bɔnɛ puʁ sa fɛt",
+      "translation": {
+        "zh": "夫人为她过节做了一顶帽子",
+        "en": "Madam had a bonnet made for her name day"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Madame",
+          "lemma": "madame",
+          "ipa": "madam",
+          "translation": {
+            "zh": "夫人",
+            "en": "madam"
+          },
+          "emoji": "👩"
+        },
+        {
+          "text": "lui a fait",
+          "lemma": "faire",
+          "ipa": "lɥi a fɛ",
+          "translation": {
+            "zh": "让人给她做",
+            "en": "had made for her"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "faire",
+          "lemma": "faire",
+          "ipa": "fɛʁ",
+          "translation": {
+            "zh": "做",
+            "en": "make"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "un bonnet",
+          "lemma": "bonnet",
+          "ipa": "œ̃ bɔnɛ",
+          "translation": {
+            "zh": "一顶帽子",
+            "en": "a bonnet"
+          },
+          "emoji": "🎩"
+        },
+        {
+          "text": "pour sa fête",
+          "lemma": "fête",
+          "ipa": "puʁ sa fɛt",
+          "translation": {
+            "zh": "为她的节日",
+            "en": "for her name day"
+          },
+          "emoji": "🎉"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mon âne",
+          "index": 2
+        }
+      ],
+      "id": "7f17822d-f1c6-4f5b-9c00-040c51e35457"
+    },
+    {
+      "text": "Et des souliers lilas, la la, et des souliers lilas",
+      "ipa": "e de sulje lila la la e de sulje lila",
+      "translation": {
+        "zh": "还有淡紫色的鞋子,啦啦,还有淡紫色的鞋子",
+        "en": "And lilac shoes, la la, and lilac shoes"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Et des souliers",
+          "lemma": "soulier",
+          "ipa": "e de sulje",
+          "translation": {
+            "zh": "还有鞋子",
+            "en": "and shoes"
+          },
+          "emoji": "👞"
+        },
+        {
+          "text": "lilas",
+          "lemma": "lilas",
+          "ipa": "lila",
+          "translation": {
+            "zh": "淡紫色的",
+            "en": "lilac"
+          },
+          "emoji": "💜"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "ipa": "",
+          "translation": {
+            "zh": "",
+            "en": ""
+          },
+          "emoji": ""
+        },
+        {
+          "text": "la la",
+          "lemma": "la la",
+          "ipa": "la la",
+          "translation": {
+            "zh": "啦啦",
+            "en": "la la"
+          },
+          "emoji": "🎵"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "ipa": "",
+          "translation": {
+            "zh": "",
+            "en": ""
+          },
+          "emoji": ""
+        },
+        {
+          "text": "et des souliers",
+          "lemma": "soulier",
+          "ipa": "e de sulje",
+          "translation": {
+            "zh": "还有鞋子",
+            "en": "and shoes"
+          },
+          "emoji": "👞"
+        },
+        {
+          "text": "lilas",
+          "lemma": "lilas",
+          "ipa": "lila",
+          "translation": {
+            "zh": "淡紫色的",
+            "en": "lilac"
+          },
+          "emoji": "💜"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mon âne",
+          "index": 3
+        }
+      ],
+      "id": "6599f6b8-d77a-4ea1-b29e-6dd9e093bcec"
+    },
+    {
+      "text": "Mon âne, mon âne a bien mal aux oreilles",
+      "ipa": "mɔ̃n ɑn mɔ̃n ɑn a bjɛ̃ mal o zɔʁɛj",
+      "translation": {
+        "zh": "我的小驴,我的小驴耳朵很疼",
+        "en": "My donkey, my donkey has bad earache"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Mon âne",
+          "lemma": "âne",
+          "ipa": "mɔ̃n ɑn",
+          "translation": {
+            "zh": "我的驴",
+            "en": "my donkey"
+          },
+          "emoji": "🫏"
+        },
+        {
+          "text": ",",
+          "lemma": ",",
+          "ipa": "",
+          "translation": {
+            "zh": "",
+            "en": ""
+          },
+          "emoji": ""
+        },
+        {
+          "text": "mon âne",
+          "lemma": "âne",
+          "ipa": "mɔ̃n ɑn",
+          "translation": {
+            "zh": "我的驴",
+            "en": "my donkey"
+          },
+          "emoji": "🫏"
+        },
+        {
+          "text": "a bien mal",
+          "lemma": "avoir mal",
+          "ipa": "a bjɛ̃ mal",
+          "translation": {
+            "zh": "很疼",
+            "en": "hurts badly"
+          },
+          "emoji": "🤕"
+        },
+        {
+          "text": "aux oreilles",
+          "lemma": "mal aux oreilles",
+          "ipa": "o zɔʁɛj",
+          "translation": {
+            "zh": "耳朵疼",
+            "en": "earache"
+          },
+          "emoji": "👂"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mon âne",
+          "index": 4
+        }
+      ],
+      "id": "2d4392bb-9d4a-4542-b97e-02c1aa358e31"
+    },
+    {
+      "text": "Madame lui a fait faire une paire de boucles d'oreilles",
+      "ipa": "madam lɥi a fɛ fɛʁ yn pɛʁ də bukl dɔʁɛj",
+      "translation": {
+        "zh": "夫人给她做了一副耳环",
+        "en": "Madam had a pair of earrings made for her"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Madame",
+          "lemma": "madame",
+          "ipa": "madam",
+          "translation": {
+            "zh": "夫人",
+            "en": "madam"
+          },
+          "emoji": "👩"
+        },
+        {
+          "text": "lui a fait",
+          "lemma": "faire",
+          "ipa": "lɥi a fɛ",
+          "translation": {
+            "zh": "让人给她做",
+            "en": "had made for her"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "faire",
+          "lemma": "faire",
+          "ipa": "fɛʁ",
+          "translation": {
+            "zh": "做",
+            "en": "make"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "une paire",
+          "lemma": "paire de",
+          "ipa": "yn pɛʁ",
+          "translation": {
+            "zh": "一对",
+            "en": "a pair of"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "de boucles d'oreilles",
+          "lemma": "boucles d'oreilles",
+          "ipa": "də bukl dɔʁɛj",
+          "translation": {
+            "zh": "耳环",
+            "en": "earrings"
+          },
+          "emoji": "💎"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Mon âne",
+          "index": 5
+        }
+      ],
+      "id": "01e01618-1c36-4a69-96f9-5f25811cc952"
+    },
+    {
+      "text": "Savez-vous planter les choux",
+      "ipa": "save vu plɑ̃te le ʃu",
+      "translation": {
+        "zh": "你们知道怎么种卷心菜吗",
+        "en": "Do you know how to plant cabbages"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Savez-vous",
+          "lemma": "savoir",
+          "ipa": "save vu",
+          "translation": {
+            "zh": "你们知道吗",
+            "en": "do you know"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "planter",
+          "lemma": "planter",
+          "ipa": "plɑ̃te",
+          "translation": {
+            "zh": "种植",
+            "en": "to plant"
+          },
+          "emoji": "🌱"
+        },
+        {
+          "text": "les choux",
+          "lemma": "chou",
+          "ipa": "le ʃu",
+          "translation": {
+            "zh": "卷心菜",
+            "en": "the cabbages"
+          },
+          "emoji": "🥬"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Savez-vous planter les choux",
+          "index": 1
+        }
+      ],
+      "id": "ad5c57ff-7909-495c-a574-eee20f7c3959"
+    },
+    {
+      "text": "À la mode, à la mode",
+      "ipa": "a la mɔd a la mɔd",
+      "translation": {
+        "zh": "用流行的方式,用流行的方式",
+        "en": "In style, in style"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "À la mode",
+          "lemma": "à la mode",
+          "ipa": "a la mɔd",
+          "translation": {
+            "zh": "流行的方式",
+            "en": "in style"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "à la mode",
+          "lemma": "à la mode",
+          "ipa": "a la mɔd",
+          "translation": {
+            "zh": "流行的方式",
+            "en": "in style"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Savez-vous planter les choux",
+          "index": 2
+        }
+      ],
+      "id": "c4db6a56-bcf7-4e90-954c-3669fbaeb40a"
+    },
+    {
+      "text": "À la mode de chez nous",
+      "ipa": "a la mɔd də ʃe nu",
+      "translation": {
+        "zh": "用我们家乡的方式",
+        "en": "In the style of our home"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "À la mode",
+          "lemma": "à la mode",
+          "ipa": "a la mɔd",
+          "translation": {
+            "zh": "流行的方式",
+            "en": "in style"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "de chez nous",
+          "lemma": "de chez nous",
+          "ipa": "də ʃe nu",
+          "translation": {
+            "zh": "我们家乡的",
+            "en": "of our home"
+          },
+          "emoji": "🏡"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Savez-vous planter les choux",
+          "index": 4
+        }
+      ],
+      "id": "2c76b840-9baa-4bd0-8016-63b4681ef16a"
+    },
+    {
+      "text": "On les plante avec le pied",
+      "ipa": "ɔ̃ le plɑ̃t avɛk lə pje",
+      "translation": {
+        "zh": "我们用脚种它们",
+        "en": "We plant them with the foot"
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "On les plante",
+          "lemma": "planter",
+          "ipa": "ɔ̃ le plɑ̃t",
+          "translation": {
+            "zh": "我们种它们",
+            "en": "we plant them"
+          },
+          "emoji": "🌱"
+        },
+        {
+          "text": "avec le pied",
+          "lemma": "pied",
+          "ipa": "avɛk lə pje",
+          "translation": {
+            "zh": "用脚",
+            "en": "with the foot"
+          },
+          "emoji": "🦶"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Savez-vous planter les choux",
+          "index": 5
+        }
+      ],
+      "id": "e39177f1-d2cb-40f8-be2f-8528e1563fbe"
+    },
+    {
+      "text": "Au printemps, les fleurs poussent.",
+      "ipa": "o pʁɛ̃tɑ̃ le flœʁ puʃ",
+      "translation": {
+        "zh": "春天,花儿生长。",
+        "en": "In spring, the flowers grow."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "Au printemps",
+          "lemma": "printemps",
+          "ipa": "o pʁɛ̃tɑ̃",
+          "translation": {
+            "zh": "春天",
+            "en": "in spring"
+          },
+          "emoji": "🌸"
+        },
+        {
+          "text": "les fleurs",
+          "lemma": "fleur",
+          "ipa": "le flœʁ",
+          "translation": {
+            "zh": "花",
+            "en": "flowers"
+          },
+          "emoji": "🌷"
+        },
+        {
+          "text": "poussent",
+          "lemma": "pousser",
+          "ipa": "puʃ",
+          "translation": {
+            "zh": "生长",
+            "en": "grow"
+          },
+          "emoji": "🌱"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Les saisons",
+          "index": 0
+        }
+      ],
+      "id": "e3cae781-d7b6-49c2-a381-faaddc23d699"
+    },
+    {
+      "text": "En été, il fait chaud.",
+      "ipa": "ɑ̃n ete il fɛ ʃo",
+      "translation": {
+        "zh": "夏天,天气热。",
+        "en": "In summer, it is hot."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "En été",
+          "lemma": "été",
+          "ipa": "ɑ̃n ete",
+          "translation": {
+            "zh": "夏天",
+            "en": "in summer"
+          },
+          "emoji": "☀️"
+        },
+        {
+          "text": "il fait chaud",
+          "lemma": "faire chaud",
+          "ipa": "il fɛ ʃo",
+          "translation": {
+            "zh": "天气热",
+            "en": "it is hot"
+          },
+          "emoji": "🥵"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Les saisons",
+          "index": 1
+        }
+      ],
+      "id": "291ff7ca-2a4e-48b1-8654-f80fe74d75cd"
+    },
+    {
+      "text": "En automne, les feuilles tombent.",
+      "ipa": "ɑ̃n otɔn le fœj tɔ̃b",
+      "translation": {
+        "zh": "秋天,树叶落下。",
+        "en": "In autumn, the leaves fall."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "En automne",
+          "lemma": "automne",
+          "ipa": "ɑ̃n otɔn",
+          "translation": {
+            "zh": "秋天",
+            "en": "in autumn"
+          },
+          "emoji": "🍂"
+        },
+        {
+          "text": "les feuilles",
+          "lemma": "feuille",
+          "ipa": "le fœj",
+          "translation": {
+            "zh": "树叶",
+            "en": "leaves"
+          },
+          "emoji": "🍁"
+        },
+        {
+          "text": "tombent",
+          "lemma": "tomber",
+          "ipa": "tɔ̃b",
+          "translation": {
+            "zh": "落下",
+            "en": "fall"
+          },
+          "emoji": ""
+        }
+      ],
+      "tags": [
+        {
+          "name": "Les saisons",
+          "index": 2
+        }
+      ],
+      "id": "20d22ec0-e9e8-4134-a9b2-94b21abdcd05"
+    },
+    {
+      "text": "En hiver, il fait froid et il neige.",
+      "ipa": "ɑ̃n ivɛʁ il fɛ fʁwa e il nɛʒ",
+      "translation": {
+        "zh": "冬天,天气冷,下雪。",
+        "en": "In winter, it is cold and it snows."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "En hiver",
+          "lemma": "hiver",
+          "ipa": "ɑ̃n ivɛʁ",
+          "translation": {
+            "zh": "冬天",
+            "en": "in winter"
+          },
+          "emoji": "❄️"
+        },
+        {
+          "text": "il fait froid",
+          "lemma": "faire froid",
+          "ipa": "il fɛ fʁwa",
+          "translation": {
+            "zh": "天气冷",
+            "en": "it is cold"
+          },
+          "emoji": "🥶"
+        },
+        {
+          "text": "et",
+          "lemma": "et",
+          "ipa": "e",
+          "translation": {
+            "zh": "和",
+            "en": "and"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "il neige",
+          "lemma": "neiger",
+          "ipa": "il nɛʒ",
+          "translation": {
+            "zh": "下雪",
+            "en": "it snows"
+          },
+          "emoji": "🌨️"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Les saisons",
+          "index": 3
+        }
+      ],
+      "id": "63927e69-8823-4c15-ae96-2d95bf6dee1e"
+    },
+    {
+      "text": "J'aime les quatre saisons.",
+      "ipa": "ʒɛm le katʁ sɛzɔ̃",
+      "translation": {
+        "zh": "我喜欢四季。",
+        "en": "I love the four seasons."
+      },
+      "cefr": "A1",
+      "tokens": [
+        {
+          "text": "J'aime",
+          "lemma": "aimer",
+          "ipa": "ʒɛm",
+          "translation": {
+            "zh": "我喜欢",
+            "en": "I love"
+          },
+          "emoji": "❤️"
+        },
+        {
+          "text": "les quatre saisons",
+          "lemma": "saison",
+          "ipa": "le katʁ sɛzɔ̃",
+          "translation": {
+            "zh": "四季",
+            "en": "the four seasons"
+          },
+          "emoji": "🍃"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Les saisons",
+          "index": 4
+        }
+      ],
+      "id": "47234d06-29d2-4d0b-8198-070334acdcde"
     }
   ]
 }
