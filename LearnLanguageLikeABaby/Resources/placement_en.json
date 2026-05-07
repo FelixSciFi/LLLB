@@ -7,19 +7,19 @@
       "prompt": "thank you",
       "options": [
         {
+          "zh": "谢谢",
+          "en": "thank you"
+        },
+        {
           "zh": "你好",
           "en": "hello"
         },
         {
           "zh": "再见",
           "en": "goodbye"
-        },
-        {
-          "zh": "谢谢",
-          "en": "thank you"
         }
       ],
-      "correctIndex": 2
+      "correctIndex": 0
     },
     {
       "id": "en_a1_002",
@@ -70,19 +70,19 @@
       "prompt": "car",
       "options": [
         {
+          "zh": "汽车",
+          "en": "car"
+        },
+        {
           "zh": "自行车",
           "en": "bicycle"
         },
         {
           "zh": "火车",
           "en": "train"
-        },
-        {
-          "zh": "汽车",
-          "en": "car"
         }
       ],
-      "correctIndex": 2
+      "correctIndex": 0
     },
     {
       "id": "en_a2_002",
@@ -91,19 +91,19 @@
       "prompt": "I would like a coffee.",
       "options": [
         {
-          "zh": "我喜欢咖啡",
-          "en": "I like coffee"
-        },
-        {
           "zh": "我想要一杯咖啡",
           "en": "I would like a coffee"
+        },
+        {
+          "zh": "我喜欢咖啡",
+          "en": "I like coffee"
         },
         {
           "zh": "我有一杯咖啡",
           "en": "I have a coffee"
         }
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     },
     {
       "id": "en_a2_003",
@@ -175,19 +175,19 @@
       "prompt": "If it rains, we won't go.",
       "options": [
         {
+          "zh": "如果下雨我们就不去",
+          "en": "If it rains we won't go"
+        },
+        {
           "zh": "下雨了我们要去",
           "en": "It's raining and we want to go"
         },
         {
           "zh": "我们去了，但下雨了",
           "en": "We went, but it rained"
-        },
-        {
-          "zh": "如果下雨我们就不去",
-          "en": "If it rains we won't go"
         }
       ],
-      "correctIndex": 2
+      "correctIndex": 0
     },
     {
       "id": "en_b2_001",
@@ -217,19 +217,19 @@
       "prompt": "This matter makes me feel very disappointed.",
       "options": [
         {
+          "zh": "这件事让我很失望",
+          "en": "This matter makes me feel very disappointed"
+        },
+        {
           "zh": "我让这件事失败了",
           "en": "I caused this matter to fail"
         },
         {
           "zh": "这件事让我很高兴",
           "en": "This matter makes me happy"
-        },
-        {
-          "zh": "这件事让我很失望",
-          "en": "This matter makes me feel very disappointed"
         }
       ],
-      "correctIndex": 2
+      "correctIndex": 0
     },
     {
       "id": "en_b2_003",
@@ -238,19 +238,19 @@
       "prompt": "No matter how busy he is, he keeps exercising.",
       "options": [
         {
+          "zh": "不管多忙他都坚持锻炼",
+          "en": "No matter how busy he is, he keeps exercising"
+        },
+        {
           "zh": "他太忙了不能锻炼",
           "en": "He is too busy to exercise"
         },
         {
           "zh": "他偶尔锻炼一下",
           "en": "He exercises occasionally"
-        },
-        {
-          "zh": "不管多忙他都坚持锻炼",
-          "en": "No matter how busy he is, he keeps exercising"
         }
       ],
-      "correctIndex": 2
+      "correctIndex": 0
     },
     {
       "id": "en_c1_001",
@@ -259,19 +259,19 @@
       "prompt": "humble",
       "options": [
         {
+          "zh": "谦虚的",
+          "en": "modest / humble"
+        },
+        {
           "zh": "骄傲的",
           "en": "proud / arrogant"
         },
         {
           "zh": "勇敢的",
           "en": "brave"
-        },
-        {
-          "zh": "谦虚的",
-          "en": "modest / humble"
         }
       ],
-      "correctIndex": 2
+      "correctIndex": 0
     },
     {
       "id": "en_c1_002",
@@ -301,19 +301,19 @@
       "prompt": "Despite numerous setbacks, he refused to give up.",
       "options": [
         {
+          "zh": "尽管困难重重，他仍然没有放弃",
+          "en": "Despite numerous setbacks, he refused to give up"
+        },
+        {
           "zh": "因为太难了他放弃了",
           "en": "He gave up because it was too hard"
         },
         {
           "zh": "他一开始就没想做",
           "en": "He never wanted to do it from the start"
-        },
-        {
-          "zh": "尽管困难重重，他仍然没有放弃",
-          "en": "Despite numerous setbacks, he refused to give up"
         }
       ],
-      "correctIndex": 2
+      "correctIndex": 0
     }
   ]
 }

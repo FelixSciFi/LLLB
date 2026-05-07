@@ -28,6 +28,19 @@ struct ContentView: View {
     var onTopUpForRefill:    (Int) -> Void = { _ in }
     var onWatchAdForRefill:  () -> Void = {}
     var onOpenSubscribe:     () -> Void = {}
+    /// Driven by RootView. When true, ContentView paints the spotlight
+    /// tutorial as a non-blocking overlay above its own UI.
+    @Binding var showTutorial: Bool
+    /// Called when the user finishes or skips the tutorial. RootView is
+    /// expected to set tutorialCompleted_v1 = true and clear `showTutorial`.
+    var onTutorialDone: (Bool) -> Void = { _ in }
+    @State private var tutorialAnchors: [TutorialAnchorID: CGRect] = [:]
+    /// User-triggered voice-quality hint shown in the top bar. Recomputed
+    /// on appear, on learning-language switch, and after any sheet that
+    /// might have changed the voice selection (Profile / hint sheet).
+    @State private var voiceAdvice: VoiceUpgradeAdvice = .none
+    @State private var showVoiceHintSheet = false
+    @AppStorage("voice_hint_dismissed_v1") private var voiceHintDismissed = false
     @State private var showLibraryPicker  = false
     @State private var showSpeedPopover   = false
     @State private var showRepeatsPopover = false
@@ -75,6 +88,7 @@ struct ContentView: View {
                     HStack(alignment: .top, spacing: 0) {
                         leftControls
                             .frame(width: 56)
+                            .tutorialAnchor(.leftColumn)
                             .padding(.top, 16)
 
                         VStack(spacing: 0) {
@@ -95,6 +109,7 @@ struct ContentView: View {
                             .transition(.opacity)
                             .animation(.easeOut(duration: 0.22), value: session.currentSentence.id)
                             .padding(.horizontal, 12)
+                            .tutorialAnchor(.sentenceArea)
                             Spacer(minLength: 110)
                             peekArrow(systemName: "chevron.down")
                         }
@@ -102,6 +117,7 @@ struct ContentView: View {
 
                         rightColumn
                             .frame(width: 56)
+                            .tutorialAnchor(.rightColumn)
                             .padding(.top, 16)
                     }
                     .padding(.horizontal, 4)
@@ -132,6 +148,7 @@ struct ContentView: View {
                                     .overlay(Circle().stroke(Color.lllbChipStroke, lineWidth: 0.5))
                             }
                             .buttonStyle(.plain)
+                            .tutorialAnchor(.profileButton)
                             .padding(.trailing, 20)
                             .padding(.bottom, 32)
                         }
@@ -289,6 +306,17 @@ struct ContentView: View {
                     .transition(.opacity)
                 }
 
+                // ── Spotlight tutorial (zIndex 50: below user-driven overlays) ──
+                if showTutorial {
+                    TutorialSpotlightOverlay(
+                        nativeLanguage: session.nativeLanguage,
+                        anchors:        tutorialAnchors,
+                        onDone:         { skipped in onTutorialDone(skipped) }
+                    )
+                    .transition(.opacity)
+                    .zIndex(50)
+                }
+
                 // ── Placement test (first launch, big-enough libraries) ─────────
                 if let pm = placementModel {
                     PlacementTestView(
@@ -311,6 +339,32 @@ struct ContentView: View {
                     .transition(.opacity)
                     .zIndex(300)
                 }
+            }
+            .onPreferenceChange(TutorialAnchorKey.self) { dict in
+                tutorialAnchors = dict
+            }
+            .onAppear { recomputeVoiceAdvice() }
+            .onChange(of: session.config.id) { _ in recomputeVoiceAdvice() }
+            .onChange(of: showProfile) { wasShown in
+                // Profile may contain VoiceHub edits — re-check on close.
+                if !wasShown { recomputeVoiceAdvice() }
+            }
+            .sheet(isPresented: $showVoiceHintSheet, onDismiss: { recomputeVoiceAdvice() }) {
+                VoiceHintSheet(
+                    advice:         voiceAdvice,
+                    nativeLanguage: session.nativeLanguage,
+                    onOpenProfile: {
+                        showVoiceHintSheet = false
+                        DispatchQueue.main.asyncAfter(deadline: .now() + 0.35) {
+                            showProfile = true
+                        }
+                    },
+                    onSilence: {
+                        voiceHintDismissed = true
+                        showVoiceHintSheet = false
+                    },
+                    onClose: { showVoiceHintSheet = false }
+                )
             }
             .toolbar(.hidden, for: .navigationBar)
             .gesture(
@@ -451,6 +505,9 @@ struct ContentView: View {
             streakLabel
             CandyBalanceLabel(balance: candyBalance)
             Spacer()
+            if voiceAdvice.needsHint && !voiceHintDismissed {
+                voiceHintButton
+            }
             Button {
                 Haptics.light()
                 if achievementManager.pendingMilestones.isEmpty {
@@ -479,6 +536,30 @@ struct ContentView: View {
                 .fill(Color.lllbSeparator)
                 .frame(height: 0.5)
         }
+    }
+
+    private var voiceHintButton: some View {
+        Button {
+            Haptics.light()
+            showVoiceHintSheet = true
+        } label: {
+            HStack(spacing: 4) {
+                Image(systemName: "speaker.wave.2.bubble.left")
+                    .font(.system(size: 12, weight: .semibold))
+                Text(L("音质", "Voice", nativeLanguage: session.nativeLanguage))
+                    .font(.system(size: 12, weight: .medium))
+            }
+            .foregroundStyle(.orange)
+            .padding(.horizontal, 8)
+            .padding(.vertical, 4)
+            .background(Color.orange.opacity(0.12), in: Capsule())
+            .overlay(Capsule().stroke(Color.orange.opacity(0.35), lineWidth: 0.5))
+        }
+        .buttonStyle(.plain)
+    }
+
+    private func recomputeVoiceAdvice() {
+        voiceAdvice = VoiceQualityCheck.advice(for: session.config.ttsLocale)
     }
 
     // MARK: - Peek arrows

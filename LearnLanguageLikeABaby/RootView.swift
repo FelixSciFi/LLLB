@@ -17,6 +17,12 @@ struct RootView: View {
     /// because cross-device replay isn't a concern: the gift itself is
     /// already KVS-protected via PromoStore).
     @AppStorage("welcome_gift_shown_v1") private var welcomeGiftShown = false
+    /// One-shot flag for the new-user walkthrough. Settable from Profile
+    /// ("重看新手指引") — flipping back to false re-triggers the overlay.
+    @AppStorage("tutorialCompleted_v1") private var tutorialCompleted = false
+    @State private var showTutorial = false
+    @State private var showTutorialSkipToast = false
+    @State private var sessionPausedByTutorial = false
 
     var body: some View {
         ZStack {
@@ -47,6 +53,9 @@ struct RootView: View {
                 .zIndex(900)
                 .transition(.opacity.combined(with: .scale(scale: 0.96)))
             }
+            if showTutorialSkipToast {
+                tutorialSkipToast.zIndex(1100)
+            }
         }
         .onAppear {
             if iCloudSync.shared.didRestoreFromCloud && !showRestoreToast {
@@ -56,6 +65,7 @@ struct RootView: View {
                 }
             }
             checkWelcomeGift()
+            checkTutorial()
         }
         .onChange(of: onboardingCompleted) { done in
             // Onboarding just completed → promo was just granted, but the
@@ -68,7 +78,85 @@ struct RootView: View {
         // brand-new user.
         .onReceive(appModel.activeSession.$wasPlacementShown) { _ in
             checkWelcomeGift()
+            checkTutorial()
         }
+        // Welcome gift just dismissed → tutorial's turn (if conditions hold).
+        .onChange(of: welcomeGiftShown) { _ in checkTutorial() }
+        .onChange(of: showWelcomeGift)  { _ in checkTutorial() }
+        // Re-triggerable: Profile's "重看新手指引" sets the flag back to false.
+        .onChange(of: tutorialCompleted) { _ in checkTutorial() }
+        .onChange(of: showTutorial) { isShown in
+            if isShown {
+                if appModel.activeSession.isAutoPlaying {
+                    appModel.activeSession.pause()
+                    sessionPausedByTutorial = true
+                }
+            } else if sessionPausedByTutorial {
+                appModel.activeSession.resume()
+                sessionPausedByTutorial = false
+            }
+        }
+    }
+
+    /// Show the walkthrough iff: onboarding finished, placement settled,
+    /// welcome gift not currently on screen (it owns the foreground first),
+    /// no profile/paywall up, and we haven't completed the tutorial yet.
+    private func checkTutorial() {
+        guard onboardingCompleted,
+              !tutorialCompleted,
+              appModel.activeSession.wasPlacementShown,
+              !showWelcomeGift,
+              !showProfile,
+              !showPaywall,
+              !showTutorial
+        else { return }
+        // Small delay so the welcome gift's exit transition finishes cleanly
+        // before the tutorial slides in.
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) {
+            guard !showTutorial,
+                  !tutorialCompleted,
+                  !showWelcomeGift else { return }
+            withAnimation(.easeOut(duration: 0.28)) { showTutorial = true }
+        }
+    }
+
+    /// Look up the active learning session's TTS locale and ask
+    /// `VoiceQualityCheck` whether we should append the upgrade page.
+    /// Recomputed each time the tutorial mounts (so a re-launch via
+    /// "重看新手指引" reflects any changes since first launch).
+    private func currentVoiceAdvice() -> VoiceUpgradeAdvice {
+        let locale = appModel.activeSession.config.ttsLocale
+        return VoiceQualityCheck.advice(for: locale)
+    }
+
+    private func finishTutorial(skipped: Bool) {
+        tutorialCompleted = true
+        withAnimation(.easeOut(duration: 0.22)) { showTutorial = false }
+        if skipped {
+            withAnimation(.easeOut(duration: 0.28)) { showTutorialSkipToast = true }
+            DispatchQueue.main.asyncAfter(deadline: .now() + 3.5) {
+                withAnimation(.easeIn(duration: 0.35)) { showTutorialSkipToast = false }
+            }
+        }
+    }
+
+    private var tutorialSkipToast: some View {
+        VStack {
+            Spacer()
+            HStack(spacing: 8) {
+                Image(systemName: "questionmark.circle.fill")
+                    .foregroundStyle(Color.lllbAccent)
+                Text(L("可在「我的」里重看新手指引",
+                       "Replay the walkthrough anytime in Profile",
+                       nativeLanguage: appModel.candyStore.nativeLanguage))
+                    .font(.subheadline)
+            }
+            .padding(.horizontal, 16).padding(.vertical, 12)
+            .background(.regularMaterial, in: Capsule())
+            .shadow(color: .black.opacity(0.08), radius: 8, y: 2)
+            .padding(.bottom, 96)   // clear of the profile button
+        }
+        .transition(.move(edge: .bottom).combined(with: .opacity))
     }
 
     /// Show the welcome gift card iff: onboarding finished, the placement
@@ -146,7 +234,9 @@ struct RootView: View {
             },
             onOpenSubscribe: {
                 showPaywall = true
-            }
+            },
+            showTutorial:   $showTutorial,
+            onTutorialDone: { skipped in finishTutorial(skipped: skipped) }
         )
         .sheet(isPresented: $showProfile) {
             ProfileView(
@@ -160,6 +250,14 @@ struct RootView: View {
                     showProfile = false
                     DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) {
                         showPaywall = true
+                    }
+                },
+                onReplayTutorial: {
+                    // Same pattern as paywall: drop the sheet first, then
+                    // clear the flag so checkTutorial() can re-arm.
+                    showProfile = false
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.4) {
+                        tutorialCompleted = false
                     }
                 }
             )

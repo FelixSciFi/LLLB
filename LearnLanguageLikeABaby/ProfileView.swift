@@ -10,6 +10,9 @@ struct ProfileView: View {
     /// the paywall (centralised in RootView). Plain closure so this view
     /// stays oblivious to which sheet/cover the parent is using.
     var onOpenSubscribe: () -> Void = {}
+    /// Tapped from "重看新手指引" — caller closes ProfileView and re-shows
+    /// the walkthrough (RootView re-arms by clearing tutorialCompleted_v1).
+    var onReplayTutorial: () -> Void = {}
 
     @State private var showStreakShareSheet: Bool = false
 
@@ -223,6 +226,17 @@ struct ProfileView: View {
                                     .foregroundStyle(.secondary)
                             }
                         }
+                    }
+                    .foregroundStyle(.primary)
+
+                    // ── Replay tutorial ─────────────────────────────────────
+                    Button {
+                        Haptics.light()
+                        onReplayTutorial()
+                    } label: {
+                        Label(L("重看新手指引", "Replay walkthrough",
+                                nativeLanguage: nl),
+                              systemImage: "questionmark.circle")
                     }
                     .foregroundStyle(.primary)
                 }

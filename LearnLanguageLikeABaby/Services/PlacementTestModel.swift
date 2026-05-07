@@ -35,7 +35,20 @@ final class PlacementTestModel: ObservableObject {
         let presentLevels = Array(Set(questions.map(\.level)))
         let sortedLevels  = LevelSystem.sorted(presentLevels, using: levelOrder)
         self.levels = sortedLevels
-        self.questions = questions.sorted { a, b in
+        // Shuffle each question's options so the correct answer isn't always
+        // at the same index (JSON banks are authored with correctIndex=0 for
+        // ease of editing). Re-derive correctIndex from the new order.
+        let shuffled = questions.map { q -> PlacementQuestion in
+            var idxs = Array(q.options.indices)
+            idxs.shuffle()
+            let reordered    = idxs.map { q.options[$0] }
+            let newCorrectAt = idxs.firstIndex(of: q.correctIndex) ?? 0
+            return PlacementQuestion(
+                id: q.id, level: q.level, kind: q.kind, prompt: q.prompt,
+                options: reordered, correctIndex: newCorrectAt
+            )
+        }
+        self.questions = shuffled.sorted { a, b in
             (sortedLevels.firstIndex(of: a.level) ?? 99) < (sortedLevels.firstIndex(of: b.level) ?? 99)
         }
         self.nativeLanguage = nativeLanguage
