@@ -155,10 +155,11 @@ struct ContentView: View {
                     }
                 }
 
-                // ── Add-to-pool pill (focus mode, when current example is not in pool) ──
+                // ── Add-to-pool button (focus mode, when current example is not in pool) ──
                 // restoreSentence also lifts the sentence out of mastered/later if
                 // archived — letting users "re-pick up" a known sentence from focus mode.
-                // Stacked above the centered exit pill (bottom 32) to avoid overlap.
+                // Bottom-right corner, 56pt wide to match rightColumn cells and sit
+                // in the empty band beneath them (avoids covering Like/Familiar/etc.).
                 if session.focusedLemma != nil
                     && !session.pool.contains(session.currentSentence.id) {
                     VStack {
@@ -169,22 +170,22 @@ struct ContentView: View {
                                 Haptics.success()
                                 session.restoreSentence(id: session.currentSentence.id)
                             } label: {
-                                HStack(spacing: 5) {
+                                VStack(spacing: 3) {
                                     Image(systemName: "plus.circle.fill")
-                                        .font(.system(size: 14, weight: .semibold))
-                                    Text(L("加入播放池", "Add to pool",
+                                        .font(.title3)
+                                    Text(L("加入", "Add",
                                            nativeLanguage: session.nativeLanguage))
-                                        .font(.system(size: 13, weight: .semibold))
+                                        .font(.caption2)
                                 }
                                 .foregroundStyle(Color.lllbAccent)
-                                .padding(.horizontal, 12)
-                                .padding(.vertical, 8)
-                                .background(.ultraThinMaterial, in: Capsule())
-                                .overlay(Capsule().stroke(Color.lllbAccent.opacity(0.6), lineWidth: 1))
+                                .frame(width: 56)
+                                .padding(.vertical, 6)
+                                .background(.ultraThinMaterial, in: RoundedRectangle(cornerRadius: 10))
+                                .overlay(RoundedRectangle(cornerRadius: 10).stroke(Color.lllbAccent.opacity(0.6), lineWidth: 1))
                             }
                             .buttonStyle(.plain)
                             .padding(.trailing, 20)
-                            .padding(.bottom, 100)
+                            .padding(.bottom, 32)
                         }
                     }
                 }
