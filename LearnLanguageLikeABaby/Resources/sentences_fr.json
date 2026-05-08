@@ -3148,7 +3148,7 @@
             "zh": "二十",
             "en": "twenty"
           },
-          "emoji": ""
+          "emoji": "2️⃣0️⃣"
         }
       ]
     },
@@ -3170,7 +3170,7 @@
             "zh": "三十",
             "en": "thirty"
           },
-          "emoji": ""
+          "emoji": "3️⃣0️⃣"
         }
       ]
     },
@@ -3192,7 +3192,7 @@
             "zh": "四十",
             "en": "forty"
           },
-          "emoji": ""
+          "emoji": "4️⃣0️⃣"
         }
       ]
     },
@@ -3214,7 +3214,7 @@
             "zh": "五十",
             "en": "fifty"
           },
-          "emoji": ""
+          "emoji": "5️⃣0️⃣"
         }
       ]
     },
@@ -3236,7 +3236,7 @@
             "zh": "六十",
             "en": "sixty"
           },
-          "emoji": ""
+          "emoji": "6️⃣0️⃣"
         }
       ]
     },
@@ -3258,7 +3258,7 @@
             "zh": "一百",
             "en": "hundred"
           },
-          "emoji": "💯"
+          "emoji": "1️⃣0️⃣0️⃣"
         }
       ]
     },
@@ -15636,7 +15636,7 @@
             "zh": "十二",
             "en": "twelve"
           },
-          "emoji": ""
+          "emoji": "1️⃣2️⃣"
         }
       ]
     },
@@ -17514,12 +17514,22 @@
           "emoji": "💲"
         },
         {
-          "text": "trois cent vingt et un euros",
-          "lemma": "euro",
-          "ipa": "tʁwa sɑ̃ vɛ̃t e œ̃ øʁɔ",
+          "text": "trois cent vingt et un",
+          "lemma": "trois cent vingt et un",
+          "ipa": "tʁwa sɑ̃ vɛ̃t e œ̃",
           "translation": {
-            "zh": "321欧元",
-            "en": "321 euros"
+            "zh": "三百二十一",
+            "en": "three hundred twenty-one"
+          },
+          "emoji": "3️⃣2️⃣1️⃣"
+        },
+        {
+          "text": "euros",
+          "lemma": "euro",
+          "ipa": "øʁɔ",
+          "translation": {
+            "zh": "欧元",
+            "en": "euros"
           },
           "emoji": "💶"
         }
@@ -18272,12 +18282,22 @@
           "emoji": ""
         },
         {
-          "text": "deux frères aînés",
-          "lemma": "frère",
-          "ipa": "dø fʁɛʁ ɛne",
+          "text": "deux",
+          "lemma": "deux",
+          "ipa": "dø",
           "translation": {
-            "zh": "两个哥哥",
-            "en": "two older brothers"
+            "zh": "两",
+            "en": "two"
+          },
+          "emoji": "2️⃣"
+        },
+        {
+          "text": "frères aînés",
+          "lemma": "frère",
+          "ipa": "fʁɛʁ ɛne",
+          "translation": {
+            "zh": "个哥哥",
+            "en": "older brothers"
           },
           "emoji": "👦"
         },
@@ -18314,22 +18334,52 @@
           "emoji": ""
         },
         {
-          "text": "trois sœurs aînées",
-          "lemma": "sœur",
-          "ipa": "tʁwa sœʁ ɛne",
+          "text": "trois",
+          "lemma": "trois",
+          "ipa": "tʁwa",
           "translation": {
-            "zh": "三个姐姐",
-            "en": "three older sisters"
+            "zh": "三",
+            "en": "three"
+          },
+          "emoji": "3️⃣"
+        },
+        {
+          "text": "sœurs aînées",
+          "lemma": "sœur",
+          "ipa": "sœʁ ɛne",
+          "translation": {
+            "zh": "个姐姐",
+            "en": "older sisters"
           },
           "emoji": "👧"
         },
         {
-          "text": "et quatre petites sœurs",
-          "lemma": "sœur",
-          "ipa": "e katʁ pətit sœʁ",
+          "text": "et",
+          "lemma": "et",
+          "ipa": "e",
           "translation": {
-            "zh": "四个妹妹",
-            "en": "four younger sisters"
+            "zh": "和",
+            "en": "and"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "quatre",
+          "lemma": "quatre",
+          "ipa": "katʁ",
+          "translation": {
+            "zh": "四",
+            "en": "four"
+          },
+          "emoji": "4️⃣"
+        },
+        {
+          "text": "petites sœurs",
+          "lemma": "sœur",
+          "ipa": "pətit sœʁ",
+          "translation": {
+            "zh": "个妹妹",
+            "en": "younger sisters"
           },
           "emoji": "👧"
         }
@@ -18996,14 +19046,34 @@
           "emoji": "🕯️"
         },
         {
-          "text": "est le deux février",
-          "lemma": "février",
-          "ipa": "ɛ lə dø fevʁie",
+          "text": "est le",
+          "lemma": "être",
+          "ipa": "ɛ lə",
           "translation": {
-            "zh": "在2月2日",
-            "en": "is February 2nd"
+            "zh": "是",
+            "en": "is the"
           },
-          "emoji": "2"
+          "emoji": ""
+        },
+        {
+          "text": "deux",
+          "lemma": "deux",
+          "ipa": "dø",
+          "translation": {
+            "zh": "2日",
+            "en": "2nd"
+          },
+          "emoji": "2️⃣"
+        },
+        {
+          "text": "février",
+          "lemma": "février",
+          "ipa": "fevʁie",
+          "translation": {
+            "zh": "二月",
+            "en": "February"
+          },
+          "emoji": "📅"
         }
       ],
       "id": "80497d1b-95bf-4da8-9123-e0cbc74a2807"
@@ -19060,14 +19130,34 @@
           "emoji": "🐰"
         },
         {
-          "text": "est le six avril",
-          "lemma": "avril",
-          "ipa": "ɛ lə si avʁil",
+          "text": "est le",
+          "lemma": "être",
+          "ipa": "ɛ lə",
           "translation": {
-            "zh": "在4月6日",
-            "en": "is April 6th"
+            "zh": "是",
+            "en": "is the"
           },
-          "emoji": "4"
+          "emoji": ""
+        },
+        {
+          "text": "six",
+          "lemma": "six",
+          "ipa": "si",
+          "translation": {
+            "zh": "6日",
+            "en": "6th"
+          },
+          "emoji": "6️⃣"
+        },
+        {
+          "text": "avril",
+          "lemma": "avril",
+          "ipa": "avʁil",
+          "translation": {
+            "zh": "四月",
+            "en": "April"
+          },
+          "emoji": "📅"
         }
       ],
       "id": "8902b404-2c17-47f8-9aec-fe7bcee295e3"
@@ -19124,14 +19214,34 @@
           "emoji": "🎵"
         },
         {
-          "text": "est le vingt et un juin",
-          "lemma": "juin",
-          "ipa": "ɛ lə vɛ̃ tœ̃ œ̃ ʒwɛ̃",
+          "text": "est le",
+          "lemma": "être",
+          "ipa": "ɛ lə",
           "translation": {
-            "zh": "在6月21日",
-            "en": "is June 21st"
+            "zh": "是",
+            "en": "is the"
           },
-          "emoji": "6"
+          "emoji": ""
+        },
+        {
+          "text": "vingt et un",
+          "lemma": "vingt et un",
+          "ipa": "vɛ̃t e œ̃",
+          "translation": {
+            "zh": "21日",
+            "en": "21st"
+          },
+          "emoji": "2️⃣1️⃣"
+        },
+        {
+          "text": "juin",
+          "lemma": "juin",
+          "ipa": "ʒwɛ̃",
+          "translation": {
+            "zh": "六月",
+            "en": "June"
+          },
+          "emoji": "📅"
         }
       ],
       "id": "e7bec14d-f269-441e-8430-e4e599a31248"
@@ -19188,14 +19298,34 @@
           "emoji": "⛪"
         },
         {
-          "text": "est le quinze août",
-          "lemma": "août",
-          "ipa": "ɛ lə kɛ̃z ut",
+          "text": "est le",
+          "lemma": "être",
+          "ipa": "ɛ lə",
           "translation": {
-            "zh": "在8月15日",
-            "en": "is August 15th"
+            "zh": "是",
+            "en": "is the"
           },
-          "emoji": "8"
+          "emoji": ""
+        },
+        {
+          "text": "quinze",
+          "lemma": "quinze",
+          "ipa": "kɛ̃z",
+          "translation": {
+            "zh": "15日",
+            "en": "15th"
+          },
+          "emoji": "1️⃣5️⃣"
+        },
+        {
+          "text": "août",
+          "lemma": "août",
+          "ipa": "ut",
+          "translation": {
+            "zh": "八月",
+            "en": "August"
+          },
+          "emoji": "📅"
         }
       ],
       "id": "1f2ed562-6c5c-442a-b3a4-11fd21514bf2"
@@ -19220,14 +19350,34 @@
           "emoji": "🏛️"
         },
         {
-          "text": "sont le dix-neuf septembre",
-          "lemma": "septembre",
-          "ipa": "sɔ̃ lə di nœf sɛptɑ̃bʁ",
+          "text": "sont le",
+          "lemma": "être",
+          "ipa": "sɔ̃ lə",
           "translation": {
-            "zh": "在9月19日",
-            "en": "are September 19th"
+            "zh": "是",
+            "en": "are the"
           },
-          "emoji": "9"
+          "emoji": ""
+        },
+        {
+          "text": "dix-neuf",
+          "lemma": "dix-neuf",
+          "ipa": "di nœf",
+          "translation": {
+            "zh": "19日",
+            "en": "19th"
+          },
+          "emoji": "1️⃣9️⃣"
+        },
+        {
+          "text": "septembre",
+          "lemma": "septembre",
+          "ipa": "sɛptɑ̃bʁ",
+          "translation": {
+            "zh": "九月",
+            "en": "September"
+          },
+          "emoji": "📅"
         }
       ],
       "id": "d14e344e-c4df-4728-9597-a00a9c9eff1c"
@@ -19252,14 +19402,34 @@
           "emoji": "👻"
         },
         {
-          "text": "est le trente et un octobre",
-          "lemma": "octobre",
-          "ipa": "ɛ lə tʁɑ̃t œ̃ ɔktɔbʁ",
+          "text": "est le",
+          "lemma": "être",
+          "ipa": "ɛ lə",
           "translation": {
-            "zh": "在10月31日",
-            "en": "is October 31st"
+            "zh": "是",
+            "en": "is the"
           },
-          "emoji": "10"
+          "emoji": ""
+        },
+        {
+          "text": "trente et un",
+          "lemma": "trente et un",
+          "ipa": "tʁɑ̃t e œ̃",
+          "translation": {
+            "zh": "31日",
+            "en": "31st"
+          },
+          "emoji": "3️⃣1️⃣"
+        },
+        {
+          "text": "octobre",
+          "lemma": "octobre",
+          "ipa": "ɔktɔbʁ",
+          "translation": {
+            "zh": "十月",
+            "en": "October"
+          },
+          "emoji": "📅"
         }
       ],
       "id": "d7665612-c255-45b9-affd-3592f78190ba"
@@ -19316,14 +19486,34 @@
           "emoji": "🎄"
         },
         {
-          "text": "est le vingt-cinq décembre",
-          "lemma": "décembre",
-          "ipa": "ɛ lə vɛ̃ sɛ̃k desɑ̃bʁ",
+          "text": "est le",
+          "lemma": "être",
+          "ipa": "ɛ lə",
           "translation": {
-            "zh": "在12月25日",
-            "en": "is December 25th"
+            "zh": "是",
+            "en": "is the"
           },
-          "emoji": "12"
+          "emoji": ""
+        },
+        {
+          "text": "vingt-cinq",
+          "lemma": "vingt-cinq",
+          "ipa": "vɛ̃ sɛ̃k",
+          "translation": {
+            "zh": "25日",
+            "en": "25th"
+          },
+          "emoji": "2️⃣5️⃣"
+        },
+        {
+          "text": "décembre",
+          "lemma": "décembre",
+          "ipa": "desɑ̃bʁ",
+          "translation": {
+            "zh": "十二月",
+            "en": "December"
+          },
+          "emoji": "📅"
         }
       ],
       "id": "7bfef6ea-8fb7-4eb8-95f3-a0dc18548e5d"
@@ -22029,7 +22219,7 @@
             "zh": "99",
             "en": "ninety-nine"
           },
-          "emoji": "99"
+          "emoji": "9️⃣9️⃣"
         },
         {
           "text": "jours",
@@ -22236,14 +22426,24 @@
           "emoji": "🐣"
         },
         {
-          "text": "en mille neuf cent quatre-vingt-onze",
-          "lemma": "1991",
-          "ipa": "ɑ̃ mil nœf sɑ̃ katʁevɛ̃ ɔ̃z",
+          "text": "en",
+          "lemma": "en",
+          "ipa": "ɑ̃",
           "translation": {
-            "zh": "在1991年",
-            "en": "in 1991"
+            "zh": "在",
+            "en": "in"
           },
-          "emoji": "📅"
+          "emoji": ""
+        },
+        {
+          "text": "mille neuf cent quatre-vingt-onze",
+          "lemma": "1991",
+          "ipa": "mil nœf sɑ̃ katʁevɛ̃ ɔ̃z",
+          "translation": {
+            "zh": "1991年",
+            "en": "1991"
+          },
+          "emoji": "🔢"
         }
       ],
       "id": "57858c1a-cf19-416a-8a71-bddedca3760f"
@@ -22483,12 +22683,22 @@
           "emoji": ""
         },
         {
-          "text": "huit dents",
-          "lemma": "dent",
-          "ipa": "ɥi dɑ̃",
+          "text": "huit",
+          "lemma": "huit",
+          "ipa": "ɥit",
           "translation": {
-            "zh": "八颗牙",
-            "en": "eight teeth"
+            "zh": "八",
+            "en": "eight"
+          },
+          "emoji": "8️⃣"
+        },
+        {
+          "text": "dents",
+          "lemma": "dent",
+          "ipa": "dɑ̃",
+          "translation": {
+            "zh": "颗牙",
+            "en": "teeth"
           },
           "emoji": "🦷"
         }
@@ -22726,14 +22936,34 @@
           "emoji": "🏠"
         },
         {
-          "text": "a trois pièces",
+          "text": "a",
           "lemma": "avoir",
-          "ipa": "a tʁwa pjɛs",
+          "ipa": "a",
           "translation": {
-            "zh": "有三个房间",
-            "en": "has three rooms"
+            "zh": "有",
+            "en": "has"
           },
           "emoji": ""
+        },
+        {
+          "text": "trois",
+          "lemma": "trois",
+          "ipa": "tʁwa",
+          "translation": {
+            "zh": "三",
+            "en": "three"
+          },
+          "emoji": "3️⃣"
+        },
+        {
+          "text": "pièces",
+          "lemma": "pièce",
+          "ipa": "pjɛs",
+          "translation": {
+            "zh": "个房间",
+            "en": "rooms"
+          },
+          "emoji": "🏠"
         }
       ],
       "id": "09640996-d334-4f7f-93a3-a227e9fc616f"
@@ -23789,12 +24019,22 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "Deux étudiants",
-          "lemma": "étudiant",
-          "ipa": "dø zetydjɑ̃",
+          "text": "Deux",
+          "lemma": "deux",
+          "ipa": "dø",
           "translation": {
-            "zh": "两个学生",
-            "en": "two students"
+            "zh": "两",
+            "en": "two"
+          },
+          "emoji": "2️⃣"
+        },
+        {
+          "text": "étudiants",
+          "lemma": "étudiant",
+          "ipa": "zetydjɑ̃",
+          "translation": {
+            "zh": "个学生",
+            "en": "students"
           },
           "emoji": "🧑‍🎓"
         },
@@ -23853,12 +24093,22 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "Trois médecins",
-          "lemma": "médecin",
-          "ipa": "tʁwɑ medsɛ̃",
+          "text": "Trois",
+          "lemma": "trois",
+          "ipa": "tʁwɑ",
           "translation": {
-            "zh": "三位医生",
-            "en": "three doctors"
+            "zh": "三",
+            "en": "three"
+          },
+          "emoji": "3️⃣"
+        },
+        {
+          "text": "médecins",
+          "lemma": "médecin",
+          "ipa": "medsɛ̃",
+          "translation": {
+            "zh": "位医生",
+            "en": "doctors"
           },
           "emoji": "🧑‍⚕️"
         },
@@ -23885,12 +24135,22 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "Quatre architectes",
-          "lemma": "architecte",
-          "ipa": "katʁ aʁʃitɛkt",
+          "text": "Quatre",
+          "lemma": "quatre",
+          "ipa": "katʁ",
           "translation": {
-            "zh": "四位建筑师",
-            "en": "four architects"
+            "zh": "四",
+            "en": "four"
+          },
+          "emoji": "4️⃣"
+        },
+        {
+          "text": "architectes",
+          "lemma": "architecte",
+          "ipa": "aʁʃitɛkt",
+          "translation": {
+            "zh": "位建筑师",
+            "en": "architects"
           },
           "emoji": "👷"
         },
@@ -23948,12 +24208,22 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "Deux professeurs",
-          "lemma": "professeur",
-          "ipa": "dø pʁɔfɛsœʁ",
+          "text": "Deux",
+          "lemma": "deux",
+          "ipa": "dø",
           "translation": {
-            "zh": "两位教授",
-            "en": "two professors"
+            "zh": "两",
+            "en": "two"
+          },
+          "emoji": "2️⃣"
+        },
+        {
+          "text": "professeurs",
+          "lemma": "professeur",
+          "ipa": "pʁɔfɛsœʁ",
+          "translation": {
+            "zh": "位教授",
+            "en": "professors"
           },
           "emoji": "👨‍🏫"
         },
@@ -23981,12 +24251,22 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "Cinq chercheurs",
-          "lemma": "chercheur",
-          "ipa": "sɛ̃k ʃɛʁʃœʁ",
+          "text": "Cinq",
+          "lemma": "cinq",
+          "ipa": "sɛ̃k",
           "translation": {
-            "zh": "五位研究员",
-            "en": "five researchers"
+            "zh": "五",
+            "en": "five"
+          },
+          "emoji": "5️⃣"
+        },
+        {
+          "text": "chercheurs",
+          "lemma": "chercheur",
+          "ipa": "ʃɛʁʃœʁ",
+          "translation": {
+            "zh": "位研究员",
+            "en": "researchers"
           },
           "emoji": "🔬"
         },
@@ -24045,12 +24325,22 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "Deux traducteurs",
-          "lemma": "traducteur",
-          "ipa": "dø tʁadyktœʁ",
+          "text": "Deux",
+          "lemma": "deux",
+          "ipa": "dø",
           "translation": {
-            "zh": "两位翻译",
-            "en": "two translators"
+            "zh": "两",
+            "en": "two"
+          },
+          "emoji": "2️⃣"
+        },
+        {
+          "text": "traducteurs",
+          "lemma": "traducteur",
+          "ipa": "tʁadyktœʁ",
+          "translation": {
+            "zh": "位翻译",
+            "en": "translators"
           },
           "emoji": "🗣️"
         },
@@ -24077,12 +24367,22 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "Trois ouvriers",
-          "lemma": "ouvrier",
-          "ipa": "tʁwɑ zuvʁije",
+          "text": "Trois",
+          "lemma": "trois",
+          "ipa": "tʁwɑ",
           "translation": {
-            "zh": "三位工人",
-            "en": "three workers"
+            "zh": "三",
+            "en": "three"
+          },
+          "emoji": "3️⃣"
+        },
+        {
+          "text": "ouvriers",
+          "lemma": "ouvrier",
+          "ipa": "zuvʁije",
+          "translation": {
+            "zh": "位工人",
+            "en": "workers"
           },
           "emoji": "👷"
         },
@@ -24109,12 +24409,22 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "Dix agriculteurs",
-          "lemma": "agriculteur",
-          "ipa": "di z‿aɡʁikyltœʁ",
+          "text": "Dix",
+          "lemma": "dix",
+          "ipa": "di",
           "translation": {
-            "zh": "十位农民",
-            "en": "ten farmers"
+            "zh": "十",
+            "en": "ten"
+          },
+          "emoji": "🔟"
+        },
+        {
+          "text": "agriculteurs",
+          "lemma": "agriculteur",
+          "ipa": "z‿aɡʁikyltœʁ",
+          "translation": {
+            "zh": "位农民",
+            "en": "farmers"
           },
           "emoji": "🧑‍🌾"
         },
@@ -24141,12 +24451,22 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "Deux comptables",
-          "lemma": "comptable",
-          "ipa": "dø kɔ̃tabl",
+          "text": "Deux",
+          "lemma": "deux",
+          "ipa": "dø",
           "translation": {
-            "zh": "两位会计",
-            "en": "two accountants"
+            "zh": "两",
+            "en": "two"
+          },
+          "emoji": "2️⃣"
+        },
+        {
+          "text": "comptables",
+          "lemma": "comptable",
+          "ipa": "kɔ̃tabl",
+          "translation": {
+            "zh": "位会计",
+            "en": "accountants"
           },
           "emoji": "🧮"
         },
@@ -24173,12 +24493,22 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "Cinq artistes",
-          "lemma": "artiste",
-          "ipa": "sɛ̃k aʁtist",
+          "text": "Cinq",
+          "lemma": "cinq",
+          "ipa": "sɛ̃k",
           "translation": {
-            "zh": "五位艺术家",
-            "en": "five artists"
+            "zh": "五",
+            "en": "five"
+          },
+          "emoji": "5️⃣"
+        },
+        {
+          "text": "artistes",
+          "lemma": "artiste",
+          "ipa": "aʁtist",
+          "translation": {
+            "zh": "位艺术家",
+            "en": "artists"
           },
           "emoji": "🎨"
         },
@@ -29900,12 +30230,32 @@
       "cefr": "A1",
       "tokens": [
         {
-          "text": "C'est quarante-cinq euros",
-          "lemma": "euro",
-          "ipa": "sɛ kaʁɑ̃t sɛ̃k øʁo",
+          "text": "C'est",
+          "lemma": "être",
+          "ipa": "sɛ",
           "translation": {
-            "zh": "四十五欧元",
-            "en": "forty-five euros"
+            "zh": "是",
+            "en": "it's"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "quarante-cinq",
+          "lemma": "quarante-cinq",
+          "ipa": "kaʁɑ̃t sɛ̃k",
+          "translation": {
+            "zh": "四十五",
+            "en": "forty-five"
+          },
+          "emoji": "4️⃣5️⃣"
+        },
+        {
+          "text": "euros",
+          "lemma": "euro",
+          "ipa": "øʁo",
+          "translation": {
+            "zh": "欧元",
+            "en": "euros"
           },
           "emoji": "💶"
         }
@@ -30186,12 +30536,32 @@
           "emoji": "🏠"
         },
         {
-          "text": "est de six cents euros",
-          "lemma": "euro",
-          "ipa": "ɛ də si sɑ̃ øʁo",
+          "text": "est de",
+          "lemma": "être",
+          "ipa": "ɛ də",
           "translation": {
-            "zh": "六百欧元",
-            "en": "six hundred euros"
+            "zh": "是",
+            "en": "is"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "six cents",
+          "lemma": "six cents",
+          "ipa": "si sɑ̃",
+          "translation": {
+            "zh": "六百",
+            "en": "six hundred"
+          },
+          "emoji": "6️⃣0️⃣0️⃣"
+        },
+        {
+          "text": "euros",
+          "lemma": "euro",
+          "ipa": "øʁo",
+          "translation": {
+            "zh": "欧元",
+            "en": "euros"
           },
           "emoji": "💶"
         },
@@ -32983,12 +33353,22 @@
           "emoji": ""
         },
         {
-          "text": "vingt-trois heures",
-          "lemma": "heure",
-          "ipa": "vɛ̃t.tʁwa.zœʁ",
+          "text": "vingt-trois",
+          "lemma": "vingt-trois",
+          "ipa": "vɛ̃t.tʁwa",
           "translation": {
-            "zh": "二十三点",
-            "en": "11 PM"
+            "zh": "二十三",
+            "en": "twenty-three"
+          },
+          "emoji": "2️⃣3️⃣"
+        },
+        {
+          "text": "heures",
+          "lemma": "heure",
+          "ipa": "zœʁ",
+          "translation": {
+            "zh": "点",
+            "en": "o'clock"
           },
           "emoji": "🕚"
         }
@@ -33709,12 +34089,22 @@
           "emoji": ""
         },
         {
-          "text": "deux solutions",
-          "lemma": "solution",
-          "ipa": "dø sɔlysjɔ̃",
+          "text": "deux",
+          "lemma": "deux",
+          "ipa": "dø",
           "translation": {
-            "zh": "两个解法",
-            "en": "two solutions"
+            "zh": "两个",
+            "en": "two"
+          },
+          "emoji": "2️⃣"
+        },
+        {
+          "text": "solutions",
+          "lemma": "solution",
+          "ipa": "sɔlysjɔ̃",
+          "translation": {
+            "zh": "解法",
+            "en": "solutions"
           },
           "emoji": "💡"
         }
@@ -34765,14 +35155,24 @@
           "emoji": ""
         },
         {
-          "text": "sept jours",
-          "lemma": "jour",
-          "ipa": "sɛt ʒuʁ",
+          "text": "sept",
+          "lemma": "sept",
+          "ipa": "sɛt",
           "translation": {
-            "zh": "七天",
-            "en": "seven days"
+            "zh": "七",
+            "en": "seven"
           },
-          "emoji": ""
+          "emoji": "7️⃣"
+        },
+        {
+          "text": "jours",
+          "lemma": "jour",
+          "ipa": "ʒuʁ",
+          "translation": {
+            "zh": "天",
+            "en": "days"
+          },
+          "emoji": "📅"
         }
       ]
     },
@@ -34796,12 +35196,22 @@
           "emoji": ""
         },
         {
-          "text": "onze joueurs",
-          "lemma": "joueur",
-          "ipa": "ɔ̃z ʒwœʁ",
+          "text": "onze",
+          "lemma": "onze",
+          "ipa": "ɔ̃z",
           "translation": {
-            "zh": "十一名球员",
-            "en": "eleven players"
+            "zh": "十一",
+            "en": "eleven"
+          },
+          "emoji": "1️⃣1️⃣"
+        },
+        {
+          "text": "joueurs",
+          "lemma": "joueur",
+          "ipa": "ʒwœʁ",
+          "translation": {
+            "zh": "名球员",
+            "en": "players"
           },
           "emoji": "⚽"
         },
@@ -34838,12 +35248,22 @@
           "emoji": ""
         },
         {
-          "text": "soixante minutes",
-          "lemma": "minute",
-          "ipa": "swasɑ̃t minyt",
+          "text": "soixante",
+          "lemma": "soixante",
+          "ipa": "swasɑ̃t",
           "translation": {
-            "zh": "六十分钟",
-            "en": "sixty minutes"
+            "zh": "六十",
+            "en": "sixty"
+          },
+          "emoji": "6️⃣0️⃣"
+        },
+        {
+          "text": "minutes",
+          "lemma": "minute",
+          "ipa": "minyt",
+          "translation": {
+            "zh": "分钟",
+            "en": "minutes"
           },
           "emoji": "⏱️"
         },
@@ -34890,12 +35310,22 @@
           "emoji": ""
         },
         {
-          "text": "quatre saisons",
-          "lemma": "saison",
-          "ipa": "katʁ sɛzɔ̃",
+          "text": "quatre",
+          "lemma": "quatre",
+          "ipa": "katʁ",
           "translation": {
-            "zh": "四个季节",
-            "en": "four seasons"
+            "zh": "四",
+            "en": "four"
+          },
+          "emoji": "4️⃣"
+        },
+        {
+          "text": "saisons",
+          "lemma": "saison",
+          "ipa": "sɛzɔ̃",
+          "translation": {
+            "zh": "季节",
+            "en": "seasons"
           },
           "emoji": "🍂"
         }
@@ -34933,14 +35363,24 @@
           "emoji": "⏳"
         },
         {
-          "text": "cent ans",
-          "lemma": "an",
-          "ipa": "sɑ̃ ɑ̃",
+          "text": "cent",
+          "lemma": "cent",
+          "ipa": "sɑ̃",
           "translation": {
-            "zh": "一百年",
-            "en": "a hundred years"
+            "zh": "一百",
+            "en": "a hundred"
           },
-          "emoji": ""
+          "emoji": "1️⃣0️⃣0️⃣"
+        },
+        {
+          "text": "ans",
+          "lemma": "an",
+          "ipa": "ɑ̃",
+          "translation": {
+            "zh": "年",
+            "en": "years"
+          },
+          "emoji": "📅"
         }
       ]
     },
@@ -34974,12 +35414,22 @@
           "emoji": ""
         },
         {
-          "text": "vingt-quatre heures",
-          "lemma": "heure",
-          "ipa": "vɛ̃t katʁ œʁ",
+          "text": "vingt-quatre",
+          "lemma": "vingt-quatre",
+          "ipa": "vɛ̃t katʁ",
           "translation": {
-            "zh": "二十四小时",
-            "en": "twenty-four hours"
+            "zh": "二十四",
+            "en": "twenty-four"
+          },
+          "emoji": "2️⃣4️⃣"
+        },
+        {
+          "text": "heures",
+          "lemma": "heure",
+          "ipa": "œʁ",
+          "translation": {
+            "zh": "小时",
+            "en": "hours"
           },
           "emoji": "🕛"
         }
@@ -35120,12 +35570,22 @@
           "emoji": ""
         },
         {
-          "text": "deux mille habitants",
-          "lemma": "habitant",
-          "ipa": "dø mil abitɑ̃",
+          "text": "deux mille",
+          "lemma": "deux mille",
+          "ipa": "dø mil",
           "translation": {
-            "zh": "两千居民",
-            "en": "two thousand inhabitants"
+            "zh": "两千",
+            "en": "two thousand"
+          },
+          "emoji": "🔢"
+        },
+        {
+          "text": "habitants",
+          "lemma": "habitant",
+          "ipa": "abitɑ̃",
+          "translation": {
+            "zh": "居民",
+            "en": "inhabitants"
           },
           "emoji": "👥"
         }
@@ -35162,12 +35622,22 @@
           "emoji": ""
         },
         {
-          "text": "cinq cents euros",
-          "lemma": "euro",
-          "ipa": "sɛ̃ sɑ̃z øʁo",
+          "text": "cinq cents",
+          "lemma": "cinq cents",
+          "ipa": "sɛ̃ sɑ̃",
           "translation": {
-            "zh": "五百欧元",
-            "en": "five hundred euros"
+            "zh": "五百",
+            "en": "five hundred"
+          },
+          "emoji": "5️⃣0️⃣0️⃣"
+        },
+        {
+          "text": "euros",
+          "lemma": "euro",
+          "ipa": "øʁo",
+          "translation": {
+            "zh": "欧元",
+            "en": "euros"
           },
           "emoji": "💶"
         }
@@ -35194,12 +35664,22 @@
           "emoji": ""
         },
         {
-          "text": "trois cent soixante-cinq jours",
-          "lemma": "jour",
-          "ipa": "tʁwa sɑ̃ swasɑ̃t sɛ̃k ʒuʁ",
+          "text": "trois cent soixante-cinq",
+          "lemma": "trois cent soixante-cinq",
+          "ipa": "tʁwa sɑ̃ swasɑ̃t sɛ̃k",
           "translation": {
-            "zh": "三百六十五天",
-            "en": "three hundred sixty-five days"
+            "zh": "三百六十五",
+            "en": "three hundred sixty-five"
+          },
+          "emoji": "🔢"
+        },
+        {
+          "text": "jours",
+          "lemma": "jour",
+          "ipa": "ʒuʁ",
+          "translation": {
+            "zh": "天",
+            "en": "days"
           },
           "emoji": "📅"
         },
@@ -35874,14 +36354,34 @@
           "emoji": "💶"
         },
         {
-          "text": "trois euros cinquante",
-          "lemma": "euro",
-          "ipa": "tʁwa øʁo sɛ̃kɑ̃t",
+          "text": "trois",
+          "lemma": "trois",
+          "ipa": "tʁwa",
           "translation": {
-            "zh": "三欧五十",
-            "en": "three fifty"
+            "zh": "三",
+            "en": "three"
+          },
+          "emoji": "3️⃣"
+        },
+        {
+          "text": "euros",
+          "lemma": "euro",
+          "ipa": "øʁo",
+          "translation": {
+            "zh": "欧元",
+            "en": "euros"
           },
           "emoji": "💶"
+        },
+        {
+          "text": "cinquante",
+          "lemma": "cinquante",
+          "ipa": "sɛ̃kɑ̃t",
+          "translation": {
+            "zh": "五十分",
+            "en": "fifty cents"
+          },
+          "emoji": "5️⃣0️⃣"
         },
         {
           "text": "en tout",
@@ -36950,12 +37450,32 @@
       "cefr": "A2",
       "tokens": [
         {
-          "text": "Dans trois cents mètres",
-          "lemma": "mètre",
-          "ipa": "dɑ̃ tʁwa sɑ̃ mɛtʁ",
+          "text": "Dans",
+          "lemma": "dans",
+          "ipa": "dɑ̃",
           "translation": {
-            "zh": "三百米后",
-            "en": "in three hundred meters"
+            "zh": "在……后",
+            "en": "in"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "trois cents",
+          "lemma": "trois cents",
+          "ipa": "tʁwa sɑ̃",
+          "translation": {
+            "zh": "三百",
+            "en": "three hundred"
+          },
+          "emoji": "3️⃣0️⃣0️⃣"
+        },
+        {
+          "text": "mètres",
+          "lemma": "mètre",
+          "ipa": "mɛtʁ",
+          "translation": {
+            "zh": "米",
+            "en": "meters"
           },
           "emoji": "📏"
         },
@@ -37102,12 +37622,32 @@
       "cefr": "A2",
       "tokens": [
         {
-          "text": "Dans cinquante mètres",
-          "lemma": "mètre",
-          "ipa": "dɑ̃ sɛ̃kɑ̃t mɛtʁ",
+          "text": "Dans",
+          "lemma": "dans",
+          "ipa": "dɑ̃",
           "translation": {
-            "zh": "五十米后",
-            "en": "in fifty meters"
+            "zh": "在……后",
+            "en": "in"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "cinquante",
+          "lemma": "cinquante",
+          "ipa": "sɛ̃kɑ̃t",
+          "translation": {
+            "zh": "五十",
+            "en": "fifty"
+          },
+          "emoji": "5️⃣0️⃣"
+        },
+        {
+          "text": "mètres",
+          "lemma": "mètre",
+          "ipa": "mɛtʁ",
+          "translation": {
+            "zh": "米",
+            "en": "meters"
           },
           "emoji": "📏"
         },
@@ -51758,12 +52298,32 @@
       "cefr": "A2",
       "tokens": [
         {
-          "text": "environ dix minutes",
-          "lemma": "minute",
-          "ipa": "ɑ̃viʁɔ̃ di minyt",
+          "text": "environ",
+          "lemma": "environ",
+          "ipa": "ɑ̃viʁɔ̃",
           "translation": {
-            "zh": "约十分钟",
-            "en": "about ten minutes"
+            "zh": "大约",
+            "en": "about"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "dix",
+          "lemma": "dix",
+          "ipa": "di",
+          "translation": {
+            "zh": "十",
+            "en": "ten"
+          },
+          "emoji": "🔟"
+        },
+        {
+          "text": "minutes",
+          "lemma": "minute",
+          "ipa": "minyt",
+          "translation": {
+            "zh": "分钟",
+            "en": "minutes"
           },
           "emoji": "⏱️"
         }
@@ -139644,14 +140204,44 @@
           "emoji": "✨"
         },
         {
-          "text": "ça fait deux euros cinquante",
-          "lemma": "euro",
-          "ipa": "sa fɛ dø zøʁo sɛ̃kɑ̃t",
+          "text": "ça fait",
+          "lemma": "faire",
+          "ipa": "sa fɛ",
           "translation": {
-            "zh": "一共两欧元五十",
-            "en": "that's two euros fifty"
+            "zh": "一共是",
+            "en": "that's"
           },
           "emoji": "💶"
+        },
+        {
+          "text": "deux",
+          "lemma": "deux",
+          "ipa": "dø",
+          "translation": {
+            "zh": "两",
+            "en": "two"
+          },
+          "emoji": "2️⃣"
+        },
+        {
+          "text": "euros",
+          "lemma": "euro",
+          "ipa": "zøʁo",
+          "translation": {
+            "zh": "欧元",
+            "en": "euros"
+          },
+          "emoji": "💶"
+        },
+        {
+          "text": "cinquante",
+          "lemma": "cinquante",
+          "ipa": "sɛ̃kɑ̃t",
+          "translation": {
+            "zh": "五十分",
+            "en": "fifty cents"
+          },
+          "emoji": "5️⃣0️⃣"
         }
       ],
       "tags": [
@@ -139758,12 +140348,22 @@
           "emoji": ""
         },
         {
-          "text": "vingt ans",
-          "lemma": "an",
-          "ipa": "vɛ̃ tɑ̃",
+          "text": "vingt",
+          "lemma": "vingt",
+          "ipa": "vɛ̃",
           "translation": {
-            "zh": "二十岁",
-            "en": "twenty years old"
+            "zh": "二十",
+            "en": "twenty"
+          },
+          "emoji": "2️⃣0️⃣"
+        },
+        {
+          "text": "ans",
+          "lemma": "an",
+          "ipa": "tɑ̃",
+          "translation": {
+            "zh": "岁",
+            "en": "years old"
           },
           "emoji": "🎂"
         }
@@ -140199,7 +140799,7 @@
             "zh": "二",
             "en": "two"
           },
-          "emoji": ""
+          "emoji": "2️⃣"
         },
         {
           "text": "trois",
@@ -140209,7 +140809,7 @@
             "zh": "三",
             "en": "three"
           },
-          "emoji": ""
+          "emoji": "3️⃣"
         },
         {
           "text": "quatre",
@@ -140219,7 +140819,7 @@
             "zh": "四",
             "en": "four"
           },
-          "emoji": ""
+          "emoji": "4️⃣"
         },
         {
           "text": "cinq",
@@ -140229,7 +140829,7 @@
             "zh": "五",
             "en": "five"
           },
-          "emoji": ""
+          "emoji": "5️⃣"
         }
       ],
       "tags": [
@@ -140257,7 +140857,7 @@
             "zh": "六",
             "en": "six"
           },
-          "emoji": ""
+          "emoji": "6️⃣"
         },
         {
           "text": "sept",
@@ -140267,7 +140867,7 @@
             "zh": "七",
             "en": "seven"
           },
-          "emoji": ""
+          "emoji": "7️⃣"
         },
         {
           "text": "huit",
@@ -140277,7 +140877,7 @@
             "zh": "八",
             "en": "eight"
           },
-          "emoji": ""
+          "emoji": "8️⃣"
         },
         {
           "text": "neuf",
@@ -140287,7 +140887,7 @@
             "zh": "九",
             "en": "nine"
           },
-          "emoji": ""
+          "emoji": "9️⃣"
         },
         {
           "text": "dix",
@@ -140297,7 +140897,7 @@
             "zh": "十",
             "en": "ten"
           },
-          "emoji": ""
+          "emoji": "🔟"
         }
       ],
       "tags": [
@@ -140338,14 +140938,24 @@
           "emoji": ""
         },
         {
-          "text": "le cinq",
-          "lemma": "cinq",
-          "ipa": "lə sɛ̃k",
+          "text": "le",
+          "lemma": "le",
+          "ipa": "lə",
           "translation": {
-            "zh": "五号",
-            "en": "the fifth"
+            "zh": "（日期冠词）",
+            "en": "the"
           },
           "emoji": ""
+        },
+        {
+          "text": "cinq",
+          "lemma": "cinq",
+          "ipa": "sɛ̃k",
+          "translation": {
+            "zh": "五号",
+            "en": "fifth"
+          },
+          "emoji": "5️⃣"
         }
       ],
       "tags": [
@@ -143204,14 +143814,24 @@
           "emoji": "🍽️"
         },
         {
-          "text": "pour deux",
-          "lemma": "deux",
-          "ipa": "puʁ dø",
+          "text": "pour",
+          "lemma": "pour",
+          "ipa": "puʁ",
           "translation": {
-            "zh": "两个人的",
-            "en": "for two"
+            "zh": "为",
+            "en": "for"
           },
-          "emoji": "👥"
+          "emoji": ""
+        },
+        {
+          "text": "deux",
+          "lemma": "deux",
+          "ipa": "dø",
+          "translation": {
+            "zh": "两人",
+            "en": "two"
+          },
+          "emoji": "2️⃣"
         },
         {
           "text": "s'il vous plaît",
@@ -144016,14 +144636,44 @@
       "cefr": "A2",
       "tokens": [
         {
-          "text": "Ça fait trois euros vingt",
-          "lemma": "euro",
-          "ipa": "sa fɛ tʁwa zøʁo vɛ̃",
+          "text": "Ça fait",
+          "lemma": "faire",
+          "ipa": "sa fɛ",
           "translation": {
-            "zh": "一共三欧元两毛",
-            "en": "that's three euros twenty"
+            "zh": "一共是",
+            "en": "that's"
           },
           "emoji": "💶"
+        },
+        {
+          "text": "trois",
+          "lemma": "trois",
+          "ipa": "tʁwa",
+          "translation": {
+            "zh": "三",
+            "en": "three"
+          },
+          "emoji": "3️⃣"
+        },
+        {
+          "text": "euros",
+          "lemma": "euro",
+          "ipa": "zøʁo",
+          "translation": {
+            "zh": "欧元",
+            "en": "euros"
+          },
+          "emoji": "💶"
+        },
+        {
+          "text": "vingt",
+          "lemma": "vingt",
+          "ipa": "vɛ̃",
+          "translation": {
+            "zh": "两毛",
+            "en": "twenty cents"
+          },
+          "emoji": "2️⃣0️⃣"
         },
         {
           "text": "vous payez",
@@ -144344,12 +144994,32 @@
           "emoji": ""
         },
         {
-          "text": "à quinze heures",
-          "lemma": "heure",
-          "ipa": "a kɛ̃z‿œʁ",
+          "text": "à",
+          "lemma": "à",
+          "ipa": "a",
           "translation": {
-            "zh": "在十五点",
-            "en": "at three pm"
+            "zh": "在",
+            "en": "at"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "quinze",
+          "lemma": "quinze",
+          "ipa": "kɛ̃z",
+          "translation": {
+            "zh": "十五",
+            "en": "fifteen"
+          },
+          "emoji": "1️⃣5️⃣"
+        },
+        {
+          "text": "heures",
+          "lemma": "heure",
+          "ipa": "œʁ",
+          "translation": {
+            "zh": "点",
+            "en": "o'clock"
           },
           "emoji": "🕒"
         },
@@ -144500,12 +145170,22 @@
           "emoji": ""
         },
         {
-          "text": "deux semaines",
-          "lemma": "semaine",
-          "ipa": "dø səmɛn",
+          "text": "deux",
+          "lemma": "deux",
+          "ipa": "dø",
           "translation": {
-            "zh": "两周",
-            "en": "two weeks"
+            "zh": "两",
+            "en": "two"
+          },
+          "emoji": "2️⃣"
+        },
+        {
+          "text": "semaines",
+          "lemma": "semaine",
+          "ipa": "səmɛn",
+          "translation": {
+            "zh": "周",
+            "en": "weeks"
           },
           "emoji": "📅"
         }
@@ -157582,12 +158262,22 @@
           "emoji": ""
         },
         {
-          "text": "deux yeux",
-          "lemma": "œil",
-          "ipa": "dø zjø",
+          "text": "deux",
+          "lemma": "deux",
+          "ipa": "dø",
           "translation": {
-            "zh": "两只眼睛",
-            "en": "two eyes"
+            "zh": "两只",
+            "en": "two"
+          },
+          "emoji": "2️⃣"
+        },
+        {
+          "text": "yeux",
+          "lemma": "œil",
+          "ipa": "zjø",
+          "translation": {
+            "zh": "眼睛",
+            "en": "eyes"
           },
           "emoji": "👁️"
         },
@@ -157756,12 +158446,32 @@
           "emoji": ""
         },
         {
-          "text": "mes deux mains",
-          "lemma": "main",
-          "ipa": "me dø mɛ̃",
+          "text": "mes",
+          "lemma": "mon",
+          "ipa": "me",
           "translation": {
-            "zh": "我的两只手",
-            "en": "my two hands"
+            "zh": "我的",
+            "en": "my"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "deux",
+          "lemma": "deux",
+          "ipa": "dø",
+          "translation": {
+            "zh": "两只",
+            "en": "two"
+          },
+          "emoji": "2️⃣"
+        },
+        {
+          "text": "mains",
+          "lemma": "main",
+          "ipa": "mɛ̃",
+          "translation": {
+            "zh": "手",
+            "en": "hands"
           },
           "emoji": "✋"
         }
@@ -157804,12 +158514,32 @@
           "emoji": ""
         },
         {
-          "text": "mes deux pieds",
-          "lemma": "pied",
-          "ipa": "me dø pje",
+          "text": "mes",
+          "lemma": "mon",
+          "ipa": "me",
           "translation": {
-            "zh": "我的两只脚",
-            "en": "my two feet"
+            "zh": "我的",
+            "en": "my"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "deux",
+          "lemma": "deux",
+          "ipa": "dø",
+          "translation": {
+            "zh": "两只",
+            "en": "two"
+          },
+          "emoji": "2️⃣"
+        },
+        {
+          "text": "pieds",
+          "lemma": "pied",
+          "ipa": "pje",
+          "translation": {
+            "zh": "脚",
+            "en": "feet"
           },
           "emoji": "🦶"
         }
@@ -158104,12 +158834,22 @@
           "emoji": ""
         },
         {
-          "text": "dix heures",
-          "lemma": "heure",
-          "ipa": "di zœʁ",
+          "text": "dix",
+          "lemma": "dix",
+          "ipa": "di",
           "translation": {
-            "zh": "十点",
-            "en": "ten o'clock"
+            "zh": "十",
+            "en": "ten"
+          },
+          "emoji": "🔟"
+        },
+        {
+          "text": "heures",
+          "lemma": "heure",
+          "ipa": "zœʁ",
+          "translation": {
+            "zh": "点",
+            "en": "o'clock"
           },
           "emoji": "🕙"
         }
@@ -158190,12 +158930,32 @@
           "emoji": "🔓"
         },
         {
-          "text": "à huit heures",
-          "lemma": "heure",
-          "ipa": "a ɥit œʁ",
+          "text": "à",
+          "lemma": "à",
+          "ipa": "a",
           "translation": {
-            "zh": "八点",
-            "en": "at eight o'clock"
+            "zh": "在",
+            "en": "at"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "huit",
+          "lemma": "huit",
+          "ipa": "ɥit",
+          "translation": {
+            "zh": "八",
+            "en": "eight"
+          },
+          "emoji": "8️⃣"
+        },
+        {
+          "text": "heures",
+          "lemma": "heure",
+          "ipa": "œʁ",
+          "translation": {
+            "zh": "点",
+            "en": "o'clock"
           },
           "emoji": "🕗"
         }
@@ -159200,12 +159960,32 @@
           "emoji": "❤️"
         },
         {
-          "text": "les quatre saisons",
-          "lemma": "saison",
-          "ipa": "le katʁ sɛzɔ̃",
+          "text": "les",
+          "lemma": "le",
+          "ipa": "le",
           "translation": {
-            "zh": "四季",
-            "en": "the four seasons"
+            "zh": "这",
+            "en": "the"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "quatre",
+          "lemma": "quatre",
+          "ipa": "katʁ",
+          "translation": {
+            "zh": "四",
+            "en": "four"
+          },
+          "emoji": "4️⃣"
+        },
+        {
+          "text": "saisons",
+          "lemma": "saison",
+          "ipa": "sɛzɔ̃",
+          "translation": {
+            "zh": "季节",
+            "en": "seasons"
           },
           "emoji": "🍃"
         }
