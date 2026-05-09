@@ -479,12 +479,16 @@ final class LessonSessionModel: ObservableObject, Identifiable {
     /// Speaks the current main-track sentence using chunked or connected mode
     /// depending on whether this is the final repeat.
     /// playsOnCurrent == 0 means no finishes yet, so next play is play #1.
+    /// Familiar sentences skip the chunked passes entirely — the user already
+    /// knows the word boundaries, so all repeats run in connected (natural)
+    /// mode rather than the slow per-token rhythm.
     private func speakCurrentSentence() {
         let total = max(1, repeatsBeforeAdvance)
-        if playsOnCurrent >= total - 1 {
+        let isFamiliar = familiarIDs.contains(currentSentence.id)
+        if isFamiliar || playsOnCurrent >= total - 1 {
             narration.speakConnected(currentSentence)
         } else {
-            let shouldSpell = spellMode && playsOnCurrent == 0 && !familiarIDs.contains(currentSentence.id) && config.id != "zh"
+            let shouldSpell = spellMode && playsOnCurrent == 0 && config.id != "zh"
             narration.speak(currentSentence, spellFirst: shouldSpell)
         }
     }
