@@ -6559,10 +6559,11 @@
       "id": "fba5f0ef-08a1-4aa9-8a8e-bd7b871e83f6"
     },
     {
-      "text": "我有二本书。",
-      "ipa": "wǒ yǒu èr běn shū",
+      "id": "7de678e7-22a8-4c66-93dd-564b3a96481f",
+      "text": "我有两本书。",
+      "ipa": "wǒ yǒu liǎng běn shū",
       "translation": {
-        "zh": "我有两本书。",
+        "zh": "我有两本书",
         "en": "I have two books."
       },
       "cefr": "HSK1",
@@ -6575,30 +6576,29 @@
             "zh": "我有",
             "en": "I have"
           },
-          "emoji": "🙋"
+          "emoji": ""
         },
         {
-          "text": "二",
-          "lemma": "二",
-          "ipa": "èr",
+          "text": "两本",
+          "lemma": "两",
+          "ipa": "liǎng běn",
           "translation": {
-            "zh": "二",
-            "en": "two"
+            "zh": "两本",
+            "en": "two (vol.)"
           },
-          "emoji": "2️⃣"
+          "emoji": ""
         },
         {
-          "text": "本书",
+          "text": "书",
           "lemma": "书",
-          "ipa": "běn shū",
+          "ipa": "shū",
           "translation": {
-            "zh": "本书",
+            "zh": "书",
             "en": "book"
           },
-          "emoji": "📖"
+          "emoji": "📚"
         }
-      ],
-      "id": "7de678e7-22a8-4c66-93dd-564b3a96481f"
+      ]
     },
     {
       "text": "一加一是二。",
@@ -6939,31 +6939,32 @@
       "id": "808c3594-daaa-42fc-8510-b6dfa63ebebe"
     },
     {
-      "text": "十分钟到。",
-      "ipa": "shí fēn zhōng dào",
+      "id": "1a3f8b6a-42fe-4b07-b9e0-61bed57da410",
+      "text": "他十分钟到。",
+      "ipa": "tā shí fēn zhōng dào",
       "translation": {
-        "zh": "十分钟到。",
-        "en": "Arrive in ten minutes."
+        "zh": "他十分钟到",
+        "en": "He'll arrive in ten minutes."
       },
       "cefr": "HSK1",
       "tokens": [
         {
-          "text": "十",
-          "lemma": "十",
-          "ipa": "shí",
+          "text": "他",
+          "lemma": "他",
+          "ipa": "tā",
           "translation": {
-            "zh": "十",
-            "en": "ten"
+            "zh": "他",
+            "en": "he"
           },
-          "emoji": "🔟"
+          "emoji": ""
         },
         {
-          "text": "分钟",
+          "text": "十分钟",
           "lemma": "分钟",
-          "ipa": "fēn zhōng",
+          "ipa": "shí fēn zhōng",
           "translation": {
-            "zh": "分钟",
-            "en": "minute"
+            "zh": "十分钟",
+            "en": "ten minutes"
           },
           "emoji": "⏱️"
         },
@@ -6975,52 +6976,9 @@
             "zh": "到",
             "en": "arrive"
           },
-          "emoji": "🏁"
+          "emoji": ""
         }
-      ],
-      "id": "1a3f8b6a-42fe-4b07-b9e0-61bed57da410"
-    },
-    {
-      "text": "三分钟好了。",
-      "ipa": "sān fēn zhōng hǎo le",
-      "translation": {
-        "zh": "三分钟好了。",
-        "en": "Three minutes, done."
-      },
-      "cefr": "HSK1",
-      "tokens": [
-        {
-          "text": "三",
-          "lemma": "三",
-          "ipa": "sān",
-          "translation": {
-            "zh": "三",
-            "en": "three"
-          },
-          "emoji": "3️⃣"
-        },
-        {
-          "text": "分钟",
-          "lemma": "分钟",
-          "ipa": "fēn zhōng",
-          "translation": {
-            "zh": "分钟",
-            "en": "minute"
-          },
-          "emoji": "⏱️"
-        },
-        {
-          "text": "好了",
-          "lemma": "好",
-          "ipa": "hǎo le",
-          "translation": {
-            "zh": "好了",
-            "en": "done"
-          },
-          "emoji": "👌"
-        }
-      ],
-      "id": "ed7269f6-cb3d-4896-a23c-7cd01bef7ed2"
+      ]
     },
     {
       "text": "我很高兴。",
@@ -8259,38 +8217,6 @@
       "id": "ea25b668-f60f-4e8a-bea3-3eeeb4979a10"
     },
     {
-      "text": "他叫老师。",
-      "ipa": "tā jiào lǎo shī",
-      "translation": {
-        "zh": "他叫老师。",
-        "en": "He calls the teacher."
-      },
-      "cefr": "HSK1",
-      "tokens": [
-        {
-          "text": "他叫",
-          "lemma": "叫",
-          "ipa": "tā jiào",
-          "translation": {
-            "zh": "他叫",
-            "en": "he calls"
-          },
-          "emoji": "📣"
-        },
-        {
-          "text": "老师",
-          "lemma": "老师",
-          "ipa": "lǎo shī",
-          "translation": {
-            "zh": "老师",
-            "en": "teacher"
-          },
-          "emoji": "👩‍🏫"
-        }
-      ],
-      "id": "0fa2f733-9bf0-4226-b035-42554856c4ed"
-    },
-    {
       "text": "今天很冷。",
       "ipa": "jīn tiān hěn lěng",
       "translation": {
@@ -8905,11 +8831,12 @@
       "id": "3c32766c-cf52-4306-a875-0058e5eaa6f8"
     },
     {
-      "text": "妈妈来家。",
-      "ipa": "mā ma lái jiā",
+      "id": "c30bd318-eca7-40af-994d-695309fc729e",
+      "text": "妈妈回家了。",
+      "ipa": "mā ma huí jiā le",
       "translation": {
-        "zh": "妈妈来家。",
-        "en": "Mom comes home."
+        "zh": "妈妈回家了",
+        "en": "Mom came home."
       },
       "cefr": "HSK1",
       "tokens": [
@@ -8924,27 +8851,16 @@
           "emoji": "👩"
         },
         {
-          "text": "来",
-          "lemma": "来",
-          "ipa": "lái",
+          "text": "回家了",
+          "lemma": "回家",
+          "ipa": "huí jiā le",
           "translation": {
-            "zh": "来",
-            "en": "come"
-          },
-          "emoji": "🚶"
-        },
-        {
-          "text": "家",
-          "lemma": "家",
-          "ipa": "jiā",
-          "translation": {
-            "zh": "家",
-            "en": "home"
+            "zh": "回家了",
+            "en": "came home"
           },
           "emoji": "🏠"
         }
-      ],
-      "id": "c30bd318-eca7-40af-994d-695309fc729e"
+      ]
     },
     {
       "text": "他是老师。",
@@ -11705,21 +11621,32 @@
       "id": "fe9b8b22-63ec-4993-aec9-9b921aa3110b"
     },
     {
-      "text": "认识你。",
-      "ipa": "rèn shi nǐ",
+      "id": "f56ee4d3-98e0-4f9b-8eef-ee4ffc4f36e2",
+      "text": "很高兴认识你。",
+      "ipa": "hěn gāo xìng rèn shi nǐ",
       "translation": {
-        "zh": "认识你。",
+        "zh": "很高兴认识你。",
         "en": "Nice to meet you."
       },
       "cefr": "HSK1",
       "tokens": [
+        {
+          "text": "很高兴",
+          "lemma": "高兴",
+          "ipa": "hěn gāo xìng",
+          "translation": {
+            "zh": "很高兴",
+            "en": "very glad"
+          },
+          "emoji": "😊"
+        },
         {
           "text": "认识",
           "lemma": "认识",
           "ipa": "rèn shi",
           "translation": {
             "zh": "认识",
-            "en": "know"
+            "en": "to meet"
           },
           "emoji": "🤝"
         },
@@ -11733,8 +11660,7 @@
           },
           "emoji": "👤"
         }
-      ],
-      "id": "f56ee4d3-98e0-4f9b-8eef-ee4ffc4f36e2"
+      ]
     },
     {
       "text": "我不认识。",
@@ -23177,48 +23103,6 @@
       "id": "af992eaa-7fca-4f74-bf82-80fee1f09d93"
     },
     {
-      "text": "坐公共汽车去。",
-      "ipa": "zuò gōng gòng qì chē qù",
-      "translation": {
-        "zh": "坐公共汽车去。",
-        "en": "Go by bus."
-      },
-      "cefr": "HSK2",
-      "tokens": [
-        {
-          "text": "坐",
-          "lemma": "坐",
-          "ipa": "zuò",
-          "translation": {
-            "zh": "坐",
-            "en": "take / ride"
-          },
-          "emoji": "🪑"
-        },
-        {
-          "text": "公共汽车",
-          "lemma": "公共汽车",
-          "ipa": "gōng gòng qì chē",
-          "translation": {
-            "zh": "公共汽车",
-            "en": "bus"
-          },
-          "emoji": "🚌"
-        },
-        {
-          "text": "去",
-          "lemma": "去",
-          "ipa": "qù",
-          "translation": {
-            "zh": "去",
-            "en": "go"
-          },
-          "emoji": "➡️"
-        }
-      ],
-      "id": "a10504b5-ef2d-4a30-bb9f-b243c775b461"
-    },
-    {
       "text": "我去公司。",
       "ipa": "wǒ qù gōng sī",
       "translation": {
@@ -25193,21 +25077,32 @@
       "id": "65ad5a27-f2fe-474f-b3ec-1a536f74806e"
     },
     {
-      "text": "可能是对的。",
-      "ipa": "kě néng shì duì de",
+      "id": "406f7091-d091-4ed1-a633-4507893ae2c6",
+      "text": "你可能是对的。",
+      "ipa": "nǐ kě néng shì duì de",
       "translation": {
-        "zh": "可能是对的。",
-        "en": "It's probably correct."
+        "zh": "你可能是对的",
+        "en": "You might be right."
       },
       "cefr": "HSK2",
       "tokens": [
+        {
+          "text": "你",
+          "lemma": "你",
+          "ipa": "nǐ",
+          "translation": {
+            "zh": "你",
+            "en": "you"
+          },
+          "emoji": ""
+        },
         {
           "text": "可能",
           "lemma": "可能",
           "ipa": "kě néng",
           "translation": {
             "zh": "可能",
-            "en": "probably"
+            "en": "might"
           },
           "emoji": ""
         },
@@ -25217,12 +25112,11 @@
           "ipa": "shì duì de",
           "translation": {
             "zh": "是对的",
-            "en": "is correct"
+            "en": "be right"
           },
           "emoji": "✅"
         }
-      ],
-      "id": "406f7091-d091-4ed1-a633-4507893ae2c6"
+      ]
     },
     {
       "text": "我可以进吗？",
@@ -29105,102 +28999,6 @@
       "id": "2098a839-2fc9-489b-b526-c5927c24f225"
     },
     {
-      "text": "虽然贵，但是好。",
-      "ipa": "suī rán guì dàn shì hǎo",
-      "translation": {
-        "zh": "虽然贵，但是好。",
-        "en": "It's expensive, but it's good."
-      },
-      "cefr": "HSK2",
-      "tokens": [
-        {
-          "text": "虽然贵",
-          "lemma": "贵",
-          "ipa": "suī rán guì",
-          "translation": {
-            "zh": "虽然贵",
-            "en": "although expensive"
-          },
-          "emoji": "💰"
-        },
-        {
-          "text": "但是好",
-          "lemma": "好",
-          "ipa": "dàn shì hǎo",
-          "translation": {
-            "zh": "但是好",
-            "en": "but good"
-          },
-          "emoji": "👍"
-        }
-      ],
-      "id": "a855a7d9-f6ac-46cd-a241-a17e3224f60d"
-    },
-    {
-      "text": "虽然累，但是高兴。",
-      "ipa": "suī rán lèi dàn shì gāo xìng",
-      "translation": {
-        "zh": "虽然累，但是高兴。",
-        "en": "Tired, but happy."
-      },
-      "cefr": "HSK2",
-      "tokens": [
-        {
-          "text": "虽然累",
-          "lemma": "累",
-          "ipa": "suī rán lèi",
-          "translation": {
-            "zh": "虽然累",
-            "en": "although tired"
-          },
-          "emoji": "😴"
-        },
-        {
-          "text": "但是高兴",
-          "lemma": "高兴",
-          "ipa": "dàn shì gāo xìng",
-          "translation": {
-            "zh": "但是高兴",
-            "en": "but happy"
-          },
-          "emoji": "😊"
-        }
-      ],
-      "id": "2202da00-bf5a-4373-9da8-8dae67fdfdd2"
-    },
-    {
-      "text": "虽然冷，但是很美。",
-      "ipa": "suī rán lěng dàn shì hěn měi",
-      "translation": {
-        "zh": "虽然冷，但是很美。",
-        "en": "It's cold, but beautiful."
-      },
-      "cefr": "HSK2",
-      "tokens": [
-        {
-          "text": "虽然冷",
-          "lemma": "冷",
-          "ipa": "suī rán lěng",
-          "translation": {
-            "zh": "虽然冷",
-            "en": "although cold"
-          },
-          "emoji": "🥶"
-        },
-        {
-          "text": "但是很美",
-          "lemma": "美",
-          "ipa": "dàn shì hěn měi",
-          "translation": {
-            "zh": "但是很美",
-            "en": "but very beautiful"
-          },
-          "emoji": "😍"
-        }
-      ],
-      "id": "53fe7211-a868-436e-838f-a9ff3695678e"
-    },
-    {
       "text": "它很可爱。",
       "ipa": "tā hěn kě ài",
       "translation": {
@@ -30793,70 +30591,6 @@
       ]
     },
     {
-      "id": "98f3722f-9f0a-4def-9561-f6a118931b0b",
-      "text": "一个小时后。",
-      "ipa": "yī ɡe xiǎo shí hòu",
-      "translation": {
-        "zh": "一个小时后。",
-        "en": "In one hour."
-      },
-      "cefr": "HSK2",
-      "tokens": [
-        {
-          "text": "一个",
-          "lemma": "个",
-          "ipa": "yī ɡe",
-          "translation": {
-            "zh": "一个",
-            "en": "one"
-          },
-          "emoji": "1️⃣"
-        },
-        {
-          "text": "小时后",
-          "lemma": "小时",
-          "ipa": "xiǎo shí hòu",
-          "translation": {
-            "zh": "小时后",
-            "en": "hour later"
-          },
-          "emoji": "⏰"
-        }
-      ]
-    },
-    {
-      "id": "c95c67a7-ccfc-4277-bb4d-230eaf57176c",
-      "text": "几个小时？",
-      "ipa": "jǐ ɡe xiǎo shí",
-      "translation": {
-        "zh": "几个小时？",
-        "en": "How many hours?"
-      },
-      "cefr": "HSK2",
-      "tokens": [
-        {
-          "text": "几个",
-          "lemma": "几",
-          "ipa": "jǐ ɡe",
-          "translation": {
-            "zh": "几个",
-            "en": "how many"
-          },
-          "emoji": "🔢"
-        },
-        {
-          "text": "小时",
-          "lemma": "小时",
-          "ipa": "xiǎo shí",
-          "translation": {
-            "zh": "小时",
-            "en": "hours"
-          },
-          "emoji": "⏰"
-        }
-      ]
-    },
-    {
       "id": "a29521c7-695f-48e1-8ec6-79fd83b9fa35",
       "text": "她在笑。",
       "ipa": "tā zài xiào",
@@ -32011,28 +31745,6 @@
       "id": "265eb530-0bbf-4e5a-beb8-06e1fec1c4c8"
     },
     {
-      "text": "没意思。",
-      "ipa": "méi yì si",
-      "translation": {
-        "zh": "没意思。",
-        "en": "Boring / Not interesting."
-      },
-      "cefr": "HSK2",
-      "tokens": [
-        {
-          "text": "没意思",
-          "lemma": "意思",
-          "ipa": "méi yì si",
-          "translation": {
-            "zh": "没意思",
-            "en": "boring / meaningless"
-          },
-          "emoji": "😑"
-        }
-      ],
-      "id": "cec59f3f-9fd2-4b2a-a4a6-1597e133d800"
-    },
-    {
       "text": "他的意思是对的。",
       "ipa": "tā de yì si shì duì de",
       "translation": {
@@ -32065,112 +31777,6 @@
       "id": "bd14df00-ba26-4ab6-9884-f141d233b4f0"
     },
     {
-      "text": "因为我累了。",
-      "ipa": "yīn wèi wǒ lèi le",
-      "translation": {
-        "zh": "因为我累了。",
-        "en": "Because I'm tired."
-      },
-      "cefr": "HSK2",
-      "tokens": [
-        {
-          "text": "因为",
-          "lemma": "因为",
-          "ipa": "yīn wèi",
-          "translation": {
-            "zh": "因为",
-            "en": "because"
-          },
-          "emoji": ""
-        },
-        {
-          "text": "我累了",
-          "lemma": "累",
-          "ipa": "wǒ lèi le",
-          "translation": {
-            "zh": "我累了",
-            "en": "I'm tired"
-          },
-          "emoji": "😴"
-        }
-      ],
-      "id": "337d9259-c62b-40a5-a3d2-32d813f94c0f"
-    },
-    {
-      "text": "因为天气冷。",
-      "ipa": "yīn wèi tiān qì lěng",
-      "translation": {
-        "zh": "因为天气冷。",
-        "en": "Because the weather is cold."
-      },
-      "cefr": "HSK2",
-      "tokens": [
-        {
-          "text": "因为",
-          "lemma": "因为",
-          "ipa": "yīn wèi",
-          "translation": {
-            "zh": "因为",
-            "en": "because"
-          },
-          "emoji": ""
-        },
-        {
-          "text": "天气",
-          "lemma": "天气",
-          "ipa": "tiān qì",
-          "translation": {
-            "zh": "天气",
-            "en": "weather"
-          },
-          "emoji": "🌤️"
-        },
-        {
-          "text": "冷",
-          "lemma": "冷",
-          "ipa": "lěng",
-          "translation": {
-            "zh": "冷",
-            "en": "cold"
-          },
-          "emoji": "🥶"
-        }
-      ],
-      "id": "4b09b499-b826-4fe3-adec-a25d5079e149"
-    },
-    {
-      "text": "因为我生病了。",
-      "ipa": "yīn wèi wǒ shēng bìng le",
-      "translation": {
-        "zh": "因为我生病了。",
-        "en": "Because I'm sick."
-      },
-      "cefr": "HSK2",
-      "tokens": [
-        {
-          "text": "因为",
-          "lemma": "因为",
-          "ipa": "yīn wèi",
-          "translation": {
-            "zh": "因为",
-            "en": "because"
-          },
-          "emoji": ""
-        },
-        {
-          "text": "我生病了",
-          "lemma": "生病",
-          "ipa": "wǒ shēng bìng le",
-          "translation": {
-            "zh": "我生病了",
-            "en": "I'm sick"
-          },
-          "emoji": "🤒"
-        }
-      ],
-      "id": "0d76bbd9-3c1b-4cf2-a8bf-b592b57d26c2"
-    },
-    {
       "text": "所以我来了。",
       "ipa": "suǒ yǐ wǒ lái le",
       "translation": {
@@ -32201,28 +31807,6 @@
         }
       ],
       "id": "5c494a90-d8c6-41a9-97c9-d655fa04d55a"
-    },
-    {
-      "text": "所以呢？",
-      "ipa": "suǒ yǐ ne",
-      "translation": {
-        "zh": "所以呢？",
-        "en": "So? / And then?"
-      },
-      "cefr": "HSK2",
-      "tokens": [
-        {
-          "text": "所以呢",
-          "lemma": "所以",
-          "ipa": "suǒ yǐ ne",
-          "translation": {
-            "zh": "所以呢",
-            "en": "so then?"
-          },
-          "emoji": ""
-        }
-      ],
-      "id": "061a5ce3-b458-4142-af81-70276c07e91d"
     },
     {
       "text": "所以你知道了。",
@@ -32321,10 +31905,11 @@
       "id": "cc7fb3b6-fa2f-423e-a5a1-100fb8c89e89"
     },
     {
-      "text": "外面阴。",
-      "ipa": "wài miàn yīn",
+      "id": "b7867f49-1be6-49fc-935a-942ebeef9eb9",
+      "text": "外面是阴天。",
+      "ipa": "wài miàn shì yīn tiān",
       "translation": {
-        "zh": "外面是阴天。",
+        "zh": "外面是阴天",
         "en": "It's cloudy outside."
       },
       "cefr": "HSK2",
@@ -32340,17 +31925,26 @@
           "emoji": "🚪"
         },
         {
-          "text": "阴",
-          "lemma": "阴",
-          "ipa": "yīn",
+          "text": "是",
+          "lemma": "是",
+          "ipa": "shì",
+          "translation": {
+            "zh": "是",
+            "en": "is"
+          },
+          "emoji": ""
+        },
+        {
+          "text": "阴天",
+          "lemma": "阴天",
+          "ipa": "yīn tiān",
           "translation": {
             "zh": "阴天",
-            "en": "cloudy"
+            "en": "cloudy day"
           },
           "emoji": "☁️"
         }
-      ],
-      "id": "b7867f49-1be6-49fc-935a-942ebeef9eb9"
+      ]
     },
     {
       "text": "我喜欢游泳。",
@@ -32447,28 +32041,6 @@
         }
       ],
       "id": "1bbf47fb-c0a8-4681-9cfb-71a9acfc0b93"
-    },
-    {
-      "text": "在右边。",
-      "ipa": "zài yòu biān",
-      "translation": {
-        "zh": "在右边。",
-        "en": "On the right."
-      },
-      "cefr": "HSK2",
-      "tokens": [
-        {
-          "text": "在右边",
-          "lemma": "右边",
-          "ipa": "zài yòu biān",
-          "translation": {
-            "zh": "在右边",
-            "en": "on the right"
-          },
-          "emoji": "➡️"
-        }
-      ],
-      "id": "f68d5aa6-2522-4d6b-aec2-6d5f813794c1"
     },
     {
       "text": "请走右边。",
@@ -32671,28 +32243,6 @@
         }
       ],
       "id": "ebc253a0-43fa-49b3-8c7d-b02b3b632568"
-    },
-    {
-      "text": "不太远。",
-      "ipa": "bù tài yuǎn",
-      "translation": {
-        "zh": "不太远。",
-        "en": "Not too far."
-      },
-      "cefr": "HSK2",
-      "tokens": [
-        {
-          "text": "不太远",
-          "lemma": "远",
-          "ipa": "bù tài yuǎn",
-          "translation": {
-            "zh": "不太远",
-            "en": "not too far"
-          },
-          "emoji": "🗺️"
-        }
-      ],
-      "id": "12cbc259-afcf-4931-88ea-a46f5ef58f7c"
     },
     {
       "text": "学校很远。",
@@ -33533,28 +33083,6 @@
             "en": "hurry up"
           },
           "emoji": "🏃"
-        }
-      ]
-    },
-    {
-      "id": "52688a4a-d995-4e8f-909a-4a8f46b01fad",
-      "text": "在左边。",
-      "ipa": "zài zuǒ biān",
-      "translation": {
-        "zh": "在左边。",
-        "en": "It's on the left."
-      },
-      "cefr": "HSK2",
-      "tokens": [
-        {
-          "text": "在左边",
-          "lemma": "左边",
-          "ipa": "zài zuǒ biān",
-          "translation": {
-            "zh": "在左侧",
-            "en": "on the left"
-          },
-          "emoji": "⬅️"
         }
       ]
     },
@@ -136750,10 +136278,10 @@
     },
     {
       "id": "5c22cc84-e8d3-4fbb-922c-4c784ea13820",
-      "text": "你想参加我们吗？",
-      "ipa": "nǐ xiǎng cān jiā wǒ men ma",
+      "text": "你想加入我们吗？",
+      "ipa": "nǐ xiǎng jiā rù wǒ men ma",
       "translation": {
-        "zh": "你想参加我们吗？",
+        "zh": "你想加入我们吗",
         "en": "Do you want to join us?"
       },
       "cefr": "HSK3",
@@ -136764,17 +136292,17 @@
           "ipa": "nǐ xiǎng",
           "translation": {
             "zh": "你想",
-            "en": "do you want / would you like"
+            "en": "do you want"
           },
           "emoji": "🤔"
         },
         {
-          "text": "参加",
-          "lemma": "参加",
-          "ipa": "cān jiā",
+          "text": "加入",
+          "lemma": "加入",
+          "ipa": "jiā rù",
           "translation": {
-            "zh": "参加",
-            "en": "join / participate"
+            "zh": "加入",
+            "en": "join"
           },
           "emoji": "🤝"
         },
@@ -136784,7 +136312,7 @@
           "ipa": "wǒ men ma",
           "translation": {
             "zh": "我们吗",
-            "en": "us (question)"
+            "en": "us?"
           },
           "emoji": "👥"
         }
@@ -142944,31 +142472,31 @@
     },
     {
       "id": "2933467f-3a02-4b9c-87d8-1e717d29d6b6",
-      "text": "还是你说得对。",
-      "ipa": "hái shi nǐ shuō de duì",
+      "text": "你说得对。",
+      "ipa": "nǐ shuō de duì",
       "translation": {
-        "zh": "还是你说得对。",
-        "en": "You were right after all."
+        "zh": "你说得对",
+        "en": "You are right."
       },
       "cefr": "HSK3",
       "tokens": [
         {
-          "text": "还是",
-          "lemma": "还是",
-          "ipa": "hái shi",
+          "text": "你",
+          "lemma": "你",
+          "ipa": "nǐ",
           "translation": {
-            "zh": "还是",
-            "en": "after all / still"
+            "zh": "你",
+            "en": "you"
           },
           "emoji": ""
         },
         {
-          "text": "你说得对",
+          "text": "说得对",
           "lemma": "说得对",
-          "ipa": "nǐ shuō de duì",
+          "ipa": "shuō de duì",
           "translation": {
-            "zh": "你说得对",
-            "en": "you were right"
+            "zh": "说得对",
+            "en": "are right"
           },
           "emoji": "✅"
         }
@@ -184753,11 +184281,12 @@
       "id": "c928a565-fb24-4e78-ab7f-868f5476550e"
     },
     {
-      "text": "周末我们去休息。",
-      "ipa": "zhōu mò wǒ men qù xiū xi",
+      "id": "0766ccca-279a-4d15-b9c1-bfe0201d7e0c",
+      "text": "周末我们好好休息。",
+      "ipa": "zhōu mò wǒ men hǎo hǎo xiū xi",
       "translation": {
-        "zh": "周末我们去休息。",
-        "en": "We'll go rest on the weekend."
+        "zh": "周末我们好好休息",
+        "en": "Let's rest well on the weekend."
       },
       "cefr": "HSK2",
       "tokens": [
@@ -184767,23 +184296,21 @@
           "ipa": "zhōu mò",
           "translation": {
             "zh": "周末",
-            "en": "on the weekend"
+            "en": "weekend"
           },
           "emoji": "📅"
         },
         {
-          "text": "我们去休息",
+          "text": "我们好好休息",
           "lemma": "休息",
-          "ipa": "wǒ men qù xiū xi",
+          "ipa": "wǒ men hǎo hǎo xiū xi",
           "translation": {
-            "zh": "我们去休息",
-            "en": "we'll go rest"
+            "zh": "我们好好休息",
+            "en": "we rest well"
           },
           "emoji": "🛋️"
         }
-      ],
-      "tags": [],
-      "id": "0766ccca-279a-4d15-b9c1-bfe0201d7e0c"
+      ]
     },
     {
       "text": "我告诉你一个好消息。",
@@ -186514,37 +186041,36 @@
       "id": "78f86683-7ae4-4a42-b177-d57b7abbed83"
     },
     {
-      "text": "朋友一起来玩。",
-      "ipa": "péng yǒu yī qǐ lái wán",
+      "id": "e4da08b8-e8c0-4315-a8e7-c3c97370f0f2",
+      "text": "朋友们一起来玩。",
+      "ipa": "péng yǒu men yī qǐ lái wán",
       "translation": {
-        "zh": "朋友一起来玩。",
-        "en": "Friends come together to play."
+        "zh": "朋友们一起来玩",
+        "en": "Friends come and play together."
       },
       "cefr": "HSK2",
       "tokens": [
         {
-          "text": "朋友一起",
-          "lemma": "一起",
-          "ipa": "péng yǒu yī qǐ",
+          "text": "朋友们",
+          "lemma": "朋友",
+          "ipa": "péng yǒu men",
           "translation": {
-            "zh": "朋友一起",
-            "en": "friends together"
+            "zh": "朋友们",
+            "en": "friends"
           },
           "emoji": "👫"
         },
         {
-          "text": "来玩",
+          "text": "一起来玩",
           "lemma": "玩",
-          "ipa": "lái wán",
+          "ipa": "yī qǐ lái wán",
           "translation": {
-            "zh": "来玩",
-            "en": "come play"
+            "zh": "一起来玩",
+            "en": "come play together"
           },
           "emoji": "🎮"
         }
-      ],
-      "tags": [],
-      "id": "e4da08b8-e8c0-4315-a8e7-c3c97370f0f2"
+      ]
     }
   ]
 }
