@@ -41,6 +41,19 @@ struct ContentView: View {
     @State private var voiceAdvice: VoiceUpgradeAdvice = .none
     @State private var showVoiceHintSheet = false
     @AppStorage("voice_hint_dismissed_v1") private var voiceHintDismissed = false
+    /// Collapsed state for the right display-toggle column. When true a
+    /// 12pt tab sits at the right edge instead; tap or left-swipe restores
+    /// the full column. Persisted per-device (UI preference).
+    @AppStorage("rightColumnCollapsed_v1") private var rightColumnCollapsed = false
+    /// Same pattern for the left playback-controls column. Independent
+    /// state — both can be collapsed simultaneously to hand the entire
+    /// horizontal space to the sentence.
+    @AppStorage("leftColumnCollapsed_v1") private var leftColumnCollapsed = false
+    /// Brief brand-color flash on Later/Known cells when tapped. The
+    /// underlying archive action runs immediately; this just lets the
+    /// user see "yep, that registered" before the sentence advances.
+    @State private var laterFlashed = false
+    @State private var knownFlashed = false
     @State private var showLibraryPicker  = false
     @State private var showSpeedPopover   = false
     @State private var showRepeatsPopover = false
@@ -86,13 +99,10 @@ struct ContentView: View {
                     topBar
 
                     HStack(alignment: .top, spacing: 0) {
-                        leftControls
-                            .frame(width: 56)
-                            .tutorialAnchor(.leftColumn)
+                        leftSide
                             .padding(.top, 16)
 
                         VStack(spacing: 0) {
-                            peekArrow(systemName: "chevron.up")
                             Spacer(minLength: 0)
                             ViewThatFits(in: .vertical) {
                                 sentenceArea(scale: 1.50)
@@ -110,14 +120,13 @@ struct ContentView: View {
                             .animation(.easeOut(duration: 0.22), value: session.currentSentence.id)
                             .padding(.horizontal, 12)
                             .tutorialAnchor(.sentenceArea)
-                            Spacer(minLength: 110)
-                            peekArrow(systemName: "chevron.down")
+                            // Reserved for the bottom cluster: action row at
+                            // ~90pt, tag chips at ~150pt, plus padding.
+                            Spacer(minLength: 200)
                         }
                         .frame(maxWidth: .infinity)
 
-                        rightColumn
-                            .frame(width: 56)
-                            .tutorialAnchor(.rightColumn)
+                        rightSide
                             .padding(.top, 16)
                     }
                     .padding(.horizontal, 4)
@@ -129,31 +138,13 @@ struct ContentView: View {
                         Spacer()
                         exitPillButton
                             .padding(.horizontal, 16)
-                            .padding(.bottom, 32)
+                            .padding(.bottom, 90)
                     }
                 }
 
-                // ── Profile button (bottom-right, normal mode) ────────────────
-                if session.focusedLemma == nil && !session.isFavoriteMode && session.activatedTag == nil {
-                    VStack {
-                        Spacer()
-                        HStack {
-                            Spacer()
-                            Button { showProfile = true } label: {
-                                Image(systemName: "person.crop.circle")
-                                    .font(.system(size: 22, weight: .regular))
-                                    .foregroundStyle(Color.lllbAccent)
-                                    .frame(width: 44, height: 44)
-                                    .background(Color.lllbChipBg, in: Circle())
-                                    .overlay(Circle().stroke(Color.lllbChipStroke, lineWidth: 0.5))
-                            }
-                            .buttonStyle(.plain)
-                            .tutorialAnchor(.profileButton)
-                            .padding(.trailing, 20)
-                            .padding(.bottom, 32)
-                        }
-                    }
-                }
+                // Profile is now a cell inside the bottom action toolbar
+                // (`actionRow`); it's no longer rendered as a standalone
+                // bottom-right overlay.
 
                 // ── Add-to-pool button (focus mode, when current example is not in pool) ──
                 // restoreSentence also lifts the sentence out of mastered/later if
@@ -185,7 +176,7 @@ struct ContentView: View {
                             }
                             .buttonStyle(.plain)
                             .padding(.trailing, 20)
-                            .padding(.bottom, 32)
+                            .padding(.bottom, 90)
                         }
                     }
                 }
@@ -200,20 +191,45 @@ struct ContentView: View {
                                 tagChip(tag)
                             }
                         }
-                        .padding(.bottom, 100)
+                        // Tag chips above the action row (32pt) and the
+                        // secondary cluster (Profile/exit/playcount at 90pt).
+                        .padding(.bottom, 150)
                     }
                 }
 
-                // ── Play count badge (bottom-left) ────────────────────────────
-                VStack {
-                    Spacer()
+                // ── Left column collapsed expand-tab (floating overlay) ───────
+                if leftColumnCollapsed {
                     HStack {
-                        playCountBadge
-                            .padding(.leading, 20)
-                            .padding(.bottom, 32)
+                        collapsedExpandLeftTab
                         Spacer()
                     }
                 }
+
+                // ── Right column collapsed expand-tab (floating overlay) ──────
+                // Lives outside the HStack so it doesn't take layout space —
+                // when collapsed the sentence area extends to the right edge,
+                // and this small chevron hovers on top.
+                if rightColumnCollapsed {
+                    HStack {
+                        Spacer()
+                        collapsedExpandTab
+                    }
+                }
+
+                // ── Per-sentence action row (very bottom, anchored) ───────────
+                // Sits at the screen-bottom safe-area band so it reads as
+                // "fixed footer" rather than floating mid-air. The earlier
+                // bottom-corner items (Profile / play-count / exit pill) are
+                // bumped up to 90pt to clear it.
+                VStack {
+                    Spacer()
+                    actionRow
+                        .padding(.bottom, 32)
+                }
+
+                // Play count is now displayed inline inside the Play cell of
+                // `actionRow` (▶ N with the original 4-tier color), so the
+                // standalone bottom-left badge overlay is removed.
 
                 // ── Library picker overlay ─────────────────────────────────────
                 if showLibraryPicker {
@@ -568,18 +584,350 @@ struct ContentView: View {
         voiceAdvice = VoiceQualityCheck.advice(for: session.config.ttsLocale)
     }
 
-    // MARK: - Peek arrows
+    // MARK: - Left side (column + swipe-handle pedestal)
 
-    private func peekArrow(systemName: String) -> some View {
-        VStack(spacing: 2) {
-            Image(systemName: systemName)
-                .font(.caption)
-                .foregroundStyle(.secondary.opacity(0.35))
-            Image(systemName: systemName)
-                .font(.system(size: 8))
-                .foregroundStyle(.secondary.opacity(0.18))
+    @ViewBuilder
+    private var leftSide: some View {
+        if !leftColumnCollapsed {
+            VStack(spacing: 0) {
+                leftSideSwipeHandle
+                    .padding(.bottom, 12)
+                leftControls
+                    .tutorialAnchor(.leftColumn)
+                Spacer(minLength: 0)
+            }
+            .frame(width: 56)
         }
-        .padding(.vertical, 10)
+    }
+
+    private var leftSideSwipeHandle: some View {
+        Image(systemName: "chevron.left")
+            .font(.system(size: 12, weight: .semibold))
+            .foregroundStyle(.secondary)
+            .frame(maxWidth: .infinity)
+            .frame(height: 32)
+            .background(Color.lllbCellStroke.opacity(0.18),
+                        in: RoundedRectangle(cornerRadius: 8))
+            .contentShape(Rectangle())
+            .onTapGesture {
+                withAnimation(Self.columnSpring) { leftColumnCollapsed = true }
+            }
+            .gesture(
+                DragGesture(minimumDistance: 20)
+                    .onEnded { value in
+                        let dx = value.translation.width
+                        guard abs(dx) > abs(value.translation.height) else { return }
+                        if dx < -20 {
+                            withAnimation(Self.columnSpring) { leftColumnCollapsed = true }
+                        }
+                    }
+            )
+    }
+
+    /// Floating chevron-tab shown when the left column is collapsed —
+    /// mirror of `collapsedExpandTab` for the right side. Sits at the top
+    /// of the screen (just below topBar) so it's out of the sentence area
+    /// and lines up symmetrically with its right-side counterpart.
+    private var collapsedExpandLeftTab: some View {
+        VStack {
+            Image(systemName: "chevron.right")
+                .font(.system(size: 12, weight: .semibold))
+                .foregroundStyle(.secondary)
+                .frame(width: 18, height: 36)
+                .background(Color.lllbCellStroke.opacity(0.22),
+                            in: RoundedRectangle(cornerRadius: 6))
+                .padding(8)
+                .contentShape(Rectangle())
+                .onTapGesture {
+                    withAnimation(Self.columnSpring) { leftColumnCollapsed = false }
+                }
+                .gesture(
+                    DragGesture(minimumDistance: 20)
+                        .onEnded { value in
+                            let dx = value.translation.width
+                            guard abs(dx) > abs(value.translation.height) else { return }
+                            if dx > 20 {
+                                withAnimation(Self.columnSpring) { leftColumnCollapsed = false }
+                            }
+                        }
+                )
+            Spacer(minLength: 0)
+        }
+        // Clears the 36pt topBar plus a small cushion. Same value used on
+        // the right-side tab so the two chevrons sit at identical y.
+        .padding(.top, 52)
+        .padding(.leading, 2)
+    }
+
+    // MARK: - Right side (column + swipe-handle pedestal)
+
+    /// Wraps the right display-toggle column with a dedicated swipe-handle
+    /// pedestal underneath. The pedestal is the *only* part that listens
+    /// for horizontal drags — the toggle buttons themselves stay click-only,
+    /// so a swipe meant to collapse never accidentally fires a toggle.
+    /// When collapsed the buttons are hidden and the pedestal stays at
+    /// roughly the same vertical position so the user knows where to grab
+    /// it back.
+    /// Spring used for both collapse and expand transitions — gives the
+    /// sheet-like "snap with a tiny bounce" feel rather than a flat ease.
+    private static let columnSpring: Animation =
+        .spring(response: 0.35, dampingFraction: 0.85)
+
+    @ViewBuilder
+    private var rightSide: some View {
+        // When collapsed, this view is empty — the floating chevron lives
+        // as a ZStack overlay so the sentence area can extend all the way
+        // to the right edge instead of paying for a 24pt strip.
+        if !rightColumnCollapsed {
+            VStack(spacing: 0) {
+                rightSideSwipeHandle
+                    .padding(.bottom, 12)
+                rightColumn
+                    .tutorialAnchor(.rightColumn)
+                Spacer(minLength: 0)
+            }
+            .frame(width: 56)
+        }
+    }
+
+    /// Pedestal below the toggle column (expanded state). Tap or right-swipe
+    /// to collapse. The `abs(width) > abs(height)` guard keeps the parent's
+    /// up/down sentence-swipe gesture working when the user drags
+    /// vertically across this region.
+    private var rightSideSwipeHandle: some View {
+        Image(systemName: "chevron.right")
+            .font(.system(size: 12, weight: .semibold))
+            .foregroundStyle(.secondary)
+            .frame(maxWidth: .infinity)
+            .frame(height: 32)
+            .background(Color.lllbCellStroke.opacity(0.18),
+                        in: RoundedRectangle(cornerRadius: 8))
+            .contentShape(Rectangle())
+            .onTapGesture {
+                withAnimation(Self.columnSpring) { rightColumnCollapsed = true }
+            }
+            .gesture(
+                DragGesture(minimumDistance: 20)
+                    .onEnded { value in
+                        let dx = value.translation.width
+                        guard abs(dx) > abs(value.translation.height) else { return }
+                        if dx > 20 {
+                            withAnimation(Self.columnSpring) { rightColumnCollapsed = true }
+                        }
+                    }
+            )
+    }
+
+    /// Floating chevron-tab shown when the right column is collapsed —
+    /// sits as a ZStack overlay so it can hover on top of the sentence
+    /// area without claiming layout space. Tap or left-swipe to expand.
+    /// Anchored at the top of the screen, mirroring the left-side tab's y.
+    private var collapsedExpandTab: some View {
+        VStack {
+            Image(systemName: "chevron.left")
+                .font(.system(size: 12, weight: .semibold))
+                .foregroundStyle(.secondary)
+                .frame(width: 18, height: 36)
+                .background(Color.lllbCellStroke.opacity(0.22),
+                            in: RoundedRectangle(cornerRadius: 6))
+                // Larger transparent hit area so the small visible tab is
+                // still comfortable to tap.
+                .padding(8)
+                .contentShape(Rectangle())
+                .onTapGesture {
+                    withAnimation(Self.columnSpring) { rightColumnCollapsed = false }
+                }
+                .gesture(
+                    DragGesture(minimumDistance: 20)
+                        .onEnded { value in
+                            let dx = value.translation.width
+                            guard abs(dx) > abs(value.translation.height) else { return }
+                            if dx < -20 {
+                                withAnimation(Self.columnSpring) { rightColumnCollapsed = false }
+                            }
+                        }
+                )
+            Spacer(minLength: 0)
+        }
+        .padding(.top, 52)
+        .padding(.trailing, 2)
+    }
+
+    // MARK: - Bottom action row
+
+    /// Brief flash duration (s) used by the one-shot archive cells (Later,
+    /// Known) to acknowledge a tap with a short brand-color pulse before
+    /// the sentence advances and the cell visually resets.
+    private static let archiveFlashSeconds: Double = 0.32
+
+    /// Bottom-anchored toolbar: Play / Like / Familiar / Later / Known /
+    /// Profile, evenly distributed across the available width via
+    /// `frame(maxWidth: .infinity)`. Labels use `minimumScaleFactor(0.7)`
+    /// so iPhone SE shrinks "Familiar" to fit instead of truncating.
+    /// Active-state colors map to the four brand ring colors.
+    @ViewBuilder
+    private var actionRow: some View {
+        let nl         = session.nativeLanguage
+        let isFav      = session.favoritedIDs.contains(session.currentSentence.id)
+        let isFamiliar = session.familiarIDs.contains(session.currentSentence.id)
+
+        HStack(spacing: 6) {
+            playCell(nl: nl)
+
+            LikeButton(
+                isFav: isFav,
+                label: L("喜欢", "Like", nativeLanguage: nl),
+                onTap: {
+                    Haptics.success()
+                    session.toggleFavorite(for: session.currentSentence.id)
+                }
+            )
+
+            Button { Haptics.success(); session.toggleFamiliar() } label: {
+                actionCell(
+                    icon:        isFamiliar ? "checkmark.circle.fill" : "checkmark.circle",
+                    label:       L("熟悉", "Familiar", nativeLanguage: nl),
+                    isActive:    isFamiliar,
+                    activeColor: Color.lllbRingColors[1]
+                )
+            }
+            .buttonStyle(.plain)
+
+            archiveCell(
+                icon:  "clock",
+                label: L("稍后学", "Later", nativeLanguage: nl),
+                color: Color.lllbRingColors[2],
+                flashed: $laterFlashed
+            ) {
+                session.archiveCurrentSentence(as: .later)
+            }
+
+            archiveCell(
+                icon:  "checkmark.seal",
+                label: L("学会了", "Known", nativeLanguage: nl),
+                color: Color.lllbRingColors[3],
+                flashed: $knownFlashed
+            ) {
+                session.archiveCurrentSentence(as: .mastered)
+            }
+
+            Button { showProfile = true } label: {
+                actionCell(
+                    icon:        "person",
+                    label:       L("我", "Profile", nativeLanguage: nl),
+                    isActive:    false,
+                    activeColor: Color.lllbAccent
+                )
+            }
+            .buttonStyle(.plain)
+            .tutorialAnchor(.profileButton)
+        }
+        .padding(.horizontal, 12)
+    }
+
+    /// Combined Play/Pause + play-count cell. Top icon toggles playback;
+    /// bottom shows `▶ N` in the same 4-tier color logic as the original
+    /// floating playCountBadge (orange < 20, green < 50, blue < 100,
+    /// gold ≥ 100). When count == 0 the bottom is empty — matches the
+    /// pre-existing "hide badge at zero" rule.
+    @ViewBuilder
+    private func playCell(nl: String) -> some View {
+        let count = session.currentSentencePlayCount
+        Button {
+            Haptics.medium()
+            if session.isAutoPlaying { session.pause() } else { session.resume() }
+        } label: {
+            VStack(spacing: 3) {
+                Image(systemName: session.isAutoPlaying ? "pause.fill" : "play.fill")
+                    .font(.title3)
+                    .foregroundStyle(Color.lllbSecondaryText)
+                if count > 0 {
+                    HStack(spacing: 2) {
+                        Image(systemName: "play.fill")
+                            .font(.system(size: 9, weight: .semibold))
+                        Text("\(count)")
+                            .font(.caption2.monospacedDigit())
+                    }
+                    .foregroundStyle(Self.playCountTierColor(count))
+                    .lineLimit(1)
+                    .minimumScaleFactor(0.7)
+                } else {
+                    // Reserve label height so the cell doesn't jitter as
+                    // count flips from 0 → 1 mid-playback.
+                    Text(" ")
+                        .font(.caption2)
+                }
+            }
+            .frame(maxWidth: .infinity)
+            .padding(.vertical, 6)
+            .background(Color.clear)
+            .clipShape(RoundedRectangle(cornerRadius: 10))
+            .overlay(RoundedRectangle(cornerRadius: 10)
+                .stroke(Color.lllbCellStroke, lineWidth: 0.5))
+        }
+        .buttonStyle(.plain)
+        .accessibilityLabel(session.isAutoPlaying
+                            ? L("暂停", "Pause", nativeLanguage: nl)
+                            : L("播放", "Play",  nativeLanguage: nl))
+    }
+
+    /// Tier color for the play-count display — copied from the previous
+    /// playCountBadge so the visual language stays identical.
+    private static func playCountTierColor(_ n: Int) -> Color {
+        if n < 20  { return Color.lllbRingColors[0] }
+        if n < 50  { return Color.lllbRingColors[1] }
+        if n < 100 { return Color.lllbRingColors[2] }
+        return Color.lllbRingColors[3]
+    }
+
+    /// Generic toolbar cell with icon + label, equal-width via
+    /// `frame(maxWidth: .infinity)`. Used by Familiar and Profile.
+    private func actionCell(
+        icon:        String,
+        label:       String,
+        isActive:    Bool,
+        activeColor: Color
+    ) -> some View {
+        VStack(spacing: 3) {
+            Image(systemName: icon).font(.title3)
+            Text(label)
+                .font(.caption2)
+                .lineLimit(1)
+                .minimumScaleFactor(0.7)
+        }
+        .frame(maxWidth: .infinity)
+        .padding(.vertical, 6)
+        .foregroundStyle(isActive ? activeColor : Color.lllbSecondaryText)
+        .background(isActive ? activeColor.opacity(0.10) : Color.clear)
+        .clipShape(RoundedRectangle(cornerRadius: 10))
+        .overlay(
+            RoundedRectangle(cornerRadius: 10)
+                .stroke(isActive ? activeColor.opacity(0.30) : Color.lllbCellStroke, lineWidth: 0.5)
+        )
+    }
+
+    /// One-shot archive cell (Later, Known). No persistent active state —
+    /// instead briefly flashes brand color on tap so the user gets visual
+    /// feedback before the sentence advances.
+    private func archiveCell(
+        icon:    String,
+        label:   String,
+        color:   Color,
+        flashed: Binding<Bool>,
+        action:  @escaping () -> Void
+    ) -> some View {
+        Button {
+            Haptics.success()
+            flashed.wrappedValue = true
+            DispatchQueue.main.asyncAfter(deadline: .now() + Self.archiveFlashSeconds) {
+                flashed.wrappedValue = false
+            }
+            action()
+        } label: {
+            actionCell(icon: icon, label: label,
+                       isActive: flashed.wrappedValue, activeColor: color)
+        }
+        .buttonStyle(.plain)
     }
 
     // MARK: - Speed sheet
@@ -765,19 +1113,10 @@ struct ContentView: View {
             }
             .buttonStyle(.plain)
 
-            // Play / Pause
-            Button {
-                Haptics.medium()
-                if session.isAutoPlaying { session.pause() } else { session.resume() }
-            } label: {
-                controlCell(
-                    icon:  session.isAutoPlaying ? "pause.fill" : "play.fill",
-                    label: session.isAutoPlaying
-                        ? L("暂停", "Pause", nativeLanguage: nl)
-                        : L("播放", "Play",  nativeLanguage: nl)
-                )
-            }
-            .buttonStyle(.plain)
+            // Play/Pause moved to the bottom action toolbar so playback
+            // control sits at thumb height alongside the per-sentence
+            // judgment buttons. Leftcolumn is now {PlayMode, Library,
+            // Speed, Repeats} — 4 cells.
         }
     }
 
@@ -815,44 +1154,9 @@ struct ContentView: View {
                     .allowsHitTesting(canRender)
             }
 
-            let isFav      = session.favoritedIDs.contains(session.currentSentence.id)
-            let isFamiliar = session.familiarIDs.contains(session.currentSentence.id)
-
-            LikeButton(
-                isFav: isFav,
-                label: L("喜欢", "Like", nativeLanguage: nl),
-                onTap: {
-                    Haptics.success()
-                    session.toggleFavorite(for: session.currentSentence.id)
-                }
-            )
-
-            Button { Haptics.success(); session.toggleFamiliar() } label: {
-                controlCell(
-                    icon:        isFamiliar ? "checkmark.circle.fill" : "checkmark.circle",
-                    label:       L("熟悉", "Familiar", nativeLanguage: nl),
-                    showLabel:   true,
-                    isActive:    isFamiliar,
-                    activeColor: .green
-                )
-            }
-            .buttonStyle(.plain)
-
-            Button {
-                Haptics.success()
-                session.archiveCurrentSentence(as: .mastered)
-            } label: {
-                controlCell(icon: "checkmark.seal", label: L("学会了", "Known", nativeLanguage: nl), showLabel: true)
-            }
-            .buttonStyle(.plain)
-
-            Button {
-                Haptics.success()
-                session.archiveCurrentSentence(as: .later)
-            } label: {
-                controlCell(icon: "clock", label: L("稍后学", "Later", nativeLanguage: nl), showLabel: true)
-            }
-            .buttonStyle(.plain)
+            // Per-sentence action buttons (Like/Familiar/Known/Later)
+            // moved out of this column into a bottom-row cluster — see
+            // `actionRow` overlay. Right column is now display-toggles only.
         }
     }
 
@@ -1398,6 +1702,10 @@ private struct LikeButton: View {
     @State private var ringScale:  CGFloat = 0.6
     @State private var ringOpacity: Double = 0
 
+    /// Brand orange — first of the four ring colors. Replaces the previous
+    /// red so Like sits in the same color language as Familiar/Later/Known.
+    private static let likeColor: Color = Color.lllbRingColors[0]
+
     var body: some View {
         Button {
             let willFav = !isFav
@@ -1410,21 +1718,24 @@ private struct LikeButton: View {
                     .scaleEffect(heartScale)
                     .overlay(
                         Circle()
-                            .stroke(Color.red.opacity(ringOpacity), lineWidth: 2)
+                            .stroke(Self.likeColor.opacity(ringOpacity), lineWidth: 2)
                             .frame(width: 28, height: 28)
                             .scaleEffect(ringScale)
                             .allowsHitTesting(false)
                     )
-                Text(label).font(.caption2)
+                Text(label)
+                    .font(.caption2)
+                    .lineLimit(1)
+                    .minimumScaleFactor(0.7)
             }
             .frame(maxWidth: .infinity)
             .padding(.vertical, 6)
-            .foregroundStyle(isFav ? Color.red : Color.lllbSecondaryText)
-            .background(isFav ? Color.red.opacity(0.10) : Color.clear)
+            .foregroundStyle(isFav ? Self.likeColor : Color.lllbSecondaryText)
+            .background(isFav ? Self.likeColor.opacity(0.10) : Color.clear)
             .clipShape(RoundedRectangle(cornerRadius: 10))
             .overlay(
                 RoundedRectangle(cornerRadius: 10)
-                    .stroke(isFav ? Color.red.opacity(0.30) : Color.lllbCellStroke, lineWidth: 0.5)
+                    .stroke(isFav ? Self.likeColor.opacity(0.30) : Color.lllbCellStroke, lineWidth: 0.5)
             )
         }
         .buttonStyle(.plain)
