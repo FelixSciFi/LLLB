@@ -17,37 +17,35 @@ struct TokenFlowLayout: Layout {
 
     func placeSubviews(in bounds: CGRect, proposal: ProposedViewSize, subviews: Subviews, cache: inout ()) {
         let rows = arrange(bounds.width, subviews: subviews)
-        if trailingAligned {
-            var rowGroups: [[Int]] = []
-            var currentY: CGFloat = -1
-            for (i, p) in rows.enumerated() {
-                guard i < subviews.count else { continue }
-                if p.y != currentY {
-                    rowGroups.append([i])
-                    currentY = p.y
-                } else {
-                    rowGroups[rowGroups.count - 1].append(i)
-                }
+        // Group items by row so we can compute each row's natural width
+        // and pick a per-row x-offset (trailing or centering). Single rows
+        // that already fill the bounds get offset 0 either way.
+        var rowGroups: [[Int]] = []
+        var currentY: CGFloat = -1
+        for (i, p) in rows.enumerated() {
+            guard i < subviews.count else { continue }
+            if p.y != currentY {
+                rowGroups.append([i])
+                currentY = p.y
+            } else {
+                rowGroups[rowGroups.count - 1].append(i)
             }
-            for group in rowGroups {
-                let rowWidth = group.reduce(CGFloat(0)) { acc, i in
-                    acc + rows[i].size.width + (acc > 0 ? spacing : 0)
-                }
-                var xOffset = bounds.width - rowWidth
-                for i in group {
-                    let p = rows[i]
-                    subviews[i].place(
-                        at: CGPoint(x: bounds.minX + xOffset, y: bounds.minY + p.y),
-                        proposal: ProposedViewSize(p.size)
-                    )
-                    xOffset += p.size.width + spacing
-                }
+        }
+        for group in rowGroups {
+            let rowWidth = group.reduce(CGFloat(0)) { acc, i in
+                acc + rows[i].size.width + (acc > 0 ? spacing : 0)
             }
-        } else {
-            for (i, sub) in subviews.enumerated() {
-                guard i < rows.count else { continue }
+            let leadingOffset: CGFloat = trailingAligned
+                ? bounds.width - rowWidth
+                : max(0, (bounds.width - rowWidth) / 2)
+            var xOffset = leadingOffset
+            for i in group {
                 let p = rows[i]
-                sub.place(at: CGPoint(x: bounds.minX + p.x, y: bounds.minY + p.y), proposal: ProposedViewSize(p.size))
+                subviews[i].place(
+                    at: CGPoint(x: bounds.minX + xOffset, y: bounds.minY + p.y),
+                    proposal: ProposedViewSize(p.size)
+                )
+                xOffset += p.size.width + spacing
             }
         }
     }
