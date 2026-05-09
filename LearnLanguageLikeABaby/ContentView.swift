@@ -160,7 +160,7 @@ struct ContentView: View {
                 // archived — letting users "re-pick up" a known sentence from focus mode.
                 // Bottom-right corner, 56pt wide to match rightColumn cells and sit
                 // in the empty band beneath them (avoids covering Like/Familiar/etc.).
-                if session.focusedLemma != nil
+                if (session.focusedLemma != nil || session.activatedTag != nil || session.isFavoriteMode)
                     && !session.pool.contains(session.currentSentence.id) {
                     VStack {
                         Spacer()
