@@ -106,11 +106,13 @@ struct ProgressRing: View {
             }
         }
         .frame(width: diameter, height: diameter)
-        // SwiftUI's implicit `repeatForever` shadow breathing (line 80) does not
-        // reliably stop when isAchieved flips back via `.animation(nil, ...)`.
-        // Rebuilding the view on the boundary kills any in-flight animation.
-        .id(isAchieved)
+        // .onAppear must sit inside the .id() boundary so it re-fires on each
+        // rebuild — otherwise breathing only kicks in for milestones already
+        // pending at app launch, never for ones reached during the session.
+        // .id(isAchieved) still rebuilds the view on flip to kill any in-flight
+        // repeatForever animation when collecting.
         .onAppear { if isAchieved { pulse = true } }
+        .id(isAchieved)
     }
 }
 
