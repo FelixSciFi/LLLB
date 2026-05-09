@@ -372,7 +372,11 @@ struct ContentView: View {
                 DragGesture(minimumDistance: 40)
                     .onEnded { value in
                         let screenH = UIScreen.main.bounds.height
-                        guard value.startLocation.y < screenH - 80 else { return }
+                        // Bottom dead-zone has to clear the iOS home-gesture
+                        // grab area + a bit above it — users start their
+                        // swipe-up-to-close anywhere in the bottom ~120pt,
+                        // not just the 34pt home-indicator strip.
+                        guard value.startLocation.y < screenH - 120 else { return }
                         let dy = value.translation.height
                         if dy < -60      { session.goNextSentence() }
                         else if dy > 60  { session.goPreviousSentence() }
