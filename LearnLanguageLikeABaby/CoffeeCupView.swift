@@ -1,135 +1,193 @@
 import SwiftUI
 
-/// Tall tapered "to-go cup" with a flat lid and small tick marks inside.
-/// Liquid level shows remaining minutes. Premium users see a full cup with
-/// an ♾️ overlay.
+/// To-go coffee cup with continuous fill animation. Cream cup body with
+/// rounded base, accent lid on top, coffee fills bottom-up by `progress`.
+/// Below 25% the lid + coffee shift to a warning orange; functionally
+/// empty (< 5%) shows a "sad straw" indicator. Premium users see a full
+/// brown cup with an infinity-wave overlay.
+///
+/// All sub-shapes are drawn in a 24×24 viewBox matching `design/coffee-*.svg`.
 struct CoffeeCupView: View {
     /// 0…1 fill level (0 = empty, 1 = full).
     let progress: Double
-    /// True for subscribers — cup is locked full and infinity glyph appears.
+    /// True for subscribers — cup is locked full and infinity wave appears.
     let isPremium: Bool
     /// Total height of the cup glyph (lid + body) in points.
     var size: CGFloat = 24
 
-    /// Visible fill ratio — premium overrides the real cup level so the cup
-    /// reads as full whenever the user has unlimited time.
+    /// Visible fill ratio — premium overrides the real cup level so the
+    /// cup reads as full whenever the user has unlimited time.
     private var displayProgress: Double { isPremium ? 1 : progress }
 
-    /// Color tier for the coffee — shifts amber → red as it drains.
-    private var fillColor: Color {
-        if isPremium { return Self.coffeeBrown }
-        switch progress {
-        case ..<0.10: return Self.warningRed
-        case ..<0.25: return Self.amber
-        default:      return Self.coffeeBrown
-        }
-    }
+    /// Below 25% of capacity → accent + coffee shift to orange. Premium
+    /// always reads as full + brown.
+    private var isLow:   Bool { !isPremium && progress < 0.25 }
+    /// Functionally drained — show the empty-state straw instead of a
+    /// hairline of coffee. Slightly above strict 0 to absorb fractional
+    /// minute math hovering around zero.
+    private var isEmpty: Bool { !isPremium && progress < 0.05 }
 
-    private var emptyColor: Color { Color.secondary.opacity(0.10) }
-    private var outline:   Color { Color.primary.opacity(0.75) }
-    private var lidFill:   Color { Color(white: 0.92) }
-
-    private var bodyHeight: CGFloat { size * 0.84 }
-    private var lidHeight:  CGFloat { size * 0.14 }
-    private var cupWidth:   CGFloat { size * 0.62 }
-    private var lidWidth:   CGFloat { cupWidth * 1.10 }
+    private var accent: Color { isLow ? Self.warningOrange : Self.coffeeBrown }
 
     var body: some View {
-        VStack(spacing: 0) {
-            // Lid — slightly wider than cup top to overhang a bit.
-            UnevenRoundedRectangle(
-                cornerRadii: .init(topLeading: 3, bottomLeading: 1, bottomTrailing: 1, topTrailing: 3),
-                style: .continuous
-            )
-            .fill(lidFill)
-            .overlay(
-                UnevenRoundedRectangle(
-                    cornerRadii: .init(topLeading: 3, bottomLeading: 1, bottomTrailing: 1, topTrailing: 3),
-                    style: .continuous
-                )
-                .stroke(outline, lineWidth: 0.9)
-            )
-            .frame(width: lidWidth, height: lidHeight)
+        let s = size / 24.0
+        ZStack {
+            // 1. Cup body — cream fill
+            CupBodyShape().fill(Self.cream)
 
-            // Cup body
-            ZStack {
-                // Empty tint
-                CupBodyShape().fill(emptyColor)
+            // 2. Coffee fill — accent color, masked to bottom progress portion
+            CupBodyShape()
+                .fill(accent)
+                .mask(CupFillMaskShape(progress: displayProgress))
 
-                // Coffee fill (clipped to bottom-up portion)
-                CupBodyShape()
-                    .fill(fillColor)
-                    .mask(alignment: .bottom) {
-                        Rectangle().frame(height: bodyHeight * displayProgress)
-                    }
-
-                // Tick marks at 1/3 and 2/3 — visible "measuring cup" feel
-                if !isPremium {
-                    tickMarks
-                }
-
-                // Outline
-                CupBodyShape().stroke(outline, lineWidth: 0.9)
-
-                if isPremium {
-                    Image(systemName: "infinity")
-                        .font(.system(size: bodyHeight * 0.40, weight: .heavy))
-                        .foregroundStyle(.white)
-                }
+            // 3. Pro infinity wave (over coffee, only when premium)
+            if isPremium {
+                ProInfinityWaveShape()
+                    .stroke(
+                        Self.cream,
+                        style: StrokeStyle(lineWidth: 1.3 * s,
+                                           lineCap: .round, lineJoin: .round)
+                    )
             }
-            .frame(width: cupWidth, height: bodyHeight)
+
+            // 4. Empty-state sad straw — vertical stick + dot at bottom
+            if isEmpty {
+                EmptyStrawShape()
+                    .stroke(
+                        Self.warningOrange,
+                        style: StrokeStyle(lineWidth: 1.4 * s, lineCap: .round)
+                    )
+                EmptyStrawDot().fill(Self.warningOrange)
+            }
+
+            // 5. Cup body outline (drawn after fills so stroke sits on top)
+            CupBodyShape()
+                .stroke(accent, style: StrokeStyle(lineWidth: 1.2 * s, lineJoin: .round))
+
+            // 6. Lid (above cup) — accent rounded rect with cream slot
+            LidShape().fill(accent)
+            LidSlotShape().fill(Self.cream)
         }
-        .frame(width: lidWidth, height: size)
+        .frame(width: size, height: size)
         .accessibilityElement(children: .ignore)
         .accessibilityLabel(isPremium ? "Unlimited playback time" : "Playback time remaining")
     }
 
-    @ViewBuilder
-    private var tickMarks: some View {
-        // Two short interior tick marks (1/3, 2/3 from top) on the right side.
-        // Subtle: short width, low opacity — reads as cup measurement notches.
-        let tickColor = outline.opacity(0.55)
-        GeometryReader { geo in
-            let w = geo.size.width
-            let h = geo.size.height
-            let tickW = w * 0.22
-            Path { p in
-                for frac in [1.0/3.0, 2.0/3.0] {
-                    let y = h * frac
-                    p.move(to: CGPoint(x: w - tickW - w * 0.10, y: y))
-                    p.addLine(to: CGPoint(x: w - w * 0.10, y: y))
-                }
-            }
-            .stroke(tickColor, style: StrokeStyle(lineWidth: 0.7, lineCap: .round))
-        }
-    }
-
-    // MARK: - Palette (intentionally NOT brand color — must read as coffee)
-    private static let coffeeBrown = Color(red: 0x7B/255.0, green: 0x4F/255.0, blue: 0x32/255.0)
-    private static let amber       = Color(red: 0xD4/255.0, green: 0xA0/255.0, blue: 0x4A/255.0)
-    private static let warningRed  = Color(red: 0xD9/255.0, green: 0x4A/255.0, blue: 0x35/255.0)
+    // MARK: - Palette (NOT brand color — must read as coffee)
+    private static let coffeeBrown   = Color(red: 0x9B/255.0, green: 0x6B/255.0, blue: 0x2F/255.0)
+    private static let warningOrange = Color(red: 0xF2/255.0, green: 0x76/255.0, blue: 0x40/255.0)
+    private static let cream         = Color(red: 0xFD/255.0, green: 0xF6/255.0, blue: 0xE8/255.0)
 }
 
-/// Trapezoidal cup body — slightly narrower at the bottom (Starbucks-tall feel).
-private struct CupBodyShape: Shape {
-    /// Bottom width as fraction of top width.
-    var taper: CGFloat = 0.82
+// MARK: - Sub-shapes (24×24 viewBox coords matching design/coffee-*.svg)
 
+private struct CupBodyShape: Shape {
     func path(in rect: CGRect) -> Path {
-        var p = Path()
-        let bottomInset = rect.width * (1 - taper) / 2
-        let topLeft     = CGPoint(x: rect.minX,                y: rect.minY)
-        let topRight    = CGPoint(x: rect.maxX,                y: rect.minY)
-        let bottomRight = CGPoint(x: rect.maxX - bottomInset,  y: rect.maxY)
-        let bottomLeft  = CGPoint(x: rect.minX + bottomInset,  y: rect.maxY)
-        p.move(to: topLeft)
-        p.addLine(to: topRight)
-        p.addLine(to: bottomRight)
-        // Subtle curve at bottom for "rounded base" feel
-        p.addQuadCurve(to: bottomLeft,
-                       control: CGPoint(x: rect.midX, y: rect.maxY + rect.height * 0.04))
+        var p  = Path()
+        let s  = min(rect.width, rect.height) / 24.0
+        let dx = (rect.width  - 24 * s) / 2
+        let dy = (rect.height - 24 * s) / 2
+        func pt(_ x: CGFloat, _ y: CGFloat) -> CGPoint {
+            CGPoint(x: dx + x * s, y: dy + y * s)
+        }
+        p.move(to: pt(6.4, 7.8))
+        p.addLine(to: pt(17.6, 7.8))
+        p.addLine(to: pt(16.4, 19.5))
+        p.addQuadCurve(to: pt(14.7, 21), control: pt(16.2, 21))
+        p.addLine(to: pt(9.3, 21))
+        p.addQuadCurve(to: pt(7.6, 19.5), control: pt(7.8, 21))
         p.closeSubpath()
         return p
+    }
+}
+
+/// Mask = a horizontal stripe from `fillTop` to the cup floor (y=21).
+/// Intersected with `CupBodyShape()` it yields the bottom-up coffee
+/// portion. `animatableData` lets SwiftUI interpolate fill height.
+private struct CupFillMaskShape: Shape {
+    var progress: Double
+
+    var animatableData: Double {
+        get { progress }
+        set { progress = newValue }
+    }
+
+    func path(in rect: CGRect) -> Path {
+        let s   = min(rect.width, rect.height) / 24.0
+        let dy  = (rect.height - 24 * s) / 2
+        // Cup interior y range in viewBox: top=7.8 → bottom=21 (height 13.2).
+        let topY:    CGFloat = 7.8
+        let bottomY: CGFloat = 21.0
+        let fillTopY = bottomY - (bottomY - topY) * CGFloat(progress)
+        let r = CGRect(
+            x: 0,
+            y: dy + fillTopY * s,
+            width: rect.width,
+            height: rect.height - (dy + fillTopY * s)
+        )
+        return Path(r)
+    }
+}
+
+private struct LidShape: Shape {
+    func path(in rect: CGRect) -> Path {
+        let s  = min(rect.width, rect.height) / 24.0
+        let dx = (rect.width  - 24 * s) / 2
+        let dy = (rect.height - 24 * s) / 2
+        let r = CGRect(x: dx + 5.5 * s, y: dy + 5 * s, width: 13 * s, height: 2.8 * s)
+        return Path(roundedRect: r, cornerRadius: 0.6 * s)
+    }
+}
+
+private struct LidSlotShape: Shape {
+    func path(in rect: CGRect) -> Path {
+        let s  = min(rect.width, rect.height) / 24.0
+        let dx = (rect.width  - 24 * s) / 2
+        let dy = (rect.height - 24 * s) / 2
+        let r = CGRect(x: dx + 9 * s, y: dy + 5.4 * s, width: 6 * s, height: 0.6 * s)
+        return Path(roundedRect: r, cornerRadius: 0.3 * s)
+    }
+}
+
+private struct ProInfinityWaveShape: Shape {
+    func path(in rect: CGRect) -> Path {
+        var p  = Path()
+        let s  = min(rect.width, rect.height) / 24.0
+        let dx = (rect.width  - 24 * s) / 2
+        let dy = (rect.height - 24 * s) / 2
+        func pt(_ x: CGFloat, _ y: CGFloat) -> CGPoint {
+            CGPoint(x: dx + x * s, y: dy + y * s)
+        }
+        p.move(to: pt(9, 14.5))
+        p.addCurve(to: pt(12, 14.5), control1: pt(9, 13),    control2: pt(10.5, 13))
+        p.addCurve(to: pt(15, 14.5), control1: pt(13.5, 16), control2: pt(15, 16))
+        p.addCurve(to: pt(12, 14.5), control1: pt(15, 13),   control2: pt(13.5, 13))
+        p.addCurve(to: pt(9, 14.5),  control1: pt(10.5, 16), control2: pt(9, 16))
+        p.closeSubpath()
+        return p
+    }
+}
+
+private struct EmptyStrawShape: Shape {
+    func path(in rect: CGRect) -> Path {
+        var p  = Path()
+        let s  = min(rect.width, rect.height) / 24.0
+        let dx = (rect.width  - 24 * s) / 2
+        let dy = (rect.height - 24 * s) / 2
+        p.move(to: CGPoint(x: dx + 12 * s, y: dy + 11 * s))
+        p.addLine(to: CGPoint(x: dx + 12 * s, y: dy + 16 * s))
+        return p
+    }
+}
+
+private struct EmptyStrawDot: Shape {
+    func path(in rect: CGRect) -> Path {
+        let s  = min(rect.width, rect.height) / 24.0
+        let dx = (rect.width  - 24 * s) / 2
+        let dy = (rect.height - 24 * s) / 2
+        // Circle r=0.7 centered at (12, 18)
+        let r = CGRect(x: dx + 11.3 * s, y: dy + 17.3 * s, width: 1.4 * s, height: 1.4 * s)
+        return Path(ellipseIn: r)
     }
 }
 
