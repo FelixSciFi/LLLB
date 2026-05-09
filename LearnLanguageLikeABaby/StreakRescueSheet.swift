@@ -8,6 +8,7 @@ struct StreakRescueSheet: View {
     @ObservedObject var rescueStore:   StreakRescueStore
     @ObservedObject var usageTracker:  UsageTimeTracker
     var candyStore:    CandyStore
+    var shareTriggerStore: ShareTriggerStore
     var nativeLanguage: String
     /// Called when the user picks "Share my streak" from the no-window screen.
     /// Caller is responsible for dismissing this sheet (we already dismiss
@@ -141,22 +142,29 @@ struct StreakRescueSheet: View {
             if usageTracker.streakDays > 0 {
                 Text(L("已连续学习 \(usageTracker.streakDays) 天", "\(usageTracker.streakDays)-day streak going"))
                     .font(.title3.weight(.semibold))
-                Text(L("继续保持!错过一天可用 🍬 补救。",
-                       "Keep it up! If you miss a day, you can rescue with 🍬."))
+                Text(L("继续保持!", "Keep it up!"))
                     .font(.subheadline)
                     .foregroundStyle(.secondary)
                     .multilineTextAlignment(.center)
+                    .fixedSize(horizontal: false, vertical: true)
 
                 Button {
                     Haptics.light()
                     dismiss()
                     onRequestShare()
                 } label: {
-                    Label(
-                        L("分享我的连胜", "Share my streak"),
-                        systemImage: "square.and.arrow.up"
-                    )
-                    .font(.headline)
+                    HStack(spacing: 8) {
+                        Image(systemName: "square.and.arrow.up")
+                        Text(L("分享我的连胜", "Share my streak"))
+                            .font(.headline)
+                        if shareTriggerStore.canRewardNow() {
+                            Text("+\(ShareTriggerStore.rewardPerShare) 🍬")
+                                .font(.caption.weight(.semibold))
+                                .padding(.horizontal, 7)
+                                .padding(.vertical, 3)
+                                .background(Color.white.opacity(0.22), in: Capsule())
+                        }
+                    }
                     .frame(maxWidth: .infinity)
                     .padding(.vertical, 14)
                     .background(Color.lllbAccent, in: RoundedRectangle(cornerRadius: 14))
@@ -172,10 +180,6 @@ struct StreakRescueSheet: View {
                     .foregroundStyle(.secondary)
                     .multilineTextAlignment(.center)
             }
-            Text(L("本月可补救 \(rescueStore.monthlyRemaining) 次",
-                   "\(rescueStore.monthlyRemaining) rescue\(rescueStore.monthlyRemaining == 1 ? "" : "s") available this month"))
-                .font(.caption)
-                .foregroundStyle(.secondary)
             Button(L("关闭", "Close")) { dismiss() }
                 .font(.headline)
                 .padding(.top, 4)

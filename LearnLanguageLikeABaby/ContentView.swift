@@ -429,10 +429,11 @@ struct ContentView: View {
         .sheet(isPresented: $showRepeatsPopover) { repeatsSheet }
         .sheet(isPresented: $showRescueSheet) {
             StreakRescueSheet(
-                rescueStore:    streakRescueStore,
-                usageTracker:   usageTracker,
-                candyStore:     candyStore,
-                nativeLanguage: candyStore.nativeLanguage,
+                rescueStore:       streakRescueStore,
+                usageTracker:      usageTracker,
+                candyStore:        candyStore,
+                shareTriggerStore: shareTriggerStore,
+                nativeLanguage:    candyStore.nativeLanguage,
                 onRequestShare: {
                     // RescueSheet has already dismissed itself. Wait briefly
                     // so SwiftUI finishes closing it before we present the

@@ -14,7 +14,6 @@ struct ProfileView: View {
     /// the walkthrough (RootView re-arms by clearing tutorialCompleted_v1).
     var onReplayTutorial: () -> Void = {}
 
-    @State private var showStreakShareSheet: Bool = false
 
     var body: some View {
         let candyStore = appModel.candyStore
@@ -33,32 +32,6 @@ struct ProfileView: View {
                         nativeLanguage:      nl,
                         onOpenSubscribe:     onOpenSubscribe
                     )
-                    Button {
-                        Haptics.light()
-                        showStreakShareSheet = true
-                    } label: {
-                        HStack(spacing: 12) {
-                            Image(systemName: "square.and.arrow.up")
-                                .font(.system(size: 16, weight: .semibold))
-                                .foregroundStyle(Color.lllbAccent)
-                                .frame(width: 24)
-                            VStack(alignment: .leading, spacing: 2) {
-                                Text(L("分享我的连续学习", "Share my streak", nativeLanguage: nl))
-                                    .font(.system(size: 16, weight: .semibold))
-                                    .foregroundStyle(Color.primary)
-                                Text(L("🔥 \(appModel.usageTimeTracker.streakDays) 天 · 完成分享得 \(ShareTriggerStore.rewardPerShare) 🍬",
-                                       "🔥 \(appModel.usageTimeTracker.streakDays) days · earn \(ShareTriggerStore.rewardPerShare) 🍬",
-                                       nativeLanguage: nl))
-                                    .font(.caption)
-                                    .foregroundStyle(Color.secondary)
-                            }
-                            Spacer()
-                            Image(systemName: "chevron.right")
-                                .font(.system(size: 13, weight: .semibold))
-                                .foregroundStyle(Color.secondary)
-                        }
-                    }
-                    .buttonStyle(.plain)
                 }
 
                 // Stats moved to the 2×2 rings overlay (tap rings on home screen).
@@ -259,20 +232,6 @@ struct ProfileView: View {
             .navigationBarTitleDisplayMode(.inline)
         }
         .tint(Color.lllbAccent)
-        .sheet(isPresented: $showStreakShareSheet) {
-            // Manual share entry: trigger=nil so we don't accidentally
-            // mark a milestone as seen on dismiss.
-            StreakShareSheet(
-                trigger:           nil,
-                triggerStore:      appModel.shareTriggerStore,
-                candyStore:        appModel.candyStore,
-                streakDays:        appModel.usageTimeTracker.streakDays,
-                learningLanguage:  appModel.activeSession.config,
-                totalHours:        (appModel.usageTimeTracker.allTimeMinutes
-                                    + appModel.usageTimeTracker.allTimeBgMinutes / 3) / 60,
-                nativeLanguage:    appModel.candyStore.nativeLanguage
-            )
-        }
     }
 }
 
@@ -555,8 +514,8 @@ private struct MyAssetsView: View {
         let items = filtered(pool)
         List {
             Section(footer: Text(L(
-                "推荐同时在播句子保持在 20–50 句之间，数量太少重复率高，太多则每句复习频率降低。",
-                "For best results, keep 20–50 sentences in the pool. Too few causes repetition; too many reduces review frequency.",
+                "推荐同时在播句子保持在 100–150 句之间，数量太少重复率高，太多则每句复习频率降低。",
+                "For best results, keep 100–150 sentences in the pool. Too few causes repetition; too many reduces review frequency.",
                 nativeLanguage: nl)).font(.caption2)
             ) {
                 HStack {
