@@ -1,9 +1,15 @@
 {
+  "_deprecated": true,
+  "_deprecated_since": "2026-05-10",
+  "_deprecated_note": "DEPRECATED. This word table is a legacy artifact from an earlier curriculum design and is NOT the source of truth for lemma coverage. The real wordlist comes from an external public/open lexicon maintained outside this repo. Do not use this file as input for any new lemma-coverage audit, corpus supplementation, or curriculum design. The runtime still loads it for the legacy '词商城' (word shop) code path via SentenceLibrary.loadWordTable / AppModel.wordTables — that entry point is hidden in the UI (paused 2026-05-03). Treat the data as frozen; do not extend it.",
   "words": [
     {
       "rank": 1,
       "lemma": "苹果",
-      "translation": {"zh": "苹果", "en": "apple"},
+      "translation": {
+        "zh": "苹果",
+        "en": "apple"
+      },
       "emoji": "🍎",
       "cefr": "HSK1",
       "ipa": "píng guǒ"
