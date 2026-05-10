@@ -121,8 +121,9 @@ struct ContentView: View {
                             .padding(.horizontal, 12)
                             .tutorialAnchor(.sentenceArea)
                             // Reserved for the bottom cluster: action row at
-                            // ~90pt, tag chips at ~150pt, plus padding.
-                            Spacer(minLength: 200)
+                            // 32pt, exit pill / add-to-pool at 115pt, tag
+                            // chips at 100pt (normal) or 200pt (focus mode).
+                            Spacer(minLength: 240)
                         }
                         .frame(maxWidth: .infinity)
 
@@ -138,7 +139,10 @@ struct ContentView: View {
                         Spacer()
                         exitPillButton
                             .padding(.horizontal, 16)
-                            .padding(.bottom, 90)
+                            // 115pt clears the bottom toolbar (top at ~83pt
+                            // for a 51pt-tall cell) with a 32pt visual gap
+                            // — 90pt left only 7pt and read as overlapping.
+                            .padding(.bottom, 115)
                     }
                 }
 
@@ -176,14 +180,28 @@ struct ContentView: View {
                             }
                             .buttonStyle(.plain)
                             .padding(.trailing, 20)
-                            .padding(.bottom, 90)
+                            // Same 115pt as the exit pill so neither overlaps
+                            // the bottom toolbar.
+                            .padding(.bottom, 115)
                         }
                     }
                 }
 
                 // ── Tag chips (bottom-center) ─────────────────────────────────
+                // In focus mode the exit pill (~59pt tall) sits at 90pt and
+                // would otherwise butt right up against the chips at 150pt
+                // (~1pt gap). Push the chips well above the pill in that
+                // case; in normal mode the chips can sit close to the
+                // toolbar instead of floating mid-screen.
                 let currentTags = session.currentSentence.tags
                 if !currentTags.isEmpty {
+                    let inFocusMode = session.focusedLemma != nil
+                                      || session.isFavoriteMode
+                                      || session.activatedTag != nil
+                    // Focus mode: chips just above the 115pt exit pill
+                    // (~174pt top) — small gap so they read as one cluster.
+                    // Normal mode: chips just above the toolbar (~83pt top).
+                    let chipBottomPadding: CGFloat = inFocusMode ? 185 : 100
                     VStack {
                         Spacer()
                         HStack(spacing: 6) {
@@ -191,9 +209,7 @@ struct ContentView: View {
                                 tagChip(tag)
                             }
                         }
-                        // Tag chips above the action row (32pt) and the
-                        // secondary cluster (Profile/exit/playcount at 90pt).
-                        .padding(.bottom, 150)
+                        .padding(.bottom, chipBottomPadding)
                     }
                 }
 

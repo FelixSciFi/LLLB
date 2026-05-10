@@ -520,9 +520,27 @@ final class LessonSessionModel: ObservableObject, Identifiable {
         isAutoPlaying = true
         narration.rateMultiplier = speedMultiplier
         chineseNarration.rateMultiplier = speedMultiplier
-        try? AVAudioSession.sharedInstance().setActive(true)
+        // setActive(true) is a synchronous, potentially blocking call —
+        // when another app (TikTok / 小红书) still owns the audio session
+        // it can hang the main thread for seconds or indefinitely. Fire
+        // it off-thread; AVSpeechSynthesizer.speak() below will activate
+        // the session itself if it's not yet active.
+        Task.detached(priority: .userInitiated) {
+            try? AVAudioSession.sharedInstance().setActive(true)
+        }
         speakCurrentSentence()
         bumpLiveActivity()
+    }
+
+    /// Called when scenePhase flips to `.active` — covers the case where a
+    /// long interruption (other app grabbed audio + extended backgrounding)
+    /// never delivered an `interruption.ended` notification, leaving us
+    /// paused with `wasAutoPlaying == true`. Auto-resumes so the user
+    /// doesn't have to manually tap play.
+    func resumeIfWasInterrupted() {
+        guard wasAutoPlaying, !isAutoPlaying else { return }
+        wasAutoPlaying = false
+        resume()
     }
 
     // MARK: - Silence background player

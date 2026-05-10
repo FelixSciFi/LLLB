@@ -329,6 +329,11 @@ struct RootView: View {
             switch phase {
             case .active:
                 if #available(iOS 16.2, *) { LiveActivityManager.shared.end() }
+                // Recover from "interruption.ended notification never
+                // arrived" — common after long backgrounding while another
+                // app held audio focus. If we paused due to interruption
+                // and were never told to resume, do it now.
+                appModel.activeSession.resumeIfWasInterrupted()
             case .background:
                 if #available(iOS 16.2, *), appModel.activeSession.isAutoPlaying {
                     LiveActivityManager.shared.start(state: appModel.activeSession.liveActivityState())

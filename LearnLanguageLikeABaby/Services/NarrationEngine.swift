@@ -265,7 +265,14 @@ final class NarrationEngine: NSObject, ObservableObject, AVSpeechSynthesizerDele
             let opts = info[AVAudioSessionInterruptionOptionKey] as? UInt ?? 0
             let shouldResume = AVAudioSession.InterruptionOptions(rawValue: opts).contains(.shouldResume)
             guard shouldResume else { break }
-            try? AVAudioSession.sharedInstance().setActive(true)
+            // Off-main: setActive can block when the prior interruption
+            // source (e.g. TikTok / 小红书) still owns the audio session.
+            // The observer queue is .main so a blocking call here freezes
+            // the entire UI; defer it. Subsequent speech will reactivate
+            // as needed.
+            Task.detached(priority: .userInitiated) {
+                try? AVAudioSession.sharedInstance().setActive(true)
+            }
             onInterruptionEnded?()
         @unknown default:
             break
